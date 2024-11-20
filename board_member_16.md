@@ -19,7 +19,7 @@
 | 2024-07-30 | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
 | 2024-07-30 | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
 | 2024-07-30 | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| 2024-07-30 | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached ... |
+| 2024-07-30 | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached ...[truncated in public version] |
 | 2024-06-26 | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
 | 2024-05-28 | voted yes on motion to receive the monitoring report for results policy 3 (r-3) civic engagement | Action (Consent): 10.03 Receive the Monitoring Report for Results Policy 3 (R-3) Civic Engagement |
 | 2024-05-28 | voted yes on motion to receive revised policy 2418 waiver of high school graduation credits | Action (Consent): 10.06 Receive Revised Policy 2418 Waiver of High School Graduation Credits |
@@ -29,7 +29,7 @@
 | 2024-05-28 | voted yes on motion to adopt revised policy 3424 opioid related overdose reversal | Action (Consent): 10.04 Adopt Revised Policy 3424 Opioid Related Overdose Reversal |
 | 2024-03-26 | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
 | 2024-03-26 | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
-| 2024-03-26 | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition o... |
+| 2024-03-26 | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition o...[truncated in public version] |
 | 2024-03-26 | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
 | 2024-03-26 | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
 | 2024-02-27 | voted yes | Motion to adjourn the meeting at 9:43pm |

@@ -2,67 +2,61 @@
 
 ## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors met on October 12, 2024, to discuss various topics related to district operations and strategic planning.  The meeting focused on reviewing the district's strategic priorities and key performance indicators, with a particular emphasis on multilingual language proficiency growth. Additionally, the board engaged in discussions regarding board development and effective governance practices. Superintendent David VanderYacht provided an update on the long-range capital facilities plan from June 2023, including information on impact fees.  The meeting concluded at 12:55 pm.
+The Lynden School District #504 Board of Directors met on October 12, 2024, to discuss various topics related to district operations and strategic planning.  The meeting focused on reviewing the district's strategic priorities and key performance indicators, with a particular emphasis on multilingua...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
 
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys. They also discussed the strategic planning process and timeline for updating the district's Strategic Plan and Priorities. Additionally, the board reviewed the results of a self-assessment conducted by WSSDA (Washington State School Directors' Association) and discussed ways to improve responsible governance and effective board leadership. Finally, the board discussed the process for developing board meeting agendas and reviewed relevant policies.
+The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th G...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martin... |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martin... |
+| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martin...[truncated in public version] |
+| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martin...[truncated in public version] |
 
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions on various topics. A mental health update was presented, covering the role of the Mental Health Coordinator, a summary of the Healthy Youth Survey, and the Gaggle electronic safety management system. Concerns regarding school safety at Lynden High School (LHS), particularly the numerous points of entry, were raised by a community member.
+The Lynden School District Board meeting minutes detail discussions on various topics. A mental health update was presented, covering the role of the Mental Health Coordinator, a summary of the Healthy Youth Survey, and the Gaggle electronic safety management system. Concerns regarding school safety...[truncated in public version]
 
-The board reviewed updated academic standards reflected in Policy 5005- Employment and Volunteers, which was approved. Discussions also centered around long-term strategic plans, including capital facilities planning and the possibility of putting a bond back out to vote. The board aimed to finalize a timeline for the bond resolution by their April 18th meeting. Community engagement was evident through presentations from representatives of Schooley Mitchell and discussions regarding retiree celebrations initiated by a board member.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen... |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school dis... |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen... |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis... |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis... |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis... |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody... |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody... |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen... |
+| [Khush Brar](board_member_23.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen...[truncated in public version] |
+| [Jim Verburg](board_member_24.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school dis...[truncated in public version] |
+| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen...[truncated in public version] |
+| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis...[truncated in public version] |
+| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis...[truncated in public version] |
+| [Khush Brar](board_member_23.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis...[truncated in public version] |
+| [Khush Brar](board_member_23.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody...[truncated in public version] |
+| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody...[truncated in public version] |
+| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen...[truncated in public version] |
 
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions on various topics, including legislative advocacy, board meeting logistics and communication improvements. Director Hickman emphasized the importance of community engagement regarding local control bills and shared information about an upcoming town hall meeting with local legislators. Superintendent VanderYacht highlighted the need for transparency in discussing board positions on specific bills and suggested focusing on policy content before addressing writing conventions. The board also discussed incorporating particular details and action items into meeting minutes, following Robert's Rules of Order.  Additional topics included post-Bond Planning Task Force needs such as impact fees, playground and technology upgrades, and construction delivery methods. The board expressed interest in revisiting Key Performance Indicators in greater depth and discussed the legalities of individual board members expressing personal opinions on social media regarding ballot initiatives and legislative bills.
+The school board meeting minutes detail discussions on various topics, including legislative advocacy, board meeting logistics and communication improvements. Director Hickman emphasized the importance of community engagement regarding local control bills and shared information about an upcoming tow...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on... |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on... |
+| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on...[truncated in public version] |
+| [Ken Owsley](board_member_22.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on...[truncated in public version] |
 
 ## 2024-02-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The meeting minutes detail various community development projects and infrastructure improvements planned or underway in the city. These include street and sidewalk upgrades, a roundabout construction at Benson Rd/Badger Rd intersection, and the development of Benson Park with restoration of the Heusinkvelt Barn.  The Jim Kaemingk Trail is also under development.
+The meeting minutes detail various community development projects and infrastructure improvements planned or underway in the city. These include street and sidewalk upgrades, a roundabout construction at Benson Rd/Badger Rd intersection, and the development of Benson Park with restoration of the Heu...[truncated in public version]
 
-The discussion also touched upon interagency emergency planning and response, highlighting the school district's Safety & Security Task Force implementation of the "I Love You Guys" emergency planning program. Collaboration with local law enforcement agencies for emergency response planning was suggested. The city and school board expressed interest in annual meetings to foster ongoing communication and collaboration.
-
-Additionally, potential uses for Benson Park were discussed, including a proposal from Brent DeRuyter to develop it as a regional park site.  The possibility of a splash park and an outdoor pavilion at Glenning Park to support performing arts were also mentioned.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-08-minutes.txt)
 
 ### Board Member Actions
 
@@ -79,145 +73,127 @@ Additionally, potential uses for Benson Park were discussed, including a proposa
 
 ## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors held a special meeting on February 3rd, 2024.  The meeting focused on team building exercises and establishing procedures for board meetings, including agenda item submission and policy review. Discussions also centered around legislative engagement, specifically advocating for local control in education. The board addressed district priorities and governance, touching upon standards, measures, goals, and the strategic planning process. No specific policies were mentioned by name during this meeting.
+The Lynden School District #504 Board of Directors held a special meeting on February 3rd, 2024.  The meeting focused on team building exercises and establishing procedures for board meetings, including agenda item submission and policy review. Discussions also centered around legislative engagement...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
 
 ## 2023-08-31 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting focused on a proposed bond to address capital facility needs. The Bond Planning Task Force (BPTF) presented its recommendations, emphasizing the urgency of addressing deteriorating building conditions. Public comment highlighted the importance of community engagement and outreach to secure support for the bond.  The board discussed plans for forming a citizens committee to advocate for the bond's passage and acknowledged the need for a contingency plan in case it fails. Additionally, the board reviewed upcoming events, including the WSSDA General Assembly, where they will have an opportunity to vote on legislative measures.
+The Lynden School Board meeting focused on a proposed bond to address capital facility needs. The Bond Planning Task Force (BPTF) presented its recommendations, emphasizing the urgency of addressing deteriorating building conditions. Public comment highlighted the importance of community engagement ...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-08-31-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-08-31-minutes.txt)
 
 ## 2023-07-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail discussions regarding the district's long-term facilities plan and superintendent evaluation.  The board is considering a proposal for a new high school and gymnasium renovation, potentially leading to the decommissioning of Judson Hall. They are also working on a long-term strategic plan that addresses facility needs through 2035/2036, acknowledging that this timeline is subject to change based on factors like enrollment and funding. The superintendent's contract was extended through 2025/2026 with a deferred salary increase and adjusted evaluation timeline.  The board emphasized the importance of transparency and community engagement in future planning.
+The Lynden School Board meeting minutes detail discussions regarding the district's long-term facilities plan and superintendent evaluation.  The board is considering a proposal for a new high school and gymnasium renovation, potentially leading to the decommissioning of Judson Hall. They are also w...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-07-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-07-13-minutes.txt)
 
 ## 2023-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors held a special meeting retreat on June 9, 2023, to discuss board development and processes. They reviewed the WSSDA Board Self-Assessment results and engaged in a prioritization activity to determine key district performance measures. A significant portion of the meeting focused on the development of the 2025-2028 Strategic Plan, as the current plan expires in 2024.
+The Lynden School District Board of Directors held a special meeting retreat on June 9, 2023, to discuss board development and processes. They reviewed the WSSDA Board Self-Assessment results and engaged in a prioritization activity to determine key district performance measures. A significant porti...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-09-minutes.txt)
 
 ## 2023-05-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes from May 25, 2023, detail discussions on various topics.  The board reviewed and approved the consent agenda which included financial transactions and personnel recommendations. Reports were presented by counselors from Lynden Middle School and elementary schools outlining their services and student needs. The PTA also shared information about their activities during the school year. Superintendent VanderYacht provided updates on the 23/24 budget development and facilities planning.
+The Lynden School District Board meeting minutes from May 25, 2023, detail discussions on various topics.  The board reviewed and approved the consent agenda which included financial transactions and personnel recommendations. Reports were presented by counselors from Lynden Middle School and elemen...[truncated in public version]
 
-The board conducted first and second readings of Policy 5254 (Staff Expression) and Policy 6815 (Advertising on District Property), ultimately adopting both policies. The meeting concluded with discussions regarding a potential board retreat to revisit strategic priorities and bond planning work, as well as attendance at upcoming graduations. A closed session was held for discussion on collective bargaining planning.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-25-minutes.txt)
 
 ## 2023-05-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions on various topics, including academic standards and curriculum transparency.  The board reviewed reports from different schools outlining their counseling programs and teaching strategies aligned with the district's strategic priorities. Discussions also centered around long-term strategic plans, specifically the work of the Bond Planning Task Force and Long Term Facilities Planning groups. The meeting included a first reading of two policies: Policy 5254 - Staff Expression and Policy 6815 - Advertising on District Property.  No action was taken on either policy during this meeting.
+The Lynden School District Board meeting minutes detail discussions on various topics, including academic standards and curriculum transparency.  The board reviewed reports from different schools outlining their counseling programs and teaching strategies aligned with the district's strategic priori...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-11-minutes.txt)
 
 ## 2023-03-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail several key decisions and discussions.  The board approved the sale of Brink’s Dairy to Dairy Valley Distributing following a single compliant bid. Resolution #01-23 authorized a transfer of funds from the General Fund and Capital Projects to the Debt Service Fund. Policy 2411, regarding High School Equivalency Certificates, was updated and approved with a 3-1 vote.
+The school board meeting minutes detail several key decisions and discussions.  The board approved the sale of Brink’s Dairy to Dairy Valley Distributing following a single compliant bid. Resolution #01-23 authorized a transfer of funds from the General Fund and Capital Projects to the Debt Service ...[truncated in public version]
 
-The board also discussed long-term facilities planning. A Bond Planning Task Force (BPTF) is being formed to determine whether to pursue a bond measure for the ballot. The BPTF will work in conjunction with the newly established Long Range Facilities Planning (LRFP) group.  These groups will collaboratively assess the district's facility needs and develop recommendations for future improvements.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-23-minutes.txt)
 
 ## 2023-02-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board Meeting minutes detail discussions on several key topics.  The board implemented a new policy (1250- Students on Governing Boards) allowing for advisory votes from student directors, Cooper Graddon and Aislinn Nilsen. These votes will be recorded alongside board member votes in the meeting minutes. The board reviewed reports from various departments including Teaching and Learning, Finance and Operations, and Facilities/Maintenance.  Superintendent VanderYacht presented information regarding a potential Whatcom County skills center modeled after the Northwest Career & Technical Academy (NCTA). A draft document expressing intent to participate was shared with the board. Discussions also centered on the 23/24 budget challenges and contributing factors. The board reviewed a draft Capital Facilities Planning Framework, outlining a proposed timeline, roles, and responsibilities for long-term planning committees. They discussed strategies for community data collection to inform bond decisions. Tonya Hickman highlighted the importance of sharing the district's special education story with legislators.
+The Lynden School District Board Meeting minutes detail discussions on several key topics.  The board implemented a new policy (1250- Students on Governing Boards) allowing for advisory votes from student directors, Cooper Graddon and Aislinn Nilsen. These votes will be recorded alongside board memb...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-23-minutes.txt)
 
 ## 2023-02-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors met on February 9, 2023, to discuss various agenda items. They approved the consent agenda, which included financial transactions and personnel recommendations. The board also reviewed reports from the superintendent, teaching and learning department, and finance and operations department.  A key discussion point was the approval of two interlocal agreements for specialized teachers: one with Bellingham School District for a Teacher of Deaf & Hard of Hearing and another with Nooksack Valley School District for a Teacher of the Visually Impaired.
+The Lynden School District Board of Directors met on February 9, 2023, to discuss various agenda items. They approved the consent agenda, which included financial transactions and personnel recommendations. The board also reviewed reports from the superintendent, teaching and learning department, an...[truncated in public version]
 
-The board held a workshop focused on long-term facilities planning, emphasizing safety/security improvements, building condition upgrades, expanded learning spaces, and potential high school replacement or remodel. They discussed timelines for a community survey to gauge priorities and investment preferences. The board directed Superintendent VanderYacht to draft roles and responsibilities for both a Bond Planning Task Force and a Long-Range Facilities Planning Committee. Finally, the board heard updates from members who attended WSSDA legislative sessions and presentations on online safety and career technical education programs.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-minutes.txt)
 
 ## 2023-01-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail routine agenda items such as approval of previous meeting minutes and the consent agenda which included payroll disbursements and personnel recommendations.  Committee assignments were discussed, with current rosters noted and further decisions pending. Reports were given by Superintendent VanderYacht on strategic priorities including Multi-Tiered Systems of Support (MTSS) and Family, Community Partnerships. A finance report for December 2022 was presented, covering an executive summary, enrollment analysis, budget status, revenue analysis, and expenditure analysis.  The meeting concluded with a work session focused on the Facilities Planning Committee's recommendations regarding current capacity to support enrollment, building conditions, and alignment of facilities with educational program goals and district strategic priorities.
+The Lynden School District Board meeting minutes detail routine agenda items such as approval of previous meeting minutes and the consent agenda which included payroll disbursements and personnel recommendations.  Committee assignments were discussed, with current rosters noted and further decisions...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-01-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-01-26-minutes.txt)
 
 ## 2022-10-01 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors held a special meeting on October 1, 2022, to discuss the district's 2021-2024 Strategic Priorities plan.  The administrative team presented and reviewed the plan, followed by discussion with the board members. The meeting also included a review and discussion of the Board and Superintendent Leadership Team Operating Principles and the development of a School Board handbook. These discussions suggest a focus on long-term planning and establishing ethical guidelines for board operations.
+The Lynden School District #504 Board of Directors held a special meeting on October 1, 2022, to discuss the district's 2021-2024 Strategic Priorities plan.  The administrative team presented and reviewed the plan, followed by discussion with the board members. The meeting also included a review and...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-01-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-01-minutes.txt)
 
 ## 2022-09-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors held a meeting on September 22, 2022, to discuss various topics related to school operations and community partnerships. A significant portion of the meeting was dedicated to discussing school safety, including traffic flow, parking, and pedestrian safety around Lynden High School.  The Superintendent expressed a desire to partner with the Lynden Police Department on these issues.
+The Lynden School District Board of Directors held a meeting on September 22, 2022, to discuss various topics related to school operations and community partnerships. A significant portion of the meeting was dedicated to discussing school safety, including traffic flow, parking, and pedestrian safet...[truncated in public version]
 
-The board also engaged in a discussion regarding long-term strategic planning for the district. This included considering the possibility of building an additional school in the Pepin Creek sub-area due to projected population growth and development. The meeting highlighted the importance of ongoing collaboration between the school district and the City of Lynden to ensure that community project timelines align with the needs of the growing student population.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-22-minutes.txt)
 
 ## 2022-06-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District held a school board meeting on June 23, 2022.  The meeting included the swearing in of new Superintendent David VanderYacht and newly appointed School Board Directors Cindy Petersen and Ken Owsley. The board approved a consent agenda that included various financial warrants and personnel action items. Notably, the board also reviewed and approved the Comprehensive School Counseling Plan (CSCP) to comply with SSB 5030, which requires districts to develop and implement K-12 CSCP programs by the 2023-2024 school year.  
+The Lynden School District held a school board meeting on June 23, 2022.  The meeting included the swearing in of new Superintendent David VanderYacht and newly appointed School Board Directors Cindy Petersen and Ken Owsley. The board approved a consent agenda that included various financial warrant...[truncated in public version]
 
-The meeting included reports from Finance and Operations Director Ben Thomas on the May budget and Food Service Director Narlene VanBeek who provided updates on service offerings during COVID-19, potential price changes for breakfast and lunch, equipment needs, and a recent OSPI program review. The meeting concluded with a board workshop focused on progress monitoring for the 2021-2024 Strategic Plan's second semester.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-23-minutes.txt)
 
 ## 2022-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail routine business including the approval of meeting minutes, organizational appointments for board officers (CJ Costanti as President, David Vis as Vice President, and Tonya Hickman as WIAA Representative), and a consent agenda covering financial warrants.  The board also reviewed a Long Range Capital Facilities Plan report intended for submission to OSPI.
+The Lynden School Board meeting minutes detail routine business including the approval of meeting minutes, organizational appointments for board officers (CJ Costanti as President, David Vis as Vice President, and Tonya Hickman as WIAA Representative), and a consent agenda covering financial warrant...[truncated in public version]
 
-Several policy actions were taken: Resolution No. 04-22 was adopted for the submission of the Long-Range Study and Survey to OSPI. Resolutions No. 05-22 secured WIAA membership. Interlocal agreements with Bellingham Technical College (BTC) were approved for Impact Program, Career and Technical Education (CTE) Dual Credit, and a Teacher of the Visually Impaired (TVI) agreement with Mt. Baker School District. Finally, Policy #2020 regarding Course Design, Selection, and Adoption of Instructional Materials was approved.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-09-minutes.txt)
 
 ## 2019-10-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board held a meeting on October 23, 2019, at The Inn at Lynden.  The meeting began at 7:00 AM and concluded at 9:00 AM. Attendees included board members Steve Jilk, Brian Johnson, Kelli Kettels, CJ Costanti, and David Vis. Student Directors Ruby VanderHaak and Riley Anderson were absent. The primary focus of the meeting was a School Board retreat where they discussed strategic planning and district accountability related to student progress.
+The Lynden School Board held a meeting on October 23, 2019, at The Inn at Lynden.  The meeting began at 7:00 AM and concluded at 9:00 AM. Attendees included board members Steve Jilk, Brian Johnson, Kelli Kettels, CJ Costanti, and David Vis. Student Directors Ruby VanderHaak and Riley Anderson were a...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-10-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-10-23-minutes.txt)
 
 ## 2019-05-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail various achievements and activities within the school district. Highlights include recognizing Kevin Richins as Educator of the Year, celebrating Matthew Enertson's participation in the Washington State Legislature Page Program, and acknowledging Cynthia Torres' involvement in the "Future Cougars Embracing Diversity" program at WSU.  
+The Lynden School Board meeting minutes detail various achievements and activities within the school district. Highlights include recognizing Kevin Richins as Educator of the Year, celebrating Matthew Enertson's participation in the Washington State Legislature Page Program, and acknowledging Cynthi...[truncated in public version]
 
-The board also reviewed feedback from the District Planning Committee regarding Impact Fees, Maintenance & Operations Levy, Technology & Facilities Levy, Capital Bond, and crowding in schools. Additionally, they discussed a tentative schedule for selling surplus property (the old Lynden Middle School ball field area) and held a public hearing for community input on May 23rd.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-05-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-05-09-minutes.txt)
 
 ## 2018-11-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board held a retreat on November 12, 2018, at The Inn at Lynden.  The meeting, which began at 7:00 AM and concluded at 9:00 AM, focused on long-term strategic planning for the district. Specific topics discussed included strategic planning, district growth, and school board goals. All board members except the student directors were present.
+The Lynden School Board held a retreat on November 12, 2018, at The Inn at Lynden.  The meeting, which began at 7:00 AM and concluded at 9:00 AM, focused on long-term strategic planning for the district. Specific topics discussed included strategic planning, district growth, and school board goals. ...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-minutes.txt)
 
 ## 2018-04-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District held a school board meeting on April 19, 2018, at Lynden High School Library.  The meeting began with routine items such as the call to order, pledge of allegiance and roll call.  Following this, there was no information presented from the audience. The board then adjourned into a work session focused on "Board Linkage." This activity, facilitated by Superintendent Jim Frey, aimed to engage both school district staff and board members in a discussion about the Lynden School District's successes, areas for improvement, and considerations for future growth.  The feedback gathered during this session was intended to inform the future direction of the district.
+The Lynden School District held a school board meeting on April 19, 2018, at Lynden High School Library.  The meeting began with routine items such as the call to order, pledge of allegiance and roll call.  Following this, there was no information presented from the audience. The board then adjourne...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-04-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-04-19-minutes.txt)
 
 ## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes and personnel recommendations highlight several key areas of focus.  The board discussed social-emotional learning initiatives, including staff training, student programs, and community outreach related to harassment, intimidation, bullying (HIB), and suicide awareness. They reviewed data from the Washington State Healthy Youth Survey and emphasized communication with staff, students, and youth organizations on these important topics.
+The Lynden School District Board meeting minutes and personnel recommendations highlight several key areas of focus.  The board discussed social-emotional learning initiatives, including staff training, student programs, and community outreach related to harassment, intimidation, bullying (HIB), and...[truncated in public version]
 
-The meeting also addressed long-term strategic planning for the district, specifically regarding facilities and future facility needs. The board considered program space, classroom space, community space, property requirements, and potential levy needs to accommodate growth and evolving educational demands.  
-
-Finally, the personnel recommendations section detailed new hires, changes in assignments, leaves of absence, resignations, and retirements for both certificated and classified staff. Notably, there was a focus on special education support with Tim Metz discussing challenges related to preschool funding and special education needs growth within Early Learning programs.
-
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
 
 ## 2017-09-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors held a joint meeting with the Lynden City Council and the Lynden Parks and Recreation District Board of Directors to discuss capital needs, maintenance issues, land developments, demographic changes, economic development, and partnerships.  The meeting highlighted the community's rapid growth and the need for strategic action and communication among all agencies to address these changes. The Chamber of Commerce Executive Director encouraged open communication with residents. Additionally, Superintendent Tim discussed ongoing efforts to ensure a positive learning environment for all students, emphasizing appropriate resources and coordination involving students, families, and the community.
+The Lynden School District Board of Directors held a joint meeting with the Lynden City Council and the Lynden Parks and Recreation District Board of Directors to discuss capital needs, maintenance issues, land developments, demographic changes, economic development, and partnerships.  The meeting h...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-09-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-09-21-minutes.txt)
 
 ## 2016-12-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board held a retreat on December 14, 2016, to conduct annual organizational tasks and begin discussions on long-term strategic planning.  The board elected Brian Johnson as President, Steve Jilk as Vice President, and Kevin Burke as the WIAA Representative. These elections reflect standard procedural policy changes that occur annually within school boards. The meeting also initiated a conversation regarding the formulation of the Lynden School District Strategic Plan, which will outline the district's vision, mission, and goals.
+The Lynden School District Board held a retreat on December 14, 2016, to conduct annual organizational tasks and begin discussions on long-term strategic planning.  The board elected Brian Johnson as President, Steve Jilk as Vice President, and Kevin Burke as the WIAA Representative. These elections...[truncated in public version]
 
-[View Full Text](https://raw.githubusercontent.com/WhatsUpWhatcom/schoolboardexplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-12-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-12-14-minutes.txt)
 
