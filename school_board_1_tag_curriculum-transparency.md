@@ -2,43 +2,51 @@
 
 ## 2024-07-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District Board held a regular meeting on July 25, 2024.  The board approved the consent agenda which included personnel actions, purchases, accounts payable, payroll and several contracts. The board also received reports from the Director of Finance and Superintendent. Topics ...[truncated in public version]
+The Mount Baker School District Board held a regular meeting on July 25, 2024.  The board approved the consent agenda which included personnel actions, purchases, accounts payable, payroll and several contracts. The board also received reports from the Director of Finance and Superintendent. Topics discussed included budget status, monthly balance, Title IX regulation changes and the Apollo Solutions Small School Grant. Upcoming events were announced including the Mount Baker Athletic & Academic Weekend and a Candidate Night at the High School. The next regular school board meeting is schedule...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
 
 ## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School Board held a virtual meeting on July 23, 2020, to discuss various school matters. Key topics included preparations for the upcoming school year amidst the COVID-19 pandemic.  The board approved a resolution (MB Resolu on 19/20:18) in support of the Nooksack River Floodplains t...[truncated in public version]
+The Mount Baker School Board held a virtual meeting on July 23, 2020, to discuss various school matters. Key topics included preparations for the upcoming school year amidst the COVID-19 pandemic.  The board approved a resolution (MB Resolu on 19/20:18) in support of the Nooksack River Floodplains that Work - Phase 2 project. They also approved several agreements, including an ESD 189 Science Materials Center Interlocal Cooperative Agreement and a Client Staffing Agreement.  
+
+The board discussed plans for high school graduation, which would be held as a drive-in style ceremony on August 7, 20...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
 
 ## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also ...[truncated in public version]
+The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also included updates from the superintendent regarding COVID-19 planning, waiver updates, capital projects, and graduation plans. Discussions touched upon long-term strategic planning for the district.  The board scheduled future meetings, including regular sessions and work sessions.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
 
 ## 2024-03-28 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District Board held a regular meeting on March 28, 2024, discussing various topics including school safety, academic standards, and curriculum transparency.  The board approved several resolutions, including MB Board Resolution 23/24:16 which authorized the transfer of certain...[truncated in public version]
+The Mount Baker School District Board held a regular meeting on March 28, 2024, discussing various topics including school safety, academic standards, and curriculum transparency.  The board approved several resolutions, including MB Board Resolution 23/24:16 which authorized the transfer of certain state forest land revenues from the Debt Service Fund to the Capital Projects Fund. Additionally, they adopted the 2024-2025 Reduced Educational Program through MB Board Resolution 23/24:17.
+
+The board also approved several policy changes for first and final readings, including MB Policy 5005 Emplo...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-28-minutes.txt)
 
 ## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The meeting minutes detail a regular school board meeting held on February 22, 2024.  The board addressed various topics including student safety with the approval of MB Policy 6605 Student Safety Walking, Biking, and Riding Buses. Discussions also centered around academic standards, specifically th...[truncated in public version]
+The meeting minutes detail a regular school board meeting held on February 22, 2024.  The board addressed various topics including student safety with the approval of MB Policy 6605 Student Safety Walking, Biking, and Riding Buses. Discussions also centered around academic standards, specifically the review and approval of MB Policy 5010 Nondiscrimination and Affirmative Action, and MB Policy 6020 Systems of Funds and Accounts.
+
+The board emphasized curriculum transparency by approving a consent agenda that included several policies related to financial procedures and student health. Notably, ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
 
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoom. Routine items such as the election of officers (Karen Reich as President and Brian Kelly as Vice President), approval of minutes, and a consent agenda addressing personnel actions, surplus resolutions, purchases, payr...[truncated in public version]
+The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoom. Routine items such as the election of officers (Karen Reich as President and Brian Kelly as Vice President), approval of minutes, and a consent agenda addressing personnel actions, surplus resolutions, purchases, payroll, donations, and an Everett Community College agreement were addressed. The board also received information from the audience regarding remote learning experiences and discussed various topics under "Information from the Board," including updates on conferences, meetings, and legislative preparat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The October 22, 2020 school board meeting focused on several key issues.  The board approved the FSI Engineers Contract for work on the 800 Building and the MIDAS Education Agreement. They also discussed the MB Resolution 20/21:3 Acceptance of Building Commissioning Report but deferred a vote until ...[truncated in public version]
+The October 22, 2020 school board meeting focused on several key issues.  The board approved the FSI Engineers Contract for work on the 800 Building and the MIDAS Education Agreement. They also discussed the MB Resolution 20/21:3 Acceptance of Building Commissioning Report but deferred a vote until November. The Fall 2020 Connections Agreement with North Cascades Institute was approved.  A presentation from FSI Engineers addressed the importance of proper ventilation, particularly in light of COVID-19 concerns.
+
+The board also received reports on the Executive Director of Finance & Operations ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
 

@@ -2,7 +2,7 @@
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School Dis...[truncated in public version]
+The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their mo...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
 
@@ -29,7 +29,7 @@ The Lynden School District Board meeting minutes detail discussions concerning g
 
 ## 2024-03-07 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail several actions taken regarding student safety and well-being.  Policy 3411, "Accommodating Students with Seizure Disorders or Epilepsy," was adopted to provide support for students experiencing seizures.  The board also approved an overnight trip request for ...[truncated in public version]
+The school board meeting minutes detail several actions taken regarding student safety and well-being.  Policy 3411, "Accommodating Students with Seizure Disorders or Epilepsy," was adopted to provide support for students experiencing seizures.  The board also approved an overnight trip request for students to participate in the Knowledge Bowl, demonstrating a commitment to extracurricular activities.  Additionally, Resolution #03-24 addressed food service meal balances as of June 30, 2023. The Board Facilities Committee discussed placing a bond on the August ballot and updating cost estimates...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-07-minutes.txt)
 
@@ -43,13 +43,13 @@ The school board meeting minutes detail several actions taken regarding student 
 | [Jim Verburg](board_member_24.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
 | [Ken Owsley](board_member_22.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
 | [Danny Martinez](board_member_25.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated in public version] | Overnight Trip Request |
+| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
 | [Khush Brar](board_member_23.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated in public version] | Overnight Trip Request |
+| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
 
 ## 2024-02-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors met on February 20, 2024, to discuss several key issues.  A primary focus was the potential placement of a General Obligations Bond on the April ballot for funding capital improvements. While some community members advocated for the bond's inclusion, cit...[truncated in public version]
+The Lynden School District Board of Directors met on February 20, 2024, to discuss several key issues.  A primary focus was the potential placement of a General Obligations Bond on the April ballot for funding capital improvements. While some community members advocated for the bond's inclusion, citing the need for updated facilities and their positive impact on student learning, the board ultimately voted against moving forward with an April election due to concerns about insufficient time for community engagement and due diligence.  The board also discussed Resolution #02-24, which expressed...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-20-minutes.txt)
 
@@ -59,44 +59,48 @@ The Lynden School District Board of Directors met on February 20, 2024, to discu
 |--------------|--------------------|---------|
 | [Danny Martinez](board_member_25.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
 | [Ken Owsley](board_member_22.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated in public version] | Motion not carried. Board Vote: 2-3 |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated in public version] | Motion not carried. Board Vote: 2-3 |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated in public version] | Motion carried by voice vote. Board Vote 5-0 |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated in public version] | Motion carried by voice vote. Board Vote 5-0 |
+| [Danny Martinez](board_member_25.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
+| [Ken Owsley](board_member_22.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
+| [Danny Martinez](board_member_25.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
+| [Khush Brar](board_member_23.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
 
 ## 2022-04-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail discussions and decisions regarding several key topics.  Parents voiced concerns about the impact of late start Wednesdays on families and requested the board consider half-day alternatives for professional learning time. They also expressed appreciatio...[truncated in public version]
+The Lynden School Board meeting minutes detail discussions and decisions regarding several key topics.  Parents voiced concerns about the impact of late start Wednesdays on families and requested the board consider half-day alternatives for professional learning time. They also expressed appreciation for the Governor's removal of vaccine mandates and advocated for increased extracurricular programs.
+
+The board approved a new interlocal agreement with Whatcom County Detention, a 2022-2023 school year calendar starting before Labor Day, and a contract for David VanderYacht as the next Superinten...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-04-14-minutes.txt)
 
 ## 2022-02-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail the approval of routine financial matters and personnel actions. Notably, the board discussed a letter requesting changes to mask mandates in schools following Governor Jay Inslee's announcement lifting the mandate.  The board decided the letter was no ...[truncated in public version]
+The Lynden School Board meeting minutes detail the approval of routine financial matters and personnel actions. Notably, the board discussed a letter requesting changes to mask mandates in schools following Governor Jay Inslee's announcement lifting the mandate.  The board decided the letter was no longer necessary and will appoint a liaison for legislative communication at the district or state level. The meeting also included information from the audience regarding concerns about mask and vaccine mandates, as well as interest in running for the school board.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-24-minutes.txt)
 
 ## 2022-02-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes reveal significant community tension regarding COVID-19 policies and curriculum content. Parents voiced concerns about mask mandates, vaccination requirements, and the presence of books they deemed inappropriate in school libraries. Some parents explicitly req...[truncated in public version]
+The Lynden School Board meeting minutes reveal significant community tension regarding COVID-19 policies and curriculum content. Parents voiced concerns about mask mandates, vaccination requirements, and the presence of books they deemed inappropriate in school libraries. Some parents explicitly requested the removal of "obscene pornography" and materials related to Critical Race Theory.  
+
+The meeting also included a discussion on potential policy changes driven by parental feedback. A parent threatened legal action against the school district unless they ceased COVID-19 related policies, inc...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-10-minutes.txt)
 
 ## 2022-01-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not up...[truncated in public version]
+The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not upholding constitutional rights and expressed frustration with perceived bullying and shaming of unvaccinated students. The board addressed snow make-up days, stating their intention to utilize built-in days in June and potentially seek a waiver if necessary. Remote learning options would be reserved ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-01-13-minutes.txt)
 
 ## 2021-11-17 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail discussions on various topics, including school discipline and community engagement.  The board reviewed and approved Policy #3241 – Student Discipline, scheduling a second reading for the December 9th meeting. Community members voiced concerns during t...[truncated in public version]
+The Lynden School Board meeting minutes detail discussions on various topics, including school discipline and community engagement.  The board reviewed and approved Policy #3241 – Student Discipline, scheduling a second reading for the December 9th meeting. Community members voiced concerns during the "Information from the Audience" segment, expressing opinions on mask mandates, COVID-19 priorities, and the need for kindness and understanding regarding differing viewpoints on masking. The board also heard feedback from parents regarding lunch times at Lynden Middle School.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-11-17-minutes.txt)
 
 ## 2020-08-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors held a meeting on August 3, 2020, to discuss the reopening of schools for the 2020-2021 academic year amidst the COVID-19 pandemic.  The board considered three learning options: "Lynden at School" (in-person learning), "Lynden Home Connect" (parent-led h...[truncated in public version]
+The Lynden School District Board of Directors held a meeting on August 3, 2020, to discuss the reopening of schools for the 2020-2021 academic year amidst the COVID-19 pandemic.  The board considered three learning options: "Lynden at School" (in-person learning), "Lynden Home Connect" (parent-led homeschooling with school support), and "Lynden On-Line" (online instruction). The discussion centered around addressing concerns from families, staff, and the community regarding these options.  The board acknowledged challenges associated with hybrid learning models and aimed to mitigate potential ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-03-minutes.txt)
 

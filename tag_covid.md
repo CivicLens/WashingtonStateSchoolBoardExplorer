@@ -2,385 +2,407 @@
 
 ## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School Board held a virtual meeting on July 23, 2020, to discuss various school matters. Key topics included preparations for the upcoming school year amidst the COVID-19 pandemic.  The board approved a resolution (MB Resolu on 19/20:18) in support of the Nooksack River Floodplains t...[truncated in public version]
+The Mount Baker School Board held a virtual meeting on July 23, 2020, to discuss various school matters. Key topics included preparations for the upcoming school year amidst the COVID-19 pandemic.  The board approved a resolution (MB Resolu on 19/20:18) in support of the Nooksack River Floodplains that Work - Phase 2 project. They also approved several agreements, including an ESD 189 Science Materials Center Interlocal Cooperative Agreement and a Client Staffing Agreement.  
+
+The board discussed plans for high school graduation, which would be held as a drive-in style ceremony on August 7, 20...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
 
 ## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also ...[truncated in public version]
+The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also included updates from the superintendent regarding COVID-19 planning, waiver updates, capital projects, and graduation plans. Discussions touched upon long-term strategic planning for the district.  The board scheduled future meetings, including regular sessions and work sessions.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
 
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This excerpt from a school board meeting focuses on student perspectives and experiences.  A former student shares positive memories of the Teacher Academy program, highlighting its collaborative nature and impact on personal growth. The student also discusses challenges faced due to allergies and t...[truncated in public version]
+This excerpt from a school board meeting focuses on student perspectives and experiences.  A former student shares positive memories of the Teacher Academy program, highlighting its collaborative nature and impact on personal growth. The student also discusses challenges faced due to allergies and the benefits of remote learning during the COVID pandemic. The meeting emphasizes student voice and its importance in shaping educational policies. Additionally, a current student pursuing Automotive Collision Repair Technology expresses appreciation for the Teacher Academy's influence on their life ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-24-minutes.txt)
 
 ## 2023-06-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions on several key topics.  The board approved a new science curriculum for Lynden High School with an emphasis on aligning the curriculum with college and career readiness standards and the district's Multi-Tiered System of Support (MT...[truncated in public version]
+The Lynden School District Board meeting minutes detail discussions on several key topics.  The board approved a new science curriculum for Lynden High School with an emphasis on aligning the curriculum with college and career readiness standards and the district's Multi-Tiered System of Support (MTSS) framework. This decision follows data analysis showing the impact of COVID-19 on student learning in science, highlighting the need for a robust curriculum. The board also reviewed the Alternative Learning Experience (ALE) Annual Report for 2022-2023, which outlines student participation, staff ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-08-minutes.txt)
 
 ## 2022-11-30 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School Board held a meeting on November 30th, 2022, to discuss various agenda items.  The meeting included presentations on the district's technology plan and recognition of staff members. During public comment, a student spoke about her positive experience in a culinary arts program, a...[truncated in public version]
+The Meridian School Board held a meeting on November 30th, 2022, to discuss various agenda items.  The meeting included presentations on the district's technology plan and recognition of staff members. During public comment, a student spoke about her positive experience in a culinary arts program, and another individual thanked the board for transportation services provided to the Northwest Career and Technical Academy.
+
+The board conducted first readings of several policies: Policy 1220 (Board Officers and Duties of Board Members), Policy 1225 (School Director Legislative Program), Policy 161...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-30-minutes.txt)
 
 ## 2022-11-02 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 Board held a regular meeting on November 2nd, 2022.  The meeting focused on several key topics including updates on COVID protocols and ongoing efforts to support student mental health through social-emotional learning initiatives. The board reviewed academic standa...[truncated in public version]
+The Meridian School District #505 Board held a regular meeting on November 2nd, 2022.  The meeting focused on several key topics including updates on COVID protocols and ongoing efforts to support student mental health through social-emotional learning initiatives. The board reviewed academic standards and discussed curriculum transparency measures. They also received presentations from teachers at various grade levels highlighting innovative teaching strategies and the implementation of new assessment rubrics for writing skills.  Several policies were presented for second readings, including ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-02-minutes.txt)
 
 ## 2022-10-19 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a meeting on October 19th, 2022, addressing various topics. They approved a consent agenda covering routine matters like meeting minutes, accounts payable, personnel reports, student travel, and interlocal agreements. Public comment featured concerns about rem...[truncated in public version]
+The Meridian School District Board held a meeting on October 19th, 2022, addressing various topics. They approved a consent agenda covering routine matters like meeting minutes, accounts payable, personnel reports, student travel, and interlocal agreements. Public comment featured concerns about remote learning accessibility during inclement weather.
+
+Presentations focused on bus safety and the Highly Capable Learning program. The board discussed and adopted several policies including Policy 5001 (Hiring of Retired School Employees), Policy 5610 (Substitute Employment), Policy 5612 (Temporary ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
 
 ## 2022-09-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a meeting on September 21st, 2022. The agenda included presentations on the Healthy Children's Fund Ordinance and reports on staff professional development and summer maintenance projects. Policy changes were discussed and approved, including a second reading ...[truncated in public version]
+The Meridian School District Board held a meeting on September 21st, 2022. The agenda included presentations on the Healthy Children's Fund Ordinance and reports on staff professional development and summer maintenance projects. Policy changes were discussed and approved, including a second reading of Policy 4210 (Meeting Conduct, Order of Business, and Quorum) and a second reading of Policy 6112 (Executive or Closed Sessions). New business items included a first reading of the MSD Census Redistricting Proposal, the NCTA Groundwork Agreement, and first readings for several new policies: 2110 (...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-21-minutes.txt)
 
 ## 2022-09-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on September 7th, 2022.  The meeting covered a range of topics including the approval of a consent agenda containing items such as accounts payable, personnel reports, and agreements with organizations like BTC Running Start and E...[truncated in public version]
+The Meridian School District #505 held a regular school board meeting on September 7th, 2022.  The meeting covered a range of topics including the approval of a consent agenda containing items such as accounts payable, personnel reports, and agreements with organizations like BTC Running Start and ECC College in High School. The Board also received reports on school data and staffing for the 2022-23 academic year. Several policies and procedures underwent second readings and were subsequently approved. These included Policy and Procedure 1400: Meeting Conduct, Order of Business, and Quorum; Po...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-07-minutes.txt)
 
 ## 2022-08-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 Board held a work session on August 22, 2022, to discuss the district's strategic plan and review end-of-year reports and school improvement plans from each campus. Discussions centered around balancing social-emotional learning (SEL) with academic rigor in the wak...[truncated in public version]
+The Blaine School District No. 503 Board held a work session on August 22, 2022, to discuss the district's strategic plan and review end-of-year reports and school improvement plans from each campus. Discussions centered around balancing social-emotional learning (SEL) with academic rigor in the wake of COVID-19 disruptions. The board reviewed data on student performance in ELA, Math, and SEL, noting both challenges and successes.  Specific areas for improvement were identified, including handwriting development at the primary level and collaborative PLC work across grade levels.
+
+The district...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-08-22-minutes.txt)
 
 ## 2022-06-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board voted 4-1 to end the makeshift streaming of board meetings and return to pre-COVID policies that encourage in-person attendance. Director Leu made the motion, which was seconded by Director Gibson.  The decision sparked debate about transparency and accessibility for those wh...[truncated in public version]
+The Lynden School Board voted 4-1 to end the makeshift streaming of board meetings and return to pre-COVID policies that encourage in-person attendance. Director Leu made the motion, which was seconded by Director Gibson.  The decision sparked debate about transparency and accessibility for those who cannot attend meetings in person. President Thomas stated that individuals needing modifications to participate could contact the District Office beforehand. The board also discussed preferred formats for receiving public comments, with President Thomas favoring written submissions while Director ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-06-20-minutes.txt)
 
 ## 2022-06-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board reviewed a monitoring report on the superintendent's performance in relation to district policy EL-8, District Calendar.  The board found the superintendent to be in compliance with the policy and commended their efforts in adapting to the challenges of the pandemic, including shift...[truncated in public version]
+The school board reviewed a monitoring report on the superintendent's performance in relation to district policy EL-8, District Calendar.  The board found the superintendent to be in compliance with the policy and commended their efforts in adapting to the challenges of the pandemic, including shifting schedules, deploying instructional coaches, and addressing staff shortages due to illness. The board specifically highlighted the work of the Family Engagement team in supporting students and families during this time. No changes were made to the policy.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-06-08-minutes.txt)
 
 ## 2022-06-06 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on June 6, 2022, to address the need to waive two missed school days (May 26 and May 27) due to unforeseen circumstances.  The board unanimously voted to adopt Resolution 2122-11 authorizing an application to the Office of Superintenden...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on June 6, 2022, to address the need to waive two missed school days (May 26 and May 27) due to unforeseen circumstances.  The board unanimously voted to adopt Resolution 2122-11 authorizing an application to the Office of Superintendent of Public Instruction (OSPI) for the waiver. The rationale behind the request was not explicitly stated in the minutes.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-06-06-minutes.txt)
 
 ## 2022-05-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a Special Board Meeting on May 23, 2022, which included an executive session to review the performance of a public employee.  The meeting was conducted with both virtual and in-person components "in accordance with guidelines related to the COVID-19 pandemic e...[truncated in public version]
+The Blaine School District No. 503 held a Special Board Meeting on May 23, 2022, which included an executive session to review the performance of a public employee.  The meeting was conducted with both virtual and in-person components "in accordance with guidelines related to the COVID-19 pandemic emergency."  No action was taken during the meeting. The executive session lasted for approximately 50 minutes.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-05-23-minutes.txt)
 
 ## 2022-05-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details a school board's monitoring response to Policy Ends 2.1, Part 2, Student Competence. The report highlights commendable progress in graduation rates for CTE students and improvements among Latinx, free and reduced lunch, and IEP students. Despite these successes, the board ackno...[truncated in public version]
+This document details a school board's monitoring response to Policy Ends 2.1, Part 2, Student Competence. The report highlights commendable progress in graduation rates for CTE students and improvements among Latinx, free and reduced lunch, and IEP students. Despite these successes, the board acknowledges the need for further improvement in closing graduation gaps for low-income students.  The impact of COVID-19 on student performance is also discussed.
+
+A potential policy change is suggested: expanding the language of Policy Ends 2.1, Part 2 to be more inclusive of groups beyond those curren...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-18-minutes.txt)
 
 ## 2022-04-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham Public Schools (BPS) Board reviewed the Superintendent's Monitoring Report on Ends 2.1, Part 1, Student Competence. The report focused on student academic performance, particularly in light of the COVID-19 pandemic. The Board commended BPS students for outperforming state averages on ...[truncated in public version]
+The Bellingham Public Schools (BPS) Board reviewed the Superintendent's Monitoring Report on Ends 2.1, Part 1, Student Competence. The report focused on student academic performance, particularly in light of the COVID-19 pandemic. The Board commended BPS students for outperforming state averages on Measures of Academic Progress (MAP) tests at most grade levels. They acknowledged that while the goal is to eliminate achievement gaps entirely, the fact that these gaps did not widen during the pandemic demonstrates the district's efforts to serve all families.  The Board also identified areas for ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-20-minutes.txt)
 
 ## 2022-03-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This excerpt from school board meeting minutes focuses on student academic performance during the COVID-19 pandemic. The report highlights positive trends in reading and math scores for grades 6 and above, as measured by tools like Lexia Literacy Progress and DreamBox. Notably, the district saw a ma...[truncated in public version]
+This excerpt from school board meeting minutes focuses on student academic performance during the COVID-19 pandemic. The report highlights positive trends in reading and math scores for grades 6 and above, as measured by tools like Lexia Literacy Progress and DreamBox. Notably, the district saw a majority of students maintain their academic standing despite pandemic disruptions. The report also acknowledges persistent achievement gaps between different student demographics, including low-income/non-low income, Latinx/Hispanic/white, IEP/no IEP, and multilingual learners/not MLL.  The board com...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-16-minutes.txt)
 
 ## 2022-02-16 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District held a special board meeting on February 16, 2022 to interview and appoint a candidate to fill the vacant Director District 5 position.  The meeting was conducted in a hybrid format due to COVID-19 pandemic guidelines. Two candidates, Paul L. Berg and Donald J. Leu, were i...[truncated in public version]
+The Blaine School District held a special board meeting on February 16, 2022 to interview and appoint a candidate to fill the vacant Director District 5 position.  The meeting was conducted in a hybrid format due to COVID-19 pandemic guidelines. Two candidates, Paul L. Berg and Donald J. Leu, were interviewed by the board. Both candidates had extensive experience in education. Following an executive session, the board voted unanimously to appoint Donald J. Leu to the vacant position until the next general election in 2023.  The meeting also highlighted the district's commitment to community en...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-02-16-minutes.txt)
 
 ## 2022-02-02 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a meeting on February 2nd, 2022, to discuss various matters related to school operations and policies. Notably, the Superintendent provided an update on updated DOH Guidance regarding COVID-19 and reported a decline in student and staff absences.  The board al...[truncated in public version]
+The Meridian School District Board held a meeting on February 2nd, 2022, to discuss various matters related to school operations and policies. Notably, the Superintendent provided an update on updated DOH Guidance regarding COVID-19 and reported a decline in student and staff absences.  The board also reviewed and adopted several policies, including Policy and Procedure 3115: Students Experiencing Homelessness and Policy and Procedure 3116: Students in Foster Care. Additionally, they conducted a first reading of Policy and Procedure 5610 – Substitute Employment and Policy and Procedure 3207 – ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-02-02-minutes.txt)
 
 ## 2022-01-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board meeting minutes discuss the 2019-2020 school year report, highlighting accomplishments like adapting to remote learning and implementing safety measures.  The report also mentions efforts towards sustainability and improving air quality. Board members KR raised concerns about the la...[truncated in public version]
+The school board meeting minutes discuss the 2019-2020 school year report, highlighting accomplishments like adapting to remote learning and implementing safety measures.  The report also mentions efforts towards sustainability and improving air quality. Board members KR raised concerns about the language used in describing staff accidents and increasing "Loss Experience Factor", specifically questioning the connection between non-work related physical activities, emotional/mental health issues, and increased time loss payments. They requested evidence to support these assertions.  The board a...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-01-12-minutes.txt)
 
 ## 2022-01-12 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a Special Board Meeting on January 12, 2022, which included an executive session to review the performance of a public employee.  The meeting was conducted with both virtual and in-person components due to COVID-19 pandemic guidelines. Live public observation ...[truncated in public version]
+The Blaine School District No. 503 held a Special Board Meeting on January 12, 2022, which included an executive session to review the performance of a public employee.  The meeting was conducted with both virtual and in-person components due to COVID-19 pandemic guidelines. Live public observation of the meeting's opening and adjournment was provided online. The executive session lasted for over four hours, with multiple extensions announced verbally during the online portion of the meeting.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-01-12-minutes.txt)
 
 ## 2021-12-14 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-This document details a school board meeting agenda and minutes. The board discussed the athletic COVID testing requirement which is mandated by WIAA (Washington Interscholastic Activities Association) and the Department of Health, not a district policy.  They also reviewed upcoming agenda items for...[truncated in public version]
+This document details a school board meeting agenda and minutes. The board discussed the athletic COVID testing requirement which is mandated by WIAA (Washington Interscholastic Activities Association) and the Department of Health, not a district policy.  They also reviewed upcoming agenda items for future meetings including School Board Recognition Month, School Administrator Reports, Enrollment Update and Financial Report, Consent Agenda, Superintendent’s Report, 2022-2023 Base School Calendar, and Policy Updates. The board entered into executive session to review the performance of a public...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-12-14-minutes.txt)
 
 ## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing con...[truncated in public version]
+This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing consistent updates, particularly during the COVID-19 pandemic. While the evaluation commends the Superintendent's performance overall, it suggests incorporating student and parent voices more explicitly as evidence of compliance with certain policies. The document also mentions a transition to remote l...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-minutes.txt)
 
 ## 2021-11-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on November 24, 2021, to discuss and vote on Resolution 2122-06, Certification of 2022 Excess Property Taxes. Due to the COVID-19 pandemic, the meeting was conducted remotely. The resolution proposed increasing the Replacement Maintenan...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on November 24, 2021, to discuss and vote on Resolution 2122-06, Certification of 2022 Excess Property Taxes. Due to the COVID-19 pandemic, the meeting was conducted remotely. The resolution proposed increasing the Replacement Maintenance & Operations levy collection for 2022 to $6,082,990, revising the originally projected amount of $5,909,503 in the 2021-22 Budget. This increase is still less than the $6,400,000 authorized by voters for collection in 2022.  The board discussed the rationale behind the increase, including rising ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-11-24-minutes.txt)
 
 ## 2021-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors visited Fairhaven Middle School on November 9, 2021.  The visit focused on hearing from students about their experiences during the COVID-19 pandemic and in the post-pandemic school environment. Students shared both challenges and positive aspects of...[truncated in public version]
+The Bellingham School District Board of Directors visited Fairhaven Middle School on November 9, 2021.  The visit focused on hearing from students about their experiences during the COVID-19 pandemic and in the post-pandemic school environment. Students shared both challenges and positive aspects of this period. The meeting also included a presentation on the history of Fairhaven Middle School.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-11-09-minutes.txt)
 
 ## 2021-10-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on October 25, 2021, to conduct an executive session regarding the employment or dismissal of personnel. The meeting was conducted with both virtual and in-person components in accordance with guidelines related to the COVID-19 pandemic...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on October 25, 2021, to conduct an executive session regarding the employment or dismissal of personnel. The meeting was conducted with both virtual and in-person components in accordance with guidelines related to the COVID-19 pandemic emergency.  The executive session lasted approximately 50 minutes, and no action was taken by the board during this special meeting.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-10-25-minutes.txt)
 
 ## 2021-09-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on September 27, 2021, to conduct an executive session regarding the performance review of a public employee.  The meeting was conducted with both virtual and in-person components due to COVID-19 pandemic guidelines. Director Thomas par...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on September 27, 2021, to conduct an executive session regarding the performance review of a public employee.  The meeting was conducted with both virtual and in-person components due to COVID-19 pandemic guidelines. Director Thomas participated remotely due to being out of the area. The executive session lasted approximately forty minutes, and no action was taken by the board during this special meeting.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-09-27-minutes.txt)
 
 ## 2021-09-01 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on September 1, 2021, conducted remotely due to COVID-19 pandemic restrictions.  The board approved the ratification of the 2021-2023 SEIU Collective Bargaining Agreement and the associated wage schedule for 2021-2022. The agreement was...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on September 1, 2021, conducted remotely due to COVID-19 pandemic restrictions.  The board approved the ratification of the 2021-2023 SEIU Collective Bargaining Agreement and the associated wage schedule for 2021-2022. The agreement was previously ratified by SEIU members on August 31, 2021. All board members except Director Nunamaker were present, with Director Lotze attending remotely.  The meeting adjourned at 7:08 a.m.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-09-01-minutes.txt)
 
 ## 2021-08-31 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on August 31, 2021, which included an executive session to review the performance of a public employee.  The meeting was conducted with both virtual and in-person components due to COVID-19 pandemic guidelines. The executive session las...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on August 31, 2021, which included an executive session to review the performance of a public employee.  The meeting was conducted with both virtual and in-person components due to COVID-19 pandemic guidelines. The executive session lasted for approximately three hours and forty five minutes, with extensions granted at 7:53 p.m. and 8:58 p.m. Director Joan Lotze left the meeting at 9:43 p.m. The board reconvened in regular session at 9:45 p.m. and adjourned the meeting.  No action was taken by the board following the executive ses...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-08-31-minutes.txt)
 
 ## 2021-08-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a special meeting on August 25, 2021, via Zoom.  The board discussed the Washington State School Directors' Association (WSSDA) self-assessment and its potential use for the upcoming November WSSDA event. They also reviewed the school board cale...[truncated in public version]
+The Bellingham School District Board of Directors held a special meeting on August 25, 2021, via Zoom.  The board discussed the Washington State School Directors' Association (WSSDA) self-assessment and its potential use for the upcoming November WSSDA event. They also reviewed the school board calendar for the 2021-22 academic year, considering future study sessions, student roundtables, and school visits. The superintendent provided updates on preparations for the start of the school year, capital projects, and future bond preparation. Notably, due to COVID-19 concerns, board meetings would ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-08-25-minutes.txt)
 
 ## 2021-08-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board meeting minutes detail discussions on various agenda items, including policy reviews and informational updates.  The board reviewed policies GP-7 (Agenda Planning), GP-7.1 (Board Self-Assessment), and GP-7.2 (Annual Board Agenda) with no changes made to GP-7 or GP-7.1. GP-7.2 was un...[truncated in public version]
+The school board meeting minutes detail discussions on various agenda items, including policy reviews and informational updates.  The board reviewed policies GP-7 (Agenda Planning), GP-7.1 (Board Self-Assessment), and GP-7.2 (Annual Board Agenda) with no changes made to GP-7 or GP-7.1. GP-7.2 was unanimously approved.  
+
+The meeting also included informational reports from board members, highlighting the review of parent and community feedback, appreciation for staff work on the budget, and anticipation for the return to in-person meetings. Discussions centered around logistical planning for a...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-08-11-minutes.txt)
 
 ## 2021-07-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School Board meeting minutes detail discussions on Critical Race Theory (CRT) and diversity and inclusion. Mr. Benjamin highlighted the value of a CRT training provided by WSSDA and WASA.  The board also acknowledged the successful execution of graduation ceremonies amidst the challen...[truncated in public version]
+The Bellingham School Board meeting minutes detail discussions on Critical Race Theory (CRT) and diversity and inclusion. Mr. Benjamin highlighted the value of a CRT training provided by WSSDA and WASA.  The board also acknowledged the successful execution of graduation ceremonies amidst the challenges posed by COVID-19. Ms. Rose expressed gratitude for the district's provision of BHS as a cooling shelter during the recent heatwave.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-07-14-minutes.txt)
 
 ## 2021-06-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The School Board reviewed the Superintendent's Monitoring Report regarding Executive Limitations Reports and specifically Policy EL-8 on District Calendar.  The report highlighted commendable progress in adapting to the demands of the pandemic, including adjusting the school calendar for staff learn...[truncated in public version]
+The School Board reviewed the Superintendent's Monitoring Report regarding Executive Limitations Reports and specifically Policy EL-8 on District Calendar.  The report highlighted commendable progress in adapting to the demands of the pandemic, including adjusting the school calendar for staff learning days and providing professional development opportunities to support remote and hybrid learning. Despite challenges, the superintendent was praised for clear communication during a rapidly changing environment and efforts to coordinate services for families' basic and learning needs. The Board s...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-06-09-minutes.txt)
 
 ## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a special meeting on May 26, 2021, via Zoom to conduct a public hearing on the district’s Academic and Student Well-Being Recovery Plan.  The plan was designed to address the impact of COVID-19 on student learning and well-being. No members of t...[truncated in public version]
+The Bellingham School District Board of Directors held a special meeting on May 26, 2021, via Zoom to conduct a public hearing on the district’s Academic and Student Well-Being Recovery Plan.  The plan was designed to address the impact of COVID-19 on student learning and well-being. No members of the public attended the hearing to offer comment. The Board unanimously approved the recovery plan as part of its consent agenda.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-minutes.txt)
 
 ## 2021-05-18 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on May 18, 2021, conducted remotely due to COVID-19 pandemic restrictions.  The primary action item was the appointment of Dougal Thomas as President Pro Tem for the Regular Board Meeting on May 24th in case both the President and Vice ...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on May 18, 2021, conducted remotely due to COVID-19 pandemic restrictions.  The primary action item was the appointment of Dougal Thomas as President Pro Tem for the Regular Board Meeting on May 24th in case both the President and Vice President were absent. The meeting adjourned at 7:42 am.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-05-18-minutes.txt)
 
 ## 2021-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details the impact of COVID-19 on a school district and highlights positive adaptations made during the pandemic. The text emphasizes strong community partnerships that provided educational opportunities for parents, improved connections with families receiving special education servic...[truncated in public version]
+This document details the impact of COVID-19 on a school district and highlights positive adaptations made during the pandemic. The text emphasizes strong community partnerships that provided educational opportunities for parents, improved connections with families receiving special education services, and EDI workshops focused on cultural responsiveness and diversity.  The school board commends the superintendent's exceptional communication and engagement with stakeholders during this challenging period. Specific examples of successful adaptation include adjusting the academic calendar to acc...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-12-minutes.txt)
 
 ## 2021-03-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a regular meeting on March 31, 2021, discussing various topics related to school operations and student well-being. Notably, the board addressed the impact of COVID-19 on the district, with Superintendent Dr. James Everett reporting on increased in-person lear...[truncated in public version]
+The Meridian School District Board held a regular meeting on March 31, 2021, discussing various topics related to school operations and student well-being. Notably, the board addressed the impact of COVID-19 on the district, with Superintendent Dr. James Everett reporting on increased in-person learning opportunities for students. The meeting also focused on student health, including a presentation on the Meridian Middle School counselor and secretarial staff's exceptional support.
+
+The board reviewed and adopted several policies, including Policy 3112: Social Emotional Climate and Policy and ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-31-minutes.txt)
 
 ## 2021-03-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions on several key issues.  The board acknowledged that graduation rates are artificially high due to pandemic-related waiver options and resolved to compare future statistics to pre-pandemic data for consistency. They approved the first reading of Pol...[truncated in public version]
+The school board meeting minutes detail discussions on several key issues.  The board acknowledged that graduation rates are artificially high due to pandemic-related waiver options and resolved to compare future statistics to pre-pandemic data for consistency. They approved the first reading of Policy 6210, Purchasing - Authorization and Control, with a second reading and potential adoption planned for the following month's meeting. Director McKinney emphasized the importance of serving on the school board as an act of public service and highlighted the board's commitment to supporting studen...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-03-22-minutes.txt)
 
 ## 2021-03-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board meeting minutes detail discussions on various topics including school safety measures, mental health support for students, and the district's response to the COVID-19 pandemic.  The board reviewed a report on the state of the district's assets and ongoing maintenan...[truncated in public version]
+The Meridian School District Board meeting minutes detail discussions on various topics including school safety measures, mental health support for students, and the district's response to the COVID-19 pandemic.  The board reviewed a report on the state of the district's assets and ongoing maintenance. They also discussed student autonomy through recognition of the Meridian High School yearbook team for their work during remote and hybrid learning. The meeting included presentations on Career Technical Education, and updates on interlocal agreements with the NWESD Whatcom Detention Center.  Po...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-minutes.txt)
 
 ## 2021-03-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This excerpt from school board meeting minutes focuses on student academic performance during the COVID-19 pandemic. Board members discuss data from MAP assessments, noting that students appear to have maintained or even slightly improved their scores in reading and math compared to the previous yea...[truncated in public version]
+This excerpt from school board meeting minutes focuses on student academic performance during the COVID-19 pandemic. Board members discuss data from MAP assessments, noting that students appear to have maintained or even slightly improved their scores in reading and math compared to the previous year.  The district highlights efforts to engage students remotely using platforms like Lexia for literacy and DreamBox for math. Concerns are raised about achievement gaps related to socioeconomic factors, IEPs, and English language learner status. The board acknowledges the ongoing need to address th...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-03-10-minutes.txt)
 
 ## 2021-02-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a meeting on February 24, 2021, to discuss various school matters. Notably, they addressed the ongoing impact of COVID-19 on school operations, including updates from Meridian Parent Partnership Principal Michelle Siadal regarding changes and challenges faced ...[truncated in public version]
+The Meridian School District Board held a meeting on February 24, 2021, to discuss various school matters. Notably, they addressed the ongoing impact of COVID-19 on school operations, including updates from Meridian Parent Partnership Principal Michelle Siadal regarding changes and challenges faced during the pandemic.  The board also reviewed and adopted a revised fee schedule for Meridian High School and a policy regarding student promotion and retention (Policy 2421). A second reading was conducted for Policy 2107: Comprehensive Early Literacy Plan, and Policy 3115: Homeless Students Experi...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-02-24-minutes.txt)
 
 ## 2021-02-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on February 22, 2021, conducted remotely due to COVID-19 pandemic restrictions. The primary purpose of the meeting was to convene in executive session for one hour to review the performance of a public employee.  No action was taken fol...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on February 22, 2021, conducted remotely due to COVID-19 pandemic restrictions. The primary purpose of the meeting was to convene in executive session for one hour to review the performance of a public employee.  No action was taken following the closed session. The meeting was adjourned after reconvening in regular session. Technical difficulties prevented the Board President from participating in the open portion of the meeting.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-02-22-minutes.txt)
 
 ## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This school board meeting summary focuses on the district's efforts to address equity and inclusion. The addition of a Director for Equity, Diversity and Inclusion (DEI) and a Mental Health Coordinator are highlighted as key steps.  The report also mentions increased engagement with families, partic...[truncated in public version]
+This school board meeting summary focuses on the district's efforts to address equity and inclusion. The addition of a Director for Equity, Diversity and Inclusion (DEI) and a Mental Health Coordinator are highlighted as key steps.  The report also mentions increased engagement with families, particularly those historically less connected, through the expansion of the Family Engagement Team. The district acknowledges the impact of COVID-19 on student mental health and outlines initiatives to provide support. Concerns about applying an equity lens consistently across district initiatives and a ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-minutes.txt)
 
 ## 2021-01-27 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on January 27, 2021 via Zoom.  The meeting included updates on the district's response to COVID-19, including the return of students to campus and an upcoming vaccination clinic. Several policies were presented for second reading ...[truncated in public version]
+The Meridian School District #505 held a regular school board meeting on January 27, 2021 via Zoom.  The meeting included updates on the district's response to COVID-19, including the return of students to campus and an upcoming vaccination clinic. Several policies were presented for second reading and adoption, including Policy 5251: Conflicts of Interest, Policy 5259 Recognition and De Minimis Policy, Policy 6220: Bid or Request for Proposal Requirements, and Policy 6230: Relations with Vendors. The board also approved a Title 1A Interlocal Agreement and the 2020-2021 NCTA Inter-district Agr...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-27-minutes.txt)
 
 ## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 Board met on January 13, 2021 via Zoom.  The meeting included a second reading and adoption of Policy and Procedure 2336: Required Observances which mandates observance of Veterans Day, Constitution Day, Temperance and Good Citizenship Day, and Disability History Mo...[truncated in public version]
+The Meridian School District #505 Board met on January 13, 2021 via Zoom.  The meeting included a second reading and adoption of Policy and Procedure 2336: Required Observances which mandates observance of Veterans Day, Constitution Day, Temperance and Good Citizenship Day, and Disability History Month. The board also adopted Policy and Procedure 3232: Parent and Student Rights in Administration of Surveys, Analysis or Evaluation and Policy and Procedure 3244: Prohibition of Corporal Punishment Track Changes.  The board reviewed the updated MSD Reopening Plan which addressed the ongoing COVID-...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-minutes.txt)
 
 ## 2021-01-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document is a compilation of feedback from school board members on a facilities and operations report. The report highlights various achievements within the district, including energy savings initiatives, successful transportation programs, and implementation of food waste reduction strategies ...[truncated in public version]
+This document is a compilation of feedback from school board members on a facilities and operations report. The report highlights various achievements within the district, including energy savings initiatives, successful transportation programs, and implementation of food waste reduction strategies like the Food Share Shelves Program. Board members commend the staff's flexibility and adaptability in navigating the challenges posed by the COVID-19 pandemic. Notably, board member KR suggests maintaining consistent language regarding data and potentially incorporating supporting evidence for stat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-01-13-minutes.txt)
 
 ## 2021-01-11 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on January 11, 2021, conducted remotely due to COVID-19 pandemic restrictions. The purpose of the meeting was to hold an executive session for reviewing the performance of a public employee.  The executive session lasted approximately t...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on January 11, 2021, conducted remotely due to COVID-19 pandemic restrictions. The purpose of the meeting was to hold an executive session for reviewing the performance of a public employee.  The executive session lasted approximately two hours and fifteen minutes, with extensions announced in the open meeting. No action was taken by the board following the executive session.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-01-11-minutes.txt)
 
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoom. Routine items such as the election of officers (Karen Reich as President and Brian Kelly as Vice President), approval of minutes, and a consent agenda addressing personnel actions, surplus resolutions, purchases, payr...[truncated in public version]
+The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoom. Routine items such as the election of officers (Karen Reich as President and Brian Kelly as Vice President), approval of minutes, and a consent agenda addressing personnel actions, surplus resolutions, purchases, payroll, donations, and an Everett Community College agreement were addressed. The board also received information from the audience regarding remote learning experiences and discussed various topics under "Information from the Board," including updates on conferences, meetings, and legislative preparat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
 
 ## 2020-11-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a special board meeting on November 24, 2020, to discuss the return of secondary students to in-person instruction amidst the COVID-19 pandemic.  The board entered executive session to consult with legal counsel regarding the legal risks of a proposed action f...[truncated in public version]
+The Blaine School District No. 503 held a special board meeting on November 24, 2020, to discuss the return of secondary students to in-person instruction amidst the COVID-19 pandemic.  The board entered executive session to consult with legal counsel regarding the legal risks of a proposed action for returning students to in-person learning. Following the executive session, the board voted unanimously to follow Superintendent Dr. Christopher Granger's recommendation to pause the return of 6th and 9th grade students for one week. This decision was made to allow Dr. Granger time to work with th...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-11-24-minutes.txt)
 
 ## 2020-11-12 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District held a regular school board meeting on November 12, 2020.  The meeting was held via Zoom due to the COVID-19 pandemic. Discussions centered around safety measures and adjustments made in response to the ongoing pandemic. The board approved MB Resolution 20/21:4, decla...[truncated in public version]
+The Mount Baker School District held a regular school board meeting on November 12, 2020.  The meeting was held via Zoom due to the COVID-19 pandemic. Discussions centered around safety measures and adjustments made in response to the ongoing pandemic. The board approved MB Resolution 20/21:4, declaring a state of emergency.
+
+The board also discussed mental health resources for students, highlighting partnerships with organizations like Cascadia Youth Mental Health. They acknowledged the importance of student well-being during challenging times and reviewed programs designed to address mental ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-12-minutes.txt)
 
 ## 2020-11-04 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting and budget hearing on November 4, 2020, via Zoom.  The board discussed several policy changes, including a second reading of Policy and Procedure 3535 - Financial Aid and Advising Day which was adopted unanimously. A first reading...[truncated in public version]
+The Meridian School District #505 held a regular school board meeting and budget hearing on November 4, 2020, via Zoom.  The board discussed several policy changes, including a second reading of Policy and Procedure 3535 - Financial Aid and Advising Day which was adopted unanimously. A first reading of Policy and Procedure 6112 – Rental or Lease of District Property was also presented and subsequently adopted. The board also reviewed a revised Board Yearly Plan of Work, which was approved unanimously.  The Superintendent provided an update on the transition to Hybrid learning and transmission ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-11-04-minutes.txt)
 
 ## 2020-11-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a meeting on November 18, 2021 to discuss various matters related to school operations.  A significant portion of the meeting focused on updates regarding the district's response to the COVID-19 pandemic. Superintendent Baker provided informatio...[truncated in public version]
+The Bellingham School District Board of Directors held a meeting on November 18, 2021 to discuss various matters related to school operations.  A significant portion of the meeting focused on updates regarding the district's response to the COVID-19 pandemic. Superintendent Baker provided information on the phased return to in-person learning for students, highlighting the success of safety protocols implemented during the initial phases. The board also discussed the ongoing challenges and adjustments required to support student health and well-being amidst the pandemic.
+
+The meeting included ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-11-04-minutes.txt)
 
 ## 2020-10-29 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School Board held a work session on October 29, 2020, via Zoom to discuss the district's reopening plan amidst the COVID-19 pandemic.  The meeting focused on updates regarding student attendance, passing rates, interventions for struggling students, and remote learning experiences at...[truncated in public version]
+The Mount Baker School Board held a work session on October 29, 2020, via Zoom to discuss the district's reopening plan amidst the COVID-19 pandemic.  The meeting focused on updates regarding student attendance, passing rates, interventions for struggling students, and remote learning experiences at both the junior high/high school and elementary levels. The discussion included strategies for addressing student engagement and communication with families during remote instruction.  Board members also reviewed Mary Sewright's goals, though specific details about those goals were not provided in ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-29-minutes.txt)
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The October 22, 2020 school board meeting focused on several key issues.  The board approved the FSI Engineers Contract for work on the 800 Building and the MIDAS Education Agreement. They also discussed the MB Resolution 20/21:3 Acceptance of Building Commissioning Report but deferred a vote until ...[truncated in public version]
+The October 22, 2020 school board meeting focused on several key issues.  The board approved the FSI Engineers Contract for work on the 800 Building and the MIDAS Education Agreement. They also discussed the MB Resolution 20/21:3 Acceptance of Building Commissioning Report but deferred a vote until November. The Fall 2020 Connections Agreement with North Cascades Institute was approved.  A presentation from FSI Engineers addressed the importance of proper ventilation, particularly in light of COVID-19 concerns.
+
+The board also received reports on the Executive Director of Finance & Operations ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
 
 ## 2020-10-15 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The October 15, 2020 School Board Work Session focused on planning for the reopening of schools and the return to in-person learning amidst the COVID-19 pandemic.  The meeting addressed topics such as COVID-19 worksite safety protocols, including the establishment of safety committees, risk assessme...[truncated in public version]
+The October 15, 2020 School Board Work Session focused on planning for the reopening of schools and the return to in-person learning amidst the COVID-19 pandemic.  The meeting addressed topics such as COVID-19 worksite safety protocols, including the establishment of safety committees, risk assessments, and procedures for addressing symptomatic staff and students. The discussion also covered the WEA COVID-19 Worksite Safety Checklist and guidance for returning to school following a positive COVID-19 case.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-15-minutes.txt)
 
 ## 2020-10-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a special meeting on October 9, 2020, via Zoom.  The meeting began with roll call and a general discussion where board members shared their experiences navigating the challenges and silver linings of the pandemic. The meeting adjourned at 6:30 p...[truncated in public version]
+The Bellingham School District Board of Directors held a special meeting on October 9, 2020, via Zoom.  The meeting began with roll call and a general discussion where board members shared their experiences navigating the challenges and silver linings of the pandemic. The meeting adjourned at 6:30 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-10-09-minutes.txt)
 
 ## 2020-10-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District held a regular meeting on October 8, 2020 via Zoom.  The agenda included items related to COVID-19, such as a discussion on community school reopening and a draft phased re-entry plan.  The board also discussed racial equity initiatives, including the district's parti...[truncated in public version]
+The Mount Baker School District held a regular meeting on October 8, 2020 via Zoom.  The agenda included items related to COVID-19, such as a discussion on community school reopening and a draft phased re-entry plan.  The board also discussed racial equity initiatives, including the district's participation in Mount Baker District Equity Training. Other topics covered during the meeting included approval of minutes from previous meetings, consent agenda items such as personnel actions, purchases, accounts payable, payroll, donations, and MOUs, and reports from the Superintendent and Executive ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-08-minutes.txt)
 
 ## 2020-09-24 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District held a regular meeting on September 24, 2020, via Zoom.  The board approved the minutes from March 26, 2020, and addressed several action items. These included Resolution 20/21:2 for the final acceptance of construction completion at MB Baker and a Sub Recipient Agree...[truncated in public version]
+The Mount Baker School District held a regular meeting on September 24, 2020, via Zoom.  The board approved the minutes from March 26, 2020, and addressed several action items. These included Resolution 20/21:2 for the final acceptance of construction completion at MB Baker and a Sub Recipient Agreement between Whatcom County & Mount Baker School District. The meeting also featured reports from the Executive Director of Finance & Operations (Financial Report) and the Superintendent (Reopening Items), suggesting that discussions related to COVID-19 and school reopening procedures were likely pa...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-24-minutes.txt)
 
 ## 2020-09-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board meeting minutes detail a positive start to the school year despite challenges. Board members expressed appreciation for the superintendent and staff's efforts in navigating the ongoing COVID-19 pandemic.  Several members highlighted positive feedback from parents regarding the schoo...[truncated in public version]
+The school board meeting minutes detail a positive start to the school year despite challenges. Board members expressed appreciation for the superintendent and staff's efforts in navigating the ongoing COVID-19 pandemic.  Several members highlighted positive feedback from parents regarding the school year's commencement. The meeting also included a discussion on the importance of reaching out to families experiencing difficulties and ensuring the well-being of both students and staff during this time.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-09-16-minutes.txt)
 
 ## 2020-09-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The meeting minutes detail a regular school board meeting held on September 10, 2020, via Zoom.  The board discussed and approved several items related to the reopening of schools amidst the COVID-19 pandemic. This included approving MB Resolution 20/21:1, which likely outlined protocols for reopeni...[truncated in public version]
+The meeting minutes detail a regular school board meeting held on September 10, 2020, via Zoom.  The board discussed and approved several items related to the reopening of schools amidst the COVID-19 pandemic. This included approving MB Resolution 20/21:1, which likely outlined protocols for reopening and potentially addressed suspension of existing policies due to the pandemic.
+
+The meeting also featured a presentation on social-emotional learning (SEL) from a presenter identified only as "a presenter."  This suggests a potential focus on student mental health and well-being in the context of...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-10-minutes.txt)
 
 ## 2020-09-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a virtual meeting on September 9, 2020 to discuss various agenda items.  The board unanimously approved several agreements including the MSD ConnectED MOU, the 2020-21 Physical Therapist Services Interlocal Agreement and the 2020-21 Procare Agreement. They als...[truncated in public version]
+The Meridian School District Board held a virtual meeting on September 9, 2020 to discuss various agenda items.  The board unanimously approved several agreements including the MSD ConnectED MOU, the 2020-21 Physical Therapist Services Interlocal Agreement and the 2020-21 Procare Agreement. They also discussed Resolution 06-20 which was presented by Superintendent Dr. James Everett. The meeting included reports on the start of the school year from both Superintendent Everett and Assistant Superintendent Kurt Harvill.  The board approved the surplus of district vehicles as presented by Transpor...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-09-09-minutes.txt)
 
 ## 2020-08-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District Board held a work session on August 24, 2020, to review the district's 2020-2023 Strategic Plan and School Improvement Plans for each school.  The meeting was conducted remotely due to COVID-19 restrictions. Superintendent Dr. Christopher Granger presented an overview of t...[truncated in public version]
+The Blaine School District Board held a work session on August 24, 2020, to review the district's 2020-2023 Strategic Plan and School Improvement Plans for each school.  The meeting was conducted remotely due to COVID-19 restrictions. Superintendent Dr. Christopher Granger presented an overview of the strategic plan, which focused on culture, social-emotional learning and student safety, guaranteed and viable curriculum, and fiscal responsibility. Each school principal then presented their individual improvement plans, outlining goals in areas such as ELA, Math, and CTE. The district aims to h...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-24-minutes.txt)
 
 ## 2020-08-19 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a Special Board Meeting on August 19, 2020, conducted remotely due to COVID-19 pandemic restrictions.  The meeting's primary purpose was an executive session to discuss the district's position in collective bargaining. The session lasted for approximately 80 m...[truncated in public version]
+The Blaine School District No. 503 held a Special Board Meeting on August 19, 2020, conducted remotely due to COVID-19 pandemic restrictions.  The meeting's primary purpose was an executive session to discuss the district's position in collective bargaining. The session lasted for approximately 80 minutes and was extended by 15 minutes. Following the executive session, the board reconvened into regular session and adjourned unanimously.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-19-minutes.txt)
 
 ## 2020-08-08 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District held a special board meeting on August 8, 2020 to discuss and vote on the district's reopening plan for the 2020-2021 school year. Due to the COVID-19 pandemic, the meeting was conducted remotely.  The board considered community input received via email and a Community Q&A...[truncated in public version]
+The Blaine School District held a special board meeting on August 8, 2020 to discuss and vote on the district's reopening plan for the 2020-2021 school year. Due to the COVID-19 pandemic, the meeting was conducted remotely.  The board considered community input received via email and a Community Q&A session held on August 6th. Superintendent Dr. Granger recommended starting the year remotely with the intent of phasing in students' return to buildings based on health data and guidance from local authorities. This recommendation was met with varying opinions from the board members, with Director...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-08-minutes.txt)
 
@@ -388,73 +410,79 @@ The Blaine School District held a special board meeting on August 8, 2020 to dis
 
 The Meridian School District Board held a regular meeting on August 5, 2020, via Zoom. Key topics discussed included the district's reopening plan for the 2020-21 school year in light of the COVID-19 pandemic (Board Resolution 04-20). The board approved the resolution outlining the reopening plan.
 
-...[truncated in public version]
+The meeting also covered several other agenda items, including a First Reading of Policy and Procedure 6700: Nutrition, Health and Physical Fitness, which will be presented for Second Reading at the August 19th meeting.  The board reviewed contracts for Medicaid Reimbursement Services with Public Co...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-08-05-minutes.txt)
 
 ## 2020-08-05 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District held a special board meeting on August 5, 2020 to discuss the reopening plan for the upcoming school year in light of the COVID-19 pandemic. Superintendent Dr. Christopher Granger recommended a phased-in approach to returning students to classrooms, starting with remote le...[truncated in public version]
+The Blaine School District held a special board meeting on August 5, 2020 to discuss the reopening plan for the upcoming school year in light of the COVID-19 pandemic. Superintendent Dr. Christopher Granger recommended a phased-in approach to returning students to classrooms, starting with remote learning and gradually introducing in-person instruction based on case statistics and community health guidelines. This recommendation was met with discussion from board members regarding concerns for student safety, equitable access to education, and the needs of families. Ultimately, the board decid...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-05-minutes.txt)
 
 ## 2020-07-29 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special meeting and board work session on July 29th, 2020.  The meeting addressed the 2020-2021 school opening plans in light of the COVID-19 pandemic. The board discussed various options for reopening schools safely and effectively. They also reviewed and ap...[truncated in public version]
+The Meridian School District #505 held a special meeting and board work session on July 29th, 2020.  The meeting addressed the 2020-2021 school opening plans in light of the COVID-19 pandemic. The board discussed various options for reopening schools safely and effectively. They also reviewed and approved a consent agenda containing items such as personnel reports, agreements with regional education service districts, a fuel bid extension, an ELL cooperative agreement, adoption of Amplify Science curriculum materials, and a yearly plan of work.  The meeting concluded at 8:13 pm.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-07-29-minutes.txt)
 
 ## 2020-07-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board meeting minutes detail discussions on reopening schools and the presence of police in schools. Board members acknowledged community input regarding these issues, highlighting concerns about student safety and equity.  The board also discussed the importance of mental health support ...[truncated in public version]
+The school board meeting minutes detail discussions on reopening schools and the presence of police in schools. Board members acknowledged community input regarding these issues, highlighting concerns about student safety and equity.  The board also discussed the importance of mental health support for students, particularly in light of the challenges they have faced during the COVID-19 pandemic.  Board member Diaz Hackler emphasized the need to advocate for increased funding for counselors and social workers at the state level. The minutes further reflect a commitment to community engagement,...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-07-15-minutes.txt)
 
 ## 2020-06-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting and budget hearing on June 24th, 2020.  The meeting began with the approval of the agenda and consent agenda, which included items such as minutes from the previous meeting, accounts payable, personnel reports, and second readings...[truncated in public version]
+The Meridian School District #505 held a regular school board meeting and budget hearing on June 24th, 2020.  The meeting began with the approval of the agenda and consent agenda, which included items such as minutes from the previous meeting, accounts payable, personnel reports, and second readings of policies 5202 and 6106. A budget hearing was then held, during which the board unanimously approved the 2020-2021 budget (Resolution 03-20).
+
+The board also discussed several new business items. They conducted interviews to fill a vacant board position in District 3, ultimately voting 3-1 to app...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-06-24-minutes.txt)
 
 ## 2020-05-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District Board held a meeting to discuss and approve various matters.  A key topic was the extension of Superintendent Dr. Granger's contract through June 2023. The board unanimously approved the contract, acknowledging Dr. Granger's work during the pandemic.  The meeting also incl...[truncated in public version]
+The Blaine School District Board held a meeting to discuss and approve various matters.  A key topic was the extension of Superintendent Dr. Granger's contract through June 2023. The board unanimously approved the contract, acknowledging Dr. Granger's work during the pandemic.  The meeting also included agenda suggestions for future discussions, such as the Educator of the Year Award, the 2020-2021 Student Fee List, and the 2020-2021 Budget Planning Update. The board went into executive session to review the performance of a public employee.  Following the executive session, the meeting reconv...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-05-26-minutes.txt)
 
 ## 2020-05-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This school board meeting summary focuses on the challenges and successes faced by the school district during the COVID-19 pandemic. Board members highlight positive feedback received from parents regarding the district's remote learning support and technology access. They also express appreciation ...[truncated in public version]
+This school board meeting summary focuses on the challenges and successes faced by the school district during the COVID-19 pandemic. Board members highlight positive feedback received from parents regarding the district's remote learning support and technology access. They also express appreciation for the superintendent and executive team's efforts in navigating this unprecedented time. Discussions touch upon graduation plans and acknowledge the grief experienced by students and families due to missed traditional events. The meeting concludes with a board assessment and adjournment.  
+
+There ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-05-13-minutes.txt)
 
 ## 2020-04-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board meeting minutes detail discussions regarding the district's response to the COVID-19 pandemic. Board members expressed appreciation for Dr. Baker's updates and communication regarding the challenges and adaptations implemented during this time.  Ms. Diaz Hackler inquired about the p...[truncated in public version]
+The school board meeting minutes detail discussions regarding the district's response to the COVID-19 pandemic. Board members expressed appreciation for Dr. Baker's updates and communication regarding the challenges and adaptations implemented during this time.  Ms. Diaz Hackler inquired about the potential impact of the pandemic on the construction of Parkview Elementary and the future learning environment. Several board members highlighted positive aspects of remote learning, such as increased visibility into classroom activities and a reduction in student loneliness due to video interaction...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-04-22-minutes.txt)
 
 ## 2020-04-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District Board discussed the impact of COVID-19 on education, including the shift to online learning and the challenges faced by students with limited internet access.  The board also addressed Senate Bill 5395 regarding sex education and confirmed that the district's current Flash...[truncated in public version]
+The Blaine School District Board discussed the impact of COVID-19 on education, including the shift to online learning and the challenges faced by students with limited internet access.  The board also addressed Senate Bill 5395 regarding sex education and confirmed that the district's current Flash curriculum aligns with the new mandate. Additionally, the meeting included discussions about teacher support and future planning, including a potential board retreat and a work session focused on School Improvement Plans.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-04-20-minutes.txt)
 
 ## 2020-03-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School Board held a regular meeting on March 22, 2020.  Discussions centered around the district's response to the COVID-19 pandemic. Board members commended the superintendent and his team for their work in navigating the health crisis, highlighting the rapid development of systems f...[truncated in public version]
+The Bellingham School Board held a regular meeting on March 22, 2020.  Discussions centered around the district's response to the COVID-19 pandemic. Board members commended the superintendent and his team for their work in navigating the health crisis, highlighting the rapid development of systems for remote learning and meal distribution. They also expressed appreciation for the communication from school staff to families.
+
+Board member Diaz Hackler raised concerns about the mental health impact of the pandemic on both students and families, suggesting the need for additional support resource...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-25-minutes.txt)
 
 ## 2020-03-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions and decisions related to several key areas.  The board is planning a retreat in May, contingent on the lifting of travel restrictions, to discuss the district's vision and mission statement.  They also reviewed minutes from a February 24th work ses...[truncated in public version]
+The school board meeting minutes detail discussions and decisions related to several key areas.  The board is planning a retreat in May, contingent on the lifting of travel restrictions, to discuss the district's vision and mission statement.  They also reviewed minutes from a February 24th work session with Rich Parker, though the context of this review was not provided. The next regular meeting will be held on April 20th and will include agenda items such as Teacher Appreciation Week, Family Service Center Report, Teaching & Learning Report, 2020-2021 Budget Planning Update, Superintendent's...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-03-23-minutes.txt)
 
 ## 2020-03-16 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held an emergency board meeting on March 16, 2020, to address the COVID-19 pandemic state of emergency.  The board unanimously adopted Resolution 1920-11 Emergency – Suspension of Policy, which allows for the temporary suspension of district policies during the pan...[truncated in public version]
+The Blaine School District No. 503 held an emergency board meeting on March 16, 2020, to address the COVID-19 pandemic state of emergency.  The board unanimously adopted Resolution 1920-11 Emergency – Suspension of Policy, which allows for the temporary suspension of district policies during the pandemic. This resolution was recommended by the Washington State School Directors' Association (WSSDA) and is intended to streamline the district's response to the crisis. Superintendent Dr. Christopher Granger explained that the resolution would enable the district to implement protocols advised by t...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-03-16-minutes.txt)
 
