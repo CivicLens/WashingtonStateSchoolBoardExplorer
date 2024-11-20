@@ -2,7 +2,7 @@
 
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions and actions related to transgender student athletes. The board approved a letter to the WIAA (Washington Interscholastic Activities Association) advocating for policy changes regarding transgender athlete participation.  Additionally, the board debated and ultimately approved a letter to legislators concerning the inclusion of transgender athletes assigned male at birth in sports. This letter saw revisions with the removal of a bullet point titled "Education and Awareness." The minutes also highlight Director Brar's request fo...[truncated, use api for full text]
+The Lynden School District Board meeting minutes detail discussions and actions related to transgender student athletes. The board approved a letter to the WIAA (Washington Interscholastic Activities Association) advocating for policy changes regarding transgender athlete participation.  Additionally, the board debated and ultimately approved a letter to legislators concerning the inclusion of transgender athletes assigned male at birth in sports. This letter saw revisions with the removal of a bullet point titled "Education and Awareness." The minutes also highlight Director Brar's request for further discussion on Initiative 2081, though its specific content related to LGBTQ+ issues is not mentioned.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
 
@@ -25,7 +25,7 @@ The Lynden School District Board meeting minutes detail discussions and actions 
 
 ## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superi...[truncated, use api for full text]
+The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superintendents on proposed amended language.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
 
@@ -40,7 +40,9 @@ The school board discussed amending Policy 3211/P, which likely pertains to stud
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their mo...[truncated, use api for full text]
+The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their model policy 3211/3211P, potentially with legal counsel's assistance.
+
+Additionally, they discussed the possibility of joining other districts advocating for a more parent-friendly model policy from WSS...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
 
@@ -67,7 +69,7 @@ The Lynden School District Board meeting minutes detail discussions concerning g
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the a...[truncated, use api for full text]
+The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the amended resolution.  The minutes do not explicitly state the reasoning behind these changes.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
 
@@ -91,37 +93,37 @@ Ext...[truncated, use api for full text] | Director Martinez motioned to approve
 
 This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
 
-Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusiv...[truncated, use api for full text]
+Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues relat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
 ## 2023-02-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District Board held a work session to review mid-year progress reports on school improvement plans.  Discussions focused on student academic performance across different grade levels and subject areas.  Principals from each school presented updates on their respective schools' initiatives, highlighting successes and challenges. Notably, Blaine High School Principal Scott Ellis mentioned professional development for staff in social emotional learning that included a guest facilitator to help them better understand the needs of LGBTQ+ students. The session also touched upon tea...[truncated, use api for full text]
+The Blaine School District Board held a work session to review mid-year progress reports on school improvement plans.  Discussions focused on student academic performance across different grade levels and subject areas.  Principals from each school presented updates on their respective schools' initiatives, highlighting successes and challenges. Notably, Blaine High School Principal Scott Ellis mentioned professional development for staff in social emotional learning that included a guest facilitator to help them better understand the needs of LGBTQ+ students. The session also touched upon teacher-staff shortages, with Superintendent Dr. Christopher Granger acknowledging the foundational work administrators are doing to address these challenges and promote student success.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-02-27-minutes.txt)
 
 ## 2022-05-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a meeting on May 25th, 2022 to discuss various agenda items.  A key point of discussion was the adoption of an inclusive sex education curriculum. During public comment, community members expressed both support and concern regarding the curriculum's approach to LGBTQ+ topics. The board ultimately approved the new curriculum after deliberation. Additionally, the meeting addressed student mental health concerns, with Superintendent Dr. James Everett highlighting updates on spring sports and the search for new leadership.  The board also reviewed a proposed...[truncated, use api for full text]
+The Meridian School District Board held a meeting on May 25th, 2022 to discuss various agenda items.  A key point of discussion was the adoption of an inclusive sex education curriculum. During public comment, community members expressed both support and concern regarding the curriculum's approach to LGBTQ+ topics. The board ultimately approved the new curriculum after deliberation. Additionally, the meeting addressed student mental health concerns, with Superintendent Dr. James Everett highlighting updates on spring sports and the search for new leadership.  The board also reviewed a proposed budget for the 2022-23 school year.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-05-25-minutes.txt)
 
 ## 2022-04-27 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District Board held a meeting on April 27th, 2022, to discuss various agenda items. Notably, they conducted a second reading and approved Policy & Procedure 3211—Gender Inclusive Schools with a vote of 3-2. This policy aims to create a welcoming and inclusive environment for all students, regardless of their gender identity.  The board also reviewed and approved several other policies, including those related to medication at school (Policy & Procedure 3416), opioid overdose reversal (Policy & Procedure 3424), and parent access to a safe and orderly learning environment (Po...[truncated, use api for full text]
+The Meridian School District Board held a meeting on April 27th, 2022, to discuss various agenda items. Notably, they conducted a second reading and approved Policy & Procedure 3211—Gender Inclusive Schools with a vote of 3-2. This policy aims to create a welcoming and inclusive environment for all students, regardless of their gender identity.  The board also reviewed and approved several other policies, including those related to medication at school (Policy & Procedure 3416), opioid overdose reversal (Policy & Procedure 3424), and parent access to a safe and orderly learning environment (Policy & Procedure 4200). These policy changes reflect the district's commitment to student well-being and creating a supportive educational experience for all.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-27-minutes.txt)
 
 ## 2022-04-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail several first readings of new policies and updates to existing ones. Notably, Policy & Procedure 3211 underwent a revision focusing on "Gender Inclusive Schools." While the specific content of the revisions isn't mentioned, the title suggests an emphasis on inclusivity for transgender and gender non-conforming students.  The board also reviewed a first reading of Policy & Procedure 3424 concerning "Opioid-Related Overdose Reversal," indicating a potential focus on student health and safety. The minutes also document a hiring update and spring break maint...[truncated, use api for full text]
+The school board meeting minutes detail several first readings of new policies and updates to existing ones. Notably, Policy & Procedure 3211 underwent a revision focusing on "Gender Inclusive Schools." While the specific content of the revisions isn't mentioned, the title suggests an emphasis on inclusivity for transgender and gender non-conforming students.  The board also reviewed a first reading of Policy & Procedure 3424 concerning "Opioid-Related Overdose Reversal," indicating a potential focus on student health and safety. The minutes also document a hiring update and spring break maintenance updates provided by Superintendent Dr. James Everett.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-13-minutes.txt)
 
 ## 2020-01-13 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District held a special board meeting on January 13, 2020, to discuss and approve the first reading of several new policies. Policy 3211, "Gender-Inclusive Schools," was introduced in response to Senate Bill 5689 which required the district to adopt such a policy by January 31, 2020. During discussion, two sentences regarding communication with parents were slated for removal from the updated procedural language. Concerns about locker room privacy and how similar gender issues are handled in lower grades were also raised. The board unanimously approved the first reading of Po...[truncated, use api for full text]
+The Blaine School District held a special board meeting on January 13, 2020, to discuss and approve the first reading of several new policies. Policy 3211, "Gender-Inclusive Schools," was introduced in response to Senate Bill 5689 which required the district to adopt such a policy by January 31, 2020. During discussion, two sentences regarding communication with parents were slated for removal from the updated procedural language. Concerns about locker room privacy and how similar gender issues are handled in lower grades were also raised. The board unanimously approved the first reading of Policy 3211.  Policies 3143 "District Notification of Juvenile Offenders," 3144 "Release of Information Concerning Student Sexual and Kidnapping Offenders" and 3145 "Sex Offender Access to District Prop...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-01-13-minutes.txt)
 
@@ -129,13 +131,13 @@ The Blaine School District held a special board meeting on January 13, 2020, to 
 
 The Bellingham School Board meeting minutes highlight student perspectives on diversity and inclusion. Students expressed a desire for unified sports options for younger students to be more inclusive of those questioning their gender identity. They also mentioned the lack of teacher representation reflecting their own identities, suggesting a need for greater diversity among educators.  The students felt that leadership opportunities should be made available at a younger age.  
 
-One student noted taking an African American history class and suggested it should be required for all students. The...[truncated, use api for full text]
+One student noted taking an African American history class and suggested it should be required for all students. The meeting included a report from Ms. Diaz Hackler about her interactions with students at a linkage meeting, where she learned about the disconnect between the language used in "The Bellingham Promise"...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-06-05-minutes.txt)
 
 ## 2019-05-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District held a Community Linkage Special Meeting to gather student input on "The Bellingham Promise," the district's strategic plan outlining goals for students. Students discussed various aspects of the plan, including mental health, character development, and diversity & inclusion. They expressed appreciation for the inclusion of LGBTQ+ identities but suggested more staff training on these topics.  Students also highlighted the need for increased access to resources like food and clothing, and emphasized the importance of a supportive and inclusive school environment. ...[truncated, use api for full text]
+The Bellingham School District held a Community Linkage Special Meeting to gather student input on "The Bellingham Promise," the district's strategic plan outlining goals for students. Students discussed various aspects of the plan, including mental health, character development, and diversity & inclusion. They expressed appreciation for the inclusion of LGBTQ+ identities but suggested more staff training on these topics.  Students also highlighted the need for increased access to resources like food and clothing, and emphasized the importance of a supportive and inclusive school environment. The meeting aimed to foster community engagement and incorporate student voices in shaping educational policies and practices as part of the district's long-term strategic planning.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-05-29-minutes.txt)
 
@@ -149,7 +151,7 @@ The school board discussed feedback on a monitoring response document for EL-9, 
 
 The Bellingham School District held a Community Linkage Special Meeting on March 27, 2019, to gather input from community agencies and organizations on how best to support families. Representatives from Lydia Place, Brigid Collins House, Northwest Youth Services, Whatcom Detention Center, and Opportunity Council participated in discussions focused on The Bellingham Promise, the district's set of goals for students.  
 
-Discussions highlighted the need for increased mental health support for students, especially those who have experienced trauma. Participants also noted the importance of diversi...[truncated, use api for full text]
+Discussions highlighted the need for increased mental health support for students, especially those who have experienced trauma. Participants also noted the importance of diversity and inclusion initiatives and the value of strong relationships between teachers, parents, and students. Concerns were raised regarding discrepancies in referral rates to Northwest Youth Services b...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-03-27-minutes.txt)
 
@@ -157,7 +159,7 @@ Discussions highlighted the need for increased mental health support for student
 
 The Bellingham School Board met in a special session on August 8, 2013, to discuss various agenda items for the upcoming school year. Notably, they expressed a desire to hold study sessions on topics related to diversity and inclusion, including the ACE (Adverse Childhood Experiences) Study, the Teacher/Principal Evaluation Project (TPEP), Common Core standards, and Ends 2.1 and 3.  The board also planned linkage meetings focused on supporting diverse student populations, specifically mentioning Special Education, English Language Learners (ELL), and LGBTQ students.
 
-Further demonstrating a co...[truncated, use api for full text]
+Further demonstrating a commitment to community engagement, the board discussed ways to enhance technology at board meetings for better communication with attendees and reviewed preferred methods of receiving routine and urgen...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-08-minutes.txt)
 

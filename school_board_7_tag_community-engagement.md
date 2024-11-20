@@ -11,7 +11,7 @@ The meeting also included approval of vouchers and payroll payments across vario
 
 The school board meeting minutes detail routine financial matters such as voucher and payroll approvals.  A noteworthy item is the discussion regarding an upcoming newsletter with a cost of $2150 for an 8-page full color edition.  The FFA will be presenting at the April meeting. There was also a brief update on a social media lawsuit. The board entered executive session to discuss a personnel issue, but no action was taken. Steve Jones, likely a representative from the auditing firm, outlined the audit process and informed the board of their participation options. 
 
-The minutes reflect standar...[truncated, use api for full text]
+The minutes reflect standard school board procedures with discussions around finances, community engagement (FFA presentation), and internal matters (personnel).  There is no mention of controversial topics such as critical rac...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-03-21-minutes.txt)
 

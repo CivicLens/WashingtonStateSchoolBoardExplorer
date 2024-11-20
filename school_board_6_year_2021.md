@@ -8,7 +8,7 @@ The Lynden School Board meeting minutes detail discussions on various topics, in
 
 ## 2021-10-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document details leaves of absence and resignations/terminations for certificated and classified personnel within a school district.  Several staff members are taking medical leave of absences, with varying durations and types (intermittent vs. continuous). The document also lists several resignations and retirements across different positions and locations. Notably, the text highlights teacher-staff shortages through the listing of multiple open positions due to departures. There is a particular emphasis on special education support staff needing replacements, as evidenced by the listed ...[truncated, use api for full text]
+This document details leaves of absence and resignations/terminations for certificated and classified personnel within a school district.  Several staff members are taking medical leave of absences, with varying durations and types (intermittent vs. continuous). The document also lists several resignations and retirements across different positions and locations. Notably, the text highlights teacher-staff shortages through the listing of multiple open positions due to departures. There is a particular emphasis on special education support staff needing replacements, as evidenced by the listed vacancies for Para Educators.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-10-28-minutes.txt)
 
@@ -34,7 +34,7 @@ This document details personnel changes within a school district. It lists class
 
 The Lynden School Board met to discuss and approve several items, including the 2021-2022 budget (Resolution No. 17-21) and a four-year forecast. They also authorized Christine Blake, the Finance Director, to invest funds (Resolution No. 18-21).  The Board reviewed and approved contracts for the Lynden Education Association (LEA) and the Lynden Classified Employees Association (LCEA). Additionally, they approved an American Capital Master Tax-Exempt Installment Purchase Agreement for instructional technology.
 
-Several policy changes were also discussed and approved: Policy #2420 (Grading and P...[truncated, use api for full text]
+Several policy changes were also discussed and approved: Policy #2420 (Grading and Progress Reports), Policy #3116 (Students in Foster Care), Policy #3122 (Excused and Unexcused Absences), Policy #3231 (Student Records), and Policy #3520 (Student Fees, Fines, or Charges). The specifi...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-08-12-minutes.txt)
 
@@ -58,7 +58,7 @@ This document details personnel changes within a school district. It lists resig
 
 ## 2021-05-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The May 27, 2021 school board meeting focused on several key issues.  The board received information from community members regarding mental health concerns for teens during the pandemic and discussed mask mandates and youth vaccination. A preliminary re-opening plan for the 2021-2022 school year was shared, outlining phases of work and data collection to monitor progress. The board approved a boundary adjustment to accommodate growth within elementary schools. Additionally, they approved Resolution No. 07-21 focused on academic and student wellbeing.  The superintendent provided updates on co...[truncated, use api for full text]
+The May 27, 2021 school board meeting focused on several key issues.  The board received information from community members regarding mental health concerns for teens during the pandemic and discussed mask mandates and youth vaccination. A preliminary re-opening plan for the 2021-2022 school year was shared, outlining phases of work and data collection to monitor progress. The board approved a boundary adjustment to accommodate growth within elementary schools. Additionally, they approved Resolution No. 07-21 focused on academic and student wellbeing.  The superintendent provided updates on communication with the Whatcom County Health Department regarding face covering requirements, quarantine recommendations, current case rates, and vaccination discussions for staff and students.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-05-27-minutes.txt)
 
@@ -76,13 +76,13 @@ The School Board held a meeting on May 5, 2021, to discuss the selection of an I
 
 ## 2021-04-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document details personnel changes within a school district, including resignations, retirements, and terminations.  A significant portion focuses on classified personnel, listing names, locations, positions, hours worked, and effective dates for departures. The document also highlights supplemental assignments for various roles like assistant coaches and athletic assistants, specifying their positions, effective dates, and any relevant comments such as temporary replacements or reasons for leave. Notably, the district emphasizes that employment is contingent on a successful criminal hist...[truncated, use api for full text]
+This document details personnel changes within a school district, including resignations, retirements, and terminations.  A significant portion focuses on classified personnel, listing names, locations, positions, hours worked, and effective dates for departures. The document also highlights supplemental assignments for various roles like assistant coaches and athletic assistants, specifying their positions, effective dates, and any relevant comments such as temporary replacements or reasons for leave. Notably, the district emphasizes that employment is contingent on a successful criminal history records check.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-04-22-minutes.txt)
 
 ## 2021-03-30 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board held a meeting on March 30, 2021, to discuss reopening plans for the remainder of the 2020-2021 school year.  The board expressed support for moving from a 6ft to a 3ft social distancing rule for K-12 students, with shortened days and weeks, beginning in April. This change reflects updated guidance from the Whatcom County Health Department. The meeting also addressed the resignation of Superintendent Jim Frey, effective June 30, 2021. The board discussed the process for finding a replacement superintendent and expressed appreciation for Frey's service.  The com...[truncated, use api for full text]
+The Lynden School District Board held a meeting on March 30, 2021, to discuss reopening plans for the remainder of the 2020-2021 school year.  The board expressed support for moving from a 6ft to a 3ft social distancing rule for K-12 students, with shortened days and weeks, beginning in April. This change reflects updated guidance from the Whatcom County Health Department. The meeting also addressed the resignation of Superintendent Jim Frey, effective June 30, 2021. The board discussed the process for finding a replacement superintendent and expressed appreciation for Frey's service.  The community was invited to provide feedback on the reopening plan.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-03-30-minutes.txt)
 
@@ -102,7 +102,7 @@ This document details staffing changes within a school district. It outlines new
 
 The Lynden School Board meeting minutes detail discussions on several key topics.  The board reviewed a draft summary plan focused on "equity in education," aiming to address achievement status, educational opportunities, social and emotional supports, and climate and culture. This initiative reflects the board's commitment to racial equity within the school district.
 
-Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mentio...[truncated, use api for full text]
+Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mention that Superintendent Jim Frey provided an update on the mental health and well-being of students, including information about a forthcoming vaccination clinic for school staff. Finally, the board eng...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-02-25-minutes.txt)
 

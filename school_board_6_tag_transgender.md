@@ -2,7 +2,7 @@
 
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions and actions related to transgender student athletes. The board approved a letter to the WIAA (Washington Interscholastic Activities Association) advocating for policy changes regarding transgender athlete participation.  Additionally, the board debated and ultimately approved a letter to legislators concerning the inclusion of transgender athletes assigned male at birth in sports. This letter saw revisions with the removal of a bullet point titled "Education and Awareness." The minutes also highlight Director Brar's request fo...[truncated, use api for full text]
+The Lynden School District Board meeting minutes detail discussions and actions related to transgender student athletes. The board approved a letter to the WIAA (Washington Interscholastic Activities Association) advocating for policy changes regarding transgender athlete participation.  Additionally, the board debated and ultimately approved a letter to legislators concerning the inclusion of transgender athletes assigned male at birth in sports. This letter saw revisions with the removal of a bullet point titled "Education and Awareness." The minutes also highlight Director Brar's request for further discussion on Initiative 2081, though its specific content related to LGBTQ+ issues is not mentioned.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
 
@@ -25,7 +25,7 @@ The Lynden School District Board meeting minutes detail discussions and actions 
 
 ## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superi...[truncated, use api for full text]
+The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superintendents on proposed amended language.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
 
@@ -40,7 +40,9 @@ The school board discussed amending Policy 3211/P, which likely pertains to stud
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their mo...[truncated, use api for full text]
+The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their model policy 3211/3211P, potentially with legal counsel's assistance.
+
+Additionally, they discussed the possibility of joining other districts advocating for a more parent-friendly model policy from WSS...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
 
@@ -67,7 +69,7 @@ The Lynden School District Board meeting minutes detail discussions concerning g
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the a...[truncated, use api for full text]
+The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the amended resolution.  The minutes do not explicitly state the reasoning behind these changes.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
 
@@ -91,7 +93,10 @@ Ext...[truncated, use api for full text] | Director Martinez motioned to approve
 
 The Lynden School Board meeting minutes reveal significant community tension regarding COVID-19 policies and curriculum content. Parents voiced concerns about mask mandates, vaccination requirements, and the presence of books they deemed inappropriate in school libraries. Some parents explicitly requested the removal of "obscene pornography" and materials related to Critical Race Theory.  
 
-The meeting also included a discussion on potential policy changes driven by parental feedback. A parent threatened legal action against the school district unless they ceased COVID-19 related policies, inc...[truncated, use api for full text]
+The meeting also included a discussion on potential policy changes driven by parental feedback. A parent threatened legal action against the school district unless they ceased COVID-19 related policies, including mask mandates and vaccination promotion. The board reviewed a draft letter to state legislators expressing concerns about the challenges posed by pandemic mandates. 
+
+
+Further, the minutes docu...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-10-minutes.txt)
 

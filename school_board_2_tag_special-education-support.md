@@ -2,13 +2,13 @@
 
 ## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held its regular school board meeting on September 11, 2024.  Several policies and procedures related to academic standards and curriculum transparency were reviewed and approved. Procedure 2151P – Interscholastic Activities was passed, outlining guidelines for student participation in extracurricular activities.  Policies and Procedures 2402-2405 addressed mastery-based credit systems for English Language Arts, Math, Science, and Social Studies respectively. These policies aim to provide alternative pathways for students to earn academic credit based on demon...[truncated, use api for full text]
+The Meridian School District #505 held its regular school board meeting on September 11, 2024.  Several policies and procedures related to academic standards and curriculum transparency were reviewed and approved. Procedure 2151P – Interscholastic Activities was passed, outlining guidelines for student participation in extracurricular activities.  Policies and Procedures 2402-2405 addressed mastery-based credit systems for English Language Arts, Math, Science, and Social Studies respectively. These policies aim to provide alternative pathways for students to earn academic credit based on demonstrated proficiency rather than traditional seat time requirements. The board also discussed long-term strategic plans, including the annual staffing report which highlighted teacher-staff shortages w...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
 
 ## 2024-07-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 Board held a regular meeting on July 23, 2024. Several policy updates were discussed and voted on, including the second review and approval of Procedure 2161P - Special Education and Related Services for Eligible Students, Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force, and Procedure 2151P – Interscholastic Activities. The latter failed to pass with a vote of zero in favor, four opposed, and one abstention after a lengthy discussion.  A first review was conducted for Grant Applicant Authorization Resolution 09-24 which will be brough...[truncated, use api for full text]
+The Meridian School District #505 Board held a regular meeting on July 23, 2024. Several policy updates were discussed and voted on, including the second review and approval of Procedure 2161P - Special Education and Related Services for Eligible Students, Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force, and Procedure 2151P – Interscholastic Activities. The latter failed to pass with a vote of zero in favor, four opposed, and one abstention after a lengthy discussion.  A first review was conducted for Grant Applicant Authorization Resolution 09-24 which will be brought back for second review and approval at the August 7th meeting. Additionally, Director of Technology Joe O'Brien presented the 2024-25 Technology Plan of Work outlining technology staff, support tick...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-23-minutes.txt)
 
@@ -37,7 +37,7 @@ The Meridian School District #505 Board held a regular meeting on July 23, 2024.
 
 The Meridian School District #505 held a regular school board meeting and budget hearing on June 26, 2024.  The meeting covered routine items such as approval of the agenda and consent agenda which included various agreements and personnel reports. A budget presentation and public comment period for the 2024-2025 budget were conducted with no public comment received. The board approved several resolutions including General Obligation Bonds Resolution 06-24, Reduction in Force Resolution 07-24, and a motion to approve naming the North Gym at Meridian High School "Diane Axelson Court".  
 
-The me...[truncated, use api for full text]
+The meeting also included first readings of several procedures, including Procedure 2161P - Special Education and Related Services for Eligible Students and Procedure 3246P - Restraint, Isolation and Other ...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-minutes.txt)
 
@@ -60,7 +60,7 @@ The me...[truncated, use api for full text]
 
 The Meridian School District Board held a regular meeting on January 25, 2023.  The board approved a new strategic plan called "Our Commitments" which will be implemented in the fall of 2023. This plan includes continual metric and data reviews that will be shared with the school community. The board also approved several resolutions including Whatcom Skills Center Establishment Resolution 01-23, the William and Mary MOU, and the MSD School Board Operating Protocol.  
 
-Additionally, Aaron Jacoby, Director of Student Services, provided a Special Services report highlighting positive impacts fro...[truncated, use api for full text]
+Additionally, Aaron Jacoby, Director of Student Services, provided a Special Services report highlighting positive impacts from co-teaching classes at Meridian High School and inclusion efforts at the elementary level. A Culture and Climate report shared by student board representative Mirage DeNeal indicated that most stude...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-01-25-minutes.txt)
 

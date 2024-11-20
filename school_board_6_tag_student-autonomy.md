@@ -2,7 +2,7 @@
 
 ## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail various agenda items and decisions made. Notably, the board approved Ashley Acton, a student from Lynden High School, as the 24/25 Student Board Representative. They also reviewed and approved the district's four-year Career & Technical Education (CTE) plan. Policy 2255 regarding Alternative Learning Experience Courses was updated and approved. Additionally, the board approved a lease amendment with Inspire Development Center and Resolution #08-24 advocating for local control and opposing unfunded mandates from the Washington State School Director...[truncated, use api for full text]
+The Lynden School Board meeting minutes detail various agenda items and decisions made. Notably, the board approved Ashley Acton, a student from Lynden High School, as the 24/25 Student Board Representative. They also reviewed and approved the district's four-year Career & Technical Education (CTE) plan. Policy 2255 regarding Alternative Learning Experience Courses was updated and approved. Additionally, the board approved a lease amendment with Inspire Development Center and Resolution #08-24 advocating for local control and opposing unfunded mandates from the Washington State School Directors' Association (WSSDA).
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-minutes.txt)
 
@@ -29,13 +29,13 @@ The Lynden School Board discussed ways to elevate student voice in governance. T
 
 ## 2023-06-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting focused on routine matters such as approving meeting minutes and the consent agenda, which included financial reports and personnel recommendations.  A key discussion point was the adoption of Policy 3245 regarding Students and Telecommunication Devices. The board also reviewed the Comprehensive School Counseling Plan, deciding to postpone a vote until all members were present. Discussions centered around school safety with updates on the Long-Range Capital Facilities group's work and the Bond Planning Task Force's progress.  The Superintendent Evaluati...[truncated, use api for full text]
+The Lynden School District Board meeting focused on routine matters such as approving meeting minutes and the consent agenda, which included financial reports and personnel recommendations.  A key discussion point was the adoption of Policy 3245 regarding Students and Telecommunication Devices. The board also reviewed the Comprehensive School Counseling Plan, deciding to postpone a vote until all members were present. Discussions centered around school safety with updates on the Long-Range Capital Facilities group's work and the Bond Planning Task Force's progress.  The Superintendent Evaluation framework was presented, with plans for a public discussion during the next meeting. The board also discussed potential changes to the Board Director Handbook for the upcoming school year. Notably,...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-22-minutes.txt)
 
 ## 2023-02-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board Meeting minutes detail discussions on several key topics.  The board implemented a new policy (1250- Students on Governing Boards) allowing for advisory votes from student directors, Cooper Graddon and Aislinn Nilsen. These votes will be recorded alongside board member votes in the meeting minutes. The board reviewed reports from various departments including Teaching and Learning, Finance and Operations, and Facilities/Maintenance.  Superintendent VanderYacht presented information regarding a potential Whatcom County skills center modeled after the Northwest C...[truncated, use api for full text]
+The Lynden School District Board Meeting minutes detail discussions on several key topics.  The board implemented a new policy (1250- Students on Governing Boards) allowing for advisory votes from student directors, Cooper Graddon and Aislinn Nilsen. These votes will be recorded alongside board member votes in the meeting minutes. The board reviewed reports from various departments including Teaching and Learning, Finance and Operations, and Facilities/Maintenance.  Superintendent VanderYacht presented information regarding a potential Whatcom County skills center modeled after the Northwest Career & Technical Academy (NCTA). A draft document expressing intent to participate was shared with the board. Discussions also centered on the 23/24 budget challenges and contributing factors. The bo...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-23-minutes.txt)
 
@@ -43,7 +43,7 @@ The Lynden School District Board Meeting minutes detail discussions on several k
 
 The Lynden School Board meeting minutes detail several policy changes and discussions regarding student autonomy.  The board approved Resolution #20-22 authorizing the use of procurement cards for employees needing to make purchases from vendors who don't accept purchase orders. They also approved Resolution #21-22, though the specific details of this resolution are not mentioned in the provided text.
 
-Several policy changes were discussed and voted on during the meeting. Policy 5610 regarding Substitute Employment was approved.  Policy 6112 concerning the Rental or Lease of District Property ...[truncated, use api for full text]
+Several policy changes were discussed and voted on during the meeting. Policy 5610 regarding Substitute Employment was approved.  Policy 6112 concerning the Rental or Lease of District Property was also approved. Policy 1610, addressing Conflicts of Interest, received approval as well. The board initiated first readings for Policy 5001 (Hiring of Retired School Employees) and Policy 4218 (La...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-12-08-minutes.txt)
 
@@ -55,7 +55,7 @@ The Lynden School Board meeting minutes detail discussions on school safety and 
 
 ## 2022-01-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not upholding constitutional rights and expressed frustration with perceived bullying and shaming of unvaccinated students. The board addressed snow make-up days, stating their intention to utilize built-in days in June and potentially seek a waiver if necessary. Remote learning options would be reserved ...[truncated, use api for full text]
+The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not upholding constitutional rights and expressed frustration with perceived bullying and shaming of unvaccinated students. The board addressed snow make-up days, stating their intention to utilize built-in days in June and potentially seek a waiver if necessary. Remote learning options would be reserved for COVID-19 related circumstances.  The superintendent also highlighted potential funding opportunities from the Governor's budget for Social Emotional Learning (SEL) and school nurses, with possible...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-01-13-minutes.txt)
 
@@ -63,7 +63,7 @@ The Lynden School Board meeting minutes reveal a contentious atmosphere regardin
 
 The Lynden School Board meeting minutes detail discussions on several key topics.  The board reviewed a draft summary plan focused on "equity in education," aiming to address achievement status, educational opportunities, social and emotional supports, and climate and culture. This initiative reflects the board's commitment to racial equity within the school district.
 
-Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mentio...[truncated, use api for full text]
+Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mention that Superintendent Jim Frey provided an update on the mental health and well-being of students, including information about a forthcoming vaccination clinic for school staff. Finally, the board eng...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-02-25-minutes.txt)
 
@@ -81,7 +81,7 @@ This document details personnel changes within a school district.  It lists resi
 
 ## 2017-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document details personnel changes within the Lynden Academy school district. Several positions are being filled or vacated due to resignations, retirements, and leaves of absence. Notably, Wendy Neff is transitioning from a Secretary 2 position to a Secretary 3 role with increased hours.  Heidi Telling is also starting as a Secretary 2. The document highlights a shortage of staff, particularly bus drivers, with Douglas Mather taking a medical leave. Additionally, Patricia Haveman and Carol Broersma are resigning from their Para Ed positions. Several supplemental assignments are being fil...[truncated, use api for full text]
+This document details personnel changes within the Lynden Academy school district. Several positions are being filled or vacated due to resignations, retirements, and leaves of absence. Notably, Wendy Neff is transitioning from a Secretary 2 position to a Secretary 3 role with increased hours.  Heidi Telling is also starting as a Secretary 2. The document highlights a shortage of staff, particularly bus drivers, with Douglas Mather taking a medical leave. Additionally, Patricia Haveman and Carol Broersma are resigning from their Para Ed positions. Several supplemental assignments are being filled, including coaching roles for JV Fastpitch, Athletic Assistant, and JV Volleyball.  The resignation of Joshua Fitts as JV Volleyball Coach is also noted.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-02-15-minutes.txt)
 
@@ -99,19 +99,19 @@ This document details personnel changes within a school district, including leav
 
 ## 2016-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document appears to be a list of staffing changes and summer school schedules for a school district. Several instances of "Summer School" are listed, indicating its prevalence during the summer months.  There are also numerous entries for "Replaces [Name]," suggesting a high turnover rate among staff. The document also lists several resignations, including those of Kramme, Maberry, and Gallegos, all effective June 16, 2016. The reasons given for these departures include "Rotation of Dept Heads" and "Resignation."  The document concludes with a statement regarding employment requirements, ...[truncated, use api for full text]
+This document appears to be a list of staffing changes and summer school schedules for a school district. Several instances of "Summer School" are listed, indicating its prevalence during the summer months.  There are also numerous entries for "Replaces [Name]," suggesting a high turnover rate among staff. The document also lists several resignations, including those of Kramme, Maberry, and Gallegos, all effective June 16, 2016. The reasons given for these departures include "Rotation of Dept Heads" and "Resignation."  The document concludes with a statement regarding employment requirements, emphasizing the importance of criminal history checks and compliance with RCW 28A.400.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-06-09-minutes.txt)
 
 ## 2016-02-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board held a work session on February 25, 2016, to discuss technology integration in the classroom and review the January budget.  Student Directors led a discussion about the benefits and challenges of using school devices versus personal devices for academic purposes. The board expressed interest in exploring ways to incorporate more technology into the curriculum. Additionally, the board reviewed the Fisher Schematic Design Plans, which were ultimately approved. This plan likely outlines proposed renovations or construction for a building or facility within the di...[truncated, use api for full text]
+The Lynden School District Board held a work session on February 25, 2016, to discuss technology integration in the classroom and review the January budget.  Student Directors led a discussion about the benefits and challenges of using school devices versus personal devices for academic purposes. The board expressed interest in exploring ways to incorporate more technology into the curriculum. Additionally, the board reviewed the Fisher Schematic Design Plans, which were ultimately approved. This plan likely outlines proposed renovations or construction for a building or facility within the district.  The meeting also included routine items such as approving consent agenda items like personnel changes and financial reports.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-02-25-minutes.txt)
 
 ## 2016-01-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document details personnel changes within a school district. It lists new hires, including Lydia Faber as a bus driver and Kyle Hanson as a paraeducator.  It also notes a change in assignment for Kelly Boies, who transitions to a paraeducator role at Isom. The document highlights leaves of absence for Kristine Carson (teacher) and an unnamed individual (classified personnel). Additionally, it records resignations/retirements/terminations, including Lisa McKeen's resignation as assistant principal at LHS and Robert Carson's retirement as a teacher at LHS.  Finally, the document mentions su...[truncated, use api for full text]
+This document details personnel changes within a school district. It lists new hires, including Lydia Faber as a bus driver and Kyle Hanson as a paraeducator.  It also notes a change in assignment for Kelly Boies, who transitions to a paraeducator role at Isom. The document highlights leaves of absence for Kristine Carson (teacher) and an unnamed individual (classified personnel). Additionally, it records resignations/retirements/terminations, including Lisa McKeen's resignation as assistant principal at LHS and Robert Carson's retirement as a teacher at LHS.  Finally, the document mentions supplemental assignments, with Erin Clemmer replacing Medcalf as the 7th Grade Volleyball Coach at LMS. The overall sentiment suggests routine personnel management within the school district.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-01-28-minutes.txt)
 

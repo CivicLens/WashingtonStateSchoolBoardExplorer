@@ -2,7 +2,9 @@
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their mo...[truncated, use api for full text]
+The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their model policy 3211/3211P, potentially with legal counsel's assistance.
+
+Additionally, they discussed the possibility of joining other districts advocating for a more parent-friendly model policy from WSS...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
 
@@ -29,7 +31,7 @@ The Lynden School District Board meeting minutes detail discussions concerning g
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the a...[truncated, use api for full text]
+The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the amended resolution.  The minutes do not explicitly state the reasoning behind these changes.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
 
@@ -51,7 +53,7 @@ Ext...[truncated, use api for full text] | Director Martinez motioned to approve
 
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions and votes on several policy matters.  The board considered and approved a new position for submission to the Washington State School Directors' Association (WSSDA) regarding unfunded mandates. They also voted to adopt Policy 2415, "Performance-Based Pathway for High School Graduation."  A motion to approve an amended WSSDA Equity Statement failed due to lack of a second. A motion to approve an amended WSSDA position on diversity also failed due to lack of a second. The board will review the Board Handbook and Policy 1220 during their upcoming...[truncated, use api for full text]
+The school board meeting minutes detail discussions and votes on several policy matters.  The board considered and approved a new position for submission to the Washington State School Directors' Association (WSSDA) regarding unfunded mandates. They also voted to adopt Policy 2415, "Performance-Based Pathway for High School Graduation."  A motion to approve an amended WSSDA Equity Statement failed due to lack of a second. A motion to approve an amended WSSDA position on diversity also failed due to lack of a second. The board will review the Board Handbook and Policy 1220 during their upcoming retreat.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-minutes.txt)
 
@@ -81,13 +83,13 @@ The school board meeting minutes detail discussions and votes on several policy 
 
 The Lynden School Board meeting minutes detail various achievements and activities within the school district. Highlights include recognizing Kevin Richins as Educator of the Year, celebrating Matthew Enertson's participation in the Washington State Legislature Page Program, and acknowledging Cynthia Torres' involvement in the "Future Cougars Embracing Diversity" program at WSU.  
 
-The board also reviewed feedback from the District Planning Committee regarding Impact Fees, Maintenance & Operations Levy, Technology & Facilities Levy, Capital Bond, and crowding in schools. Additionally, they dis...[truncated, use api for full text]
+The board also reviewed feedback from the District Planning Committee regarding Impact Fees, Maintenance & Operations Levy, Technology & Facilities Levy, Capital Bond, and crowding in schools. Additionally, they discussed a tentative schedule for selling surplus property (the old Lynden Middle School ball field area) and held a public hearing for community input on May 23rd.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-05-09-minutes.txt)
 
 ## 2018-06-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document appears to be a portion of school board meeting minutes or an agenda. It details the employment information for an individual listed as "Asst Coach Track" with an effective date of 5/24/18.  The individual's work schedule seems to primarily consist of summer school sessions from 6/18/18 - 7/18/18. There is a note indicating a resignation retraction. The document also includes information about a "Supplemental Resignation" for an individual named Victor, Kent, who was located at LMS. The reason for resignation is simply listed as "Resignation." A standard disclaimer regarding empl...[truncated, use api for full text]
+This document appears to be a portion of school board meeting minutes or an agenda. It details the employment information for an individual listed as "Asst Coach Track" with an effective date of 5/24/18.  The individual's work schedule seems to primarily consist of summer school sessions from 6/18/18 - 7/18/18. There is a note indicating a resignation retraction. The document also includes information about a "Supplemental Resignation" for an individual named Victor, Kent, who was located at LMS. The reason for resignation is simply listed as "Resignation." A standard disclaimer regarding employment being subject to criminal background checks and RCW 28A.400 requirements is included.  The document does not explicitly mention any policies or resolutions by name. There are no mentions of top...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-06-14-minutes.txt)
 

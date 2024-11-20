@@ -8,7 +8,7 @@ This document details personnel changes within a school district. It lists resig
 
 ## 2016-05-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document details personnel changes within a school district. Several teachers and staff members are retiring or resigning, including Ramey, Sheran (Music Teacher at BVE), Lysen, Wilma (Para at Isom), Fischer, Shanon (Para at LMS), Plagerman, Deanne (District, 1.0 FTE then 2.50 FTE), Rodriguez, Janelle (Mail Carrier at Fisher), and Reilly, Earlene (Cook’s Helper at Fisher).  The document also lists several individuals taking personal leave for a year to accept positions at LHS replacing Williamson and Mehlhoff. The district is experiencing teacher-staff shortages as evidenced by the numero...[truncated, use api for full text]
+This document details personnel changes within a school district. Several teachers and staff members are retiring or resigning, including Ramey, Sheran (Music Teacher at BVE), Lysen, Wilma (Para at Isom), Fischer, Shanon (Para at LMS), Plagerman, Deanne (District, 1.0 FTE then 2.50 FTE), Rodriguez, Janelle (Mail Carrier at Fisher), and Reilly, Earlene (Cook’s Helper at Fisher).  The document also lists several individuals taking personal leave for a year to accept positions at LHS replacing Williamson and Mehlhoff. The district is experiencing teacher-staff shortages as evidenced by the numerous resignations and retirements.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-05-12-minutes.txt)
 

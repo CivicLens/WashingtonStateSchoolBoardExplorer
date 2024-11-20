@@ -4,7 +4,7 @@
 
 This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
 
-Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusiv...[truncated, use api for full text]
+Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues relat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
@@ -12,7 +12,7 @@ Key themes that emerged included the need for safe spaces like GSA, concerns abo
 
 The Bellingham School Board meeting minutes highlight student perspectives on diversity and inclusion. Students expressed a desire for unified sports options for younger students to be more inclusive of those questioning their gender identity. They also mentioned the lack of teacher representation reflecting their own identities, suggesting a need for greater diversity among educators.  The students felt that leadership opportunities should be made available at a younger age.  
 
-One student noted taking an African American history class and suggested it should be required for all students. The...[truncated, use api for full text]
+One student noted taking an African American history class and suggested it should be required for all students. The meeting included a report from Ms. Diaz Hackler about her interactions with students at a linkage meeting, where she learned about the disconnect between the language used in "The Bellingham Promise"...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-06-05-minutes.txt)
 

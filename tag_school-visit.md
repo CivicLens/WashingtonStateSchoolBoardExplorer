@@ -2,7 +2,7 @@
 
 ## 2024-03-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors visited Lowell Elementary School on March 5, 2024.  The purpose of the visit was to learn about Lowell's implementation of the International Baccalaureate (IB) program and observe how staff collaborate to develop units of inquiry. The board toured several classrooms and engaged with students and staff. This visit highlights the school district's commitment to diversity-inclusion through its adoption of the IB program, which is known for its emphasis on international mindedness and intercultural understanding.  The visit also demonstrates the sc...[truncated, use api for full text]
+The Bellingham School District Board of Directors visited Lowell Elementary School on March 5, 2024.  The purpose of the visit was to learn about Lowell's implementation of the International Baccalaureate (IB) program and observe how staff collaborate to develop units of inquiry. The board toured several classrooms and engaged with students and staff. This visit highlights the school district's commitment to diversity-inclusion through its adoption of the IB program, which is known for its emphasis on international mindedness and intercultural understanding.  The visit also demonstrates the school board's commitment to community engagement by directly interacting with the Lowell Elementary School community.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-05-minutes.txt)
 

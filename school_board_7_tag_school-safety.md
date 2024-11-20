@@ -6,13 +6,13 @@ The Nooksack Valley School Board held a regular meeting on January 25, 2024.  Se
 
 The board reviewed and approved several items including bids, vouchers, and payroll payments.  They also discussed a base bid submitted by Hytech for PAC cladding, which was approved for $428,000. 
 
-Policy changes included a review of Superintendent Gal...[truncated, use api for full text]
+Policy changes included a review of Superintendent Galley's contract and a mid-year performance evaluation. The board unanimously voted to extend his contract through June 30, 2027.  No specific details were provided regarding the reasons for this extens...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-25-20-minutes.txt)
 
 ## 2024-04-18 - NOOKSACK_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail several routine matters including the approval of an Urgent Repair Grant to replace the high school boiler and the scheduling of a presentation by elementary school principals on their improvement efforts.  The board also approved vouchers and payroll payments across various funds. Notably, the meeting was recessed for an executive session to discuss a personnel issue, with no immediate action taken. Due to anticipated absences in May, the next meeting was rescheduled to Thursday, May 23rd at 7:00 p.m.  The minutes also reflect a formal approval of payme...[truncated, use api for full text]
+The school board meeting minutes detail several routine matters including the approval of an Urgent Repair Grant to replace the high school boiler and the scheduling of a presentation by elementary school principals on their improvement efforts.  The board also approved vouchers and payroll payments across various funds. Notably, the meeting was recessed for an executive session to discuss a personnel issue, with no immediate action taken. Due to anticipated absences in May, the next meeting was rescheduled to Thursday, May 23rd at 7:00 p.m.  The minutes also reflect a formal approval of payments for various school expenses.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-04-18-minutes.txt)
 

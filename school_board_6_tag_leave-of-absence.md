@@ -8,7 +8,7 @@ This document details personnel changes within a school district. It lists class
 
 ## 2019-12-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document details personnel changes within a school district, including leaves of absence, resignations, and retirements.  Several staff members are taking leave for medical reasons or personal matters. Notably, Konner Vanrijswijck resigned from their position as a Paraeducator at Fisher Elementary, creating a vacancy that Anna Hernandez will fill, increasing her hours from 6.0 to 12.0 per day. The document also highlights teacher and staff shortages with  Julie Davis and Charity Jones taking intermittent medical leave and Wendy Kuplent taking unpaid leave. Jessica Olney's resignation as N...[truncated, use api for full text]
+This document details personnel changes within a school district, including leaves of absence, resignations, and retirements.  Several staff members are taking leave for medical reasons or personal matters. Notably, Konner Vanrijswijck resigned from their position as a Paraeducator at Fisher Elementary, creating a vacancy that Anna Hernandez will fill, increasing her hours from 6.0 to 12.0 per day. The document also highlights teacher and staff shortages with  Julie Davis and Charity Jones taking intermittent medical leave and Wendy Kuplent taking unpaid leave. Jessica Olney's resignation as Noon Supervisor at BVE created an opportunity for Anna Hernandez to increase her hours.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-12-12-minutes.txt)
 

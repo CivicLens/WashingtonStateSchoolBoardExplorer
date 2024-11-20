@@ -6,7 +6,7 @@ The Meridian School District #505 held a regular board meeting on January 10, 20
 
 Recognition was given to the school board and Meridian Middle School staff. Reports were presented on school data, including PLC presentations from MMS Social Studies and IRE fourth grade teams. There was no public comment. 
 
-The board reviewed proposed changes to MSD Boar...[truncated, use api for full text]
+The board reviewed proposed changes to MSD Board Operating Protocols and the Revised 2023-24 Plan of Work for a first reading, with final approval scheduled for the January 24th meeting. The Superintendent's report covered district activities, inc...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-minutes.txt)
 

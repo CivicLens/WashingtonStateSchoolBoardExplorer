@@ -21,7 +21,7 @@ The school board meeting minutes detail discussions and votes on various positio
 
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions on various topics including student behavior and mental health.  The board noted that 91% of behavioral referrals involved three or fewer instances, indicating the effectiveness of early intervention strategies. Additionally, they approved an interlocal agreement with Whatcom County for Behavioral Health Services Support for the 2024-2025 academic year. The board also reviewed and approved a revised Policy 6905 regarding Site Acquisition.  The minutes further document the election of Director Brar as the WIAA representative and the approval o...[truncated, use api for full text]
+The school board meeting minutes detail discussions on various topics including student behavior and mental health.  The board noted that 91% of behavioral referrals involved three or fewer instances, indicating the effectiveness of early intervention strategies. Additionally, they approved an interlocal agreement with Whatcom County for Behavioral Health Services Support for the 2024-2025 academic year. The board also reviewed and approved a revised Policy 6905 regarding Site Acquisition.  The minutes further document the election of Director Brar as the WIAA representative and the approval of interlocal agreements with Whatcom Discovery. Finally, Resolution #07-24 concerning Surplus Personal Property was passed.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-16-minutes.txt)
 
@@ -48,7 +48,7 @@ The school board meeting minutes detail discussions on various topics including 
 
 The Lynden School District Board meeting minutes detail discussions on various topics. A mental health update was presented, covering the role of the Mental Health Coordinator, a summary of the Healthy Youth Survey, and the Gaggle electronic safety management system. Concerns regarding school safety at Lynden High School (LHS), particularly the numerous points of entry, were raised by a community member.
 
-The board reviewed updated academic standards reflected in Policy 5005- Employment and Volunteers, which was approved. Discussions also centered around long-term strategic plans, including ca...[truncated, use api for full text]
+The board reviewed updated academic standards reflected in Policy 5005- Employment and Volunteers, which was approved. Discussions also centered around long-term strategic plans, including capital facilities planning and the possibility of putting a bond back out to vote. The board aimed to finalize a timeline for the bond resolution by their April 18th meeting. Community engagement was e...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
 
@@ -68,7 +68,7 @@ The board reviewed updated academic standards reflected in Policy 5005- Employme
 
 ## 2024-03-07 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail several actions taken regarding student safety and well-being.  Policy 3411, "Accommodating Students with Seizure Disorders or Epilepsy," was adopted to provide support for students experiencing seizures.  The board also approved an overnight trip request for students to participate in the Knowledge Bowl, demonstrating a commitment to extracurricular activities.  Additionally, Resolution #03-24 addressed food service meal balances as of June 30, 2023. The Board Facilities Committee discussed placing a bond on the August ballot and updating cost estimates...[truncated, use api for full text]
+The school board meeting minutes detail several actions taken regarding student safety and well-being.  Policy 3411, "Accommodating Students with Seizure Disorders or Epilepsy," was adopted to provide support for students experiencing seizures.  The board also approved an overnight trip request for students to participate in the Knowledge Bowl, demonstrating a commitment to extracurricular activities.  Additionally, Resolution #03-24 addressed food service meal balances as of June 30, 2023. The Board Facilities Committee discussed placing a bond on the August ballot and updating cost estimates for potential projects, highlighting ongoing efforts to improve school infrastructure. Finally, the Board Finance Committee shared information about a recent audit exit conference with no findings fo...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-07-minutes.txt)
 
@@ -88,7 +88,7 @@ The school board meeting minutes detail several actions taken regarding student 
 
 ## 2024-01-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail discussions on several key topics.  The board unanimously approved an updated Nondiscrimination in Hiring Plan and voted against joining a class action lawsuit concerning social media's impact on youth mental health. Director Hickman provided information about legislative bills impacting education, including House Bill 2458 and its potential effects on Lynden. Student Representatives Graddon & Tucker updated the board on their efforts to reimplement a Student Advisory Group at LHS. Director Owsley discussed his visit to LHS, highlighting the need ...[truncated, use api for full text]
+The Lynden School Board meeting minutes detail discussions on several key topics.  The board unanimously approved an updated Nondiscrimination in Hiring Plan and voted against joining a class action lawsuit concerning social media's impact on youth mental health. Director Hickman provided information about legislative bills impacting education, including House Bill 2458 and its potential effects on Lynden. Student Representatives Graddon & Tucker updated the board on their efforts to reimplement a Student Advisory Group at LHS. Director Owsley discussed his visit to LHS, highlighting the need for a new high school building due to the state of current Career and Technical Education (CTE) classrooms. The board also engaged in discussions about policy review and approval processes, ultimately...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-minutes.txt)
 
@@ -106,7 +106,7 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 
 ## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail discussions on several key topics.  The board reviewed school improvement plans for various schools within the district, ultimately approving them unanimously. A proposed "Nondiscrimination in Hiring Plan" was postponed for further consideration. Notably, the board discussed a potential class action lawsuit concerning social media's impact on youth mental health and contemplated joining it. Additionally, the meeting addressed a goal to decrease behavioral referrals by 25% compared to the previous school year. The board also considered adjusting it...[truncated, use api for full text]
+The Lynden School Board meeting minutes detail discussions on several key topics.  The board reviewed school improvement plans for various schools within the district, ultimately approving them unanimously. A proposed "Nondiscrimination in Hiring Plan" was postponed for further consideration. Notably, the board discussed a potential class action lawsuit concerning social media's impact on youth mental health and contemplated joining it. Additionally, the meeting addressed a goal to decrease behavioral referrals by 25% compared to the previous school year. The board also considered adjusting its meeting schedule and start time for future meetings.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-11-minutes.txt)
 
@@ -124,37 +124,37 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 
 ## 2023-09-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail several actions taken by the board.  They approved a $157,500,000 General Obligation Bond (Resolution #10-23) to be placed on the February 13, 2024 ballot. This bond aims to fund unspecified projects. The board also approved the 23/24 Transitional Bilingual Instructional Program grant and two Interlocal Agreements: one with Whatcom County for Behavioral Health services and another with Meridian School District for transportation services. Additionally, they ratified a union contract with the Lynden Education Association (LEA).  Tonya Hickman provi...[truncated, use api for full text]
+The Lynden School Board meeting minutes detail several actions taken by the board.  They approved a $157,500,000 General Obligation Bond (Resolution #10-23) to be placed on the February 13, 2024 ballot. This bond aims to fund unspecified projects. The board also approved the 23/24 Transitional Bilingual Instructional Program grant and two Interlocal Agreements: one with Whatcom County for Behavioral Health services and another with Meridian School District for transportation services. Additionally, they ratified a union contract with the Lynden Education Association (LEA).  Tonya Hickman provided feedback on her experience at the WSSDA General Assembly and discussed forming a committee for next year's event.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-09-28-minutes.txt)
 
 ## 2023-09-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board held a meeting to discuss the need for a new high school building and a potential bond measure to fund it. Community members expressed concerns about the current school's impact on student mental health, citing its isolating and depressing nature. They argued that a new facility with more resources, natural light, and common spaces would significantly improve student well-being.  The discussion also touched upon school safety concerns, with community members emphasizing the urgency of addressing these issues. Additionally, teacher staffing shortages were raised as a cha...[truncated, use api for full text]
+The Lynden School Board held a meeting to discuss the need for a new high school building and a potential bond measure to fund it. Community members expressed concerns about the current school's impact on student mental health, citing its isolating and depressing nature. They argued that a new facility with more resources, natural light, and common spaces would significantly improve student well-being.  The discussion also touched upon school safety concerns, with community members emphasizing the urgency of addressing these issues. Additionally, teacher staffing shortages were raised as a challenge facing the district. The board is seeking community feedback on the proposed bond measure to ensure transparency and address any questions or concerns.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-09-14-minutes.txt)
 
 ## 2022-07-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail the recognition of Tim Metz, Executive Director of Special Programs, as the Lynden/Ferndale Masonic Lodge Educator of the Year. Metz was lauded for his work in facilitating a return to in-person learning and overseeing Social Emotional Learning (SEL) programs focused on student wellness and creating a culturally responsive environment. The Board also received a budget report for the 2022-2023 school year from Ben Thomas, Director of Finance and Operations.  The report covered WA State funding history, enrollment projections, revenue and expenditur...[truncated, use api for full text]
+The Lynden School Board meeting minutes detail the recognition of Tim Metz, Executive Director of Special Programs, as the Lynden/Ferndale Masonic Lodge Educator of the Year. Metz was lauded for his work in facilitating a return to in-person learning and overseeing Social Emotional Learning (SEL) programs focused on student wellness and creating a culturally responsive environment. The Board also received a budget report for the 2022-2023 school year from Ben Thomas, Director of Finance and Operations.  The report covered WA State funding history, enrollment projections, revenue and expenditure forecasts, and fund balances. The Board intends to approve the budget at a future meeting.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-07-14-minutes.txt)
 
 ## 2022-03-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting on March 24, 2022, focused on several key areas.  The board approved a consent agenda that included various financial warrants and personnel action items. During the reports section, Elementary Principals and the Director of Teaching and Learning presented updates on the Elementary School Improvement Plan (SIP), highlighting efforts to meet learning targets, close learning gaps through interventions, and adopt new materials for K-5 learners. They also discussed the continued use of Character Strong and Safe and Civil learning programs across elementary schools t...[truncated, use api for full text]
+The Lynden School Board meeting on March 24, 2022, focused on several key areas.  The board approved a consent agenda that included various financial warrants and personnel action items. During the reports section, Elementary Principals and the Director of Teaching and Learning presented updates on the Elementary School Improvement Plan (SIP), highlighting efforts to meet learning targets, close learning gaps through interventions, and adopt new materials for K-5 learners. They also discussed the continued use of Character Strong and Safe and Civil learning programs across elementary schools to promote safe emotional learning.  Superintendent Mike Stromme provided information on the 2022 Legislative Consensus budget. The board then approved a Whatcom Discovery Interlocal Agreement.  The me...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-24-minutes.txt)
 
 ## 2022-01-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not upholding constitutional rights and expressed frustration with perceived bullying and shaming of unvaccinated students. The board addressed snow make-up days, stating their intention to utilize built-in days in June and potentially seek a waiver if necessary. Remote learning options would be reserved ...[truncated, use api for full text]
+The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not upholding constitutional rights and expressed frustration with perceived bullying and shaming of unvaccinated students. The board addressed snow make-up days, stating their intention to utilize built-in days in June and potentially seek a waiver if necessary. Remote learning options would be reserved for COVID-19 related circumstances.  The superintendent also highlighted potential funding opportunities from the Governor's budget for Social Emotional Learning (SEL) and school nurses, with possible...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-01-13-minutes.txt)
 
 ## 2021-05-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The May 27, 2021 school board meeting focused on several key issues.  The board received information from community members regarding mental health concerns for teens during the pandemic and discussed mask mandates and youth vaccination. A preliminary re-opening plan for the 2021-2022 school year was shared, outlining phases of work and data collection to monitor progress. The board approved a boundary adjustment to accommodate growth within elementary schools. Additionally, they approved Resolution No. 07-21 focused on academic and student wellbeing.  The superintendent provided updates on co...[truncated, use api for full text]
+The May 27, 2021 school board meeting focused on several key issues.  The board received information from community members regarding mental health concerns for teens during the pandemic and discussed mask mandates and youth vaccination. A preliminary re-opening plan for the 2021-2022 school year was shared, outlining phases of work and data collection to monitor progress. The board approved a boundary adjustment to accommodate growth within elementary schools. Additionally, they approved Resolution No. 07-21 focused on academic and student wellbeing.  The superintendent provided updates on communication with the Whatcom County Health Department regarding face covering requirements, quarantine recommendations, current case rates, and vaccination discussions for staff and students.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-05-27-minutes.txt)
 
@@ -162,19 +162,19 @@ The May 27, 2021 school board meeting focused on several key issues.  The board 
 
 The Lynden School Board meeting minutes detail discussions on several key topics.  The board reviewed a draft summary plan focused on "equity in education," aiming to address achievement status, educational opportunities, social and emotional supports, and climate and culture. This initiative reflects the board's commitment to racial equity within the school district.
 
-Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mentio...[truncated, use api for full text]
+Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mention that Superintendent Jim Frey provided an update on the mental health and well-being of students, including information about a forthcoming vaccination clinic for school staff. Finally, the board eng...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-02-25-minutes.txt)
 
 ## 2020-11-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting focused on several key topics.  Firstly, they reviewed and approved Policy #3122 regarding Excused and Unexcused Absences and Policy #6512 concerning the Infection Control Program. Secondly, a significant portion of the meeting was dedicated to discussing the reopening plan for grades 6-12, including recent statewide recommendations from Governor Inslee and their impact on performing arts, athletics, and other extracurricular activities.  The board also received updates on technology support for students and staff, as well as the implementation of social-emotional lear...[truncated, use api for full text]
+The school board meeting focused on several key topics.  Firstly, they reviewed and approved Policy #3122 regarding Excused and Unexcused Absences and Policy #6512 concerning the Infection Control Program. Secondly, a significant portion of the meeting was dedicated to discussing the reopening plan for grades 6-12, including recent statewide recommendations from Governor Inslee and their impact on performing arts, athletics, and other extracurricular activities.  The board also received updates on technology support for students and staff, as well as the implementation of social-emotional learning programs like Safe and Civil Schools and Character Strong in elementary schools. Finally, they reviewed and confirmed the schedule for future board meetings.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-11-19-minutes.txt)
 
 ## 2020-04-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail the board's discussion on various topics related to remote learning during the COVID-19 pandemic.  A significant portion of the meeting focused on "Learning Opportunities" and how teachers were adapting their methods for online instruction. The board also discussed accommodations for students with special needs, highlighting the SPED team's efforts to provide specialized services remotely and align with general education classes. Additionally, updates were provided on meal service programs and childcare support for essential worker families, under...[truncated, use api for full text]
+The Lynden School Board meeting minutes detail the board's discussion on various topics related to remote learning during the COVID-19 pandemic.  A significant portion of the meeting focused on "Learning Opportunities" and how teachers were adapting their methods for online instruction. The board also discussed accommodations for students with special needs, highlighting the SPED team's efforts to provide specialized services remotely and align with general education classes. Additionally, updates were provided on meal service programs and childcare support for essential worker families, underscoring the district's commitment to student well-being and community engagement during challenging times.  The board also discussed "COVID-19 Updates" focusing on maintaining student and staff engage...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-04-09-minutes.txt)
 
@@ -194,7 +194,8 @@ This document details personnel changes within a school district. It outlines le
 
 The Lynden School District Board meeting minutes and personnel recommendations highlight several key areas of focus.  The board discussed social-emotional learning initiatives, including staff training, student programs, and community outreach related to harassment, intimidation, bullying (HIB), and suicide awareness. They reviewed data from the Washington State Healthy Youth Survey and emphasized communication with staff, students, and youth organizations on these important topics.
 
-The meeting also addressed long-term strategic planning for the district, specifically regarding facilities and...[truncated, use api for full text]
+The meeting also addressed long-term strategic planning for the district, specifically regarding facilities and future facility needs. The board considered program space, classroom space, community space, property requirements, and potential levy needs to accommodate growth and evolving educational demands.  
+...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
 
@@ -202,7 +203,7 @@ The meeting also addressed long-term strategic planning for the district, specif
 
 The Lynden School Board meeting addressed several key issues.  The board approved a re-engagement plan aimed at providing alternative support for students struggling in traditional school settings. They also unanimously passed Resolution No. 04-17, reaffirming the district's adherence to WIAA rules and regulations. A list of instructional and library materials recommended by the Instructional Material Committee was approved.
 
-The board further discussed and approved construction change orders for Lynden Middle School and Fisher Elementary, adding four classrooms, system improvements, and field...[truncated, use api for full text]
+The board further discussed and approved construction change orders for Lynden Middle School and Fisher Elementary, adding four classrooms, system improvements, and field preparation.  Policy changes were a significant focus, with the board conducting a second reading and subsequent approval of several policies: #2145 (Suicide Prevention), #2145P (Suicide Prevention P...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-05-11-minutes.txt)
 
@@ -210,13 +211,15 @@ The board further discussed and approved construction change orders for Lynden M
 
 The Lynden School District Board meeting focused on several key areas.  The board discussed a "Response to Intervention" (RTI) program aimed at providing support for students struggling with bullying, suicide, and social/emotional issues. This initiative highlights the district's commitment to **mental health** and **social-emotional learning**.
 
-Updates were also provided on academic progress, including course mapping aligned with standards and plans for common assessments and learning design. This demonstrates a focus on maintaining **academic standards** and promoting **curriculum transpare...[truncated, use api for full text]
+Updates were also provided on academic progress, including course mapping aligned with standards and plans for common assessments and learning design. This demonstrates a focus on maintaining **academic standards** and promoting **curriculum transparency**.  
+
+Finally, the board engaged in **community engagement** by discussing feedback from a recent community meeting regarding school climate and safety. They also reviewed applications for open po...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-03-23-minutes.txt)
 
 ## 2017-03-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-This document details personnel changes within a school district. Several policy changes are evident, including adjustments to staffing levels due to leaves of absence, retirements, and new hires.  The district is experiencing teacher-staff shortages, as evidenced by the need to fill positions vacated by retiring teachers and the hiring of new classified personnel. Notably, Maria Hansen-Quine is taking a leave of absence from her counselor position at Fisher school, while Raymond VanBeek, a groundskeeper for the district, is on unpaid medical leave. The document also highlights the retirement ...[truncated, use api for full text]
+This document details personnel changes within a school district. Several policy changes are evident, including adjustments to staffing levels due to leaves of absence, retirements, and new hires.  The district is experiencing teacher-staff shortages, as evidenced by the need to fill positions vacated by retiring teachers and the hiring of new classified personnel. Notably, Maria Hansen-Quine is taking a leave of absence from her counselor position at Fisher school, while Raymond VanBeek, a groundskeeper for the district, is on unpaid medical leave. The document also highlights the retirement of Ronald Hanson, a teacher at BVE, effective August 1, 2017.  The need to address mental health within the district is implied by the mention of Hansen-Quine's return from medical leave and the hirin...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-03-09-minutes.txt)
 

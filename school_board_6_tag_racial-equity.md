@@ -21,7 +21,7 @@ The school board meeting minutes detail discussions and votes on various positio
 
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions and votes on several policy matters.  The board considered and approved a new position for submission to the Washington State School Directors' Association (WSSDA) regarding unfunded mandates. They also voted to adopt Policy 2415, "Performance-Based Pathway for High School Graduation."  A motion to approve an amended WSSDA Equity Statement failed due to lack of a second. A motion to approve an amended WSSDA position on diversity also failed due to lack of a second. The board will review the Board Handbook and Policy 1220 during their upcoming...[truncated, use api for full text]
+The school board meeting minutes detail discussions and votes on several policy matters.  The board considered and approved a new position for submission to the Washington State School Directors' Association (WSSDA) regarding unfunded mandates. They also voted to adopt Policy 2415, "Performance-Based Pathway for High School Graduation."  A motion to approve an amended WSSDA Equity Statement failed due to lack of a second. A motion to approve an amended WSSDA position on diversity also failed due to lack of a second. The board will review the Board Handbook and Policy 1220 during their upcoming retreat.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-minutes.txt)
 
@@ -51,7 +51,7 @@ The school board meeting minutes detail discussions and votes on several policy 
 
 The Lynden School Board meeting minutes detail discussions on several key topics.  The board reviewed a draft summary plan focused on "equity in education," aiming to address achievement status, educational opportunities, social and emotional supports, and climate and culture. This initiative reflects the board's commitment to racial equity within the school district.
 
-Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mentio...[truncated, use api for full text]
+Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mention that Superintendent Jim Frey provided an update on the mental health and well-being of students, including information about a forthcoming vaccination clinic for school staff. Finally, the board eng...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-02-25-minutes.txt)
 
@@ -59,7 +59,9 @@ Additionally, the board heard from Peg Zaremba-Born regarding the needs of secon
 
 The July 23rd, 2020 school board meeting focused on re-opening plans for the upcoming school year amidst the COVID-19 pandemic and addressed a revised statement regarding equity for all students.  The Board reviewed three learning platform options for the 2020-2021 school year, acknowledging potential adjustments based on staffing capacity and distancing guidelines.
 
-Financial updates were provided, outlining the June budget summary and projections for the 2020-2021 budget, including considerations for COVID-related expenses.  The Board reviewed and approved the 2020-2021 School Year Calendar ...[truncated, use api for full text]
+Financial updates were provided, outlining the June budget summary and projections for the 2020-2021 budget, including considerations for COVID-related expenses.  The Board reviewed and approved the 2020-2021 School Year Calendar with the understanding that adjustments might be necessary based on evolving conditions.
+
+Board Director CJ Costanti shared a revised statement about equity for all students, which would be communicat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-07-23-minutes.txt)
 
