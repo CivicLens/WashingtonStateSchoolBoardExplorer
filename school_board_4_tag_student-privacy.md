@@ -1,32 +1,20 @@
-# Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: student-privacy
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: student-privacy
 
-## 2021-11-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-06-24 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Blaine School Board discussed several policy changes during their meeting. Policy .060 was amended to prevent schools from withholding grades or transcripts due to student damage or loss of property.  The board also reviewed and approved revisions to policies 2420 (Grading and Progress Reports), 3231 (Student Records), 3520 (Student Fees, Fines, or Charges), and 6800 (Safety, Operations and Maintenance of School Property). The meeting included discussion about the shortage of substitute teachers and efforts to recruit new substitutes.  The board also addressed concerns regarding the district's redistricting plan and committed to scheduling a special meeting for further public input.
+The text outlines the agenda for a closed executive session of the school board on June 24, 2024.  The purpose of the session is to consider the transfer of a district employee. This discussion will be conducted in accordance with RCW 28A.405.230, which pertains to confidential personnel matters. Following the executive session, the board may take action regarding the proposed transfer. The meeting agenda emphasizes adherence to legal requirements and procedural transparency within the context of personnel decisions.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-11-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-24-agenda.txt)
 
-## 2021-07-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-04-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Olympia School Board held a meeting where they approved the first reading of two new policies. Policy 5410 Holidays was updated and carried with a 4-0 vote.  Policy 5515 Workforce Secondary Traumatic Stress, focused on addressing staff emotional well-being, was also approved in its first reading. Dr. Granger explained that committee discussions related to this policy would focus on general practices rather than individual cases to protect privacy. The board discussed scheduling a special meeting for September 1st to address the SEIU agreement and considered holding executive sessions at 6:00 p.m. prior to regular meetings. Future agenda items include a public hearing on the 2021-2022 budget, a superintendent's report, consideration of the 2021-2022 budget adoption, approval of the 2021...[truncated, use api for full text]
+The agenda outlines a canceled closed executive session of the school board scheduled for April 22, 2024.  The purpose of the meeting, according to the agenda, was to discuss the transfer of a district employee in accordance with RCW 28A.405.230. This statute pertains to executive sessions of public bodies and allows for private discussion on matters related to personnel. The cancellation of the meeting is noted. No further details are provided regarding the reason for the cancellation or the specific circumstances surrounding the employee transfer.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-07-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-04-22-agenda.txt)
 
-## 2020-09-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The board meeting minutes detail the first reading of two new policies. Policy 3205, "Sexual Harassment of Students Prohibited," outlines procedures for addressing sexual harassment claims and includes a provision for withholding employment recommendations in cases of substantiated misconduct. This policy also designates Dr. Granger as the Title IX Investigator and ensures legal counsel involvement during investigations.  Policy 4300, "Limiting Immigration Enforcement in Schools," restricts immigration enforcement activity on school property while clarifying that it does not apply to local law enforcement conducting investigations. Both policies were unanimously approved for their first reading.  The board also discussed preferences for in-person meetings and agenda item suggestions for fu...[truncated, use api for full text]
+This document outlines a Northshore School District Board meeting agenda. It includes policy reviews and information items related to budget status, capital projects, and Superintendent performance monitoring. Notably, it mentions "Relationships with Students, Staff, Parents and the Public" as part of a Superintendent Parameter review. While there's no explicit mention of LGBTQ+ or transgender issues, the focus on relationships could imply considerations around diversity and inclusion within the school district. The document also includes a budget status report and information about capital projects, indicating a focus on financial transparency and resource allocation.  Finally, the agenda mentions monitoring the Superintendent's performance against board policies and goals, highlighting a...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-09-28-minutes.txt)
-
-## 2020-07-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The school board meeting minutes detail the adoption of two policies: Policy 6225 Use of Electronic Signature and Policy 2004 Accountability Goals.  Policy 6225 aims to facilitate business operations while minimizing exposure risks, likely related to COVID-19. Policy 2004 sets accountability goals for student performance, with a target of 90% passing assessments by 2027. Dr. Granger, the superintendent, anticipates this goal will be modified in the future. The board also discussed improvements to the online meeting platform's visual clarity and scheduled their next regular meeting for August 24, 2020. Following a brief executive session to review a public employee's performance, the meeting adjourned.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-07-27-minutes.txt)
-
-## 2020-01-13 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District held a special board meeting on January 13, 2020, to discuss and approve the first reading of several new policies. Policy 3211, "Gender-Inclusive Schools," was introduced in response to Senate Bill 5689 which required the district to adopt such a policy by January 31, 2020. During discussion, two sentences regarding communication with parents were slated for removal from the updated procedural language. Concerns about locker room privacy and how similar gender issues are handled in lower grades were also raised. The board unanimously approved the first reading of Policy 3211.  Policies 3143 "District Notification of Juvenile Offenders," 3144 "Release of Information Concerning Student Sexual and Kidnapping Offenders" and 3145 "Sex Offender Access to District Prop...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-01-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-12-agenda.txt)
 

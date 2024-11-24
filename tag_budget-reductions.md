@@ -10,7 +10,7 @@ The school board meeting focused on addressing budget reduction considerations. 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_13.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
-| [Erika Creydt](board_member_11.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_12.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_8.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
+| [Erika Creydt](board_member_6.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_7.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
 

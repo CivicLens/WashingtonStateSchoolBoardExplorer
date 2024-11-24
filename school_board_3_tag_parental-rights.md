@@ -1,24 +1,32 @@
-# Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: parental-rights
+# Meeting Summaries for TAHOMA_SCHOOL_DISTRICT with Tag: parental-rights
 
-## 2017-01-31 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-07-23 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-This school board meeting transcript focuses on the challenges faced by students from low-income families and how the school district can better support them. Participants discussed the impact of poverty on student well-being, including issues like inadequate sleep. There was debate about whether schools should intervene in family life to address these issues, with some arguing for a stronger focus on creating a positive learning environment within the school itself. The idea of transforming schools into year-round community learning centers, similar to the Harlem Children's Zone model, was also proposed.  The meeting highlighted the need for better engagement with English-speaking families struggling with poverty, as these families often go unnoticed. Home visits were presented as a valua...[truncated, use api for full text]
+This document outlines a school board meeting agenda. Several items on the consent agenda involve approving travel for staff members to attend conferences.  This could potentially raise concerns regarding the use of public funds and parental oversight of educational spending decisions.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-31-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-07-23-agenda.txt)
 
-## 2013-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-06-04 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-This transcript details a school board meeting focused on family engagement and addressing parent concerns.  Several parents expressed challenges related to language barriers and cultural differences impacting their ability to support their children's education. They requested increased translation services, translated materials, and home visits from volunteers to assist with homework. There were also requests for clearer communication regarding school policies, such as the bullying policy, and a desire for more accessible information about extracurricular activities and future planning resources like college preparation. The superintendent acknowledged these concerns and emphasized the district's commitment to family engagement and ensuring all families feel included.  
+This agenda outlines a special meeting of the Main Governing Board on June 4th, 2024.  The meeting will be held at the Central Services Center in Maple Valley, WA with a virtual option available via Zoom. The agenda includes standard opening procedures like calling the meeting to order and recognizing attendees.  
 
-The transcript hi...[truncated, use api for full text]
+A "Discussion Item" is listed as "Annual Employee Retiree Recognition." This suggests recognition of retiring staff members will take place during the meeting. The agenda concludes with an adjournment. 
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-10-24-minutes.txt)
+The text also notes accommodations for individuals with disabilities who wish to participate in the meeting.
 
-## 2013-09-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-06-04-agenda.txt)
 
-This transcript details a school board meeting focused on feedback from parents of special education students.  A recurring theme is the need for increased support and resources for these students. Parents expressed concerns about inflexible high school schedules, limited inclusion in general education classrooms, transportation challenges, and a lack of Spanish-speaking staff at the high school level. They also advocated for more training for paraeducators, improved accessibility on playgrounds, and greater access to enrichment activities.
+## 2024-03-12 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-The meeting highlighted a desire for increased transparency and communication regarding Individualized Education Plans (IEPs), with one parent reporting feeling pressured to sign an IEP without adequate review or understanding of their rights.  Parents...[truncated, use api for full text]
+The March 12, 2024 school board meeting agenda covers a range of topics including student health and safety. The board will receive updates on student health and consider a presentation regarding the Diane Cranley Consulting Update
+2. Approve Superintendent Contract for 2024-09-2024 Regular Board Meeting
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-09-26-minutes.txt)
+3. Meeting Minutes from the February 15, 202024 Regular Board Meeting
+4. Personnel Actions - New Hires/Resignations
+5. Interfund Transfer Tech Levy (Sep'23-Feb '24 Regular Board Meeting
+6. Policy Revision: First Reading of Revised Policy 5310 Compensation
+
+The board will also discuss a first reading for revising policy 5310 compensation. The agenda includes an action item to approve the consent agenda. The consent agenda encompasses routine matters such as payment summaries, meeting minut...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-12-agenda.txt)
 

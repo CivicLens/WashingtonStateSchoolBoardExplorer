@@ -1,66 +1,26 @@
-# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: special-education-support
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: special-education-support
 
-## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-06-20 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District #505 held its regular school board meeting on September 11, 2024.  Several policies and procedures related to academic standards and curriculum transparency were reviewed and approved. Procedure 2151P – Interscholastic Activities was passed, outlining guidelines for student participation in extracurricular activities.  Policies and Procedures 2402-2405 addressed mastery-based credit systems for English Language Arts, Math, Science, and Social Studies respectively. These policies aim to provide alternative pathways for students to earn academic credit based on demonstrated proficiency rather than traditional seat time requirements. The board also discussed long-term strategic plans, including the annual staffing report which highlighted teacher-staff shortages w...[truncated, use api for full text]
+The Northshore Board of Directors will be attending the Northshore Learning Options Graduation ceremony at the Northshore Concert Hall on June 20, 2024. This meeting is categorized as a "Special Meeting" and focuses on celebrating the graduation of students from the Northshore Learning Options program.  No specific policies or curriculum changes are mentioned in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-20-agenda.txt)
 
-## 2024-07-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 Board held a regular meeting on July 23, 2024. Several policy updates were discussed and voted on, including the second review and approval of Procedure 2161P - Special Education and Related Services for Eligible Students, Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force, and Procedure 2151P – Interscholastic Activities. The latter failed to pass with a vote of zero in favor, four opposed, and one abstention after a lengthy discussion.  A first review was conducted for Grant Applicant Authorization Resolution 09-24 which will be brought back for second review and approval at the August 7th meeting. Additionally, Director of Technology Joe O'Brien presented the 2024-25 Technology Plan of Work outlining technology staff, support tick...[truncated, use api for full text]
+The Northshore School District Board of Directors held a Special Meeting on June 11, 2024, to celebrate the Adult Transition Pathways program at Support Services. The meeting began at 6:00 PM and concluded at 7:00 PM.  Board members in attendance included Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley. The purpose of the meeting was to recognize and celebrate the achievements of students within the Adult Transition Pathways program.  No policy changes or resolutions were discussed or enacted during this celebratory meeting.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-11-minutes.txt)
 
-### Board Member Actions
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_27.md) | voted no on motion to approve Procedure 2161P - Interscholastic Activities Eligibility | Procedure 2161P outlines rules for student participation in sports and extracurr...[truncated, use api for full text] |
+The text outlines an agenda for a special meeting of the school board focused on celebrating "Adult Transition Pathways."  The meeting will include a commencement, a list of attendees, a discussion period dedicated to the celebration, and an end of meeting segment. No specific policies or resolutions are mentioned in the provided text.
 
-## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-11-agenda.txt)
 
-The Meridian School District #505 held a regular school board meeting and budget hearing on June 26, 2024.  The meeting covered routine items such as approval of the agenda and consent agenda which included various agreements and personnel reports. A budget presentation and public comment period for the 2024-2025 budget were conducted with no public comment received. The board approved several resolutions including General Obligation Bonds Resolution 06-24, Reduction in Force Resolution 07-24, and a motion to approve naming the North Gym at Meridian High School "Diane Axelson Court".  
+## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The meeting also included first readings of several procedures, including Procedure 2161P - Special Education and Related Services for Eligible Students and Procedure 3246P - Restraint, Isolation and Other ...[truncated, use api for full text]
+The Northshore School District Board of Directors held a Special Meeting on June 10, 2024, to attend the Adults Transitioning to Independence Graduation ceremony at North Creek High School. The meeting commenced at 6:00 PM and concluded at 7:00 PM.  The attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The purpose of the meeting was solely to attend the graduation ceremony for students in the Adults Transitioning to Independence program.  No other discussions or actions were taken during this Special Meeting.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-
-## 2023-01-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District Board held a regular meeting on January 25, 2023.  The board approved a new strategic plan called "Our Commitments" which will be implemented in the fall of 2023. This plan includes continual metric and data reviews that will be shared with the school community. The board also approved several resolutions including Whatcom Skills Center Establishment Resolution 01-23, the William and Mary MOU, and the MSD School Board Operating Protocol.  
-
-Additionally, Aaron Jacoby, Director of Student Services, provided a Special Services report highlighting positive impacts from co-teaching classes at Meridian High School and inclusion efforts at the elementary level. A Culture and Climate report shared by student board representative Mirage DeNeal indicated that most stude...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-01-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-10-minutes.txt)
 

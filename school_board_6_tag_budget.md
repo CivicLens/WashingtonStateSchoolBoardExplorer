@@ -1,26 +1,31 @@
-# Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: budget
+# Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: budget
 
-## 2021-08-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2024-08-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board met to discuss and approve several items, including the 2021-2022 budget (Resolution No. 17-21) and a four-year forecast. They also authorized Christine Blake, the Finance Director, to invest funds (Resolution No. 18-21).  The Board reviewed and approved contracts for the Lynden Education Association (LEA) and the Lynden Classified Employees Association (LCEA). Additionally, they approved an American Capital Master Tax-Exempt Installment Purchase Agreement for instructional technology.
+The meeting minutes detail the Bellingham School Board's approval of several inter-agency agreements and personnel recommendations. Notably, the board discussed a budget deficit attributed to insufficient state funding.  Board members also shared updates on community engagement efforts, including discussions about the district budget with community members.  The board president assessed the meeting as commendable.
 
-Several policy changes were also discussed and approved: Policy #2420 (Grading and Progress Reports), Policy #3116 (Students in Foster Care), Policy #3122 (Excused and Unexcused Absences), Policy #3231 (Student Records), and Policy #3520 (Student Fees, Fines, or Charges). The specifi...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-08-15-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-08-12-minutes.txt)
+### Board Member Actions
 
-## 2020-08-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_1.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_3.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
+| [Jenn Mason](board_member_2.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_4.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
+| [Katie Rose](board_member_5.md) | abstained | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_1.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_3.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
+| [Jenn Mason](board_member_2.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_4.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Katie Rose](board_member_5.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
+| [Jenn Mason](board_member_2.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Camille Diaz Hackler](board_member_3.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
 
-The Lynden School District Board held a meeting on August 13, 2020, to discuss and approve various items.  A key focus was the adoption of the 2020-2021 school budget (Resolution No. 10-20). The budget presentation highlighted anticipated expenditures and revenues across different categories like General Funds, ASB, Debt Services, Capital Projects, and Transportation. Jim Baker, the interim Finance Director, addressed potential COVID-19 impacts and strategies for maximizing resource utilization to ensure quality education.
+## 2013-06-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The board also engaged in a work session regarding the re-opening plan for the 2020-2021 school year, emphasizing communication with families through both district-level announcements and school principal updates.  Additionally, the board approved two interlocal agreeme...[truncated, use api for full text]
+The Bellingham School Board meeting focused on the preliminary budget for the 2013-2014 school year. Ron Cowan presented the report, highlighting key assumptions such as no program or staffing reductions and stable enrollment. Adjustments to the preliminary budget will be made once the state finalizes its budget.  The board also discussed ongoing hiring and budget refinement efforts. Dr. Michael Copland was introduced as the new Deputy Superintendent, replacing Tom Venable who is resigning to become Superintendent of the Methow School District. The meeting included reports from school board directors on their recent activities, including attending graduation ceremonies and community events.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-13-minutes.txt)
-
-## 2018-08-16 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board meeting minutes detail various agenda items related to school operations and finances.  The board approved several grants including the LAP Grant and the STBIP Grant aimed at supporting English Language Learners. They also reviewed and approved an agreement with the Educational Service District regarding ELL services. A motion to increase Free and Reduced Lunch prices was carried, reflecting a need for adjustments in meal program funding.
-
-The board discussed and approved "Out of Endorsement" positions, suggesting staffing challenges in specific subject areas. Resolution No. 10-18 formally adopted the 2018-2019 budget following a review and public hearing. Resolution No. 11-18 acknowledged the completion of the biotech building project.  The board conducted...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-08-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-06-27-minutes.txt)
 

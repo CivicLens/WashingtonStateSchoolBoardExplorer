@@ -1,34 +1,82 @@
-# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: diversity-inclusion
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: diversity-inclusion
 
-## 2023-11-01 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The North Central Technical Academy (NCTA) school board meeting minutes detail several agenda items focused on policy changes and diversity-inclusion.  The board conducted first readings for the NWESD Behavior Specialist Contract, 2024 replacement EP&O Levy Resolution 08-23, and 2024 replacement Capital Levy Resolution 09-23. These resolutions will be brought back for a second review and approval at a later meeting. The superintendent's report highlighted Senator Wellman's recent visit to NCTA, a Federal Skills Center Advocacy trip to Washington D.C., and the Gates Foundation Limitless Grant. Notably, board member Marty expressed surprise and disappointment that a vote on a nondiscrimination and equity policy (3210) passed 3-2. He emphasized the importance of accurately reflecting the voti...[truncated, use api for full text]
+The Northshore School District Board of Directors held a study session on October 28, 2024, to review information on Superintendent Parameter 9 - Equity.  The meeting was called to order at 5:02 PM and adjourned at 6:42 PM.  Attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The specific content discussed regarding Superintendent Parameter 9 - Equity was not detailed in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-11-01-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
 
-## 2022-04-27 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District Board held a meeting on April 27th, 2022, to discuss various agenda items. Notably, they conducted a second reading and approved Policy & Procedure 3211—Gender Inclusive Schools with a vote of 3-2. This policy aims to create a welcoming and inclusive environment for all students, regardless of their gender identity.  The board also reviewed and approved several other policies, including those related to medication at school (Policy & Procedure 3416), opioid overdose reversal (Policy & Procedure 3424), and parent access to a safe and orderly learning environment (Policy & Procedure 4200). These policy changes reflect the district's commitment to student well-being and creating a supportive educational experience for all.
+The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting agenda includes a discussion on the district's efforts to promote racial equity. Several documents are attached for review, including "DRAFT Discipline Protocols for Discrimination Incidents" and the "2024 Student Justice Conference Program." The session also features a presentation titled "P9 Study Session Slidedeck 10.28.24".  The Board will discuss various resources and initiatives aimed at fostering diversity and inclusion within the school district.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
 
-## 2022-04-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail several first readings of new policies and updates to existing ones. Notably, Policy & Procedure 3211 underwent a revision focusing on "Gender Inclusive Schools." While the specific content of the revisions isn't mentioned, the title suggests an emphasis on inclusivity for transgender and gender non-conforming students.  The board also reviewed a first reading of Policy & Procedure 3424 concerning "Opioid-Related Overdose Reversal," indicating a potential focus on student health and safety. The minutes also document a hiring update and spring break maintenance updates provided by Superintendent Dr. James Everett.
+This document details the minutes from a Northshore School District board meeting.  It covers routine agenda items such as budget reports, contract awards for services like food and beverage provision and copier maintenance, and construction updates for school renovation projects. The board also approved an amendment to a contract related to the Leota Middle School Phase 1 Replacement Project. There are no mentions of topics typically associated with culture war debates in education.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
 
-## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District Board meeting minutes detail a range of topics including standard school board business like approving the agenda, minutes from previous meetings, and recognizing staff achievements.  The board also addressed several policy matters. They adopted Board Resolution 04-21 affirming membership with the Washington Interscholastic Activities Association (WIAA) and requiring adherence to its rules. Board Resolution 05-21 approved a collective bargaining agreement with the Meridian Education Association.
+The text outlines an agenda for a special meeting of the school board focused on celebrating "Adult Transition Pathways."  The meeting will include a commencement, a list of attendees, a discussion period dedicated to the celebration, and an end of meeting segment. No specific policies or resolutions are mentioned in the provided text.
 
-Several new policies received first readings, including Policy 2161 regarding Special Education and Related Services for Eligible Students, Policy 2162 concerning Education of Students With Disabilities Under Section 504 of the Rehabilitation Act of 1973, and Policy 21...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-11-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-minutes.txt)
+## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Northshore School District Board is considering approving new supplemental and core curriculum materials for high school English Language Arts (ELA) and Physics courses. 
 
-The Meridian School District #505 Board met on January 13, 2021 via Zoom.  The meeting included a second reading and adoption of Policy and Procedure 2336: Required Observances which mandates observance of Veterans Day, Constitution Day, Temperance and Good Citizenship Day, and Disability History Month. The board also adopted Policy and Procedure 3232: Parent and Student Rights in Administration of Surveys, Analysis or Evaluation and Policy and Procedure 3244: Prohibition of Corporal Punishment Track Changes.  The board reviewed the updated MSD Reopening Plan which addressed the ongoing COVID-19 pandemic. They also discussed the development of two new committees: the MSD Equity and Access Committee and the MSD Community Involvement Committee. The meeting concluded with an executive session...[truncated, use api for full text]
+The proposed ELA novels aim to enhance the existing curriculum by introducing diverse perspectives and underrepresented voices through various titles selected by the ELA Novel Study Committee. A new edition of a previously approved textbook, Chemistry Course Companion, is also being considered. The Board is also reviewing Peer Physics, a POGIL (Process Oriented Guided Inquiry Learning) curriculum for 
+Fiscal Year 2024
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-minutes.txt)
+summary: This agenda item requests approval from the Northshore School District Board to accept the April 2024
+
+
+The board will be reviewing a report detailing the allocation of funds within the Capita...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-10-agenda.txt)
+
+## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM in the Administrative Center Board Room to discuss Goal 4 - Innovative, Creative, Critical Thinkers.  The meeting agenda includes a review of information related to this goal. Supporting documents for review include "Goal 4 Slide Deck," "SG4-2023-2024-Report-Final," and "G-1_Goals_last reviewed_2_13_2023."  The meeting will conclude with an end of meeting summary.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-agenda.txt)
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on March 22, 2024, at Cascadia College to attend the Student Justice Conference.  The meeting commenced at 9:30 AM and concluded at 2:30 PM. The attendees included board members Hân Trần, Jacqueline McGourty, and Amy Cast (President).  While the specific content discussed during the conference is not detailed in the provided text, the meeting's purpose suggests a focus on topics related to diversity and inclusion, as well as student empowerment and autonomy within the educational context.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-minutes.txt)
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Cascadia College Board of Directors will be attending the Student Justice Conference on March 22nd, 2024.  The conference focuses on student autonomy and justice issues. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-agenda.txt)
+
+## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on February 26, 2024, to discuss Goal 2 of their long-term strategic plan. This goal focuses on fostering "Responsible, Resilient, Empathetic Learners."  The meeting, which lasted from 5:04 PM to 6:38 PM, included attendees such as board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The specific details of the discussion regarding Goal 2 were not provided in the text.  The minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-minutes.txt)
+
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This document details a Northshore School District Board of Directors meeting agenda and associated materials.  A key item is the review of Superintendent Parameter 6 which focuses on "Relationships with Students, Staff, Parents and the Public". This suggests a focus on diversity and inclusion within the school district. The document also mentions monitoring reports for superintendent performance related to board goals and parameters.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-12-agenda.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Administrative Center Board Room will host a study session on January 22, 2024, at 5:00 PM.  The meeting's primary focus is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps." This goal suggests a commitment to diversity-inclusion and racial-equity within the school system. The Board will review information regarding this goal, including data presented in documents titled "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
+
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors met on January 8, 2024.  The meeting included standard agenda items such as budget reports, capital project updates and a discussion about offering childcare during meetings to encourage parental involvement. A new policy, "Racial Equity," was discussed but no details were provided regarding its content or implementation. The board also reviewed a Deductive Change Order for the Northshore School District Concert Hall at Inglemoor High School.  Additionally, the Board discussed upcoming Advocacy meetings and reviewed individual member reports detailing their participation in various events.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
 

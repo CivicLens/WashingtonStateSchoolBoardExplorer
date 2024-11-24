@@ -1,22 +1,32 @@
-# Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: diversity-inclusion
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: diversity-inclusion
 
-## 2023-12-12 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-This document details the minutes from a school board meeting.  The board discussed holding a budget work session in early 2024 and scheduling a special meeting for review of the superintendent's performance expectations. A suggestion was made to hold an open board meeting to inform the public about an upcoming levy and bond election, with the superintendent agreeing to share relevant PDC rules regarding what directors can and cannot say as representatives of the district. Director Freeman highlighted the diverse backgrounds and professional experiences of the board members, emphasizing their shared value of excellence in education. The next regular board meeting is scheduled for January 22, 2024, with potential agenda items including School Board Recognition Month, administrator reports, ...[truncated, use api for full text]
+The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting will include a discussion on the district's efforts to promote racial equity. Supporting documents for the session include slide decks, discipline protocols for discrimination incidents, and materials from the Student Justice Conference. The Board will also review resources such as the Racial and Educational Justice Toolkit and a handbook outlining the district's approach to racial and educational justice.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-12-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
 
-## 2022-02-09 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The school board discussed several policy updates and procedural changes.  The board reviewed Policy 4220 (Citizen Complaint) and Procedure 1620P (The Board-Superintendent Relationship), considering the addition of a link to Policy 4220 within Procedure 1620P. They also addressed the need for a standardized citizen complaint form, with Director Creydt advocating for its implementation.  
+The Cascadia College Board of Directors will attend a Student Justice Conference on March 22, 2024.  The conference focuses on student justice issues and the board will be present at various times throughout the event. No further details regarding specific topics or discussions within the conference are provided in the text.
 
-Additionally, the board reviewed new model policies from WSSDA (Washington State School Directors' Association) addressing Ethical Conduct for School Directors and Addressing School Director Violations. These policies were introduced in response to recent events impacting school districts across Washington state. The board will review these updates further before a First Reading scheduled for February 28t...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-22-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-02-09-minutes.txt)
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2020-06-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The school board agenda outlines a retreat meeting focused on several key topics related to student well-being and development.  The "Discussion" section includes items such as "Pool," potentially referring to a discussion about resources for students, followed by "Portrait / Profile of a Graduate," which suggests a conversation about desired outcomes and skills for graduating students. The agenda also lists "Artificial Intelligence" and "Data" as discussion points. It's unclear from the context how these topics relate to student well-being or autonomy, but they could be part of a broader conversation about using technology and data to support student learning and growth.
 
-The Blaine School Board held a meeting discussing various topics including the election of Laura McKinney as Legislative Representative for a two-year term.  The board also scheduled a retreat for July 25th and a regular meeting for July 27th, outlining agenda items such as a public hearing on the 2020-2021 budget, student fee list, superintendent's report, policy updates, and the 2020-2021 Continuous Learning Plan.  The board acknowledged receipt of written public comment from the Blaine Education Association regarding current social unrest and teachers' commitment to all students. The meeting concluded with an executive session to review a public employee's performance.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-06-22-minutes.txt)
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This document outlines a Northshore School District Board meeting agenda. It includes policy reviews and information items related to budget status, capital projects, and Superintendent performance monitoring. Notably, it mentions "Relationships with Students, Staff, Parents and the Public" as part of a Superintendent Parameter review. While there's no explicit mention of LGBTQ+ or transgender issues, the focus on relationships could imply considerations around diversity and inclusion within the school district. The document also includes a budget status report and information about capital projects, indicating a focus on financial transparency and resource allocation.  Finally, the agenda mentions monitoring the Superintendent's performance against board policies and goals, highlighting a...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-12-agenda.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines an agenda for a study session of the Board of Directors scheduled for January 22, 2024.  The primary focus of the meeting is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps."  This goal will be reviewed during the discussion portion of the meeting. The board will review information presented in two attached documents: "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."  The agenda also includes standard items such as a call to order, list of attendees, and end of meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
 

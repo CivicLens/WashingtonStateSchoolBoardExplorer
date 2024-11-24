@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: teacher-support
 
+## 2024-11-16 - TAHOMA_SCHOOL_DISTRICT (Agenda)
+
+The Tahoma School District Board of Directors has scheduled a work study session for Saturday, November 16, 2024, at 8:00 a.m.  The meeting will be held at the Central Services Center and a virtual option will be available via Zoom. The agenda includes an opening with a call to order, attendance, and the Pledge of Allegiance. The primary focus of the session is a training and team-building exercise led by Kristine McDuffy from Hazard, Young, Attea & Associates.  The training aims to develop the Board and Superintendent's skills and foster collaboration. The meeting concludes with an adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-11-16-agenda.txt)
+
 ## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 This school board meeting agenda and minutes cover a range of routine administrative topics. The Superintendent's Consent Agenda included approving contracts for various services like legal counsel, mental health professionals, substance use support, threat assessment, physical therapy, and autism center training.  The Board also reviewed the June 2023 Fund Balance Financial Statements and approved personnel hiring, supplemental contracts, resignations/retirements, and leave requests.
@@ -7,6 +13,12 @@ This school board meeting agenda and minutes cover a range of routine administra
 The Board Consent Agenda focused on approving minutes, reviewing the budget, and receiving a monitoring report for Operational Expectations Policy 2 (OE-2) regarding succession planning. They also adopted the Governance Culture Policy 6-E Annual Work Plan. During the "Sharing" segment, board members discusse...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
+
+## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The agenda focuses on approving personal services contracts for individuals providing specialized support to students. Nora Cohoe will provide speech language services for private school students on Individualized Education Programs (IEPs). Debbie Hecht-Reier will offer IEP and teaching support for special education staff. Mark Kelly will deliver additional instruction for 6th-grade beginning band students. These contracts highlight the district's commitment to  special education support and teacher support through external expertise. The agenda also includes an informational item regarding the revised GP-7.2, 2024-25 annual board agenda, which outlines the schedule of meetings and topics for the upcoming school year.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-agenda.txt)
 
 ## 2024-10-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -18,27 +30,27 @@ The Meridian School District #505 held a regular school board meeting on October
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve consent agenda items A-F |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve consent agenda items A-F |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve consent agenda items A-F |
+| [Michelle Simmons](board_member_25.md) | voted yes | motion to approve consent agenda items A-F |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve the highly capable program, as presented |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve the highly capable program, as presented |
+| [Michelle Simmons](board_member_25.md) | voted yes | motion to approve the highly capable program, as presented |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
+| [Michelle Simmons](board_member_25.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_25.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
+| [Michelle Simmons](board_member_25.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
+| [Michelle Simmons](board_member_25.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+| [Michelle Simmons](board_member_25.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
 
 ## 2024-09-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -50,12 +62,40 @@ The Meridian School District #505 held its regular school board meeting on Septe
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
+
+## 2024-09-23 - CAMAS_SCHOOL_DISTRICT (Minutes)
+
+The Mill Town School Board held a regular meeting on September 23rd, 2024. The meeting included standard agenda items such as the Pledge of Allegiance and Land Acknowledgement.  Board communication involved public comments and presentations from students. 
+
+The board approved student placements at SPERO Center for $326,000 and Florens Academy for $600,000 for the 2024-2025 school year. Additionally, an Out-of-Endorsement Assignment Request for Adam Mathieson was approved. The consent agenda included minutes, accounts payable, payroll, human resources matters, donations, and a contract renewal for a Behavioral Health Program. All consent agenda items were approved unanimously.
+
+The meeting concluded with the approval of a travel request by the CHS Select Vocal Ensemble for their retreat in ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-23-minutes.txt)
+
+## 2024-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The agenda includes two action items related to personal services contracts. Laura Brown will develop, review, and update service plans for private school students from August 29, 2024, through June 27, 2025. Stefanie Weis will assist payroll with new hire benefit enrollments from September 24, 2024, through August 2025.  The agenda also includes an informational item regarding the updated GP-7.2, 2024-25 annual board agenda, which highlights changes from the previous version.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-09-12-agenda.txt)
+
+## 2024-09-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on September 9, 2024, to discuss the Teacher and Principal Evaluation Program (TPEP). The meeting, which began at 6:45 PM and concluded at 7:45 PM, included all board members and Superintendent Michael Tolley.  The discussion centered around the TPEP, a program designed to evaluate teacher and principal performance. No specific changes or updates to the program were mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-09-minutes.txt)
+
+## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board Meeting agenda outlines a range of topics focusing on academic and operational matters.  The board will discuss and potentially vote on the adoption of the 2024-2025 budget (Resolution #10-24). They will also consider approval for 2024-2025 Interscholastic Activities and the Highly Capable Program. An interlocal agreement with the Meridian School District regarding transportation services is also on the agenda for potential approval. The meeting includes time for public comment, information from the audience, and reports from the Superintendent, Teaching & Learning department, and Finance & Operations. A board workshop focusing on "Gender Inclusive Schools" will take place after regular agenda items are addressed.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
 
 ## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -67,30 +107,30 @@ The school board meeting addressed several routine matters and policy updates.  
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Kevin Erickson](board_member_16.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Steve Childs](board_member_18.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Antonio Machado](board_member_20.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Kevin Erickson](board_member_16.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
-| [Steve Childs](board_member_18.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
-| [Antonio Machado](board_member_20.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
-| [Kevin Erickson](board_member_16.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Steve Childs](board_member_18.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Antonio Machado](board_member_20.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Kevin Erickson](board_member_16.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
-| [Steve Childs](board_member_18.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
-| [Antonio Machado](board_member_20.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
-| [Kevin Erickson](board_member_16.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Steve Childs](board_member_18.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Antonio Machado](board_member_20.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Kevin Erickson](board_member_16.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
-| [Steve Childs](board_member_18.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
-| [Antonio Machado](board_member_20.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Kevin Erickson](board_member_11.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Steve Childs](board_member_13.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Antonio Machado](board_member_15.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Kevin Erickson](board_member_11.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
+| [Steve Childs](board_member_13.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
+| [Antonio Machado](board_member_15.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works...[truncated, use api for full text] |
+| [Kevin Erickson](board_member_11.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Steve Childs](board_member_13.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Antonio Machado](board_member_15.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Kevin Erickson](board_member_11.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
+| [Steve Childs](board_member_13.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
+| [Antonio Machado](board_member_15.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Ex...[truncated, use api for full text] |
+| [Kevin Erickson](board_member_11.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Steve Childs](board_member_13.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Antonio Machado](board_member_15.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Kevin Erickson](board_member_11.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Steve Childs](board_member_13.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Antonio Machado](board_member_15.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
 
 ## 2024-07-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -104,6 +144,12 @@ The July 9, 2020 school board meeting minutes detail routine matters such as app
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
 
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+This document details the minutes from a Northshore School District board meeting.  It covers routine agenda items such as budget reports, contract awards for services like food and beverage provision and copier maintenance, and construction updates for school renovation projects. The board also approved an amendment to a contract related to the Leota Middle School Phase 1 Replacement Project. There are no mentions of topics typically associated with culture war debates in education.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
+
 ## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting and budget hearing on June 26, 2024.  The meeting covered routine items such as approval of the agenda and consent agenda which included various agreements and personnel reports. A budget presentation and public comment period for the 2024-2025 budget were conducted with no public comment received. The board approved several resolutions including General Obligation Bonds Resolution 06-24, Reduction in Force Resolution 07-24, and a motion to approve naming the North Gym at Meridian High School "Diane Axelson Court".  
@@ -116,16 +162,16 @@ The meeting also included first readings of several procedures, including Proced
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
+| [Jana Haugen](board_member_21.md) | voted yes | Motion to adopt the consent agenda |
+| [Marty Gray](board_member_24.md) | voted yes | Motion to adopt the consent agenda |
+| [Jana Haugen](board_member_21.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
+| [Jarrod Karuza](board_member_22.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
+| [Jana Haugen](board_member_21.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_22.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_22.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
+| [Marty Gray](board_member_24.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
+| [Jana Haugen](board_member_21.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
+| [Jarrod Karuza](board_member_22.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
 
 ## 2024-06-13 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -139,6 +185,17 @@ The school board meeting minutes detail a regular session held on May 23rd, 2024
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-05-23-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Tanya Silves](board_member_35.md) | voted yes on motion to approve the Administrator and Non-Union Contracts for the 2024-2025 school year | M.C. 5-0 |
+| [Ty Elmendorf](board_member_34.md) | voted yes on motion to approve the Administrator and Non-Union Contracts for the 2024-2025 school year | M.C. 5-0 |
+| [Halli Kimball](board_member_32.md) | voted yes on motion to accept Superintendent Galley’s evaluation | M.C. 5-0 |
+| [Shelley Harder](board_member_33.md) | voted yes on motion to accept Superintendent Galley’s evaluation | M.C. 5-0 |
+| [Tanya Silves](board_member_35.md) | voted yes on motion to approve Superintendent Galley’s contract for the 2024-2025 school year | M.C. 5-0 |
+| [Ty Elmendorf](board_member_34.md) | voted yes on motion to approve Superintendent Galley’s contract for the 2024-2025 school year | M.C. 5-0 |
+
 ## 2024-05-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on May 8, 2024.  The meeting covered a range of topics including the adoption of the consent agenda which included routine items such as personnel appointments and financial reports.  The Board reviewed several policies for first reading including the GCU Universal Field Placement Agreement, Resolution 04-24 - Authorizing the Commitment of Funds, and a Lead Water Action Plan. All three will be brought back for second review and approval at the May 22nd meeting.
@@ -151,17 +208,17 @@ The Superintendent's report highlighted several achievements including recogniti
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt the consent agenda |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt the consent agenda |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve the Sendan Center Contract as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve the Sendan Center Contract as presented |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to adopt the consent agenda |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to adopt the consent agenda |
+| [Marty Gray](board_member_24.md) | voted yes | motion to adopt the consent agenda |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes | motion to approve the Sendan Center Contract as presented |
+| [Jarrod Karuza](board_member_22.md) | voted yes | motion to approve the Sendan Center Contract as presented |
 
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -179,9 +236,9 @@ The school board meeting focused on addressing budget reduction considerations. 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_13.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
-| [Erika Creydt](board_member_11.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_12.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_8.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
+| [Erika Creydt](board_member_6.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_7.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote a...[truncated, use api for full text] |
 
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -200,6 +257,12 @@ The Lynden School Board meeting minutes detail several actions taken by the boar
 The Meridian School District #505 held a regular school board meeting on September 20, 2023.  The meeting covered a range of topics including reports on professional development plans for staff and summer maintenance projects. Several agreements were reviewed and approved, including the Bradley University Preceptor Agreement and the SLP Teleservices Agreement. The board also received a first reading of several policies and procedures related to electronic resources, internet safety, student fees, fines or charges, student records, and food and beverage consumption.  These will be brought back for a second review and approval at the next meeting.  The superintendent provided updates on enrollment projections, budget status, and the district's application for a Core Skill Center in Whatcom C...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-20-minutes.txt)
+
+## 2023-09-06 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The agenda outlines a regular meeting of the school board on September 6, 2023. Key items include a first review of the Bradley University Preceptor Agreement, which will be brought back for approval on September 20th.  The board is also asked to review and approve a Professional Services Agreement for expedited consideration. The Superintendent will deliver a report on district activities. The agenda concludes with opportunities for information sharing from student board representatives and board members, followed by the adjournment of the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-06-agenda.txt)
 
 ## 2023-09-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -229,11 +292,23 @@ The Blaine School District No. 503 held a special board meeting on July 24, 2023
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-07-24-minutes.txt)
 
+## 2023-06-22 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board meeting agenda focuses on routine matters like approving payroll and personnel recommendations.  Notable items include celebrating the 2023 graduates and recognizing retiring staff members. The Transportation Department received recognition from OSPI for exceptional school bus safety inspections. Reports from the Superintendent, Teaching and Learning, and Finance and Operations are scheduled. A second reading of policy 3245 regarding Students and Telecommunication Devices is planned.  The board will also discuss action items related to the Comprehensive School Counseling Plan. Finally, a workshop on Superintendent Evaluation Process & Timeline, Capital Facilities Planning Update, and the School Board Director Handbook is scheduled.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-22-agenda.txt)
+
 ## 2023-05-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on May 10, 2023.  The meeting included a review of the self-manager program for fifth graders at IRE Elementary and an assessment program report presented by Director of Teaching and Learning Adrienne Somera. The Board approved Resolution 05-23, Adoption of Long-Range Study and Survey, and Policy and Procedure 3205 - Sexual Harassment of Students Prohibited. Superintendent Dr. Everett provided updates on teacher appreciation, meetings with tribal leaders, and the district's decision not to reduce staffing for the 2023-24 school year. Student Board Representatives Mirage DeNeal and Kurtis Kettman were present at the meeting.  The meeting adjourned at 8:33 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-05-10-minutes.txt)
+
+## 2023-02-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board meeting agenda outlines standard operational topics.  The "Good News" section highlights teacher and staff achievements, including professional development focused on "Every Student. Every Day," a theme emphasizing student learning through Social Emotional Learning Standards. A Freshman Blitz program aimed at supporting 9th graders' successful completion of their first semester is also celebrated. The agenda includes standard items like meeting minutes, consent agenda approvals (AP Payroll and Personnel Recommendations), reports from the Superintendent, Teaching and Learning, and Finance and Operations departments.  "Information from the Audience" establishes procedures for public comment during the meeting.  The board will hold a workshop on "Faciliti...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-agenda.txt)
 
 ## 2023-01-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -255,6 +330,12 @@ Presentations focused on bus safety and the Highly Capable Learning program. The
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
 
+## 2022-10-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The Meridian School District held a special meeting on October 13, 2022, at 5:00 PM.  The meeting's primary focus was a training session titled "PLC at Work Training" conducted by WASA (Washington Association of School Administrators). This training, expected to last one and a half hours, aimed to enhance the school board's understanding and implementation of Professional Learning Communities (PLCs) – collaborative teams of educators working together to improve student learning.  The agenda also included procedural items like calling the meeting to order and adopting the agenda. The meeting concluded with an adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-13-agenda.txt)
+
 ## 2022-08-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 Board held a work session on August 22, 2022, to discuss the district's strategic plan and review end-of-year reports and school improvement plans from each campus. Discussions centered around balancing social-emotional learning (SEL) with academic rigor in the wake of COVID-19 disruptions. The board reviewed data on student performance in ELA, Math, and SEL, noting both challenges and successes.  Specific areas for improvement were identified, including handwriting development at the primary level and collaborative PLC work across grade levels.
@@ -269,11 +350,29 @@ The Lynden School Board meeting on April 28, 2022, focused on routine matters an
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-04-28-minutes.txt)
 
+## 2021-10-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board meeting agenda includes items related to approving personal services contracts for additional instruction and Title I support.  The board will also review the updated annual board agenda (GP-7.2) with highlighted changes. The consent agenda includes approval of personal service contracts for Mark Kelly, providing additional instruction for 6th-grade beginning band students, and Christina Tan, offering Title I support at Bellingham Christian School. The meeting agenda emphasizes transparency by making documentation available to the public in advance and allowing for individual items on the consent agenda to be moved to the regular agenda.  The board will also assess the meeting itself.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-10-13-agenda.txt)
+
+## 2021-09-29 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The Meridian School District held a special meeting on Wednesday, September 29, 2021, via Zoom. The meeting agenda included a call to order, adoption of the agenda, and a consent agenda item focusing on approving accounts payable.  Following these procedural items, the school board participated in "PLC at Work" training facilitated by WASA (Washington Association of School Administrators). This training likely focused on professional learning communities and collaborative practices within schools. The meeting concluded with an adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-09-29-agenda.txt)
+
 ## 2021-06-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The School Board reviewed the Superintendent's Monitoring Report regarding Executive Limitations Reports and specifically Policy EL-8 on District Calendar.  The report highlighted commendable progress in adapting to the demands of the pandemic, including adjusting the school calendar for staff learning days and providing professional development opportunities to support remote and hybrid learning. Despite challenges, the superintendent was praised for clear communication during a rapidly changing environment and efforts to coordinate services for families' basic and learning needs. The Board specifically recognized the strong connections built with families receiving special education services during this time. No areas for improvement were identified.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-06-09-minutes.txt)
+
+## 2021-04-14 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The Meridian School District Board held a special meeting on April 14, 2021.  The agenda included standard procedural items like calling the meeting to order and welcoming attendees.  Board members reviewed and discussed the proposed 2021-22 school calendar. They also considered Resolution 01-21: Small Works Roster Authorization, which outlines a process for contracting small-scale construction projects without formal bidding. The board received a financial update from Daniel Yorton, Director of Business and Finance, who presented reports on the budget status and enrollment projections. Superintendent Dr. James Everett delivered his report, including information related to COVID-19 mitigation strategies based on guidance from the local health officer.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-04-14-agenda.txt)
 
 ## 2021-01-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -359,6 +458,12 @@ This document details personnel changes within a school district. It lists new h
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-11-14-minutes.txt)
 
+## 2019-07-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The document outlines professional development activities undertaken by Bellingham School District teachers. Hope LaBrie and Roxann Rose participated in training on "Understanding by Design in the Culturally and Linguistically Diverse Classroom" led by Jay McTigue and Amy Heineke. This training aimed to refine teaching practices for English Language Learners. Additionally, John Lehni provided 1:1 tutoring services to incarcerated Bellingham School District students at the Whatcom County Juvenile Jail and to students between school placements during the 2019-20 school year. Linda Pollino was involved in refurbishing elementary science kits from September 1, 2019, to August 30, 2020.  Natalie Reilly's participation as a bass player in the musical "9 to 5" is also noted. The document does not...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-10-agenda.txt)
+
 ## 2019-06-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail a discussion regarding the adoption of an updated "Meeting Conduct, Order of Business and Quorum" policy.  The board decided to adopt the most current version from the Washington State School Directors' Association (WSSDA), omitting the section on scheduling speakers in advance. They also discussed the superintendent's performance evaluation, opting to conduct it publicly during the regular meeting instead of a closed executive session. The evaluation highlighted positive aspects such as compliance with Executive Limitations and progress toward Ends goals. Board members commended Dr. Baker for communication efforts with staff and the community.  Finally, the board decided against taking the WSSDA self-assessment this year, choosing to focus on data f...[truncated, use api for full text]
@@ -420,6 +525,12 @@ The text focuses on the need for improved consistency and support for arts educa
 The document outlines approved changes to Item 2 of the EL-4 policy. These changes mandate that the Superintendent ensure all staff are qualified and effective and provide appropriate training for all employee classifications. Additionally, the Superintendent must maintain salary schedules comparing district salary and benefits to those of comparable districts and establish a system for evaluating employees, providing written improvement plans, and monitoring progress. The document also includes informational items from a school board meeting, including reports on student support initiatives, attendance at a social media safety program, and updates on legislative actions related to higher education credits.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-09-minutes.txt)
+
+## 2017-02-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This document outlines consent and informational items for a February 15, 2017 school board meeting. Item 2.13 addresses EL-4, Staff Treatment, Compensation and Evaluation,  a policy monitored through reports submitted to the board. The meeting also includes informational items such as School Board Directors' Reports and Discussion of School Board Visits and Linkages.  Finally, closing items include a Board Assessment of Meeting and Adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-02-15-agenda.txt)
 
 ## 2016-06-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

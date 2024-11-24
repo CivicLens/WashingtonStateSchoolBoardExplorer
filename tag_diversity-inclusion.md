@@ -1,10 +1,72 @@
 # Meeting Summaries for Tag: diversity-inclusion
 
+## 2024-11-06 - FERNDALE_SCHOOL_DISTRICT (Agenda)
+
+The Ferndale School District No. 502 held a study session on April 18, 2023, focused on the implementation of a Land Acknowledgment Statement.  The session included presentations from Lummi Tribal members who discussed the history and significance of their ancestral lands. The board also engaged in discussion regarding the process used to develop the statement and its potential incorporation into school curriculum. This initiative reflects the district's commitment to diversity-inclusion and racial equity by recognizing and honoring the Indigenous peoples who originally inhabited the land where the schools are located.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-06-agenda.txt)
+
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting agenda includes a discussion on the district's efforts to promote racial equity. Several documents are attached for review, including "DRAFT Discipline Protocols for Discrimination Incidents" and the "2024 Student Justice Conference Program." The session also features a presentation titled "P9 Study Session Slidedeck 10.28.24".  The Board will discuss various resources and initiatives aimed at fostering diversity and inclusion within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
+
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on October 28, 2024, to review information on Superintendent Parameter 9 - Equity.  The meeting was called to order at 5:02 PM and adjourned at 6:42 PM.  Attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The specific content discussed regarding Superintendent Parameter 9 - Equity was not detailed in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
+
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting will include a discussion on the district's efforts to promote racial equity. Supporting documents for the session include slide decks, discipline protocols for discrimination incidents, and materials from the Student Justice Conference. The Board will also review resources such as the Racial and Educational Justice Toolkit and a handbook outlining the district's approach to racial and educational justice.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
+
+## 2024-10-14 - CAMAS_SCHOOL_DISTRICT (Agenda)
+
+The School Board Workshop agenda for October 14, 2024, focuses on several key areas.  "Safe and Healthy School Environments - District Safety Protocols" will be discussed as an informational item. A review of "Cultural Understanding - Policy & Procedure Review 3210," focusing on nondiscrimination, is scheduled as a discussion topic. The workshop also includes a presentation on "Excellence in Academic, Social and Lifelong Learning - CTE Program Review"  as an informational item. Finally, "Logistics" will be discussed.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-14-agenda.txt)
+
 ## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board discussed diversity and inclusion efforts during a school visit. They commended the presentation of the school's work on equity, diversity, and inclusion (EDI) to the board.  The board is considering taking action in response to funding dilemmas faced by districts. Options include adopting a resolution formalizing their viewpoint or writing a letter to the community. A committee consisting of Ms. Mason and Mr. Ritchey will draft both a resolution and a letter for the board's consideration at their upcoming retreat during the WSSDA conference in November. The goal is to raise awareness about the financial challenges facing schools and encourage community support.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-minutes.txt)
+
+## 2024-09-24 - TAHOMA_SCHOOL_DISTRICT (Agenda)
+
+The agenda includes several first readings for new and revised district policies. These include Policy 2124 - 47890-4782 KB)  The board will also vote on a $10,500  KB)
+
+
+Policy 6701 (Recess and Physical Activity), and Policy 6702 (Wellness). The agenda indicates that the board will be reviewing these policies for potential adoption.
+
+Additionally, there's a discussion item regarding the Board Inquiry Tracking System (BITS). Finally, the board will vote on approving several trips for students, including the THS FFA to Randle, WA and the THS Future Film Makers to Glendale, CA. They will also review the 2023/24 Annual Athletic Report and approve the 2024/25 BEA Compliance.  The agenda concludes with a vote on a $10,500 donation from the Rock Creek Elementary PTO.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-09-24-agenda.txt)
+
+## 2024-09-19 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District Board meeting agenda includes several policy readings related to LGBTQ+ and transgender student inclusion.  The second reading of Policy 3211 and 3211P, "Gender Inclusive Schools," aims to create a supportive environment for transgender students. Additionally, the first reading of Policy 2401 addresses "Financial Education Mastery-Based Learning & Credit," while the second readings cover Policies 2125 on "Sexual Health Education," 3432 on "Emergencies," 4130 on "Title I, Parental Involvement," 5314 on "Tax Deferred Annuity/Compensation," and 6220 on "Bid or Request for Proposal Requirements." The agenda also includes a report from the Superintendent on the "Be The One Mentoring Program" and time allotted for "Information from Board Directors and Student Represent...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-agenda.txt)
+
+## 2024-09-09 - CAMAS_SCHOOL_DISTRICT (Agenda)
+
+The School Board Workshop agenda for September 9, 2024, focuses on three key areas: Culture, Learning, and Systems/Pathways.  Under "Culture," the workshop will review Associated Student Body (ASB) budgets. The "Learning" section includes a review of summer school programs. Finally, under "Systems/Pathways," the discussion topic is logistics. 
+
+
+The agenda provides no further detail on the specific content of these discussions.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-09-agenda.txt)
+
+## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board Meeting agenda outlines a range of topics focusing on academic and operational matters.  The board will discuss and potentially vote on the adoption of the 2024-2025 budget (Resolution #10-24). They will also consider approval for 2024-2025 Interscholastic Activities and the Highly Capable Program. An interlocal agreement with the Meridian School District regarding transportation services is also on the agenda for potential approval. The meeting includes time for public comment, information from the audience, and reports from the Superintendent, Teaching & Learning department, and Finance & Operations. A board workshop focusing on "Gender Inclusive Schools" will take place after regular agenda items are addressed.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
 
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -13,6 +75,12 @@ This document is a school board monitoring response to a report on the district'
 The board expresses concern over attendance rates, which they hope will improve to at least the state average.  They suggest exploring creative solutions to support students with multiple interests, particularly in music education during middle school. The board acknowledges the challenges inherent in this but emphasizes the importance of fostering a lifelong appreciation f...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
+
+## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board Meeting agenda outlines several standard topics including approval of minutes, a consent agenda covering payroll and personnel recommendations, and reports from the Superintendent, Teaching and Learning, and Finance and Operations departments.  The meeting also includes "Action Items" related to agreements with Bellingham Technical College (Running Start Agreement), Northwest Educational Service District, and Nooksack Valley School District (Interlocal Agreement for Community Transitions). Notably, a "Board Workshop" on "Gender Inclusive Schools" suggests a focus on diversity and inclusion within the district.  Additionally, the agenda includes time for "Information from the audience" allowing public comment on both agenda and non-agenda items. The mee...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-agenda.txt)
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -26,22 +94,34 @@ Additionally, they discussed the possibility of joining other districts advocati
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | Motioned to adjourn the meeting | At the end of the meeting |
-| [Ken Owsley](board_member_22.md) | Approved agenda | Made a motion to approve the agenda. |
-| [Ken Owsley](board_member_22.md) | Approved consent agenda | Motioned to approve the consent agenda. |
-| [Ken Owsley](board_member_22.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
-| [Ken Owsley](board_member_22.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Khush Brar](board_member_23.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
-| [Khush Brar](board_member_23.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
-| [Khush Brar](board_member_23.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
-| [Khush Brar](board_member_23.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Jim Verburg](board_member_24.md) | Approved agenda | No context provided |
-| [Jim Verburg](board_member_24.md) | Approved consent agenda | No context provided |
-| [Jim Verburg](board_member_24.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
-| [Jim Verburg](board_member_24.md) | Approved Northwest Educational Service District Agreement | No context provided |
-| [Danny Martinez](board_member_25.md) | Approved consent agenda | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_25.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_25.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
+| [Tonya Hickman](board_member_16.md) | Motioned to adjourn the meeting | At the end of the meeting |
+| [Ken Owsley](board_member_17.md) | Approved agenda | Made a motion to approve the agenda. |
+| [Ken Owsley](board_member_17.md) | Approved consent agenda | Motioned to approve the consent agenda. |
+| [Ken Owsley](board_member_17.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
+| [Ken Owsley](board_member_17.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Khush Brar](board_member_18.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
+| [Khush Brar](board_member_18.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
+| [Khush Brar](board_member_18.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
+| [Khush Brar](board_member_18.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Jim Verburg](board_member_19.md) | Approved agenda | No context provided |
+| [Jim Verburg](board_member_19.md) | Approved consent agenda | No context provided |
+| [Jim Verburg](board_member_19.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
+| [Jim Verburg](board_member_19.md) | Approved Northwest Educational Service District Agreement | No context provided |
+| [Danny Martinez](board_member_20.md) | Approved consent agenda | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_20.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_20.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
+
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+This document details the minutes from a Northshore School District board meeting.  It covers routine agenda items such as budget reports, contract awards for services like food and beverage provision and copier maintenance, and construction updates for school renovation projects. The board also approved an amendment to a contract related to the Leota Middle School Phase 1 Replacement Project. There are no mentions of topics typically associated with culture war debates in education.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
+
+## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board meeting agenda focuses on several key topics.  A Safety & Security Task Force Report & Recommendations will be presented during the meeting. The board will also engage in a workshop titled "Gender Inclusive Schools". This suggests a focus on fostering an inclusive environment for all students. In terms of student autonomy, the board will vote on approval of the Alternative Learning Experience Program and Coaching & Extracurricular Salary Schedule. These decisions directly impact student choices regarding their education and extracurricular involvement.  The meeting also highlights "Good News" from the district, including successes in mentoring programs and community engagement events.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-agenda.txt)
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -53,17 +133,49 @@ The Lynden School District board meeting minutes detail discussions and votes on
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe an...[truncated, use api for full text] |
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Dir...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program ...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including trans...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedu...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Dir...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedu...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
+| [Tonya Hickman](board_member_16.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe an...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_16.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Dir...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program ...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including trans...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedu...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Dir...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedu...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
 Ext...[truncated, use api for full text] | Director Martinez motioned to approve Resolution #09-24- WIAA for a Fair, Safe a...[truncated, use api for full text] |
+
+## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda focuses on several key items related to diversity and inclusion.  The board will discuss monitoring reports for Ends 1 (Strategic Mission and Vision), 2 (Outcomes Focused on Knowledge) and 3 (Outcomes Focused on Character and Action) to determine if the superintendent is in compliance with policy. Additionally, they will review the Annual Affirmative Action Progress Report based on October 2023 data, which was prepared by Human Resources Executive Director Arionda Feeney. This report assesses the progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The agenda also includes a discussion on the performance review of a public employee.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-agenda.txt)
+
+## 2024-06-17 - CAMAS_SCHOOL_DISTRICT (Agenda)
+
+The Camas School Board held a special meeting on June 17, 2024, to discuss and adopt their long-term strategic plan.  The meeting included procedural items like the Pledge of Allegiance and Land Acknowledgement. Public comments were limited to three minutes per speaker with a total time limit of fifteen minutes. The board reviewed written public comments submitted by Jeanette Romano and Katie Berry-Jones. They then discussed the Strategic Plan, ultimately adopting it via a motion carried unanimously by the five board members present.  The meeting also included Director District II Board Member candidate interviews and an executive session for approximately 45 minutes. Following the executive session, the board appointed a new District Director II Board member.  The agenda demonstrates a co...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-agenda.txt)
+
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines an agenda for a special meeting of the school board focused on celebrating "Adult Transition Pathways."  The meeting will include a commencement, a list of attendees, a discussion period dedicated to the celebration, and an end of meeting segment. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-11-agenda.txt)
+
+## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School District Board is considering approving new supplemental and core curriculum materials for high school English Language Arts (ELA) and Physics courses. 
+
+The proposed ELA novels aim to enhance the existing curriculum by introducing diverse perspectives and underrepresented voices through various titles selected by the ELA Novel Study Committee. A new edition of a previously approved textbook, Chemistry Course Companion, is also being considered. The Board is also reviewing Peer Physics, a POGIL (Process Oriented Guided Inquiry Learning) curriculum for 
+Fiscal Year 2024
+
+summary: This agenda item requests approval from the Northshore School District Board to accept the April 2024
+
+
+The board will be reviewing a report detailing the allocation of funds within the Capita...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-10-agenda.txt)
 
 ## 2024-06-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -71,11 +183,62 @@ The Bellingham School District Board of Directors visited Wade King Elementary S
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-04-minutes.txt)
 
+## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM in the Administrative Center Board Room to discuss Goal 4 - Innovative, Creative, Critical Thinkers.  The meeting agenda includes a review of information related to this goal. Supporting documents for review include "Goal 4 Slide Deck," "SG4-2023-2024-Report-Final," and "G-1_Goals_last reviewed_2_13_2023."  The meeting will conclude with an end of meeting summary.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-agenda.txt)
+
+## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School Board meeting agenda focuses on several key areas.  The board will discuss first and second readings of updated policies. Policy 2255, Alternative Learning Experience Courses, is undergoing a first reading. A second reading will be held for Policy 6905, Site Acquisition. The board will also consider two Interlocal Cooperative Agreements: one with Whatcom County Behavioral Health for the 24/25 school year and another with Whatcom Discovery for the same period. Resolution #07-24 addresses Surplus Personal Property.  The election of a WIAA representative is also on the agenda.
+
+Parental feedback and community engagement are highlighted as important topics, with an open forum for audience members to address the board on both agenda and non-agenda items. The meeting agenda emp...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-16-agenda.txt)
+
+## 2024-05-14 - TAHOMA_SCHOOL_DISTRICT (Agenda)
+
+This document outlines the agenda for a school board meeting. Several items relate to diversity and inclusion efforts, including revisions to policies on public information, system of funds and accounts, dangerous weapons regulation, and real property rental/lease. There's also discussion regarding student autonomy with a focus on revising policy 4210 which relates to public information programs.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-05-14-agenda.txt)
+
 ## 2024-05-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a visit to Alderwood Elementary School on May 7, 2024.  The purpose of the visit was for the board to hear from students about how the school's Promise Outcomes – Character, Knowledge and Action – are implemented in practice. The meeting highlighted student autonomy by giving them a platform to share their experiences and perspectives on these outcomes. This visit also demonstrates the school board's commitment to community engagement by actively seeking input from students and staff at Alderwood Elementary School.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-07-minutes.txt)
+
+## 2024-04-10 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
+
+The School Board meeting agenda for April 10, 2024.  The presentation will focus on the Marshallese Heritage Language Program and include a report on the ELD program) .  KB). A discussion of a Marshallese Language Learning Program will be included in this section. Presented by Tamika LaMere
+Meeting: Apr 10, 
+
+Apr 10, 2024 - Regular Meeting
+
+Category: 7. AGENDA
+
+
+Type: Information
+Public Content
+
+Presentation Length:
+
+Information
+
+Presented By : Shawn Jordan and Heather Bybee
+
+Background/Rationale
+
+The intent of this agenda item is to provide an update on the Learning and School Support Services Department. This presentation will cover key updates and initiatives within the department.
+
+
+
+File Attachments
+
+Learning and School Supports Report.pdf (1,234 KB)
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-04-10-agenda.txt)
 
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -87,29 +250,59 @@ The school board meeting minutes detail discussions and votes on several policy 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for su...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity ...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submissi...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for H...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_16.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for su...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity ...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submissi...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for H...[truncated, use api for full text] |
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Cascadia College Board of Directors will be attending the Student Justice Conference on March 22nd, 2024.  The conference focuses on student autonomy and justice issues. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-agenda.txt)
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on March 22, 2024, at Cascadia College to attend the Student Justice Conference.  The meeting commenced at 9:30 AM and concluded at 2:30 PM. The attendees included board members Hân Trần, Jacqueline McGourty, and Amy Cast (President).  While the specific content discussed during the conference is not detailed in the provided text, the meeting's purpose suggests a focus on topics related to diversity and inclusion, as well as student empowerment and autonomy within the educational context.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-minutes.txt)
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Cascadia College Board of Directors will attend a Student Justice Conference on March 22, 2024.  The conference focuses on student justice issues and the board will be present at various times throughout the event. No further details regarding specific topics or discussions within the conference are provided in the text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-22-agenda.txt)
+
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda outlines a retreat meeting focused on several key topics related to student well-being and development.  The "Discussion" section includes items such as "Pool," potentially referring to a discussion about resources for students, followed by "Portrait / Profile of a Graduate," which suggests a conversation about desired outcomes and skills for graduating students. The agenda also lists "Artificial Intelligence" and "Data" as discussion points. It's unclear from the context how these topics relate to student well-being or autonomy, but they could be part of a broader conversation about using technology and data to support student learning and growth.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
 
 ## 2024-03-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Lowell Elementary School on March 5, 2024.  The purpose of the visit was to learn about Lowell's implementation of the International Baccalaureate (IB) program and observe how staff collaborate to develop units of inquiry. The board toured several classrooms and engaged with students and staff. This visit highlights the school district's commitment to diversity-inclusion through its adoption of the IB program, which is known for its emphasis on international mindedness and intercultural understanding.  The visit also demonstrates the school board's commitment to community engagement by directly interacting with the Lowell Elementary School community.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-05-minutes.txt)
+
+## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Whatcom Middle School will host a School Board Special Meeting/Student Roundtable on February 27th, 2024 from 2:00 to 3:00 pm.  The purpose of the meeting is for the school board to learn more about the GSA Club, indicating a focus on LGBTQ+ student inclusion and diversity within the school. This meeting will not include public comment time.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-agenda.txt)
 
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -118,6 +311,30 @@ This document details a student roundtable meeting hosted by the Bellingham Scho
 Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues relat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
+
+## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on February 26, 2024, to discuss Goal 2 of their long-term strategic plan. This goal focuses on fostering "Responsible, Resilient, Empathetic Learners."  The meeting, which lasted from 5:04 PM to 6:38 PM, included attendees such as board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The specific details of the discussion regarding Goal 2 were not provided in the text.  The minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-minutes.txt)
+
+## 2024-02-12 - CAMAS_SCHOOL_DISTRICT (Agenda)
+
+The school board workshop agenda for February 12, 2024, includes several topics related to student well-being and educational support.  A Title IX update will be presented by Stephen Baranowski, focusing on compliance with the federal law prohibiting sex-based discrimination in education programs. Sheree GomezClark will provide an update on the Multi-Tiered System of Supports (MTSS), a framework designed to address students' academic and behavioral needs through tiered interventions. Additionally, the board will discuss policies for February 2024, covering various aspects of school operations and student support. Finally, logistical matters related to the workshop will be addressed.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-02-12-agenda.txt)
+
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This document details a Northshore School District Board of Directors meeting agenda and associated materials.  A key item is the review of Superintendent Parameter 6 which focuses on "Relationships with Students, Staff, Parents and the Public". This suggests a focus on diversity and inclusion within the school district. The document also mentions monitoring reports for superintendent performance related to board goals and parameters.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-12-agenda.txt)
+
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This document outlines a Northshore School District Board meeting agenda. It includes policy reviews and information items related to budget status, capital projects, and Superintendent performance monitoring. Notably, it mentions "Relationships with Students, Staff, Parents and the Public" as part of a Superintendent Parameter review. While there's no explicit mention of LGBTQ+ or transgender issues, the focus on relationships could imply considerations around diversity and inclusion within the school district. The document also includes a budget status report and information about capital projects, indicating a focus on financial transparency and resource allocation.  Finally, the agenda mentions monitoring the Superintendent's performance against board policies and goals, highlighting a...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-12-agenda.txt)
 
 ## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -129,8 +346,32 @@ The Ferndale School District held a special meeting on January 30, 2024, to disc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
-| [Nancy Button](board_member_19.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Nancy Button](board_member_14.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Administrative Center Board Room will host a study session on January 22, 2024, at 5:00 PM.  The meeting's primary focus is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps." This goal suggests a commitment to diversity-inclusion and racial-equity within the school system. The Board will review information regarding this goal, including data presented in documents titled "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines an agenda for a study session of the Board of Directors scheduled for January 22, 2024.  The primary focus of the meeting is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps."  This goal will be reviewed during the discussion portion of the meeting. The board will review information presented in two attached documents: "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."  The agenda also includes standard items such as a call to order, list of attendees, and end of meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
+
+## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board meeting agenda focuses on several key items related to diversity and inclusion.  The board will conduct first readings of two new policies: Policy 5010 - Nondiscrimination and Policy 5161 - Civility in the Workplace. A second reading is scheduled for Policy 2090 - Program Evaluation. The meeting also includes presentations on School Improvement Plans from Lynden High School, Lynden Middle School, and Isom Elementary.  Additionally, a presentation will be given on the Nondiscrimination in Hiring Plan. The board will vote on the approval of both the School Improvement Plans and the Nondiscrimination in Hiring Plan. Finally, a board workshop will discuss a class action lawsuit regarding social media.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-11-agenda.txt)
+
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors met on January 8, 2024.  The meeting included standard agenda items such as budget reports, capital project updates and a discussion about offering childcare during meetings to encourage parental involvement. A new policy, "Racial Equity," was discussed but no details were provided regarding its content or implementation. The board also reviewed a Deductive Change Order for the Northshore School District Concert Hall at Inglemoor High School.  Additionally, the Board discussed upcoming Advocacy meetings and reviewed individual member reports detailing their participation in various events.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
 
 ## 2023-12-12 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -170,6 +411,12 @@ The board also reviewed a Monitoring Report for Operational Expectations Policy 
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-06-27-minutes.txt)
 
+## 2023-06-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board Meeting agenda focuses on celebrating student achievements and addressing standard school board topics.  The "Good News" section highlights various student accomplishments across different grade levels, including field trips, engineering projects, art exhibitions, athletic victories, and a multicultural night event.  The meeting includes routine items like approving payroll, personnel recommendations, overnight trip requests, donations, and reports from the superintendent, teaching and learning departments, and finance and operations. The agenda also features a section for "Information from the Audience" outlining rules for public comment. Finally, the board will consider an "Alternative Learning Experience (ALE) Approval" as an action item.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-08-agenda.txt)
+
 ## 2023-04-18 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School District held a study session focused on adopting a Land Acknowledgment Statement. Led by Heather Leighton, Vista Principal and Lummi Tribal Member, the session featured presentations from Lummi Nation leaders and community members who shared perspectives on the history of the land and the importance of recognizing Indigenous presence. The process of developing the statement was described, highlighting its adoption by Lummi Nation resolution and its intended public use. Discussions also touched upon protocol for reciting the acknowledgment and the significance of creating a welcoming environment for Native students.  The session concluded with an invitation from Chairman Hillaire for the school board to attend the First Salmon ceremony.
@@ -181,6 +428,24 @@ The Ferndale School District held a study session focused on adopting a Land Ack
 The Ferndale School District Board held a study session on March 15, 2023, to discuss the budget development process. Assistant Superintendent Mark Deebach and Managing Director of Business Services Holly Graham provided an overview of the general education budgeting process, focusing on staffing and enrollment projections. Executive Directors Trina Hall and Kellie Larrabee updated the board on the progress of the Early Learning Task Force, which is developing recommendations for early childhood education. The task force aims to create a 3-5 year plan to allow for proactive budgeting in this area.  The board also discussed scheduling future study sessions, with the next meeting planned for April 18th at Vista Middle School to focus on a Land Acknowledgement Statement.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-03-15-minutes.txt)
+
+## 2023-02-23 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board meeting agenda focuses on various topics related to student well-being and academic progress.  "Good News" highlights celebrate student achievements in academics, extracurricular activities, and community engagement. The agenda includes reports from the Superintendent and Teaching & Learning departments, covering areas like the Northwest Career & Technical Academy and updates on curriculum. A "Policy" section mentions a first reading of Policy 2411 concerning High School Equivalency Certificates.  The meeting also includes time for public comment and a board workshop focused on Capital Facilities Planning.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-23-agenda.txt)
+
+## 2022-12-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes discussion items related to monitoring superintendent compliance with policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will review a monitoring report on EL-10, Race and Equity, and determine if the superintendent is in compliance. The board will also discuss whether the superintendent is in compliance with policy EL-5, Communication and Counsel to the Board.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-12-14-agenda.txt)
+
+## 2022-12-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board meeting agenda focuses on several key areas.  The board will discuss and potentially vote on "Resolution #20-22- Procurement Cards" and "Resolution #21-22- City of Lynden," though the specific details of these resolutions are not provided in the text. Policy changes are a significant theme, with first readings scheduled for policies 5001 (Hiring of Retired School Employees), 5610 (Substitute Employment), 4218 (Language Access), 6112 (Rental or Lease of District Property) and 1610 (Conflicts of Interest). A continued reading is planned for policy 3116 (Students in Foster Care). The agenda also highlights "Good News" from the district, including scholastic book purchases, student participation in a design contest, and completion of a Marathon Club.  The ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-12-08-agenda.txt)
 
 ## 2022-11-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -211,6 +476,12 @@ The Bellingham School District Board of Directors visited Birchwood Elementary S
 The Bellingham School Board reviewed a monitoring report from the Superintendent regarding progress towards established goals. The board commended the district for improvements in graduation rates across diverse socioeconomic backgrounds and highlighted the successful summer book distribution program which provided over 17,000 books to elementary school students.  The board also acknowledged the creative efforts made during the pandemic, specifically mentioning a virtual middle school concert. While praising overall progress, the board identified continued work on the Bellingham Promise initiative as an area for improvement. No changes were made to existing policies.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-07-13-minutes.txt)
+
+## 2022-05-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes an item for the annual Affirmative Action Progress Report based on data from October 2021. This report, prepared by Human Resources Director JoAn Steiner, is required under the district's 2019-2024 Affirmative Action Plan (Policy 5010). The board will also review an updated version of GP-7.2, the 2021-22 annual board agenda, with highlighted changes from the previous version.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-18-agenda.txt)
 
 ## 2022-05-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -252,6 +523,12 @@ The Bellingham School District Board of Directors visited Happy Valley Elementar
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-12-minutes.txt)
 
+## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School District Board of Directors will hold a special meeting on February 25, 2022, via Zoom.  The meeting agenda includes reviewing and discussing several policies. Policy EL-9, Asset Maintenance and Protection, and Policy EL-10, Race and Equity, will be reviewed. Additionally, the board will discuss linkages/study sessions/roundtables review, board improvement plan review, board routines, and the superintendent's mid-year report/evaluation. The meeting will not include public comment time.  The specific changes being considered for each policy are not mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-agenda.txt)
+
 ## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors met on February 25, 2022 to discuss several policy matters.  The board reviewed Policy EL-9 (Asset Maintenance and Protection) and Policy EL-10 (Race and Equity), considering potential changes and future information for monitoring reports. They also discussed the structure of board meetings, dinner meetings, and their involvement with the National School Board Association. The Superintendent's mid-year report was presented, allowing the board to provide feedback on his performance.  The meeting concluded at 2:38 p.m.
@@ -284,11 +561,23 @@ The Bellingham School District Board of Directors visited Sehome High School on 
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-10-05-minutes.txt)
 
+## 2021-07-22 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The Bellingham School Board is holding a special work session on July 22nd, 2021 to discuss the Washington State School Directors' Association (WSSDA) Evaluation Training.  The purpose of the meeting is for professional development and will focus on topics related to diversity and inclusion. The session will include a closing review and is expected to conclude around 8:00 p.m.   Specific details about the content of the WSSDA training are not provided in the text.  No mention is made of specific policies or changes related to special education support.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-07-22-agenda.txt)
+
 ## 2021-07-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes detail discussions on Critical Race Theory (CRT) and diversity and inclusion. Mr. Benjamin highlighted the value of a CRT training provided by WSSDA and WASA.  The board also acknowledged the successful execution of graduation ceremonies amidst the challenges posed by COVID-19. Ms. Rose expressed gratitude for the district's provision of BHS as a cooling shelter during the recent heatwave.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-07-14-minutes.txt)
+
+## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The May 26, 2021 school board meeting agenda includes several items relevant to diversity and inclusion initiatives.  The Superintendent's Report will include information on district activities, potentially including updates on equity programs. Additionally, the Instructional Materials Committee, presented by Dr. James Everett, Superintendent, will be introduced. This committee is composed of Adrienne Somera (chairman), Todd Torgeson (Administrative Representative), Lisa Buckley (Elementary - Intermediate Representative), and Natalie Eining (Elementary- Primary Representative). The meeting agenda also includes a Finance Report from Daniel Yorton, Director of Business and Finance, which will cover budget and finance updates.  Finally, the Superintendent's Report will include information on ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-agenda.txt)
 
 ## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -297,6 +586,12 @@ The Meridian School District Board meeting minutes detail a range of topics incl
 Several new policies received first readings, including Policy 2161 regarding Special Education and Related Services for Eligible Students, Policy 2162 concerning Education of Students With Disabilities Under Section 504 of the Rehabilitation Act of 1973, and Policy 21...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-minutes.txt)
+
+## 2021-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes an informational item reviewing the updated annual board agenda (GP 7.2). This review highlights changes from the previous version.  An action item addresses the Annual Affirmative Action Progress Report. This report, based on October 2020 data, details progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The report was prepared by Human Resources Director JoAn Steiner.  The agenda also includes standard items for board meeting assessment and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-12-agenda.txt)
 
 ## 2021-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -318,11 +613,23 @@ The Bellingham School District Board of Directors met on February 26, 2021 to di
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-26-minutes.txt)
 
+## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda details discussions regarding monitoring reports on two policies: EL-3, Treatment and Communication with Public, Parents and Students, and EL-10, Race and Equity.  The board will review feedback and determine if the superintendent is in compliance with these policies. Additionally, the board will review an updated annual board agenda (GP-7.2 - 2020-21 Annual Board Agenda, Revised) for informational purposes. The agenda notes that changes from the previous version are highlighted.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-agenda.txt)
+
 ## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This school board meeting summary focuses on the district's efforts to address equity and inclusion. The addition of a Director for Equity, Diversity and Inclusion (DEI) and a Mental Health Coordinator are highlighted as key steps.  The report also mentions increased engagement with families, particularly those historically less connected, through the expansion of the Family Engagement Team. The district acknowledges the impact of COVID-19 on student mental health and outlines initiatives to provide support. Concerns about applying an equity lens consistently across district initiatives and a need for more comprehensive support during crises are raised.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-minutes.txt)
+
+## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The MSD School Board agenda includes discussion points related to diversity and inclusion. Specifically, Superintendent Dr. James Everett will provide details on establishing the MSD Equity and Access Committee and the MSD Community Involvement Committee. These committees suggest a focus on promoting racial equity and inclusive practices within the school district.  The agenda also features a financial update presented by Daniel Yorton, Director of Business and Finance.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-agenda.txt)
 
 ## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -336,6 +643,12 @@ The Bellingham Technical College School Board meeting minutes detail routine bus
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-10-14-minutes.txt)
 
+## 2020-09-17 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
+
+The Deming School District Board has scheduled a work session on September 17, 2020.  The agenda includes "Opening Items" consisting of a call to order, the Pledge of Allegiance, and approval of the agenda. The main focus of the work session is an "Equity Discussion". There are no further details provided regarding the content or scope of this discussion. Following the equity discussion, the meeting concludes with an adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-17-agenda.txt)
+
 ## 2020-09-17 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District held a work session on September 17, 2020.  The meeting was led by School Board President Karen Reich and conducted via Zoom. Jumada Schwinden, a parent and community member, presented her experiences related to equity and bias during the session. This presentation focused on diversity-inclusion and racial-equity within the school district.
@@ -347,6 +660,14 @@ The Mount Baker School District held a work session on September 17, 2020.  The 
 The school board meeting minutes detail discussions on reopening schools and the presence of police in schools. Board members acknowledged community input regarding these issues, highlighting concerns about student safety and equity.  The board also discussed the importance of mental health support for students, particularly in light of the challenges they have faced during the COVID-19 pandemic.  Board member Diaz Hackler emphasized the need to advocate for increased funding for counselors and social workers at the state level. The minutes further reflect a commitment to community engagement, with board members expressing appreciation for the feedback received from residents regarding school reopening plans and police presence.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-07-15-minutes.txt)
+
+## 2020-06-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School District Board of Directors held a special meeting on June 24, 2020 via Zoom.  The agenda focused primarily on two consent agenda items. The first item involved the award of a bid to Tiger Construction Ltd. for the construction of the Shuksan Middle School Auxiliary Gym. This decision was based on bids received from four general contractors.
+
+The second consent agenda item concerned an interagency training agreement (#1920-166) with the University of Washington Haring Center. The agreement aims to increase opportunities for building inclusionary practices for preschool age students with disabilities, funded by a grant awarded to the district.  Notably, there were no discussions or mentions of LGBTQ+ related topics, transgender issues, critical race theory, or any othe...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-24-agenda.txt)
 
 ## 2020-06-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -360,6 +681,12 @@ The school board meeting minutes highlight discussions on diversity and inclusio
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-17-minutes.txt)
 
+## 2020-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The School Board of Directors will hold a two-day special meeting on February 28th and 29th at the Environmental Learning Center in Rockport, Washington.  The agenda includes discussion items focused on reviewing EL-10, which concerns race and equity; discussing board professional development; conducting the superintendent's mid-year evaluation and contract review; addressing communications and board visibility strategies; completing a WSSDA self-assessment; and providing updates on big picture district initiatives. The meeting will also include time for other topics as determined by the board.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-28-agenda.txt)
+
 ## 2020-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes detail discussions on various topics. Notably, the board reviewed a presentation highlighting student work and initiatives related to diversity, equity, and inclusion (EDI).  The board also engaged in a study session focused on sustainability within the district, with presentations from staff members across departments like finance, buildings and grounds, safety, food services, and wellness. 
@@ -368,11 +695,23 @@ Additionally, the minutes mention Ms. Diaz Hackler's attendance at the WSSDA leg
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-19-minutes.txt)
 
+## 2020-01-29 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes discussions on monitoring reports for two policies: EL-9, Asset Maintenance and Protection, and EL-10, Race and Equity.  The board will determine if the superintendent is in compliance with these policies following feedback from individual board members.  Additionally, the board will review an updated annual agenda (GP-7.2) highlighting changes from the previous version.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-29-agenda.txt)
+
 ## 2020-01-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes highlight discussions on student voice and the importance of having school staff reflective of the student body. Ms. Rose, a parent and board member, emphasized the value of connections and opportunities students gain in school. She also acknowledged the professionalism and support provided by the school staff during a difficult time for the community. Mr. Benjamin expressed his satisfaction with the student linkage initiative, noting it as a prime example of prioritizing student voice. He also proposed holding the board's winter retreat at the North Cascades Institute. The meeting concluded with an overall positive assessment from Ms. Mason.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-29-minutes.txt)
+
+## 2020-01-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This agenda excerpt details two instances of the school board reviewing monitoring reports related to district policies.  The first report concerns EL-9, Asset Maintenance and Protection, while the second focuses on EL-10, Race and Equity. Following standard practice outlined in Policy Governance, the board will assess whether the superintendent is adhering to these policies based on the feedback provided by individual board members. The agenda also includes a review of the updated 2019-20 annual board agenda (GP-7.2) for informational purposes only.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-15-agenda.txt)
 
 ## 2019-11-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -406,11 +745,23 @@ The Bellingham School Board meeting minutes highlight discussions centered aroun
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-09-18-minutes.txt)
 
+## 2019-07-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The July 24, 2019 school board agenda includes several informational items and discussion topics. Notably, the board will discuss "Equity Policy (EL-10)," which focuses on race and equity.  The agenda also features a discussion on "Student Voice" with a provided toolkit. Additionally, the board will review a "WSSDA Self-Assessment" and "Board Meeting Assessment Data." Finally, there's a scheduled discussion on "Climate Change/Conservation."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-24-agenda.txt)
+
 ## 2019-07-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors met on July 24, 2019, to discuss various agenda items.  A key focus was on policy changes related to diversity and inclusion. The board reviewed a draft Race and Equity policy (EL-10), slated for adoption at the August 14th meeting. Additionally, they discussed revisions to Policies 1210, 1220, and 1225 concerning the selection process for the board's legislative representative.  The board also reviewed the annual calendar for 2019-20, including linkage and study session topics. One planned study session would focus on climate change and conservation. The meeting concluded at 4:17 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-24-minutes.txt)
+
+## 2019-07-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The document outlines professional development activities undertaken by Bellingham School District teachers. Hope LaBrie and Roxann Rose participated in training on "Understanding by Design in the Culturally and Linguistically Diverse Classroom" led by Jay McTigue and Amy Heineke. This training aimed to refine teaching practices for English Language Learners. Additionally, John Lehni provided 1:1 tutoring services to incarcerated Bellingham School District students at the Whatcom County Juvenile Jail and to students between school placements during the 2019-20 school year. Linda Pollino was involved in refurbishing elementary science kits from September 1, 2019, to August 30, 2020.  Natalie Reilly's participation as a bass player in the musical "9 to 5" is also noted. The document does not...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-10-agenda.txt)
 
 ## 2019-06-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -569,6 +920,18 @@ Congressman Rick Larsen visited Options High School in Bellingham, WA on January
 The Bellingham School District Board of Directors visited Columbia Elementary School on December 5, 2017. The meeting focused on discussing the school's outcomes and their connection to the Bellingham Promise.  The board also learned about the work of the Columbia Parent Association in supporting equity and inclusion. Additionally, they observed classroom practices aimed at fostering the social and emotional development of students. No specific policies were mentioned or discussed during the visit.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-minutes.txt)
+
+## 2017-01-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The document outlines the agenda for a school board meeting on January 26, 2017.  A key item is the review of GP-8, the Board Member Code of Conduct, to determine if revisions are necessary. Additionally, the board will engage in a study session focused on differentiation in education. This meeting also includes standard items such as a consent agenda for routine approvals and informational reports from board members. The document also mentions an annual affirmative action progress report based on data from October 2016.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-26-agenda.txt)
+
+## 2016-07-21 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School Board agenda for July 21, 2016, included approval of personal services contracts. One contract was for Laura Langley to provide meeting facilitation regarding LGBPTQ+ inclusion.  The board also reviewed a monitoring report for EL-6, Academic Standards and Practices, to determine if the Superintendent was in compliance with this policy.  No further details about the content or findings of the monitoring report are provided.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-07-21-agenda.txt)
 
 ## 2016-03-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

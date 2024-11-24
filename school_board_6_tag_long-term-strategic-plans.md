@@ -1,222 +1,188 @@
-# Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: long-term-strategic-plans
+# Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: long-term-strategic-plans
 
-## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2024-03-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District #504 Board of Directors met on October 12, 2024, to discuss various topics related to district operations and strategic planning.  The meeting focused on reviewing the district's strategic priorities and key performance indicators, with a particular emphasis on multilingual language proficiency growth. Additionally, the board engaged in discussions regarding board development and effective governance practices. Superintendent David VanderYacht provided an update on the long-range capital facilities plan from June 2023, including information on impact fees.  The meeting concluded at 12:55 pm.
+The Bellingham School District Board of Directors held a community linkage meeting focused on gathering feedback about Career and Technical Education (CTE) programs.  The meeting aimed to understand the strengths and areas for improvement within the CTE offerings, aligning them with the district's long-term strategic plan, "The Bellingham Promise." Parents, students, community members, and school staff participated in discussions, highlighting the value of hands-on learning, strong tech offerings, and diverse pathways. Suggestions for improvement included expanding agriculture programs, strengthening connections with local industries, particularly in healthcare, and exploring opportunities for grant writing to enhance CTE resources. The board expressed appreciation for the valuable input r...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-26-minutes.txt)
 
-## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys. They also discussed the strategic planning process and timeline for updating the district's Strategic Plan and Priorities. Additionally, the board reviewed the results of a self-assessment conducted by WSSDA (Washington State School Directors' Association) and discussed ways to improve responsible governance and effective board leadership. Finally, the board discussed the process for developing board meeting agendas and reviewed relevan...[truncated, use api for full text]
+This document details the Bellingham School Board's monitoring response to policy EL-9.1, "Facility Improvement or Development Involving Bond Measure Proposal." The board commends the superintendent for robust long-term facilities planning that incorporates diverse community voices and aligns with the district's commitment to equity as outlined in "The Bellingham Promise."  
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-minutes.txt)
+The board recommends deleting the first line of section 1 of the EL-9.1 policy, which mandated informing the board about the formation of a facilities and bond planning task force through the consent agenda. This change suggests a desire for more transparent and direct communication regarding bond proposals. The document also highlights the superintendent's success in seeking balanced input from staff, parents, and co...[truncated, use api for full text]
 
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martin...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martin...[truncated, use api for full text] |
-
-## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board meeting minutes detail discussions on various topics. A mental health update was presented, covering the role of the Mental Health Coordinator, a summary of the Healthy Youth Survey, and the Gaggle electronic safety management system. Concerns regarding school safety at Lynden High School (LHS), particularly the numerous points of entry, were raised by a community member.
-
-The board reviewed updated academic standards reflected in Policy 5005- Employment and Volunteers, which was approved. Discussions also centered around long-term strategic plans, including capital facilities planning and the possibility of putting a bond back out to vote. The board aimed to finalize a timeline for the bond resolution by their April 18th meeting. Community engagement was e...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-22-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school dis...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School Dis...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommen...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_1.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Jenn Mason](board_member_2.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_3.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_4.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Katie Rose](board_member_5.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
 
-## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board meeting minutes detail discussions on various topics, including legislative advocacy, board meeting logistics and communication improvements. Director Hickman emphasized the importance of community engagement regarding local control bills and shared information about an upcoming town hall meeting with local legislators. Superintendent VanderYacht highlighted the need for transparency in discussing board positions on specific bills and suggested focusing on policy content before addressing writing conventions. The board also discussed incorporating particular details and action items into meeting minutes, following Robert's Rules of Order.  Additional topics included post-Bond Planning Task Force needs such as impact fees, playground and technology upgrades, and constructio...[truncated, use api for full text]
+This text focuses on a school board's review of a report detailing progress towards the district's long-term facilities plan. The plan is explicitly designed to prioritize equity and align with "The Bellingham Promise," which suggests a commitment to racial equity within the district.  Board members commend the superintendent for robust community engagement in the planning process, highlighting diverse representation on the Facilities Planning Task Force. While no areas for improvement are identified, the board discusses a proposed policy change (EL-9.1) to remove the requirement that updates be presented through the consent agenda, allowing for greater flexibility in communication.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-18-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_1.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_3.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Jenn Mason](board_member_2.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_4.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Katie Rose](board_member_5.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
 
-## 2024-02-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-08-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The meeting minutes detail various community development projects and infrastructure improvements planned or underway in the city. These include street and sidewalk upgrades, a roundabout construction at Benson Rd/Badger Rd intersection, and the development of Benson Park with restoration of the Heusinkvelt Barn.  The Jim Kaemingk Trail is also under development.
+The school board meeting minutes detail several policy updates and approvals.  Specifically, Policy 3200 and Policy 3241 were updated, though the nature of these changes is not specified in the provided text.  The board also approved a number of interagency agreements including those with VECA Electric & Technologies, the Washington Student Achievement Council, and Whatcom Community College. Additionally, they approved an agreement with the Opportunity Council for Early Learning and Family Services. The meeting included informational items such as school board director reports. Mr. Benjamin discussed the ad hoc committee's work on applying for the WSSDA's Board of Distinction award and shared information about WSSDA's strategic plan overhaul. Ms. Rose expressed appreciation for the prepara...[truncated, use api for full text]
 
-The discussion also touched upon interagency emergency planning and response, highlighting the school district's Safety & Security Task Force implementation of the "I Love You Guys" emergency planning program. Collaboration with local law enforcement agencies for emergency response planning was suggested. The city and school board expressed interest in annual meetings to foster ongoing communication and collaboration.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-08-10-minutes.txt)
 
-Additional...[truncated, use api for full text]
+## 2022-03-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-08-minutes.txt)
+The Bellingham School District Board of Directors held a Student Roundtable meeting on March 30, 2022, to gather input from third-grade students at Alderwood Elementary School.  The meeting aimed to strengthen the connection between the school board and students, allowing them to share their experiences and perspectives. Students discussed topics such as favorite subjects, feelings of being loved at school, aspirations for the future, and suggestions for improvement.
 
-### Board Member Actions
+Discussions centered around student well-being, highlighting subjects like recess and preferred learning styles. The new Alderwood Elementary School building was praised by students. Concerns regarding playground safety compared to the previous location were raised.  The meeting provided a platform for students to voice their...[truncated, use api for full text]
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-20-minutes.txt)
 
-## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2019-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District #504 Board of Directors held a special meeting on February 3rd, 2024.  The meeting focused on team building exercises and establishing procedures for board meetings, including agenda item submission and policy review. Discussions also centered around legislative engagement, specifically advocating for local control in education. The board addressed district priorities and governance, touching upon standards, measures, goals, and the strategic planning process. No specific policies were mentioned by name during this meeting.
+This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather student feedback on "The Bellingham Promise," a long-term strategic plan outlining goals for students.  Discussions centered around the transition from elementary to middle school, extracurricular activities, academic workload, and technology use. Students highlighted the benefits of the WEB (Where Everybody Belongs) program in easing the transition to middle school. They also expressed opinions on homework policies, food quality, and transportation systems. The meeting emphasized the importance of student voice in shaping educational policies and practices.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-06-minutes.txt)
 
-## 2023-08-31 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2019-07-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board meeting focused on a proposed bond to address capital facility needs. The Bond Planning Task Force (BPTF) presented its recommendations, emphasizing the urgency of addressing deteriorating building conditions. Public comment highlighted the importance of community engagement and outreach to secure support for the bond.  The board discussed plans for forming a citizens committee to advocate for the bond's passage and acknowledged the need for a contingency plan in case it fails. Additionally, the board reviewed upcoming events, including the WSSDA General Assembly, where they will have an opportunity to vote on legislative measures.
+The Bellingham School District Board of Directors held a regular meeting on July 10, 2019.  The board discussed and approved several consent items including resolutions, contracts, and agreements related to school operations, facilities, and partnerships. Notably, the board addressed a potential conflict of interest regarding item 2.2 (approval of expenditures and payroll), leading to a separate vote on this matter. Director Quenby Peterson raised the topic of changing the timeline for naming a legislative representative, suggesting it be moved from the December organizational meeting to the summer. This proposal, which may involve policy adjustments, will be added to the agenda for the upcoming summer retreat. The board also reviewed Superintendent Greg Baker's announcements and report on...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-08-31-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-10-minutes.txt)
 
-## 2023-07-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2019-05-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board meeting minutes detail discussions regarding the district's long-term facilities plan and superintendent evaluation.  The board is considering a proposal for a new high school and gymnasium renovation, potentially leading to the decommissioning of Judson Hall. They are also working on a long-term strategic plan that addresses facility needs through 2035/2036, acknowledging that this timeline is subject to change based on factors like enrollment and funding. The superintendent's contract was extended through 2025/2026 with a deferred salary increase and adjusted evaluation timeline.  The board emphasized the importance of transparency and community engagement in future planning.
+The Bellingham School District held a Community Linkage Special Meeting to gather student input on "The Bellingham Promise," the district's strategic plan outlining goals for students. Students discussed various aspects of the plan, including mental health, character development, and diversity & inclusion. They expressed appreciation for the inclusion of LGBTQ+ identities but suggested more staff training on these topics.  Students also highlighted the need for increased access to resources like food and clothing, and emphasized the importance of a supportive and inclusive school environment. The meeting aimed to foster community engagement and incorporate student voices in shaping educational policies and practices as part of the district's long-term strategic planning.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-07-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-05-29-minutes.txt)
 
-## 2023-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2018-03-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District Board of Directors held a special meeting retreat on June 9, 2023, to discuss board development and processes. They reviewed the WSSDA Board Self-Assessment results and engaged in a prioritization activity to determine key district performance measures. A significant portion of the meeting focused on the development of the 2025-2028 Strategic Plan, as the current plan expires in 2024.
+The school board meeting focused on several key topics.  Community engagement was a central theme, with discussions revolving around fostering stronger connections between students and the broader community. Participants explored ways to encourage student involvement at an early age and build relationships across different communities.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-09-minutes.txt)
+The discussion also touched upon academic standards and curriculum transparency, aiming to ensure that students are well-prepared for their future endeavors.  Parental feedback was emphasized as crucial for shaping educational policies and practices. The board highlighted the importance of long-term strategic plans to guide the school district's development and address evolving needs. Additionally, concerns regarding student autonomy and mental health were ...[truncated, use api for full text]
 
-## 2023-05-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-03-20-minutes.txt)
 
-The Lynden School District Board meeting minutes from May 25, 2023, detail discussions on various topics.  The board reviewed and approved the consent agenda which included financial transactions and personnel recommendations. Reports were presented by counselors from Lynden Middle School and elementary schools outlining their services and student needs. The PTA also shared information about their activities during the school year. Superintendent VanderYacht provided updates on the 23/24 budget development and facilities planning.
+## 2017-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The board conducted first and second readings of Policy 5254 (Staff Expression) and Policy 6815 (Advertising on District Property), ultimately adopting both policies. The meeting concluded with discussions regarding a potential board retreat to revisit strategic...[truncated, use api for full text]
+The school board minutes detail a regular meeting on December 6, 2017. Two resolutions were unanimously approved: Resolution 32-17 and Resolution 33-17, relating to the sale of real estate parcel 380316504243.  The meeting also included informational items from school board directors regarding their attendance at the WSSDA Annual Conference. Ms. Diaz Hackler discussed a potential presentation on the district's 4x8 schedule and requested a discussion on Boards of Distinction be added to a future retreat agenda. Other updates included Ms. Peterson addressing parental questions about course selection under the new 4x8 schedule and Ms. Bashaw sharing insights from her visit with Squalicum High School GRADS students. The meeting concluded with an assessment by Ms. Diaz Hackler and an adjournmen...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-06-minutes.txt)
 
-## 2023-05-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2017-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions on various topics, including academic standards and curriculum transparency.  The board reviewed reports from different schools outlining their counseling programs and teaching strategies aligned with the district's strategic priorities. Discussions also centered around long-term strategic plans, specifically the work of the Bond Planning Task Force and Long Term Facilities Planning groups. The meeting included a first reading of two policies: Policy 5254 - Staff Expression and Policy 6815 - Advertising on District Property.  No action was taken on either policy during this meeting.
+The Bellingham School District Board of Directors held a special meeting on August 16, 2017, at Happy Valley Elementary School.  The board discussed several topics, including the creation of a committee to further develop the "Bellingham Promise" vision. They also reviewed the draft annual board calendar for the 2017-18 school year and discussed utilizing the WSSDA Board Self-Assessment Model. Additionally, the board considered its role in initiating school bonds under the policy governance model and planned to revise the board handbook at a future meeting. Other discussion items included board adoptions of schools, responsibilities related to the WSSDA Legislative Representative position, and an update from Superintendent Baker on the 2017-18 budget, facilities, and labor negotiations.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-16-minutes.txt)
 
-## 2023-03-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2017-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The school board meeting minutes detail several key decisions and discussions.  The board approved the sale of Brink’s Dairy to Dairy Valley Distributing following a single compliant bid. Resolution #01-23 authorized a transfer of funds from the General Fund and Capital Projects to the Debt Service Fund. Policy 2411, regarding High School Equivalency Certificates, was updated and approved with a 3-1 vote.
+The Bellingham School Board held a special meeting on August 16, 2017, to discuss several informational items. These included reviewing the district's vision and the Bellingham Promise initiative, finalizing the annual board calendar for the 2017-18 school year, and discussing the Washington State School Directors' Association (WSSDA) self-assessment model. The board also planned to address the role of the board in policy governance related to school bonds, form a committee for the Board Handbook, and discuss other relevant items such as legislative representative roles and a preview of the 2017-18 school year.  The meeting did not include public comment time.
 
-The board also discussed long-term facilities planning. A Bond Planning Task Force (BPTF) is being formed to determine whether to pursue a bond measure for the ballot. The BPTF will work in conjunction with the newly established Long Range Facilities Planning (LRFP) group.  These groups will collaboratively assess the district's facility needs and develop recommendations for future impro...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-16-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-23-minutes.txt)
+## 2016-09-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2023-02-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board held a regular meeting on September 15, 2016.  The board entered executive session to discuss potential litigation. They unanimously approved a settlement agreement with the former owner of land near Bellingham High School and the district's former warehouse. The board also discussed their application for the Washington State School Directors’ Association (WSSDA) Boards of Distinction program.  Further discussion centered around a book study by the district leadership team on "Our Kids" by Robert D. Putnam, and the possibility of the board participating. Finally, the board reviewed questions for interviews with other school boards and organizations operating under a policy governance model as part of a planned study session on Board-Superintendent Relationships ...[truncated, use api for full text]
 
-The Lynden School District Board Meeting minutes detail discussions on several key topics.  The board implemented a new policy (1250- Students on Governing Boards) allowing for advisory votes from student directors, Cooper Graddon and Aislinn Nilsen. These votes will be recorded alongside board member votes in the meeting minutes. The board reviewed reports from various departments including Teaching and Learning, Finance and Operations, and Facilities/Maintenance.  Superintendent VanderYacht presented information regarding a potential Whatcom County skills center modeled after the Northwest Career & Technical Academy (NCTA). A draft document expressing intent to participate was shared with the board. Discussions also centered on the 23/24 budget challenges and contributing factors. The bo...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-09-15-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-23-minutes.txt)
+## 2016-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2023-02-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School District Board of Directors held a retreat on February 19, 2016, to discuss various topics related to school governance and operations.  The board reviewed their Policy Governance framework, specifically focusing on how to measure "Ends" related to character and action. They also discussed revisions to the School Board Handbook, agreeing to review it annually during their winter retreat.
 
-The Lynden School District Board of Directors met on February 9, 2023, to discuss various agenda items. They approved the consent agenda, which included financial transactions and personnel recommendations. The board also reviewed reports from the superintendent, teaching and learning department, and finance and operations department.  A key discussion point was the approval of two interlocal agreements for specialized teachers: one with Bellingham School District for a Teacher of Deaf & Hard of Hearing and another with Nooksack Valley School District for a Teacher of the Visually Impaired.
+Community communication strategies were a significant focus. The board explored protocols for responding to concerns raised through channels like the Listening Post and considered ways to communicate their long-term vision to the public.  They also deliberated on appropriate responses to potential inappropriate comments from attendees in community forums.  Finally, the board received...[truncated, use api for full text]
 
-The board held a workshop focused on long-term facilities planning, emphasizing safety/security improvements, building condition upgrades, expanded learning spaces, and potential high school replacemen...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-02-19-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-minutes.txt)
+## 2015-03-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2023-01-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board met on March 19, 2015, to discuss various topics related to school governance and policy. A key agenda item was the review of the superintendent's progress towards achieving goals outlined in a specific policy (Ends 2.1, part 2).  The board found the superintendent to be making "reasonable progress" and slightly exceeding expectations in certain areas. The meeting also included reports from various board committees, covering topics such as linkage with city council liaisons, the superintendent's performance review, and a planned retreat focused on Policy Governance enhancements. Additionally, the board announced an orientation meeting for prospective school board candidates running in the fall election.  Finally, the meeting concluded with a positive assessment ...[truncated, use api for full text]
 
-The Lynden School District Board meeting minutes detail routine agenda items such as approval of previous meeting minutes and the consent agenda which included payroll disbursements and personnel recommendations.  Committee assignments were discussed, with current rosters noted and further decisions pending. Reports were given by Superintendent VanderYacht on strategic priorities including Multi-Tiered Systems of Support (MTSS) and Family, Community Partnerships. A finance report for December 2022 was presented, covering an executive summary, enrollment analysis, budget status, revenue analysis, and expenditure analysis.  The meeting concluded with a work session focused on the Facilities Planning Committee's recommendations regarding current capacity to support enrollment, building condit...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-03-19-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-01-26-minutes.txt)
+## 2013-08-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2022-10-01 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board met in a special session on August 8, 2013, to discuss various agenda items for the upcoming school year. Notably, they expressed a desire to hold study sessions on topics related to diversity and inclusion, including the ACE (Adverse Childhood Experiences) Study, the Teacher/Principal Evaluation Project (TPEP), Common Core standards, and Ends 2.1 and 3.  The board also planned linkage meetings focused on supporting diverse student populations, specifically mentioning Special Education, English Language Learners (ELL), and LGBTQ students.
 
-The Lynden School District #504 Board of Directors held a special meeting on October 1, 2022, to discuss the district's 2021-2024 Strategic Priorities plan.  The administrative team presented and reviewed the plan, followed by discussion with the board members. The meeting also included a review and discussion of the Board and Superintendent Leadership Team Operating Principles and the development of a School Board handbook. These discussions suggest a focus on long-term planning and establishing ethical guidelines for board operations.
+Further demonstrating a commitment to community engagement, the board discussed ways to enhance technology at board meetings for better communication with attendees and reviewed preferred methods of receiving routine and urgen...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-01-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-08-minutes.txt)
 
-## 2022-09-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2013-05-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District Board of Directors held a meeting on September 22, 2022, to discuss various topics related to school operations and community partnerships. A significant portion of the meeting was dedicated to discussing school safety, including traffic flow, parking, and pedestrian safety around Lynden High School.  The Superintendent expressed a desire to partner with the Lynden Police Department on these issues.
+The Bellingham School Board meeting minutes highlight several key areas of focus.  The board discussed the growth and inclusivity of Advanced Placement programs at Squalicum High School, receiving positive feedback from both visiting teachers and student tour guides. Additionally, Scott Stockburger reported on his visit to Sehome High School, praising innovative efforts like anchor homerooms and student mentorship programs. Superintendent Greg Baker provided updates on statewide testing, ongoing staffing processes for the 2013-14 school year, and the district's budget process, noting positive community feedback.  Discussions regarding facilities planning for Parkview Elementary School and the potential inclusion of the Gordon Carter Environmental Site in an upcoming bond were also mentione...[truncated, use api for full text]
 
-The board also engaged in a discussion regarding long-term strategic planning for the district. This included considering the possibility of building an additional school in the Pepin Creek sub-area due to projected population growth and development. The meeting highlighted the importance of ongoing collaboration between the school district and the City of Lynden to ...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-05-23-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-22-minutes.txt)
+## 2013-01-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2022-06-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+This document details a meeting between the Bellingham School Board and the Bellingham City Council to discuss shared priorities and potential collaboration. Key topics included "The Bellingham Promise," a framework outlining desired outcomes for students, which was lauded for its emphasis on respect, compassion, and vocational options.  
 
-The Lynden School District held a school board meeting on June 23, 2022.  The meeting included the swearing in of new Superintendent David VanderYacht and newly appointed School Board Directors Cindy Petersen and Ken Owsley. The board approved a consent agenda that included various financial warrants and personnel action items. Notably, the board also reviewed and approved the Comprehensive School Counseling Plan (CSCP) to comply with SSB 5030, which requires districts to develop and implement K-12 CSCP programs by the 2023-2024 school year.  
+The discussion also focused on strengthening ties between the district and city, particularly regarding school facilities planning. The city expressed interest in reviewing district facility plans and sharing information on growth patterns to aid in future school siting decisions. Both groups acknowledged the importance of good communication and collaboration for student success. 
 
-The meeting included reports from Finance and Operations Director Ben Thomas on the May budget and Food Service Director Narlene VanBeek who provided updates on service offerings during COVID-19, potential price changes for breakfast and lunch, equi...[truncated, use api for full text]
+Finally, the meeting touched upon the District Facilities Planning Task F...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-01-24-minutes.txt)
 
-## 2022-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2013-01-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board meeting minutes detail routine business including the approval of meeting minutes, organizational appointments for board officers (CJ Costanti as President, David Vis as Vice President, and Tonya Hickman as WIAA Representative), and a consent agenda covering financial warrants.  The board also reviewed a Long Range Capital Facilities Plan report intended for submission to OSPI.
+The Bellingham School Board of Directors met on January 17, 2013 to discuss several key topics.  The meeting focused on the "Bellingham Promise Priorities for Progress" which likely outlines long-term strategic plans for the district.  They also reviewed the 2012–2013 budget and began planning for the 2013–2014 budget. Additionally, they discussed a facilities update and reviewed governance policies related to executive limitations. The board members shared insights from their attendance at the Washington State School Directors Association Annual Conference.  The discussion of racial equity is implied within the context of "The Bellingham Promise Priorities for Progress".
 
-Several policy actions were taken: Resolution No. 04-22 was adopted for the submission of the Long-Range Study and Survey to OSPI. Resolutions No. 05-22 secured WIAA membership. Interlocal agreements with Bellingham Technical College (BTC) were approved for Impact Program, Career and Technical Education (CTE) Dual Credit, and a Teacher of the Visually Impaired (TVI) agreement with Mt. Baker ...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-01-17-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-09-minutes.txt)
+## 2012-10-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2019-10-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board reviewed a report on student progress towards the district's strategic plan, "The Bellingham Promise."  The report focused on academic achievement and student competence, using data to inform the Department of Teaching and Learning's work. Board members requested additional data points, such as ELL student proficiency rates and AP exam performance, highlighting their interest in curriculum transparency and a deeper understanding of student outcomes. The board also discussed revising governance policies and extending the time allotted for community linkages to encourage greater parental feedback and participation.  Finally, the board reviewed upcoming events, including a linkage with the Cordata Neighborhood Association and visits to Sehome High School.
 
-The Lynden School Board held a meeting on October 23, 2019, at The Inn at Lynden.  The meeting began at 7:00 AM and concluded at 9:00 AM. Attendees included board members Steve Jilk, Brian Johnson, Kelli Kettels, CJ Costanti, and David Vis. Student Directors Ruby VanderHaak and Riley Anderson were absent. The primary focus of the meeting was a School Board retreat where they discussed strategic planning and district accountability related to student progress.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-10-18-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-10-23-minutes.txt)
+## 2012-09-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2019-05-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board meeting minutes detail several policy changes and discussions regarding long-term strategic plans.  The board unanimously accepted revisions to Policy Governance policies Ends 2.1 (Student Competence) and Ends 3 (Skills and Attributes), as well as Governance Policy 1 (Governance Commitment and Beliefs). These revisions were discussed at a previous study session on August 27, 2012. The meeting also included a monitoring report on Ends 1, Strategic Vision and Mission, which was found to be in compliance.  The board set a tentative schedule for future Linkages, community engagement events focused on specific topics like Highly Capable Learners, Neighborhood Association Leaders, Home School, and Special Needs. These Linkages are intended to foster dialogue and colla...[truncated, use api for full text]
 
-The Lynden School Board meeting minutes detail various achievements and activities within the school district. Highlights include recognizing Kevin Richins as Educator of the Year, celebrating Matthew Enertson's participation in the Washington State Legislature Page Program, and acknowledging Cynthia Torres' involvement in the "Future Cougars Embracing Diversity" program at WSU.  
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-09-13-minutes.txt)
 
-The board also reviewed feedback from the District Planning Committee regarding Impact Fees, Maintenance & Operations Levy, Technology & Facilities Levy, Capital Bond, and crowding in schools. Additionally, they discussed a tentative schedule for selling surplus property (the old Lynden Middle School ball field area) and held a public hearing for community input on May 23rd.
+## 2012-05-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-05-09-minutes.txt)
+The Bellingham School Board meeting minutes detail discussions on aligning "The Bellingham Promise" with the school's Ends policies, specifically focusing on Life and Learning Skills (Ends 3) and Personal Attributes and Ethics (Ends 4).  The board approved a monitoring report for Asset Protection (EL-10), indicating compliance. They also discussed revising the form used to assess Monitoring Reports and proposed changes to Executive Limitations by combining similar ones. The meeting highlighted community engagement through a planned joint meeting with Whatcom County School Boards and legislators, where school districts will present three legislative priorities.  
 
-## 2018-11-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The board is actively working on long-term strategic planning by aligning "The Bellingham Promise" with existing Ends policies. ...[truncated, use api for full text]
 
-The Lynden School Board held a retreat on November 12, 2018, at The Inn at Lynden.  The meeting, which began at 7:00 AM and concluded at 9:00 AM, focused on long-term strategic planning for the district. Specific topics discussed included strategic planning, district growth, and school board goals. All board members except the student directors were present.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-05-24-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-minutes.txt)
+## 2012-03-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2018-04-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board meeting minutes detail discussions on curriculum alignment and the approval of a monitoring report for the district calendar.  The board acknowledged that curriculum alignment, while progressing well in some areas, requires further work and expressed interest in future in-depth discussions on the topic. Dr. Baker noted the challenges of achieving curriculum alignment within the current economic climate. The board also approved the Monitoring Report for EL-16, District Calendar, finding it compliant.  The meeting included a discussion on a special meeting scheduled to consider Resolution 4–12, Adoption of 2012–13 Reduced Education Program, a legal process requiring board approval. Additionally, the board reviewed The Bellingham Promise, the district's strategic p...[truncated, use api for full text]
 
-The Lynden School District held a school board meeting on April 19, 2018, at Lynden High School Library.  The meeting began with routine items such as the call to order, pledge of allegiance and roll call.  Following this, there was no information presented from the audience. The board then adjourned into a work session focused on "Board Linkage." This activity, facilitated by Superintendent Jim Frey, aimed to engage both school district staff and board members in a discussion about the Lynden School District's successes, areas for improvement, and considerations for future growth.  The feedback gathered during this session was intended to inform the future direction of the district.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-03-22-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-04-19-minutes.txt)
+## 2012-02-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board of Directors met on February 16, 2012, to discuss several key topics.  The meeting included updates on facilities and the budget process. The board also discussed possible topics for future linkages and study sessions, indicating a focus on long-term strategic planning. Additionally, they reviewed Governance Policies and conducted the Superintendent's mid-year review, highlighting their commitment to school board ethics and ongoing policy evaluation.
 
-The Lynden School District Board meeting minutes and personnel recommendations highlight several key areas of focus.  The board discussed social-emotional learning initiatives, including staff training, student programs, and community outreach related to harassment, intimidation, bullying (HIB), and suicide awareness. They reviewed data from the Washington State Healthy Youth Survey and emphasized communication with staff, students, and youth organizations on these important topics.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-02-16-minutes.txt)
 
-The meeting also addressed long-term strategic planning for the district, specifically regarding facilities and future facility needs. The board considered program space, classroom space, community space, property requirements, and potential levy needs to accommodate growth and evolving educational demands.  
-...[truncated, use api for full text]
+## 2011-07-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
+The Bellingham School Board of Directors held a special meeting on July 14, 2011, to discuss several key topics.  The board toured Whatcom Middle School, scheduled to open for the 2011-12 school year. During the public portion of the meeting, they focused on possible community linkages and work priorities for the upcoming school year. Additionally, they discussed policy governance professional development and preparations for the November 2011 election. The meeting adjourned at 9:15 p.m.  No specific policies were mentioned by name, but the discussion points suggest a focus on community engagement and strategic planning for the district's future.
 
-## 2017-09-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board of Directors held a joint meeting with the Lynden City Council and the Lynden Parks and Recreation District Board of Directors to discuss capital needs, maintenance issues, land developments, demographic changes, economic development, and partnerships.  The meeting highlighted the community's rapid growth and the need for strategic action and communication among all agencies to address these changes. The Chamber of Commerce Executive Director encouraged open communication with residents. Additionally, Superintendent Tim discussed ongoing efforts to ensure a positive learning environment for all students, emphasizing appropriate resources and coordination involving students, families, and the community.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-09-21-minutes.txt)
-
-## 2016-12-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board held a retreat on December 14, 2016, to conduct annual organizational tasks and begin discussions on long-term strategic planning.  The board elected Brian Johnson as President, Steve Jilk as Vice President, and Kevin Burke as the WIAA Representative. These elections reflect standard procedural policy changes that occur annually within school boards. The meeting also initiated a conversation regarding the formulation of the Lynden School District Strategic Plan, which will outline the district's vision, mission, and goals.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-12-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-07-14-minutes.txt)
 

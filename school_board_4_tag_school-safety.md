@@ -1,138 +1,134 @@
-# Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: school-safety
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: school-safety
 
-## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-10-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The school board meeting minutes detail discussions on several key topics.  The board discussed a policy regarding director visits to schools, ultimately agreeing that directors would make arrangements directly with principals while respecting the principal's preference for superintendent involvement. There was also discussion about placing curriculum adoptions on the Consent Agenda, with Director Swinburnson expressing concern that this practice denied recognition of the hard work involved in curriculum selection.  Future meeting agenda items were suggested, including a financial report, superintendent's report, and policy updates. A budget work session was also scheduled. The board briefly entered executive session to discuss the superintendent's performance.
+The text details a meeting agenda for the Maywood Hills Elementary Groundbreaking Ceremony.  The event is scheduled for Thursday, October 10th, 2024 at 5:00 PM at the school's location: 19510 104th Avenue NE, Bothell, WA 98011. The agenda includes a commencement of meeting, a list of attendees, discussion points related to the groundbreaking ceremony itself, and an end of meeting designation.  The Board of Directors will be in attendance for the event.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-06-17-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-10-agenda.txt)
 
-### Board Member Actions
+## 2024-10-09 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Steve Galbraith](board_member_15.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Erika Creydt](board_member_11.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ben Lazarus](board_member_12.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Cliff Freeman](board_member_13.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ryan Swinburnson](board_member_14.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+The text outlines a special meeting of the Woodin Elementary School Board of Directors scheduled for Wednesday, October 9th, 2024 at 5:00 PM. The purpose of the meeting is to attend the groundbreaking ceremony for the new Woodin Elementary School building located at 12950 NE 195th Street in Bothell, WA.  The agenda includes a commencement of the meeting, a list of attendees, a discussion regarding the groundbreaking ceremony, and an end of meeting designation. The text indicates that the Board of Directors will be present at the ceremony.
 
-## 2024-02-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-09-agenda.txt)
 
-The Blaine School District held a special board meeting on February 20, 2024, to solicit stakeholder feedback on potential budget reductions for the 2024-2025 school year.  The meeting was structured around four group discussions, each focused on different aspects of the district's needs and priorities. Topics included identifying areas requiring additional resources, essential programs and supports, and desired student and family supports should levy funds become available. The board emphasized the importance of community input in prioritizing budget decisions and acknowledged the likelihood of program reductions.  Concerns raised by attendees included the process for determining cuts, the district's long-term financial sustainability, and the need for transparency in decision-making. The...[truncated, use api for full text]
+## 2024-10-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-20-minutes.txt)
+The text outlines a special meeting of the Board of Directors scheduled for October 8, 2024. The purpose of the meeting is to attend the groundbreaking ceremony for Kenmore Elementary School.  The agenda includes standard sections such as commencement of the meeting, a list of attendees, discussion regarding the ceremony, and an end of meeting designation.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-08-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Cliff Freeman](board_member_13.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjou...[truncated, use api for full text] |
-| [Erika Creydt](board_member_11.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjou...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_12.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjou...[truncated, use api for full text] |
+## 2024-10-03 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2023-09-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The text outlines a special meeting agenda for the Board of Directors focusing on a Career and Technical Education Fall Kick-Off Event scheduled for October 3rd, 2024.  The event will be held at 5:00 PM in the Administrative Center Board Room. The meeting agenda includes standard sections such as commencement, attendee list, discussion, and end of meeting.  
 
-The school board meeting focused on a proposed $70 million bond initiative to fund various school improvements.  The board unanimously approved Resolution 2324-02, authorizing the submission of this bond initiative for voter approval in February 2024. Discussion points included upgrades planned for Point Roberts Primary School and the importance of communicating transparently with voters about the bond's potential impact. President Thomas emphasized that the district's ability to complete all projects depends on factors beyond their control, and there are no guarantees. Director Gibson expressed appreciation for efforts to maintain the current tax rate. Ms. Porter clarified that increases in property assessed value could still lead to higher taxes, a factor outside the school district's co...[truncated, use api for full text]
+During the "Discussion" portion of the meeting, the Board of Directors will attend the Career and Technical Education Fall Kick-Off Event. This indicates a focus on promoting career and technical education programs within the school district. The agenda emphasizes community engagement by bringing together stakeholders for this fall event.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-09-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-03-agenda.txt)
 
-## 2023-07-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-09-30 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Blaine School District No. 503 held a special board meeting on July 24, 2023, to conduct a public hearing on the proposed 2023-2024 budget. Amber Porter, Executive Director of Finance and Operations, presented an overview of the draft budget, including projected revenues, expenditures, and enrollment figures.  The board discussed potential expenditure adjustments for capital projects and reviewed the General Fund's ending balance. Ms. Porter also explained the district's 4-Year Forecast disclosure and addressed questions regarding the impact of McCleary funding limitations on levy revenue. The meeting included discussion about the Transition to Kindergarten program and changes in school meal funding under a new state program. Superintendent Dr. Christopher Granger assured the board tha...[truncated, use api for full text]
+The Northshore School District Board of Directors will be holding a special meeting on September 30, 2024, at 5:00 PM to commemorate the groundbreaking ceremony for Crystal Springs Elementary.  The event will take place at 21615 9th Avenue SE in Bothell, WA 98021. The agenda includes a commencement of the meeting, a list of attendees, and a discussion segment focused on the Crystal Springs Elementary Groundbreaking Ceremony.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-07-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-30-agenda.txt)
 
-## 2023-05-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-09-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Blaine School District Board meeting minutes detail discussions concerning student safety and autonomy within the context of court-issued restraining orders.  A specific policy for handling such orders is in place, though concerns were raised by Director Creydt about its effectiveness in ensuring separation between involved parties while upholding students' rights to education. The district's legal counsel reviewed recent updates to the procedure to ensure compliance with federal regulations. Any further modifications will undergo review by the district attorney.  Additionally, the minutes address the handling of outdated technology equipment and its potential repurposing for community benefit.
+The Northshore School District Board of Directors will be attending a groundbreaking ceremony for the Sorenson Early Learning Center and Westhill Elementary School on September 26, 2024, at 5:00 PM.  The event is open to the public and will take place at 19705 88th Avenue NE in Bothell, Washington. The ceremony marks the beginning of construction for these new educational facilities.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-05-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-26-agenda.txt)
 
-## 2023-04-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-09-25 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Blaine School District Board meeting minutes detail a discussion regarding Policy 2121 Substance Abuse Program. Director Creydt suggested adding language specific to vaping and testing confiscated vapes for content. Dr. Granger, the superintendent, expressed concern about resource constraints and legal limitations on requiring student treatment. He indicated that law enforcement should handle vape testing. The board will revisit the discussion in May. Additionally, the meeting agenda for May includes a discussion on Policy 3205 Sexual Harassment of Students Prohibited.  The minutes also list potential future agenda items such as enrollment updates, financial reports, and the superintendent's contract renewal.
+The text details a public meeting agenda for a "Special Meeting - Fernwood Elementary Groundbreaking Ceremony" scheduled for Wednesday, September 25, 2024, at 5:00 PM.  The event will be held at 3933 Jewell Road in Bothell, WA. The agenda includes sections for Commencement of Meeting, List of Attendees, Discussion (focused on the Fernwood Elementary Groundbreaking Ceremony), and End of Meeting.  The meeting is categorized as "Public Content."
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-04-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-25-agenda.txt)
 
-## 2023-03-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Blaine School District Board held a meeting to discuss and vote on several matters. A key topic was the approval of Resolution 2223-07 Directive for Superintendent Preparation of 2023-24 Reduced Educational Program, which aims to address anticipated budget reductions for the upcoming academic year.  The board also voted unanimously to approve a facility rental fee schedule without any changes as recommended by Dr. Granger. While there were discussions about student substance abuse and future agenda items including high school student reports and enrollment updates, the primary focus of the meeting revolved around navigating financial challenges and ensuring school safety amidst budget constraints.
+The Northshore School District Board of Directors meeting agenda and minutes detail several security access control projects undertaken at various schools.23.2024 including Skyview Middle School, Canyon Creek Elementary, Wellington Elementary, North Creek High School, Sunrise Elementary, and Shelton View Elementary.  The total project cost across all sites was $958,778). All of these projects were awarded to KCDA/Siemens Industry Inc through purchase orders P199881, P198189, P199026, P199879 and  P199880. The Board also reviewed a school network modernization project at Sorenson Early Childhood Center costing $95,493. This project was awarded to Teknon Infrastructure Services, LLC via purchase order P195691.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-03-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-23-agenda.txt)
 
-## 2023-01-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-09-04 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Blaine School District Board held a meeting on February 27, 2023. Key items discussed included approving locally approved graduation pathways for Blaine High School's Career and Technical Education (CTE) program.  The board also reviewed and approved an updated calendar for the 2022-2023 school year meetings. Additionally, there was a discussion regarding warrants payable to the Blaine School District that were canceled in Resolution 2223-05; Ms. Porter explained this process relates to setting aside funds during capital projects. The board also scheduled a mid-year work session for February 27, 2023, at 5:00 p.m. to discuss the School Improvement Plan, followed by their regular meeting at 7:00 p.m.  Future agenda suggestions included High School Student Reports, School Administrator M...[truncated, use api for full text]
+The Bothell High School Board of Directors will be attending a special meeting on Wednesday, September 4, 2024 at 8:30 AM to dedicate the Zach LaVine Court and retire his jersey. This event is open to the public and will take place at Bothell High School.  The meeting agenda includes commencement, attendee list, discussion of the dedication and retirement ceremony, and end of meeting procedures. No policy changes or resolutions are mentioned in this text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-01-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-04-agenda.txt)
 
-## 2022-10-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-08-15 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The school board meeting minutes detail several routine actions and policy updates. Notably, the board approved the first reading of updates to Policy 4210, "Regulation of Dangerous Weapons on School Premises."  The specific changes made to the policy are not detailed in the minutes. Additionally, the board accepted the resignation of Director Todd Nunamaker, with a timeline for selecting a replacement director set for no sooner than January. The meeting also included discussions about upcoming agenda items for future meetings, including school administrator reports, enrollment updates, and a report from the WSSDA Annual Conference.
+The text outlines a special meeting of the Board of Directors on Thursday, August 15, 2024, at 6:00 PM. The purpose of the meeting is to hold a Wall of Honor Ceremony at Pop Keeney Stadium.  The agenda includes sections for commencement of the meeting, a list of attendees, discussion regarding the ceremony, and the end of the meeting.  The Board will be attending the ceremony itself.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-10-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-15-agenda.txt)
 
-## 2022-07-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-08-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Blaine School Board meeting minutes detail discussions and actions related to school safety.  The board approved the "First Reading" of updates to Policy 3432 Emergencies.  While the specific changes made to the policy are not outlined in the provided text, it is noted that Superintendent Granger highlighted plans for emergency drills in collaboration with local law enforcement. The board unanimously voted (5-0) to approve this first reading. Additionally, the minutes mention a future work session where campus administrators will present their 2021-22 End-of-Year Reports and 2022-23 School Improvement Plans.
+The text outlines a special meeting of the Board of Directors scheduled for Thursday, August 8, 2024, at Pop Keeney Stadium. The purpose of this meeting is to attend the Back to School Resource Fair.  The agenda includes standard sections such as commencement of meeting, list of attendees, discussion, and end of meeting. The "discussion" section specifically mentions that the board will be attending the resource fair, suggesting a focus on community engagement and school safety initiatives for the upcoming academic year.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-07-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-08-agenda.txt)
 
-## 2022-04-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-08-07 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The school board meeting minutes detail discussions and decisions regarding several key topics.  The board approved a revised 2022-2023 school calendar, incorporating Family Conferences and an early release period for high school students from April 12-14, 2023. They also added a budget work session to the calendar, scheduled for June 20, 2022.
+The North Creek High School Board of Directors will be attending a portion of Leadership Learning Week on August 7th, 2024.  The meeting will focus on leadership development and is scheduled to last approximately two and a half hours.  The specific content and goals of the Leadership Learning Week are not detailed in the provided text.
 
-The board discussed potential agenda items for future meetings, including School Administrator Monthly Reports, Enrollment Update and Financial Report, Superintendent's Report, WIAA Membership Renewal, Approval of Superintendent's Contract, and Policy Updates. The minutes indicate a focus on transparency and community involvement through these proposed agenda items.  Notably, the meeting did not include an executive session.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-07-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-04-25-minutes.txt)
+## 2024-08-06 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2022-03-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The North Creek High School Board of Directors will be attending a portion of Leadership Learning Week at the school on August 6th, 2024.  The meeting is scheduled for 7:30 AM in the school commons and will focus on leadership development. The duration of the board's attendance will be approximately two and a half hours.
 
-The Blaine School District held a policy work session on March 28, 2022, to discuss facility use and proposed updates to the 4000 series of their policy manual. Regarding school safety, the district had previously employed a School Resource Officer (SRO) in partnership with the City of Blaine. However, due to budget reductions at both entities, the SRO position was not reinstated. This decision aligns with a nationwide trend towards reducing police presence in schools, as outlined in WSSDA's new model Procedure 4311P School Safety and Security Services Program. The board discussed campus security and law enforcement's role on campus, with Dr. Granger assuring the board of rapid response times and a supportive relationship with local law enforcement agencies.  The session also covered facil...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-06-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-03-28-minutes.txt)
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2021-11-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The Northshore School District Board meeting agenda focuses on several key items.  The board will vote on authorizing Amendment #3 for the Leota Middle School Phase 1 Replacement Project. This amendment is part of a larger construction project and adjusts aspects of the ongoing work. Additionally, the board will review and potentially approve changes to academic standards and curriculum transparency policies. The specific details of these proposed policy changes are not provided in the text. Finally, the agenda mentions discussions regarding student health initiatives.
 
-The Blaine School Board discussed several policy changes during their meeting. Policy .060 was amended to prevent schools from withholding grades or transcripts due to student damage or loss of property.  The board also reviewed and approved revisions to policies 2420 (Grading and Progress Reports), 3231 (Student Records), 3520 (Student Fees, Fines, or Charges), and 6800 (Safety, Operations and Maintenance of School Property). The meeting included discussion about the shortage of substitute teachers and efforts to recruit new substitutes.  The board also addressed concerns regarding the district's redistricting plan and committed to scheduling a special meeting for further public input.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-07-08-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-11-22-minutes.txt)
+## 2024-06-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2020-11-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The Lake Washington School District Board of Directors will be attending the Inglemoor High School graduation ceremony on June 18th, 2024 at 6:00 PM at Pop Keeney Stadium.  The meeting agenda indicates a focus on commencement procedures and attendee lists, followed by a discussion period centered around the graduation event itself. The Board's presence suggests an emphasis on student autonomy and celebrating student achievement as a key aspect of school safety and well-being.
 
-The school board meeting minutes detail discussions on various policies and upcoming events. Policy 5404 regarding Family Medical and Maternity Leave was reviewed, along with a range of other policies concerning program planning and budgeting (Policy 6000), safety and maintenance of school property (Policy 6800), energy management (Policy 6810), construction design (Policy 6920), and contractor assurances (Policy 6950).  The board unanimously approved all reviewed policies. The meeting also included a discussion on incorporating student voice into board decision-making, to be added to the January meeting agenda. Additionally, the next regular board meeting was scheduled for December 15th with an abbreviated agenda including consent items, officer elections, and the superintendent's report....[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-18-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-11-23-minutes.txt)
+## 2024-06-17 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2020-10-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The text outlines a special meeting of the Board of Directors on June 17th, 2024, at Pop Keeney Stadium. The purpose of the meeting is to attend the North Creek High School Graduation ceremony.  The agenda includes standard sections such as commencement of the meeting, list of attendees, discussion, and end of meeting. No specific policies or resolutions are mentioned in the provided text.
 
-The Olympia School District Board held a meeting to discuss and approve various policies. Policy 6112, Rental or Lease of District Real Property, underwent its first reading. A discussion arose regarding the policy's language concerning carrying weapons on district property rented as a domicile.  The board ultimately approved the first reading of the updated policy. The meeting also included general comments and future agenda suggestions, including school administrator reports, enrollment updates, legislative updates, and superintendent's reports. Finally, the board entered an executive session to review the performance of a public employee.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-17-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-10-26-minutes.txt)
+## 2024-03-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2020-09-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The Sammamish High School Board of Directors will be attending a Robotics Competition on March 23, 2024.  The meeting is classified as a "Special Meeting" and will take place at 2:00 PM. The agenda includes sections for commencement of the meeting, a list of attendees, discussion regarding the Robotics Competition, and the end of the meeting. The summary provided under the "Discussion" section states that the Board of Directors will be attending the competition.
 
-The board meeting minutes detail the first reading of two new policies. Policy 3205, "Sexual Harassment of Students Prohibited," outlines procedures for addressing sexual harassment claims and includes a provision for withholding employment recommendations in cases of substantiated misconduct. This policy also designates Dr. Granger as the Title IX Investigator and ensures legal counsel involvement during investigations.  Policy 4300, "Limiting Immigration Enforcement in Schools," restricts immigration enforcement activity on school property while clarifying that it does not apply to local law enforcement conducting investigations. Both policies were unanimously approved for their first reading.  The board also discussed preferences for in-person meetings and agenda item suggestions for fu...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-23-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-09-28-minutes.txt)
+## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2020-08-08 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The school board meeting minutes detail the approval of a $67,263 P19845
+Final Contract Amount: $103,8722.00
+Location(s):  Elementary School
 
-The Blaine School District held a special board meeting on August 8, 2020 to discuss and vote on the district's reopening plan for the 2020-2021 school year. Due to the COVID-19 pandemic, the meeting was conducted remotely.  The board considered community input received via email and a Community Q&A session held on August 6th. Superintendent Dr. Granger recommended starting the year remotely with the intent of phasing in students' return to buildings based on health data and guidance from local authorities. This recommendation was met with varying opinions from the board members, with Director McKinney expressing her disagreement and preference for a hybrid model. Concerns were raised regarding the impact of remote learning on young children, potential disruptions from switching between mo...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-08-minutes.txt)
 
-## 2020-08-05 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The school board approved two projects related to student safety and health. One project involved playfield improvements at Arrowhead Elementary School with a final contract amount of $67,263. The second project focused on security fencing at multiple schools including Hollywood Hills Elementary, Lockwood Elementary Maywood Elementary Timbercrest Middle School and Woodinville High School for a total cost of $195,695,23-0028.pdf (1,48 KB)
+P198228_Interstate Restoration LLC_Playfield Improvements.pdf (726.2024).pdf (569 KB)
 
-The Blaine School District held a special board meeting on August 5, 2020 to discuss the reopening plan for the upcoming school year in light of the COVID-19 pandemic. Superintendent Dr. Christopher Granger recommended a phased-in approach to returning students to classrooms, starting with remote learning and gradually introducing in-person instruction based on case statistics and community health guidelines. This recommendation was met with discussion from board members regarding concerns for student safety, equitable access to education, and the needs of families. Ultimately, the board decided to table the decision and hold another meeting on August 8th to allow for further community input and consideration.
+P196829_Commercial Fence Corp_Security Fencing.2024.pdf(3411 KB)
+P200348_Charles H. Beresford Company_Kokanee Emergency Carpet ...[truncated, use api for full text]
 
-The superintendent acknowledged that staff concerns about returning in-person h...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-26-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-05-minutes.txt)
+## 2024-02-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2020-05-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
+The Northshore Girls Flag Football Championship will be held on Saturday, February 10, 2024, at 10:00 AM at Pop Keeney Stadium.  The Board of Directors will attend the event. This is a special meeting focused on celebrating the championship day for the Northshore Girls Flag Football team.
 
-The Blaine School District Board held a meeting to discuss and approve various matters.  A key topic was the extension of Superintendent Dr. Granger's contract through June 2023. The board unanimously approved the contract, acknowledging Dr. Granger's work during the pandemic.  The meeting also included agenda suggestions for future discussions, such as the Educator of the Year Award, the 2020-2021 Student Fee List, and the 2020-2021 Budget Planning Update. The board went into executive session to review the performance of a public employee.  Following the executive session, the meeting reconvened, and the directors affirmed the accuracy of the Consent Agenda vote.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-10-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-05-26-minutes.txt)
+## 2024-01-16 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors for an unnamed school district will hold a study session on January 16, 2024, to discuss student wellness and safety.  The meeting agenda includes a review of recommendations related to safety, security, and supervision. Additionally, the Board will examine the work plan developed by the Wellness and Safety Taskforce for the 2023-24 academic year. The task force's final report from December 2023 will also be discussed.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-16-agenda.txt)
 

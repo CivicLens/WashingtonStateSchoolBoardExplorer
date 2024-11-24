@@ -1,134 +1,230 @@
-# Meeting Summaries for LYNDEN_SCHOOL_DISTRICT in 2020
+# Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2020
 
-## 2020-12-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details personnel changes within a school district. It outlines new hires, changes in assignment, leaves of absence, resignations, and retirements for both certificated (teachers) and classified (non-teaching) staff.  Several positions are listed as needing replacements, indicating potential teacher-staff shortages. The document also highlights specific needs within special education support, with several paraeducators taking leaves of absence.  The nature of these leaves suggests a need for increased special-education-support staffing.
+The Bellingham School Board met to discuss monitoring reports for two policies: EL-1 (Expectations of Superintendent) and EL-5 (Communication and Counsel to the Board).  The board reviewed feedback on these policies and will submit a final summary version for approval at their next meeting. For policy EL-5, Ms. Rose and Mr. Benjamin were tasked with researching potential edits based on the feedback received. The meeting also included informational reports from school board directors highlighting student activities and reflections on their experiences serving on the board.  The board assessed the meeting as commendable.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-12-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-12-09-minutes.txt)
 
-## 2020-11-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The school board meeting focused on several key topics.  Firstly, they reviewed and approved Policy #3122 regarding Excused and Unexcused Absences and Policy #6512 concerning the Infection Control Program. Secondly, a significant portion of the meeting was dedicated to discussing the reopening plan for grades 6-12, including recent statewide recommendations from Governor Inslee and their impact on performing arts, athletics, and other extracurricular activities.  The board also received updates on technology support for students and staff, as well as the implementation of social-emotional learning programs like Safe and Civil Schools and Character Strong in elementary schools. Finally, they reviewed and confirmed the schedule for future board meetings.
+This school board agenda outlines a meeting on December 9th, 2020. The board will be reviewing monitoring reports for two policies related to the superintendent's performance: EL-1 (Expectations of Superintendent) and EL-5 (Communication and Counsel to the Board). They will determine if the superintendent is in compliance with these policies. Additionally, the board will review an updated version of GP-7.2, the 2020-21 annual board agenda, for informational purposes only.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-11-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-12-09-agenda.txt)
 
-## 2020-11-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-11-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details leaves of absence and resignations/retirements for classified personnel within a school district.  It lists the names, positions, locations, effective dates, and reasons (e.g., unpaid medical leave, resignation) for each individual's status change. The document also includes information about supplemental assignments and resignations related to those roles. There is no mention of any specific policies or changes to existing policies.
+The Bellingham School District Board of Directors held a special meeting on November 18, 2020, via Zoom.  The meeting began at 12:01 p.m. and concluded at 12:03 p.m.  Two resolutions were unanimously approved as consent items. Resolution 29-20 certified excess property taxes for 2021. Resolution 30-20 enacted an emergency suspension of a specific, unnamed policy. The text does not specify which policy was suspended or the reason for the emergency suspension.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-11-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-11-18-minutes.txt)
 
-## 2020-09-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-11-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Ferndale School Board meeting minutes detail discussions on several key topics.  The board reviewed the budget for August and approved a resolution (Resolution No. 13-20) outlining a process for evaluating potential furloughs and layoffs. Discussions also centered around reopening plans for in-person learning, with a decision to postpone the return of K-2 grades until the second week of October.  The board reviewed several policies for a first reading, including Policy #2004 (Accountability Goals), Policy #3225 (School Based Threat Assessment), Policy #3413 (Student Immunization and Life Threatening Health Conditions), and Policy #3424 (Opioid Related Overdose Reversal). These policies will be considered for approval after a second reading.  Finally, the board reviewed the school board...[truncated, use api for full text]
+The Bellingham School District Board of Directors held a special meeting on November 18, 2020, via Zoom to discuss and approve two resolutions. Resolution 29-20 concerns the emergency suspension of policy regarding bidding requirements for air filters due to the COVID-19 pandemic. This resolution aims to expedite the purchase of necessary air filters to ensure safe air quality in school buildings.  Resolution 30-20 addresses the levy certification, adjusting Resolution 27-20 to include refunds for debt service and capital levies. The board is required by law to certify the levy amount to the assessor by November 30th.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-09-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-11-18-agenda.txt)
 
-## 2020-09-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-11-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The school board meeting focused on several key areas.  Firstly, they approved a line of credit up to $1.5 million for facility maintenance projects, addressing needs identified by the Supervisor of Maintenance. Secondly, they discussed and approved an Interlocal Agreement with the Blaine School District and a State Transitional Bilingual Instructional Program (STBIP) Grant. A resolution regarding program reductions, furloughs, and layoffs (Resolution No. 13-20) was tabled pending language revisions for future approval. The board also reviewed and approved the LEA Agreement for the 2020-2021 school year following an executive session update on negotiations with SEIU and PSE union members. Finally, the meeting included appreciation for staff who helped start the school year smoothly and a d...[truncated, use api for full text]
+The Bellingham School District Board of Directors held a meeting on November 18, 2021 to discuss various matters related to school operations.  A significant portion of the meeting focused on updates regarding the district's response to the COVID-19 pandemic. Superintendent Baker provided information on the phased return to in-person learning for students, highlighting the success of safety protocols implemented during the initial phases. The board also discussed the ongoing challenges and adjustments required to support student health and well-being amidst the pandemic.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-09-10-minutes.txt)
+The meeting included a review of several existing policies related to the Board/Superintendent relationship (B/SR-1, B/SR-2, B/SR-3), with no changes being made.  A new agreement, Opportunity Council-Early Learning and Fa...[truncated, use api for full text]
 
-## 2020-08-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-11-04-minutes.txt)
 
-The August 20, 2020 school board meeting focused on the re-opening plan for the 2020-2021 school year amidst the COVID-19 pandemic.  The board reviewed and approved Resolution No. 11-20, outlining the district's re-opening plan in accordance with the Office of Superintendent of Public Instruction (OSPI) template. This resolution addressed learning options for students at both elementary and secondary levels, communication strategies with families regarding schedules and device distribution, and safety protocols related to the pandemic. The meeting also included a discussion on the progress made in planning for the re-opening, led by Jim Frey and school principals.  Community members' comments were shared by Board President Steve Jilk.
+## 2020-11-04 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-20-minutes.txt)
+The text describes a school board agenda for a meeting on November 4, 2020.  The primary focus of the agenda is a review and discussion of potential revisions to several existing policies. These policies are identified as B/SR-1 (Board/Superintendent Connection), B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation), and B/SR 3.1.1 (Monitoring Response Document).  The board will review each policy during a discussion session. The agenda also includes informational items such as School Board Directors' Reports.
 
-## 2020-08-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-11-04-agenda.txt)
 
-The Lynden School District Board held a meeting on August 13, 2020, to discuss and approve various items.  A key focus was the adoption of the 2020-2021 school budget (Resolution No. 10-20). The budget presentation highlighted anticipated expenditures and revenues across different categories like General Funds, ASB, Debt Services, Capital Projects, and Transportation. Jim Baker, the interim Finance Director, addressed potential COVID-19 impacts and strategies for maximizing resource utilization to ensure quality education.
+## 2020-10-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The board also engaged in a work session regarding the re-opening plan for the 2020-2021 school year, emphasizing communication with families through both district-level announcements and school principal updates.  Additionally, the board approved two interlocal agreeme...[truncated, use api for full text]
+The Bellingham Technical College School Board meeting minutes detail routine business including the adoption of Policy 2418, approval of various partnership agreements with organizations like the YMCA and Everett Community College, and personnel recommendations. Notably, the board discussed a change from Columbus Day to Indigenous Peoples Day/Coast Salish Peoples Day, highlighting efforts towards diversity and inclusion within the curriculum.  The meeting also included reports from board directors on student health initiatives like food distribution at Sunnyland and driver's education programs. Finally, the board assessed the meeting positively and adjourned.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-10-14-minutes.txt)
 
-## 2020-08-06 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-10-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The August 6, 2020 School Board Meeting minutes detail a discussion regarding the reopening of schools for the 2020-2021 school year.  The board considered various options including in-person learning with social distancing guidelines, a hybrid model combining in-person and online learning, or a fully online approach. This decision was driven by concerns from families, staff, and community members regarding student safety amidst the COVID-19 pandemic. The board ultimately decided to schedule a special meeting on August 10th to allow for all members to be present and vote on the chosen reopening method.
+This school board agenda includes standard items for a regular meeting.  A consent agenda lists personnel recommendations which have been reviewed and approved by the superintendent. The board will also review informational items including reports from School Board Directors and an updated annual board agenda (GP-7.2, 2020-21).  The agenda indicates that documentation for all consent agenda items was provided to board members and the public in advance. Finally, the meeting concludes with a board assessment and adjournment.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-10-14-agenda.txt)
 
-## 2020-08-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-10-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District Board of Directors held a meeting on August 3, 2020, to discuss the reopening of schools for the 2020-2021 academic year amidst the COVID-19 pandemic.  The board considered three learning options: "Lynden at School" (in-person learning), "Lynden Home Connect" (parent-led homeschooling with school support), and "Lynden On-Line" (online instruction). The discussion centered around addressing concerns from families, staff, and the community regarding these options.  The board acknowledged challenges associated with hybrid learning models and aimed to mitigate potential learning gaps. This meeting reflects a commitment to parental rights by providing diverse learning options and incorporating feedback from the community in shaping the reopening plan.
+The Bellingham School District Board of Directors held a special meeting on October 9, 2020, via Zoom.  The meeting began with roll call and a general discussion where board members shared their experiences navigating the challenges and silver linings of the pandemic. The meeting adjourned at 6:30 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-10-09-minutes.txt)
 
-## 2020-07-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-10-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The July 23rd, 2020 school board meeting focused on re-opening plans for the upcoming school year amidst the COVID-19 pandemic and addressed a revised statement regarding equity for all students.  The Board reviewed three learning platform options for the 2020-2021 school year, acknowledging potential adjustments based on staffing capacity and distancing guidelines.
+The Bellingham School District Board of Directors will hold a special meeting on Friday, October 9, 2020, at 5:30 p.m. via Zoom.  The purpose of the meeting is for board members to connect and strengthen relationships. This is not a regular school board meeting and will not include public comment time. The agenda includes items such as roll call and general discussion.
 
-Financial updates were provided, outlining the June budget summary and projections for the 2020-2021 budget, including considerations for COVID-related expenses.  The Board reviewed and approved the 2020-2021 School Year Calendar with the understanding that adjustments might be necessary based on evolving conditions.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-10-09-agenda.txt)
 
-Board Director CJ Costanti shared a revised statement about equity for all students, which would be communicat...[truncated, use api for full text]
+## 2020-09-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-07-23-minutes.txt)
+The school board meeting minutes detail a positive start to the school year despite challenges. Board members expressed appreciation for the superintendent and staff's efforts in navigating the ongoing COVID-19 pandemic.  Several members highlighted positive feedback from parents regarding the school year's commencement. The meeting also included a discussion on the importance of reaching out to families experiencing difficulties and ensuring the well-being of both students and staff during this time.
 
-## 2020-07-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-09-16-minutes.txt)
 
-This document details personnel changes within a school district.  It outlines new hires, resignations, and changes in assignments for both certificated (teachers) and classified (non-teaching) staff. Notably, the district is experiencing teacher-staff shortages, as evidenced by the need to replace a former Paraeducator with a new hire who will work reduced hours. The document also highlights efforts to support special education students through the hiring of a Payroll/Benefits Specialist, suggesting a focus on ensuring appropriate compensation and benefits for staff working in this area.  Several resignations are noted, indicating potential challenges in retaining staff.
+## 2020-09-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-07-09-minutes.txt)
+The Bellingham School Board is reviewing personal services contracts for two individuals. Mychel Cortese will provide evaluation and test administration assistance to the School Psychologist group in the preschool program from August 30, 2020 to January 29, 2021. Christina Tan will provide Title 1 Literacy Interventions for Bellingham Christian School from September 1, 2020 to June 11, 2021. The board will also review the updated GP-7.2, 2020-21 annual board agenda, with changes from the previous version highlighted. This review is for informational purposes only.
 
-## 2020-06-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-09-16-agenda.txt)
 
-This document details personnel changes within a school district. It outlines new hires, leaves of absence, resignations, and retirements for both certificated (teachers) and classified (support staff) personnel.  Several positions are listed as vacant due to resignations, including a special education teacher and psychologist. The document also highlights a change in assignment for a paraeducator who is taking a leave of absence. These staffing changes suggest the district may be facing teacher-staff shortages, particularly in special education.
+## 2020-08-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-06-25-minutes.txt)
+The Bellingham Public Schools Board meeting minutes detail various routine actions, including budget adjustments (Resolution 17-20), contract approvals with vendors and service providers like Aperture Education, Agile Mind Educational Holdings, and Edgenuity.  The board also reviewed and approved policy GP-7.2, Annual Board Agenda, without any changes. Notably, the minutes highlight a focus on community engagement through the "NWESD 189 Community Prevention and Wellness Initiative Contract" and the "Bellingham Public Schools Foundation Agreement." The meeting concluded with a positive assessment from Ms. Mason, rating it as "commendable".
 
-## 2020-06-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-08-19-minutes.txt)
 
-This document details personnel changes within a school district. It outlines new hires, including Kevin Burke as Facilities Supervisor and Richard Brooks and Zachary Vis as Para Educators.  The document also notes a change in assignment for an unnamed individual. Several leaves of absence are listed, including a maternity leave for Linda Parker and unpaid personal leave for Elijah Varner for student teaching. The document further details resignations for certificated personnel, including Reed Gillig (Facilities Supervisor) and Marcus McKee (Para Educator).  Finally, supplemental resignation information is provided for Marcus McKee as Basketball Coach and Katharine Lindstrom as Assistant Cheer Coach.
+## 2020-08-19 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-06-11-minutes.txt)
+The Bellingham School Board will hold a special meeting on August 19, 2020, via Zoom to discuss the school district's reopening plan for the 2020-21 academic year in light of the COVID-19 pandemic.  The agenda includes discussion items related to the school board calendar, reopening plans, and the Board of Distinction recognition. The meeting will not include public comment time.
 
-## 2020-05-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-08-19-agenda.txt)
 
-This document details personnel changes within a school district.  It outlines new hires, changes in assignment, leaves of absence, resignations, and retirements for both certificated (teachers) and classified (support staff) personnel. Several positions are listed as needing replacements, indicating potential teacher-staff shortages. The document also notes specific policy changes, such as replacing Barrett/Tolliver and Nilsen with new hires.
+## 2020-07-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-05-14-minutes.txt)
+The school board meeting minutes detail discussions on reopening schools and the presence of police in schools. Board members acknowledged community input regarding these issues, highlighting concerns about student safety and equity.  The board also discussed the importance of mental health support for students, particularly in light of the challenges they have faced during the COVID-19 pandemic.  Board member Diaz Hackler emphasized the need to advocate for increased funding for counselors and social workers at the state level. The minutes further reflect a commitment to community engagement, with board members expressing appreciation for the feedback received from residents regarding school reopening plans and police presence.
 
-## 2020-04-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-07-15-minutes.txt)
 
-The Lynden School Board meeting minutes detail the board's discussion on various topics related to remote learning during the COVID-19 pandemic.  A significant portion of the meeting focused on "Learning Opportunities" and how teachers were adapting their methods for online instruction. The board also discussed accommodations for students with special needs, highlighting the SPED team's efforts to provide specialized services remotely and align with general education classes. Additionally, updates were provided on meal service programs and childcare support for essential worker families, underscoring the district's commitment to student well-being and community engagement during challenging times.  The board also discussed "COVID-19 Updates" focusing on maintaining student and staff engage...[truncated, use api for full text]
+## 2020-06-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-04-09-minutes.txt)
+The Bellingham School District Board of Directors held a special meeting on June 24, 2020, via Zoom.  The meeting began with a land acknowledgement recognizing the ancestral homelands of the Lummi Nation and the Nooksack tribe. Two consent items were approved unanimously: the award of a bid for the Shuksan Auxiliary Gym and an interagency training agreement with the University of Washington Hearing Center. The meeting adjourned at 12:03 p.m.  The minutes were approved by Board President Douglas Benjamin and attested to by Greg Baker, Secretary to the Board.
 
-## 2020-04-02 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-24-minutes.txt)
 
-The Lynden School Board met via Zoom teleconference on April 2, 2020.  The meeting covered routine items such as approval of meeting minutes and the consent agenda which included various financial warrants. A key discussion point was the approval of Secondary School Improvement Plans (SIPs). The board also received a report from Superintendent Jim Frey regarding the impact of COVID-19 on school learning, meal services, and childcare for children in the Lynden community.  The meeting concluded with an executive session.
+## 2020-06-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-04-02-minutes.txt)
+The Bellingham School District Board of Directors held a special meeting on June 24, 2020 via Zoom.  The agenda focused primarily on two consent agenda items. The first item involved the award of a bid to Tiger Construction Ltd. for the construction of the Shuksan Middle School Auxiliary Gym. This decision was based on bids received from four general contractors.
 
-## 2020-03-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The second consent agenda item concerned an interagency training agreement (#1920-166) with the University of Washington Haring Center. The agreement aims to increase opportunities for building inclusionary practices for preschool age students with disabilities, funded by a grant awarded to the district.  Notably, there were no discussions or mentions of LGBTQ+ related topics, transgender issues, critical race theory, or any othe...[truncated, use api for full text]
 
-This document outlines personnel changes within a school district. It details new hires, changes in assignments, leaves of absence, resignations, retirements, and terminations for both certificated (teachers) and classified (non-teaching staff) personnel.  The document also lists supplemental assignments for various extracurricular activities like coaching. Notably, there's a mention of a teacher reducing their FTE to job share with another teacher, highlighting potential staffing challenges. The overall sentiment suggests a focus on managing human resources within the district.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-24-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-03-12-minutes.txt)
+## 2020-06-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2020-03-04 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The school board meeting minutes highlight discussions on diversity and inclusion. Ms. Diaz Hackler expressed a desire for increased representation of people of color in various school roles, including the school board itself.  Ms. Mason noted an increase in community feedback regarding social justice issues.  The board also discussed the superintendent's annual summative evaluation, which included comments reflecting on the atypical year and unprecedented events. A motion was passed to include these comments in the evaluation without attributing them to specific board members. Additionally, Ms. Rose raised concerns about potential funding for increased counseling services stemming from conversations around Black Lives Matter at the elementary level.
 
-The Lynden School Board held a meeting on March 4, 2020, to discuss the emerging COVID-19 pandemic. Superintendent Jim Frey provided an update on the latest information from state and local health authorities. The board discussed proactive steps being taken to ensure student safety and maintain healthy learning environments.  While the minutes don't explicitly detail specific policies or actions, the discussion highlights a concern for student well-being in the face of a public health crisis.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-17-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-03-04-minutes.txt)
+## 2020-06-17 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2020-02-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The agenda outlines a regular meeting of the school board on June 17, 2020. A significant portion of the meeting is dedicated to reviewing and potentially revising six Governance Process Policies (GP-1 through GP-6). These policies cover topics such as the board's governance style, job descriptions for board members and the president, conflict of interest procedures, compensation and expenses for board members, and the cost of governance. The board will also review an updated version of GP-7.2, the 2019-20 annual board agenda, with highlighted changes from the previous version. This review is intended for informational purposes only.  Finally, the agenda includes time for a board assessment of the meeting and adjournment.
 
-This document details personnel changes within a school district. It outlines new hires, changes in assignments (including increases and decreases in hours), leaves of absence, resignations, and retirements for both certificated (teachers) and classified (support staff) personnel.  Several entries specifically mention adjustments to support student supervision, highlighting the district's focus on special education needs. The document also indicates a shortage of staff, with several positions needing to be filled or having hours increased to compensate for departures.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-17-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-02-27-minutes.txt)
+## 2020-05-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2020-02-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+This school board meeting summary focuses on the challenges and successes faced by the school district during the COVID-19 pandemic. Board members highlight positive feedback received from parents regarding the district's remote learning support and technology access. They also express appreciation for the superintendent and executive team's efforts in navigating this unprecedented time. Discussions touch upon graduation plans and acknowledge the grief experienced by students and families due to missed traditional events. The meeting concludes with a board assessment and adjournment.  
 
-This document details personnel changes within a school district. It lists leaves of absence for both certificated (teachers) and classified (staff) personnel, specifying reasons like maternity leave, personal leave, and partial leave due to workplace injury. The document also notes resignations and retirements among certificated and classified staff.  Several positions are listed as needing supplemental support, suggesting potential teacher-staff shortages. The district highlights its commitment to special education by listing specific paraeducator roles supporting students with migrant backgrounds and those requiring additional educational assistance.
+There is no mention of specific policies or policy changes related to curriculum, student discipline, diversity, or other social issues.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-02-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-05-13-minutes.txt)
 
-## 2020-01-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2020-05-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-This document outlines personnel changes within a school district. It details new hires, changes in assignments, leaves of absence, resignations, retirements, and terminations for both certificated (teachers) and classified (non-teaching staff) personnel.  Several entries highlight the need for additional special education support, with a specific mention of adding hours to a caseload due to non-continuing needs. The document also reflects ongoing challenges with teacher staffing shortages, as evidenced by the need to fill positions and adjust assignments.
+This document outlines personnel recommendations for the May 13, 2020 school board meeting.  The recommendations include salary schedules for non-represented executive team administrators and directors/supervisors/professional technical staff for the 2020-21 school year. Additionally, the document lists election results for administrative and BEA certificated staff for the upcoming academic year. The superintendent has reviewed and approved these personnel recommendations.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-01-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-05-13-agenda.txt)
+
+## 2020-04-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes detail discussions regarding the district's response to the COVID-19 pandemic. Board members expressed appreciation for Dr. Baker's updates and communication regarding the challenges and adaptations implemented during this time.  Ms. Diaz Hackler inquired about the potential impact of the pandemic on the construction of Parkview Elementary and the future learning environment. Several board members highlighted positive aspects of remote learning, such as increased visibility into classroom activities and a reduction in student loneliness due to video interactions. Mr. Benjamin plans to solicit feedback from board members regarding Dr. Baker's work related to COVID-19.  The meeting also touched upon the importance of mental health and self-care during this st...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-04-22-minutes.txt)
+
+## 2020-04-22 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The text details the agenda and minutes of a school board meeting.  The board reviewed monitoring reports on "Treatment, Compensation and Evaluation" (EL-4) and "Student Competence" (Ends 2.1, Part 2). These reports are part of a Policy Governance framework. The board will determine if the superintendent is in compliance with these policies. Additionally, the agenda included informational items such as School Board Directors' Reports and a revised annual board agenda (GP-7.2).  The meeting concluded with a board assessment and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-04-22-agenda.txt)
+
+## 2020-03-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board held a regular meeting on March 22, 2020.  Discussions centered around the district's response to the COVID-19 pandemic. Board members commended the superintendent and his team for their work in navigating the health crisis, highlighting the rapid development of systems for remote learning and meal distribution. They also expressed appreciation for the communication from school staff to families.
+
+Board member Diaz Hackler raised concerns about the mental health impact of the pandemic on both students and families, suggesting the need for additional support resources during this stressful time. The superintendent shared positive feedback regarding the district's focus on equity in its meal distribution efforts.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-25-minutes.txt)
+
+## 2020-03-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda outlines discussions regarding the monitoring of superintendent compliance with existing policies. Specifically, they will address "EL-4 Staff Treatment, Compensation and Evaluation" and "Ends 2.1 (part 2) Student Competence."  The board will determine if revisions to these policies are necessary. Additionally, the board will review an updated annual agenda for informational purposes only. There is no mention of specific changes to policy language or reasoning behind any potential revisions.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-25-agenda.txt)
+
+## 2020-03-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The text details two agenda items for a postponed March 18, 2020 school board meeting.  The first item, "3. Board Response to Monitoring," concerns monitoring reports on EL-4 Staff Treatment, Compensation and Evaluation and Ends 2.1 (part 2) Student Competence. This suggests the board is reviewing whether the superintendent is in compliance with existing policies related to staff treatment and student competence. The second agenda item, "4. Informational Items" lists a review of GP-7.2, the 2019-20 annual board agenda, noting changes from the previous version. This indicates the board will be discussing updates to their annual schedule and priorities.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-18-agenda.txt)
+
+## 2020-03-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a Student Roundtable meeting on March 4, 2020, to gather feedback from third-grade students at Carl Cozier Elementary School. The meeting focused on understanding student experiences and perspectives related to school safety, problem-solving, future aspirations, and potential improvements. Students shared their feelings of being loved and supported at school, highlighting instances where friends helped each other. They discussed strategies for resolving conflicts, such as seeking help from adults, using the Kelso's Choice wheel, and taking turns. Bullying emerged as a concern, particularly on the playground.
+
+Students expressed excitement about aspects of middle and high school, including having laptops, getting driver's licenses, and ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-04-minutes.txt)
+
+## 2020-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The School Board of Directors will hold a two-day special meeting on February 28th and 29th at the Environmental Learning Center in Rockport, Washington.  The agenda includes discussion items focused on reviewing EL-10, which concerns race and equity; discussing board professional development; conducting the superintendent's mid-year evaluation and contract review; addressing communications and board visibility strategies; completing a WSSDA self-assessment; and providing updates on big picture district initiatives. The meeting will also include time for other topics as determined by the board.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-28-agenda.txt)
+
+## 2020-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail discussions on various topics. Notably, the board reviewed a presentation highlighting student work and initiatives related to diversity, equity, and inclusion (EDI).  The board also engaged in a study session focused on sustainability within the district, with presentations from staff members across departments like finance, buildings and grounds, safety, food services, and wellness. 
+
+Additionally, the minutes mention Ms. Diaz Hackler's attendance at the WSSDA legislative conference where she met with state representatives and discussed educational issues.  The board also planned a student roundtable event for March 4th at Carl Cozier Elementary. Finally, the meeting concluded with a positive assessment from Ms. Diaz Hackler and an adjou...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-19-minutes.txt)
+
+## 2020-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This document outlines agenda items for a February 19, 2020 school board meeting. The board will review monitoring reports on Ends 2.1 (Student Competence) and EL-3 (Treatment and Communication with Public, Parents and Students), determining if the superintendent is in compliance with these policies. Additionally, they will consider whether any revisions are needed for these policies.  The board will also review an updated annual agenda (GP-7.2). Finally, a study session on sustainability is scheduled.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-19-agenda.txt)
+
+## 2020-02-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a meeting at Shuksan Middle School on February 4, 2020.  The meeting focused on the AVID program and social-emotional learning. Students shared their experiences with the AVID program through video recordings. Assistant Principal Alli Hancock led a lesson on recognizing and regulating emotions using the RULER social emotional curriculum.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-04-minutes.txt)
+
+## 2020-02-04 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Shuksan Middle School on February 4th, 2020 at 7:30 am. This visit is part of the board's regular practice of visiting different schools throughout the year to learn how each school is fulfilling "The Bellingham Promise."  There are no specific details provided regarding what "The Bellingham Promise" entails. The agenda for the visit includes opening items such as roll call and a visit to the school, followed by closing items including adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-04-agenda.txt)
+
+## 2020-01-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes highlight discussions on student voice and the importance of having school staff reflective of the student body. Ms. Rose, a parent and board member, emphasized the value of connections and opportunities students gain in school. She also acknowledged the professionalism and support provided by the school staff during a difficult time for the community. Mr. Benjamin expressed his satisfaction with the student linkage initiative, noting it as a prime example of prioritizing student voice. He also proposed holding the board's winter retreat at the North Cascades Institute. The meeting concluded with an overall positive assessment from Ms. Mason.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-29-minutes.txt)
+
+## 2020-01-29 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes discussions on monitoring reports for two policies: EL-9, Asset Maintenance and Protection, and EL-10, Race and Equity.  The board will determine if the superintendent is in compliance with these policies following feedback from individual board members.  Additionally, the board will review an updated annual agenda (GP-7.2) highlighting changes from the previous version.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-29-agenda.txt)
+
+## 2020-01-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This agenda excerpt details two instances of the school board reviewing monitoring reports related to district policies.  The first report concerns EL-9, Asset Maintenance and Protection, while the second focuses on EL-10, Race and Equity. Following standard practice outlined in Policy Governance, the board will assess whether the superintendent is adhering to these policies based on the feedback provided by individual board members. The agenda also includes a review of the updated 2019-20 annual board agenda (GP-7.2) for informational purposes only.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-15-agenda.txt)
+
+## 2020-01-07 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors regularly visits schools to assess their implementation of "The Bellingham Promise." A scheduled visit to Sehome High School on January 7, 2020, was canceled.  The agenda included standard items like roll call and adjournment, along with a section dedicated to visiting the school. This cancellation represents a policy change from the initial plan. The reason for the cancellation is not stated in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-07-agenda.txt)
 

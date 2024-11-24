@@ -10,6 +10,37 @@ Policy changes included a review of Superintendent Galley's contract and a mid-y
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-25-20-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Tanya Silves](board_member_35.md) | voted yes on motion to approve the hire of Amber Richcreek, Transition to Kindergarten Teacher, Sumas Elementary | Halli Kimball moved, and Shelley Harder seconded the motion to approve the hire ...[truncated, use api for full text] |
+| [Halli Kimball](board_member_32.md) | voted yes on motion to approve the hire of Amber Richcreek, Transition to Kindergarten Teacher, Sumas Elementary | Halli Kimball moved, and Shelley Harder seconded the motion to approve the hire ...[truncated, use api for full text] |
+| [Shelley Harder](board_member_33.md) | voted yes on motion to approve the hire of Amber Richcreek, Transition to Kindergarten Teacher, Sumas Elementary | Halli Kimball moved, and Shelley Harder seconded the motion to approve the hire ...[truncated, use api for full text] |
+| [Steve Jones](board_member_31.md) | voted yes on motion to approve the hire of Amber Richcreek, Transition to Kindergarten Teacher, Sumas Elementary | Halli Kimball moved, and Shelley Harder seconded the motion to approve the hire ...[truncated, use api for full text] |
+| [Tanya Silves](board_member_35.md) | voted yes on motion to approve the temporary leave of absence for employee X | Halli Kimball moved, and Tanya Silves seconded the motion to approve the tempora...[truncated, use api for full text] |
+| [Halli Kimball](board_member_32.md) | voted yes on motion to approve the temporary leave of absence for employee X | Halli Kimball moved, and Tanya Silves seconded the motion to approve the tempora...[truncated, use api for full text] |
+| [Shelley Harder](board_member_33.md) | voted yes on motion to approve the temporary leave of absence for employee X | Halli Kimball moved, and Tanya Silves seconded the motion to approve the tempora...[truncated, use api for full text] |
+| [Steve Jones](board_member_31.md) | voted yes on motion to approve the temporary leave of absence for employee X | Halli Kimball moved, and Tanya Silves seconded the motion to approve the tempora...[truncated, use api for full text] |
+| [Tanya Silves](board_member_35.md) | voted yes on motion to approve the bid submitted by Hytech for $428,000 | Halli Kimball moved, and Tanya Silves seconded the motion to approve the base bi...[truncated, use api for full text] |
+| [Halli Kimball](board_member_32.md) | voted yes on motion to approve the bid submitted by Hytech for $428,000 | Halli Kimball moved, and Tanya Silves seconded the motion to approve the base bi...[truncated, use api for full text] |
+| [Shelley Harder](board_member_33.md) | voted yes on motion to approve the bid submitted by Hytech for $428,000 | Halli Kimball moved, and Tanya Silves seconded the motion to approve the base bi...[truncated, use api for full text] |
+| [Steve Jones](board_member_31.md) | voted yes on motion to approve the bid submitted by Hytech for $428,000 | Halli Kimball moved, and Tanya Silves seconded the motion to approve the base bi...[truncated, use api for full text] |
+| [Tanya Silves](board_member_35.md) | voted yes on motion to extend Superintendent Galley’s contract through June 30, 2027. | Tanya Silves moved, and Halli Kimball seconded a motion to extend Superintendent...[truncated, use api for full text] |
+| [Halli Kimball](board_member_32.md) | voted yes on motion to extend Superintendent Galley’s contract through June 30, 2027. | Tanya Silves moved, and Halli Kimball seconded a motion to extend Superintendent...[truncated, use api for full text] |
+| [Shelley Harder](board_member_33.md) | voted yes on motion to extend Superintendent Galley’s contract through June 30, 2027. | Tanya Silves moved, and Halli Kimball seconded a motion to extend Superintendent...[truncated, use api for full text] |
+| [Steve Jones](board_member_31.md) | voted yes on motion to extend Superintendent Galley’s contract through June 30, 2027. | Tanya Silves moved, and Halli Kimball seconded a motion to extend Superintendent...[truncated, use api for full text] |
+
+## 2024-10-22 - TAHOMA_SCHOOL_DISTRICT (Agenda)
+
+This school board agenda outlines a variety of topics for discussion and action.  The board will review and potentially approve several policy revisions, including the retirement of Policy 5314 Tax Deferred Account/Compensation and the revision of Policies 2090 Program Evaluation), 6111 Tuition, and 6605 Student Safety Walking, Biking and Riding Buses to School. The agenda also includes a First Reading for revised policies relating to special education tuition (Policy 611 Meeting Minutes FINAL.pdf (148 KB)
+The board will review personnel reports for certificated, classified and Coach staff.
+
+
+There is a discussion item on the Board Inquiry Tracking System (BITS).  The agenda concludes with an Adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-22-agenda.txt)
+
 ## 2024-07-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The San Juan Island School Board held a meeting to discuss the 2024-2025 budget.  The discussion included explanations of various budget categories such as instructional programs, support services, and board/superintendent expenses. There was also clarification regarding staff reduction numbers and online FTE enrollment inclusion in the budget calculations.
@@ -26,11 +57,23 @@ The school board meeting minutes detail discussions regarding several key topics
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-05-28-minutes.txt)
 
+## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Agenda)
+
+The Blaine School District held a special board meeting on April 29th, 2024 to consider Resolution 2324-08, titled "Adoption of 2024-2025 Reduced Educational Program." This resolution proposed a plan for reducing educational offerings in the district for the upcoming school year. The plan was developed by district leadership and incorporated feedback from campus and department administrators, staff surveys, presentations, and community meetings.  The board voted to adopt the resolution. A separate proposal submitted to the board by SEIU Local 925 Blaine School District Chapter Leadership was also included in the meeting materials. The meeting minutes indicate that all directors were present and that the vote to adopt the resolution was unanimous.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-29-agenda.txt)
+
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board reviewed a report on student outcomes, focusing on graduation rates and the impact of Career and Technical Education (CTE) programs.  The board expressed satisfaction with narrowing graduation gaps between Hispanic/Latinx and non-Hispanic/Latinx students, as well as low-income students. They also commended the growth of CTE programs for their ability to engage diverse student interests. However, concerns were raised about the widening gap in graduation rates for multilingual learners. The report highlighted income as a significant contributor to graduation rate disparities.  The board discussed the potential impact of COVID-19 on standardized test scores and expressed optimism for future improvement. They also acknowledged the district's commitment to addressing...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
+
+## 2024-04-08 - CAMAS_SCHOOL_DISTRICT (Agenda)
+
+The School Board Workshop agenda for April 8th, 2024 includes discussions on various topics related to school operations and student well-being.  The workshop will address "Student Data Security Measures," outlining the protocols in place to protect sensitive student information. Additionally, a "District Safety Update" will be provided, likely covering security procedures, emergency preparedness, and any recent safety incidents or concerns. The board will also review input from the Student Advisory Committee regarding next year's school structures. Finally, the workshop agenda includes a discussion on "Logistics for the Month of April," which may encompass scheduling, staffing, and other operational details.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-08-agenda.txt)
 
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -42,8 +85,14 @@ This school board meeting minutes focuses on several issues related to governanc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_13.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-| [Ben Lazarus](board_member_12.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Cliff Freeman](board_member_8.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Ben Lazarus](board_member_7.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a retreat on March 18, 2024, to discuss several key topics. These included reviewing and discussing information related to academic standards and curriculum transparency.  The board also addressed the topic of student data privacy. No specific policies or changes were mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
 
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -67,23 +116,29 @@ The board reviewed proposed changes to MSD Board Operating Protocols and the Rev
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_25.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_25.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Steve Corwin](board_member_23.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Jana Haugen](board_member_21.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_25.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Marty Gray](board_member_24.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+| [Steve Corwin](board_member_23.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
 
 ## 2023-05-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District Board meeting minutes detail discussions concerning student safety and autonomy within the context of court-issued restraining orders.  A specific policy for handling such orders is in place, though concerns were raised by Director Creydt about its effectiveness in ensuring separation between involved parties while upholding students' rights to education. The district's legal counsel reviewed recent updates to the procedure to ensure compliance with federal regulations. Any further modifications will undergo review by the district attorney.  Additionally, the minutes address the handling of outdated technology equipment and its potential repurposing for community benefit.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-05-22-minutes.txt)
+
+## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School District will hold a special board meeting on May 26, 2021, at noon via Zoom to discuss and approve the Academic and Student Well-Being Recovery Plan. This plan, due to the Office of Superintendent of Public Instruction (OSPI) on June 1st, aims to address student needs and recovery from the impacts of COVID-19.  The plan will be available for public review and comment via email. The meeting agenda also includes consent items related to the approval of the Recovery Plan. The district emphasizes community engagement in the planning process, with opportunities for feedback and input.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-agenda.txt)
 
 ## 2021-04-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -112,6 +167,14 @@ The Board also highlights BSD's efforts in analyzing student data beyond traditi
 The school board meeting minutes detail discussions on student performance and disciplinary actions.  The board reviewed monitoring reports related to Ends 2.1 part 1 (Student Competence), acknowledging progress made in reducing suspensions and engaging with former students who did not complete high school. They also discussed the wording of "comparable high-performing districts" within the policy, potentially planning revisions for future meetings. The directors shared updates on their participation in various school events and conferences, including a linkage meeting with business community representatives and visits to Cordata Elementary School where they observed the implementation of Social/Emotional Learning programs.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-07-minutes.txt)
+
+## 2017-03-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This excerpt details the Bellingham School District's adherence to the  Annual Program Participation (APP) reporting requirements for state-funded school facilities built after December 31, 1993. The report, attached as "2016-17 APP Data.pdf," assesses the condition of various schools in the district, including Birchwood Elementary School, Fairhaven, Kulshan, and Shuksan middle schools, and Bellingham and Squalicum high schools.  The document confirms that all facilities exceed OSPI Building Condition Standards.
+
+Additionally, the agenda mentions a discussion on "Board Assessment of Meeting" according to Governance Process Policy GP-4.1, suggesting a self-evaluation process for board performance. The school board also planned to enter an Executive Session to discuss real estate acquisition...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-23-agenda.txt)
 
 ## 2016-03-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

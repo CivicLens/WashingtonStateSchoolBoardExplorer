@@ -1,34 +1,34 @@
-# Meeting Summaries for MOUNT_BAKER_SCHOOL_DISTRICT with Tag: mental-health
+# Meeting Summaries for CAMAS_SCHOOL_DISTRICT with Tag: mental-health
 
-## 2024-07-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-09-23 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District held a regular board meeting on July 11, 2024.  The meeting included standard agenda items such as approval of the agenda and minutes, consent agenda items including personnel actions and purchases, presentations on state forest timber sales and CTE & Perkins programs, information from the audience, and action items regarding the approval of the 2023-2028 CTE District Wide Plan and the 2023-2024 Carl Perkins Application. The board also discussed topics for a future retreat agenda.  Natalie Chavez shared concerns about the School Based Health Clinic during information from the audience.  The meeting concluded with an adjournment at 8:16 p.m. Notably, the minutes reflect a policy change in the form of an amendment to an existing interlocal agreement between ES...[truncated, use api for full text]
+The Mill Town School Board held a regular meeting on September 23rd, 2024. The meeting included standard agenda items such as the Pledge of Allegiance and Land Acknowledgement.  Board communication involved public comments and presentations from students. 
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-11-minutes.txt)
+The board approved student placements at SPERO Center for $326,000 and Florens Academy for $600,000 for the 2024-2025 school year. Additionally, an Out-of-Endorsement Assignment Request for Adam Mathieson was approved. The consent agenda included minutes, accounts payable, payroll, human resources matters, donations, and a contract renewal for a Behavioral Health Program. All consent agenda items were approved unanimously.
 
-## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+The meeting concluded with the approval of a travel request by the CHS Select Vocal Ensemble for their retreat in ...[truncated, use api for full text]
 
-The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoom. Routine items such as the election of officers (Karen Reich as President and Brian Kelly as Vice President), approval of minutes, and a consent agenda addressing personnel actions, surplus resolutions, purchases, payroll, donations, and an Everett Community College agreement were addressed. The board also received information from the audience regarding remote learning experiences and discussed various topics under "Information from the Board," including updates on conferences, meetings, and legislative preparations. A presentation focused on 2020-2021 Facilities and Capital Projects provided details on accomplishments and future plans.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-23-minutes.txt)
 
-Policy discussions centered around MB Policy/Procedure 6100, which unde...[truncated, use api for full text]
+## 2024-08-14 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
+The school board agenda focuses on several key areas. A significant portion of the meeting will be dedicated to student voice and engagement. The board plans to discuss strategies for amplifying student autonomy, including potential changes to existing policies regarding student input and decision-making processes. 
 
-## 2020-11-12 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+Mental health is also a priority, with discussions centered around integrating social-emotional learning into the curriculum and addressing the mental well-being of students.  
 
-The Mount Baker School District held a regular school board meeting on November 12, 2020.  The meeting was held via Zoom due to the COVID-19 pandemic. Discussions centered around safety measures and adjustments made in response to the ongoing pandemic. The board approved MB Resolution 20/21:4, declaring a state of emergency.
+The agenda includes a session on "Board Logistics for 2024/2025," which will cover topics like school safety protocols and community engagement strategies. This suggests a focus on creating a safe and inclusive learning environment while fostering strong relationships with parents and the wider communi...[truncated, use api for full text]
 
-The board also discussed mental health resources for students, highlighting partnerships with organizations like Cascadia Youth Mental Health. They acknowledged the importance of student well-being during challenging times and reviewed programs designed to address mental health needs.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-08-14-agenda.txt)
 
-Additionally, the meeting included updates on school safety procedures and the implementation of hybrid learning models in response to COVID-19.  The board received reports from the Exe...[truncated, use api for full text]
+## 2024-02-12 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-12-minutes.txt)
+The school board workshop agenda for February 12, 2024, includes several topics related to student well-being and educational support.  A Title IX update will be presented by Stephen Baranowski, focusing on compliance with the federal law prohibiting sex-based discrimination in education programs. Sheree GomezClark will provide an update on the Multi-Tiered System of Supports (MTSS), a framework designed to address students' academic and behavioral needs through tiered interventions. Additionally, the board will discuss policies for February 2024, covering various aspects of school operations and student support. Finally, logistical matters related to the workshop will be addressed.
 
-## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-02-12-agenda.txt)
 
-The October 22, 2020 school board meeting focused on several key issues.  The board approved the FSI Engineers Contract for work on the 800 Building and the MIDAS Education Agreement. They also discussed the MB Resolution 20/21:3 Acceptance of Building Commissioning Report but deferred a vote until November. The Fall 2020 Connections Agreement with North Cascades Institute was approved.  A presentation from FSI Engineers addressed the importance of proper ventilation, particularly in light of COVID-19 concerns.
+## 2024-01-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The board also received reports on the Executive Director of Finance & Operations and the Superintendent. Topics included the 2019-2020 year-end status, bus driver recruitment, Tier 2 reductions, reopening updates, strategic plan updates, and the Continua schedule.  The meeting con...[truncated, use api for full text]
+The Camas School District Board held a meeting on January 22, 2024.  Several policy changes were reviewed and approved in their first reading. These included policies numbered 1400 (Meeting Conduct), 1610 (Conflicts of Interest), 2121 (Substance Abuse Program), 2140 (Comprehensive School Counseling Program), 2190 (Highly Capable Programs), 3231 (Student Records), 4040 (Public Access to District Records), 4210 (Regulation of Dangerous Weapons on School Premises), and 5004 (Infection Control Program). The board also approved a student placement at Viewpoint Center, with costs not exceeding $98,000.  The meeting included recognition for students and staff achievements, reports from various school groups, and public comment periods. A discussion regarding the Camas Connect Academy Annual Alter...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-01-22-minutes.txt)
 

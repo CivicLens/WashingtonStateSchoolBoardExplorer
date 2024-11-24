@@ -1,409 +1,956 @@
-# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT in 2024
-
-## 2024-10-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT in 2024
 
-The Meridian School District #505 held a special school board meeting on October 31, 2024.  The meeting was called to order by Board President Steve Corwin at 10:01 am and adjourned at 10:02 am.  Board members present included Steve Corwin, Marty Gray, and Jana Haugen. Jarrod Karuza was absent. The consent agenda, which included items such as the Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and a Limitless MOU, was approved unanimously. No further business was discussed.
+## 2024-11-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-10-31-minutes.txt)
+The Washington State School Directors' Association is hosting a Board Member Dinner on November 22, 2024, at the Italian Kitchen in Spokane, Washington. This dinner is part of their annual conference and will bring together members of school boards from across the state for networking and discussion. The agenda includes standard items such as commencement of meeting, list of attendees, discussion, and end of meeting.  The specific topics for discussion are not detailed in the provided text.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-22-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | seconded motion to adopt the agenda | The motion to adopt the agenda was made by Marty Gray and seconded by Jana Hauge...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | made motion to approve the consent agenda | A motion to approve the consent agenda was made by Michelle Simmons and seconded...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | called the special meeting to order |  |
-| [Steve Corwin](board_member_28.md) | adjourned the board meeting | There being no further business, the Board meeting was adjourned at 10:02 am by ...[truncated, use api for full text] |
+## 2024-11-20 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2024-10-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Washington State School Directors' Association is holding its annual conference from November 20th to 23rd, 2024 at the Spokane Convention Center. The Board of Directors will be attending this conference.  The agenda includes a commencement of meeting, a list of attendees, and a discussion period focused on the conference itself. The conference concludes with an end-of-meeting session.
 
-The Meridian School District #505 held a regular school board meeting on October 9, 2024.  The meeting covered various topics related to student and staff well-being, academic standards, and community engagement. Several policies were reviewed and approved during the second reading, including Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience, Resolution 11-24 (related to unpaid holidays), Policy 5400 – Personnel Leave, and Policy 3432 – Emergencies. Additionally, interlocal agreements with NCTA were approved for Fire Science, Open Doors, and HUD programs. The board also reviewed and approved the Highly Capable Learning Program presented by Rebecca Montgomery. Adrienne Somera presented the 2024-25 Staff Professional Development Plan and an overview of the Professional Learning...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-20-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-10-09-minutes.txt)
+## 2024-11-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-### Board Member Actions
+The Northshore School District Board of Directors held a Special Meeting on November 19, 2024, to conduct a school visit focused on the Strategic Action Plan. The visit took place at Innovation Lab High School and involved members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Hân Trần, Amy Cast (President), and Superintendent Michael Tolley.  The meeting commenced at 9:00 AM and concluded at 11:00 AM. The minutes were approved on November 25, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve consent agenda items A-F |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscienc...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-19-minutes.txt)
 
-## 2024-09-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-11-19 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District #505 held its regular school board meeting on September 25, 2024.  Several policies were presented for first review with the intention of being brought back for second review and approval at the October 9th meeting. These included Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience and Resolution 11-24, Policy 5400 – Personnel Leave, Policy 3432 – Emergencies, NCTA Fire Science Interlocal Agreement, NCTA Open Doors Interlocal Agreement, and NCTA HUD Interlocal Agreement. The board also reviewed and approved several items on the consent agenda, including personnel reports, accounts payable, a fuel bid extension, a revised youth care services contract, a transportation agreement, a basic education compliance report, and a donation listing.  Additional...[truncated, use api for full text]
+The text outlines a school board meeting agenda for a "Special Meeting - School Visit" to Innovation Lab High School on November 19, 2024.  The purpose of the visit is described as part of a "Strategic Action Plan School Visit." The agenda includes standard sections such as commencement of meeting, list of attendees, discussion, and end of meeting. No specific policies or resolutions are mentioned in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-25-minutes.txt)
-
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-19-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
+## 2024-11-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Northshore School District Board of Directors held a special meeting titled "Conversations With the Board" at Canyon Park Middle School on November 18, 2024.  The purpose of the meeting was for board members to engage with the community.  Attendees included board members Hân Trần, Jacqueline McGourty, Elisabeth Sotak, Sandy Hayes, and Amy Cast (President), as well as Superintendent Michael Tolley. The meeting lasted from 6:00 PM to 7:34 PM.  The minutes were approved on November 25, 2024.
 
-The Meridian School District #505 held its regular school board meeting on September 11, 2024.  Several policies and procedures related to academic standards and curriculum transparency were reviewed and approved. Procedure 2151P – Interscholastic Activities was passed, outlining guidelines for student participation in extracurricular activities.  Policies and Procedures 2402-2405 addressed mastery-based credit systems for English Language Arts, Math, Science, and Social Studies respectively. These policies aim to provide alternative pathways for students to earn academic credit based on demonstrated proficiency rather than traditional seat time requirements. The board also discussed long-term strategic plans, including the annual staffing report which highlighted teacher-staff shortages w...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-18-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
+## 2024-11-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2024-08-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The text details a special meeting of the Board of Directors scheduled for November 18, 2024.  The primary agenda item is "Conversations With the Board - 2025-2026 Budget Development and Next Steps." This indicates that the board will be discussing the upcoming budget cycle and potential next steps in its development. The meeting also includes standard components like a commencement, list of attendees, and end of meeting.  The text suggests that the board is seeking parental feedback as part of this process.
 
-The Meridian School District #505 held a regular school board meeting on August 21, 2024.  The meeting included approval of the consent agenda which contained routine items like accounts payable and personnel reports. Additionally, the board reviewed and approved the 2024-25 Maintenance and Facilities Plan of Work presented by Director of Maintenance and Facilities Jay Yeager. The board also conducted a budget hearing for the Fiscal Year 2023-24 Budget Extension, ultimately passing Resolution 10-24 to extend the budget.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-18-agenda.txt)
 
-The meeting featured discussions on several new policies and procedures related to academic standards. Assistant Superintendent Kurt Harvill presented Policy and Procedure 2402 – English Language Arts Master-Based Credit, Policy and Procedure 2403 – Math Mastery-Based Cred...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-08-21-minutes.txt)
+## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-### Board Member Actions
+The Northshore School District Board of Directors held a Study Session on November 12, 2024, to discuss budget development for the 2025-2026 school year.  The meeting was called to order at 6:35 PM and adjourned at 7:37 PM.  Board members present included Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Hân Trần, and Amy Cast (President). Superintendent Michael Tolley was also in attendance. The minutes were approved on November 25, 2024.
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, perso...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, perso...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, perso...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, perso...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, perso...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Marty Gray](board_member_29.md) | voted no on motion to approve Procedure 2025 | Procedure 2025 was not further described in the meeting minutes provided. |
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-12-minutes.txt)
 
-## 2024-08-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District #505 held a special school board meeting on August 7, 2024.  The board reviewed and approved Grant Applicant Authorization Resolution 09-24. They also conducted a first review of Procedure 2151P – Interscholastic Activities, which will be brought back for a second review and approval at the next board meeting. The Director of Finance presented a year-end spending update and recommended moving forward with a Budget Extension hearing and resolution signing.  Marty Gray, a school board director, shared information about the upcoming football season.
+The Administrative Center Board Room will host a study session on Tuesday, November 12, 2024, at 6:00 PM.  The primary focus of the meeting is "2025-2026 Budget Development." During this discussion, the Board of Directors will review pertinent information related to the upcoming budget cycle. A file attachment titled "25-26 PPT - 2024_11_12.pdf" (568 KB) is available for reference.  The meeting agenda also includes standard items such as a call to order and a list of attendees.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-08-07-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, payro...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, payro...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve Grant Applicant Authorization Resolution 09-24 | Grant Applicant Authorization Resolution 09-24 was presented for a second review...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve Grant Applicant Authorization Resolution 09-24 | Grant Applicant Authorization Resolution 09-24 was presented for a second review...[truncated, use api for full text] |
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-12-agenda.txt)
 
-## 2024-07-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-10-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 Board held a regular meeting on July 23, 2024. Several policy updates were discussed and voted on, including the second review and approval of Procedure 2161P - Special Education and Related Services for Eligible Students, Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force, and Procedure 2151P – Interscholastic Activities. The latter failed to pass with a vote of zero in favor, four opposed, and one abstention after a lengthy discussion.  A first review was conducted for Grant Applicant Authorization Resolution 09-24 which will be brought back for second review and approval at the August 7th meeting. Additionally, Director of Technology Joe O'Brien presented the 2024-25 Technology Plan of Work outlining technology staff, support tick...[truncated, use api for full text]
+The Northshore School District Board of Directors held a special meeting on October 29, 2024, at Crystal Springs Elementary School. The purpose of the meeting was to conduct a Strategic Action Plan School Visit.  The visit lasted from 10:00 AM to 12:00 PM and included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley.  No specific details about the content of the visit or discussions are provided in the text. The minutes were approved on November 12, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-29-minutes.txt)
 
-### Board Member Actions
+## 2024-10-29 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_27.md) | voted no on motion to approve Procedure 2161P - Interscholastic Activities Eligibility | Procedure 2161P outlines rules for student participation in sports and extracurr...[truncated, use api for full text] |
+The agenda outlines a special meeting of the Board of Directors scheduled for Tuesday, October 29, 2024, at Crystal Springs Elementary School. The purpose of the meeting is a school visit as part of the implementation of their Strategic Action Plan.  The agenda includes sections for the commencement of the meeting, a list of attendees, discussion regarding the school visit, and the end of the meeting. No specific policies or resolutions are mentioned in the provided text.
 
-## 2024-07-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-29-agenda.txt)
 
-The Meridian School District #505 held a special school board meeting on July 10, 2024.  The board reviewed and approved the 2024-25 MSD Board Meeting Plan of Work Calendar. Additionally, they conducted a first review of Procedure 2151P – Interscholastic Activities, which will be brought back for a second review and approval at the next board meeting on July 23, 2024. The board also approved the MHS LOSS Drain Field Repair Contract presented by Jay Yeager, Director of Facilities and Maintenance.
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-10-minutes.txt)
+The Northshore School District Board of Directors held a study session on October 28, 2024, to review information on Superintendent Parameter 9 - Equity.  The meeting was called to order at 5:02 PM and adjourned at 6:42 PM.  Attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The specific content discussed regarding Superintendent Parameter 9 - Equity was not detailed in the provided text.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included accounts payable. |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt the consent agenda | The consent agenda included accounts payable. |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the 2024-25 MSD Board Meeting Plan of Work Calendar as presented | This was a second review and approval of the calendar. |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt the 2024-25 MSD Board Meeting Plan of Work Calendar as presented | This was a second review and approval of the calendar. |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for r...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for r...[truncated, use api for full text] |
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting agenda includes a discussion on the district's efforts to promote racial equity. Several documents are attached for review, including "DRAFT Discipline Protocols for Discrimination Incidents" and the "2024 Student Justice Conference Program." The session also features a presentation titled "P9 Study Session Slidedeck 10.28.24".  The Board will discuss various resources and initiatives aimed at fostering diversity and inclusion within the school district.
 
-The Meridian School District #505 held a regular school board meeting and budget hearing on June 26, 2024.  The meeting covered routine items such as approval of the agenda and consent agenda which included various agreements and personnel reports. A budget presentation and public comment period for the 2024-2025 budget were conducted with no public comment received. The board approved several resolutions including General Obligation Bonds Resolution 06-24, Reduction in Force Resolution 07-24, and a motion to approve naming the North Gym at Meridian High School "Diane Axelson Court".  
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
 
-The meeting also included first readings of several procedures, including Procedure 2161P - Special Education and Related Services for Eligible Students and Procedure 3246P - Restraint, Isolation and Other ...[truncated, use api for full text]
+## 2024-10-24 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-minutes.txt)
+The Northshore School District Board of Directors held a Quasi-Judicial Hearing on October 24, 2024.  The hearing was called to order at 4:30 PM and adjourned at 5:45 PM.  Those in attendance included board members Elisabeth Sotak, Jacqueline McGourty, Hân Trần, Sandy Hayes, and Amy Cast (President), as well as Superintendent Michael Tolley. The specific subject matter of the Quasi-Judicial Hearing is not detailed in the provided text.  The minutes were approved on October 28, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-24-minutes.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
+## 2024-10-24 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2024-06-12 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+This document outlines the agenda for an exempt session of a school board meeting scheduled for October 24, 2024. The session is classified as quasi-judicial and will not be open to the public. The purpose of the exempt meeting is to discuss collective bargaining strategies related to employee organizations, potentially including contract negotiations, grievance meetings, or discussions regarding labor agreement interpretation.  The document explicitly states that exempt sessions are closed to the public and outlines the legal basis for this exemption under RCW 42.30.140(4).
 
-The Meridian School District #505 Board meeting focused on various policy updates and reviews. Notably, the board approved Policy 4500 - Unmanned Aircraft System (Drones) and Policies & Procedures 6700 – Nutrition and 6702 – Wellness for a second reading.  Policy & Procedure 6703 - Recess and Physical Activity was presented for a first reading and approval. The board also reviewed and discussed the General Obligation Bonds Resolution 06-24, Reduction in Force Resolution 07-24, and a MAT Furlough MOU.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-24-agenda.txt)
 
-The meeting included updates on the district's budget and financial status.  Dr. Everett, the Superintendent, provided a report covering various school activities and events. The board also discussed upcoming kindergarten graduations and eighth grade promotion ceremonies.  Finally, the board ...[truncated, use api for full text]
+## 2024-10-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-12-minutes.txt)
+The Northshore School District Board of Directors held a Special Meeting on October 23, 2024, at Edmonds Woodway High School to address an Education Funding Crisis. The meeting, which lasted from 6:00 PM to 8:00 PM, was structured as a Town Hall and facilitated discussion regarding the crisis.  Attendees included Board members Elisabeth Sotak, Jacqueline McGourty, Hân Trần, Sandy Hayes, and President Amy Cast, along with Superintendent Michael Tolley. The minutes were approved on October 28, 2024, by both Mr. Tolley as Secretary to the Board and Ms. Cast as President.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-23-minutes.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to adopt the consent agenda |
-| [Steve Corwin](board_member_28.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to adopt the consent agenda |
-| [Michelle Simmons](board_member_30.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Steve Corwin](board_member_28.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jana Haugen](board_member_26.md) | voted yes | Motion to approve Policy  as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | Motion to approve Policy  as presented |
-| [Steve Corwin](board_member_28.md) | voted yes | Motion to approve Policy  as presented |
-| [Marty Gray](board_member_29.md) | voted yes | Motion to approve Policy  as presented |
-| [Michelle Simmons](board_member_30.md) | voted yes | Motion to approve Policy  as presented |
+## 2024-10-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2024-05-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Edmonds School District Board of Directors is holding a special meeting on Wednesday, October 23rd, 2024, at 6:00 PM. The meeting will be held at Edmonds Woodway High School to address the Education Funding Crisis. The purpose of the town hall is to discuss the challenges facing the district regarding education funding and engage with the community on potential solutions.  The Board of Directors will be in attendance to hear concerns and feedback from attendees.
 
-The Meridian School District #505 held a regular school board meeting on May 8, 2024.  The meeting covered a range of topics including the adoption of the consent agenda which included routine items such as personnel appointments and financial reports.  The Board reviewed several policies for first reading including the GCU Universal Field Placement Agreement, Resolution 04-24 - Authorizing the Commitment of Funds, and a Lead Water Action Plan. All three will be brought back for second review and approval at the May 22nd meeting.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-23-agenda.txt)
 
-The Superintendent's report highlighted several achievements including recognition received by Thrive award recipients and a $2.1 million Provision Legislative Award. He also discussed leadership changes planned for the 2024-25 school year, recent visits to skill...[truncated, use api for full text]
+## 2024-10-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-05-08-minutes.txt)
+The Northshore School District Board of Directors held a special meeting on October 15, 2024, at North Creek High School. The purpose of the meeting was to attend an i2109 Capital Gains Initiative Town Hall.  The meeting commenced at 6:00 PM and concluded at 8:00 PM. Attendees included Jacqueline McGourty, Sandy Hayes, and Amy Cast, President of the Board. The minutes were approved on October 28, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-15-minutes.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt the consent agenda |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt the consent agenda |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve the Sendan Center Contract as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve the Sendan Center Contract as presented |
+## 2024-10-15 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-## 2024-04-30 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The text outlines a school board meeting agenda for a "Special Meeting - School Visit" to Wellington Elementary School on October 15, 2024.  The purpose of the visit is listed as "Strategic Plan School Visit - Wellington Elementary School."  No specific details are provided regarding the content or goals of the strategic plan. The agenda includes standard sections for commencement of meeting, list of attendees, discussion, and end of meeting. All items are categorized as "Public Content".
 
-The Meridian School District #505 held a special school board meeting on April 30, 2024.  The meeting was called to order by Board President Steve Corwin and included discussion of the agenda which passed unanimously. The board then moved into executive session for the purpose of reviewing the performance of a public employee. No action was taken during the executive session.  The meeting adjourned at 5:40 pm.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-15-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-30-minutes.txt)
+## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-### Board Member Actions
+The Northshore School District Board of Directors held a study session on October 14, 2024, to review information regarding the 2025-2026 Budget Development.  The meeting was called to order at 6:30 PM and adjourned at 7:34 PM. In attendance were board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on October 28, 2024.
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the agenda | The motion passed 4-0. |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt the agenda | The motion passed 4-0. |
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-14-minutes.txt)
 
-## 2024-04-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District #505 held a regular school board meeting on April 24, 2024.  The meeting covered routine items such as approval of minutes, accounts payable, personnel reports, and donations. Several new policies were introduced for a first reading, including Policy and Procedure 4001 - Public Information Program, Policy and Procedure 4040 – Public Access to District Records, and Policy and Procedure 4060 – Distribution of Information. These policies will be reviewed again at the May 8th meeting. The board also reviewed a Sendan Center Contract for the first time.  The Finance Director presented a budget update report and an overview of the 2024-25 budget process. There was no public comment or information shared from student representatives or board directors. The meeting adj...[truncated, use api for full text]
+The October 14th, 2024 study session agenda for the school board focuses on reviewing information related to the 2025-2026 budget development.  The meeting will take place at 6:00 PM in the Administrative Center Board Room and is categorized as a public content meeting. A file attachment titled "25-26 PPT - October 14 as of 10.10.24.pdf" (502 KB) is included with the agenda, suggesting that detailed budget proposals will be presented for discussion.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-14-agenda.txt)
 
-### Board Member Actions
+## 2024-10-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Perso...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Perso...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Perso...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Perso...[truncated, use api for full text] |
+The Northshore School District Board of Directors held a special meeting on October 10, 2024, at 5:00 PM to commemorate the groundbreaking ceremony for Maywood Hills Elementary School.  The meeting, which lasted until 6:00 PM, saw the attendance of board members Elisabeth Sotak, Jacqueline McGourty, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The purpose of the meeting was solely to acknowledge and celebrate this milestone in the construction of a new elementary school.
 
-## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-10-minutes.txt)
 
-The Meridian School District #505 held a regular school board meeting on April 10, 2024.  The agenda included several items related to curriculum and policy updates. The board reviewed and adopted Eureka Math² and Adíos Textbook as new curriculum materials. They also approved Policy and Procedure 2121 (substance abuse), Policy and Procedure 3122 (harassment, intimidation and bullying) and Policy and Procedure 4230 (emergency preparedness).  
+## 2024-10-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The board discussed and approved several resolutions including Emergency Repair Resolution 02-24 and Resolution 03-24 - Emergency Declaration and Waiving Bid Laws. The purpose of these resolutions was not explicitly stated in the provided text. Additionally, a first review was conducted for the BTC Admission Data Sharing Interlocal Agreement, which wi...[truncated, use api for full text]
+The text outlines a special meeting of the Board of Directors for the groundbreaking ceremony of Maywood Hills Elementary School on October 10th, 2024.  The agenda includes commencement of the meeting, a list of attendees, and a discussion regarding the groundbreaking ceremony itself. The Board will be attending the ceremony as part of the event.  There are no details provided about any specific policies or curriculum changes.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-10-agenda.txt)
 
-## 2024-03-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-10-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on March 20, 2024.  The meeting covered a range of topics including curriculum adoption, policy reviews and updates, and financial reports. 
+The Northshore School District Board of Directors held a Special Meeting at 5:00 PM on October 9, 2024, at Woodin Elementary School for the purpose of attending the school's groundbreaking ceremony.  The meeting was called to order and adjourned by Amy Cast, President of the Board.  Attendees included board members Elisabeth Sotak, Jacqueline McGourty, Hân Trần, and Sandy Hayes, as well as Superintendent Michael Tolley. The meeting concluded at 6:00 PM.  The minutes were approved on October 14, 2024.
 
-The board conducted first reviews of several proposed policies: Policy and Procedure 2121 – Substance Abuse Program, Policy and Procedure 3116 - Students in Foster Care, and Policy and Procedure 3225 - School Based Threat Assessment. These policies will be brought back for a second review and potential approval at the April 10, 2024 meeting.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-09-minutes.txt)
 
-Additionally, Director of Teaching and Learning Adrienne Somera presented Eureka Math² and Adíos Textbook curriculum materials for a first review as part of a core curriculum adoption process. This will also be revisited at the April meeting. ...[truncated, use api for full text]
+## 2024-10-09 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-minutes.txt)
+The Northshore School District Board of Directors will attend a groundbreaking ceremony for Woodin Elementary School on October 9, 2024. This special meeting is open to the public and will include a list of attendees and a discussion regarding the ceremony.  There are no policy changes or specific resolutions mentioned in this agenda excerpt. The event highlights community engagement as the school board participates in a significant milestone for the district.
 
-## 2024-03-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-09-agenda.txt)
 
-The Meridian School District #505 held a joint work session and regular school board meeting on March 6, 2024.  The meeting included presentations from various departments highlighting student progress in PLC reports for Art, First Grade Writing, and Middle School Science. Additionally, the MHS Principal provided updates on accreditation, graduation rates, and the CTE program. The Board reviewed and approved several policies including Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, Policy 6111 - Tuition, and the 2024-2027 School Year Calendars. They also approved Resolution 01-24: OSPI 180 Day Waiver.  Notably, the meeting included a discussion on school safety as part of the MHS School Report.  The Board addressed academic standard...[truncated, use api for full text]
+## 2024-10-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-06-minutes.txt)
+The Northshore School District Board of Directors held a Special Meeting on October 8, 2024, at 5:00 PM for the Kenmore Elementary Groundbreaking Ceremony.  The meeting was attended by board members Elisabeth Sotak, Jacqueline McGourty, Amy Cast (President), and JoLynn Berge (Deputy Superintendent). The ceremony marked the commencement of construction for a new elementary school building. The meeting concluded at 6:00 PM.
 
-## 2024-02-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-08-minutes.txt)
 
-The Meridian School District #505 held a special session meeting on February 26, 2024, to discuss opposition to two bills: ESB 5462 and ESHB 2331.  The board unanimously voted to proceed with signing a letter of opposition to these bills, which were addressed to Senator Shewmake, Representative Rule, and Representative Timmons. The specific content of the bills and the reasoning behind the board's opposition were not detailed in the provided text.
+## 2024-10-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-26-minutes.txt)
+The text details a public meeting agenda for a "Special Meeting - Kenmore Elementary Groundbreaking" to be held on October 8, 2024.  The meeting will include the commencement of the meeting, a list of attendees, and a discussion regarding the groundbreaking ceremony for Kenmore Elementary.  The Board of Directors will be in attendance at the ceremony. The agenda concludes with an "End of Meeting" section.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-08-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+## 2024-10-03 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-## 2024-02-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Northshore School District Board of Directors held a special meeting on October 3, 2024, to attend the Career and Technical Education (CTE) Fall Kickoff Event. The event, focused on promoting career and technical education programs, lasted from 5:00 PM to 6:30 PM.  Attendees included board members Hân Trần, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley.
 
-The Meridian School District #505 held a special meeting on February 23, 2024 to discuss opposition to proposed bills ESB 5462 and ESHB 2331.  The board decided to draft a letter of opposition to Senator Shewmake, Representative Timmons, and Representative Rule instead of moving forward with a resolution. A follow-up meeting was scheduled for February 26, 2024 at 7:00 am to continue the discussion. Board member Marty Gray requested to abstain from attending the February 26th meeting and asked that his name not be included on the letter of opposition.  The meeting adjourned at 4:12 pm.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-03-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-23-minutes.txt)
+## 2024-10-03 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-### Board Member Actions
+The text outlines a special meeting of the Board of Directors for a Career and Technical Education (CTE) Fall Kick-Off Event.  The meeting will take place on Thursday, October 3, 2024, at 5:00 PM in the Administrative Center Board Room. The agenda includes commencement of the meeting, a list of attendees, discussion regarding the CTE Fall Kick-Off Event, and the end of the meeting. There are no mentions of specific policies or resolutions related to school safety or student health beyond the general context of the event focusing on Career and Technical Education.
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | abstained from voting on the motion to draft a letter of opposition to ESB 5462 and ESHB 2331 and requested his name not...[truncated, use api for full text] | The Board decided to draft a letter of opposition instead of moving forward with...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with...[truncated, use api for full text] |
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-03-agenda.txt)
 
-## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-09-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District held a regular school board meeting on February 21, 2024.  The agenda included a work session on the WSSDA Board Bootcamp and several policy readings for first review.  These policies included Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, Policy 6111 - Tuition, and the 2024-2027 School Year Calendars. Resolution 01-24: OSPI 180 Day Waiver was also presented for first review. The board discussed opposition to HB 5462 and ESHB 2331 and scheduled a special session meeting to continue the discussion.  The Superintendent provided updates on community support for the levy election, his involvement with AASA, and upcoming advocacy opportunities. Student Board Representatives shared insights about their partic...[truncated, use api for full text]
+The Northshore School District Board of Directors held a Special Meeting on September 30, 2024, at 5:00 PM to commemorate the groundbreaking ceremony for Crystal Springs Elementary.  The meeting, which lasted until 6:00 PM, saw attendance from board members Hân Trần, Elisabeth Sotak, Jacqueline McGourty, and Amy Cast (President), along with Superintendent Michael Tolley. The primary focus of the meeting was the ceremonial event marking the commencement of construction for the new elementary school.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-30-minutes.txt)
 
-### Board Member Actions
+## 2024-09-30 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible a...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by J...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible a...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by J...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible a...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by J...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible a...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by J...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible a...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by J...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review...[truncated, use api for full text] |
+The text details a "Special Meeting - Crystal Springs Elementary Groundbreaking Ceremony" scheduled for September 30, 2024, at 5:00 PM.  The meeting will be held at the future site of the school, located at 21615 9th Avenue SE in Bothell, WA. The agenda includes a commencement of meeting, a list of attendees, discussion regarding the groundbreaking ceremony itself and an end of meeting designation.
 
-## 2024-02-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Board of Directors will be attending the ceremony which is intended to mark the beginning of construction for the new Crystal Springs Elementary School.  No specific policies or resolutions are mentioned in the text.
 
-The Meridian School District Board held a regular meeting on February 7, 2024.  The meeting included standard agenda items such as approval of consent agenda items (meeting minutes, accounts payable, payroll, personnel report, student travel, and addition of instructional materials committee members), recognition of students for their persuasive writing projects, and reports from Professional Learning Communities (PLCs) on kindergarten phonics, middle school math progress, high school biology standards, and elementary STEAM math focus.  
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-30-agenda.txt)
 
-The board reviewed and approved several policies including Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from ...[truncated, use api for full text]
+## 2024-09-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-07-minutes.txt)
+The Northshore School District Board of Directors held a Special Meeting on September 26, 2024, at 5:00 PM to commemorate the groundbreaking ceremony for the Sorenson Early Childhood Center and Westhill Elementary.  The meeting, which lasted until 6:00 PM, was attended by board members Hân Trần, Elisabeth Sotak, Jacqueline McGourty, and Amy Cast (President), along with Superintendent Michael Tolley. The purpose of the meeting was solely to acknowledge and celebrate the start of construction for these new educational facilities.  The minutes were approved on October 14, 2024, by both Mr. Tolley (Secretary to the Board) and Amy Cast (President).
 
-## 2024-01-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-26-minutes.txt)
 
-The Meridian School District #505 held a regular school board meeting on January 24, 2024.  The meeting covered a range of topics including curriculum and policy updates. The board reviewed and approved the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work. Three new policies were introduced for first reading: Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment. These will be revisited at the February 7th meeting for second review and potential approval.  The board also appointed Michelle Simmons as the Legislative Representative and Jana Haugen as the WIAA Board Representative. During the superintendent's report, Dr. Ev...[truncated, use api for full text]
+## 2024-09-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
+The Northshore School District Board of Directors will be attending a groundbreaking ceremony for the Sorenson Early Learning Center and Westhill Elementary School on September 26, 2024, at 5:00 PM.  The event is open to the public and will be held at 19705 88th Avenue NE in Bothell, WA. The ceremony marks the beginning of construction for these new educational facilities.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-26-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts ...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts ...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
+## 2024-09-25 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+The Northshore School District Board of Directors held a special meeting at 5:00 PM on September 25, 2024, to commemorate the groundbreaking ceremony for Fernwood Elementary School.  The meeting, which lasted until 6:00 PM, saw attendance from board members Hân Trần, Jacqueline McGourty, and Amy Cast (President), along with Superintendent Michael Tolley. The purpose of the meeting was solely to celebrate the construction commencement of the new elementary school. No policy discussions or resolutions were presented or approved during this ceremonial gathering.
 
-The Meridian School District #505 held a regular board meeting on January 10, 2024.  The meeting included an executive session for reviewing the performance of a public employee, followed by a reconvened regular meeting. The agenda covered standard topics such as approval of minutes, personnel reports, and accounts payable.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-25-minutes.txt)
 
-Recognition was given to the school board and Meridian Middle School staff. Reports were presented on school data, including PLC presentations from MMS Social Studies and IRE fourth grade teams. There was no public comment. 
+## 2024-09-25 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The board reviewed proposed changes to MSD Board Operating Protocols and the Revised 2023-24 Plan of Work for a first reading, with final approval scheduled for the January 24th meeting. The Superintendent's report covered district activities, inc...[truncated, use api for full text]
+The text outlines a public meeting agenda for the Fernwood Elementary Groundbreaking Ceremony on September 25, 2024, at 5:00 PM.  The ceremony will be held at 3933 Jewell Road in Bothell, WA 98012. The meeting agenda includes sections for commencement of the meeting, a list of attendees, discussion regarding the groundbreaking ceremony, and the end of the meeting.  The Board of Directors will be present at the event.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-25-agenda.txt)
 
-### Board Member Actions
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_30.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
-| [Steve Corwin](board_member_28.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Boa...[truncated, use api for full text] |
+The Northshore School District Board of Directors held a study session on September 23, 2024, to discuss the upcoming school year.  The board reviewed budget items (referred to as "B's and R's") and discussed plans for the "Conversations With the Board" program for the 2024-2025 academic year. The session was adjourned at 6:43 PM.  No specific policies or policy changes were mentioned in the provided text.
 
-## 2024-01-03 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-23-minutes.txt)
 
-The Meridian School District #505 held a special meeting and work session on January 3rd, 2024.  The board reviewed the consent agenda which included accounts payable. During the work session, the board discussed WSSDA Roles and Responsibilities, likely referring to the Washington State School Directors' Association. The text does not provide details about specific policy changes or resolutions considered during the meeting.
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-03-minutes.txt)
+The Northshore School District Board of Directors is reviewing Superintendent Parameter policies which outline the limits placed on executive authority. Specifically, they are examining Parameter 4 regarding Superintendent Communication to the Board and Parameter 5 concerning Public Reports.  These reviews are part of the annual monitoring process for these parameters. The Board also reviewed reports submitted by the superintendent demonstrating compliance with existing policy.  No changes to the policies were explicitly mentioned in this text.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-23-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
+## 2024-09-20 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on September 20, 2024, to attend the WSSDA General Assembly. The meeting commenced at 8:00 AM and concluded at 4:00 PM.  The Board's attendance at the assembly constituted the entirety of the meeting's business. No further details regarding specific discussions or outcomes from the assembly are provided in the text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-20-minutes.txt)
+
+## 2024-09-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+This document outlines Policy B-8 regarding the recording and retention of minutes for the Board of Directors.  The policy mandates that the recording secretary record all board meetings, with minutes becoming official upon approval by the board. The minutes must comprehensively detail meeting information such as date, time, location, presiding officer, attendees, discussion topics, voting outcomes, executive session details, and adjournment time.  Recordings of meetings are also required to be retained according to Washington State Records Retention Schedule. Unofficial minutes are shared with board members prior to the next meeting and made available to the public. A permanent file of all board meeting minutes is maintained in the board secretary's office for public inspection. The polic...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-11-minutes.txt)
+
+## 2024-09-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on September 9, 2024, to discuss the Teacher and Principal Evaluation Program (TPEP). The meeting, which began at 6:45 PM and concluded at 7:45 PM, included all board members and Superintendent Michael Tolley.  The discussion centered around the TPEP, a program designed to evaluate teacher and principal performance. No specific changes or updates to the program were mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-09-minutes.txt)
+
+## 2024-09-09 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This document appears to be a section of meeting minutes from a school board. It details various items discussed during the meeting, including:
+
+* **Human Resources:** A discussion about the Superintendent's contract renewal and salary.
+* **Financial Reports:** Monthly budget status reports and fund balance allocation reports for capital projects.
+* **Construction Updates:** Signed construction agreements for 2022 bond projects and project acceptance for smaller projects under $1 million.
+
+The document also mentions a policy regarding administrative procedure 9246P, which likely governs construction contracts and easements.
+
+**Note:** The last part of your input seems unrelated to the meeting minutes and appears to be a list of keywords related to education policy debates. It's unclear why...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-09-agenda.txt)
+
+## 2024-09-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on September 4, 2024, at Bothell High School to dedicate Zach LaVine Court and retire his jersey.  The meeting commenced at 8:30 AM and concluded at 9:30 AM. Attendees included board members Hân Trần, Jacqueline McGourty, and Amy Cast (President). The event celebrated the achievements of Zach LaVine, a former Bothell High School student who went on to play in the NBA.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-04-minutes.txt)
+
+## 2024-09-04 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Bothell High School Board of Directors will be attending a special meeting on September 4th, 2024 at 8:30 AM.  The purpose of the meeting is to dedicate a basketball court in honor of Zach LaVine and retire his jersey number. This event celebrates the athletic achievements of a former student and aims to foster school spirit and pride.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-04-agenda.txt)
+
+## 2024-08-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on August 26, 2024, to discuss legislative priorities and planning for the Washington State School Directors' Association (WSSDA) General Assembly.  The meeting was called to order at 5:30 PM and adjourned at 6:41 PM. Attendees included board members Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on September 9, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-26-minutes.txt)
+
+## 2024-08-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors for an unspecified school district will hold a study session on August 26, 2024.  The agenda includes a discussion on "General Assembly and Legislative Priorities." This suggests the board will be reviewing potential changes to academic standards or curriculum transparency measures proposed by the General Assembly. Additionally, the meeting agenda indicates a focus on developing long-term strategic plans for the school district.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-26-agenda.txt)
+
+## 2024-08-25 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on August 25, 2024, focused on a Community Serve Day.  Board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and President Amy Cast participated in service activities at various school locations. The meeting commenced at 9:00 AM and concluded at 1:00 PM.  The minutes were approved on September 9, 2024, by Mr. Michael Tolley, Secretary to the Board, and President Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-25-minutes.txt)
+
+## 2024-08-25 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a meeting agenda for the Board of Directors on August 25th, 2024. This "Special Meeting" focuses on "Community Serve Day," where the board members will participate in service activities at various school locations.  The agenda includes sections for commencement, attendee listing, discussion regarding Community Serve Day, and concluding remarks. No specific policies or resolutions are mentioned. The meeting is categorized as "Public Content."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-25-agenda.txt)
+
+## 2024-08-20 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting in the form of a Community Town Hall at the Kenmore Community Club on August 20, 2024. The meeting's purpose was to discuss the I-2117 initiative, though specific details regarding the content of the discussion are not included in the provided text.  The meeting commenced at 6:00 PM and concluded at 7:30 PM. Attendees included Board members Sandy Hayes, Jacqueline McGourty, and Amy Cast (President). The minutes were approved on September 9, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-20-minutes.txt)
+
+## 2024-08-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Board of Directors for Pop Keeney Stadium held a Special Meeting on August 19, 2024, for a board retreat focused on planning and self-assessment.  The meeting began at 4:30 PM and concluded at 7:52 PM. Attendees included board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were generated by Peggy King on August 20, 2024, and approved on August 26, 2024, by Mr. Michael Tolley (Secretary to the Board) and Amy Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-19-minutes.txt)
+
+## 2024-08-19 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a school board retreat agenda for August 19th, 2024.  The purpose of the retreat is to discuss and plan topics outlined in an attached document titled "School Board Retreat Agenda - 2024_8_19.pdf".  The agenda includes sections for a call to order, listing attendees, discussion time dedicated to the board retreat itself, and concluding with an end of meeting designation.  No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-19-agenda.txt)
+
+## 2024-08-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Board of Directors of Pop Keeney Stadium held a Special Meeting on August 15, 2024, at 6:00 PM for the purpose of attending The Wall of Honor Ceremony.  Due to insufficient attendance, a quorum was not reached. The meeting adjourned at 7:30 PM. The minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-15-minutes.txt)
+
+## 2024-08-15 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a special meeting of the Board of Directors on August 15, 2024, at Pop Keeney Stadium. The purpose of the meeting is to hold a Wall of Honor Ceremony.  The agenda includes a commencement of the meeting, a list of attendees, a discussion period focused on the ceremony itself, and an end of meeting designation.  There are no policy changes or specific resolutions mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-15-agenda.txt)
+
+## 2024-08-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Board of Directors of an unspecified school district held a special meeting on August 12, 2024, to welcome a new administrator.  The meeting commenced at 4:00 PM and concluded at 4:20 PM. Attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), along with Superintendent Michael Tolley. The purpose of the meeting was solely for the introduction and meet-and-greet with the new administrator.  The minutes were approved on August 26, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-12-minutes.txt)
+
+## 2024-08-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text describes a special meeting of the Board of Directors on August 12, 2024.  The purpose of the meeting is to host a "Meet and Greet" for new administrators who will be joining the school district for the 2024-2025 academic year.  The meeting agenda includes standard sections such as commencement, list of attendees, discussion, and end of meeting. The "Discussion" section specifically mentions that the Board of Directors will meet the new administrators.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-12-agenda.txt)
+
+## 2024-08-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on August 8, 2024, at Pop Keeney Stadium. The purpose of the meeting was to attend the Back to School Resource Fair, an event aimed at connecting families with community resources and preparing students for the upcoming academic year.  The meeting commenced at 4:00 PM and concluded at 5:30 PM. Attendees included board members Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President). The minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-08-minutes.txt)
+
+## 2024-08-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a public meeting of the Board of Directors scheduled for August 8th, 2024.  The purpose of this special meeting is to hold a Back to School Resource Fair at Pop Keeney Stadium starting at 4:00 PM. The agenda includes a commencement of the meeting, a list of attendees, a discussion period focused on the resource fair itself, and an end of meeting designation. The Board of Directors will be present at the resource fair.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-08-agenda.txt)
+
+## 2024-08-07 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on August 7, 2024, at North Creek High School for a Leadership Learning Week event.  The meeting began at 7:30 AM and concluded at 9:30 AM. Attendees included board members Sandy Hayes, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley. The purpose of the meeting was for the Board of Directors to participate in a Leadership Learning Meeting. No specific policies or resolutions were discussed during this meeting.  The minutes were approved on August 26, 2024, by both Mr. Michael Tolley (Secretary to the Board) and Amy Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-07-minutes.txt)
+
+## 2024-08-07 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The North Creek High School Board of Directors will be attending a portion (approximately 2.5 hours) of Leadership Learning Week at the school on Wednesday, August 7th, 2024. This special meeting is focused on leadership development for the board members.  The agenda includes a commencement of the meeting, a list of attendees, a discussion period focused on Leadership Learning Week, and an end of meeting designation.  No specific policy changes or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-07-agenda.txt)
+
+## 2024-08-06 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on August 6, 2024, at North Creek High School.  The meeting was part of a Leadership Learning Week and focused on professional development for the board members. The meeting commenced at 7:30 AM and concluded at 9:30 AM.  All five board members were present: Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President). No specific policies or resolutions were discussed during this meeting focused on professional development. The minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-06-minutes.txt)
+
+## 2024-08-06 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The North Creek High School Board of Directors will attend a portion (approximately 2.5 hours) of Leadership Learning Week at the school on Tuesday, August 6th, 2024.  The meeting agenda indicates that this is a special meeting focused on leadership learning. No further details are provided about the content of the Leadership Learning Week program.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-06-agenda.txt)
+
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+This document details the minutes from a Northshore School District board meeting.  It covers routine agenda items such as budget reports, contract awards for services like food and beverage provision and copier maintenance, and construction updates for school renovation projects. The board also approved an amendment to a contract related to the Leota Middle School Phase 1 Replacement Project. There are no mentions of topics typically associated with culture war debates in education.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
+
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-07-08-agenda.txt)
+
+## 2024-06-24 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a closed executive session on June 24, 2024, to discuss the transfer of a district employee.  The session, which lasted for approximately 15 minutes beyond its initial allotted time, was conducted in accordance with RCW 28A.405.230. No action was taken by the Board during the executive session. The meeting minutes were approved on July 8, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-24-minutes.txt)
+
+## 2024-06-24 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda outlines a closed executive session scheduled for June 24, 2024, to discuss the transfer of a district employee.  The meeting will be conducted in accordance with RCW 28A.405.230, which governs personnel matters and allows for confidential discussions. The board may take action regarding the employee's transfer following the executive session. The specific reasons for the employee's transfer are not disclosed in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-24-agenda.txt)
+
+## 2024-06-21 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on June 21, 2024, to attend the Innovation Lab High School Graduation ceremony at the Northshore Concert Hall.  The meeting commenced at 7:35 PM and concluded at 7:45 PM. All board members, including Sandy Hayes, Jacqueline McGourty, Elisabeth Sotak, Amy Cast (President), and Superintendent Michael Tolley were in attendance. The meeting's purpose was solely to observe the graduation ceremony, highlighting the Board's role in supporting student milestones and autonomy.  The minutes were approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-21-minutes.txt)
+
+## 2024-06-21 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Innovation Lab High School Graduation is scheduled for Friday, June 21, 2024, at 6:00 PM in the Northshore Concert Hall. The Board of Directors will be attending this special meeting to celebrate the graduating class.  The text provided focuses on logistical details such as date, time, and location, and outlines the agenda for the meeting which includes commencement, a list of attendees, discussion regarding the graduation ceremony, and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-21-agenda.txt)
+
+## 2024-06-20 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on June 20, 2024, at the Northshore Concert Hall to attend the Northshore Learning Options Graduation ceremony.  The meeting commenced at 6:00 PM and concluded at 7:00 PM.  Board members present included Sandy Hayes, Jacqueline McGourty, Hân Trần, Elisabeth Sotak, and Amy Cast (President). Superintendent Michael Tolley was also in attendance. The meeting minutes were approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-20-minutes.txt)
+
+## 2024-06-20 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore Board of Directors will be attending the Northshore Learning Options Graduation ceremony at the Northshore Concert Hall on June 20, 2024. This meeting is categorized as a "Special Meeting" and focuses on celebrating the graduation of students from the Northshore Learning Options program.  No specific policies or curriculum changes are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-20-agenda.txt)
+
+## 2024-06-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 18, 2024, at Pop Keeney Stadium to attend the Inglemoor High School Graduation.  The meeting commenced at 6:00 PM and concluded at 7:15 PM. All board members, including President Amy Cast and Superintendent Michael Tolley, were in attendance. The purpose of the special meeting was solely to observe the graduation ceremony, signifying the board's involvement in celebrating student achievement. The minutes were approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-18-minutes.txt)
+
+## 2024-06-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Lake Washington School District Board of Directors will be attending the Inglemoor High School Graduation ceremony on June 18th, 2024 at 6:00 PM.  The event will take place at Pop Keeney Stadium. The agenda includes a commencement of the meeting, a list of attendees, a discussion period focused on the graduation ceremony itself, and an end of meeting designation. The Board's attendance signifies their involvement in this important school milestone related to student health and well-being.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-18-agenda.txt)
+
+## 2024-06-17 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 17, 2024, at Pop Keeney Stadium to attend the North Creek High School Graduation ceremony.  The meeting commenced at 6:00 PM and concluded at 7:37 PM. All board members, including President Amy Cast and Superintendent Michael Tolley, were present. The purpose of the special meeting was solely to attend the graduation ceremony and no other business was discussed.  The minutes were approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-17-minutes.txt)
+
+## 2024-06-17 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a special meeting of the Board of Directors on June 17th, 2024. The purpose of the meeting is to attend the North Creek High School Graduation ceremony at Pop Keeney Stadium.  The agenda includes standard elements like commencement of the meeting, a list of attendees, and discussion points focused on the graduation event itself. The text emphasizes that the Board will be present at the graduation ceremony, highlighting their role in supporting student milestones and celebrating academic achievements.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-17-agenda.txt)
+
+## 2024-06-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 14, 2024, to attend the Secondary Academy for Success Graduation ceremony at the Northshore Concert Hall. The meeting commenced at 7:00 PM and concluded at 8:30 PM.  All board members, including President Amy Cast and Superintendent Michael Tolley, were present.  The minutes were approved on June 24, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-14-minutes.txt)
+
+## 2024-06-14 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text details a school board meeting agenda for a special meeting on June 14, 2024. The purpose of the meeting is to attend the graduation ceremony for the Secondary Academy for Success.  The agenda includes standard sections such as commencement of meeting, list of attendees, discussion and end of meeting.  No other topics are mentioned.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-14-agenda.txt)
+
+## 2024-06-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on June 13, 2024, to attend the Northshore Retiree Event.  The meeting commenced at 4:30 PM and concluded at 6:35 PM. Attendees included board members Sandy Hayes, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley. The purpose of the meeting was solely to participate in the retiree event. No formal discussions or actions were taken during this gathering. The minutes were approved on June 24, 2024, by both Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-13-minutes.txt)
+
+## 2024-06-13 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School Board will be holding a special meeting on Thursday, June 13, 2024 at 4:30 PM in the Administrative Center Board Room. The purpose of the meeting is to attend a Northshore Retiree Event. The agenda includes sections for Commencement of Meeting, List of Attendees, Discussion, and End of Meeting.  The discussion portion notes that "The Board of Directors will attend the Northshore Retiree Event."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-13-agenda.txt)
+
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on June 11, 2024, to celebrate the Adult Transition Pathways program at Support Services. The meeting began at 6:00 PM and concluded at 7:00 PM.  Board members in attendance included Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley. The purpose of the meeting was to recognize and celebrate the achievements of students within the Adult Transition Pathways program.  No policy changes or resolutions were discussed or enacted during this celebratory meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-11-minutes.txt)
+
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines an agenda for a special meeting of the school board focused on celebrating "Adult Transition Pathways."  The meeting will include a commencement, a list of attendees, a discussion period dedicated to the celebration, and an end of meeting segment. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-11-agenda.txt)
+
+## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on June 10, 2024, to attend the Adults Transitioning to Independence Graduation ceremony at North Creek High School. The meeting commenced at 6:00 PM and concluded at 7:00 PM.  The attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The purpose of the meeting was solely to attend the graduation ceremony for students in the Adults Transitioning to Independence program.  No other discussions or actions were taken during this Special Meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-10-minutes.txt)
+
+## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School District Board is considering approving new supplemental and core curriculum materials for high school English Language Arts (ELA) and Physics courses. 
+
+The proposed ELA novels aim to enhance the existing curriculum by introducing diverse perspectives and underrepresented voices through various titles selected by the ELA Novel Study Committee. A new edition of a previously approved textbook, Chemistry Course Companion, is also being considered. The Board is also reviewing Peer Physics, a POGIL (Process Oriented Guided Inquiry Learning) curriculum for 
+Fiscal Year 2024
+
+summary: This agenda item requests approval from the Northshore School District Board to accept the April 2024
+
+
+The board will be reviewing a report detailing the allocation of funds within the Capita...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-10-agenda.txt)
+
+## 2024-06-07 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 7, 2024, at Eastside Church to attend the Northshore PTSA Council Spring Recognition event. The meeting commenced at 10:30 AM and concluded at 12:45 PM.  Attendees included board members Sandy Hayes, Jacqueline McGourty, and Amy Cast (President). This meeting appears to be a routine recognition of community involvement and does not address any specific policies or controversies.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-07-minutes.txt)
+
+## 2024-06-07 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore PTSA Council is holding a Special Meeting on Friday, June 7, 2024, at 10:30 AM at Eastside Church.  The meeting's purpose is the "Northshore PTSA Council Spring Recognition". The agenda includes commencement of the meeting, a list of attendees, discussion regarding the recognition event, and the end of the meeting. The Board of Directors will be in attendance.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-07-agenda.txt)
+
+## 2024-06-06 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on June 6, 2024, at 5:00 PM to attend the CTE Spring Recognition event.  The meeting was adjourned at 6:30 PM.  Attendees included board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on June 10, 2024, by Mr. Tolley (Secretary to the Board) and Amy Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-06-minutes.txt)
+
+## 2024-06-06 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines an agenda for a "Special Meeting - CTE Spring Celebration" hosted by the Board of Directors on June 6, 2024.  The meeting will include standard procedural elements such as commencement, attendance confirmation and discussion. The primary focus of the discussion is the Board's participation in the CTE Spring Celebration. No specific policies are mentioned or discussed within the agenda text provided.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-06-agenda.txt)
+
+## 2024-06-03 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting with the Bothell City Council on June 3, 2024, to discuss topics of mutual interest.  The meeting was called to order at 6:00 PM and adjourned at 7:32 PM. Attendees included board members Elisabeth Sotak, Jacqueline McGourty, Hân Trần, and Amy Cast (President), as well as Superintendent Michael Tolley. The agenda did not specify the topics discussed.  The minutes were approved on June 10, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-03-minutes.txt)
+
+## 2024-06-03 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text details an agenda for a joint meeting between the Board of Directors and the Bothell City Council scheduled for June 3rd, 2024.  The purpose of the meeting is to discuss topics of mutual interest. A document titled "Joint Meeting Topics 2024_6_3.pdf" outlining these specific topics is attached but not included in the provided text. The agenda structure includes sections for Call to Order, List of Attendees, Discussion, and End of Meeting.  All items on the agenda are designated as "Public Content".
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-03-agenda.txt)
+
+## 2024-05-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting titled "Conversations With the Board" at Inglemoor High School Library on May 29, 2024.  The meeting, which began at 6:00 PM and concluded at 7:30 PM, facilitated discussion between board members and community members. The attendees included board members Elisabeth Sotak, Sandy Hayes, Hân Trần, Jacqueline McGourty, and Amy Cast (President), along with Superintendent Michael Tolley.  The meeting minutes were approved on June 10, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-29-minutes.txt)
+
+## 2024-05-29 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Inglemoor High School Board is holding a special meeting on Wednesday, May 29, 2024 at 6:00 PM in the school library.  The purpose of the meeting is to have "Conversations With the Board" regarding the 2024-2025 budget and moving forward with partners. The agenda includes sections for commencement of the meeting, a list of attendees, discussion on the budget, and the end of the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-29-agenda.txt)
+
+## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened in a closed executive session on May 28, 2024, to review the performance of an employee.  The meeting lasted for 45 minutes and was held pursuant to RCW 42.30.110(g), which permits closed sessions for discussing personnel matters. The board recessed into the executive session at 4:01 PM and reconvened for adjournment at 4:46 PM.  The meeting minutes were approved on June 10, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-minutes.txt)
+
+## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM in the Administrative Center Board Room to discuss Goal 4 - Innovative, Creative, Critical Thinkers.  The meeting agenda includes a review of information related to this goal. Supporting documents for review include "Goal 4 Slide Deck," "SG4-2023-2024-Report-Final," and "G-1_Goals_last reviewed_2_13_2023."  The meeting will conclude with an end of meeting summary.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-agenda.txt)
+
+## 2024-05-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened in a closed executive session on May 22, 2024, to review the performance of a public employee.  The meeting was called to order at 5:30 PM and recessed into executive session for up to two hours. The purpose of the executive session, as per RCW 42.30.100(g), was to discuss personnel matters in private. The meeting adjourned at 7:30 PM.  The minutes were approved on May 28, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-22-minutes.txt)
+
+## 2024-05-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text details an agenda for a closed executive session meeting of the Board of Directors on May 22, 2024.  The purpose of the executive session, as stated in the agenda, is to review the performance of a public employee per RCW 42.30.100(g). The session is anticipated to last up to two hours. Following the executive session, the meeting will be reconvened for adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-22-agenda.txt)
+
+## 2024-05-21 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on May 21, 2024, at the Northshore Concert Hall to attend the C.P. and Dorothy Johnson Award Ceremony. The meeting commenced at 6:00 PM and concluded at 7:00 PM.  Attendees included board members Hân Trần, Elisabeth Sotak, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on May 28, 2024, by both Mr. Tolley (Secretary to the Board) and Amy Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-21-minutes.txt)
+
+## 2024-05-21 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore Scholarship Foundation is hosting a breakfast meeting on Tuesday, May 21, 2024, at 7:00 AM at Evergreen Church.  The Board of Directors will be attending the event. This appears to be a community engagement opportunity for the school board.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-21-agenda.txt)
+
+## 2024-05-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on May 13, 2024, to discuss future board advocacy.  The meeting was called to order at 5:20 PM and adjourned at 6:20 PM. In attendance were Elisabeth Sotak, Hân Trần (remote), Sandy Hayes, Amy Cast (President), and Mr. Michael Tolley (Superintendent). The specific content of the discussion regarding future board advocacy is not included in the provided text.  The minutes were approved on May 28, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-13-minutes.txt)
+
+## 2024-05-13 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The document outlines the agenda for a closed executive session of the Board of Directors on May 13, 2024.  The purpose of the session is to discuss legal matters in accordance with RCW 42.30.140(4), which pertains to exemptions from public disclosure requirements for executive sessions related to litigation or potential litigation. The estimated duration of the executive session is one hour, after which the meeting will be reconvened for adjournment.  No specific details about the legal matters being discussed are provided in the agenda.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-13-agenda.txt)
+
+## 2024-05-06 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened in a closed executive session on May 6, 2024, to discuss complaints or charges brought against a public officer or employee. This meeting was held pursuant to RCW 42.30.110(1)(f), which allows for private deliberations regarding personnel matters. The specific nature of the complaints was not disclosed in the provided text.  The session lasted for forty minutes and concluded at 5:40 PM.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-06-minutes.txt)
+
+## 2024-05-06 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors for an unnamed school district will meet in closed executive session on May 6, 2024, to discuss complaints or charges against a public officer or employee.  The meeting agenda indicates that the purpose of the Executive Session is to "receive and evaluate complaints or charges brought against a public officer or employee," citing RCW 42.30.110(1)(f). The session is estimated to last 60 minutes, after which the special meeting will be reconvened for adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-06-agenda.txt)
+
+## 2024-05-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on May 4, 2024, to attend the Northshore Family Symposium. The meeting commenced at 9:00 AM and concluded at 1:00 PM.  Attendees included board members Elisabeth Sotak, Sandy Hayes, Hân Trần, and Amy Cast (President), along with Superintendent Michael Tolley.  The purpose of the symposium was not specified in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-04-minutes.txt)
+
+## 2024-05-04 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School District Board of Directors will be attending the Northshore School District Family Symposium on Saturday, May 4, 2024, at North Creek High School. The symposium is intended as a forum for community engagement and discussion with families.  The agenda includes the commencement of the meeting, a list of attendees, a discussion period focused on the symposium itself, and the conclusion of the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-04-agenda.txt)
+
+## 2024-04-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on April 29, 2024, to attend the WSSDA Regional Meeting at the Issaquah School District Administration Center.  The meeting commenced at 6:00 PM and concluded at 8:30 PM. Attendees included board members Elisabeth Sotak, Sandy Hayes, Hân Trần, Jacqueline McGourty, and Amy Cast (President), along with Superintendent Michael Tolley. The purpose of the meeting was for the Board to participate in the regional gathering organized by the Washington State School Directors' Association (WSSDA).  The minutes were approved on May 13, 2024, by Mr. Michael Tolley (Secretary to the Board) and Amy Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-04-29-minutes.txt)
+
+## 2024-04-29 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Issaquah School District Board of Directors will be attending a Special Meeting - WSSDA Regional Meeting on Monday, April 29, 2024, at 6:00 PM.  The meeting will be held at the Issaquah School District Administrative Center located at 5150 220th Avenue SE, Issaquah, WA 98029. The agenda includes a commencement of the meeting, a list of attendees, discussion regarding the WSSDA Regional Meeting, and an end of meeting designation.  The Board will be discussing their attendance at the WSSDA Regional Meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-04-29-agenda.txt)
+
+## 2024-04-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on April 23, 2024, at Canyon Park Middle School.  The purpose of the meeting was to conduct a Strategic Action Plan School Visit. The meeting commenced at 9:00 AM and concluded at 11:00 AM. All board members, including President Amy Cast and Superintendent Michael Tolley, were present. The visit focused on assessing the implementation and progress of the district's long-term strategic plan.  The minutes were approved on May 13, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-04-23-minutes.txt)
+
+## 2024-04-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text details a special meeting of the Board of Directors scheduled for April 23rd, 2024 at Canyon Park Middle School.  The purpose of the meeting is a school visit focused on the Strategic Action Plan. No specific policies or resolutions are mentioned in the agenda excerpt. The agenda indicates that the meeting will include the commencement of the meeting, a list of attendees, discussion regarding the strategic plan school visit, and the end of the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-04-23-agenda.txt)
+
+## 2024-04-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on April 22, 2024 to review information related to Categorical Programs.  The meeting was called to order at 5:30 PM and adjourned at 6:39 PM. The session included discussion regarding the district's Categorical Programs, which are federally funded programs designed to support specific student populations with unique needs. While the document doesn't specify the exact nature of the policy changes discussed, it indicates a review of information related to these programs.  The meeting was presided over by Amy Cast, President of the Board of Directors, and included Superintendent Michael Tolley.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-04-22-minutes.txt)
+
+## 2024-04-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text provides an agenda for a canceled meeting of the Board of Directors. The meeting was scheduled to include a closed executive session, during which the board planned to discuss the transfer of a district employee. This discussion is confidential and conducted in accordance with RCW 28A.405.230.  The meeting agenda indicates that the executive session was expected to last approximately 60 minutes. Following the closed session, the special meeting was to be reconvened for the sole purpose of adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-04-22-agenda.txt)
+
+## 2024-03-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 30, 2024, at 7:00 PM to attend the Northshore Schools Foundation Event.  The meeting was adjourned at 10:00 PM.  Attendees included Board members Jacqueline McGourty, Sandy Hayes, and Hân Trần, as well as Superintendent Michael Tolley. The minutes were approved on April 22, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-30-minutes.txt)
+
+## 2024-03-30 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School Board will hold a special meeting on Saturday, March 30, 2024, at 7:00 PM at Brightwater.  The purpose of the meeting is for the Board of Directors to attend the Northshore Schools Foundation Event. This event appears to be focused on community engagement and support for the school district. The agenda does not include any specific policy discussions or resolutions.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-30-agenda.txt)
+
+## 2024-03-25 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a closed executive session on March 25, 2024, to discuss legal matters and collective bargaining strategy.  The meeting was recessed at 9:05 PM and lasted for approximately one hour. The specific details of the legal matters and bargaining positions discussed were not disclosed in the minutes due to the confidential nature of the executive session. The Board cited RCW 42.30.110 and RCW 42.30.140(a) as the legal basis for holding the closed session.  The meeting was adjourned at 10:02 PM.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-25-minutes.txt)
+
+## 2024-03-25 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This text appears to be excerpts from meeting minutes of a school board. Here's what we can gather:
+
+* **School Board Meeting:** The text details discussions and decisions made during a school board meeting.
+* **Agenda Items:** The meeting covered several topics including:
+    * **Human Resources:** Approval for new hires and/or position changes (likely involving "classified" staff who aren't teachers).
+    * **Construction Projects:** Accepting the completion of construction projects under $1 million in value.
+    * **Superintendent Performance Review:** Monitoring the Superintendent's progress against established goals and parameters.
+
+* **Decision-Making Process:** The board uses a formal process for decision-making, including motions, seconds, and roll call votes.
+
+**Missing Informatio...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-25-agenda.txt)
+
+## 2024-03-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 23, 2024, at Sammamish High School to attend a Robotics Competition. The meeting commenced at 2:00 PM and concluded at 4:30 PM.  The attendees included Elisabeth Sotak, Sandy Hayes, and Amy Cast, the President of the Board. This special meeting demonstrates the Board's commitment to community engagement by attending and supporting student extracurricular activities.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-23-minutes.txt)
+
+## 2024-03-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Sammamish School Board will be attending a Robotics Competition at Sammamish High School on Saturday, March 23rd, 2024.  The meeting agenda indicates the event is a "Special Meeting" and that the competition will begin at 2:00 PM. No further details about the robotics competition or any potential safety concerns are provided in the text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-23-agenda.txt)
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on March 22, 2024, at Cascadia College to attend the Student Justice Conference.  The meeting commenced at 9:30 AM and concluded at 2:30 PM. The attendees included board members Hân Trần, Jacqueline McGourty, and Amy Cast (President).  While the specific content discussed during the conference is not detailed in the provided text, the meeting's purpose suggests a focus on topics related to diversity and inclusion, as well as student empowerment and autonomy within the educational context.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-minutes.txt)
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Cascadia College Board of Directors will be attending the Student Justice Conference on March 22nd, 2024.  The conference focuses on student autonomy and justice issues. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-agenda.txt)
+
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a retreat on March 18, 2024, to discuss several key topics. These included reviewing and discussing information related to academic standards and curriculum transparency.  The board also addressed the topic of student data privacy. No specific policies or changes were mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
+
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda outlines a special meeting focused on strategic planning.  Discussion topics include "Pool," potentially referring to a student wellness program or initiative; "Portrait / Profile of a Graduate," which suggests a discussion about desired student outcomes and characteristics; "Artificial Intelligence" and its potential applications in education; and "Data" analysis for informing decision-making. The meeting aims to address student health, mental well-being, and the development of long-term strategic plans for the school district.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
+
+## 2024-03-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 14, 2024, to attend the Northshore PTSA Reflections Celebration.  The meeting commenced at 4:30 PM and concluded at 7:30 PM. Attendees included board members Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The purpose of the meeting was solely to participate in the Reflections Celebration hosted by the Northshore PTSA.  The minutes were approved on March 25, 2024, by both Mr. Michael Tolley (Secretary to the Board) and Amy Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-14-minutes.txt)
+
+## 2024-03-14 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore PTSA is holding a Reflections Celebration on Thursday, March 14, 2024, at 4:30 PM at Brightwater.  The event will celebrate student reflections and the Board of Directors will be in attendance.  This meeting appears to be a celebratory gathering for student work rather than a policy or decision-making session.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-14-agenda.txt)
+
+## 2024-03-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting titled "Conversations With the Board" at Leota Middle School Library on Tuesday, March 12, 2024.  The meeting, which lasted from 6:00 PM to 7:30 PM, facilitated discussion between board members and community members. The attendees included board members Elisabeth Sotak, Sandy Hayes, Hân Trần, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley. The purpose of the meeting was to engage in conversations with the community, fostering transparency and community engagement within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-12-minutes.txt)
+
+## 2024-03-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a school board meeting agenda for a "Special Meeting - School Visit" scheduled for March 12, 2024, at North Creek High School. The purpose of the visit is to conduct a Strategic Action Plan School Visit.  The agenda includes sections for commencement of the meeting, a list of attendees, discussion regarding the school visit, and the conclusion of the meeting. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-12-agenda.txt)
+
+## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on March 11, 2024, to review information related to the 2024-2025 budget development.  The meeting was called to order at 7:00 PM and adjourned at 7:50 PM.  In attendance were board members Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on March 25, 2024, by Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-minutes.txt)
+
+## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors for an unnamed school district will hold a study session on March 11, 2024 to discuss the 2024-2025 budget development.  The meeting agenda includes a call to order, list of attendees, and discussion regarding the upcoming budget. A file attachment titled "March 11 as of 3.8.24.pdf" is available for public review. The meeting concludes with an end of meeting designation.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-agenda.txt)
+
+## 2024-03-05 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting at Bothell High School on March 5, 2024, from 6:30 PM to 8:00 PM.  The purpose of the meeting was to attend the CTE Career and College Readiness Open House. The attendees included board members Hân Trần, Jacqueline McGourty, Sandy Hayes, Elisabeth Sotak, Amy Cast (President), and Superintendent Michael Tolley. The minutes were approved on March 25, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-05-minutes.txt)
+
+## 2024-03-05 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Bothell School District Board of Directors will be holding a special meeting on Tuesday, March 5th, 2024 at 6:30 PM at Bothell High School.  The purpose of the meeting is to attend the CTE - College and Career Readiness Open House. This event focuses on informing students and families about career and technical education (CTE) programs and college readiness resources available within the district. The open house aims to engage the community in understanding the pathways and opportunities offered by the district for student success after high school.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-05-agenda.txt)
+
+## 2024-02-27 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on February 27, 2024, at Fernwood Elementary School. The purpose of the meeting was to conduct a Strategic Action Plan School Visit.  The meeting commenced at 10:00 AM and concluded at 12:00 PM. Attendees included Board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), as well as Superintendent Michael Tolley. The visit focused on observing and evaluating the implementation of the district's long-term strategic plan at Fernwood Elementary.  The meeting minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-27-minutes.txt)
+
+## 2024-02-27 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a special meeting of the Board of Directors scheduled for February 27, 2024.  The purpose of the meeting is to conduct a "Strategic Action Plan School Visit" to Fernwood Elementary School. This visit suggests that the board is engaged in developing and implementing long-term strategic plans for the school district. The agenda also indicates a focus on community engagement as the Board will be visiting the elementary school, likely to interact with staff, students and potentially parents.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-27-agenda.txt)
+
+## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on February 26, 2024, to discuss Goal 2 of their long-term strategic plan. This goal focuses on fostering "Responsible, Resilient, Empathetic Learners."  The meeting, which lasted from 5:04 PM to 6:38 PM, included attendees such as board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The specific details of the discussion regarding Goal 2 were not provided in the text.  The minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-minutes.txt)
+
+## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda includes a discussion and approval of Interstate Restoration LLC for playfield improvements at Arrowhead Elementary School. The final contract amount is $67,26300.  The board also reviewed the installation of security fencing at multiple sites.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-agenda.txt)
+
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held an Exempt Closed Session on February 12, 2024, to discuss matters related to collective bargaining.  The session was conducted in accordance with RCW 42.30.140(4), which allows for closed-door meetings to discuss negotiations with employee unions. The discussion lasted approximately 58 minutes before the meeting was adjourned. This summary focuses on procedural aspects and avoids speculating on the content of the collective bargaining discussions.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-12-minutes.txt)
+
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This document details a Northshore School District Board of Directors meeting agenda and associated materials.  A key item is the review of Superintendent Parameter 6 which focuses on "Relationships with Students, Staff, Parents and the Public". This suggests a focus on diversity and inclusion within the school district. The document also mentions monitoring reports for superintendent performance related to board goals and parameters.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-12-agenda.txt)
+
+## 2024-02-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on February 10, 2024, to attend the Northshore Girls Flag Football Championship at Pop Keeney Stadium.  The meeting commenced at 10:00 AM and concluded at Noon. Attendees included board members Hân Trần, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley. The purpose of the meeting was purely observational, focused on attending a school sporting event. There were no policy discussions or decisions made during this Special Meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-10-minutes.txt)
+
+## 2024-02-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School Board will hold a special meeting on February 10, 2024, at 10:00 AM at Pop Keeney Stadium.  The purpose of the meeting is for the Board of Directors to attend the Northshore Girls Flag Football Championship Day. This event falls under the "school-safety" tag as it involves a gathering of students and school officials at a public venue. The "student-health" tag is applicable because the event promotes physical activity and sportsmanship among young female athletes.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-10-agenda.txt)
+
+## 2024-02-07 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Lake Washington School District Board of Directors will hold a special meeting on Wednesday, February 7, 2024, at 7:30 AM at Northshore Community Church in Kirkland, WA.  The purpose of the meeting is to attend the "State of Our Schools" event. This event appears to be focused on discussing school safety and community engagement with the broader public.  No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-07-agenda.txt)
+
+## 2024-02-05 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a joint meeting with the Kenmore City Council on February 5, 2024.  The purpose of the meeting was to discuss topics of mutual interest between the school board and the city council.  No specific topics discussed during the meeting were listed in the provided minutes. The meeting was called to order at 7:02 PM and adjourned at 8:27 PM.   The minutes were approved on February 12, 2024, by Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-05-minutes.txt)
+
+## 2024-02-05 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a special meeting agenda for the Board of Directors on February 5th, 2024. This joint meeting with the Kenmore City Council aims to discuss topics of mutual interest.  The agenda includes standard items like a call to order, list of attendees, discussion period and end of meeting. No specific policies or resolutions are mentioned in this agenda preview. The purpose of the joint meeting appears to be general collaboration between the two governing bodies.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-05-agenda.txt)
+
+## 2024-01-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 30, 2024, at Bothell High School to conduct a Strategic Action Plan School Visit.  The meeting commenced at 9:00 AM and concluded at 11:00 AM. Attendees included board members Elisabeth Sotak, Hân Trần, and Amy Cast (President), along with Superintendent Michael Tolley. The purpose of the visit was to assess the implementation and progress of the district's long-term strategic plan at Bothell High School.  The minutes were approved on February 12, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-30-minutes.txt)
+
+## 2024-01-30 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The agenda outlines a special meeting of the School Board on January 30, 2024, focused on a school visit to Bothell High School.  The purpose of the visit is to conduct a "Strategic Action Plan School Visit". The agenda includes sections for commencement of the meeting, a list of attendees, discussion regarding the school visit, and the conclusion of the meeting. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-30-agenda.txt)
+
+## 2024-01-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on January 29, 2024, for Legislative Day On the Hill in Olympia, Washington.  The meeting commenced at 9:00 AM and concluded at 5:00 PM. All board members were present, including Elisabeth Sotak, Hân Trần, Jacqueline McGourty, Sandy Hayes, and Amy Cast (President). The purpose of the meeting was for the Board to participate in Legislative Day On the Hill, a day dedicated to engaging with legislators on educational matters.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-29-minutes.txt)
+
+## 2024-01-29 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a "Special Meeting - Legislative Day On the Hill" for the Board of Directors on January 29, 2024.  The meeting will take place at the State Capitol in Olympia, Washington. The purpose of the Legislative Day is for the Board of Directors to attend and engage with legislative proceedings related to education. No specific policies or resolutions are mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-29-agenda.txt)
+
+## 2024-01-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 28, 2024, at Sound Sound Community College to attend a Legislative Conference.  The meeting commenced at 1:00 PM and concluded at 6:00 PM. Attendees included board members Sandy Hayes, Jacqueline McGourty, and Amy Cast, the President of the Board. The minutes were generated by Peggy King on February 5, 2024, and approved on February 12, 2024, by Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board.  The text does not provide details about specific discussions or outcomes from the Legislative Conference.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-28-minutes.txt)
+
+## 2024-01-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text details a public meeting agenda for the Board of Directors on January 28th, 2024.  The purpose of the meeting is to attend a Legislative Conference at South Sound Community College in Olympia, Washington. The agenda includes sections for commencement of the meeting, a list of attendees, discussion regarding the legislative conference, and the end of the meeting. There are no specific policy proposals or resolutions mentioned within the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-28-agenda.txt)
+
+## 2024-01-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on January 23, 2024, at Arrowhead Elementary School. The purpose of the meeting was to conduct a Strategic Action Plan School Visit.  The meeting commenced at 10:00 AM and concluded at 12:00 PM. Attendees included board members Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The visit was part of the district's ongoing efforts to develop and implement its long-term strategic plan.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-23-minutes.txt)
+
+## 2024-01-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text details a meeting agenda for a school board visit to Arrowhead Elementary on January 23rd, 2024.  The purpose of the visit is outlined as part of the Board's "Strategic Action Plan School Visit". This suggests the visit is part of a larger long-term plan being implemented by the school board. The agenda includes sections for commencement, attendee list, discussion, and end of meeting. No specific policies or resolutions are mentioned in the provided text excerpt.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-23-agenda.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on January 22, 2024, to review information related to Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps.  The meeting focused on strategies to ensure academic growth for all students while addressing disparities in educational outcomes and opportunities. The specific details of the strategies discussed were not included in the provided text. The session adjourned at 6:49 PM.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Administrative Center Board Room will host a study session on January 22, 2024, at 5:00 PM.  The meeting's primary focus is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps." This goal suggests a commitment to diversity-inclusion and racial-equity within the school system. The Board will review information regarding this goal, including data presented in documents titled "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
+
+## 2024-01-16 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on January 16, 2024, to review information on Student Wellness and Safety.  The meeting, which lasted until 7:20 PM, included discussions related to student mental health and overall well-being, as well as measures to ensure the safety and security of students within the district. No specific policies or resolutions were mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-16-minutes.txt)
+
+## 2024-01-16 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors for an unspecified school district will hold a study session on January 16, 2024, to review information related to Student Wellness and Safety.  The discussion will include reviewing recommendations from the district's Safety, Security and Supervision Taskforce. Additionally, the board will review the one-year work plan of the Wellness and Safety Taskforce and their final report from December 2023.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-16-agenda.txt)
+
+## 2024-01-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 15, 2024, to participate in the PTSA Focus On Advocacy Day in Olympia, Washington.  The purpose of the meeting was for the board members to engage with state legislators and advocate for policies related to education. The meeting adjourned at 4:30 PM.  Minutes were approved on January 22, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-15-minutes.txt)
+
+## 2024-01-15 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text details a special meeting of the PTA focused on Advocacy Day at the State Capitol in Olympia, Washington.  The purpose of the meeting is for the Board of Directors to participate in discussions and activities related to advocacy efforts. While specific topics for discussion are not outlined, the focus on "Advocacy Day" suggests an emphasis on parental rights and community engagement in shaping educational policy.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-15-agenda.txt)
+
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors met on January 8, 2024.  The meeting included standard agenda items such as budget reports, capital project updates and a discussion about offering childcare during meetings to encourage parental involvement. A new policy, "Racial Equity," was discussed but no details were provided regarding its content or implementation. The board also reviewed a Deductive Change Order for the Northshore School District Concert Hall at Inglemoor High School.  Additionally, the Board discussed upcoming Advocacy meetings and reviewed individual member reports detailing their participation in various events.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
+
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+This document appears to be the minutes from a Northshore School District Board Meeting.  Here's a breakdown of what it contains and some key takeaways:
+
+**Meeting Structure:**
+
+* **Date:** January 8, 2024
+* **Type:** Regular Board Meeting
+* **Sections:**
+    * **A. CALL TO ORDER & ROLL CALL:** Standard start to the meeting.
+    * **B. APPROVAL OF AGENDA:**  Board members vote on whether to approve the meeting's agenda.
+    * **C. PUBLIC COMMENT:** Time allotted for community members to address the board.
+    * **D. BOARD MEMBER REPORTS:** Individual board members share updates or information.
+    * **E. SUPERINTENDENT REPORT:** The superintendent provides a report on district matters. 
+    * **F. CONSENT AGENDA:** Routine items approved as a group (e.g., minutes from previous meetings, ro...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-agenda.txt)
+
+## 2024-01-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on January 4, 2024, focused on developing an Advocacy Partners Strategy Plan.  The meeting, which lasted from 5:00 PM to 6:30 PM, included board members Elisabeth Sotak, Hân Trần, Jacqueline McGourty, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The purpose of the meeting was to discuss and strategize on how to effectively engage with advocacy partners in support of the district's goals.  The minutes were approved on January 22, 2024, by both Mr. Michael Tolley (Secretary to the Board) and Amy Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-04-minutes.txt)
+
+## 2024-01-04 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines a special meeting of the Board of Directors scheduled for January 4, 2024.  The primary purpose of the meeting is to engage in strategy planning with community partners and students regarding school funding issues stemming from legislative decisions.  The meeting agenda includes sections for commencement, attendee list, discussion, and end of meeting. The "Discussion" section explicitly states that the Board will convene with stakeholders to address how to navigate the challenges posed by insufficient school funding.  
+
+There is a call for parental feedback during the strategy planning process.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-04-agenda.txt)
 

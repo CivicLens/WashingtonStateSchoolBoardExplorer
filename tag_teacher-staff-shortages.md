@@ -6,6 +6,12 @@ The school board meeting minutes detail routine financial matters including depo
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-11-minutes.txt)
 
+## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School District is hosting an informational meeting for individuals interested in running for the school board.  The meeting will take place on Thursday, March 16, 2023, at 5:00 p.m. at Options High School. Topics covered will include an overview of the district's policy governance model and election basics. The meeting aims to inform potential candidates about the roles and responsibilities of school board members and provide guidance on the election process.  The fall election filing opportunity with the Whatcom County Auditor's Office is scheduled for May 15-19.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
+
 ## 2024-10-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District Board held a meeting on October 10, 2024, discussing various topics. Concerns were raised regarding the School Based Health Clinic by Natalie Chavez.  The Athletic Director, Ron Lepper, provided an update on the athletic budget. The board addressed upcoming Parent/Teacher Conferences and acknowledged Cindy Henninger's contributions to the district. They also discussed Pet Partnership Therapy evaluations and participation in several conferences and meetings, including the WSSDA General Assembly and a meeting with Whatcom County Council Member Jon Scanion.  
@@ -36,6 +42,12 @@ The meeting concluded with a motion to adjourn, which passed 4-0 with one member
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-23-minutes.txt)
 
+## 2024-01-24 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
+
+This document outlines the agenda for a Human Growth and
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-01-24-agenda.txt)
+
 ## 2024-01-11 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board discussed potential budget cuts due to the possible failure of a local levy (EP&O).  Ms. Porter, a district representative, explained that if the levy fails, programs that can be reduced would face 24% cuts. The discussion focused on the impact of these reductions, particularly on staffing. There was concern expressed about the number of staff potentially impacted by a $2.7M reduction and the legal requirements for notifying staff about potential job losses.  The process for developing a reduced education plan was reviewed, highlighting the complexities and uncertainties involved. The board also discussed the district's efforts to address reductions in school library staffing and why volunteers could not replace contracted employees.
@@ -46,8 +58,20 @@ The school board discussed potential budget cuts due to the possible failure of 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Erika Creydt](board_member_11.md) | supported proceeding with proposed reductions and passing of the EP&O levy | Ms. Porter closed her presentation by encouraging the board to proceed with the ...[truncated, use api for full text] |
-| [Erika Creydt](board_member_11.md) | commented on the importance of managing expectations of administrator performance in addition to teacher performance | Director Creydt commented on the importance of managing expectations of administ...[truncated, use api for full text] |
+| [Erika Creydt](board_member_6.md) | supported proceeding with proposed reductions and passing of the EP&O levy | Ms. Porter closed her presentation by encouraging the board to proceed with the ...[truncated, use api for full text] |
+| [Erika Creydt](board_member_6.md) | commented on the importance of managing expectations of administrator performance in addition to teacher performance | Director Creydt commented on the importance of managing expectations of administ...[truncated, use api for full text] |
+
+## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The December 13th school board meeting agenda covers a range of topics relevant to the daily operations and future planning of the school district.  The Transportation Director will present a report on the department, followed by a presentation from the Facilities Task Force Committee regarding their recommendations. The board will conduct a second review and approval of the Youth Care Services Contract.  Dr. James Everett, Superintendent, will deliver a report on district activities. The agenda also includes time for information sharing from student board representatives and board directors, as well as the formal adjournment of the meeting. Notably, the agenda reflects potential concerns about teacher staffing shortages.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-agenda.txt)
+
+## 2023-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The document outlines a series of personal services contracts proposed for approval by the Bellingham School District Board.  These contracts cover a range of support services including Title I literacy interventions, human resources assistance, payroll support for new hire benefits enrollment, and orientation and mobility services for students. The contracts specify service durations and are accompanied by individual PDF attachments detailing the terms of each agreement. Notably, the document highlights a potential teacher-staff shortage as evidenced by the need for temporary HR support "as needed during the 2023-24 school year."  The board is also addressing special education needs through contracts with Lisa Blas and Christina Tan to provide Title I Literacy Interventions at Assumption ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-09-14-agenda.txt)
 
 ## 2023-09-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

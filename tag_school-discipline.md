@@ -6,6 +6,18 @@ The Northgate School District held a school board meeting to discuss the distric
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
 
+## 2024-10-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board Meeting agenda focuses on several key topics.  The board will review and potentially approve second readings of Policy 2401 (Financial Education Mastery-Based Learning & Credit) and Policy 3241 (Student Discipline). These policies are undergoing revisions, with the specific changes not detailed in the provided text. The board will also discuss School Improvement Plans for Lynden Academy and Lynden High School, highlighting a commitment to academic standards.  Community engagement is emphasized through an "Information from the Audience" segment, allowing community members to address the board on agenda and non-agenda items.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-agenda.txt)
+
+## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda includes a first reading of Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force. This procedure will be reviewed again for approval on July 23, 2024.  The agenda also lists a finance report presentation by the Director of Finance, Daniel Yorton. The report will cover budget updates, enrollment figures compared to the budget and enrollment changes from May to June. Finally, Superintendent Dr. James Everett will deliver a report summarizing district activities.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-agenda.txt)
+
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions on various topics including student behavior and mental health.  The board noted that 91% of behavioral referrals involved three or fewer instances, indicating the effectiveness of early intervention strategies. Additionally, they approved an interlocal agreement with Whatcom County for Behavioral Health Services Support for the 2024-2025 academic year. The board also reviewed and approved a revised Policy 6905 regarding Site Acquisition.  The minutes further document the election of Director Brar as the WIAA representative and the approval of interlocal agreements with Whatcom Discovery. Finally, Resolution #07-24 concerning Surplus Personal Property was passed.
@@ -16,20 +28,28 @@ The school board meeting minutes detail discussions on various topics including 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve Resolution #07-24- Surplus Personal Property | Resolution #07-24: Surplus Personal Property |
+| [Tonya Hickman](board_member_16.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve Resolution #07-24- Surplus Personal Property | Resolution #07-24: Surplus Personal Property |
+
+## 2024-04-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
+
+The Camas School Board met on April 22, 2024.  The board reviewed and adopted several updated policies during the meeting. These included Policy 2410 (High School Graduation Requirements), Policy 3122 (Excused and Unexcused Absences), Policy 3141 (Non-resident Students), Policy 5005 (Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval), Policy 5010 (Nondiscrimination and Affirmative Action), Policy 5050 (Contracts), Policy 5271 (Reporting Improper Governmental Action (Whistleblower Protection)), Policy 5280 (Separation from Employment) and Policy 5400 (Personnel Leaves). They also reviewed and adopted a new policy, Policy 2415 (Performance-Based Pathway for High School Graduation).
+
+The board approved two items related to Quality Facilities and Resou...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-22-minutes.txt)
 
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -41,8 +61,8 @@ This school board meeting minutes focuses on several issues related to governanc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_13.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-| [Ben Lazarus](board_member_12.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Cliff Freeman](board_member_8.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Ben Lazarus](board_member_7.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
 
 ## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -54,13 +74,13 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | voted yes on approving updated Policy 2090- Program Evaluation | Director Hickman motioned to approve updated Policy 2090- Program Evaluation |
-| [Ken Owsley](board_member_22.md) | voted yes on approving updated Policy 2090- Program Evaluation | Seconded by Director Owsley. Motion carried by voice vote. |
-| [Khush Brar](board_member_23.md) | voted yes on approving all School Improvement Plans as presented | Director Brar motioned to approve all School Improvement Plans as presented. Sec...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
-| [Ken Owsley](board_member_22.md) | voted no on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscriminat...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscriminat...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscriminat...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_16.md) | voted yes on approving updated Policy 2090- Program Evaluation | Director Hickman motioned to approve updated Policy 2090- Program Evaluation |
+| [Ken Owsley](board_member_17.md) | voted yes on approving updated Policy 2090- Program Evaluation | Seconded by Director Owsley. Motion carried by voice vote. |
+| [Khush Brar](board_member_18.md) | voted yes on approving all School Improvement Plans as presented | Director Brar motioned to approve all School Improvement Plans as presented. Sec...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
+| [Ken Owsley](board_member_17.md) | voted no on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscriminat...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscriminat...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscriminat...[truncated, use api for full text] |
 
 ## 2021-11-17 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -73,6 +93,12 @@ The Lynden School Board meeting minutes detail discussions on various topics, in
 The Blaine School District Board held a meeting where they reviewed and approved several items.  The board discussed the 2021-22 Board Meeting Calendar, noting that a September meeting in Point Roberts was preferred but subject to change due to border uncertainties. They also conducted the first reading of revised Professional Conduct Personnel Policies (5006, 5240, 5280, 5281). These revisions removed language pertaining to processes already regulated by state statute and collective bargaining agreements. The specific policy changes mentioned were: Policy 5006: Certification Revocation, Policy 5240: Evaluation of Staff, Policy 5280: Separation from Employment, and Policy 5281: Disciplinary Action and Discharge.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-05-24-minutes.txt)
+
+## 2020-11-04 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda includes two policy readings for discussion and information. Policy 5270: Resolution of Staff Complaints outlines procedures for addressing staff grievances. Policy 5281: Disciplinary Action and Discharge details the process for disciplinary action against staff members, including potential discharge.  The Superintendent will provide a report on district activities.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-11-04-agenda.txt)
 
 ## 2019-09-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

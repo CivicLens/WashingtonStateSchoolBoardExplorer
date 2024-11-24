@@ -1,47 +1,45 @@
-# Positions Supported by Danny Martinez (LYNDEN_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Michelle Simmons (MERIDIAN_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Danny Martinez | LYNDEN_SCHOOL_DISTRICT | 2027 |
+| Michelle Simmons | MERIDIAN_SCHOOL_DISTRICT | December 2027 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-09-05 | Voted no on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators regarding transgende...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Sec...[truncated, use api for full text] |
-| 2024-09-05 | Voted no on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
-Directors Br...[truncated, use api for full text] |
-| 2024-07-11 | Approved consent agenda | Motioned to approve the agreement. |
-| 2024-07-11 | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
-| 2024-07-11 | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
-| 2024-06-20 | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
-Extracurricular Activit...[truncated, use api for full text] | Director Martinez motioned to approve Resolution #09-24- WIAA for a Fair, Safe and
-Nondiscriminatory...[truncated, use api for full text] |
-| 2024-06-06 | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
-| 2024-06-06 | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
-| 2024-06-06 | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Science, Biology, Chem...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| 2024-05-16 | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| 2024-05-16 | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
-| 2024-05-16 | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2024/2025 | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| 2024-05-16 | voted yes on motion to approve Resolution #07-24- Surplus Personal Property | Resolution #07-24: Surplus Personal Property |
-| 2024-05-16 | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| 2024-04-18 | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
-| 2024-04-13 | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried b...[truncated, use api for full text] |
-| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded m...[truncated, use api for full text] |
-| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local cont...[truncated, use api for full text] |
-| 2024-04-04 | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconde...[truncated, use api for full text] |
-| 2024-04-04 | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| 2024-04-04 | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduatio...[truncated, use api for full text] |
-| 2024-03-21 | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham...[truncated, use api for full text] |
-| 2024-03-21 | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donat...[truncated, use api for full text] |
-| 2024-03-07 | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Knowledge Bowl in Wena...[truncated, use api for full text] | Overnight Trip Request |
-| 2024-03-07 | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| 2024-03-07 | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| 2024-02-20 | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April election | Motion not carried. Board Vote: 2-3 |
-| 2024-02-20 | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| 2024-02-20 | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bill 5462 | Motion carried by voice vote. Board Vote 5-0 |
-| 2024-02-08 | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| 2024-02-08 | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
-| 2024-01-25 | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
-| 2024-01-25 | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start...[truncated, use api for full text] |
+| 2024-10-31 | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Li...[truncated, use api for full text] |
+| 2024-10-31 | made motion to approve the consent agenda | A motion to approve the consent agenda was made by Michelle Simmons and seconded by Marty Gray. The ...[truncated, use api for full text] |
+| 2024-10-09 | voted yes | motion to approve the highly capable program, as presented |
+| 2024-10-09 | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
+| 2024-10-09 | voted yes | motion to approve consent agenda items A-F |
+| 2024-10-09 | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
+| 2024-10-09 | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
+| 2024-10-09 | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+| 2024-10-09 | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
+| 2024-08-21 | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and int...[truncated, use api for full text] |
+| 2024-08-21 | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| 2024-07-23 | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
+| 2024-07-23 | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
+| 2024-07-23 | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
+| 2024-07-23 | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
+| 2024-07-10 | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
+| 2024-06-12 | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| 2024-06-12 | voted yes | Motion to approve Policy  as presented |
+| 2024-06-12 | voted yes | Motion to adopt the consent agenda |
+| 2024-04-24 | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donatio...[truncated, use api for full text] |
+| 2024-02-26 | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| 2024-02-23 | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
+| 2024-02-21 | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A mot...[truncated, use api for full text] |
+| 2024-02-21 | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as item G under new bus...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition ...[truncated, use api for full text] |
+| 2024-02-21 | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The moti...[truncated, use api for full text] |
+| 2024-01-24 | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
+| 2024-01-24 | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Ap...[truncated, use api for full text] |
+| 2024-01-24 | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
+| 2024-01-10 | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll...[truncated, use api for full text] |
+| 2024-01-10 | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| 2024-01-10 | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| 2023-12-13 | voted yes | motion to adopt the consent agenda |
+| 2023-12-13 | voted yes | Second Review and Approval: Youth Care Services Contract |
+| 2023-12-13 | nominated Jarrod Karuza for vice president | Call for Nominations for Vice President |
 

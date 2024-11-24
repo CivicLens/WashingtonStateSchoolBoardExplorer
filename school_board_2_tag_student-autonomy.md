@@ -1,69 +1,50 @@
-# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: student-autonomy
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: student-autonomy
 
-## 2024-09-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District #505 held its regular school board meeting on September 25, 2024.  Several policies were presented for first review with the intention of being brought back for second review and approval at the October 9th meeting. These included Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience and Resolution 11-24, Policy 5400 – Personnel Leave, Policy 3432 – Emergencies, NCTA Fire Science Interlocal Agreement, NCTA Open Doors Interlocal Agreement, and NCTA HUD Interlocal Agreement. The board also reviewed and approved several items on the consent agenda, including personnel reports, accounts payable, a fuel bid extension, a revised youth care services contract, a transportation agreement, a basic education compliance report, and a donation listing.  Additional...[truncated, use api for full text]
+The Northshore School District Board of Directors is reviewing Superintendent Parameter policies which outline the limits placed on executive authority. Specifically, they are examining Parameter 4 regarding Superintendent Communication to the Board and Parameter 5 concerning Public Reports.  These reviews are part of the annual monitoring process for these parameters. The Board also reviewed reports submitted by the superintendent demonstrating compliance with existing policy.  No changes to the policies were explicitly mentioned in this text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-23-agenda.txt)
 
-### Board Member Actions
+## 2024-09-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accou...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and appr...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and a...[truncated, use api for full text] |
+The Northshore School District Board of Directors held a Special Meeting on September 4, 2024, at Bothell High School to dedicate Zach LaVine Court and retire his jersey.  The meeting commenced at 8:30 AM and concluded at 9:30 AM. Attendees included board members Hân Trần, Jacqueline McGourty, and Amy Cast (President). The event celebrated the achievements of Zach LaVine, a former Bothell High School student who went on to play in the NBA.
 
-## 2024-05-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-04-minutes.txt)
 
-The Meridian School District #505 held a regular school board meeting on May 8, 2024.  The meeting covered a range of topics including the adoption of the consent agenda which included routine items such as personnel appointments and financial reports.  The Board reviewed several policies for first reading including the GCU Universal Field Placement Agreement, Resolution 04-24 - Authorizing the Commitment of Funds, and a Lead Water Action Plan. All three will be brought back for second review and approval at the May 22nd meeting.
+## 2024-06-21 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Superintendent's report highlighted several achievements including recognition received by Thrive award recipients and a $2.1 million Provision Legislative Award. He also discussed leadership changes planned for the 2024-25 school year, recent visits to skill...[truncated, use api for full text]
+The Northshore School District Board of Directors held a Special Meeting on June 21, 2024, to attend the Innovation Lab High School Graduation ceremony at the Northshore Concert Hall.  The meeting commenced at 7:35 PM and concluded at 7:45 PM. All board members, including Sandy Hayes, Jacqueline McGourty, Elisabeth Sotak, Amy Cast (President), and Superintendent Michael Tolley were in attendance. The meeting's purpose was solely to observe the graduation ceremony, highlighting the Board's role in supporting student milestones and autonomy.  The minutes were approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-05-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-21-minutes.txt)
 
-### Board Member Actions
+## 2024-06-20 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt the consent agenda |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt the consent agenda |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presen...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Marty Gray](board_member_29.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as prese...[truncated, use api for full text] |
-| [Jana Haugen](board_member_26.md) | voted yes | motion to approve the Sendan Center Contract as presented |
-| [Jarrod Karuza](board_member_27.md) | voted yes | motion to approve the Sendan Center Contract as presented |
+The Northshore School District Board of Directors held a Special Meeting on June 20, 2024, at the Northshore Concert Hall to attend the Northshore Learning Options Graduation ceremony.  The meeting commenced at 6:00 PM and concluded at 7:00 PM.  Board members present included Sandy Hayes, Jacqueline McGourty, Hân Trần, Elisabeth Sotak, and Amy Cast (President). Superintendent Michael Tolley was also in attendance. The meeting minutes were approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President.
 
-## 2023-02-22 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-20-minutes.txt)
 
-The Meridian School District Board held a regular meeting on February 22nd, 2023.  The board approved the adoption of a new Writing Skills and Math with Confidence MP3 curriculum after a second review. A first reading was conducted for Resolution 02-23, outlining the district's agreement to participate in the Northwest Career & Technical Academy in Bellingham, WA. The board unanimously passed Resolution 03-23, supporting an application for funding from the American Rescue Plan Act to establish an Early Childcare Development Center. Additionally, the board approved the surplus of two vehicles and conducted first readings of Policy and Procedure 3231 (Student Records) and Policy and Procedure 6970 (Naming Schools, Facilities, and Teams, and Use of School Mascots, Images, or Logos). The Super...[truncated, use api for full text]
+## 2024-06-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-02-22-minutes.txt)
+The Northshore School District Board of Directors held a special meeting on June 18, 2024, at Pop Keeney Stadium to attend the Inglemoor High School Graduation.  The meeting commenced at 6:00 PM and concluded at 7:15 PM. All board members, including President Amy Cast and Superintendent Michael Tolley, were in attendance. The purpose of the special meeting was solely to observe the graduation ceremony, signifying the board's involvement in celebrating student achievement. The minutes were approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President.
 
-## 2023-02-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-18-minutes.txt)
 
-The Meridian School District Board held a regular meeting on February 8, 2023. Several policies were presented for second reading and ultimately adopted by the board. These included Policy 1250, which aims to prioritize student voice, Policy 5410 regarding holidays (a revised version with current language mark-up was presented), and Policies related to Student Privacy.  The board also reviewed a curriculum materials proposal from MP3 Principal Michelle Siadal for writing and math. Dr. Everett highlighted the intent of Policy 1250 to prioritize student voice and encouraged the Board to seek input from student representatives before voting. The meeting concluded with an adjournment at 8:59 pm.
+## 2024-06-17 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-02-08-minutes.txt)
+The text outlines a special meeting of the Board of Directors on June 17th, 2024. The purpose of the meeting is to attend the North Creek High School Graduation ceremony at Pop Keeney Stadium.  The agenda includes standard elements like commencement of the meeting, a list of attendees, and discussion points focused on the graduation event itself. The text emphasizes that the Board will be present at the graduation ceremony, highlighting their role in supporting student milestones and celebrating academic achievements.
 
-## 2022-12-14 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-17-agenda.txt)
 
-The Meridian School District held its regular board meeting on December 14th, 2022.  The meeting included routine items such as approval of the agenda and consent agenda which covered meeting minutes, accounts payable, personnel reports, payroll, and student travel.
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The board underwent its annual reorganization, electing Sara Bernardy as Chair and Craig Mitchell as Vice Chair. The meeting featured presentations recognizing staff members and a public comment period.  Several policies were presented for a second reading and subsequently adopted by the board. These included Policy 1220: Board Officers and Duties of Board Members Markup, Policy 1225: School Director Legislative Program, Policy 1610: Conflicts of Interest, and Policy and Procedure 3432: Emergencies. The Superintendent provided...[truncated, use api for full text]
+The Northshore School District Board of Directors held a Special Meeting on March 22, 2024, at Cascadia College to attend the Student Justice Conference.  The meeting commenced at 9:30 AM and concluded at 2:30 PM. The attendees included board members Hân Trần, Jacqueline McGourty, and Amy Cast (President).  While the specific content discussed during the conference is not detailed in the provided text, the meeting's purpose suggests a focus on topics related to diversity and inclusion, as well as student empowerment and autonomy within the educational context.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-12-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-minutes.txt)
 
-## 2021-03-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District Board meeting minutes detail discussions on various topics including school safety measures, mental health support for students, and the district's response to the COVID-19 pandemic.  The board reviewed a report on the state of the district's assets and ongoing maintenance. They also discussed student autonomy through recognition of the Meridian High School yearbook team for their work during remote and hybrid learning. The meeting included presentations on Career Technical Education, and updates on interlocal agreements with the NWESD Whatcom Detention Center.  Policy changes were addressed, including the adoption of Policy 2107: Comprehensive Early Literacy Plan and Policy and Procedure 3115: Homeless Students Experiencing Homelessness – Enrollment Rights and...[truncated, use api for full text]
+The Cascadia College Board of Directors will be attending the Student Justice Conference on March 22nd, 2024.  The conference focuses on student autonomy and justice issues. No specific policies or resolutions are mentioned in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-22-agenda.txt)
 

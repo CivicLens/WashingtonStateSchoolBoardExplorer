@@ -20,6 +20,32 @@ The Bellingham Public Schools board meeting minutes highlight the district's com
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
 
+## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM in the Administrative Center Board Room to discuss Goal 4 - Innovative, Creative, Critical Thinkers.  The meeting agenda includes a review of information related to this goal. Supporting documents for review include "Goal 4 Slide Deck," "SG4-2023-2024-Report-Final," and "G-1_Goals_last reviewed_2_13_2023."  The meeting will conclude with an end of meeting summary.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-agenda.txt)
+
+## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District Board Meeting agenda focuses on several key areas. Firstly, it highlights the district's commitment to "Mental Health" with mentions of a Youth Mental Health First Aid course and a community viewing of the film "Screenagers," which addresses technology's impact on youth development.  Secondly, the agenda promotes "Social-Emotional Learning" through events like the Lynden Middle School Chess Club hosting a competition with local first responders. The meeting also touches upon "School Safety" by including an item on building leadership teams collaborating around Multi Tiered Systems of Support (MTSS) and Universal Design for Learning.
+
+Regarding "Academic Standards," the agenda includes a first reading of Policy 2415 - Performance-Based Pathway for High School Grad...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-agenda.txt)
+
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda outlines a special meeting focused on strategic planning.  Discussion topics include "Pool," potentially referring to a student wellness program or initiative; "Portrait / Profile of a Graduate," which suggests a discussion about desired student outcomes and characteristics; "Artificial Intelligence" and its potential applications in education; and "Data" analysis for informing decision-making. The meeting aims to address student health, mental well-being, and the development of long-term strategic plans for the school district.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
+
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda outlines a retreat meeting focused on several key topics related to student well-being and development.  The "Discussion" section includes items such as "Pool," potentially referring to a discussion about resources for students, followed by "Portrait / Profile of a Graduate," which suggests a conversation about desired outcomes and skills for graduating students. The agenda also lists "Artificial Intelligence" and "Data" as discussion points. It's unclear from the context how these topics relate to student well-being or autonomy, but they could be part of a broader conversation about using technology and data to support student learning and growth.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
+
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
@@ -27,6 +53,12 @@ This document details a student roundtable meeting hosted by the Bellingham Scho
 Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues relat...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
+
+## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on February 26, 2024, to discuss Goal 2 of their long-term strategic plan. This goal focuses on fostering "Responsible, Resilient, Empathetic Learners."  The meeting, which lasted from 5:04 PM to 6:38 PM, included attendees such as board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The specific details of the discussion regarding Goal 2 were not provided in the text.  The minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-minutes.txt)
 
 ## 2024-01-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -51,6 +83,12 @@ The Meridian School District Board held a regular meeting on March 15th, 2023.  
 The Blaine School District Board held a work session to review mid-year progress reports on school improvement plans.  Discussions focused on student academic performance across different grade levels and subject areas.  Principals from each school presented updates on their respective schools' initiatives, highlighting successes and challenges. Notably, Blaine High School Principal Scott Ellis mentioned professional development for staff in social emotional learning that included a guest facilitator to help them better understand the needs of LGBTQ+ students. The session also touched upon teacher-staff shortages, with Superintendent Dr. Christopher Granger acknowledging the foundational work administrators are doing to address these challenges and promote student success.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-02-27-minutes.txt)
+
+## 2023-02-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 Board meeting agenda outlines standard operational topics.  The "Good News" section highlights teacher and staff achievements, including professional development focused on "Every Student. Every Day," a theme emphasizing student learning through Social Emotional Learning Standards. A Freshman Blitz program aimed at supporting 9th graders' successful completion of their first semester is also celebrated. The agenda includes standard items like meeting minutes, consent agenda approvals (AP Payroll and Personnel Recommendations), reports from the Superintendent, Teaching and Learning, and Finance and Operations departments.  "Information from the Audience" establishes procedures for public comment during the meeting.  The board will hold a workshop on "Faciliti...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-agenda.txt)
 
 ## 2022-11-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -97,6 +135,12 @@ The Meridian School District Board held a regular meeting on March 31, 2021, dis
 The board reviewed and adopted several policies, including Policy 3112: Social Emotional Climate and Policy and Procedure 6000: Program Planning Budget Preparation Adoption and Implementation Procedure.  Additionally, they conducted a first reading of Policy 2125: Sexual Health Education and Policy 3432 – Emerg...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-31-minutes.txt)
+
+## 2021-03-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The school board agenda includes several items related to student well-being and educational policies.  Policy 3115 addresses the enrollment rights and services for homeless students.  The board will consider a second reading and adoption of this policy. Additionally, Policy 3112 focuses on creating a positive social-emotional climate within schools. The board will conduct a first reading of this policy. A first reading is also scheduled for Policy 6000, which outlines procedures for program planning, budget preparation, adoption, and implementation.  Finally, the Superintendent will deliver a report on district activities.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-agenda.txt)
 
 ## 2020-11-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -162,6 +206,14 @@ On January 8, 2019, the Bellingham School District Board of Directors visited Ro
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-01-08-minutes.txt)
 
+## 2018-05-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board meeting agenda for May 9, 2018, includes a discussion on the superintendent's compliance with policy EL-8 regarding the District Calendar.  The board will determine if any revisions to the policy are necessary. Additionally, the meeting features a study session focused on Social and Emotional Learning.
+
+Several informational items are also on the agenda, including reports from school board directors, discussions about recent community linkage meetings and school board visits, and a review of the updated GP-7.2, 2017-18 annual board agenda. The meeting concludes with a board assessment and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-05-09-agenda.txt)
+
 ## 2018-05-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail discussions on various topics. A key focus was the review and acceptance of monitoring reports for policies EL-8 (District Calendar) and another unspecified policy.  The board, following Policy Governance principles, reviewed superintendent compliance with these policies and determined no changes were necessary to the former, while minor edits were accepted for the latter.
@@ -200,6 +252,12 @@ The Bellingham School District Board of Directors visited Carl Cozier Elementary
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-07-minutes.txt)
 
+## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District #504 held a work session on October 26, 2017, at Lynden High School.  The agenda included standard items like meeting minutes and a consent agenda for personnel actions. Notably, the board dedicated time to discussing "District Long Range Planning" and "Social Emotional Learning" as part of their work session. This suggests a focus on developing long-term educational strategies and incorporating social-emotional learning into the curriculum.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-agenda.txt)
+
 ## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes and personnel recommendations highlight several key areas of focus.  The board discussed social-emotional learning initiatives, including staff training, student programs, and community outreach related to harassment, intimidation, bullying (HIB), and suicide awareness. They reviewed data from the Washington State Healthy Youth Survey and emphasized communication with staff, students, and youth organizations on these important topics.
@@ -226,6 +284,12 @@ Updates were also provided on academic progress, including course mapping aligne
 Finally, the board engaged in **community engagement** by discussing feedback from a recent community meeting regarding school climate and safety. They also reviewed applications for open po...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-03-23-minutes.txt)
+
+## 2016-11-03 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda outlines a regular meeting and study session scheduled for November 3, 2016.  The agenda includes a discussion on Social/Emotional Learning as part of the study session. Additionally, the board will review monitoring reports related to Superintendent expectations (EL-1) and communication with the board (EL-5). These reviews aim to determine if the Superintendent is in compliance with existing policies. The meeting also features informational items such as directors' reports and discussions on school board visits and linkages. Finally, the agenda concludes with a board assessment of the meeting and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-11-03-agenda.txt)
 
 ## 2016-10-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

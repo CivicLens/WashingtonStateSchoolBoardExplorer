@@ -12,11 +12,11 @@ The meeting followed a regular board meeting on April 22, 2024, where Resolution
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Erika Creydt](board_member_11.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_12.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
-| [Cliff Freeman](board_member_13.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
-| [Ryan Swinburnson](board_member_14.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
-| [Steve Galbraith](board_member_15.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
+| [Erika Creydt](board_member_6.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_7.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_8.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
+| [Ryan Swinburnson](board_member_9.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
+| [Steve Galbraith](board_member_10.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-...[truncated, use api for full text] |
 
 ## 2023-03-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

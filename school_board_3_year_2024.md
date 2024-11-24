@@ -1,245 +1,164 @@
-# Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2024
+# Meeting Summaries for TAHOMA_SCHOOL_DISTRICT in 2024
 
-## 2024-11-02 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-11-16 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-This document outlines the time commitment and meeting schedule expectations for members of a school board.  It details the frequency and timing of various meetings including board meetings, executive sessions, officer/committee meetings, school visits, board retreats, and site adoptions. The document also mentions opportunities for professional development through organizations like WSSDA (Washington State School Directors Association) and NSBA (National School Boards Association). Additionally, it highlights the importance of community engagement and lists events where board members can interact with constituents, staff, and other school district representatives.  The document emphasizes that attendance at board meetings is expected and absences beyond four consecutive meetings may resul...[truncated, use api for full text]
+The Tahoma School District Board of Directors has scheduled a work study session for Saturday, November 16, 2024, at 8:00 a.m.  The meeting will be held at the Central Services Center and a virtual option will be available via Zoom. The agenda includes an opening with a call to order, attendance, and the Pledge of Allegiance. The primary focus of the session is a training and team-building exercise led by Kristine McDuffy from Hazard, Young, Attea & Associates.  The training aims to develop the Board and Superintendent's skills and foster collaboration. The meeting concludes with an adjournment.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-02-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-11-16-agenda.txt)
 
-## 2024-11-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-11-12 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-This document provides information for prospective school board candidates in the Bellingham School District. It outlines key resources and expectations related to serving on the board. The text details the district's adherence to Policy Governance, a model emphasizing board oversight and strategic direction rather than direct operational involvement.  Candidates are directed to materials explaining the model, including "Gene Royer’s School Board Leadership 2000" and examples from other districts like University Place.
+The Tahoma School District Board is holding a work study session on November 12, 2024, to discuss elementary school improvement plans.  The meeting will be held at the Central Services Center with a virtual option available via Zoom. Plans for Tahoma Elementary, Glacier Park Elementary, and Rock Creek Elementary will be presented to the board. Accompanying documents include detailed School Improvement Plans for each institution as well as a consolidated slide deck outlining key points across all three schools.  The session aims to foster community engagement by providing transparency into the district's academic standards and improvement strategies for its elementary schools.
 
-The document also highlights ethical expectations for board members, referencing the Bellingham School Board Code of Conduct (GP-8) and policies regarding compensation and expenses (GP-10).  Additionally, it emphasizes community engagement by encouraging prospective candida...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-11-12-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-01-minutes.txt)
+## 2024-10-22 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-## 2024-10-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+This school board agenda outlines a variety of topics for discussion and action.  The board will review and potentially approve several policy revisions, including the retirement of Policy 5314 Tax Deferred Account/Compensation and the revision of Policies 2090 Program Evaluation), 6111 Tuition, and 6605 Student Safety Walking, Biking and Riding Buses to School. The agenda also includes a First Reading for revised policies relating to special education tuition (Policy 611 Meeting Minutes FINAL.pdf (148 KB)
+The board will review personnel reports for certificated, classified and Coach staff.
 
-The Northgate School District held a school board meeting to discuss the district's cell phone policy. Student representatives from different grade levels shared their perspectives on the current policy, highlighting both its positive and negative aspects. Students expressed a desire for more flexibility in phone use, particularly around class start and end times, and suggested that the policy could be applied with more individualized consideration. They also noted instances of students circumventing the rules and advocated for a more respectful approach to enforcement. The meeting aimed to gather student input on the cell phone policy as part of a broader effort to improve school practices based on student voice.  The meeting concluded with expressions of gratitude from the board presiden...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
+There is a discussion item on the Board Inquiry Tracking System (BITS).  The agenda concludes with an Adjournment.
 
-## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-22-agenda.txt)
 
-The Bellingham School Board discussed diversity and inclusion efforts during a school visit. They commended the presentation of the school's work on equity, diversity, and inclusion (EDI) to the board.  The board is considering taking action in response to funding dilemmas faced by districts. Options include adopting a resolution formalizing their viewpoint or writing a letter to the community. A committee consisting of Ms. Mason and Mr. Ritchey will draft both a resolution and a letter for the board's consideration at their upcoming retreat during the WSSDA conference in November. The goal is to raise awareness about the financial challenges facing schools and encourage community support.
+## 2024-10-08 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-minutes.txt)
+The Tahoma School Board will be discussing several policy changes at their October 8th meeting. These include revisions to policies regarding tuition (Policy 6111), bid or request for proposal requirements (Policy 6220) and insurance (Policy 6530). Additionally, the board will consider retiring Policy 6010 Fiscal Year and adopting a new Minimum Fund Balance policy (Policy 
+First Reading Revise Policy 6700 Nutrition.pdf (78 KB), First Reading Adopt Policy 6702 Wellness.pdf (3 KB))
 
-## 2024-10-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-08-agenda.txt)
 
-The Bellingham School District Board of Directors visited Happy Valley Elementary School on October 1, 2024.  The purpose of the visit was to learn about the school's social-emotional learning curriculum and its integration with International Baccalaureate (IB) programs, Teacher Principal Evaluation Program (TPEP), and Universal Design for Learning (UDL). The board used a rubric provided by the school principal to assess classrooms during their visit. Following the classroom visits, the board engaged in a debriefing session to discuss key takeaways from their observations.  The meeting highlighted the district's focus on student well-being and the implementation of comprehensive learning approaches that address both academic and social-emotional needs.
+## 2024-10-03 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-01-minutes.txt)
+The Tahoma School Board will hold a retreat on October 3rd, 2024, to discuss various topics related to board operations and future planning. The agenda includes discussions on board director roles for 2025, conference attendance policies, reflections on the previous year's achievements, priorities for the upcoming academic year, and the development of a work study schedule for 2024/25.  
 
-## 2024-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+The board will also review hiring policies, receive an update on the Studer improvement plan and school format, and engage in discussions regarding the strategic planning process. The retreat aims to establish clear goals and strategies for the Tahoma School District moving forward. Specific policy changes mentioned include updates to Policy 5000 (Recruitment and Selection of Staff) and related procedures...[truncated, use api for full text]
 
-The Bellingham School Board meeting minutes highlight several key topics.  The board approved contracts related to mental health services for students, including agreements with Northwest Educational Service District 189 and the Sendan Center. Additionally, they discussed school safety measures, referencing a state grant for electric vehicle charging stations which suggests an interest in mitigating environmental risks and promoting sustainable practices on school grounds. The meeting also included reports from board directors highlighting positive community engagement initiatives like block parties and back-to-school events.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-03-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-09-12-minutes.txt)
+## 2024-09-24 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-### Board Member Actions
+The agenda includes several first readings for new and revised district policies. These include Policy 2124 - 47890-4782 KB)  The board will also vote on a $10,500  KB)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Katie Rose](board_member_10.md) | voted yes on motion | Unanimous affirmative vote. |
 
-## 2024-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+Policy 6701 (Recess and Physical Activity), and Policy 6702 (Wellness). The agenda indicates that the board will be reviewing these policies for potential adoption.
 
-The Bellingham School District Board of Directors held a special meeting on August 16, 2024, to discuss various topics related to community engagement and board ethics.  The meeting focused on brainstorming ideas for linkage and student roundtable meetings in the upcoming school year (2024-25) as part of their "Engaging Our Community" initiative. The Board also reviewed potential topics for future study sessions and other learning opportunities, aiming to enhance their understanding of educational issues. Additionally, they discussed strategies for strengthening connections among board members.  Committees provided updates on refining the board's self-assessment document and monitoring response document for Ends reporting. Superintendent Greg Baker shared updates with the board. The meetin...[truncated, use api for full text]
+Additionally, there's a discussion item regarding the Board Inquiry Tracking System (BITS). Finally, the board will vote on approving several trips for students, including the THS FFA to Randle, WA and the THS Future Film Makers to Glendale, CA. They will also review the 2023/24 Annual Athletic Report and approve the 2024/25 BEA Compliance.  The agenda concludes with a vote on a $10,500 donation from the Rock Creek Elementary PTO.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-08-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-09-24-agenda.txt)
 
-## 2024-08-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-The meeting minutes detail the Bellingham School Board's approval of several inter-agency agreements and personnel recommendations. Notably, the board discussed a budget deficit attributed to insufficient state funding.  Board members also shared updates on community engagement efforts, including discussions about the district budget with community members.  The board president assessed the meeting as commendable.
+The Tahoma School District Board meeting agenda outlines several topics for discussion and action.  One item is the first reading of a revised Policy 3207 titled "Prohibition of Harassment, Intimidation or Bullying." Another item addresses the approval of a ThoughtExchange Community Engagement Platform. This platform will allow for community feedback on district matters. The board will also be reviewing the first reading of revisions to Policy 5010, "Nondiscrimination and Affirmative Action," with Director of Human Resources Scott Mitchell available to answer questions.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-08-15-minutes.txt)
+The agenda also includes discussion regarding coach personnel reports and a Board Inquiry Tracking System (BITS).
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_6.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_8.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
-| [Jenn Mason](board_member_7.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_9.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
-| [Katie Rose](board_member_10.md) | abstained | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Fam...[truncated, use api for full text] |
-| [Douglas Benjamin](board_member_6.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_8.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
-| [Jenn Mason](board_member_7.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_9.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
-| [Katie Rose](board_member_10.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Co...[truncated, use api for full text] |
-| [Jenn Mason](board_member_7.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
-| [Camille Diaz Hackler](board_member_8.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+## 2024-07-23 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+This document outlines a school board meeting agenda. Several items on the consent agenda involve approving travel for staff members to attend conferences.  This could potentially raise concerns regarding the use of public funds and parental oversight of educational spending decisions.
 
-This document is a school board monitoring response to a report on the district's progress towards its Ends policies. The board commends the district for its success in several areas, including the Latinos in Action program, principled behavior at Northern Heights High School, and growth in reading scores based on i-Ready data. They also highlight the positive impact of compacted math options and online learning tools.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-07-23-agenda.txt)
 
-The board expresses concern over attendance rates, which they hope will improve to at least the state average.  They suggest exploring creative solutions to support students with multiple interests, particularly in music education during middle school. The board acknowledges the challenges inherent in this but emphasizes the importance of fostering a lifelong appreciation f...[truncated, use api for full text]
+## 2024-07-02 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
+**Tags:** 
 
-## 2024-07-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+* **parental-rights**
+* **policy-changes**
+* **student-health**
+* **school-safety**
+* **curriculum-transparency**
+* **budgeting/finance** (implied by discussions on approving expenditures)
 
-The Bellingham School District Board of Directors met on July 6, 2017, to discuss various agenda items.  A key topic was the board's response to monitoring report EL-6 regarding Academic Standards and Practices. Following discussion, the board approved changes to the policy, including requiring the superintendent to appropriately involve stakeholder groups in academic standard decisions and timely communicate material changes. The revised policy also mandates a periodic systematic review of academic content, standards, curriculum, materials, and instruction involving appropriate stakeholders.  Additionally, the board discussed deleting the reference to the month in the Monitoring Frequency reference on all EL policies.
+**Summary:**
 
-The meeting also covered consent agenda items such as approval of minu...[truncated, use api for full text]
+This document appears to be an agenda for a school board meeting. It outlines various discussion topics and proposed actions related to budgeting, facility maintenance, and technology purchases.  
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-06-minutes.txt)
+**Key Points Highlighting Tags:**
 
-## 2024-06-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a regular meeting on June 20, 2018.  The meeting included updates from Superintendent Greg Baker regarding district accomplishments, budget development and projections for the upcoming year. Resolution 13-18 related to bond issuance and sale was approved along with Resolution 14-18 which requested a transfer of funds from the Capital Projects Fund to the General Fund. The board also discussed and approved several contracts including YMCA Before and After School Care (#1819-001) and the 2018-19 Northwest Career & Technical Academy Agreement (#1819-003).  Directors shared reflections on recent high school graduation ceremonies and reviewed GP-7.2, the annual board agenda. The meeting adjourned at 7:06 p.m.
+* **Parental-Rights:**  The agenda mentions resolutions requiring board approval for expenditures, suggesting a degree of parental oversight or input in financial decisions.
+* **Policy Changes:** The meeting includes discussions on approving resolutions (Resolution 2024-12), indicating potential modifications to existing school policies.
+* **Studen...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-07-02-agenda.txt)
 
-## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-06-11 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-The Bellingham Public Schools board meeting minutes highlight the district's commendable progress in various areas, including academic standards and curriculum transparency.  The report showcases examples like compacted math for middle schoolers and online learning tools as positive additions to the curriculum. The board expresses appreciation for the district's focus on student autonomy through initiatives like the 5th-grade strings program. Additionally, the district's commitment to social-emotional learning and mental health support is lauded.  The minutes also reflect a desire for continued improvement in attendance rates, particularly in light of pandemic-related challenges. The board encourages exploration of creative solutions to address scheduling conflicts that may discourage midd...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
 
-## 2024-06-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-06-11-agenda.txt)
 
-The Bellingham School District Board of Directors visited Wade King Elementary School on June 4, 2024.  The visit included a presentation from the principal, Courtney Ross Webb, and a performance by the school choir. Board members also had the opportunity to learn more about two programs: the Roots of Empathy program and the International Baccalaureate (IB) exhibition. The meeting concluded at 8:30 am. This visit highlights the board's commitment to community engagement and understanding the diverse programs offered within the district.
+## 2024-06-04 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-04-minutes.txt)
+This agenda outlines a special meeting of the Main Governing Board on June 4th, 2024.  The meeting will be held at the Central Services Center in Maple Valley, WA with a virtual option available via Zoom. The agenda includes standard opening procedures like calling the meeting to order and recognizing attendees.  
 
-## 2024-05-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+A "Discussion Item" is listed as "Annual Employee Retiree Recognition." This suggests recognition of retiring staff members will take place during the meeting. The agenda concludes with an adjournment. 
 
-The Bellingham School District held a community linkage meeting to gather feedback on the Bellingham Family Partnership Program (BFPP). Parents and guardians shared their positive experiences with the program, highlighting its sense of community, flexibility, and range of support services. They also expressed a desire for improvements such as high school options and increased capacity.  The meeting served as a platform for parental feedback and demonstrated the district's commitment to engaging families in shaping educational programs. The BFPP appears to be well-regarded by participants who value its individualized approach and supportive environment.
+The text also notes accommodations for individuals with disabilities who wish to participate in the meeting.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-06-04-agenda.txt)
 
-## 2024-05-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-05-28 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-The Bellingham School Board reviewed the superintendent's annual report on the district calendar development process.  The board expressed strong commendation for the superintendent's inclusive approach, which involves broad stakeholder engagement, attention to evolving holidays and bargaining changes, enhanced professional development opportunities, family engagement strategies, and clear communication. While no specific policy changes were proposed, the board acknowledged the superintendent's effective implementation of existing policies related to calendar development. The report highlighted the district's commitment to balancing the needs of various stakeholders, including families and staff, while reflecting the values outlined in "The Bellingham Promise."
+The Tahoma School District Board meeting agenda for May 28th, 06/16-27/2024.  The board will discuss and vote on several action items including approving the Renaissance Learning Diagnostic Assessment; a resolution to recycle technology (Resolution 2024-10)
+Second Reading Revise Policy 6112 Rental or Lease of District Real Property.pdf (287 KB)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-16-minutes.txt)
+A first reading of a proposal for adoption of THS Pre Calculus Curriculum is also on the agenda. The board will consider approving the consent agenda, which includes items such as payment summaries and policy revisions related to school discipline and student data privacy. 
+KB).  The agenda also contains a discussion of the district's budget update for the 2024-2025 academic year.
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-05-28-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_6.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_8.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_9.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Katie Rose](board_member_10.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+## 2024-05-14 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-## 2024-05-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+This document outlines the agenda for a school board meeting. Several items relate to diversity and inclusion efforts, including revisions to policies on public information, system of funds and accounts, dangerous weapons regulation, and real property rental/lease. There's also discussion regarding student autonomy with a focus on revising policy 4210 which relates to public information programs.
 
-The Bellingham School District Board of Directors held a visit to Alderwood Elementary School on May 7, 2024.  The purpose of the visit was for the board to hear from students about how the school's Promise Outcomes – Character, Knowledge and Action – are implemented in practice. The meeting highlighted student autonomy by giving them a platform to share their experiences and perspectives on these outcomes. This visit also demonstrates the school board's commitment to community engagement by actively seeking input from students and staff at Alderwood Elementary School.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-05-14-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-07-minutes.txt)
+## 2024-05-07 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-## 2024-04-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+The Tahoma School District (TSD) Board will hold a work study session on May 7th, 2024 at 6:00 PM. The meeting will be held in person at the Central Services Center and virtually via Zoom.  The agenda includes an opening with a call to order and attendance, followed by a discussion on the TSD's 2024/25 strategic goals. There will also be a period for public comment. Finally, the session will conclude with an adjournment. The meeting materials are available online, including a PDF document outlining the specific details of the strategic goals discussion.
 
-The Bellingham School District Board of Directors held a special meeting on April 26, 2024, at Duck Soup in Friday Harbor, Washington.  The meeting was primarily for informational purposes and consisted of a general discussion among board members and Superintendent Greg Baker over a meal. No official decisions were made during the meeting. The meeting adjourned at 8:00 p.m.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-05-07-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-26-minutes.txt)
+## 2024-04-23 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School Board reviewed a report on student outcomes, focusing on graduation rates and the impact of Career and Technical Education (CTE) programs.  The board expressed satisfaction with narrowing graduation gaps between Hispanic/Latinx and non-Hispanic/Latinx students, as well as low-income students. They also commended the growth of CTE programs for their ability to engage diverse student interests. However, concerns were raised about the widening gap in graduation rates for multilingual learners. The report highlighted income as a significant contributor to graduation rate disparities.  The board discussed the potential impact of COVID-19 on standardized test scores and expressed optimism for future improvement. They also acknowledged the district's commitment to addressing...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-04-23-agenda.txt)
 
-## 2024-04-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-04-02 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-The Bellingham School District Board of Directors visited Squalicum High School on April 16, 2024.  The meeting focused on student leadership opportunities and the positive culture at Squalicum High School. Students shared stories about their experiences and what they appreciated about the school environment. The visit highlighted the importance of student voice and autonomy within the school community. Additionally, the presence of both students and staff suggests a commitment to community engagement and fostering a safe and supportive learning environment.
+The Tahoma School District Board is holding a work study session on April 2nd, 2024.  The meeting will focus on discussion items related to academic standards and the 2024/25 budget. PSESD Superintendent John Welch will be in attendance. Chief Financial Officer Bill Hernandez will provide an update on preliminary enrollment and revenue projections for the upcoming school year. The session will also include a review of relevant documents, including the Tahoma SD Slides for April 2024 and the District Budget Work Study Session materials.  The meeting will be held at the Central Services Center with a virtual option available via Zoom.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-04-02-agenda.txt)
 
-## 2024-04-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-03-26 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-The Bellingham School District Board of Directors held a special meeting on April 12, 2024, via Zoom.  The primary action taken was the unanimous approval of Resolution 10-24, which modified the 2023-24 school board regular meeting schedule. This indicates a procedural change in the board's operations rather than substantive policy changes related to curriculum, student life, or other potentially controversial topics. The brevity of the meeting and the sole focus on scheduling suggest routine administrative matters were addressed.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-12-minutes.txt)
 
-### Board Member Actions
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-26-agenda.txt)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jenn Mason](board_member_7.md) | voted yes on Resolution 10-24, Modification of 2023-24 School Board Regular Meeting Schedule | Resolution 10-24 modifies the schedule for regular school board meetings |
-| [Katie Rose](board_member_10.md) | voted yes on Resolution 10-24, Modification of 2023-24 School Board Regular Meeting Schedule | Resolution 10-24 modifies the schedule for regular school board meetings |
+## 2024-03-19 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-## 2024-03-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+The text outlines the agenda for a work study session of the Main Governing Board on March 19, 2024.  The meeting will include standard opening procedures such as a call to order and the pledge of allegiance. A discussion item is scheduled regarding engagement with members of PTA/PTO. The agenda also notes that a video/audio recording of the meeting will be available afterwards. Individuals requiring modifications to participate are advised to contact the Superintendent's Office in advance.
 
-The Bellingham School District Board of Directors held a community linkage meeting focused on gathering feedback about Career and Technical Education (CTE) programs.  The meeting aimed to understand the strengths and areas for improvement within the CTE offerings, aligning them with the district's long-term strategic plan, "The Bellingham Promise." Parents, students, community members, and school staff participated in discussions, highlighting the value of hands-on learning, strong tech offerings, and diverse pathways. Suggestions for improvement included expanding agriculture programs, strengthening connections with local industries, particularly in healthcare, and exploring opportunities for grant writing to enhance CTE resources. The board expressed appreciation for the valuable input r...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-19-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-26-minutes.txt)
+## 2024-03-12 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
-## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+The March 12, 2024 school board meeting agenda covers a range of topics including student health and safety. The board will receive updates on student health and consider a presentation regarding the Diane Cranley Consulting Update
+2. Approve Superintendent Contract for 2024-09-2024 Regular Board Meeting
 
-This excerpt from school board meeting minutes focuses on a report regarding student academic performance and the district's efforts to address learning loss stemming from the COVID-19 pandemic. Board members commend the progress made in math and science, particularly in comparison to other districts. They acknowledge that while improvements are evident, further progress is needed to fully recover from the pandemic's impact on student learning. The discussion highlights the district's commitment to closing proficiency gaps and its ongoing efforts to support teachers through professional development and curriculum adoption.  There is a positive sentiment towards the district's focus on racial equity and addressing achievement disparities.
+3. Meeting Minutes from the February 15, 202024 Regular Board Meeting
+4. Personnel Actions - New Hires/Resignations
+5. Interfund Transfer Tech Levy (Sep'23-Feb '24 Regular Board Meeting
+6. Policy Revision: First Reading of Revised Policy 5310 Compensation
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
+The board will also discuss a first reading for revising policy 5310 compensation. The agenda includes an action item to approve the consent agenda. The consent agenda encompasses routine matters such as payment summaries, meeting minut...[truncated, use api for full text]
 
-## 2024-03-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a meeting on March 6, 2024, at the new District Office to tour the facility.  All board members except Director Katie Rose were present for the brief tour, which lasted from 5:15 p.m. to 5:55 p.m. The meeting was presided over by Board President Douglas Benjamin and minutes were recorded by Superintendent Greg Baker.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-06-minutes.txt)
-
-## 2024-03-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors visited Lowell Elementary School on March 5, 2024.  The purpose of the visit was to learn about Lowell's implementation of the International Baccalaureate (IB) program and observe how staff collaborate to develop units of inquiry. The board toured several classrooms and engaged with students and staff. This visit highlights the school district's commitment to diversity-inclusion through its adoption of the IB program, which is known for its emphasis on international mindedness and intercultural understanding.  The visit also demonstrates the school board's commitment to community engagement by directly interacting with the Lowell Elementary School community.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-05-minutes.txt)
-
-## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
-
-Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues relat...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
-
-## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-This document details the Bellingham School Board's monitoring response to policy EL-9.1, "Facility Improvement or Development Involving Bond Measure Proposal." The board commends the superintendent for robust long-term facilities planning that incorporates diverse community voices and aligns with the district's commitment to equity as outlined in "The Bellingham Promise."  
-
-The board recommends deleting the first line of section 1 of the EL-9.1 policy, which mandated informing the board about the formation of a facilities and bond planning task force through the consent agenda. This change suggests a desire for more transparent and direct communication regarding bond proposals. The document also highlights the superintendent's success in seeking balanced input from staff, parents, and co...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-22-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_6.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Jenn Mason](board_member_7.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_8.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_9.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Katie Rose](board_member_10.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-
-## 2024-02-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors conducted a visit to Northern Heights Elementary School on February 6, 2024.  The purpose of the visit was to learn about the school's music program, observe the construction progress of four new classrooms, and receive updates on planned field improvements. The visit facilitated community engagement by allowing board members to directly interact with Kulshan Middle School staff and Executive Team members, gaining firsthand insights into the school's operations and initiatives.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-06-minutes.txt)
-
-## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-This text focuses on a school board's review of a report detailing progress towards the district's long-term facilities plan. The plan is explicitly designed to prioritize equity and align with "The Bellingham Promise," which suggests a commitment to racial equity within the district.  Board members commend the superintendent for robust community engagement in the planning process, highlighting diverse representation on the Facilities Planning Task Force. While no areas for improvement are identified, the board discusses a proposed policy change (EL-9.1) to remove the requirement that updates be presented through the consent agenda, allowing for greater flexibility in communication.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-18-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_6.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_8.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Jenn Mason](board_member_7.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_9.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Katie Rose](board_member_10.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-
-## 2024-01-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors visited Northern Heights Elementary School on January 9, 2024.  The visit focused on the school's implementation of social-emotional learning programs and the Since Time Immemorial curriculum, specifically a lesson on Treaty Day. The board heard from the principal and staff about these initiatives and then toured classrooms to observe them in action.
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-12-agenda.txt)
 

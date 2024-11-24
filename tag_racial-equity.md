@@ -1,5 +1,29 @@
 # Meeting Summaries for Tag: racial-equity
 
+## 2024-11-06 - FERNDALE_SCHOOL_DISTRICT (Agenda)
+
+The Ferndale School District No. 502 held a study session on April 18, 2023, focused on the implementation of a Land Acknowledgment Statement.  The session included presentations from Lummi Tribal members who discussed the history and significance of their ancestral lands. The board also engaged in discussion regarding the process used to develop the statement and its potential incorporation into school curriculum. This initiative reflects the district's commitment to diversity-inclusion and racial equity by recognizing and honoring the Indigenous peoples who originally inhabited the land where the schools are located.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-06-agenda.txt)
+
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting agenda includes a discussion on the district's efforts to promote racial equity. Several documents are attached for review, including "DRAFT Discipline Protocols for Discrimination Incidents" and the "2024 Student Justice Conference Program." The session also features a presentation titled "P9 Study Session Slidedeck 10.28.24".  The Board will discuss various resources and initiatives aimed at fostering diversity and inclusion within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
+
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on October 28, 2024, to review information on Superintendent Parameter 9 - Equity.  The meeting was called to order at 5:02 PM and adjourned at 6:42 PM.  Attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The specific content discussed regarding Superintendent Parameter 9 - Equity was not detailed in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
+
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting will include a discussion on the district's efforts to promote racial equity. Supporting documents for the session include slide decks, discipline protocols for discrimination incidents, and materials from the Student Justice Conference. The Board will also review resources such as the Racial and Educational Justice Toolkit and a handbook outlining the district's approach to racial and educational justice.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
+
 ## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board discussed diversity and inclusion efforts during a school visit. They commended the presentation of the school's work on equity, diversity, and inclusion (EDI) to the board.  The board is considering taking action in response to funding dilemmas faced by districts. Options include adopting a resolution formalizing their viewpoint or writing a letter to the community. A committee consisting of Ms. Mason and Mr. Ritchey will draft both a resolution and a letter for the board's consideration at their upcoming retreat during the WSSDA conference in November. The goal is to raise awareness about the financial challenges facing schools and encourage community support.
@@ -16,14 +40,14 @@ The school board meeting minutes detail discussions and votes on various positio
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_23.md) | Voted yes on motion to approve the dairy bid submitted by Dairy Valley Distributing | Director Brar seconded Director Owsley's motion to approve the dairy bid. |
-| [Khush Brar](board_member_23.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 21- African American Studies Wo...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and ...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 44- Native American Instruction...[truncated, use api for full text] | Director Owsley motioned to approve the legislative committee’s recommended vote...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 48- School Athletics Officials | Director Brar motioned to approve the legislative committee’s recommended vote. ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | Abstained from voting on motion to approve the legislative committee’s recommended vote for Position 48- School Athletic...[truncated, use api for full text] | Director Brar abstained. |
-| [Ken Owsley](board_member_22.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 8- Climate Impact Mitigation A...[truncated, use api for full text] | Director Owsley opposed. |
-| [Ken Owsley](board_member_22.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and...[truncated, use api for full text] | Director Owsley opposed. |
+| [Khush Brar](board_member_18.md) | Voted yes on motion to approve the dairy bid submitted by Dairy Valley Distributing | Director Brar seconded Director Owsley's motion to approve the dairy bid. |
+| [Khush Brar](board_member_18.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 21- African American Studies Wo...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and ...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 44- Native American Instruction...[truncated, use api for full text] | Director Owsley motioned to approve the legislative committee’s recommended vote...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 48- School Athletics Officials | Director Brar motioned to approve the legislative committee’s recommended vote. ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | Abstained from voting on motion to approve the legislative committee’s recommended vote for Position 48- School Athletic...[truncated, use api for full text] | Director Brar abstained. |
+| [Ken Owsley](board_member_17.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 8- Climate Impact Mitigation A...[truncated, use api for full text] | Director Owsley opposed. |
+| [Ken Owsley](board_member_17.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and...[truncated, use api for full text] | Director Owsley opposed. |
 
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -32,6 +56,12 @@ This document is a school board monitoring response to a report on the district'
 The board expresses concern over attendance rates, which they hope will improve to at least the state average.  They suggest exploring creative solutions to support students with multiple interests, particularly in music education during middle school. The board acknowledges the challenges inherent in this but emphasizes the importance of fostering a lifelong appreciation f...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
+
+## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda focuses on several key items related to diversity and inclusion.  The board will discuss monitoring reports for Ends 1 (Strategic Mission and Vision), 2 (Outcomes Focused on Knowledge) and 3 (Outcomes Focused on Character and Action) to determine if the superintendent is in compliance with policy. Additionally, they will review the Annual Affirmative Action Progress Report based on October 2023 data, which was prepared by Human Resources Executive Director Arionda Feeney. This report assesses the progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The agenda also includes a discussion on the performance review of a public employee.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-agenda.txt)
 
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -49,23 +79,23 @@ The school board meeting minutes detail discussions and votes on several policy 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_21.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Ken Owsley](board_member_22.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for su...[truncated, use api for full text] |
-| [Khush Brar](board_member_23.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity ...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Jim Verburg](board_member_24.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submissi...[truncated, use api for full text] |
-| [Danny Martinez](board_member_25.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for H...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_16.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Ken Owsley](board_member_17.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for su...[truncated, use api for full text] |
+| [Khush Brar](board_member_18.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity ...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Jim Verburg](board_member_19.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for sub...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA ...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submissi...[truncated, use api for full text] |
+| [Danny Martinez](board_member_20.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for H...[truncated, use api for full text] |
 
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -85,11 +115,11 @@ The board recommends deleting the first line of section 1 of the EL-9.1 policy, 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_6.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Jenn Mason](board_member_7.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_8.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_9.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
-| [Katie Rose](board_member_10.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_1.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Jenn Mason](board_member_2.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_3.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_4.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
+| [Katie Rose](board_member_5.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Develop...[truncated, use api for full text] |
 
 ## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -101,8 +131,26 @@ The Ferndale School District held a special meeting on January 30, 2024, to disc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Peggy Uppiano](board_member_17.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
-| [Nancy Button](board_member_19.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Peggy Uppiano](board_member_12.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Nancy Button](board_member_14.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Administrative Center Board Room will host a study session on January 22, 2024, at 5:00 PM.  The meeting's primary focus is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps." This goal suggests a commitment to diversity-inclusion and racial-equity within the school system. The Board will review information regarding this goal, including data presented in documents titled "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on January 22, 2024, to review information related to Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps.  The meeting focused on strategies to ensure academic growth for all students while addressing disparities in educational outcomes and opportunities. The specific details of the strategies discussed were not included in the provided text. The session adjourned at 6:49 PM.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines an agenda for a study session of the Board of Directors scheduled for January 22, 2024.  The primary focus of the meeting is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps."  This goal will be reviewed during the discussion portion of the meeting. The board will review information presented in two attached documents: "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."  The agenda also includes standard items such as a call to order, list of attendees, and end of meeting.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
 
 ## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -114,11 +162,23 @@ This text focuses on a school board's review of a report detailing progress towa
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_6.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_8.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Jenn Mason](board_member_7.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_9.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
-| [Katie Rose](board_member_10.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_1.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_3.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Jenn Mason](board_member_2.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_4.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+| [Katie Rose](board_member_5.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established i...[truncated, use api for full text] |
+
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors met on January 8, 2024.  The meeting included standard agenda items such as budget reports, capital project updates and a discussion about offering childcare during meetings to encourage parental involvement. A new policy, "Racial Equity," was discussed but no details were provided regarding its content or implementation. The board also reviewed a Deductive Change Order for the Northshore School District Concert Hall at Inglemoor High School.  Additionally, the Board discussed upcoming Advocacy meetings and reviewed individual member reports detailing their participation in various events.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
+
+## 2023-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda outlines several discussion points related to policy governance review.  Specifically, the board will be reviewing and discussing B/SR-1 (Board/Superintendent Connection), B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation), and B/SR-3.1.1 (Monitoring Response Document) for potential revisions. The agenda also mentions a monitoring report on EL-10, Race and Equity, received by the board on October 12, 2023. The board will review feedback to determine if the superintendent is in compliance with the policy.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-11-09-agenda.txt)
 
 ## 2023-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -131,6 +191,12 @@ The provided text details a school board meeting discussion focused on the distr
 The Ferndale School District held a study session focused on adopting a Land Acknowledgment Statement. Led by Heather Leighton, Vista Principal and Lummi Tribal Member, the session featured presentations from Lummi Nation leaders and community members who shared perspectives on the history of the land and the importance of recognizing Indigenous presence. The process of developing the statement was described, highlighting its adoption by Lummi Nation resolution and its intended public use. Discussions also touched upon protocol for reciting the acknowledgment and the significance of creating a welcoming environment for Native students.  The session concluded with an invitation from Chairman Hillaire for the school board to attend the First Salmon ceremony.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-04-18-minutes.txt)
+
+## 2022-12-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes discussion items related to monitoring superintendent compliance with policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will review a monitoring report on EL-10, Race and Equity, and determine if the superintendent is in compliance. The board will also discuss whether the superintendent is in compliance with policy EL-5, Communication and Counsel to the Board.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-12-14-agenda.txt)
 
 ## 2022-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -172,11 +238,35 @@ This excerpt from school board meeting minutes focuses on student academic perfo
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-16-minutes.txt)
 
+## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School District Board of Directors will hold a special meeting on February 25, 2022, via Zoom.  The meeting agenda includes reviewing and discussing several policies. Policy EL-9, Asset Maintenance and Protection, and Policy EL-10, Race and Equity, will be reviewed. Additionally, the board will discuss linkages/study sessions/roundtables review, board improvement plan review, board routines, and the superintendent's mid-year report/evaluation. The meeting will not include public comment time.  The specific changes being considered for each policy are not mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-agenda.txt)
+
 ## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors met on February 25, 2022 to discuss several policy matters.  The board reviewed Policy EL-9 (Asset Maintenance and Protection) and Policy EL-10 (Race and Equity), considering potential changes and future information for monitoring reports. They also discussed the structure of board meetings, dinner meetings, and their involvement with the National School Board Association. The Superintendent's mid-year report was presented, allowing the board to provide feedback on his performance.  The meeting concluded at 2:38 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-minutes.txt)
+
+## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The December 8, 2021 school board meeting agenda includes discussions on monitoring reports for policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will vote on whether the superintendent is in compliance with these policies. Additionally, the board will review an updated annual board agenda (GP-7.2 - 2021-22 Annual Board Agenda, Revised). The meeting concludes with a board assessment and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-agenda.txt)
+
+## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The May 26, 2021 school board meeting agenda includes several items relevant to diversity and inclusion initiatives.  The Superintendent's Report will include information on district activities, potentially including updates on equity programs. Additionally, the Instructional Materials Committee, presented by Dr. James Everett, Superintendent, will be introduced. This committee is composed of Adrienne Somera (chairman), Todd Torgeson (Administrative Representative), Lisa Buckley (Elementary - Intermediate Representative), and Natalie Eining (Elementary- Primary Representative). The meeting agenda also includes a Finance Report from Daniel Yorton, Director of Business and Finance, which will cover budget and finance updates.  Finally, the Superintendent's Report will include information on ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-agenda.txt)
+
+## 2021-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes an informational item reviewing the updated annual board agenda (GP 7.2). This review highlights changes from the previous version.  An action item addresses the Annual Affirmative Action Progress Report. This report, based on October 2020 data, details progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The report was prepared by Human Resources Director JoAn Steiner.  The agenda also includes standard items for board meeting assessment and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-12-agenda.txt)
 
 ## 2021-04-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -206,11 +296,23 @@ Additionally, the board heard from Peg Zaremba-Born regarding the needs of secon
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-02-25-minutes.txt)
 
+## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda details discussions regarding monitoring reports on two policies: EL-3, Treatment and Communication with Public, Parents and Students, and EL-10, Race and Equity.  The board will review feedback and determine if the superintendent is in compliance with these policies. Additionally, the board will review an updated annual board agenda (GP-7.2 - 2020-21 Annual Board Agenda, Revised) for informational purposes. The agenda notes that changes from the previous version are highlighted.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-agenda.txt)
+
 ## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This school board meeting summary focuses on the district's efforts to address equity and inclusion. The addition of a Director for Equity, Diversity and Inclusion (DEI) and a Mental Health Coordinator are highlighted as key steps.  The report also mentions increased engagement with families, particularly those historically less connected, through the expansion of the Family Engagement Team. The district acknowledges the impact of COVID-19 on student mental health and outlines initiatives to provide support. Concerns about applying an equity lens consistently across district initiatives and a need for more comprehensive support during crises are raised.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-minutes.txt)
+
+## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+
+The MSD School Board agenda includes discussion points related to diversity and inclusion. Specifically, Superintendent Dr. James Everett will provide details on establishing the MSD Equity and Access Committee and the MSD Community Involvement Committee. These committees suggest a focus on promoting racial equity and inclusive practices within the school district.  The agenda also features a financial update presented by Daniel Yorton, Director of Business and Finance.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-agenda.txt)
 
 ## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -223,6 +325,12 @@ The Meridian School District #505 Board met on January 13, 2021 via Zoom.  The m
 The Mount Baker School District held a regular meeting on October 8, 2020 via Zoom.  The agenda included items related to COVID-19, such as a discussion on community school reopening and a draft phased re-entry plan.  The board also discussed racial equity initiatives, including the district's participation in Mount Baker District Equity Training. Other topics covered during the meeting included approval of minutes from previous meetings, consent agenda items such as personnel actions, purchases, accounts payable, payroll, donations, and MOUs, and reports from the Superintendent and Executive Director of Finance & Operations.  The meeting concluded with a review of upcoming meeting dates and an adjournment at 7:15 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-08-minutes.txt)
+
+## 2020-09-17 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
+
+The Deming School District Board has scheduled a work session on September 17, 2020.  The agenda includes "Opening Items" consisting of a call to order, the Pledge of Allegiance, and approval of the agenda. The main focus of the work session is an "Equity Discussion". There are no further details provided regarding the content or scope of this discussion. Following the equity discussion, the meeting concludes with an adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-17-agenda.txt)
 
 ## 2020-09-17 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -262,6 +370,12 @@ The school board meeting minutes highlight discussions on diversity and inclusio
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-17-minutes.txt)
 
+## 2020-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The School Board of Directors will hold a two-day special meeting on February 28th and 29th at the Environmental Learning Center in Rockport, Washington.  The agenda includes discussion items focused on reviewing EL-10, which concerns race and equity; discussing board professional development; conducting the superintendent's mid-year evaluation and contract review; addressing communications and board visibility strategies; completing a WSSDA self-assessment; and providing updates on big picture district initiatives. The meeting will also include time for other topics as determined by the board.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-28-agenda.txt)
+
 ## 2020-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes detail discussions on various topics. Notably, the board reviewed a presentation highlighting student work and initiatives related to diversity, equity, and inclusion (EDI).  The board also engaged in a study session focused on sustainability within the district, with presentations from staff members across departments like finance, buildings and grounds, safety, food services, and wellness. 
@@ -270,6 +384,24 @@ Additionally, the minutes mention Ms. Diaz Hackler's attendance at the WSSDA leg
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-19-minutes.txt)
 
+## 2020-01-29 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda includes discussions on monitoring reports for two policies: EL-9, Asset Maintenance and Protection, and EL-10, Race and Equity.  The board will determine if the superintendent is in compliance with these policies following feedback from individual board members.  Additionally, the board will review an updated annual agenda (GP-7.2) highlighting changes from the previous version.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-29-agenda.txt)
+
+## 2020-01-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This agenda excerpt details two instances of the school board reviewing monitoring reports related to district policies.  The first report concerns EL-9, Asset Maintenance and Protection, while the second focuses on EL-10, Race and Equity. Following standard practice outlined in Policy Governance, the board will assess whether the superintendent is adhering to these policies based on the feedback provided by individual board members. The agenda also includes a review of the updated 2019-20 annual board agenda (GP-7.2) for informational purposes only.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-15-agenda.txt)
+
+## 2019-11-20 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The text details a school board meeting agenda for November 20, 2019.  The board will be reviewing and discussing several policies related to the Superintendent's role and responsibilities, including B/SR-1 (Board/Superintendent Connection), B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation) and B/SR-3.1.1 (Monitoring Response Document). The board will determine whether the superintendent is in compliance with EL-10, a policy related to Race and Equity.  The agenda does not provide specifics about the content of these policies or any proposed changes.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-20-agenda.txt)
+
 ## 2019-11-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes highlight various activities undertaken by board members to promote diversity and inclusion within the school district.  Ms. Mason visited Wade King Elementary School, observing the integration of students from AIMS (Access in Mainstream Setting) and Life Skills programs into mainstream classrooms. Sehome High School's student-led equity work, involving a homecoming event simulation where students experienced perspectives from different backgrounds, was also discussed. This initiative led to changes for future homecoming events. 
@@ -277,6 +409,12 @@ The school board meeting minutes highlight various activities undertaken by boar
 Additionally, the minutes mention Ms. Diaz Hackler's attendance at Maria Salazar's lecture and Sunnyland's Halloween event, further demonstrating community engagement efforts.  Mr. Benjamin attended a WSSDA Region 1 meeting focuse...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-20-minutes.txt)
+
+## 2019-10-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board meeting agenda includes a monitoring report for EL-10, Race and Equity.  The report is presented as part of the board's Policy Governance framework. Additionally, the agenda lists an informational item reviewing GP-7.2, the 2019-20 annual board agenda, which has been recently updated with changes highlighted for review.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-10-16-agenda.txt)
 
 ## 2019-10-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -295,6 +433,12 @@ The Bellingham School Board meeting minutes highlight discussions centered aroun
 The Bellingham School Board meeting minutes detail discussions and actions related to policy changes focused on racial equity.  The board unanimously adopted a new policy, EL-10, titled "Equity and Race".  A minor change was also made to GP-7.1, the board's self-assessment policy.  The board considered adding monitoring dates for the newly adopted EL-10 policy to their annual agenda (GP-7.2). No further details are provided regarding the content of the "Equity and Race" policy or the specific changes made to GP-7.1.
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-08-14-minutes.txt)
+
+## 2019-07-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The July 24, 2019 school board agenda includes several informational items and discussion topics. Notably, the board will discuss "Equity Policy (EL-10)," which focuses on race and equity.  The agenda also features a discussion on "Student Voice" with a provided toolkit. Additionally, the board will review a "WSSDA Self-Assessment" and "Board Meeting Assessment Data." Finally, there's a scheduled discussion on "Climate Change/Conservation."
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-24-agenda.txt)
 
 ## 2019-07-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

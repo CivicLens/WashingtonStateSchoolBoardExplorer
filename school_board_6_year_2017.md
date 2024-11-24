@@ -1,149 +1,268 @@
-# Meeting Summaries for LYNDEN_SCHOOL_DISTRICT in 2017
+# Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2017
 
-## 2017-12-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2017-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details personnel changes within a school district. It outlines new hires, leaves of absence (both maternity and unpaid), resignations, and retirements for both certificated (teachers) and classified (non-teaching) staff.  The document also notes a "Change in Assignment" for two individuals, Susan Fiebig and Lori Jo Allison, both working as Para Educators. The district is experiencing teacher shortages, evident in the need to find replacements for Kooiman and Elsner.
+The school board minutes detail a regular meeting on December 6, 2017. Two resolutions were unanimously approved: Resolution 32-17 and Resolution 33-17, relating to the sale of real estate parcel 380316504243.  The meeting also included informational items from school board directors regarding their attendance at the WSSDA Annual Conference. Ms. Diaz Hackler discussed a potential presentation on the district's 4x8 schedule and requested a discussion on Boards of Distinction be added to a future retreat agenda. Other updates included Ms. Peterson addressing parental questions about course selection under the new 4x8 schedule and Ms. Bashaw sharing insights from her visit with Squalicum High School GRADS students. The meeting concluded with an assessment by Ms. Diaz Hackler and an adjournmen...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-12-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-06-minutes.txt)
 
-## 2017-12-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2017-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District Board of Directors held a special meeting on December 12, 2017, to discuss the future use of the surplus Glenning Street property.  The board invited community members to share their concerns and perspectives regarding the potential development of the land. Suggestions included maintaining it as open space for recreation, exploring learning opportunities for children, and considering the construction of affordable housing. The board acknowledged the diverse viewpoints expressed and emphasized their responsibility to serve the educational needs of students while also being fiscally responsible.  The meeting concluded without a definitive decision on the property's future use.
+The Bellingham School District Board of Directors visited Columbia Elementary School on December 5, 2017. The meeting focused on discussing the school's outcomes and their connection to the Bellingham Promise.  The board also learned about the work of the Columbia Parent Association in supporting equity and inclusion. Additionally, they observed classroom practices aimed at fostering the social and emotional development of students. No specific policies were mentioned or discussed during the visit.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-12-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-minutes.txt)
 
-## 2017-12-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2017-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Lynden School District Board of Directors held a special meeting on December 5, 2017, at Lynden High School Library to discuss college and career readiness.  The meeting, which began at 6:32 PM and concluded at 8:25 PM, brought together board members and community stakeholders to explore strategies for engaging students in preparation for successful contributions to society.
+The Bellingham Public Schools Board of Directors is scheduled to visit Columbia Elementary School on December 5th, 2017 at 7:30 am. The purpose of this visit is to learn how the school is implementing "The Bellingham Promise," a framework outlining the district's educational goals and commitments.  Columbia Elementary School is located at 2508 Utter St in Bellingham, WA.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-12-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-agenda.txt)
 
-## 2017-11-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2017-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details personnel changes within a school district. It lists leaves of absence for both certificated and classified personnel, specifying reasons like medical leave.  The document also outlines resignations and retirements for both certificated and classified staff. Additionally, it highlights supplemental assignments undertaken by various individuals, including roles like athletic assistant, best mentor, and concessions coordinator.
+The Bellingham School District Board of Directors visited Carl Cozier Elementary School on November 7, 2017.  The purpose of the visit was to observe how the school utilizes lunch and recess periods to support social-emotional learning.  The board also learned about the implementation of resources from the Elementary Technology Pilot program, which are being used to enhance inquiry-based learning and family engagement. The meeting concluded at 8:30 a.m.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-11-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-07-minutes.txt)
 
-## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2017-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Lynden School District Board meeting minutes and personnel recommendations highlight several key areas of focus.  The board discussed social-emotional learning initiatives, including staff training, student programs, and community outreach related to harassment, intimidation, bullying (HIB), and suicide awareness. They reviewed data from the Washington State Healthy Youth Survey and emphasized communication with staff, students, and youth organizations on these important topics.
+The Bellingham Public Schools Board of Directors will be visiting Carl Cozier Elementary School on November 7th, 2017 at 7:30 a.m.  The purpose of the visit is to learn how the school is implementing "The Bellingham Promise," which focuses on delivering educational outcomes for students. The visit will include a roll call and a tour of the school facilities.
 
-The meeting also addressed long-term strategic planning for the district, specifically regarding facilities and future facility needs. The board considered program space, classroom space, community space, property requirements, and potential levy needs to accommodate growth and evolving educational demands.  
-...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-07-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
+## 2017-11-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-10-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The school board meeting minutes detail revisions made to the district's "Ends" policies.  Specifically, Item 3 was amended to change the pronoun used for the Superintendent from "he/she" to "they." This alteration reflects a shift towards more inclusive language. No further explanation or rationale for this change is provided in the minutes. The meeting also included updates on visits by local political representatives to Options High School and discussions regarding upcoming WSSDA regional and annual conferences.
 
-This document details personnel changes within a school district. It lists resignations, retirements, and terminations of both certificated (teachers) and classified (support staff) personnel. The effective dates and reasons for departure are provided, along with information about replacements.  The document also highlights several supplemental assignments, including coaching positions for various sports. Notably, the text mentions a teacher shortage, evident in the need to replace departing staff members. There is no mention of any policy changes related to curriculum or student life.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-01-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-19-minutes.txt)
+## 2017-11-01 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2017-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The agenda outlines a series of discussions scheduled for the November 1, 2017 Regular Board Meeting.  The School Board will review and discuss several policies related to superintendent evaluation (B/SR-3), annual summative evaluation (B/SR-3.1) and the monitoring response document format (B/SR-3.1.1). The board aims to consider possible revisions for each of these policies as part of their ongoing Policy Governance review. Additionally, the agenda includes informational items such as School Board Directors' Reports and a review of the updated annual board agenda (GP-7.2).
 
-The Lynden School District held a public hearing on October 12, 2017, to discuss the surplus of district property located on Glenning Street.  Several community members voiced their opinions and suggestions for the future use of the property. Sean-Jean Withrow advocated for the property to be designated as civic space, while Paul Harris emphasized the need to consider neighborhood and community needs in determining its use. Michael Baglioni expressed his desire to see the property become part of the City Parks and Recreation Department, remaining an open space for the community. The School Board will likely consider these recommendations when making a decision about the future of the Glenning Street property.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-01-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-12-minutes.txt)
+## 2017-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2017-09-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board will hold a special meeting on October 24, 2017, at Brandywine Kitchen in Bellingham, WA.  The purpose of the meeting is to discuss school district initiatives, issues, and general business in an unstructured format. This is not a regular School Board meeting and will not include public comment time. The agenda includes opening items such as meeting date and location and roll call, followed by informational items/discussion regarding general topics within the school district.  Closing items consist of adjournment.
 
-This document details personnel changes within a school district.  Several classified staff members are transferred to new positions or locations, with adjusted hours. Carol Rachinski is moved from Paraeducator 1 & 3 to Paraeducator 3 at LHS (likely an abbreviation for a local high school) for 6 hours per day. Alicia Blankers begins a 4-hour per day Secretary 2 position at LHS.  Cheryl Caesar takes maternity leave, and Martha Kooiman takes unpaid personal leave. Carol Miner resigns from her Secretary position at Isom. Cynthia Smith resigns from her Paraeducator 3 position at Fisher. Marcus McKee is promoted from Assistant Coach to Head Coach for Boys Basketball at LMS (likely an abbreviation for a local middle school). Warren Scotter resigns as a coach at LMS. The document also notes that ...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-10-24-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-09-28-minutes.txt)
+## 2017-10-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-09-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The meeting minutes detail a regular school board meeting held on October 19, 2017.  The agenda included items such as approving service agreements with various organizations, including Capital Region ESD 113 and the City of Bellingham. The board also reviewed personnel recommendations, personal services contracts, and monitoring reports for EL-1 and EL-5. During the informational portion, board members shared updates on visits from Senator Kevin Ranker and Senator Patty Murray's education representative to Options High School. They also discussed a protocol for a special meeting/dinner scheduled for October 24th. The meeting adjourned at 6:57 p.m.  The minutes note that the board assessment of the meeting was deferred.
 
-The Lynden School District Board of Directors held a joint meeting with the Lynden City Council and the Lynden Parks and Recreation District Board of Directors to discuss capital needs, maintenance issues, land developments, demographic changes, economic development, and partnerships.  The meeting highlighted the community's rapid growth and the need for strategic action and communication among all agencies to address these changes. The Chamber of Commerce Executive Director encouraged open communication with residents. Additionally, Superintendent Tim discussed ongoing efforts to ensure a positive learning environment for all students, emphasizing appropriate resources and coordination involving students, families, and the community.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-10-19-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-09-21-minutes.txt)
+## 2017-10-19 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2017-09-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+This document details the agenda and associated materials for a school board meeting on October 19, 2017.  The agenda includes consent items such as a monitoring report for EL-5, Communication and Counsel to the Board. The document also lists informational items including School Board Directors' Reports. Finally, the agenda concludes with closing items: Board Assessment of Meeting and Adjournment.  There are several policy status spreadsheets listed for different series (1000, 2000, 3000, 4000, 5000, and 6000). The document also outlines the board's process for handling consent agenda items, allowing for removal by majority vote and placement on the regular agenda.
 
-This document details personnel changes within a school district.  It outlines several policy changes including the replacement of paraprofessionals due to resignations and a 2 hour increase in hours for a specific position. The document also notes a leave of absence for a certificated employee (Tamara Brandvold) at LHS due to maternity leave and a personal leave for Cheryl Fraser, a classified employee at BVE.  The district is experiencing teacher-staff shortages as evidenced by the resignation of several staff members including Karen Stahlecker, Cook's Helper at BVE, and Teri Hilt, Secretary at LHS. The document also lists supplemental assignments for various coaching positions within the district.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-10-19-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-09-14-minutes.txt)
+## 2017-10-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-08-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School District Board of Directors held a special meeting on October 13, 2017, at Options High School.  The meeting included a tour of the school led by students and staff for State Senator Kevin Ranker. During the tour, attendees discussed new district initiatives such as the 4x8 schedule and the 1:1 technology initiative. The meeting concluded with an adjournment at 10:30 am.
 
-This document outlines personnel recommendations for the Lynden School District. It details new hires, changes in assignments, and leaves of absence for both certificated (teachers) and classified (non-teaching) staff. Notably, there is a .40 FTE leave replacement position for a PE teacher at Isom Elementary, highlighting potential staffing challenges. The document also records the retraction of a Sped Teacher position acceptance by Duane Penner at LMS, further indicating difficulties in filling special education roles.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-10-13-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-08-10-minutes.txt)
+## 2017-10-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2017-07-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The San Juan Island School District Board of Directors will participate in a tour of the new Options High School on October 13, 2017, at 10:00 AM.  The tour, led by State Senator Kevin Ranker, will include discussions with students and staff regarding various district initiatives. This event is classified as a special meeting and will not include a public comment period. The purpose of the tour is to provide the Board with firsthand experience of the new facility and insights into the programs and services offered at Options High School.
 
-This document outlines personnel changes within a school district. It details leave requests, resignations, and retirements for both certificated (teachers) and classified (non-teaching) staff. Notably, there are several instances of teachers retiring, suggesting potential teacher shortages.  The document also highlights adjustments to special education support staff hours due to schedule changes and the need for additional coverage. This points to ongoing challenges in providing adequate special education services within the district.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-10-13-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-07-13-minutes.txt)
+## 2017-10-03 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2017-06-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham Public Schools Board of Directors will be visiting Birchwood Elementary School on October 3, 2017, at 7:30 a.m.  The purpose of this visit is to observe how the school is implementing "The Bellingham Promise," which focuses on delivering quality education and support to students. The visit agenda includes opening items such as roll call and a tour of the school facilities. Following the visit, there will be closing items including an adjournment.
 
-This document details personnel changes within a school district.  It lists several leaves of absence for classified personnel (Hurt, Valeria and Olin, Kristin) due to unpaid medical leave. The document also notes resignations from certificated personnel (VanBeek, Kelsie) who resigned to accept a teaching position elsewhere and Erickson, Michelle, a paraeducator. Additionally, Sluss, Karen, a secretary, is retiring.  The document highlights ongoing teacher-staff shortages with the need to replace coaches for various sports due to resignations. The district is actively seeking replacements for these positions.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-10-03-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-06-22-minutes.txt)
+## 2017-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-06-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Mount Baker School Board held a regular meeting on September 14, 2017.  During the meeting, the Policy Governance Enhancement Committee proposed a new Executive Limitations Policy (EL-9.1) which codified the process used to pass a bond resolution. This policy was unanimously approved by the board. The Board Handbook Committee requested review of proposed edits by the November 1st board meeting. School board directors shared reports on their attendance at various school-related activities, including upcoming events like the WSSDA Legislative Assembly and a tour of Options High School by Senator Kevin Ranker. A study session was held focusing on recent legislative changes impacting revenue streams and funding formulas for schools, presented by Attorney Buzz Porter. The meeting concluded ...[truncated, use api for full text]
 
-This document appears to be a portion of school board meeting minutes detailing staffing changes within the district. Several coaching positions are listed as being vacated, with resignation dates provided for each. The document also lists the names and roles of individuals who will be taking on new positions within the district. Notably, there is a mention of "From girls to boys" in relation to a coach's transition, suggesting potential gender-related staffing adjustments.  The text highlights a shortage of teachers and staff, as evidenced by the numerous resignation entries.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-09-14-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-06-08-minutes.txt)
+## 2017-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2017-05-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The agenda includes discussion on proposed changes to the school board's Executive Limitations policy (EL-9.1) regarding facilities and bonds.  The board will also review an updated annual board agenda (GP-7.2). Additionally, a study session is scheduled to discuss recent legislative changes.
 
-This document details personnel changes within a school district.  It outlines leaves of absence for both certificated (teachers) and classified (non-teaching staff) personnel, specifying the reasons for leave (personal, medical, or change in assignment). The document also lists resignations and retirements for certificated and classified staff. Notably, there are several open positions, highlighting a potential teacher-staff shortage within the district.  The document further details new hires and changes in assignments for various personnel. Specific support for special education is mentioned with the listing of a Para Educator position.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-09-14-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-05-25-minutes.txt)
+## 2017-08-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-05-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School District Board of Directors held a regular meeting on August 24, 2017.  The board discussed and approved several consent agenda items including resolutions related to funding transfers, school schedules, and agreements with various organizations like the University of Washington College in the High School program, Sendan Center for services, Northwest Educational Service District 189 for a Highly Capable Program Cooperative Agreement, and Bellingham Technical College Running Start Program.  The board also reviewed and approved Governance Process (GP) 7.2 - Annual Board Agenda for the 2017-18 school year.
 
-The Lynden School Board meeting addressed several key issues.  The board approved a re-engagement plan aimed at providing alternative support for students struggling in traditional school settings. They also unanimously passed Resolution No. 04-17, reaffirming the district's adherence to WIAA rules and regulations. A list of instructional and library materials recommended by the Instructional Material Committee was approved.
+Discussions during the meeting included updates on the start of the school year, with a focus on smooth transitions and new initiatives like adjusted start/end times...[truncated, use api for full text]
 
-The board further discussed and approved construction change orders for Lynden Middle School and Fisher Elementary, adding four classrooms, system improvements, and field preparation.  Policy changes were a significant focus, with the board conducting a second reading and subsequent approval of several policies: #2145 (Suicide Prevention), #2145P (Suicide Prevention P...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-24-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-05-11-minutes.txt)
+## 2017-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-04-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School District Board of Directors held a special meeting on August 16, 2017, at Happy Valley Elementary School.  The board discussed several topics, including the creation of a committee to further develop the "Bellingham Promise" vision. They also reviewed the draft annual board calendar for the 2017-18 school year and discussed utilizing the WSSDA Board Self-Assessment Model. Additionally, the board considered its role in initiating school bonds under the policy governance model and planned to revise the board handbook at a future meeting. Other discussion items included board adoptions of schools, responsibilities related to the WSSDA Legislative Representative position, and an update from Superintendent Baker on the 2017-18 budget, facilities, and labor negotiations.
 
-This document outlines personnel recommendations for the Lynden School District.  It details new hires, resignations, and changes in assignment for both certificated (teachers) and classified (support staff) personnel. Notably, there is a resignation of .10 FTE, indicating a potential teacher shortage. The document also highlights a leave of absence for a classified employee, Peggy Dykstra, who works as a Cook's Helper at BVE.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-16-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-04-27-minutes.txt)
+## 2017-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2017-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School Board held a special meeting on August 16, 2017, to discuss several informational items. These included reviewing the district's vision and the Bellingham Promise initiative, finalizing the annual board calendar for the 2017-18 school year, and discussing the Washington State School Directors' Association (WSSDA) self-assessment model. The board also planned to address the role of the board in policy governance related to school bonds, form a committee for the Board Handbook, and discuss other relevant items such as legislative representative roles and a preview of the 2017-18 school year.  The meeting did not include public comment time.
 
-This document details personnel recommendations for the Lynden School District.  Several new hires are listed across both certificated and classified personnel. Notably, the document mentions an increase in FTE (Full-Time Equivalent) for a position previously vacated by Hanson.  The document also outlines changes in assignment for Shirley Lee, who will transition to a PE Teacher role at BVE. The district is facing teacher-staff shortages, as evidenced by the need to fill vacancies and increase FTEs for existing roles.  Finally, the document lists several resignations and retirements across both certificated and classified personnel.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-16-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-04-13-minutes.txt)
+## 2017-08-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2017-03-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School District Board of Directors held a meeting on August 9, 2017 to discuss various matters related to the upcoming school year. Key topics included the adoption of the 2017-18 budget (Resolution 20-17), which saw increased support for special education and counseling. The board also approved several resolutions and personnel recommendations, including those pertaining to health care contracts (Resolution #17-044) and instructional materials.
 
-The Lynden School District Board meeting focused on several key areas.  The board discussed a "Response to Intervention" (RTI) program aimed at providing support for students struggling with bullying, suicide, and social/emotional issues. This initiative highlights the district's commitment to **mental health** and **social-emotional learning**.
+The meeting highlighted ongoing efforts to enhance school safety and student well-being.  Updates were provided on the progress of the new school year, including construction projects and staffing updates. The board also discussed a self-assessment of their governance practices based on a survey conducted by the Washington State Sch...[truncated, use api for full text]
 
-Updates were also provided on academic progress, including course mapping aligned with standards and plans for common assessments and learning design. This demonstrates a focus on maintaining **academic standards** and promoting **curriculum transparency**.  
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-09-minutes.txt)
 
-Finally, the board engaged in **community engagement** by discussing feedback from a recent community meeting regarding school climate and safety. They also reviewed applications for open po...[truncated, use api for full text]
+## 2017-08-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-03-23-minutes.txt)
+This school board agenda includes a consent item regarding a personal services contract for Debbie Roth to serve as a sign language interpreter. The contract outlines her responsibilities, including interpreting at open houses, parent conferences and public events to ensure compliance with the Americans with Disabilities Act.  The agenda also features items related to school board self-assessment and a study session on board self-assessment tools.
 
-## 2017-03-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-09-agenda.txt)
 
-This document details personnel changes within a school district. Several policy changes are evident, including adjustments to staffing levels due to leaves of absence, retirements, and new hires.  The district is experiencing teacher-staff shortages, as evidenced by the need to fill positions vacated by retiring teachers and the hiring of new classified personnel. Notably, Maria Hansen-Quine is taking a leave of absence from her counselor position at Fisher school, while Raymond VanBeek, a groundskeeper for the district, is on unpaid medical leave. The document also highlights the retirement of Ronald Hanson, a teacher at BVE, effective August 1, 2017.  The need to address mental health within the district is implied by the mention of Hansen-Quine's return from medical leave and the hirin...[truncated, use api for full text]
+## 2017-07-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-03-09-minutes.txt)
+The Bellingham School District Board of Directors held a special meeting and public hearing on July 6, 2017, to discuss a proposed amendment to Resolution 14-13. The original resolution allocated bond proceeds for the construction of a new central kitchen. The amendment sought to allow the use of these funds for the purchase of an existing building instead.  No members of the public provided testimony for or against the amendment. The board subsequently took action on the amendment during their regular meeting that evening.
 
-## 2017-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-07-06-minutes.txt)
 
-This document details personnel changes within the Lynden Academy school district. Several positions are being filled or vacated due to resignations, retirements, and leaves of absence. Notably, Wendy Neff is transitioning from a Secretary 2 position to a Secretary 3 role with increased hours.  Heidi Telling is also starting as a Secretary 2. The document highlights a shortage of staff, particularly bus drivers, with Douglas Mather taking a medical leave. Additionally, Patricia Haveman and Carol Broersma are resigning from their Para Ed positions. Several supplemental assignments are being filled, including coaching roles for JV Fastpitch, Athletic Assistant, and JV Volleyball.  The resignation of Joshua Fitts as JV Volleyball Coach is also noted.
+## 2017-07-06 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-02-15-minutes.txt)
+The Bellingham School Board held a special meeting and public hearing on July 6, 2017, to discuss amending Resolution 14-13. This resolution, originally adopted on June 27, 2013, outlined eligible capital improvements funded by the 2013 bond issue. The proposed amendment aimed to allow bond proceeds to be used for purchasing an existing building instead of constructing a new central kitchen, as initially planned. This change was prompted by the district's identification of a suitable existing building that could be converted into a central kitchen.  The public hearing served to gather community feedback on the proposed amendment before the school board took action during a subsequent regular meeting.
 
-## 2017-01-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-07-06-agenda.txt)
 
-This document outlines personnel changes within a school district. It details leaves of absence for both certificated and classified personnel, including reasons such as maternity leave, student relocation impacting bus routes, and overload situations.  The document also lists resignations and retirements for both certificated and classified staff. Notably, there are several open supplemental assignments, highlighting potential teacher-staff shortages. The district is actively seeking individuals to fill positions like Head Volleyball Coach, Head Boys Golf Coach, Varsity Volleyball Assistant Coach, and Athletic Assistant for Volleyball. Additionally, the document mentions special education support with Judith McKenzie returning to full duty after a leave of absence and working as a Para Ed...[truncated, use api for full text]
+## 2017-06-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-01-26-minutes.txt)
+The Bellingham Public Schools board meeting minutes detail revisions to the district's strategic vision and mission statement, as well as proposed changes to several GP (Governance Process) policies.  The revised mission emphasizes student preparedness for success in the global community. Specific outcomes focus on knowledge acquisition in areas like reading, writing, science, mathematics, history, global thinking, arts, trades, multilingualism, and technology. The board also approved revisions to GP-7 (Agenda Planning), GP-4 (Monitoring Board Governance Process and Board-Staff Relationship Policies), and GP-4.1 (Board Self-Assessment). These revisions included renaming and renumbering some policies, and rolling GP-4 into GP-7.  The revised Annual Board Agenda will be a recurring informati...[truncated, use api for full text]
 
-## 2017-01-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-06-20-minutes.txt)
 
-This document details personnel changes within a school district. It outlines new hires, leaves of absence, resignations, and changes in assignment for both certificated (teachers) and classified (non-teaching staff) personnel.  Several entries specifically mention the need to fill positions due to leave or resignation, highlighting a potential teacher-staff shortage. The document also includes information about special education support, noting a resignation from a Speech Language Pathologist position (.20 FTE).
+## 2017-06-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-01-12-minutes.txt)
+The provided text consists solely of six form feed characters ("\x0c"). This sequence does not contain any information related to educational policies, student demographics, or school board activities. Therefore, the most appropriate tag is "student-privacy" as it indirectly relates to the potential for data privacy concerns when dealing with seemingly empty or obfuscated data.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-06-08-minutes.txt)
+
+## 2017-06-06 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Sehome High School on June 6, 2017, at 7:30 a.m.  The purpose of these visits is to learn how each school is delivering upon "The Bellingham Promise." This visit is part of the board's regular practice of visiting different schools throughout the school year. The location of Sehome High School is 2700 Bill McDonald Parkway in Bellingham, WA.  The agenda for the visit includes opening items such as roll call and a visit to the school, followed by closing items including adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-06-06-agenda.txt)
+
+## 2017-05-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors met on May 25, 2017 to discuss a variety of topics.  The board reviewed Superintendent Baker's announcements which included updates on the 2017-18 budget, start and end times for the upcoming school year, school calendar development, and facilities updates. The board approved consent agenda items including resolutions, agreements, and memorandums related to various programs and services. Policy governance focused on monitoring reports for Ends 1, 2, and 3, highlighting positive trends in graduation rates and the impact of restorative justice practices.
+
+The board also reviewed proposed revisions and consolidations to several policies: GP-3 (Board Job Description), GP-3.1 (The Board President), and GP-3.2 (Board Committees). These revisions ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-05-25-minutes.txt)
+
+## 2017-05-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham Public Schools Board discussed the superintendent's progress on Ends 2.1 (part 3) goals. While acknowledging "reasonable progress," the board expressed a desire for greater advancements. Dr. Smith proposed amendments to Items 4 and 5 of the policy, aiming to elevate student performance in comparison to high-performing districts. The revised Item 4 focuses on continuous advancement towards on-time graduation and extended graduation options, while the revised Item 5 emphasizes increasing post-secondary education and career preparation participation rates exceeding those in comparable districts. This motion passed with a 4-1 vote.  The board also agreed to conduct a self-assessment using WSSDA's Board Self-Assessment tool, comparing results to their 2013 assessment. Lastly, the...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-05-11-minutes.txt)
+
+## 2017-05-11 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda outlines a discussion on a monitoring report for Ends 2.1, part 3 focusing on organizational continuity.  The board will assess the superintendent's compliance with this policy and consider potential modifications. Additionally, the agenda includes a review of proposed revisions to Policy Governance (GP) policies GP-3, GP-5, GP-6, and GP-6.1. These revisions involve consolidating and updating existing policies. The specific content and reasoning behind these changes are not detailed in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-05-11-agenda.txt)
+
+## 2017-05-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Sunnyland Elementary School on May 9, 2017, at 7:30 a.m.  The purpose of the visit is to learn how the school is implementing "The Bellingham Promise," an initiative focused on delivering quality education. The meeting agenda includes standard opening items such as roll call and a visit to the school itself, followed by closing items like adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-05-09-agenda.txt)
+
+## 2017-04-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The text focuses on the need for improved consistency and support for arts education within the Bellingham Public Schools district. Participants discuss the lack of a centralized approach to arts programming, leading to disparities in resources and opportunities across schools.  Kim Lund from the Bellingham Public Schools Foundation suggests creating an arts endowment for sustainable funding. Mike Copland proposes incorporating dance into the school day through an artist-in-residence program. The discussion highlights the importance of teacher support and community engagement in developing a comprehensive K-12 arts model.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-04-19-minutes.txt)
+
+## 2017-03-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The document presents draft minutes from a Bellingham School District Board of Directors special meeting held on March 29, 2017.  The meeting's primary focus was the approval of a consent agenda item: a Guaranteed Maximum Price Amendment with Dawson Construction Company. This amendment suggests changes to an existing contract for construction projects within the school district. The minutes also record the attendees present at the meeting, including School Board members and Superintendent Greg Baker.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-29-minutes.txt)
+
+## 2017-03-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This excerpt details the Bellingham School District's adherence to the  Annual Program Participation (APP) reporting requirements for state-funded school facilities built after December 31, 1993. The report, attached as "2016-17 APP Data.pdf," assesses the condition of various schools in the district, including Birchwood Elementary School, Fairhaven, Kulshan, and Shuksan middle schools, and Bellingham and Squalicum high schools.  The document confirms that all facilities exceed OSPI Building Condition Standards.
+
+Additionally, the agenda mentions a discussion on "Board Assessment of Meeting" according to Governance Process Policy GP-4.1, suggesting a self-evaluation process for board performance. The school board also planned to enter an Executive Session to discuss real estate acquisition...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-23-agenda.txt)
+
+## 2017-03-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The document outlines approved changes to Item 2 of the EL-4 policy. These changes mandate that the Superintendent ensure all staff are qualified and effective and provide appropriate training for all employee classifications. Additionally, the Superintendent must maintain salary schedules comparing district salary and benefits to those of comparable districts and establish a system for evaluating employees, providing written improvement plans, and monitoring progress. The document also includes informational items from a school board meeting, including reports on student support initiatives, attendance at a social media safety program, and updates on legislative actions related to higher education credits.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-09-minutes.txt)
+
+## 2017-03-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The provided text outlines agenda items for a school board meeting on March 9, 2017.  A key focus is the submission and review of Ends Monitoring Report 2.1, Part 2 which assesses Student Competence. The board will also discuss proposed revisions to GP-2, Governing Style, part of an annual review process. Additionally, the agenda includes a discussion on the Board's response to monitoring related to EL-4 - Staff Treatment, Compensation and Evaluation. This suggests a commitment to reviewing policies and ensuring alignment with established practices.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-09-agenda.txt)
+
+## 2017-03-07 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Silver Beach Elementary School on March 7th, 2017 at 7:30 am.  This visit is part of the board's regular practice of visiting different schools throughout the year to learn how each school implements "The Bellingham Promise".  The text also mentions a previous school board visit that took place on January 10th, 2016, to Shuksan Middle School. The agenda includes items for roll call and visiting the school.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-07-agenda.txt)
+
+## 2017-02-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The text outlines the agenda for a two-day special meeting of the Board of Directors.  The meeting will be held on February 24th and 25th, 2017 at the Environmental Learning Center in Rockport, WA. Topics to be discussed include Board Advocacy/Roles, Policy Governance, Board Candidate Orientation Planning, and Superintendent Evaluation. The agenda also includes time for "Other topics as determined".  The meeting will begin on February 24th at 3:15 pm and continue on February 25th at 8:30 am.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-02-24-agenda.txt)
+
+## 2017-02-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This document outlines consent and informational items for a February 15, 2017 school board meeting. Item 2.13 addresses EL-4, Staff Treatment, Compensation and Evaluation,  a policy monitored through reports submitted to the board. The meeting also includes informational items such as School Board Directors' Reports and Discussion of School Board Visits and Linkages.  Finally, closing items include a Board Assessment of Meeting and Adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-02-15-agenda.txt)
+
+## 2017-02-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Bellingham High School on February 14, 2017, at 7:30 a.m.  The purpose of the visit is to learn how the school is implementing "The Bellingham Promise," though specifics about this promise are not included in the text provided. The agenda includes standard opening items such as roll call and an informational/discussion segment on the board visit itself. Closing items consist solely of an adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-02-14-agenda.txt)
+
+## 2017-01-31 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This school board meeting transcript focuses on the challenges faced by students from low-income families and how the school district can better support them. Participants discussed the impact of poverty on student well-being, including issues like inadequate sleep. There was debate about whether schools should intervene in family life to address these issues, with some arguing for a stronger focus on creating a positive learning environment within the school itself. The idea of transforming schools into year-round community learning centers, similar to the Harlem Children's Zone model, was also proposed.  The meeting highlighted the need for better engagement with English-speaking families struggling with poverty, as these families often go unnoticed. Home visits were presented as a valua...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-31-minutes.txt)
+
+## 2017-01-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail discussions on various topics, including differentiation of instruction for students with diverse needs. Ms. Christiana elaborated on the Multi-Tiered System of Supports (MTSS) Rhombus and district efforts to support differentiated learning.  The board also reviewed GP-8, the Board Member Code of Conduct policy. One revision involved deleting Item 1a ("Board members agree to uphold the WSSDA Code of Governance") as the WSSDA Code no longer exists. Ms. Peterson highlighted the importance of "meaningful dialogue" within a policy governance model for transparency. The meeting concluded with informational items, including upcoming events like a presentation on internet safety by The White Hatter and a board retreat.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-26-minutes.txt)
+
+## 2017-01-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The document outlines the agenda for a school board meeting on January 26, 2017.  A key item is the review of GP-8, the Board Member Code of Conduct, to determine if revisions are necessary. Additionally, the board will engage in a study session focused on differentiation in education. This meeting also includes standard items such as a consent agenda for routine approvals and informational reports from board members. The document also mentions an annual affirmative action progress report based on data from October 2016.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-26-agenda.txt)
+
+## 2017-01-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The school board agenda focuses on reviewing the superintendent's progress towards achieving student competence goals outlined in Ends 2.1, Part 1.  The board will also discuss possible revisions to policies EL-1 and EL-5, though the specific content of these policies is not detailed in the provided text. Finally, the agenda includes a continuation of the review process for Governance Process (GP) policies, which are part of a broader subcommittee review taking place throughout the 2016-17 school year.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-12-agenda.txt)
+
+## 2017-01-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors conducts regular visits to schools within the district. The purpose of these visits is to observe how each school upholds "The Bellingham Promise," though the specific content of this promise is not detailed in the text. On January 10, 2017, the board visited Shuksan Middle School at 7:30 a.m.  The agenda includes standard items like roll call and adjournment. The visit itself is listed as an agenda item under "1. Opening Items" suggesting it's a key part of the meeting's structure.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-10-agenda.txt)
 

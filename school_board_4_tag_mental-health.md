@@ -1,8 +1,14 @@
-# Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: mental-health
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: mental-health
 
-## 2021-07-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Olympia School Board held a meeting where they approved the first reading of two new policies. Policy 5410 Holidays was updated and carried with a 4-0 vote.  Policy 5515 Workforce Secondary Traumatic Stress, focused on addressing staff emotional well-being, was also approved in its first reading. Dr. Granger explained that committee discussions related to this policy would focus on general practices rather than individual cases to protect privacy. The board discussed scheduling a special meeting for September 1st to address the SEIU agreement and considered holding executive sessions at 6:00 p.m. prior to regular meetings. Future agenda items include a public hearing on the 2021-2022 budget, a superintendent's report, consideration of the 2021-2022 budget adoption, approval of the 2021...[truncated, use api for full text]
+The school board agenda outlines a retreat meeting focused on several key topics related to student well-being and development.  The "Discussion" section includes items such as "Pool," potentially referring to a discussion about resources for students, followed by "Portrait / Profile of a Graduate," which suggests a conversation about desired outcomes and skills for graduating students. The agenda also lists "Artificial Intelligence" and "Data" as discussion points. It's unclear from the context how these topics relate to student well-being or autonomy, but they could be part of a broader conversation about using technology and data to support student learning and growth.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-07-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
+
+## 2024-01-16 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+
+The Board of Directors for an unnamed school district will hold a study session on January 16, 2024, to discuss student wellness and safety.  The meeting agenda includes a review of recommendations related to safety, security, and supervision. Additionally, the Board will examine the work plan developed by the Wellness and Safety Taskforce for the 2023-24 academic year. The task force's final report from December 2023 will also be discussed.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-16-agenda.txt)
 

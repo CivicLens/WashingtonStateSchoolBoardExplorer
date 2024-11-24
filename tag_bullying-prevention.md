@@ -1,5 +1,13 @@
 # Meeting Summaries for Tag: bullying-prevention
 
+## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Agenda)
+
+The Tahoma School District Board meeting agenda outlines several topics for discussion and action.  One item is the first reading of a revised Policy 3207 titled "Prohibition of Harassment, Intimidation or Bullying." Another item addresses the approval of a ThoughtExchange Community Engagement Platform. This platform will allow for community feedback on district matters. The board will also be reviewing the first reading of revisions to Policy 5010, "Nondiscrimination and Affirmative Action," with Director of Human Resources Scott Mitchell available to answer questions.
+
+The agenda also includes discussion regarding coach personnel reports and a Board Inquiry Tracking System (BITS).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-agenda.txt)
+
 ## 2024-05-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School Board held a meeting on May 16, 2024, to discuss Harassment, Intimidation and Bullying (HIB) and the school board budget for 2024-25.  A panel consisting of Dr. Chris Cochran (Director of Behavioral Health), James Walsh (Dean at Cascadia Elementary), Dawn Christiana (Principal at Cascadia Elementary), Ben Goodwin (Assistant Principal at High School), and Julia Besola (Assistant Principal at Vista Middle School) provided information on HIB prevention strategies. Holly Graham, the Finance Manager, presented the proposed budget which was developed collaboratively by the school board directors. The meeting adjourned at 7:35 PM.
@@ -25,6 +33,12 @@ The February 8, 2024 school board meeting addressed various topics related to st
 The Meridian School District #505 held a regular school board meeting on October 18, 2023.  The board reviewed and approved a consent agenda that included items such as meeting minutes, accounts payable, personnel reports, student travel, adult meal pricing, and a PT interlocal agreement. A key focus of the meeting was the first reading of several new or revised policies: Policy and Procedure 3207 – Prohibition of Harassment, Intimidation, and Bullying of Students; Policy 3210 - Nondiscrimination and Equity; Policy and Procedure 6240 – Meals with Meetings; and Procedure 3421F – Child Abuse, Neglect and Exploitation Prevention. These policies will be brought back for a second reading and approval at the November 1, 2023 meeting. The board also received reports on school data and district ac...[truncated, use api for full text]
 
 [View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-10-18-minutes.txt)
+
+## 2023-10-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+
+The Lynden School District Board meeting agenda focuses on routine matters such as good news reports, approval of meeting minutes and consent agenda items.  Policy changes are a significant part of the agenda with first readings for several new policies including Policy 1610- Conflicts of Interest, Policy 3520- Student Fees, Fines, and Charges, Policy 6217- Electronic Funds Transfer, Policy 6530- Insurance, Policy 6550- Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangements and Policy 6959- Acceptance of Completed Project. Second readings are scheduled for Policy 3207- Prohibition of Harassment, Intimidation, and Bullying of Students, Policy 6212- Charge Cards and Policy 6220- Bid or Request for Proposal Requirements. The board will also discuss the ...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-12-agenda.txt)
 
 ## 2022-01-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

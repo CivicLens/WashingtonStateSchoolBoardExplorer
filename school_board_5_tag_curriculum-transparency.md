@@ -1,10 +1,14 @@
-# Meeting Summaries for FERNDALE_SCHOOL_DISTRICT with Tag: curriculum-transparency
+# Meeting Summaries for SPOKANE_PUBLIC_SCHOOLS with Tag: curriculum-transparency
 
-## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+## 2024-02-21 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
 
-This school board meeting agenda and minutes cover a range of routine administrative topics. The Superintendent's Consent Agenda included approving contracts for various services like legal counsel, mental health professionals, substance use support, threat assessment, physical therapy, and autism center training.  The Board also reviewed the June 2023 Fund Balance Financial Statements and approved personnel hiring, supplemental contracts, resignations/retirements, and leave requests.
+The Spokane Public Schools Board will hold a special meeting on February 21, 2024, at 4:30 pm.  The agenda includes a work session focused on updating Priority Strategy #1 (Bond & Levy Ballot Initiative) following the recent February special election. Additionally, there will be a discussion on the budget development process and priorities for the 2024-2025 school year. Lastly, a legislative update on the current Washington State Legislative Session and its impact on the district's adopted legislative priorities will be presented. The meeting will be held in person at the Administration Building and accessible via Zoom.
 
-The Board Consent Agenda focused on approving minutes, reviewing the budget, and receiving a monitoring report for Operational Expectations Policy 2 (OE-2) regarding succession planning. They also adopted the Governance Culture Policy 6-E Annual Work Plan. During the "Sharing" segment, board members discusse...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-21-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
+## 2024-02-07 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
+
+The Spokane Public Schools Board will hold a special meeting on February 7, 2024, at 4:30 pm.  The agenda includes a work session discussing legislative updates and high school programming options available on the Hillyard Campus.  The meeting will be held in person at the Administration Building and accessible via Zoom. The board will also hold an executive session to discuss the performance of a public employee. Public comment can be submitted via email to SchoolBoard@spokaneschools.org.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-07-agenda.txt)
 

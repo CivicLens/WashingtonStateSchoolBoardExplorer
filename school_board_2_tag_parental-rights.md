@@ -1,16 +1,14 @@
-# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: parental-rights
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: parental-rights
 
-## 2024-02-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special session meeting on February 26, 2024, to discuss opposition to two bills: ESB 5462 and ESHB 2331.  The board unanimously voted to proceed with signing a letter of opposition to these bills, which were addressed to Senator Shewmake, Representative Rule, and Representative Timmons. The specific content of the bills and the reasoning behind the board's opposition were not detailed in the provided text.
+The Northshore School District Board of Directors held an Exempt Closed Session on February 12, 2024, to discuss matters related to collective bargaining.  The session was conducted in accordance with RCW 42.30.140(4), which allows for closed-door meetings to discuss negotiations with employee unions. The discussion lasted approximately 58 minutes before the meeting was adjourned. This summary focuses on procedural aspects and avoids speculating on the content of the collective bargaining discussions.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-12-minutes.txt)
 
-### Board Member Actions
+## 2024-01-15 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Michelle Simmons](board_member_30.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Jarrod Karuza](board_member_27.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Steve Corwin](board_member_28.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+The text details a special meeting of the PTA focused on Advocacy Day at the State Capitol in Olympia, Washington.  The purpose of the meeting is for the Board of Directors to participate in discussions and activities related to advocacy efforts. While specific topics for discussion are not outlined, the focus on "Advocacy Day" suggests an emphasis on parental rights and community engagement in shaping educational policy.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-15-agenda.txt)
 

@@ -1,28 +1,20 @@
-# Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: social-emotional-learning
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: social-emotional-learning
 
-## 2023-04-12 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District #505 Board held a regular meeting on April 12, 2023.  The meeting included PLC presentations from second grade teachers, MMS Physical Education teachers, and MHS Math teachers. These presentations focused on reading standards, foundational principles of fitness, and the high school math roadmap respectively. The MMS Principal presented a school report highlighting student and staff information, assessment data sources, social-emotional learning initiatives, experiential learning opportunities, and elective choices.  The board approved Policy and Procedure 3117 - Students In or Released From An Institutional Education Facility and Policy and Procedure 5004 - Infection Control Program Procedure on second reading. There was no public comment or new business discus...[truncated, use api for full text]
+The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM in the Administrative Center Board Room to discuss Goal 4 - Innovative, Creative, Critical Thinkers.  The meeting agenda includes a review of information related to this goal. Supporting documents for review include "Goal 4 Slide Deck," "SG4-2023-2024-Report-Final," and "G-1_Goals_last reviewed_2_13_2023."  The meeting will conclude with an end of meeting summary.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-04-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-agenda.txt)
 
-## 2023-03-15 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
-The Meridian School District Board held a regular meeting on March 15th, 2023.  The meeting included PLC presentations from teachers at different grade levels focusing on social and emotional learning (SEL) and STEM models. A new CTE program was presented with details about new classes being offered and partnerships within the community. The board reviewed proposed curriculum materials for DESMOS Math and OpenSciEd. Resolution 04-23, a settlement in Juul litigation, received a first reading and will be voted on at the next meeting. Resolution 02-23, an agreement to participate in the Northwest Career & Technical Academy, received a second reading and was approved unanimously. Policy and Procedure 6970 regarding naming schools, facilities, teams, mascots, images, or logos received a second ...[truncated, use api for full text]
+The school board agenda outlines a special meeting focused on strategic planning.  Discussion topics include "Pool," potentially referring to a student wellness program or initiative; "Portrait / Profile of a Graduate," which suggests a discussion about desired student outcomes and characteristics; "Artificial Intelligence" and its potential applications in education; and "Data" analysis for informing decision-making. The meeting aims to address student health, mental well-being, and the development of long-term strategic plans for the school district.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-03-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
 
-## 2022-11-02 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 Board held a regular meeting on November 2nd, 2022.  The meeting focused on several key topics including updates on COVID protocols and ongoing efforts to support student mental health through social-emotional learning initiatives. The board reviewed academic standards and discussed curriculum transparency measures. They also received presentations from teachers at various grade levels highlighting innovative teaching strategies and the implementation of new assessment rubrics for writing skills.  Several policies were presented for second readings, including Policy 5001 (Hiring of Retired School Employees), Policy 5610 (Substitute Employment), and Policy 5612 (Temporary Administrators). Additionally, a second reading was held for Policy and Procedure 6700...[truncated, use api for full text]
+The Northshore School District Board of Directors held a study session on February 26, 2024, to discuss Goal 2 of their long-term strategic plan. This goal focuses on fostering "Responsible, Resilient, Empathetic Learners."  The meeting, which lasted from 5:04 PM to 6:38 PM, included attendees such as board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The specific details of the discussion regarding Goal 2 were not provided in the text.  The minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-02-minutes.txt)
-
-## 2021-03-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District Board held a regular meeting on March 31, 2021, discussing various topics related to school operations and student well-being. Notably, the board addressed the impact of COVID-19 on the district, with Superintendent Dr. James Everett reporting on increased in-person learning opportunities for students. The meeting also focused on student health, including a presentation on the Meridian Middle School counselor and secretarial staff's exceptional support.
-
-The board reviewed and adopted several policies, including Policy 3112: Social Emotional Climate and Policy and Procedure 6000: Program Planning Budget Preparation Adoption and Implementation Procedure.  Additionally, they conducted a first reading of Policy 2125: Sexual Health Education and Policy 3432 – Emerg...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-31-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-minutes.txt)
 

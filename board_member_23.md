@@ -1,59 +1,29 @@
-# Positions Supported by Khush Brar (LYNDEN_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Steve Corwin (MERIDIAN_SCHOOL_DISTRICT, Term: December 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Khush Brar | LYNDEN_SCHOOL_DISTRICT | 2027 |
+| Steve Corwin | MERIDIAN_SCHOOL_DISTRICT | December 2025 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-09-19 | Voted yes on motion to approve the legislative committee’s recommended vote for Position 48- School Athletics Officials | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director...[truncated, use api for full text] |
-| 2024-09-19 | Voted yes on motion to approve the legislative committee’s recommended vote for Position 44- Native American Instructional Materials | Director Owsley motioned to approve the legislative committee’s recommended vote. Seconded by Direct...[truncated, use api for full text] |
-| 2024-09-19 | Voted yes on motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and Counseling | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director...[truncated, use api for full text] |
-| 2024-09-19 | Voted yes on motion to approve the legislative committee’s recommended vote for Position 21- African American Studies Work Group | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director...[truncated, use api for full text] |
-| 2024-09-19 | Voted yes on motion to approve the dairy bid submitted by Dairy Valley Distributing | Director Brar seconded Director Owsley's motion to approve the dairy bid. |
-| 2024-09-19 | Abstained from voting on motion to approve the legislative committee’s recommended vote for Position 48- School Athletics Officials | Director Brar abstained. |
-| 2024-09-05 | Voted yes on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators regarding transgend...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Sec...[truncated, use api for full text] |
-| 2024-09-05 | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by...[truncated, use api for full text] |
-| 2024-09-05 | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
-Directors Br...[truncated, use api for full text] |
-| 2024-08-15 | Wants to pursue Impact Fees | Director Brar asked about the status of pursuing Impact Fees. |
-| 2024-08-15 | Wants to appeal city's decision against crosswalk at Vossbeck Elementary | Director Brar asked about the status of the proposed crosswalk at Vossbeck Elementary. Superintenden...[truncated, use api for full text] |
-| 2024-08-15 | Supports external cameras on school buses and wants further discussion | Director Brar stated that she supports external cameras on the buses and would like to further discu...[truncated, use api for full text] |
-| 2024-07-11 | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
-| 2024-07-11 | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
-| 2024-07-11 | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
-| 2024-07-11 | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| 2024-06-20 | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion c...[truncated, use api for full text] |
-| 2024-06-20 | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Secon...[truncated, use api for full text] |
-| 2024-06-20 | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of page 50. | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in...[truncated, use api for full text] |
-| 2024-06-06 | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
-| 2024-06-06 | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
-| 2024-06-06 | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Science, Biology, Chem...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| 2024-05-16 | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| 2024-05-02 | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” proposal to WSSDA on ...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-based credit”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-04-18 | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
-| 2024-04-18 | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for the bond resolution | Approval of Pro & Con Committee Members |
-| 2024-04-18 | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
-| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded m...[truncated, use api for full text] |
-| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local cont...[truncated, use api for full text] |
-| 2024-04-04 | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| 2024-04-04 | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No s...[truncated, use api for full text] |
-| 2024-04-04 | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second....[truncated, use api for full text] |
-| 2024-03-21 | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| 2024-03-21 | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham...[truncated, use api for full text] |
-| 2024-03-21 | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donat...[truncated, use api for full text] |
-| 2024-03-07 | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| 2024-03-07 | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| 2024-02-20 | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bill 5462 | Motion carried by voice vote. Board Vote 5-0 |
-| 2024-02-08 | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| 2024-01-25 | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start...[truncated, use api for full text] |
-| 2024-01-11 | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan a...[truncated, use api for full text] |
-| 2024-01-11 | voted yes on approving all School Improvement Plans as presented | Director Brar motioned to approve all School Improvement Plans as presented. Seconded by Director Ve...[truncated, use api for full text] |
+| 2024-10-31 | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Li...[truncated, use api for full text] |
+| 2024-10-31 | called the special meeting to order |  |
+| 2024-10-31 | adjourned the board meeting | There being no further business, the Board meeting was adjourned at 10:02 am by Board President Stev...[truncated, use api for full text] |
+| 2024-08-21 | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and int...[truncated, use api for full text] |
+| 2024-08-21 | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| 2024-07-23 | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
+| 2024-06-12 | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| 2024-06-12 | voted yes | Motion to approve Policy  as presented |
+| 2024-06-12 | voted yes | Motion to adopt the consent agenda |
+| 2024-02-26 | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| 2024-02-23 | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
+| 2024-02-21 | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A mot...[truncated, use api for full text] |
+| 2024-02-21 | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as item G under new bus...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition ...[truncated, use api for full text] |
+| 2024-02-21 | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The moti...[truncated, use api for full text] |
+| 2024-01-10 | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| 2024-01-10 | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| 2024-01-03 | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
+| 2023-12-13 | voted yes | motion to adopt the consent agenda |
 

@@ -1,175 +1,296 @@
-# Meeting Summaries for LYNDEN_SCHOOL_DISTRICT in 2022
+# Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2022
 
-## 2022-12-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-12-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board meeting minutes detail several policy changes and discussions regarding student autonomy.  The board approved Resolution #20-22 authorizing the use of procurement cards for employees needing to make purchases from vendors who don't accept purchase orders. They also approved Resolution #21-22, though the specific details of this resolution are not mentioned in the provided text.
+The school board meeting focused on student voice and mental health. Board members acknowledged the bravery of students who spoke about a difficult topic at the meeting, emphasizing the importance of student autonomy and using their voices to advocate for themselves.  The discussion highlighted the need for increased transparency while acknowledging legal limitations regarding student privacy. The board also reflected positively on a recent visit to Columbia Elementary School, praising a "bugs and wishes" presentation as a strong example of social-emotional learning. This program aims to equip young students with the language to advocate for their needs.
 
-Several policy changes were discussed and voted on during the meeting. Policy 5610 regarding Substitute Employment was approved.  Policy 6112 concerning the Rental or Lease of District Property was also approved. Policy 1610, addressing Conflicts of Interest, received approval as well. The board initiated first readings for Policy 5001 (Hiring of Retired School Employees) and Policy 4218 (La...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-12-14-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-12-08-minutes.txt)
+## 2022-12-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2022-11-18 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The school board agenda includes discussion items related to monitoring superintendent compliance with policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will review a monitoring report on EL-10, Race and Equity, and determine if the superintendent is in compliance. The board will also discuss whether the superintendent is in compliance with policy EL-5, Communication and Counsel to the Board.
 
-The Lynden School District #504 Board of Directors held a special meeting on November 18, 2022, at the Kalispel Golf & Country Club.  The meeting was primarily a work session where board members discussed topics covered at the WSSDA (Washington State School Directors Association) conference they attended earlier that day. The text does not provide specifics about the content of these discussions or any policy changes resulting from them. CJ Costanti presided over the meeting, which adjourned at 9:00 pm.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-12-14-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-11-18-minutes.txt)
+## 2022-11-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2022-11-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School District Board of Directors visited Columbia Elementary School on November 29, 2022. During the visit, board members heard from students and staff about inclusionary practices and social-emotional learning programs implemented at the school. Following presentations, the board toured classrooms to observe these practices in action.  The meeting adjourned at 8:30 a.m.
 
-The Lynden School District Board Meeting minutes detail discussions on various topics including school safety and community engagement.  The board reviewed several policies for approval, including Policy 4210 (Regulation of Dangerous Weapons on School Premises), Policy 3432 (Emergencies), and Policy 3122 (Excused and Unexcused Absences). Notably, Policy 3122 saw opposition from one board member. The meeting also highlighted the formation of three superintendent advisory groups focused on facilities planning, community connections, and elevating student voice. These groups aim to foster greater community engagement in shaping school priorities.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-11-29-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-11-10-minutes.txt)
+## 2022-11-29 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2022-10-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham Public Schools Board of Directors will visit Columbia Elementary School on Tuesday, November 29, 2022, at 7:30 a.m. The purpose of the visit is to observe how the school implements "The Bellingham Promise," an initiative focused on student success. This is not a regular board meeting and will not include public comment.
 
-The Lynden School District #504 Board meeting minutes detail discussions on various policies and reports.  The board reviewed the September 2022 Financial Report, which included enrollment analysis, budget status, revenue sources, and expenditure breakdowns by program. They also heard an update from the Isom PTA regarding school events and the success of their Teacher Grant program.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-11-29-agenda.txt)
 
-Several policy changes were addressed during the meeting. Policy 1420 (Proposed Agenda and Consent Agenda) was approved in its updated form. Policy 2110 (Transitional Bilingual Instruction Program) was also approved after being updated.  Policies 3122 (Excused and Unexcused Absences), 4210 (Regulation of Dangerous Weapons on School Premises), 3116 (Students in Foster Care), and 3432 (Emergencies) were all move...[truncated, use api for full text]
+## 2022-11-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-27-minutes.txt)
+The Bellingham School District Board of Directors held a special meeting on November 18, 2022, at Spencer’s for Steak and Chops in Spokane, Washington.  The meeting began at 6:30 p.m. and concluded at 8:30 p.m. All board members (Kelly Bashaw, Douglas Benjamin, Camille Diaz Hackler, Jenn Mason, Katie Rose) were present along with Superintendent Greg Baker. The purpose of the meeting was to discuss learnings from the Washington State School Directors’ Association (WSSDA) conference. No decisions were made during the informational discussion.
 
-## 2022-10-01 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-11-18-minutes.txt)
 
-The Lynden School District #504 Board of Directors held a special meeting on October 1, 2022, to discuss the district's 2021-2024 Strategic Priorities plan.  The administrative team presented and reviewed the plan, followed by discussion with the board members. The meeting also included a review and discussion of the Board and Superintendent Leadership Team Operating Principles and the development of a School Board handbook. These discussions suggest a focus on long-term planning and establishing ethical guidelines for board operations.
+## 2022-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-01-minutes.txt)
+This document details the progress made by a school district in implementing its diversity, equity and inclusion (EDI) policy.  Board members reviewed evidence of EDI implementation across various areas including curriculum, staffing practices, and community engagement. Specific examples cited include increased enrollment in Ethnic Studies classes, a BIPOC job fair with positive results, and expanded Promise K programming. The board also acknowledged the district's ongoing collaboration with the Lummi Nation and Western Washington University to refine the "Since Time Immemorial" curriculum. Board members expressed satisfaction with the progress made and did not identify any areas for improvement. They praised the clarity and conciseness of the report outlining EDI compliance.
 
-## 2022-09-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-11-09-minutes.txt)
 
-The Lynden School District Board of Directors held a meeting on September 22, 2022, to discuss various topics related to school operations and community partnerships. A significant portion of the meeting was dedicated to discussing school safety, including traffic flow, parking, and pedestrian safety around Lynden High School.  The Superintendent expressed a desire to partner with the Lynden Police Department on these issues.
+## 2022-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The board also engaged in a discussion regarding long-term strategic planning for the district. This included considering the possibility of building an additional school in the Pepin Creek sub-area due to projected population growth and development. The meeting highlighted the importance of ongoing collaboration between the school district and the City of Lynden to ...[truncated, use api for full text]
+The school board agenda outlines a series of discussions focused on reviewing and potentially revising existing policies. These include B/SR-1, B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation), and B/SR-3.1.1 (Monitoring Response Document).  The board will also review an updated annual agenda, GP-7.2 - 2022-23 Annual Board Agenda, Revised. This review is for informational purposes only. The specific content of the policy revisions being considered is not detailed in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-11-09-agenda.txt)
 
-## 2022-09-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-11-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board meeting minutes detail discussions on various topics including school safety, academic standards, and curriculum transparency.  The board received a report on the K-5 ELA CKLA/Amplify program, transitional kindergarten, and new teacher onboarding. They also reviewed budget information for the 2022-2023 school year. Notably, the board approved a Running Start Agreement with Bellingham Technical College. Additionally, they passed two resolutions authorizing transfers from the General Fund to the Debt Service Fund and from the Capital Project Fund to the Debt Service Fund. Tonya Hickman abstained from both votes on the fund transfers. The meeting also included a first reading of Policy #2410 regarding High School Graduation Requirements, which was approved. Finally, th...[truncated, use api for full text]
+The Bellingham School District Board of Directors visited Options High School on November 8, 2022. During the visit, board members heard from school staff about two key initiatives: planning for a school-based health clinic and the Bellingham Virtual Learning program. The meeting began at 7:30 a.m. and concluded at 8:30 a.m.  Attendees included Board President Kelly Bashaw, Directors Douglas Benjamin, Camille Diaz Hackler, Jenn Mason, Katie Rose, Superintendent Greg Baker, Options High School staff, and Executive Team members.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-11-08-minutes.txt)
 
-## 2022-07-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-11-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Lynden School Board meeting minutes detail the recognition of Tim Metz, Executive Director of Special Programs, as the Lynden/Ferndale Masonic Lodge Educator of the Year. Metz was lauded for his work in facilitating a return to in-person learning and overseeing Social Emotional Learning (SEL) programs focused on student wellness and creating a culturally responsive environment. The Board also received a budget report for the 2022-2023 school year from Ben Thomas, Director of Finance and Operations.  The report covered WA State funding history, enrollment projections, revenue and expenditure forecasts, and fund balances. The Board intends to approve the budget at a future meeting.
+The Bellingham Public Schools Board of Directors will be visiting Options High School on November 8, 2022, at 7:30 a.m.  The purpose of the visit is to learn how the school is implementing "The Bellingham Promise," which is not further defined in the text. This is not a regular school board meeting and will not include public comment time.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-07-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-11-08-agenda.txt)
 
-## 2022-06-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-10-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District held a school board meeting on June 23, 2022.  The meeting included the swearing in of new Superintendent David VanderYacht and newly appointed School Board Directors Cindy Petersen and Ken Owsley. The board approved a consent agenda that included various financial warrants and personnel action items. Notably, the board also reviewed and approved the Comprehensive School Counseling Plan (CSCP) to comply with SSB 5030, which requires districts to develop and implement K-12 CSCP programs by the 2023-2024 school year.  
+The school board meeting focused on reflections from a recent visit to Birchwood school. Board members expressed appreciation for the opportunity to connect with students and observe classroom activities. Ms. Mason highlighted the importance of inclusionary practices for new families, while Ms. Diaz Hackler noted the positive use of scaffolding techniques by teachers at Birchwood. The meeting also touched upon the upcoming selection process for WSSDA priority measures, with Mr. Benjamin requesting board members to submit their top 10 priorities.
 
-The meeting included reports from Finance and Operations Director Ben Thomas on the May budget and Food Service Director Narlene VanBeek who provided updates on service offerings during COVID-19, potential price changes for breakfast and lunch, equi...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-10-12-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-23-minutes.txt)
+## 2022-10-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-## 2022-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The provided text details a school board agenda for a meeting on October 12th, 2022.  A notable item is the "Personal Services Contract" (Consent Item 2.25) which outlines an agreement with Mark Kelly to provide additional instruction for sixth-grade beginning band students. This contract has been reviewed and approved by the superintendent. The agenda also includes an informational item regarding revisions to the annual board agenda (GP-7.2).  Changes from the previous version are highlighted for review.
 
-The Lynden School Board of Directors held a special meeting on June 20, 2022, to interview candidates for open positions.  The board ultimately appointed Cindy Petersen to Position No. 2 and Ken Owsley to Position No. 5. These appointments followed an extended executive session where the board discussed candidate qualifications. The meeting concluded at 10:00 PM.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-10-12-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-20-minutes.txt)
+## 2022-10-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-## 2022-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+The Bellingham School District Board of Directors visited Birchwood Elementary School on October 4, 2022. The purpose of the visit was for the board to hear from students and staff about how inclusion creates belonging, engagement, and empowerment at Birchwood. Following presentations, the board toured classrooms.  The meeting adjourned at 8:30 a.m.
 
-The Lynden School Board meeting minutes detail routine business including the approval of meeting minutes, organizational appointments for board officers (CJ Costanti as President, David Vis as Vice President, and Tonya Hickman as WIAA Representative), and a consent agenda covering financial warrants.  The board also reviewed a Long Range Capital Facilities Plan report intended for submission to OSPI.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-10-04-minutes.txt)
 
-Several policy actions were taken: Resolution No. 04-22 was adopted for the submission of the Long-Range Study and Survey to OSPI. Resolutions No. 05-22 secured WIAA membership. Interlocal agreements with Bellingham Technical College (BTC) were approved for Impact Program, Career and Technical Education (CTE) Dual Credit, and a Teacher of the Visually Impaired (TVI) agreement with Mt. Baker ...[truncated, use api for full text]
+## 2022-10-04 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-09-minutes.txt)
+The Bellingham Public Schools Board of Directors will be visiting Birchwood Elementary School on October 4, 2022, at 7:30 a.m.  The purpose of the visit is to observe how the school is implementing "The Bellingham Promise," which outlines the district's goals and values. This is not a regular board meeting and will not include public comment.
 
-## 2022-05-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-10-04-agenda.txt)
 
-The Lynden School Board meeting minutes detail discussions on school safety and community engagement.  Nick Sawka expressed gratitude to staff for emergency training and requested more safety and security tests. Alyssa Libolt raised concerns about teachers imposing personal beliefs on students, emphasizing the importance of separating teaching from personal ideologies. This suggests a focus on maintaining student autonomy within the learning environment. The board also approved several consent agenda items, including warrants for various funds and personnel actions.
+## 2022-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-05-26-minutes.txt)
+The provided text details minutes from a school board meeting. A key discussion point was the review and approval of "Executive Limitations," specifically EL-9 concerning "Asset Maintenance/Protection and Sustainability/Environmental Resiliency." This policy outlines expectations for the superintendent regarding district property upkeep, safety, and sustainability practices.  The board also heard feedback from a parent of a 3-year-old with a speech delay who was pleased with the district's timely response to an inquiry. The minutes reflect a positive assessment of the meeting by Ms. Mason, with an overall rating of "commendable."
 
-## 2022-05-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-09-14-minutes.txt)
 
-The Lynden School Board held a meeting on May 12, 2022, to discuss and approve several agenda items related to academic standards and curriculum.  The board approved the adoption of a new K-5 ELA curriculum from Amplify following a review process that involved staff, families, community members, and the Instructional Materials Committee (IMC). The board also approved the addition of a Human Geography AP course to the curriculum. These decisions reflect a commitment to enhancing academic standards and providing students with a broader range of educational opportunities. Notably, the meeting minutes highlight the importance of parental feedback in the curriculum review process.
+## 2022-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-05-12-minutes.txt)
+The school board agenda outlines a meeting on September 14, 2022.  A key item is the discussion and review of revisions to policy EL-9, focusing on Asset Maintenance/Protection and Sustainability/Environmental Resiliency. The specific changes proposed in the revised EL-9 draft are not detailed in the provided text. Additionally, the board will review an updated annual agenda (GP-7.2) for informational purposes. This updated version highlights changes from the previous iteration.  The meeting also includes time for school board directors' reports and a board assessment of the meeting itself.
 
-## 2022-04-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-09-14-agenda.txt)
 
-The Lynden School Board meeting on April 28, 2022, focused on routine matters and updates.  The board approved meeting minutes and a consent agenda covering financial warrants and personnel actions. Assistant Superintendent David VanderYacht provided a positive report on school activities and student engagement. The main discussion point was a facilities update presented by Maintenance Director Kevin Burke. He detailed the Asset Preservation Program (APP), which aims to ensure systematic performance accountability for school buildings and prioritize student health and safety.  The program includes plans for new in-lieu facilities at Fisher Elementary and Lynden Middle School.
+## 2022-08-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-04-28-minutes.txt)
+The Bellingham School District Board of Directors held a special meeting on August 24, 2022, at Parkview Elementary School.  The meeting focused on community engagement and policy changes. The board discussed ideas for linkage and student roundtable meetings for the 2022-23 school year as part of their "Engaging Our Community" initiative. Additionally, they reviewed topics for future study sessions and considered possible updates/revisions to board policies, including the reformatting of the Executive Limitations and Ends policies webpage. The meeting concluded with a tour of the Sunnyland Elementary School construction site.
 
-## 2022-04-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-08-24-minutes.txt)
 
-The Lynden School Board meeting minutes detail discussions and decisions regarding several key topics.  Parents voiced concerns about the impact of late start Wednesdays on families and requested the board consider half-day alternatives for professional learning time. They also expressed appreciation for the Governor's removal of vaccine mandates and advocated for increased extracurricular programs.
+## 2022-08-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The board approved a new interlocal agreement with Whatcom County Detention, a 2022-2023 school year calendar starting before Labor Day, and a contract for David VanderYacht as the next Superintendent.  Secondary principals presented updates on their school improvement plans, highlighting efforts aligned with district strategic initiatives focused on college and career readiness, family and co...[truncated, use api for full text]
+The Bellingham School District Board of Directors will hold a special meeting on August 24th, 2022 at Parkview Elementary School.  The meeting agenda includes "Opening Items" such as roll call and information regarding the location and date. Following this, there will be a discussion period covering topics like "Engaging Our Community," "Board Learning," "Policy Governance," and "Board Recognition." The meeting will then recess for a tour of the Sunnyland Elementary School construction site.  The agenda notes that this is not a regular school board meeting and will not include public comment time.  There are no specific policy changes mentioned in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-04-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-08-24-agenda.txt)
 
-## 2022-03-31 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-08-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District held a special meeting on March 31, 2022, to select the next superintendent.  The board convened in executive session to discuss the qualifications of three finalist candidates: David VanderYacht, Tavis Peterson, and Lisa Riggs. Following the executive session, the board unanimously voted to appoint David VanderYacht as the next superintendent, effective July 1, 2022. The selection process began in November 2021 and involved gathering feedback from staff, families, and community members.
+The school board meeting minutes detail several policy updates and approvals.  Specifically, Policy 3200 and Policy 3241 were updated, though the nature of these changes is not specified in the provided text.  The board also approved a number of interagency agreements including those with VECA Electric & Technologies, the Washington Student Achievement Council, and Whatcom Community College. Additionally, they approved an agreement with the Opportunity Council for Early Learning and Family Services. The meeting included informational items such as school board director reports. Mr. Benjamin discussed the ad hoc committee's work on applying for the WSSDA's Board of Distinction award and shared information about WSSDA's strategic plan overhaul. Ms. Rose expressed appreciation for the prepara...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-31-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-08-10-minutes.txt)
 
-## 2022-03-30 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-08-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Lynden School District held a special session on March 30, 2022, to introduce Lisa Riggs as the candidate for Superintendent. Northwest Leadership Associates facilitated the meeting, providing information about Ms. Riggs' experience and qualifications.  The community was invited to provide feedback on Ms. Riggs' suitability for the position. Following the public session, the School Board held an executive session to further interview Ms. Riggs and discuss community feedback regarding her candidacy.
+This document outlines a consent agenda for an August 10th, 2022 school board meeting.  Item 2.15 concerns the approval of a personal services contract with Linda Pollino for the refurbishment of elementary science kits. The contract period is from September 1st, 2022 to August 31st, 2023. Matt Whitten, Assistant Superintendent of Human Resources, serves as the staff contact for this item.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-30-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-08-10-agenda.txt)
 
-## 2022-03-29 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-07-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School District held a special session on March 29, 2022, to introduce and interview Tavis Peterson, the candidate for Superintendent.  The meeting began with a call to order and roll call followed by an introduction of Peterson by Northwest Leadership Associates who detailed his experience and interest in the position. The community was then given the opportunity to provide feedback on Peterson's qualifications through questions submitted both in-person and remotely. Following the public session, the Board entered into executive session to further interview Peterson and discuss the feedback received.
+The Bellingham School Board reviewed a monitoring report from the Superintendent regarding progress towards established goals. The board commended the district for improvements in graduation rates across diverse socioeconomic backgrounds and highlighted the successful summer book distribution program which provided over 17,000 books to elementary school students.  The board also acknowledged the creative efforts made during the pandemic, specifically mentioning a virtual middle school concert. While praising overall progress, the board identified continued work on the Bellingham Promise initiative as an area for improvement. No changes were made to existing policies.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-07-13-minutes.txt)
 
-## 2022-03-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-07-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Lynden School Board held a brief meeting on March 28, 2022.  The meeting began at 5:00 PM and was adjourned shortly after at 5:01 PM. Following the adjournment, the board entered into an executive session for one hour to dine with superintendent candidate David VanderYacht and his spouse. The summary indicates a focus on standard school board procedures like calling meetings to order, roll call, and adjourning.  The executive session suggests a process of vetting potential candidates for the superintendent position.
+The text outlines the agenda for a July 13, 2022 regular school board meeting.  Two key policy items are scheduled for review: GP-7.1 Board Self-Assessment and GP-7.2 Annual Board Agenda (2022-23).  The board will determine if changes to the current version of GP-7.1 are warranted. GP-7.2, outlining the annual board agenda for 2022-23, will be reviewed and approved. The meeting also includes a review of the recently updated GP-7.2 for the 2021-22 year with highlighted changes.  Finally,  the board will conduct an assessment of the meeting itself before adjourning.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-07-13-agenda.txt)
 
-## 2022-03-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-06-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board held a special meeting on March 26, 2022, to interview candidates for the Superintendent position.  The board interviewed five candidates in total, with a lunch break between the third and fourth interviews. Following the interviews, the board convened in executive session to discuss candidate feedback. After extending the executive session, the board reconvened in an open meeting and identified three finalists: Tavis Peterson, David VanderYacht, and Lisa Riggs.
+The school board reviewed a monitoring report on the superintendent's performance in relation to district policy EL-8, District Calendar.  The board found the superintendent to be in compliance with the policy and commended their efforts in adapting to the challenges of the pandemic, including shifting schedules, deploying instructional coaches, and addressing staff shortages due to illness. The board specifically highlighted the work of the Family Engagement team in supporting students and families during this time. No changes were made to the policy.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-06-08-minutes.txt)
 
-## 2022-03-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-06-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Lynden School Board meeting on March 24, 2022, focused on several key areas.  The board approved a consent agenda that included various financial warrants and personnel action items. During the reports section, Elementary Principals and the Director of Teaching and Learning presented updates on the Elementary School Improvement Plan (SIP), highlighting efforts to meet learning targets, close learning gaps through interventions, and adopt new materials for K-5 learners. They also discussed the continued use of Character Strong and Safe and Civil learning programs across elementary schools to promote safe emotional learning.  Superintendent Mike Stromme provided information on the 2022 Legislative Consensus budget. The board then approved a Whatcom Discovery Interlocal Agreement.  The me...[truncated, use api for full text]
+This agenda excerpt focuses on the routine functions of a school board.  The board is reviewing monitoring reports to determine if the superintendent is in compliance with existing policies EL-6 (District Calendar) and EL-8 (District Calendar). They are also reviewing an updated annual board agenda (GP-7.2) for informational purposes. The agenda includes a discussion item regarding the performance review of a public employee. Finally, the board will assess the meeting and adjourn.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-06-08-agenda.txt)
 
-## 2022-03-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-06-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board held a meeting on March 10, 2022, to discuss the superintendent candidate review process.  The board reviewed qualifications and selected six finalists for further interviews with the Lynden School District. This meeting included an executive session lasting 120 minutes dedicated solely to this candidate review. The summary reflects a standard school board procedure focused on selecting a new leader for the district.
+The Bellingham School District Board of Directors visited Silver Beach Elementary School on June 7, 2022. The purpose of the visit was to observe and learn about the implementation of new curriculum adoptions at the school. Students greeted the board with a musical performance and provided tours of the facility. The board also engaged in discussions with students and staff regarding their experiences with the new curriculum.  The meeting concluded at 8:30 am.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-06-07-minutes.txt)
 
-## 2022-02-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-06-07 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-The Lynden School Board meeting minutes detail the approval of routine financial matters and personnel actions. Notably, the board discussed a letter requesting changes to mask mandates in schools following Governor Jay Inslee's announcement lifting the mandate.  The board decided the letter was no longer necessary and will appoint a liaison for legislative communication at the district or state level. The meeting also included information from the audience regarding concerns about mask and vaccine mandates, as well as interest in running for the school board.
+The Bellingham Public Schools Board of Directors will be visiting Silver Beach Elementary School on June 7th, 2022 at 7:30 am.  The purpose of the visit is to observe how the school implements "The Bellingham Promise," a set of goals and standards for the district. This is not a regular board meeting and there will be no public comment period.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-06-07-agenda.txt)
 
-## 2022-02-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2022-05-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Lynden School Board meeting minutes reveal significant community tension regarding COVID-19 policies and curriculum content. Parents voiced concerns about mask mandates, vaccination requirements, and the presence of books they deemed inappropriate in school libraries. Some parents explicitly requested the removal of "obscene pornography" and materials related to Critical Race Theory.  
+This document details a school board's monitoring response to Policy Ends 2.1, Part 2, Student Competence. The report highlights commendable progress in graduation rates for CTE students and improvements among Latinx, free and reduced lunch, and IEP students. Despite these successes, the board acknowledges the need for further improvement in closing graduation gaps for low-income students.  The impact of COVID-19 on student performance is also discussed.
 
-The meeting also included a discussion on potential policy changes driven by parental feedback. A parent threatened legal action against the school district unless they ceased COVID-19 related policies, including mask mandates and vaccination promotion. The board reviewed a draft letter to state legislators expressing concerns about the challenges posed by pandemic mandates. 
+A potential policy change is suggested: expanding the language of Policy Ends 2.1, Part 2 to be more inclusive of groups beyond those currently mentioned (ethnicity, socio-economic status, English language proficiency or disabilities). The suggestion proposes including  "LGBTQ+" as an example of a group that could be added.
 
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-18-minutes.txt)
 
-Further, the minutes docu...[truncated, use api for full text]
+## 2022-05-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-10-minutes.txt)
+The school board agenda includes an item for the annual Affirmative Action Progress Report based on data from October 2021. This report, prepared by Human Resources Director JoAn Steiner, is required under the district's 2019-2024 Affirmative Action Plan (Policy 5010). The board will also review an updated version of GP-7.2, the 2021-22 annual board agenda, with highlighted changes from the previous version.
 
-## 2022-01-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-18-agenda.txt)
 
-The Lynden School Board held a meeting on January 27, 2022, to discuss various matters.  A key topic was the impact of Governor's orders and Whatcom County Department of Health (WCDOH) direction on school safety protocols. The board acknowledged awaiting further guidance from WCDOH regarding the continuation of mandates for the remainder of the school year. Interim Superintendent Mike Stromme is actively communicating with WCDOH to stay informed about potential policy changes related to school safety measures.
+## 2022-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-01-27-minutes.txt)
+This document details a community linkage meeting held by the Bellingham School District Board of Directors. The meeting focused on gathering feedback from families and highlighting the district's efforts to promote diversity and inclusion. Dr. Verónica Vélez, an Associate Professor at Western Washington University, presented survey results demonstrating positive perceptions of school leadership and communication among families.
 
-## 2022-01-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+Parents shared personal anecdotes about their experiences with the district, emphasizing improvements in communication and support for students compared to previous years. Ricardo Sanchez, a parent with children at Alderwood Elementary School and Shuksan Middle School, highlighted the increase in Latinx student graduation rates as evidence of the district's progre...[truncated, use api for full text]
 
-The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not upholding constitutional rights and expressed frustration with perceived bullying and shaming of unvaccinated students. The board addressed snow make-up days, stating their intention to utilize built-in days in June and potentially seek a waiver if necessary. Remote learning options would be reserved for COVID-19 related circumstances.  The superintendent also highlighted potential funding opportunities from the Governor's budget for Social Emotional Learning (SEL) and school nurses, with possible...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-12-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-01-13-minutes.txt)
+## 2022-05-03 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors visited Carl Cozier Elementary School on May 3, 2022. During the visit, Principal Arionda Feeney and staff showcased initiatives related to The Bellingham Promise, focusing on inclusionary practices and the International Baccalaureate (IB) Primary Years Program (PYP).  The meeting highlighted the school's commitment to diversity and equity through programs like The Bellingham Promise and the IB PYP.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-03-minutes.txt)
+
+## 2022-05-03 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Carl Cozier Elementary School on May 3, 2022 at 7:30 a.m. This visit is part of the board's regular practice of visiting schools throughout the year to observe how each school implements "The Bellingham Promise".  This is not a formal meeting and will not include public comment time. The purpose of the visit is informational and focused on observing the school environment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-03-agenda.txt)
+
+## 2022-04-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a special meeting on April 28, 2022, at Rock and Rye in Bellingham, Washington.  The meeting began at 6:15 p.m. and concluded at 7:50 p.m. Present were board members Kelly Bashaw, Douglas Benjamin, Camille Diaz Hackler, Jenn Mason, Katie Rose, and Superintendent Greg Baker. The purpose of the meeting was a general discussion among the board members and Dr. Baker over a meal. No decisions were made during this informational session.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-28-minutes.txt)
+
+## 2022-04-28 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School Board will hold a special meeting on April 28, 2022, at Rock and Rye in Bellingham, Washington.  The purpose of the meeting is to discuss school district initiatives, issues, and business in an unstructured manner. This is not a regular school board meeting and will not include public comment time. The agenda includes opening items such as meeting date and location and roll call, followed by informational/discussion items focused on general discussion of school district initiatives, issues, and general business.  The meeting concludes with closing items including adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-28-agenda.txt)
+
+## 2022-04-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham Public Schools (BPS) Board reviewed the Superintendent's Monitoring Report on Ends 2.1, Part 1, Student Competence. The report focused on student academic performance, particularly in light of the COVID-19 pandemic. The Board commended BPS students for outperforming state averages on Measures of Academic Progress (MAP) tests at most grade levels. They acknowledged that while the goal is to eliminate achievement gaps entirely, the fact that these gaps did not widen during the pandemic demonstrates the district's efforts to serve all families.  The Board also identified areas for improvement, specifically noting the need for continued support for students with Individualized Education Programs (IEPs).
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-20-minutes.txt)
+
+## 2022-04-20 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+This agenda excerpt details the process by which a school board is evaluating the superintendent's performance in relation to Ends 2.1, Part 1: Student Competence. The board previously reviewed a monitoring report on this policy and will now determine if the superintendent is in compliance.  The excerpt also mentions a revised annual board agenda (GP-7.2) which will be reviewed for informational purposes. This document does not mention any specific policies or changes beyond those related to student competence evaluation.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-20-agenda.txt)
+
+## 2022-04-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors visited Happy Valley Elementary School on April 12, 2022. During the visit, Principal Nick Hayes and staff showcased the school's work, highlighting its mission and vision statements and connections to "The Bellingham Promise."  Specific strategies discussed included "Great Teaching with Strong Support" and "Equity, Diversity and Inclusion." The Board and Executive Team toured classrooms to observe these initiatives in action.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-12-minutes.txt)
+
+## 2022-04-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Happy Valley Elementary School on Tuesday, April 12, 2022, at 7:30 a.m.  The purpose of this visit is to learn how the school is implementing "The Bellingham Promise," which outlines the district's goals and expectations for student success. This is not a regular school board meeting and will not include public comment time.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-04-12-agenda.txt)
+
+## 2022-03-30 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School Board will hold a special meeting on March 30, 2022, from 1:15 to 2:15 p.m. at Alderwood Elementary School.  The meeting is designed as a student roundtable focusing on elementary school students and will allow for discussion between board members and students. The agenda includes standard opening items such as roll call and closing items like adjournment.  The primary focus of the meeting is listed as "Student Roundtable" under the "Community/Board Linkage" section, suggesting an effort to increase student voice and engagement in decision-making processes.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-30-agenda.txt)
+
+## 2022-03-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a Student Roundtable meeting on March 30, 2022, to gather input from third-grade students at Alderwood Elementary School.  The meeting aimed to strengthen the connection between the school board and students, allowing them to share their experiences and perspectives. Students discussed topics such as favorite subjects, feelings of being loved at school, aspirations for the future, and suggestions for improvement.
+
+Discussions centered around student well-being, highlighting subjects like recess and preferred learning styles. The new Alderwood Elementary School building was praised by students. Concerns regarding playground safety compared to the previous location were raised.  The meeting provided a platform for students to voice their...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-20-minutes.txt)
+
+## 2022-03-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This excerpt from school board meeting minutes focuses on student academic performance during the COVID-19 pandemic. The report highlights positive trends in reading and math scores for grades 6 and above, as measured by tools like Lexia Literacy Progress and DreamBox. Notably, the district saw a majority of students maintain their academic standing despite pandemic disruptions. The report also acknowledges persistent achievement gaps between different student demographics, including low-income/non-low income, Latinx/Hispanic/white, IEP/no IEP, and multilingual learners/not MLL.  The board commends the superintendent's team for their efforts in mitigating learning loss and addressing these equity concerns.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-16-minutes.txt)
+
+## 2022-03-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The agenda includes items related to the monitoring of Ends 2.1, Part 1 and Part 2, focusing on Student Competence.  The board will review monitoring reports submitted by Superintendent Greg Baker and determine if he is in compliance with the policy. Additionally, the board will review an updated annual board agenda (GP-7.2). Changes from the previous version are highlighted for informational purposes.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-16-agenda.txt)
+
+## 2022-03-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors visited Sunnyland Elementary School on March 1, 2022.  The purpose of the visit was to hear from school staff about the new mascot and the construction progress of the building. Following the presentation, the board toured the construction site.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-01-minutes.txt)
+
+## 2022-03-01 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham Public Schools Board of Directors will be visiting Sunnyland Elementary School on Tuesday, March 1, 2022, at 7:30 a.m.  The purpose of the visit is to learn how the school is implementing "The Bellingham Promise," a set of educational goals for the district. This is not a regular school board meeting and will not include public comment time.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-01-agenda.txt)
+
+## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors met on February 25, 2022 to discuss several policy matters.  The board reviewed Policy EL-9 (Asset Maintenance and Protection) and Policy EL-10 (Race and Equity), considering potential changes and future information for monitoring reports. They also discussed the structure of board meetings, dinner meetings, and their involvement with the National School Board Association. The Superintendent's mid-year report was presented, allowing the board to provide feedback on his performance.  The meeting concluded at 2:38 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-minutes.txt)
+
+## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School District Board of Directors will hold a special meeting on February 25, 2022, via Zoom.  The meeting agenda includes reviewing and discussing several policies. Policy EL-9, Asset Maintenance and Protection, and Policy EL-10, Race and Equity, will be reviewed. Additionally, the board will discuss linkages/study sessions/roundtables review, board improvement plan review, board routines, and the superintendent's mid-year report/evaluation. The meeting will not include public comment time.  The specific changes being considered for each policy are not mentioned in the provided text.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-agenda.txt)
+
+## 2022-02-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The document details the Bellevue School District Board's monitoring response to a superintendent report on policy EL-9, Asset Maintenance and Protection.  The board found the superintendent in compliance with the policy and commended progress made on sustainability initiatives and navigating pandemic-related challenges. They noted no areas for improvement but suggested adding language to EL-9 emphasizing sustainability, energy efficiency, and climate change considerations. The district completed over 200 maintenance measures during the 2020-21 school year despite staffing shortages and supply chain issues.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-15-minutes.txt)
+
+## 2022-02-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The text details upcoming agenda items for a school board meeting on February 15, 2022. A key focus is the review of a monitoring report (EL-9) on Asset Maintenance and Protection from the previous December meeting. This review will determine if the superintendent is in compliance with relevant board policy.  The board will also discuss Ends Monitoring Report 2.1 Part 1 concerning Student Competence. Finally, the board will review an updated annual agenda (GP-7.2) for informational purposes only.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-15-agenda.txt)
+
+## 2022-01-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes discuss the 2019-2020 school year report, highlighting accomplishments like adapting to remote learning and implementing safety measures.  The report also mentions efforts towards sustainability and improving air quality. Board members KR raised concerns about the language used in describing staff accidents and increasing "Loss Experience Factor", specifically questioning the connection between non-work related physical activities, emotional/mental health issues, and increased time loss payments. They requested evidence to support these assertions.  The board also discussed potential policy changes, with DB suggesting adding language to EL-9 emphasizing sustainability and KR proposing including language about sustainability and health given the school's foc...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-01-12-minutes.txt)
+
+## 2022-01-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The document details agenda items from a January 12, 2022 school board meeting.  Two policy compliance items are listed: EL-7 (Budget Planning and Execution) and EL-9 (Asset Maintenance and Protection). The board will determine if the superintendent is in compliance with these policies. Additionally, the board will review an updated annual agenda (GP-7.2 - 2021-22 Annual Board Agenda, Revised) for informational purposes.  Changes from the previous version are highlighted.   The meeting concludes with a board assessment and adjournment.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-01-12-agenda.txt)
 

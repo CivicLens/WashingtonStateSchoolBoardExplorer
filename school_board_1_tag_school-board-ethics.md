@@ -1,52 +1,56 @@
-# Meeting Summaries for MOUNT_BAKER_SCHOOL_DISTRICT with Tag: school-board-ethics
+# Meeting Summaries for CAMAS_SCHOOL_DISTRICT with Tag: school-board-ethics
 
-## 2024-08-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-11-18 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-The Mount Baker School Board held a regular meeting on August 22, 2024.  The board approved several resolutions related to financial matters, including MB Resolution 23/24:23 Authorization of Warrant Signature, MB Resolution 23/24:24 Authorization to Invest Funds, and MB Resolution 23/24:25 Signatories for Bank Accounts. The meeting also included updates on various school activities and initiatives, such as the start of leadership teams and transportation in-service.  The board discussed a superintendent search consultant and reviewed upcoming meeting dates. Concerns raised by parents regarding early release Wednesdays were addressed during the "Information from the Audience" segment.
+The Camas School District will hold a Special Board Meeting on November 18, 2024, at 5:30 PM.  The purpose of the meeting is for the school board to participate in an Annual Legislative Reception with the Legislative Advocacy Committee. This event suggests a focus on community engagement and interaction with legislative representatives regarding educational matters.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-08-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-11-18-agenda.txt)
 
-## 2024-07-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-The Mount Baker School District Board held a regular meeting on July 25, 2024.  The board approved the consent agenda which included personnel actions, purchases, accounts payable, payroll and several contracts. The board also received reports from the Director of Finance and Superintendent. Topics discussed included budget status, monthly balance, Title IX regulation changes and the Apollo Solutions Small School Grant. Upcoming events were announced including the Mount Baker Athletic & Academic Weekend and a Candidate Night at the High School. The next regular school board meeting is scheduled for August 8th, 2024 at 6:00 p.m.  A board retreat is also scheduled for August 22nd, 2024 from 1:00 p.m. to 5:30 p.m.
+The Camas School District will hold a special board meeting on Monday, October 28, 2024, at 4:00 PM. The meeting agenda includes an executive session for approximately 75 minutes to conduct an appeal hearing regarding a Harassment, Intimidation, and Bullying (HIB) complaint.  Following the executive session, the board will return to the special meeting and adjourn. The specific details of the HIB complaint are not provided in the text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-28-agenda.txt)
 
-## 2024-07-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-07-22 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-The Mount Baker School District held a regular board meeting on July 11, 2024.  The meeting included standard agenda items such as approval of the agenda and minutes, consent agenda items including personnel actions and purchases, presentations on state forest timber sales and CTE & Perkins programs, information from the audience, and action items regarding the approval of the 2023-2028 CTE District Wide Plan and the 2023-2024 Carl Perkins Application. The board also discussed topics for a future retreat agenda.  Natalie Chavez shared concerns about the School Based Health Clinic during information from the audience.  The meeting concluded with an adjournment at 8:16 p.m. Notably, the minutes reflect a policy change in the form of an amendment to an existing interlocal agreement between ES...[truncated, use api for full text]
+The document outlines the agenda and minutes for a July 22, 2024 school board meeting.  The meeting includes a public comment period, followed by discussion and potential action on various items. Notably, the board will address "Board Ethics" which suggests a possible focus on ethical conduct and responsibilities of board members. Additionally, the agenda mentions "Policy Changes," indicating that the board may be considering revisions or updates to existing school policies.  The specific content of these policy changes is not detailed in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-07-22-agenda.txt)
 
-## 2024-05-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-06-24 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District Board held a regular meeting on May 9, 2024. Several policies were approved on second and final reading, including MB Policy 2004 Performance Improvement Goals, MB Policy 2230 Transition to Kindergarten Program, and MB Policy 3142 International Student Exchange. The board also unanimously approved the appointment of an interim superintendent for the upcoming school year.  
+The Camas School Board held a meeting on June 24, 2024, addressing various agenda items.  The board approved the consent agenda, which included routine matters such as minutes, accounts payable, payroll, human resources updates, travel requests, donations, and surplus equipment disposal. They also greenlit a club request from Camas High School for "Tutor the Youth." The board approved a new graduation date for Camas Connect Academy, moving it from June 11, 2025, to June 14, 2025. Additionally, they approved an out-of-field teaching assignment request and a contract extension for the superintendent from 2024 to 2027.  The meeting concluded with an executive session regarding personnel matters, resulting in the termination of Bradley Vandyne's employment. The board also recognized student ac...[truncated, use api for full text]
 
-During the meeting's "Good of the Order" section, several announcements were made, including recognition of staff training completion, a teacher finalist nomination, and upcoming Pride Presentations scheduled for May 24, 2024. The board also reviewed and approved a comprehensive consent agenda covering personnel actions, purchases, accounts payable, donations, minutes, and interlocal agre...[truncated, use api for full text]
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-24-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-09-minutes.txt)
+## 2024-06-17 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-## 2024-04-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+The School Board held a Special Meeting on June 17, 2024, to discuss and adopt the District's Strategic Plan. The meeting included a public comment period regarding the plan before its unanimous adoption by the board. Following this, the board conducted interviews for the Director District II Board Member position.  The board then recessed into Executive Session for approximately 45 minutes. Upon resuming the regular meeting, Matthew McBride was appointed as the new District Director II Board Member, replacing Erika Cox. The appointment followed a roll call vote where Connie Hennessey, Bamini Pathmanathan and Corey McEnry voted for Matthew McBride, while Tracey Malone voted for Dena Strong.
 
-The Mount Baker School Board held a regular meeting on April 25th, 2024.  The board approved the consent agenda which included personnel actions, purchases over $7,500, accounts payable, payroll and a donation. A new policy regarding high school graduation requirements (MB Policy 2410) was approved for first and final reading. The board also discussed MB Policy 2004, Performance Improvement Goals, which was excepted for first reading.  Reports were given by the Director of Finance and Superintendent covering topics such as budget status, bargaining dates, audit updates, and pre-kindergarten class implementation.  The meeting concluded with an executive session to discuss personnel updates and bargaining updates.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-04-25-minutes.txt)
+## 2024-06-17 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-## 2024-04-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+The Camas School Board held a special meeting on June 17, 2024, to discuss and adopt their long-term strategic plan.  The meeting included procedural items like the Pledge of Allegiance and Land Acknowledgement. Public comments were limited to three minutes per speaker with a total time limit of fifteen minutes. The board reviewed written public comments submitted by Jeanette Romano and Katie Berry-Jones. They then discussed the Strategic Plan, ultimately adopting it via a motion carried unanimously by the five board members present.  The meeting also included Director District II Board Member candidate interviews and an executive session for approximately 45 minutes. Following the executive session, the board appointed a new District Director II Board member.  The agenda demonstrates a co...[truncated, use api for full text]
 
-The School Board meeting minutes detail routine agenda items including approval of the consent agenda which covered personnel actions, purchases, accounts payable and minutes.  The board also heard from a member of the public regarding concerns about K-6 Physical Education.  Several school board policies were reviewed and approved, including MB Policy 6530 Insurance, MB Policy 5310 Compensation, and MB Policy 5005 Employment and Volunteers Disclosures Certification Requirements. MB Policy 5050 Contracts was tabled for further discussion. The meeting concluded with an executive session to discuss personnel issues and bargaining updates.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-04-11-minutes.txt)
+## 2024-06-10 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-## 2024-01-04 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+The School Board Workshop scheduled for Monday, June 10, 2024, at 4:30 PM will primarily focus on budget review for the 2024-25 school year. The agenda includes a recess and an executive session conducted under RCW 42.30.110 (g), which pertains to exempting certain discussions from public disclosure. The workshop concludes with the conclusion of the Board Workshop.  Notably, the text mentions a "2024-25 Budget Presentation" as a file attachment.
 
-The School Board of [School District Name] held a special meeting on January 4th, 2024, to discuss and appoint an interim superintendent.  The board entered executive session to discuss personnel matters and the details of the interim superintendent contract. Following the executive session, the board unanimously voted to appoint Mr. Philip Brockman as the new Interim Superintendent. During the open session, the board interviewed Mr. Brockman, highlighting his prior superintendent experience in similar districts, his focus on budget optimization, and positive recommendations he received.  No other specific policies or resolutions were discussed or acted upon during this meeting.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-10-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-04-minutes.txt)
+## 2024-01-22 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
-## 2020-11-20 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+This excerpt from a school board meeting agenda indicates the conclusion of the regular meeting. It suggests that the meeting included discussions and decisions on various topics, culminating in an adjournment. The specific content and outcomes of the meeting are not revealed in this snippet.
 
-The text details a special meeting of the School Board held on November 20, 2020.  The board approved MB Resolution 2021-5, which pertains to the Certification of 2021 Excess Property Taxes. This resolution was passed unanimously by the three present board members.  The meeting commenced at 4:32 p.m. and concluded at 4:38 p.m., taking place virtually via Zoom.
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-01-22-agenda.txt)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-20-minutes.txt)
+## 2024-01-08 - CAMAS_SCHOOL_DISTRICT (Agenda)
+
+The School Board Workshop agenda for January 8, 2024, focuses on CHOICE SCHOOL ENROLLMENT UPDATE and POLICY REVIEW. Under policy review, the board will discuss several existing policies including Meeting Conduct, Order of Business, and Quorum (Policy 1400), Conflicts of Interest (Policy 1610), Substance Abuse Program (Policy 2121), Comprehensive School Counseling Program (Policy 2140), Highly Capable Programs (Policy 2190), Student Records (Policy 3231), Public Information Program (Policy 4001) and Public Access to District Records (Policy 4040). Additionally, they will review Regulation of Dangerous Weapons on School Premises (Policy 4210) and Infection Control Program (Policy 5004).  The agenda also includes discussion topics related to Board Logistics such as Board Briefings for Februar...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-01-08-agenda.txt)
 

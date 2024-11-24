@@ -1,16 +1,14 @@
-# Positions Supported by Scott Ritchey (BELLINGHAM_PUBLIC_SCHOOLS, Term: 2023-2027)
+# Positions Supported by Ryan Swinburnson (BLAINE_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Scott Ritchey | BELLINGHAM_PUBLIC_SCHOOLS | 2023-2027 |
+| Ryan Swinburnson | BLAINE_SCHOOL_DISTRICT | December 2027 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-08-15 | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026),...[truncated, use api for full text] |
-| 2024-08-15 | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
-| 2024-05-16 | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is m...[truncated, use api for full text] |
-| 2024-02-22 | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond ...[truncated, use api for full text] |
-| 2024-01-18 | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| 2024-06-17 | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| 2024-04-29 | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
+| 2024-04-22 | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 ...[truncated, use api for full text] |
 

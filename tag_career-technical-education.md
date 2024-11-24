@@ -1,0 +1,14 @@
+# Meeting Summaries for Tag: career-technical-education
+
+## 2024-10-03 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on October 3, 2024, to attend the Career and Technical Education (CTE) Fall Kickoff Event. The event, focused on promoting career and technical education programs, lasted from 5:00 PM to 6:30 PM.  Attendees included board members Hân Trần, Jacqueline McGourty, Amy Cast (President), and Superintendent Michael Tolley.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-03-minutes.txt)
+
+## 2024-03-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+
+The Bellingham School Board will hold a special meeting on March 26, 2024, from 6:00 to 7:00 p.m. at the District Office located at 1985 Barkley Boulevard. This meeting focuses on community engagement and will feature a presentation about the district's Career and Technology Education (CTE) programs.  The meeting is designed as an informational session and will not include public comment time.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-26-agenda.txt)
+

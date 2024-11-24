@@ -1,8 +1,8 @@
-# Meeting Summaries for FERNDALE_SCHOOL_DISTRICT with Tag: budget
+# Meeting Summaries for SPOKANE_PUBLIC_SCHOOLS with Tag: budget
 
-## 2023-07-25 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+## 2024-02-21 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
 
-The Ferndale School District No. 502 held a public hearing on July 25, 2023, to receive comment regarding the proposed 2023-2024 district budget.  The meeting was called to order by Dr. Kevin Erickson at 5:47 PM and adjourned at 6:13 PM.  Mark Deebach, Assistant Superintendent for Business and Support Services, introduced Holly Graham, Director of Business Services. Mr. Deebach provided a refresher on the budget documents, specifically referencing F195 (detailed budget) and the Citizen's Budget and MSOC Disclosure forms.
+The Spokane Public Schools Board will hold a special meeting on February 21, 2024, at 4:30 pm.  The agenda includes a work session focused on updating Priority Strategy #1 (Bond & Levy Ballot Initiative) following the recent February special election. Additionally, there will be a discussion on the budget development process and priorities for the 2024-2025 school year. Lastly, a legislative update on the current Washington State Legislative Session and its impact on the district's adopted legislative priorities will be presented. The meeting will be held in person at the Administration Building and accessible via Zoom.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-07-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-21-agenda.txt)
 

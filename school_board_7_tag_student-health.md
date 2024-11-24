@@ -1,29 +1,98 @@
-# Meeting Summaries for NOOKSACK_VALLEY_SCHOOL_DISTRICT with Tag: student-health
+# Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: student-health
 
-## 2024-06-20 - NOOKSACK_VALLEY_SCHOOL_DISTRICT (Minutes)
+## 2024-07-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
-The Ferndale School Board meeting minutes detail a discussion regarding the potential installation of a turf field.  Megan Vigre highlighted the Nooksack Indian Tribe's involvement in providing feedback on the project and its potential benefits for the tribal community. The board supported moving forward with a grant application to fund the turf field, emphasizing that district instructional funds would not be used for this purpose. 
-The meeting also included approval of vouchers and payroll payments across various funds.  No executive session was held.
+This school board agenda and meeting minutes detail upcoming discussions and actions related to various aspects of school governance.  The board plans to review the 2024-2025 budget, including a public hearing for community input. They will also discuss and potentially adopt 2024-2025 School Improvement Plans. Additionally, policy updates are on the agenda. The minutes indicate that an executive session was held, though the specific purpose is not disclosed.  The board adjourned the meeting unanimously.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-06-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-22-agenda.txt)
 
-## 2024-05-23 - NOOKSACK_VALLEY_SCHOOL_DISTRICT (Minutes)
+## 2024-04-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail a regular session held on May 23rd, 2024.  The board unanimously approved payroll and vouchers for various funds including the General Fund, Capital Projects Fund, and ASB Fund. Following the approval of payments, the board entered executive session to discuss Superintendent Galley's evaluation and contract. They commended his performance and recommended increased board involvement in goal setting and strategic planning for the upcoming year. The board subsequently approved Superintendent Galley’s evaluation and contract for the 2024-2025 school year with a unanimous vote.  No other specific policies or resolutions were mentioned or acted upon during the meeting.
+The Blaine School Board met to discuss several issues, including a proposed reduction in the educational program for the 2024-2025 school year (Resolution 2324-08).  The vote on this resolution was postponed for one week to allow for further consideration of stakeholder feedback, including input from the SEIU leadership. The board also discussed a legislative bill requiring the district to adopt a policy regarding drug overdose. Future agenda items include reports from school administrators, an enrollment update and financial report, and approval of various contracts.  The meeting adjourned after a brief executive session to review the performance of a staff member.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-05-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-22-minutes.txt)
 
-## 2024-04-18 - NOOKSACK_VALLEY_SCHOOL_DISTRICT (Minutes)
+### Board Member Actions
 
-The school board meeting minutes detail several routine matters including the approval of an Urgent Repair Grant to replace the high school boiler and the scheduling of a presentation by elementary school principals on their improvement efforts.  The board also approved vouchers and payroll payments across various funds. Notably, the meeting was recessed for an executive session to discuss a personnel issue, with no immediate action taken. Due to anticipated absences in May, the next meeting was rescheduled to Thursday, May 23rd at 7:00 p.m.  The minutes also reflect a formal approval of payments for various school expenses.
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Swinburnson](board_member_9.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Ad...[truncated, use api for full text] |
+| [Erika Creydt](board_member_6.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Ad...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_8.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Ad...[truncated, use api for full text] |
+| [Steve Galbraith](board_member_10.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Ad...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_7.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Ad...[truncated, use api for full text] |
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-04-18-minutes.txt)
+## 2024-02-20 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
-## 2024-03-21 - NOOKSACK_VALLEY_SCHOOL_DISTRICT (Minutes)
+The Blaine School District is holding a special board meeting on February 20, 2024, at the Blaine Middle School Cafeteria to solicit feedback from stakeholders regarding the district's budget planning for the 2024-2025 school year.  The meeting will be divided into four groups, each discussing specific questions related to the district's strengths, areas needing improvement, essential programs and supports, and potential student and family support offerings if levy funding allows. The board will listen to group discussions, review written feedback, and hear presentations from each group. Following the feedback process, the meeting will be adjourned.
 
-The school board meeting minutes detail routine financial matters such as voucher and payroll approvals.  A noteworthy item is the discussion regarding an upcoming newsletter with a cost of $2150 for an 8-page full color edition.  The FFA will be presenting at the April meeting. There was also a brief update on a social media lawsuit. The board entered executive session to discuss a personnel issue, but no action was taken. Steve Jones, likely a representative from the auditing firm, outlined the audit process and informed the board of their participation options. 
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-20-agenda.txt)
 
-The minutes reflect standard school board procedures with discussions around finances, community engagement (FFA presentation), and internal matters (personnel).  There is no mention of controversial topics such as critical rac...[truncated, use api for full text]
+## 2024-01-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-03-21-minutes.txt)
+The school board agenda outlines a regular meeting on January 22, 2024.  The meeting includes time for general comments from the directors and discussion of future meetings and agenda suggestions. A School Improvement Plan mid-year work session is scheduled for February 26, 2024, followed by a regular board meeting. Suggested agenda items include recognizing Education Support Professionals Week and School Retirees' Appreciation Week, receiving a High School Student Report and School Administrator Monthly Reports, discussing enrollment updates and financial reports, and hearing the Superintendent's report. The agenda also includes a potential executive session for discussion of confidential matters allowed under state statute.  The meeting concludes with a formal motion to adjourn.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-22-agenda.txt)
+
+## 2023-06-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The school board discussed revisions to Policy 2121 Substance Abuse Program. A reference to fentanyl was added following the previous month's discussion. Director Creydt requested the inclusion of vapes in the policy language, which the board agreed to after further discussion.  The board ultimately voted to table the "First Reading" of the revised policy for further review.
+
+The board also approved the first reading of updates to Policy 4060 Distribution of Information, which outlines the district's new "Peachjar" program for distributing approved flyers.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-06-20-minutes.txt)
+
+## 2023-04-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District Board meeting minutes detail a discussion regarding Policy 2121 Substance Abuse Program. Director Creydt suggested adding language specific to vaping and testing confiscated vapes for content. Dr. Granger, the superintendent, expressed concern about resource constraints and legal limitations on requiring student treatment. He indicated that law enforcement should handle vape testing. The board will revisit the discussion in May. Additionally, the meeting agenda for May includes a discussion on Policy 3205 Sexual Harassment of Students Prohibited.  The minutes also list potential future agenda items such as enrollment updates, financial reports, and the superintendent's contract renewal.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-04-24-minutes.txt)
+
+## 2022-01-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The school board approved the "First Reading" of Policy 3112 Social Emotional Climate.  The meeting also saw discussion regarding scheduling flexibility for future board meetings and a work session to review policy updates from WSSDA. Directors expressed a desire for a larger pool of candidates for the vacant board position and agreed to extend the application deadline. A special meeting will be scheduled in February for director candidate interviews, which will be open to the public. The board also discussed scheduling a mid-year School Improvement Plan work session followed by the regular board meeting on February 28th.  Possible agenda items include monthly school administrator reports, enrollment and financial updates, budget planning, superintendent's report, and policy updates.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-01-24-minutes.txt)
+
+## 2022-01-12 - BLAINE_SCHOOL_DISTRICT (Agenda)
+
+The text outlines an agenda and minutes for a special board meeting held on January 12, 2022.  The meeting's primary purpose was to convene in executive session for the review of a public employee's performance. Due to COVID-19 related guidelines, the meeting incorporated both virtual and in-person components. The executive session lasted approximately two hours, with no formal action taken afterward. The board reconvened in regular session and adjourned by motion.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-01-12-agenda.txt)
+
+## 2021-12-14 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+This document details a school board meeting agenda and minutes. The board discussed the athletic COVID testing requirement which is mandated by WIAA (Washington Interscholastic Activities Association) and the Department of Health, not a district policy.  They also reviewed upcoming agenda items for future meetings including School Board Recognition Month, School Administrator Reports, Enrollment Update and Financial Report, Consent Agenda, Superintendent’s Report, 2022-2023 Base School Calendar, and Policy Updates. The board entered into executive session to review the performance of a public employee.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-12-14-minutes.txt)
+
+## 2021-08-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting minutes detail the passage of two resolutions. Resolution 2021-10 adopted the 2021-2022 budget, including a four-year forecast, as presented by Amber Porter, Executive Director of Finance and Operations. The board expressed gratitude to Ms. Porter for her work on the budget's preparation.  The second resolution addressed comments made earlier in the meeting by patrons who had not heard presentations given by school administrators. The board acknowledged the importance of community engagement and expressed a desire for future meetings to include time for discussion and reflection on public input. Additionally, the board discussed scheduling a special meeting on September 1, 2021, at 7:00 am to consider ratification of the 2021-2023 collective bargaining agreement wi...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-08-23-minutes.txt)
+
+## 2021-06-28 - BLAINE_SCHOOL_DISTRICT (Agenda)
+
+This school board agenda focuses on standard operational items.  The next regular meeting will be held on July 26, 2021 at 7:00 pm. Suggested agenda items include a public hearing on the 2021-2022 budget, a superintendent's report, the 2021-2022 student fee list and policy updates. The board also notes that there will be no executive session at this meeting. Finally, the meeting was adjourned by formal motion carried by Dougal Thomas, seconded by Todd Nunamaker.  All directors present voted yea: Todd Nunamaker, Dougal Thomas, Joan Lotze, Charles E Gibson.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-06-28-agenda.txt)
+
+## 2021-03-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting minutes detail discussions on several key issues.  The board acknowledged that graduation rates are artificially high due to pandemic-related waiver options and resolved to compare future statistics to pre-pandemic data for consistency. They approved the first reading of Policy 6210, Purchasing - Authorization and Control, with a second reading and potential adoption planned for the following month's meeting. Director McKinney emphasized the importance of serving on the school board as an act of public service and highlighted the board's commitment to supporting students by following CDC guidelines and working towards full-time in-person learning for the 2021-2022 school year.  The board also discussed agenda items for their next meeting, including administrator re...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-03-22-minutes.txt)
+
+## 2020-11-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a special board meeting on November 24, 2020, to discuss the return of secondary students to in-person instruction amidst the COVID-19 pandemic.  The board entered executive session to consult with legal counsel regarding the legal risks of a proposed action for returning students to in-person learning. Following the executive session, the board voted unanimously to follow Superintendent Dr. Christopher Granger's recommendation to pause the return of 6th and 9th grade students for one week. This decision was made to allow Dr. Granger time to work with the local Health Department and explore alternative phasing options for Blaine students. The district aimed to ensure student safety while advocating for equitable treatment compared to other Whatcom Co...[truncated, use api for full text]
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-11-24-minutes.txt)
+
+## 2020-11-24 - BLAINE_SCHOOL_DISTRICT (Agenda)
+
+The Bellingham School Board held a special meeting on November 24, 2020, to discuss the return of secondary students to in-person instruction amidst the COVID-19 pandemic.  The board considered legal counsel regarding the risks associated with reopening schools and ultimately voted to proceed with a hybrid instruction model for 6th and 9th grade students on November 30, 2020, despite recommendations from the Whatcom County Health Department to pause in-person learning. The motion to return to in-person learning was carried by a roll call vote with all five board members voting in favor.  The meeting was conducted remotely due to COVID-19 restrictions.
+
+[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-11-24-agenda.txt)
 
