@@ -1,11 +1,5 @@
 # Meeting Summaries for CAMAS_SCHOOL_DISTRICT with Tag: student-privacy
 
-## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Minutes)
-
-The text provided consists solely of the hexadecimal escape sequences '\x0c\x0c'. These sequences represent form feed characters, which are used to advance a printer or display to the top of a new page. This suggests that the original document may have been formatted with multiple pages and this excerpt represents a page break.  The content does not reveal any information related to school board agendas, minutes, transcripts, or any other topics listed in the provided tags.
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-28-minutes.txt)
-
 ## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
 The Camas School District will hold a special board meeting on Monday, October 28, 2024, at 4:00 PM. The meeting agenda includes an executive session for approximately 75 minutes to conduct an appeal hearing regarding a Harassment, Intimidation, and Bullying (HIB) complaint.  Following the executive session, the board will return to the special meeting and adjourn. The specific details of the HIB complaint are not provided in the text.

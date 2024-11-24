@@ -1,26 +1,5 @@
 # Meeting Summaries for CAMAS_SCHOOL_DISTRICT in 2024
 
-## 2024-11-25 - CAMAS_SCHOOL_DISTRICT (Agenda)
-
-This text appears to be a draft agenda for a Camas School District Board meeting on November 25, 2024. Here's a breakdown of the key information:
-
-**Meeting Details:**
-
-* **Date:** November 25, 2024
-* **Location:**  Not specified in the provided text
-
-**Agenda Items:**
-
-The agenda is divided into two main sections:
-
-* **6. SYSTEMS/PATHWAYS: INFORMED AND RESPONSIBLE USE OF RESOURCES (Consent Agenda):**
-
-    * These are typically routine items that are voted on as a group unless a board member requests to discuss an item separately.
-        * **A.**  Approval of Minutes from Previous Meeting (not detailed in the excerpt)
-        * **B.** Human Resources Agreement - Website Redesign and Mobile App Development: This contract with Apptegy includes website redesign, content migration, hosting, o...[truncated, use api for full text]
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-11-25-agenda.txt)
-
 ## 2024-11-18 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
 The Camas School District will hold a Special Board Meeting on November 18, 2024, at 5:30 PM.  The purpose of the meeting is for the school board to participate in an Annual Legislative Reception with the Legislative Advocacy Committee. This event suggests a focus on community engagement and interaction with legislative representatives regarding educational matters.
@@ -38,12 +17,6 @@ The School Board Workshop on November 12, 2024, will focus on continuous growth 
 The Camas School District is holding a special board meeting on October 30, 2024, at 5:30 PM to discuss the development of legislative priorities for 2025.  The meeting agenda indicates that the board will review legislative priority documents from various organizations, including the Washington Education Association (WEA), the Washington Association of School Administrators (WASA), and Educational Service District 112 (ESD 112). The specific content of these legislative priorities is not detailed in the provided text.  The meeting concludes with an adjournment.
 
 [View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-30-agenda.txt)
-
-## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Minutes)
-
-The text provided consists solely of the hexadecimal escape sequences '\x0c\x0c'. These sequences represent form feed characters, which are used to advance a printer or display to the top of a new page. This suggests that the original document may have been formatted with multiple pages and this excerpt represents a page break.  The content does not reveal any information related to school board agendas, minutes, transcripts, or any other topics listed in the provided tags.
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-28-minutes.txt)
 
 ## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Agenda)
 

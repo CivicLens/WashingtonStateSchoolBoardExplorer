@@ -18,12 +18,6 @@ The Camas School District will hold a special board meeting on Monday, October 2
 
 [View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-28-agenda.txt)
 
-## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Minutes)
-
-The text provided consists solely of the hexadecimal escape sequences '\x0c\x0c'. These sequences represent form feed characters, which are used to advance a printer or display to the top of a new page. This suggests that the original document may have been formatted with multiple pages and this excerpt represents a page break.  The content does not reveal any information related to school board agendas, minutes, transcripts, or any other topics listed in the provided tags.
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-28-minutes.txt)
-
 ## 2024-09-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 This document outlines Policy B-8 regarding the recording and retention of minutes for the Board of Directors.  The policy mandates that the recording secretary record all board meetings, with minutes becoming official upon approval by the board. The minutes must comprehensively detail meeting information such as date, time, location, presiding officer, attendees, discussion topics, voting outcomes, executive session details, and adjournment time.  Recordings of meetings are also required to be retained according to Washington State Records Retention Schedule. Unofficial minutes are shared with board members prior to the next meeting and made available to the public. A permanent file of all board meeting minutes is maintained in the board secretary's office for public inspection. The polic...[truncated, use api for full text]
