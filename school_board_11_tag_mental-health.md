@@ -4,7 +4,7 @@
 
 The Mount Baker School District held a regular board meeting on July 11, 2024.  The meeting included standard agenda items such as approval of the agenda and minutes, consent agenda items including personnel actions and purchases, presentations on state forest timber sales and CTE & Perkins programs, information from the audience, and action items regarding the approval of the 2023-2028 CTE District Wide Plan and the 2023-2024 Carl Perkins Application. The board also discussed topics for a future retreat agenda.  Natalie Chavez shared concerns about the School Based Health Clinic during information from the audience.  The meeting concluded with an adjournment at 8:16 p.m. Notably, the minutes reflect a policy change in the form of an amendment to an existing interlocal agreement between ES...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-11-minutes.txt)
 
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -12,7 +12,7 @@ The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoo
 
 Policy discussions centered around MB Policy/Procedure 6100, which unde...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
 
 ## 2020-11-12 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -22,7 +22,7 @@ The board also discussed mental health resources for students, highlighting part
 
 Additionally, the meeting included updates on school safety procedures and the implementation of hybrid learning models in response to COVID-19.  The board received reports from the Exe...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-12-minutes.txt)
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -30,5 +30,5 @@ The October 22, 2020 school board meeting focused on several key issues.  The bo
 
 The board also received reports on the Executive Director of Finance & Operations and the Superintendent. Topics included the 2019-2020 year-end status, bus driver recruitment, Tier 2 reductions, reopening updates, strategic plan updates, and the Continua schedule.  The meeting con...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
 

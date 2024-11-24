@@ -6,7 +6,7 @@ The Meridian School District #505 Board meeting focused on various policy update
 
 The meeting included updates on the district's budget and financial status.  Dr. Everett, the Superintendent, provided a report covering various school activities and events. The board also discussed upcoming kindergarten graduations and eighth grade promotion ceremonies.  Finally, the board ...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-12-minutes.txt)
 
 ### Board Member Actions
 
@@ -32,7 +32,7 @@ The meeting included updates on the district's budget and financial status.  Dr.
 
 The Meridian School District #505 held a regular school board meeting on January 24, 2024.  The meeting covered a range of topics including curriculum and policy updates. The board reviewed and approved the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work. Three new policies were introduced for first reading: Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment. These will be revisited at the February 7th meeting for second review and potential approval.  The board also appointed Michelle Simmons as the Legislative Representative and Jana Haugen as the WIAA Board Representative. During the superintendent's report, Dr. Ev...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
 
 ### Board Member Actions
 
@@ -51,7 +51,7 @@ The Meridian School District #505 held a regular school board meeting on January
 
 The Meridian School District #505 held its regular school board meeting on December 13, 2023.  The meeting included routine agenda items such as approval of meeting minutes, personnel reports, and payment authorizations. Notably, the board recognized outgoing directors Sara Bernardy and Craig Mitchell and welcomed newly elected directors Marty Gray, Jana Haugen, and Michelle Simmons. The board also elected Steve Corwin as president and Jarrod Karuza as vice president.  Reports were given on transportation updates, facilities recommendations, and a Youth Care Services Contract was approved. Superintendent Dr. James Everett provided an update on his work with various community organizations and upcoming training opportunities. Student Board Representatives Morgan Adams and Kennedy Brzozowski...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-minutes.txt)
 
 ### Board Member Actions
 
@@ -72,13 +72,13 @@ The Meridian School District #505 Board held a regular meeting on November 21, 2
 
 The board conducted second reviews and approvals of several levies: the NWESD Behavior Specialist Contract, the 2024 EP&O Levy Resolution 08-23, and the 2024 Capital Levy Resolution 09-23. All three levies were approved unanimously. The board also initiated a first review of a Youth Care Services contract which will be brought back for fi...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-11-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-11-21-minutes.txt)
 
 ## 2023-09-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on September 20, 2023.  The meeting covered a range of topics including reports on professional development plans for staff and summer maintenance projects. Several agreements were reviewed and approved, including the Bradley University Preceptor Agreement and the SLP Teleservices Agreement. The board also received a first reading of several policies and procedures related to electronic resources, internet safety, student fees, fines or charges, student records, and food and beverage consumption.  These will be brought back for a second review and approval at the next meeting.  The superintendent provided updates on enrollment projections, budget status, and the district's application for a Core Skill Center in Whatcom C...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-20-minutes.txt)
 
 ## 2023-09-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -86,7 +86,7 @@ The Meridian School District #505 Board held a regular meeting on September 6, 2
 
 Several policies and procedures underwent a second review and approval process. These included Policy and Procedure 2190 - Highly Capable Programs, Policy and Procedure 3207 - Prohibition of Harassment, Intimidation, and Bullying, and Policy and Procedure 6700 - Nutrition Health and Physical Education. Resolution 07-23  regarding a Whatcom County Skills Center Feasibility Study was also reviewed and ap...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-06-minutes.txt)
 
 ## 2023-08-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -94,37 +94,37 @@ The Meridian School District #505 held a regular school board meeting on August 
 
 The board initiated reviews for several new policies and procedures, including MSD Board Operating Protocols, Resolution 07-23 regarding a Whatcom County Skills Center Feasibility Study, Policy and Procedure 2190 on Highly Capable Programs, Policy and Procedure 3207 con...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-08-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-08-23-minutes.txt)
 
 ## 2023-07-18 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a special meeting on July 18, 2023, for their annual school board retreat.  The meeting began at 5:30 p.m. and concluded at 8:20 p.m. The agenda included approval of the consent agenda which contained items such as Accounts Payable, Payroll, Threat Assessment Agreement for the 2023-24 school year, Mobile Dental Van contract, ConnectEd Agreement, ProCare Agreement and NCTA Interdistrict Agreement. All agenda items were approved unanimously.  The retreat focused on a "Board Retreat Agenda" and "Summary Discussion," although specific details about these topics are not included in the provided text. The meeting was chaired by Sara Bernardy and James Everett served as Secretary to the Board.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-07-18-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-07-18-minutes.txt)
 
 ## 2023-07-18 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The Meridian School District Board is holding a Special Meeting and Annual Board Retreat on July 18th.  The meeting agenda includes routine items such as approving various agreements with organizations like ProCare Tele-Psych for mental health services and the Northwest Career and Technical Academy (NCTA) for interdistrict cooperation. A work session will focus on reviewing the board retreat agenda, which likely addresses long-term strategic plans and goals for the district.  The meeting concludes with a summary discussion and adjournment.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-07-18-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-07-18-agenda.txt)
 
 ## 2023-05-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on May 10, 2023.  The meeting included a review of the self-manager program for fifth graders at IRE Elementary and an assessment program report presented by Director of Teaching and Learning Adrienne Somera. The Board approved Resolution 05-23, Adoption of Long-Range Study and Survey, and Policy and Procedure 3205 - Sexual Harassment of Students Prohibited. Superintendent Dr. Everett provided updates on teacher appreciation, meetings with tribal leaders, and the district's decision not to reduce staffing for the 2023-24 school year. Student Board Representatives Mirage DeNeal and Kurtis Kettman were present at the meeting.  The meeting adjourned at 8:33 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-05-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-05-10-minutes.txt)
 
 ## 2023-01-25 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The agenda for the January 25th school board meeting includes a presentation by student representative Mirage DeNeal on Culture and Climate.  The Superintendent will also deliver a report on district activities. A financial update, including budget status reports and enrollment comparisons, will be presented by Director of Finance Daniel Yorton. The agenda emphasizes community engagement with a dedicated section for "Information from Student Board Representatives."  Mental health and student well-being are addressed through the inclusion of a "Student Presentation" focused on Culture and Climate, suggesting an emphasis on supporting student autonomy and overall well-being within the school environment.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-01-25-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-01-25-agenda.txt)
 
 ## 2022-11-02 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 Board held a regular meeting on November 2nd, 2022.  The meeting focused on several key topics including updates on COVID protocols and ongoing efforts to support student mental health through social-emotional learning initiatives. The board reviewed academic standards and discussed curriculum transparency measures. They also received presentations from teachers at various grade levels highlighting innovative teaching strategies and the implementation of new assessment rubrics for writing skills.  Several policies were presented for second readings, including Policy 5001 (Hiring of Retired School Employees), Policy 5610 (Substitute Employment), and Policy 5612 (Temporary Administrators). Additionally, a second reading was held for Policy and Procedure 6700...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-02-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-02-minutes.txt)
 
 ## 2022-10-19 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -132,43 +132,43 @@ The Meridian School District Board held a meeting on October 19th, 2022, address
 
 Presentations focused on bus safety and the Highly Capable Learning program. The board discussed and adopted several policies including Policy 5001 (Hiring of Retired School Employees), Policy 5610 (Substitute Employment), Policy 5612 (Temporary Administrators), Policy & Procedure 6700 (Nutrition, Health, and Physical Education Markup) and Policy & Procedure 6701 (Meal Charges). These policies were presented as first readings. The Superintend...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
 
 ## 2022-09-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board held a meeting on September 21st, 2022. The agenda included presentations on the Healthy Children's Fund Ordinance and reports on staff professional development and summer maintenance projects. Policy changes were discussed and approved, including a second reading of Policy 4210 (Meeting Conduct, Order of Business, and Quorum) and a second reading of Policy 6112 (Executive or Closed Sessions). New business items included a first reading of the MSD Census Redistricting Proposal, the NCTA Groundwork Agreement, and first readings for several new policies: 2110 (Transitional Bilingual Instruction Program), 4218 (Language Access), 5260 (Personnel Records), and 6600 (Transportation). Superintendent James Everett provided updates on COVID-19, the NFHS Sports Net...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-21-minutes.txt)
 
 ## 2022-05-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board held a meeting on May 25th, 2022 to discuss various agenda items.  A key point of discussion was the adoption of an inclusive sex education curriculum. During public comment, community members expressed both support and concern regarding the curriculum's approach to LGBTQ+ topics. The board ultimately approved the new curriculum after deliberation. Additionally, the meeting addressed student mental health concerns, with Superintendent Dr. James Everett highlighting updates on spring sports and the search for new leadership.  The board also reviewed a proposed budget for the 2022-23 school year.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-05-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-05-25-minutes.txt)
 
 ## 2021-10-20 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The school board agenda includes a first reading of Policy & Procedure 3416 Medication at School.  The board will also receive a financial update from Daniel Yorton, Director of Business and Finance. Superintendent Dr. James Everett will present his report to the board which includes a letter addressed to school and government officials. The agenda concludes with information from student board members, board members, and an adjournment.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-10-20-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-10-20-agenda.txt)
 
 ## 2021-09-08 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The school board agenda includes the second reading and adoption of Policy and Procedure 5515, Workforce Secondary Traumatic Stress. This policy is designed to address the mental health needs of staff who may experience secondary traumatic stress from working with students who have experienced trauma.  The board will also hear a first reading of the NWESD Multilingual Learner (formerly ELL) Cooperative Agreement, outlining the district's partnership with the Northwest Educational Service District for multilingual learner support. Additionally, the board will review a first reading of the Dairy Contract, specifying the supplier for dairy products in the school district.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-09-08-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-09-08-agenda.txt)
 
 ## 2021-08-25 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The agenda for the August 25th, 2021 school board meeting includes a First Reading of Procedure 6700P, Nutrition Health and Physical Education.  This procedure outlines policies related to student health and nutrition. Additionally, there will be a First Reading of Procedure 5515, Workforce Secondary Traumatic Stress, which focuses on supporting staff mental health and addressing secondary traumatic stress experienced by educators. The meeting also includes a Financial Update presented by Daniel Yorton, Director of Business and Finance, and a Superintendent's Report from Dr. James Everett.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-08-25-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-08-25-agenda.txt)
 
 ## 2021-07-07 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The Meridian School District Board agenda for July 7, 2021, includes routine items such as a first reading of the 2021-2022 fee schedule for Meridian High School and Meridian Middle School.  The Superintendent will present the 2021-2022 Plan of Work to the Board. Dr. James Everett's report to the board includes several attachments related to student health and well-being, including a COVID-19 Student Survey that reveals student worries and hopes. The agenda also lists a section for information from board members and concludes with the adjournment of the meeting.  The agenda does not mention any items related to diversity, equity, inclusion or social-emotional learning.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-07-07-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-07-07-agenda.txt)
 
 ## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -176,23 +176,23 @@ The Meridian School District Board meeting minutes detail a range of topics incl
 
 Several new policies received first readings, including Policy 2161 regarding Special Education and Related Services for Eligible Students, Policy 2162 concerning Education of Students With Disabilities Under Section 504 of the Rehabilitation Act of 1973, and Policy 21...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-minutes.txt)
 
 ## 2021-05-05 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The school board agenda includes a first reading of two agreements related to student health.  The first is the "Nurses Services Agreement" with Compass Health Services. The second agreement is the "MSD Compass Health MOU". Additionally, Dr. James Everett will present the "Academic and Student Well-Being Plan Resolution" to the board.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-05-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-05-agenda.txt)
 
 ## 2021-03-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board meeting minutes detail discussions on various topics including school safety measures, mental health support for students, and the district's response to the COVID-19 pandemic.  The board reviewed a report on the state of the district's assets and ongoing maintenance. They also discussed student autonomy through recognition of the Meridian High School yearbook team for their work during remote and hybrid learning. The meeting included presentations on Career Technical Education, and updates on interlocal agreements with the NWESD Whatcom Detention Center.  Policy changes were addressed, including the adoption of Policy 2107: Comprehensive Early Literacy Plan and Policy and Procedure 3115: Homeless Students Experiencing Homelessness – Enrollment Rights and...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-minutes.txt)
 
 ## 2021-03-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The school board agenda includes several items related to student well-being and educational policies.  Policy 3115 addresses the enrollment rights and services for homeless students.  The board will consider a second reading and adoption of this policy. Additionally, Policy 3112 focuses on creating a positive social-emotional climate within schools. The board will conduct a first reading of this policy. A first reading is also scheduled for Policy 6000, which outlines procedures for program planning, budget preparation, adoption, and implementation.  Finally, the Superintendent will deliver a report on district activities.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-agenda.txt)
 

@@ -9,7 +9,7 @@ Policy 6701 (Recess and Physical Activity), and Policy 6702 (Wellness). The agen
 
 Additionally, there's a discussion item regarding the Board Inquiry Tracking System (BITS). Finally, the board will vote on approving several trips for students, including the THS FFA to Randle, WA and the THS Future Film Makers to Glendale, CA. They will also review the 2023/24 Annual Athletic Report and approve the 2024/25 BEA Compliance.  The agenda concludes with a vote on a $10,500 donation from the Rock Creek Elementary PTO.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-09-24-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-09-24-agenda.txt)
 
 ## 2024-05-28 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -19,7 +19,7 @@ Second Reading Revise Policy 6112 Rental or Lease of District Real Property.pdf 
 A first reading of a proposal for adoption of THS Pre Calculus Curriculum is also on the agenda. The board will consider approving the consent agenda, which includes items such as payment summaries and policy revisions related to school discipline and student data privacy. 
 KB).  The agenda also contains a discussion of the district's budget update for the 2024-2025 academic year.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-05-28-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-05-28-agenda.txt)
 
 ## 2024-03-12 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -33,5 +33,5 @@ The March 12, 2024 school board meeting agenda covers a range of topics includin
 
 The board will also discuss a first reading for revising policy 5310 compensation. The agenda includes an action item to approve the consent agenda. The consent agenda encompasses routine matters such as payment summaries, meeting minut...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-12-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-12-agenda.txt)
 

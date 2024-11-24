@@ -4,7 +4,7 @@
 
 This document outlines a school board meeting agenda. Several items on the consent agenda involve approving travel for staff members to attend conferences.  This could potentially raise concerns regarding the use of public funds and parental oversight of educational spending decisions.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-07-23-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-07-23-agenda.txt)
 
 ## 2024-06-04 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -14,7 +14,7 @@ A "Discussion Item" is listed as "Annual Employee Retiree Recognition." This sug
 
 The text also notes accommodations for individuals with disabilities who wish to participate in the meeting.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-06-04-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-06-04-agenda.txt)
 
 ## 2024-03-12 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -28,5 +28,5 @@ The March 12, 2024 school board meeting agenda covers a range of topics includin
 
 The board will also discuss a first reading for revising policy 5310 compensation. The agenda includes an action item to approve the consent agenda. The consent agenda encompasses routine matters such as payment summaries, meeting minut...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-12-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-12-agenda.txt)
 

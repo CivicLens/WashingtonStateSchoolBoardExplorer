@@ -6,7 +6,7 @@ The school board meeting minutes detail routine financial matters such as vouche
 
 The minutes reflect standard school board procedures with discussions around finances, community engagement (FFA presentation), and internal matters (personnel).  There is no mention of controversial topics such as critical rac...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-03-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-03-21-minutes.txt)
 
 ### Board Member Actions
 

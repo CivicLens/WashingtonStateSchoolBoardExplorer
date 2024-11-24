@@ -4,7 +4,7 @@
 
 The meeting minutes detail the actions taken by the school board during a session.  The board approved several items on the consent agenda, including accepting July 2024 financial statements and adopting Policy 1822 regarding Training and Development for Board Members. The board also received monitoring reports for Results 6 (Career Readiness) and Results 2.4 (Technology). During the sharing portion of the meeting, board members discussed recent events and professional development opportunities.  The meeting concluded with a positive evaluation from Mrs. Button who gave it a score of 4.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-minutes.txt)
 
 ## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -12,31 +12,31 @@ This school board meeting agenda and minutes cover a range of routine administra
 
 The Board Consent Agenda focused on approving minutes, reviewing the budget, and receiving a monitoring report for Operational Expectations Policy 2 (OE-2) regarding succession planning. They also adopted the Governance Culture Policy 6-E Annual Work Plan. During the "Sharing" segment, board members discusse...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
 
 ## 2024-11-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail routine actions taken by the school board, including authorizations for personnel matters and leave requests. Notably, during a discussion period, board members expressed concern about declining student performance in recent years, suggesting that the education system has not adequately adapted to post-pandemic challenges.  The board also briefly discussed the length of their agendas and the need to prioritize certain items for effective decision-making regarding student well-being. A review of a monitoring report (R-2.4) related to academic achievement and technology was included on the consent agenda, which was approved unanimously.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-03-minutes.txt)
 
 ## 2024-10-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School Board convened a special session on October 3rd, 2024 to discuss legislative priorities. Nine priorities were selected, including "Academic Rigor and Equity in Public Education,"  "Amply Funded Staffing Levels," and "Full Funding of Basic Education." The board also discussed the "B/SR 3 Authority of the Superintendent," focusing on the process for approving interlocal contracts and communication clarity between the Board and Superintendent. Additionally, they reviewed the "GC-7 Ferndale School Board Social Contract" and considered scheduling additional meetings.  The text notes that Antonio Machado joined the meeting late. The discussion also touched upon the need for clearer communication channels from the superintendent's office to the board.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
 
 ## 2024-06-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Mountainview Learning Center School Board held a meeting on June 11, 2024, to discuss the District 2024 budget.  The budget presentation highlighted the alignment of financial priorities with the new Strategic Plan's Focuses and Foundations. These focuses included Safety and Belonging, Early Learning (Birth - Grade 3), Mastery of Standards, and Future Ready. The Foundations outlined key operational principles such as Engaging and Effective Teaching and Learning Systems, Authentic and Meaningful Engagement with Students, Family and Community, Advancing Excellence: Strategic Operations and Resource Management, and Dynamic Systems for Hiring and Retention.  The meeting also included a brief Executive Session to discuss a real estate matter.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
 
 ## 2024-05-28 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting addressed several policy revisions related to high school graduation requirements.  Revised Policy 2410 focuses on High School Graduation Requirements, while Revised Policy 2418 addresses the Waiver of High School Graduation Credits. Additionally, Revised Policy 2255 pertains to Alternative Learning Experience Courses. Resolution 2418R, which aimed to approve a waiver for high school graduation credits, was removed from the agenda and scheduled for discussion at the June 28th meeting. During the "Sharing" portion, board members discussed various topics, including visits to CTE events and a request for a future discussion on cell phone use in schools. The meeting concluded with an adjournment motion carried unanimously by all board members present.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-28-minutes.txt)
 
 ### Board Member Actions
 
@@ -59,7 +59,7 @@ The school board meeting addressed several policy revisions related to high scho
 
 The school board meeting addressed several routine matters through a consent agenda process. This included approving the Board of Directors' budget and receiving monitoring reports for Operational Expectations Policy 11 (OE-11) regarding Facilities and Operational Expectations Policy 12 (OE-12) concerning Safety.  The board also received legislative updates from Ms. Button on the Washington State School Directors' Association (WSSDA) and discussed WSSDA position proposals. Board members shared reflections on their progress, with Mr. Childs expressing appreciation for the board, Mr. Machado supporting teachers, and Ms. Uppiano focusing on improving math scores. Dr. Erickson encouraged directors to participate in the WSSDA New Director monthly meeting. The meeting concluded with a student ev...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-03-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-03-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -95,7 +95,7 @@ The school board meeting addressed several routine matters through a consent age
 
 The Mountainview Learning Center School Board met on January 16, 2024, to discuss school finances and the budget.  The meeting included a presentation by Mr. Deebach and Ms. Graham on topics related to school finance including the Finance Team, Financial Reporting, School District Financial Structure, the F195 Budget Process and the 2024/25 Budget Update. The meeting was called to order at 5:00 PM by Dr. Erickson and adjourned at 6:36 PM.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-16-minutes.txt)
 
 ## 2023-06-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -103,7 +103,7 @@ The Ferndale School District Board meeting on June 27th, 2023 covered a variety 
 
 The board also reviewed a Monitoring Report for Operational Expectations Policy 9 (OE-9) Learning Environment.  Student input was incorporated through the Student Advisory Vote on ...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-06-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-06-27-minutes.txt)
 
 ## 2023-04-25 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -111,7 +111,7 @@ The Ferndale School Board convened to discuss routine administrative matters and
 
 During the meeting, school board members shared updates on their recent activities. Mr. Childs discussed a preventative maintenance schedule for school facilities. Ms. Uppiano reported on her classroom visits to various sc...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-04-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-04-25-minutes.txt)
 
 ## 2023-03-28 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -119,5 +119,5 @@ The school board meeting focused on routine matters such as approving personnel 
 
 Board members shared experiences from their community engagement activities, including school visits and parent-teacher conferences. Concerns were raised regarding the impact of recent years on student learning capacity and the need to prioritize agenda items that support positive student outcomes. This discussion highlighted a recognition of challenges students are facing in adapting to post-pandemic educational environments.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-03-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-03-28-minutes.txt)
 

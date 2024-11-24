@@ -6,5 +6,5 @@ The Mount Baker School District Board held a meeting on October 10, 2024, discus
 
 The board approved a consent agenda that included personnel actions, purchases over $7,500, accounts payable, overnight trips for student athletic events, and approval of minutes from previous meetings. A...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-10-minutes.txt)
 

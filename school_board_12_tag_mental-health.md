@@ -8,7 +8,7 @@ The board reviewed and approved several items including bids, vouchers, and payr
 
 Policy changes included a review of Superintendent Galley's contract and a mid-year performance evaluation. The board unanimously voted to extend his contract through June 30, 2027.  No specific details were provided regarding the reasons for this extens...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-25-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-25-20-minutes.txt)
 
 ### Board Member Actions
 

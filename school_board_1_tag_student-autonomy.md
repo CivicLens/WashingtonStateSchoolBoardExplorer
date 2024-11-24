@@ -8,7 +8,7 @@ The board approved student placements at SPERO Center for $326,000 and Florens A
 
 The meeting concluded with the approval of a travel request by the CHS Select Vocal Ensemble for their retreat in ...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-23-minutes.txt)
 
 ## 2024-08-14 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
@@ -18,7 +18,7 @@ Mental health is also a priority, with discussions centered around integrating s
 
 The agenda includes a session on "Board Logistics for 2024/2025," which will cover topics like school safety protocols and community engagement strategies. This suggests a focus on creating a safe and inclusive learning environment while fostering strong relationships with parents and the wider communi...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-08-14-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-08-14-agenda.txt)
 
 ## 2024-02-26 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
@@ -27,5 +27,5 @@ The Camas School Board meeting agenda includes several items focused on student 
 The Camas School District  in Syracuse, Utah. This placement is necessary to meet the student's unique needs. 
 health crisis. The total cost for this placeme...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-02-26-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-02-26-agenda.txt)
 

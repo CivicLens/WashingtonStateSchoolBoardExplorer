@@ -8,7 +8,7 @@ The board reviewed and approved several items including bids, vouchers, and payr
 
 Policy changes included a review of Superintendent Galley's contract and a mid-year performance evaluation. The board unanimously voted to extend his contract through June 30, 2027.  No specific details were provided regarding the reasons for this extens...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-25-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-25-20-minutes.txt)
 
 ### Board Member Actions
 
@@ -35,7 +35,7 @@ Policy changes included a review of Superintendent Galley's contract and a mid-y
 
 The school board meeting minutes detail several routine matters including the approval of an Urgent Repair Grant to replace the high school boiler and the scheduling of a presentation by elementary school principals on their improvement efforts.  The board also approved vouchers and payroll payments across various funds. Notably, the meeting was recessed for an executive session to discuss a personnel issue, with no immediate action taken. Due to anticipated absences in May, the next meeting was rescheduled to Thursday, May 23rd at 7:00 p.m.  The minutes also reflect a formal approval of payments for various school expenses.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-04-18-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-04-18-minutes.txt)
 
 ### Board Member Actions
 
@@ -52,7 +52,7 @@ The school board meeting minutes detail several routine matters including the ap
 
 The school board approved an amended budget, increasing the total from $33,365,089 to $33,965,089.  This included a $170,000 increase for the Transportation Vehicle Fund, bringing its total to $500,000. The board also discussed capital projects, including updates to PAC cladding and the bus garage. These projects are currently on hold pending favorable weather conditions.  Other ongoing projects include miscellaneous repairs and the replacement of a high school boiler. The status of an Urgent Repair Grant was also reviewed.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-02-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/nooksack_valley_school_district/2024/2024-02-15-minutes.txt)
 
 ### Board Member Actions
 

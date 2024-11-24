@@ -4,7 +4,7 @@
 
 The meeting minutes detail the actions taken by the school board during a session.  The board approved several items on the consent agenda, including accepting July 2024 financial statements and adopting Policy 1822 regarding Training and Development for Board Members. The board also received monitoring reports for Results 6 (Career Readiness) and Results 2.4 (Technology). During the sharing portion of the meeting, board members discussed recent events and professional development opportunities.  The meeting concluded with a positive evaluation from Mrs. Button who gave it a score of 4.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-minutes.txt)
 
 ## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -12,19 +12,19 @@ This school board meeting agenda and minutes cover a range of routine administra
 
 The Board Consent Agenda focused on approving minutes, reviewing the budget, and receiving a monitoring report for Operational Expectations Policy 2 (OE-2) regarding succession planning. They also adopted the Governance Culture Policy 6-E Annual Work Plan. During the "Sharing" segment, board members discusse...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
 
 ## 2024-11-05 - FERNDALE_SCHOOL_DISTRICT (Agenda)
 
 The Ferndale School District No. 502 School Board will hold a study session on October 17, 2023, at 5:00 p.m. to discuss Mental and Behavioral Health.  The meeting will be held at 5780 Hendrickson Road in Ferndale, WA. The agenda includes a consent calendar item for approving overnight travel for students from Eagleridge Elementary to attend Camp Killoqua. The primary focus of the meeting is a discussion on Mental and Behavioral Health led by Dr. Erickson and Dr. Dominguez, with a guest panel available for questions and answers.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-05-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-05-agenda.txt)
 
 ## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting addressed several routine matters and policy updates.  The board approved a consent agenda covering items such as the review of the Board of Directors' Budget and the receipt of revised policies. These included Policy 2140 Comprehensive School Counseling Program, Policy 2145 Suicide Prevention, and Policy 3245 Students and Telecommunication Devices.  Specific changes made to these policies were not detailed in the provided text. During the sharing portion of the meeting, board members highlighted the importance of teachers and community support for schools. The board also conducted a meeting evaluation, with Mr. Machado providing an overall rating of 4.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-07-30-minutes.txt)
 
 ### Board Member Actions
 
@@ -59,5 +59,5 @@ The school board meeting addressed several routine matters and policy updates.  
 
 The school board meeting discussed several items related to school operations and student well-being.  A key topic was the review and approval of monitoring reports for Operational Expectations Policy 12 (OE-12) Safety. This item was ultimately removed from the agenda. The board also received results from a monitoring report on Academic Achievement - Science (2.3). Additionally, the meeting included a consent agenda covering routine matters such as travel approvals, surplus declarations, hiring, contracts, leave requests, resignations/retirements, financial statements, and voucher authorizations. A discussion arose regarding approving consent agenda items that had already occurred. The board also engaged in a brief sharing session where one member apologized for their tone and email summar...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-01-31-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-01-31-minutes.txt)
 

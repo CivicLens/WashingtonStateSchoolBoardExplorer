@@ -6,5 +6,5 @@ The Bellingham School Board meeting minutes detail a discussion on the superinte
 
 The minutes also highlight the importance of reviewing past monitoring reports for context when evaluating current performance. Several school board committees provided updates, including the Board Manual committee, which will meet before the March 27th retreat to review the latest version of the manual. The meeting concluded with a study session on Restorative Practices and their alignment with the Bellingham Promise.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-02-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-02-12-minutes.txt)
 

@@ -6,13 +6,13 @@ This document details a student roundtable meeting hosted by the Bellingham Scho
 
 Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues relat...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
 The Whatcom Middle School will host a School Board Special Meeting/Student Roundtable on February 27th, 2024 from 2:00 to 3:00 pm.  The purpose of the meeting is for the school board to learn more about the GSA Club, indicating a focus on LGBTQ+ student inclusion and diversity within the school. This meeting will not include public comment time.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-agenda.txt)
 
 ## 2019-06-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -20,19 +20,19 @@ The Bellingham School Board meeting minutes highlight student perspectives on di
 
 One student noted taking an African American history class and suggested it should be required for all students. The meeting included a report from Ms. Diaz Hackler about her interactions with students at a linkage meeting, where she learned about the disconnect between the language used in "The Bellingham Promise"...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-06-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-06-05-minutes.txt)
 
 ## 2019-05-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District held a Community Linkage Special Meeting to gather student input on "The Bellingham Promise," the district's strategic plan outlining goals for students. Students discussed various aspects of the plan, including mental health, character development, and diversity & inclusion. They expressed appreciation for the inclusion of LGBTQ+ identities but suggested more staff training on these topics.  Students also highlighted the need for increased access to resources like food and clothing, and emphasized the importance of a supportive and inclusive school environment. The meeting aimed to foster community engagement and incorporate student voices in shaping educational policies and practices as part of the district's long-term strategic planning.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-05-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-05-29-minutes.txt)
 
 ## 2019-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board discussed feedback on a monitoring response document for EL-9, Asset Maintenance and Protection.  No further details were provided about the content of the document or the nature of the feedback. Board member Benjamin expressed interest in making the board's policy more specific regarding equity and inclusion for the LGBTQ community. This desire stemmed from his attendance at the NSBA conference in Philadelphia where he encountered initiatives focused on LGBTQ+ inclusion.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-04-17-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-04-17-minutes.txt)
 
 ## 2019-03-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -40,13 +40,13 @@ The Bellingham School District held a Community Linkage Special Meeting on March
 
 Discussions highlighted the need for increased mental health support for students, especially those who have experienced trauma. Participants also noted the importance of diversity and inclusion initiatives and the value of strong relationships between teachers, parents, and students. Concerns were raised regarding discrepancies in referral rates to Northwest Youth Services b...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-03-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-03-27-minutes.txt)
 
 ## 2016-07-21 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
 The Bellingham School Board agenda for July 21, 2016, included approval of personal services contracts. One contract was for Laura Langley to provide meeting facilitation regarding LGBPTQ+ inclusion.  The board also reviewed a monitoring report for EL-6, Academic Standards and Practices, to determine if the Superintendent was in compliance with this policy.  No further details about the content or findings of the monitoring report are provided.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-07-21-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-07-21-agenda.txt)
 
 ## 2013-08-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -54,5 +54,5 @@ The Bellingham School Board met in a special session on August 8, 2013, to discu
 
 Further demonstrating a commitment to community engagement, the board discussed ways to enhance technology at board meetings for better communication with attendees and reviewed preferred methods of receiving routine and urgen...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-08-minutes.txt)
 

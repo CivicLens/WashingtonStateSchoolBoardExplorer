@@ -6,5 +6,5 @@ The Tahoma School District Board meeting agenda outlines several topics for disc
 
 The agenda also includes discussion regarding coach personnel reports and a Board Inquiry Tracking System (BITS).
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-agenda.txt)
 

@@ -8,13 +8,13 @@ A key point of discussion involved resolving a K-3 class size funding issue caus
 
 The meeting concluded with a motion to adjourn, which passed 4-0 with one member absent.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-23-minutes.txt)
 
 ## 2024-01-11 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board discussed potential budget cuts due to the possible failure of a local levy (EP&O).  Ms. Porter, a district representative, explained that if the levy fails, programs that can be reduced would face 24% cuts. The discussion focused on the impact of these reductions, particularly on staffing. There was concern expressed about the number of staff potentially impacted by a $2.7M reduction and the legal requirements for notifying staff about potential job losses.  The process for developing a reduced education plan was reviewed, highlighting the complexities and uncertainties involved. The board also discussed the district's efforts to address reductions in school library staffing and why volunteers could not replace contracted employees.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -27,7 +27,7 @@ The school board discussed potential budget cuts due to the possible failure of 
 
 The Blaine School District Board held a work session to review mid-year progress reports on school improvement plans.  Discussions focused on student academic performance across different grade levels and subject areas.  Principals from each school presented updates on their respective schools' initiatives, highlighting successes and challenges. Notably, Blaine High School Principal Scott Ellis mentioned professional development for staff in social emotional learning that included a guest facilitator to help them better understand the needs of LGBTQ+ students. The session also touched upon teacher-staff shortages, with Superintendent Dr. Christopher Granger acknowledging the foundational work administrators are doing to address these challenges and promote student success.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-02-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-02-27-minutes.txt)
 
 ## 2022-11-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -37,13 +37,13 @@ The meeting also included general comments from President Thomas who expressed a
 
 Th...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-11-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-11-28-minutes.txt)
 
 ## 2021-11-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School Board discussed several policy changes during their meeting. Policy .060 was amended to prevent schools from withholding grades or transcripts due to student damage or loss of property.  The board also reviewed and approved revisions to policies 2420 (Grading and Progress Reports), 3231 (Student Records), 3520 (Student Fees, Fines, or Charges), and 6800 (Safety, Operations and Maintenance of School Property). The meeting included discussion about the shortage of substitute teachers and efforts to recruit new substitutes.  The board also addressed concerns regarding the district's redistricting plan and committed to scheduling a special meeting for further public input.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-11-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-11-22-minutes.txt)
 
 ## 2020-08-05 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -51,5 +51,5 @@ The Blaine School District held a special board meeting on August 5, 2020 to dis
 
 The superintendent acknowledged that staff concerns about returning in-person h...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-05-minutes.txt)
 

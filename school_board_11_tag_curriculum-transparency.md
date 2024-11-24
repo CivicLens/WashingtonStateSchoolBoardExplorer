@@ -4,7 +4,7 @@
 
 The Mount Baker School District Board held a regular meeting on July 25, 2024.  The board approved the consent agenda which included personnel actions, purchases, accounts payable, payroll and several contracts. The board also received reports from the Director of Finance and Superintendent. Topics discussed included budget status, monthly balance, Title IX regulation changes and the Apollo Solutions Small School Grant. Upcoming events were announced including the Mount Baker Athletic & Academic Weekend and a Candidate Night at the High School. The next regular school board meeting is scheduled for August 8th, 2024 at 6:00 p.m.  A board retreat is also scheduled for August 22nd, 2024 from 1:00 p.m. to 5:30 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
 
 ## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -12,13 +12,13 @@ The Mount Baker School Board held a virtual meeting on July 23, 2020, to discuss
 
 The board discussed plans for high school graduation, which would be held as a drive-in style ceremony on August 7, 2020, to ensure social distancing. The meeting also included updates on the district's COVID-19 response, including a waiver application process and a reopening timeline. Additionally, the board approve...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
 
 ## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also included updates from the superintendent regarding COVID-19 planning, waiver updates, capital projects, and graduation plans. Discussions touched upon long-term strategic planning for the district.  The board scheduled future meetings, including regular sessions and work sessions.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
 
 ## 2024-03-28 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -26,7 +26,7 @@ The Mount Baker School District Board held a regular meeting on March 28, 2024, 
 
 The board also approved several policy changes for first and final readings, including MB Policy 5005 Employment and Volunteers Disclosures Certification Requirements,  MB Policy 2090 Program Evaluation, and MB Policy 6220 Bid or Request for Proposal Requirements. The meeting concluded with a discussion on...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-28-minutes.txt)
 
 ## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -34,7 +34,7 @@ The meeting minutes detail a regular school board meeting held on February 22, 2
 
 The board emphasized curriculum transparency by approving a consent agenda that included several policies related to financial procedures and student health. Notably, the meeting highlighted community engagement through presentations from FFA students and an opportunity for public comment during "Information from the Audience." The minutes also document updates on ...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
 
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -42,7 +42,7 @@ The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoo
 
 Policy discussions centered around MB Policy/Procedure 6100, which unde...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -50,5 +50,5 @@ The October 22, 2020 school board meeting focused on several key issues.  The bo
 
 The board also received reports on the Executive Director of Finance & Operations and the Superintendent. Topics included the 2019-2020 year-end status, bus driver recruitment, Tier 2 reductions, reopening updates, strategic plan updates, and the Continua schedule.  The meeting con...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
 

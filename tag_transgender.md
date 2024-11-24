@@ -4,19 +4,19 @@
 
 The Lynden School District Board meeting agenda includes several policy readings related to LGBTQ+ and transgender student inclusion.  The second reading of Policy 3211 and 3211P, "Gender Inclusive Schools," aims to create a supportive environment for transgender students. Additionally, the first reading of Policy 2401 addresses "Financial Education Mastery-Based Learning & Credit," while the second readings cover Policies 2125 on "Sexual Health Education," 3432 on "Emergencies," 4130 on "Title I, Parental Involvement," 5314 on "Tax Deferred Annuity/Compensation," and 6220 on "Bid or Request for Proposal Requirements." The agenda also includes a report from the Superintendent on the "Be The One Mentoring Program" and time allotted for "Information from Board Directors and Student Represent...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-agenda.txt)
 
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School District #504 Board meeting agenda focuses on several items related to transgender student participation in athletics.  The board will discuss and potentially take action on a "Letter to Legislators - Transgender Athlete Participation" and a "Letter to WIAA - Transgender Participation Policy." These letters address the district's stance on transgender athlete inclusion within the context of existing policies from the Washington Interscholastic Activities Association (WIAA).  The meeting also includes standard agenda items like reports from the superintendent, teaching and learning department, and finance and operations. Several policy first readings are scheduled, including Policy 3211/P- Gender Inclusive Schools. The specific content and potential revisions within these ...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-agenda.txt)
 
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes detail discussions and actions related to transgender student athletes. The board approved a letter to the WIAA (Washington Interscholastic Activities Association) advocating for policy changes regarding transgender athlete participation.  Additionally, the board debated and ultimately approved a letter to legislators concerning the inclusion of transgender athletes assigned male at birth in sports. This letter saw revisions with the removal of a bullet point titled "Education and Awareness." The minutes also highlight Director Brar's request for further discussion on Initiative 2081, though its specific content related to LGBTQ+ issues is not mentioned.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
 
 ### Board Member Actions
 
@@ -39,7 +39,7 @@ The Lynden School District Board meeting minutes detail discussions and actions 
 
 The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superintendents on proposed amended language.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
 
 ### Board Member Actions
 
@@ -56,7 +56,7 @@ The Lynden School District Board meeting minutes detail discussions concerning g
 
 Additionally, they discussed the possibility of joining other districts advocating for a more parent-friendly model policy from WSS...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -83,7 +83,7 @@ Additionally, they discussed the possibility of joining other districts advocati
 
 The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the amended resolution.  The minutes do not explicitly state the reasoning behind these changes.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
 
 ### Board Member Actions
 
@@ -107,19 +107,19 @@ This document details a student roundtable meeting hosted by the Bellingham Scho
 
 Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues relat...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
 ## 2022-04-27 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board held a meeting on April 27th, 2022, to discuss various agenda items. Notably, they conducted a second reading and approved Policy & Procedure 3211—Gender Inclusive Schools with a vote of 3-2. This policy aims to create a welcoming and inclusive environment for all students, regardless of their gender identity.  The board also reviewed and approved several other policies, including those related to medication at school (Policy & Procedure 3416), opioid overdose reversal (Policy & Procedure 3424), and parent access to a safe and orderly learning environment (Policy & Procedure 4200). These policy changes reflect the district's commitment to student well-being and creating a supportive educational experience for all.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-27-minutes.txt)
 
 ## 2022-04-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail several first readings of new policies and updates to existing ones. Notably, Policy & Procedure 3211 underwent a revision focusing on "Gender Inclusive Schools." While the specific content of the revisions isn't mentioned, the title suggests an emphasis on inclusivity for transgender and gender non-conforming students.  The board also reviewed a first reading of Policy & Procedure 3424 concerning "Opioid-Related Overdose Reversal," indicating a potential focus on student health and safety. The minutes also document a hiring update and spring break maintenance updates provided by Superintendent Dr. James Everett.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-13-minutes.txt)
 
 ## 2022-02-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -130,13 +130,13 @@ The meeting also included a discussion on potential policy changes driven by par
 
 Further, the minutes docu...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-10-minutes.txt)
 
 ## 2020-01-13 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District held a special board meeting on January 13, 2020, to discuss and approve the first reading of several new policies. Policy 3211, "Gender-Inclusive Schools," was introduced in response to Senate Bill 5689 which required the district to adopt such a policy by January 31, 2020. During discussion, two sentences regarding communication with parents were slated for removal from the updated procedural language. Concerns about locker room privacy and how similar gender issues are handled in lower grades were also raised. The board unanimously approved the first reading of Policy 3211.  Policies 3143 "District Notification of Juvenile Offenders," 3144 "Release of Information Concerning Student Sexual and Kidnapping Offenders" and 3145 "Sex Offender Access to District Prop...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-01-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-01-13-minutes.txt)
 
 ## 2019-06-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -144,11 +144,11 @@ The Bellingham School Board meeting minutes highlight student perspectives on di
 
 One student noted taking an African American history class and suggested it should be required for all students. The meeting included a report from Ms. Diaz Hackler about her interactions with students at a linkage meeting, where she learned about the disconnect between the language used in "The Bellingham Promise"...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-06-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-06-05-minutes.txt)
 
 ## 2017-11-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail revisions made to the district's "Ends" policies.  Specifically, Item 3 was amended to change the pronoun used for the Superintendent from "he/she" to "they." This alteration reflects a shift towards more inclusive language. No further explanation or rationale for this change is provided in the minutes. The meeting also included updates on visits by local political representatives to Options High School and discussions regarding upcoming WSSDA regional and annual conferences.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-01-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-01-minutes.txt)
 

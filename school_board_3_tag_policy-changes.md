@@ -8,14 +8,14 @@ The board will review personnel reports for certificated, classified and Coach s
 
 There is a discussion item on the Board Inquiry Tracking System (BITS).  The agenda concludes with an Adjournment.
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-22-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-22-agenda.txt)
 
 ## 2024-10-08 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
 The Tahoma School Board will be discussing several policy changes at their October 8th meeting. These include revisions to policies regarding tuition (Policy 6111), bid or request for proposal requirements (Policy 6220) and insurance (Policy 6530). Additionally, the board will consider retiring Policy 6010 Fiscal Year and adopting a new Minimum Fund Balance policy (Policy 
 First Reading Revise Policy 6700 Nutrition.pdf (78 KB), First Reading Adopt Policy 6702 Wellness.pdf (3 KB))
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-08-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-08-agenda.txt)
 
 ## 2024-10-03 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -23,7 +23,7 @@ The Tahoma School Board will hold a retreat on October 3rd, 2024, to discuss var
 
 The board will also review hiring policies, receive an update on the Studer improvement plan and school format, and engage in discussions regarding the strategic planning process. The retreat aims to establish clear goals and strategies for the Tahoma School District moving forward. Specific policy changes mentioned include updates to Policy 5000 (Recruitment and Selection of Staff) and related procedures...[truncated, use api for full text]
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-03-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-03-agenda.txt)
 
 ## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -31,11 +31,11 @@ The Tahoma School District Board meeting agenda outlines several topics for disc
 
 The agenda also includes discussion regarding coach personnel reports and a Board Inquiry Tracking System (BITS).
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-agenda.txt)
 
 ## 2024-03-26 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
 
 
-[View Full Text](https://raw.githubusercontent.com/civiclensllc/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-26-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-26-agenda.txt)
 
