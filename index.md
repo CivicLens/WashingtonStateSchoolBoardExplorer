@@ -1,21 +1,21 @@
 # School Board Meeting Summaries
 
 ## Summaries by County
-### CLARK County
-- [CAMAS_SCHOOL_DISTRICT](school_board_1.md)
+[comment]: #### CLARK County
+[comment]: #- [CAMAS_SCHOOL_DISTRICT](school_board_1.md)
 
-### KING County
-- [NORTHSHORE_SCHOOL_DISTRICT](school_board_2.md)
-- [TAHOMA_SCHOOL_DISTRICT](school_board_3.md)
+[comment]: #### KING County
+[comment]: #- [NORTHSHORE_SCHOOL_DISTRICT](school_board_2.md)
+[comment]: #- [TAHOMA_SCHOOL_DISTRICT](school_board_3.md)
 
-### SKAGIT County
-- [ANACORTES_SCHOOL_DISTRICT](school_board_13.md)
+[comment]: #### SKAGIT County
+[comment]: #- [ANACORTES_SCHOOL_DISTRICT](school_board_13.md)
 
-### SNOHOMISH County
-- [NORTHSHORE_SCHOOL_DISTRICT](school_board_4.md)
+[comment]: #### SNOHOMISH County
+[comment]: #- [NORTHSHORE_SCHOOL_DISTRICT](school_board_4.md)
 
-### SPOKANE County
-- [SPOKANE_PUBLIC_SCHOOLS](school_board_5.md)
+[comment]: #### SPOKANE County
+[comment]: #- [SPOKANE_PUBLIC_SCHOOLS](school_board_5.md)
 
 ### WHATCOM County
 - [BELLINGHAM_PUBLIC_SCHOOLS](school_board_6.md)
