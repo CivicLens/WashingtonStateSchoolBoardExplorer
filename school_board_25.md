@@ -16,9 +16,10 @@
 
 ## Summaries by Tag
 - [policy-changes](school_board_25_tag_policy-changes.md)
+- [community-engagement](school_board_25_tag_community-engagement.md)
 - [diversity-inclusion](school_board_25_tag_diversity-inclusion.md)
 - [lgbtq](school_board_25_tag_lgbtq.md)
-- [community-engagement](school_board_25_tag_community-engagement.md)
+- [recognition](school_board_25_tag_recognition.md)
 - [long-term-strategic-plans](school_board_25_tag_long-term-strategic-plans.md)
 - [school-safety](school_board_25_tag_school-safety.md)
 - [school-board-ethics](school_board_25_tag_school-board-ethics.md)
@@ -26,6 +27,10 @@
 - [mental-health](school_board_25_tag_mental-health.md)
 - [bullying-prevention](school_board_25_tag_bullying-prevention.md)
 - [student-data-privacy](school_board_25_tag_student-data-privacy.md)
+- [budgeting](school_board_25_tag_budgeting.md)
+- [audit](school_board_25_tag_audit.md)
+- [superintendent-report](school_board_25_tag_superintendent-report.md)
+- [consent-agenda](school_board_25_tag_consent-agenda.md)
 - [student-health](school_board_25_tag_student-health.md)
 - [teacher-support](school_board_25_tag_teacher-support.md)
 - [racial-equity](school_board_25_tag_racial-equity.md)

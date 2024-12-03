@@ -32,3 +32,4 @@
 - [social-emotional-learning](school_board_22_tag_social-emotional-learning.md)
 - [school-board-ethics](school_board_22_tag_school-board-ethics.md)
 - [teacher-support](school_board_22_tag_teacher-support.md)
+- [teacher-staff-shortages](school_board_22_tag_teacher-staff-shortages.md)

@@ -18,4 +18,5 @@ No current board members available.
 - [special-education-support](school_board_81_tag_special-education-support.md)
 - [academic-standards](school_board_81_tag_academic-standards.md)
 - [curriculum-transparency](school_board_81_tag_curriculum-transparency.md)
+- [student-data-privacy](school_board_81_tag_student-data-privacy.md)
 - [school-safety](school_board_81_tag_school-safety.md)

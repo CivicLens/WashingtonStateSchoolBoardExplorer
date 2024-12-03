@@ -2,7 +2,7 @@
 
 ## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors convened an Exempt Closed Session on February 12, 2024, primarily to discuss matters related to collective bargaining as per RCW 42.30.140(4). The session was attended by board members including President Amy Cast and Superintendent Michael Tolley. The Board estimated the session would last approximately 60 minutes, after which they would reconvene solely for adjournment. The meeting was adjourned at 8:28 PM. The documentation does not indicate any specific policy changes or proposals discussed during the session. However, the focus on collective bargaining may imply ongoing discussions surrounding diversity and inclusion policies, particularly in relation to LGBTQ matters, although no explicit mention of such topics was made in the minutes.
+The Northshore School District Board of Directors held an Exempt Closed Session on February 12, 2024, to discuss matters related to collective bargaining, as permitted under RCW 42.30.140(4). The session commenced at 7:30 PM and was attended by board members including President Amy Cast and Superintendent Michael Tolley. The meeting was estimated to last 60 minutes, after which it was scheduled to reconvene solely for adjournment. The session concluded at 8:28 PM. This meeting's focus on collective bargaining indicates ongoing negotiations or changes in policies affecting staff and potentially the broader educational environment within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-12-minutes.txt)
 

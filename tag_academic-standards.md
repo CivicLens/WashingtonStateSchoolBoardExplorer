@@ -62,6 +62,12 @@ The Bellingham School District is hosting an informational meeting for individua
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
 
+## 2024-11-04 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Lake Washington Board of Directors convened on November 4, 2024, to discuss revisions to Board Policy, specifically Operational Expectation-10 (OE-10), which focuses on the Learning Environment and Treatment of Students. During the session, Deputy Superintendent Matt Gillingham facilitated a review of the Board's interests in this area, emphasizing the alignment of classroom practices with the Danielson Framework for Teaching. The session included a gallery walk where board members explored various components of the framework and evaluated current prohibitions outlined in the policy. The discussions aim to ensure that the learning environment adheres to established academic standards and promotes positive treatment of students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-11-04-minutes.txt)
+
 ## 2024-11-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail routine actions taken by the school board, including authorizations for personnel matters and leave requests. Notably, during a discussion period, board members expressed concern about declining student performance in recent years, suggesting that the education system has not adequately adapted to post-pandemic challenges.  The board also briefly discussed the length of their agendas and the need to prioritize certain items for effective decision-making regarding student well-being. A review of a monitoring report (R-2.4) related to academic achievement and technology was included on the consent agenda, which was approved unanimously.
@@ -118,7 +124,7 @@ The Lynden School District #504 Board of Directors met on October 12, 2024, to d
 
 ## 2024-10-11 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The Mercer Island School District Board of Directors held a special meeting on October 11, 2024, to discuss Board Policy 1800 OE-1, which focuses on personalized learning, and to review the iReady Math assessment tool under Board Policy 1800 OE-10. Superintendent Fred Rundle introduced Dr. Ray Smith to lead a discussion on the importance of effective teaching practices, emphasizing the need for potential revisions to the policy language to broaden the focus from "personalized learning" to "learning" as a whole. The Board acknowledged the necessity of defining the "why," "how," and "what" of the policy and discussed metrics to monitor progress, such as the percentage of teachers whose students show significant growth. In the afternoon, discussions centered on the iReady assessment tool, with representatives from Curriculum Associates presenting its adaptive nature and the importance of using multiple data sources for comprehensive student evaluations. The Board expressed the need for clear measures and monitoring systems to enhance instructional decisions.
+The Mercer Island School District Board of Directors held a special meeting on October 11, 2024, to discuss Board Policy 1800 OE-1 regarding personalized learning and instructional practices. Superintendent Fred Rundle introduced Dr. Ray Smith, who discussed high-impact teaching practices and the importance of collaboration among educators to improve student outcomes. The Board considered revising the policy language to focus more broadly on "learning" instead of just "personalized learning," emphasizing the need to define the "why," "how," and "what" of the policy. Metrics for measuring progress were also discussed. In the afternoon, the Board reviewed iReady Math, an adaptive assessment tool presented by representatives from Curriculum Associates. They explored its role in informing instruction and measuring student growth, highlighting the necessity of using multiple data sources for a comprehensive understanding of student learning. The discussions reflect the district's commitment to enhancing academic standards and transparency in curriculum and assessment practices.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-10-11-minutes.txt)
 
@@ -744,7 +750,7 @@ Additionally, Director of Teaching and Learning Adrienne Somera presented Eureka
 
 ## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a retreat on March 18, 2024, to discuss several key topics. These included reviewing and discussing information related to academic standards and curriculum transparency.  The board also addressed the topic of student data privacy. No specific policies or changes were mentioned in the provided text.
+The Northshore School District Board of Directors held a special meeting on March 18, 2024, where they discussed several key topics, including the development of a pool, the Portrait/Profile of Graduate, the implications of artificial intelligence in education, and the handling of data. The meeting commenced at 5:02 PM and concluded at 7:58 PM. Specific actions or resolutions regarding these topics were not detailed in the minutes, but the inclusion of artificial intelligence suggests a focus on integrating modern technology into the educational framework. The session was attended by board members and the superintendent, Mr. Michael Tolley, who also served as the secretary to the board.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
 
@@ -789,6 +795,12 @@ The school board agenda includes a second review and motion to approve the 2024-
 The Meridian School District #505 held a joint work session and regular school board meeting on March 6, 2024.  The meeting included presentations from various departments highlighting student progress in PLC reports for Art, First Grade Writing, and Middle School Science. Additionally, the MHS Principal provided updates on accreditation, graduation rates, and the CTE program. The Board reviewed and approved several policies including Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, Policy 6111 - Tuition, and the 2024-2027 School Year Calendars. They also approved Resolution 01-24: OSPI 180 Day Waiver.  Notably, the meeting included a discussion on school safety as part of the MHS School Report.  The Board addressed academic standards through PLC presentations demonstrating student progress and curriculum transparency by presenting the reviewed policies for public comment and approval.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-06-minutes.txt)
+
+## 2024-02-27 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 Board of Education held a regular meeting on February 27, 2024, at Enterprise Elementary School. The meeting included the approval of the agenda and various required approvals, including minutes from the previous meeting and financial reports. A significant action taken was the approval of Sub End 2 - A Dream - Academic Achievement, which was deemed in compliance. The meeting featured presentations from school representatives and updates on legislative activities, highlighting community engagement and recognition of student and staff achievements. Superintendent Dr. Dani Pfeiffer introduced key updates, particularly on Multi-Tiered System of Supports (MTSS), emphasizing the district's commitment to academic standards and support for students. Public comments were also included, reflecting community involvement in school affairs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-27-minutes.txt)
 
 ## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -871,7 +883,7 @@ The Lynden School District #504 Board Meeting agenda focuses on several key area
 
 ## 2024-02-13 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
-The Federal Way Public School District No. 210 Board of Education held a regular meeting on February 13, 2024, where they addressed various topics including community engagement and academic standards. Superintendent Dr. Dani Pfeiffer introduced Principal Charleen Prichard, who provided a school highlight, emphasizing the importance of community partnerships. The Board recognized scholars and staff for their achievements, reflecting a commitment to diversity and inclusion. Notably, the Board approved the adoption of the 3-5 and 6-8 English Language Arts (ELA) Curriculum, which is part of their focus on maintaining academic standards and ensuring curriculum transparency. Additionally, the meeting included a discussion on Resolution 2024-02, which authorized surplus disposition requirements under RCW 28A.335.180, demonstrating the Board's intent to manage district resources effectively.
+The Federal Way Public School District No. 210 held a Board Meeting on February 13, 2024, where several key actions were taken. Notably, the Board approved the adoption of the 3-5 and 6-8 English Language Arts (ELA) Curriculum, which aligns with academic standards and aims to enhance curriculum transparency. Additionally, the Board passed Resolution 2024-02, which authorizes surplus disposition requirements as stipulated by RCW 28A.335.180. Superintendent Dr. Dani Pfeiffer introduced community engagement initiatives and recognized the contributions of community partners, emphasizing the importance of collaboration in education. The meeting also featured reports from scholar representatives, highlighting the involvement of students in school governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-13-minutes.txt)
 
@@ -896,6 +908,12 @@ The meeting concluded with an adjournment at 8:15pm.
 The Spokane Public Schools Board will hold a special meeting on February 7, 2024, at 4:30 pm.  The agenda includes a work session discussing legislative updates and high school programming options available on the Hillyard Campus.  The meeting will be held in person at the Administration Building and accessible via Zoom. The board will also hold an executive session to discuss the performance of a public employee. Public comment can be submitted via email to SchoolBoard@spokaneschools.org.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-07-agenda.txt)
+
+## 2024-02-06 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 conducted a Work Study Meeting on February 6, 2024, where key presentations focused on academic standards and curriculum transparency. Superintendent Dr. Dani Pfeiffer introduced several officials, including Marla Newton and Dr. Melissa Spencer, to present on ENDS 2, which outlines the district's educational goals and outcomes. Additionally, there was a presentation on the adoption of English Language Arts (ELA) curriculum for grades 3-5 and 6-8, emphasizing the district's commitment to improving academic standards. The meeting also included a discussion on equity learning, led by Board President Dr. Jennifer Jones, and featured Sonia Nicholson discussing Multilingual Education in elementary schools, highlighting the district's focus on equity and inclusion within its educational framework.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-06-minutes.txt)
 
 ## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -942,7 +960,10 @@ The Meridian School District #505 held a regular school board meeting on January
 
 ## 2024-01-23 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
-The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where various agenda items were addressed, including the approval of the Required Approvals Agenda and the Meeting Agenda. Key actions included the approval of Resolution 2024-01, which authorizes the waiver of public bidding requirements as per RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and introduced several recognitions, including the Because of You Awards for outstanding scholars and staff. The meeting also featured reports from student representatives and discussions on legislative updates, highlighting the board's commitment to community engagement and transparency in academic standards. The board assessed its performance and discussed recent events impacting the district. The meeting concluded with an adjournment at 7:53 p.m.
+The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where several key actions were taken. The board approved the Meeting Agenda and the Required Approvals Agenda, which included the approval of various financial reports and personnel reports. Notably, Resolution 2024-01 was passed, authorizing the waiver of public bidding requirements as outlined in RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and recognized the accomplishments of scholars and staff through the "Because of You Awards." The meeting concluded with public comments and a review of the board meeting assessment by President Dr. Jennifer Jones. Overall, the meeting focused on organizational performance, budgetary considerations, and recognition of achievements within the district. 
+
+policy-changes
+summary: The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where several key actions were taken. The board approved the Meeting Agenda and the Required Approvals Agenda, which included the approval of various financial reports and personnel reports. Notably, Resolution 2024-01 was passed, authorizing the waiver of public bidding requirements as outlined in RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and recognized the accomplishments of scholars and staff through the "Because of You Awards." The meeting concluded with public comments and a review of the board meeting assessment by President Dr. Jennifer Jones. Overall, the meeting focused on organizational performance, budgetary considerations, and recognition of achievements within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-23-minutes.txt)
 
@@ -954,7 +975,7 @@ The school board agenda outlines a regular meeting on January 22, 2024.  The mee
 
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which aims for growth for every student and the elimination of outcome and opportunity gaps. This discussion reflects the district's commitment to diversity and inclusion, particularly in relation to racial equity and support for LGBTQ+ students. The session was attended by board members, including President Amy Cast and Superintendent Michael Tolley, who emphasized the importance of addressing these equity issues within the educational framework. The study session concluded with an adjournment at 6:49 PM, and the minutes were approved on February 12, 2024.
+The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which emphasizes Growth for Every Student and the elimination of outcome and opportunity gaps. The discussion was led by Superintendent Mr. Michael Tolley, who provided insights into the district's strategies for achieving these objectives. The session was attended by board members including President Amy Cast and other directors. The Board's commitment to racial equity was evident as they reviewed policies aimed at addressing disparities in educational outcomes. The meeting concluded with an adjournment at 6:49 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
 
@@ -971,6 +992,12 @@ The special meeting held on January 22, 2024, at the Lewisville Campus focused o
 The School Improvement Plans are designed to ensure high levels of student performance and promote a positive impact on learning. They include strategies for continuous improvement and are developed through collaborative input from various stakeholders. The meeting concluded with an adjournment after discussing the importance of these plans in meeting academic standards and fostering community engagement in the educational process.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-specialmeeting-minutes.txt)
+
+## 2024-01-16 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 held a Special Board Meeting on January 16, 2024, where the agenda included a presentation on the Middle School Master Schedule and Program Update by Superintendent Dr. Dani Pfeiffer, along with key staff members. This presentation aimed to address academic standards and organizational performance within the district's middle schools. Additionally, the meeting featured a Bill Discussion led by Vice President Luckisha Phillips, although specific bills were not detailed in the provided text. The meeting concluded with adjournment at 5:59 p.m., indicating a structured approach to governance and policy review within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-16-minutes.txt)
 
 ## 2024-01-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 

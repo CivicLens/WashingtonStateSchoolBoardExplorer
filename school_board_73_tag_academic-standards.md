@@ -50,7 +50,7 @@ The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM i
 
 ## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a retreat on March 18, 2024, to discuss several key topics. These included reviewing and discussing information related to academic standards and curriculum transparency.  The board also addressed the topic of student data privacy. No specific policies or changes were mentioned in the provided text.
+The Northshore School District Board of Directors held a special meeting on March 18, 2024, where they discussed several key topics, including the development of a pool, the Portrait/Profile of Graduate, the implications of artificial intelligence in education, and the handling of data. The meeting commenced at 5:02 PM and concluded at 7:58 PM. Specific actions or resolutions regarding these topics were not detailed in the minutes, but the inclusion of artificial intelligence suggests a focus on integrating modern technology into the educational framework. The session was attended by board members and the superintendent, Mr. Michael Tolley, who also served as the secretary to the board.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
 
@@ -62,7 +62,7 @@ The Board of Directors for an unnamed school district will hold a study session 
 
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which aims for growth for every student and the elimination of outcome and opportunity gaps. This discussion reflects the district's commitment to diversity and inclusion, particularly in relation to racial equity and support for LGBTQ+ students. The session was attended by board members, including President Amy Cast and Superintendent Michael Tolley, who emphasized the importance of addressing these equity issues within the educational framework. The study session concluded with an adjournment at 6:49 PM, and the minutes were approved on February 12, 2024.
+The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which emphasizes Growth for Every Student and the elimination of outcome and opportunity gaps. The discussion was led by Superintendent Mr. Michael Tolley, who provided insights into the district's strategies for achieving these objectives. The session was attended by board members including President Amy Cast and other directors. The Board's commitment to racial equity was evident as they reviewed policies aimed at addressing disparities in educational outcomes. The meeting concluded with an adjournment at 6:49 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
 

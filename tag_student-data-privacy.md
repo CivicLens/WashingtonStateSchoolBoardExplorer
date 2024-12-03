@@ -10,6 +10,12 @@ There is a discussion item on the Board Inquiry Tracking System (BITS).  The age
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-22-agenda.txt)
 
+## 2024-10-11 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Mercer Island School District Board of Directors held a special meeting on October 11, 2024, to discuss Board Policy 1800 OE-1 regarding personalized learning and instructional practices. Superintendent Fred Rundle introduced Dr. Ray Smith, who discussed high-impact teaching practices and the importance of collaboration among educators to improve student outcomes. The Board considered revising the policy language to focus more broadly on "learning" instead of just "personalized learning," emphasizing the need to define the "why," "how," and "what" of the policy. Metrics for measuring progress were also discussed. In the afternoon, the Board reviewed iReady Math, an adaptive assessment tool presented by representatives from Curriculum Associates. They explored its role in informing instruction and measuring student growth, highlighting the necessity of using multiple data sources for a comprehensive understanding of student learning. The discussions reflect the district's commitment to enhancing academic standards and transparency in curriculum and assessment practices.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-10-11-minutes.txt)
+
 ## 2024-07-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The San Juan Island School Board held a meeting to discuss the 2024-2025 budget.  The discussion included explanations of various budget categories such as instructional programs, support services, and board/superintendent expenses. There was also clarification regarding staff reduction numbers and online FTE enrollment inclusion in the budget calculations.
@@ -59,13 +65,13 @@ This school board meeting minutes focuses on several issues related to governanc
 
 ## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a retreat on March 18, 2024, to discuss several key topics. These included reviewing and discussing information related to academic standards and curriculum transparency.  The board also addressed the topic of student data privacy. No specific policies or changes were mentioned in the provided text.
+The Northshore School District Board of Directors held a special meeting on March 18, 2024, where they discussed several key topics, including the development of a pool, the Portrait/Profile of Graduate, the implications of artificial intelligence in education, and the handling of data. The meeting commenced at 5:02 PM and concluded at 7:58 PM. Specific actions or resolutions regarding these topics were not detailed in the minutes, but the inclusion of artificial intelligence suggests a focus on integrating modern technology into the educational framework. The session was attended by board members and the superintendent, Mr. Michael Tolley, who also served as the secretary to the board.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
 
 ## 2024-03-06 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board of Directors held a special meeting on March 6, 2024, focusing on a work session that included a presentation and discussion on Student Data and Street Data. The meeting was attended by President Meghin Margel, Directors Awale Farah, Tim Clark, and Donald Cook, with Superintendent Israel Vela also present. The meeting commenced at 5:05 p.m. and included a break from 6:03 p.m. to 6:05 p.m. Director Cook exited the meeting at 6:45 p.m., and the meeting was adjourned at 7:00 p.m. The discussions likely centered around the implications of student data management and its impact on community engagement and privacy, although specific policies or resolutions were not detailed in the minutes.
+The Kent School District No. 415 held a special meeting on March 6, 2024, focused on a work session regarding Student Data and Street Data. The meeting was attended by several board members, including President Meghin Margel and Superintendent Israel Vela, while Director Andy Song was absent. The session included a presentation and discussion on the implications and management of student data, highlighting the district's approach to data privacy. The meeting was called to order at 5:05 p.m., with a break taken at 6:03 p.m., and concluded at 7:00 p.m. Director Cook left the meeting early at 6:45 p.m. The specific policies or changes discussed regarding student data privacy were not detailed in the minutes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-06-boardspecialmeetingworksession-minutes.txt)
 

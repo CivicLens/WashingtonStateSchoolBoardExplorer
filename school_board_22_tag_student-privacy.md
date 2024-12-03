@@ -2,9 +2,7 @@
 
 ## 2024-10-03 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
-The October 3, 2024 Regular Business Meeting of the Board of Directors included a variety of agenda items focused on community engagement and student welfare. The meeting commenced with the approval of the agenda and the consent agenda, which encompassed the approval of personnel actions, student and staff travel, and a new collective bargaining agreement for Nutrition Services for the years 2024-2029. A significant discussion point was the approval of the 2024-2025 District Career and Technical Education (CTE) Plan, which was unanimously passed. 
-
-Additionally, the meeting featured student updates and public comments, reflecting the board's commitment to community engagement. The board also convened in closed and executive sessions to evaluate employment qualifications and discuss the performance of a public employee. The meeting concluded with an adjournment at 8:08 pm, following a series of motions that were all unanimously approved.
+The October 3, 2024 Regular Business Meeting of the Board of Directors included several key actions and approvals. The board unanimously approved the agenda and the consent agenda, which encompassed the meeting minutes from September 19, 2024, personnel actions, a new Nutrition Services Collective Bargaining Agreement (CBA) for 2024-2029, and various travel approvals. A significant policy change discussed was the approval of the 2024-2025 District Career and Technical Education (CTE) Plan, which was moved by Director Bloch and passed unanimously. Additionally, there was a student cell phone update presented, although specific details of this update were not included in the minutes. The meeting concluded with an executive session to evaluate a candidate for employment and discuss the performance of a public employee.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-10-03-minutes.txt)
 

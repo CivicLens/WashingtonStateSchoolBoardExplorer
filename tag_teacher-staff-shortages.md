@@ -6,6 +6,14 @@ The school board meeting minutes detail routine financial matters including depo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-11-minutes.txt)
 
+## 2024-11-07 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The November 7, 2024 Regular Business Meeting of the Board of Directors included several motions and approvals that reflect ongoing policy changes and community engagement efforts. Notably, the Board approved Resolution 2024-17, which pertains to the Educational Programs and Operations Levy Certification, indicating a focus on funding educational initiatives. Additionally, the Board addressed teacher-staff shortages by discussing urgent needs at Lake Hills Elementary, emphasizing the necessity for additional teacher resources. 
+
+The meeting also involved the approval of administrative changes to Policy 1810, Policy 0150, and Procedure 0150P, which likely reflect adjustments in governance or operational procedures. Furthermore, updates to the 2024-2025 Policy Schedule were approved, suggesting a commitment to maintaining current educational policies. Public comments were made by community members, highlighting ongoing engagement with stakeholders regarding educational needs and support for local programs like Sammamish Robotics.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-11-07-minutes.txt)
+
 ## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
 The Bellingham School District is hosting an informational meeting for individuals interested in running for the school board.  The meeting will take place on Thursday, March 16, 2023, at 5:00 p.m. at Options High School. Topics covered will include an overview of the district's policy governance model and election basics. The meeting aims to inform potential candidates about the roles and responsibilities of school board members and provide guidance on the election process.  The fall election filing opportunity with the Whatcom County Auditor's Office is scheduled for May 15-19.
@@ -14,7 +22,7 @@ The Bellingham School District is hosting an informational meeting for individua
 
 ## 2024-10-23 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board of Directors held a meeting on October 23, 2024, where they addressed several key topics including school safety and staffing issues. During the Student Public Comment segment, concerns were raised about school safety, including issues related to vandalism, the presence of guns in schools, and vaping in student bathrooms. Additionally, there were discussions regarding the need for adequate staffing to ensure student safety. The board also approved several items under the Consent Agenda, including field trip authorizations for the Kentwood High School Wrestling Team and various professional service agreements aimed at supporting the district's educational initiatives. The meeting concluded with no final comments from the audience, indicating a structured engagement process throughout the session.
+The Kent School District No. 415 Board of Directors held a meeting on October 23, 2024, where school safety was a prominent topic during both student public comments and communication from the audience. Concerns raised included issues such as school vandalism, the presence of guns in schools, and vaping in student bathrooms. The meeting also addressed staffing issues, reflecting ongoing challenges related to teacher and staff shortages. The board approved several items, including the acceptance of gifts and donations, as well as a series of field trip authorizations for Kentwood High School and Meridian Middle School. Notably, the board passed Resolution No. 1685, which certified the 2025 Excess Property Taxes, and Resolution No. 1686, which involved the cancellation of warrants. The meeting concluded with no final comments from the audience, highlighting a focus on administrative and safety matters within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-23-board-minutes.txt)
 
