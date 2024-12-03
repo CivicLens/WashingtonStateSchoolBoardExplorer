@@ -1,5 +1,25 @@
 # Meeting Summaries for Tag: book-access
 
+## 2024-10-10 - SELAH_SCHOOL_DISTRICT (Minutes)
+
+The Selah School District No. 119 Board of Directors held a meeting on October 10, 2024, where the main agenda item was an appeal hearing regarding the reconsideration of library books. Daylene Ackerman addressed the board, advocating for the removal of certain books based on her concerns about their content, which she argued was inappropriate and aligned with Marxist ideals. The Instructional Materials Committee (IMC) had previously reviewed six books and decided to retain them, a decision that can only be reconsidered in three years, as per Procedure 2021. The board, led by President Dan Peters, affirmed that the IMC followed the correct criteria in their decision-making process.
+
+During the meeting, discussions highlighted the importance of parental involvement and community engagement in the review of educational materials. Derek Iverson expressed a desire for increased parental participation in the IMC, emphasizing the need for diverse community opinions. The board's decision to uphold the IMC's recommendation reflects ongoing tensions between parental rights and book access in school libraries, as well as the challenges of balancing community standards with educational content.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-10-10-minutes.txt)
+
+## 2024-09-25 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
+
+The Spokane Public Schools Board of Directors convened a Special Meeting on September 25, 2024, to discuss various agenda items, including legislative priorities and community engagement initiatives. The Board reviewed topics for the upcoming legislative session, with priorities due by October 8, 2024. Additionally, they engaged in a discussion regarding the book "The Anxious Generation," focusing on key takeaways and strategies to foster community learning opportunities related to mental health. The meeting included an Executive Session to consider real estate acquisitions and evaluate a candidate for elected office, and it concluded with no formal decisions made on the legislative priorities or community initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-09-25-minutes.txt)
+
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Study Session on September 23, 2024, where they reviewed the B's and R's, indicating a focus on policy changes and governance matters for the upcoming school year. The meeting included discussions about "Conversations With the Board," which is likely aimed at enhancing community engagement and soliciting parental feedback regarding school policies and strategic plans. The session was attended by key district leaders, including Superintendent Michael Tolley, who is responsible for documenting the proceedings. The meeting was formally adjourned at 6:43 PM, and the minutes will be approved on October 14, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-23-minutes.txt)
+
 ## 2024-06-11 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Bainbridge Island School District No. 303 held a regular school board meeting on June 11, 2024, where several key actions were taken regarding educational policies and curriculum materials. The board approved Resolution 07-23-24, which delegates authority to the Washington Interscholastic Activities Association (WIAA). Additionally, the board endorsed recommendations from the Instructional Materials Committee (IMC) to adopt the educational resources "Amplify" and "The Book Thief," reflecting a focus on curriculum transparency and book access for students. Furthermore, the board reviewed Policy 2163, which pertains to Multi-Tiered Systems of Support/Response to Intervention, and approved it in its second reading, indicating a commitment to enhancing support structures for students. The meeting concluded with the cancellation of the June 27 board meeting due to a lack of quorum and set the next regular meeting for July 25.

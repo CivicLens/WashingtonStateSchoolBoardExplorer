@@ -1,8 +1,20 @@
 # Meeting Summaries for FERNDALE_SCHOOL_DISTRICT with Tag: diversity-inclusion
 
+## 2024-11-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The regular meeting of the school board, held on March 26, 2024, included discussions on several key topics. Notably, the board reviewed a draft mission statement aimed at enhancing diversity and inclusion, gathering feedback to refine it for future meetings. Additionally, Superintendent updates highlighted the upcoming Multicultural Night and the district's efforts to engage with the community, including city barbeques and a new skate park project. The board also adopted new policies, including Policy 5225 on Technology, and discussed changes to compensation for board members attending various meetings, establishing a rate of fifty dollars per day for participation. These actions reflect ongoing efforts to improve community engagement and address operational needs within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-03-minutes.txt)
+
+## 2024-04-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School District held a regular board meeting on April 30, 2024, where key topics included the adoption of a new Mission Statement emphasizing diversity and inclusion. The Mission Statement articulates the district's commitment to preparing students for an ever-changing world through rigorous education that fosters academic growth, confidence, and critical thinking while ensuring a safe and inclusive environment. Additionally, the board discussed the successful receipt of a $700,000 grant from Whatcom County Health & Community Services aimed at developing an inclusive playground. The meeting also included the adoption of Monitoring Reports for Operational Expectations Policies 11 (Facilities) and 12 (Safety), which were deemed compliant, indicating a commitment to maintaining safe and functional school facilities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-04-30-minutes.txt)
+
 ## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Ferndale School District held a special meeting on January 30, 2024, to discuss student results and related topics. A key focus was an update on Native Student Achievement and Participation in Programs, presented by Dr. Dominguez and various staff members.  The meeting included representatives from the Lummi Nation Education Board. The discussion emphasized the importance of authentic and vetted student support initiatives (STI) for Native students. Additionally, the board reviewed and approved a rubric outlining joint policies and procedures between the Lummi Nation Education and Ferndale School District.
+The special meeting on January 30, 2024, focused on updates regarding Native student achievement and participation in programs, highlighting the involvement of the Lummi Nation Education Board. Dr. Dominguez introduced staff members who presented data on the distinctions between race and ethnicity as recognized by the government, emphasizing the need for authentic and vetted approaches to student data. The meeting also included a review and approval of the Lummi Nation Education and Ferndale School District Joint Policies & Procedures Rubric, indicating a commitment to fostering diversity and inclusion within the educational framework. The collaboration between the Lummi Nation and Ferndale Schools underscores a community engagement effort aimed at enhancing educational outcomes for Native students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-30-minutes.txt)
 

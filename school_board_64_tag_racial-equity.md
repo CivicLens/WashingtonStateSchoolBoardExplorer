@@ -2,7 +2,7 @@
 
 ## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Ferndale School District held a special meeting on January 30, 2024, to discuss student results and related topics. A key focus was an update on Native Student Achievement and Participation in Programs, presented by Dr. Dominguez and various staff members.  The meeting included representatives from the Lummi Nation Education Board. The discussion emphasized the importance of authentic and vetted student support initiatives (STI) for Native students. Additionally, the board reviewed and approved a rubric outlining joint policies and procedures between the Lummi Nation Education and Ferndale School District.
+The special meeting on January 30, 2024, focused on updates regarding Native student achievement and participation in programs, highlighting the involvement of the Lummi Nation Education Board. Dr. Dominguez introduced staff members who presented data on the distinctions between race and ethnicity as recognized by the government, emphasizing the need for authentic and vetted approaches to student data. The meeting also included a review and approval of the Lummi Nation Education and Ferndale School District Joint Policies & Procedures Rubric, indicating a commitment to fostering diversity and inclusion within the educational framework. The collaboration between the Lummi Nation and Ferndale Schools underscores a community engagement effort aimed at enhancing educational outcomes for Native students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-30-minutes.txt)
 

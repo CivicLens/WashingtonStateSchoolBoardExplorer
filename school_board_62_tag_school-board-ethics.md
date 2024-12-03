@@ -2,13 +2,13 @@
 
 ## 2024-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a special meeting on August 16, 2024, to discuss various topics related to community engagement and board ethics.  The meeting focused on brainstorming ideas for linkage and student roundtable meetings in the upcoming school year (2024-25) as part of their "Engaging Our Community" initiative. The Board also reviewed potential topics for future study sessions and other learning opportunities, aiming to enhance their understanding of educational issues. Additionally, they discussed strategies for strengthening connections among board members.  Committees provided updates on refining the board's self-assessment document and monitoring response document for Ends reporting. Superintendent Greg Baker shared updates with the board. The meeting adjourned at 4:00 p.m.
+The Bellingham School District Board of Directors held a special meeting on August 16, 2024, focusing on community engagement and board learning initiatives. During the meeting, the Board discussed potential topics for the 2024-25 linkage and student roundtable meetings, emphasizing the importance of engaging with the community. The Board also reviewed subjects for future study sessions to enhance their learning and deliberation capabilities. Updates were provided by board committees on their efforts to refine the board’s self-assessment document and monitoring response document for Ends reporting. Superintendent Greg Baker shared updates with the board, contributing to the overall dialogue on connecting with the community and improving board operations. The meeting was adjourned at 4:00 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-08-16-minutes.txt)
 
 ## 2024-08-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The meeting minutes detail the Bellingham School Board's approval of several inter-agency agreements and personnel recommendations. Notably, the board discussed a budget deficit attributed to insufficient state funding.  Board members also shared updates on community engagement efforts, including discussions about the district budget with community members.  The board president assessed the meeting as commendable.
+The Bellingham School District Board of Directors held a regular meeting on August 15, 2024, which included a public hearing on the adoption of the 2024-25 budget. During the meeting, Mr. Benjamin acknowledged the ancestral lands of the Lummi people and Nooksack tribe. A parent raised concerns about student safety in light of a lawsuit filed against the district. Superintendent Greg Baker discussed the impact of inflation on school funding and presented data on district revenue and expenditures, emphasizing the need for legislative changes to better fund education. The board approved several resolutions, including Resolution 22-24 for the adoption of the 2024-25 budget and Resolution 23-24 for the transfer of funds from the Capital Projects Fund to the General Fund. Additionally, the board made individual motions to address potential conflicts of interest regarding contracts with the Opportunity Council and personnel recommendations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-08-15-minutes.txt)
 
@@ -31,7 +31,7 @@ The meeting minutes detail the Bellingham School Board's approval of several int
 
 ## 2024-04-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a special meeting on April 12, 2024, via Zoom.  The primary action taken was the unanimous approval of Resolution 10-24, which modified the 2023-24 school board regular meeting schedule. This indicates a procedural change in the board's operations rather than substantive policy changes related to curriculum, student life, or other potentially controversial topics. The brevity of the meeting and the sole focus on scheduling suggest routine administrative matters were addressed.
+The Bellingham School District Board of Directors held a special meeting on April 12, 2024, via remote Zoom, where they approved Resolution 10-24, which modifies the 2023-24 School Board Regular Meeting Schedule. The motion to approve this resolution was made by Director Jenn Mason and seconded by Director Katie Rose, resulting in a unanimous affirmative vote. The meeting was called to order by President Douglas Benjamin, with the attendance of several board members and the Superintendent, Greg Baker. The meeting was brief, concluding with adjournment at 11:38 a.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-12-minutes.txt)
 
@@ -44,15 +44,15 @@ The Bellingham School District Board of Directors held a special meeting on Apri
 
 ## 2024-03-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a meeting on March 6, 2024, at the new District Office to tour the facility.  All board members except Director Katie Rose were present for the brief tour, which lasted from 5:15 p.m. to 5:55 p.m. The meeting was presided over by Board President Douglas Benjamin and minutes were recorded by Superintendent Greg Baker.
+The Bellingham School District Board of Directors held a meeting on March 6, 2024, at the new District Office located at 1985 Barkley Boulevard, Bellingham, WA. The meeting commenced at 5:15 p.m. with Board President Douglas Benjamin leading the session, which included a roll call of attendees. Notable attendees were Directors Camille Diaz Hackler, Jenn Mason, Scott Ritchey, and Superintendent Greg Baker; however, Director Katie Rose was absent from the tour of the new building. The meeting concluded with an adjournment at 5:55 p.m., and the minutes were prepared for approval by the board members. 
+
+tags: community-engagement
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-06-minutes.txt)
 
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
-
-Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues related to LGBTQ+ experiences.
+The special meeting of the Bellingham School District Board of Directors on February 27, 2024, focused on gathering student perspectives, particularly from members of the GSA (Gender and Sexuality Alliance) Club at Whatcom Middle School. The discussions highlighted the importance of safe spaces for LGBTQ+ students, with participants expressing feelings of fear and the need for supportive adult relationships. Key concerns included the visibility and accessibility of gender-neutral restrooms, which many students found uncomfortable or unsafe. The students emphasized the role of the GSA Club as a refuge, fostering a sense of belonging and community. They also called for greater attention to social and emotional well-being and a desire for inclusive education that includes LGBTQ+ history. The meeting underscored the importance of student voice in shaping school policies and improving the overall middle school experience. School Board President Douglas Benjamin and Executive Director of Communications Jackie Brawley acknowledged the value of these discussions in guiding the district's efforts to create a more inclusive environment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 

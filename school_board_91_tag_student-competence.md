@@ -1,0 +1,14 @@
+# Meeting Summaries for PULLMAN_SCHOOL_DISTRICT with Tag: student-competence
+
+## 2024-07-23 - PULLMAN_SCHOOL_DISTRICT (Minutes)
+
+The Pullman City Council held a regular meeting on July 23, 2024, where several significant actions were taken, including the passage of Ordinance No. 24-08, which revises procurement policies in response to changes in Washington State legislation regarding small works contracting. This ordinance updates Pullman City Code 1.107, incorporating changes such as grammar adjustments, gender-neutral pronouns, and the renaming of the "Finance Director" to "Director of Finance & Administrative Services." Additionally, the Council approved Resolution R-46-24, authorizing participation in the Kroger Co. opioid settlement agreement, which requires the city to release any claims against settling distributors and utilize the funds to combat the opioid epidemic. The meeting also included a discussion on applying for a Transportation Improvement Board grant for the Orchard Drive & Valley Road Resurfacing project, with Resolution R-48-24 authorizing the execution of the grant application. No public comments were made on final action items, and the meeting concluded with no new business or executive session.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-07-23-council-minutes.txt)
+
+## 2024-05-22 - PULLMAN_SCHOOL_DISTRICT (Minutes)
+
+The City of Pullman Planning Commission held a meeting on May 22, 2024, to discuss and approve the proposed 2025-2030 Capital Improvement Program (CIP) and the 2025-2030 Transportation Improvement Program (TIP), both of which were found to be consistent with the Comprehensive Plan and were forwarded to the City Council with recommendations for approval. The meeting also included a workshop on proposed updates to the Pullman City Code, particularly regarding short-term rentals. Public comments revealed concerns about the necessity and implications of new regulations, including the requirement for property managers for rentals not owned by local residents, and the potential for additional taxes. The discussion highlighted the low number of complaints regarding short-term rentals, with several participants advocating for a more lenient approach to regulation, emphasizing the self-regulating nature of short-term rental platforms. The meeting concluded with plans for future discussions and public hearings on these topics.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-05-22-microsoftwordregularmeetingdraft-minutes.txt)
+

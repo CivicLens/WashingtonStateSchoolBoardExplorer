@@ -1,14 +1,36 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: community-engagement
 
+## 2024-11-04 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a Special Board Meeting on November 4, 2024, primarily focused on an executive session concerning legal counsel related to district enforcement actions and potential litigation. The meeting was called to order by President Cliff Freeman at 5:30 p.m., with all directors present. The executive session was initially scheduled for one hour but was extended multiple times, ultimately lasting until 8:45 p.m. The board reconvened in regular session at 8:46 p.m., whereupon they adjourned the meeting unanimously without further business. The minutes were approved on November 25, 2024. 
+
+The purpose of the executive session was to discuss sensitive legal matters that could have adverse legal or financial consequences for the district, indicating a serious nature of the issues at hand. The board did not take any final action following the executive session, emphasizing the confidentiality and legal implications surrounding the discussions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-04-minutes.txt)
+
+## 2024-10-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a regular board meeting on October 28, 2024, where significant topics included activities for National Bullying Prevention Month, led by Technology Department staff member Tricia Johnson, who encouraged participation from board members. The board also addressed public comments on the need for better inclusion practices for deaf and hard-of-hearing students, including the provision of American Sign Language (ASL) interpreters at events. Furthermore, concerns were raised regarding the establishment of school-based health clinics and their implications for student health and parental consent. 
+
+In terms of policy changes, the board approved the second reading and adoption of changes to Policy 3241 on Student Discipline. Additionally, they tabled the first reading of sex-based discrimination policies to the next meeting, pending legal counsel's clarification on the relationship between Title IX and HIPAA protections. The board's response to a request from a community member to rename the district was also discussed, with a consensus against the change due to concerns over costs and logistics.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-10-28-minutes.txt)
+
 ## 2024-09-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School Board discussed concerns regarding school funding and enrollment trends. Director Swinburnson suggested that curriculum choices might be driving some families towards private schools, prompting a call for increased community engagement and advocacy efforts in Olympia to address the issue.  The board also reviewed the success of the district's secondary online program and discussed upcoming agenda items, including reports on enrollment, finances, and plans for highly capable and career and technical education programs. The next meeting is scheduled for October 28, 2024. An executive session was held to discuss a potential real estate purchase and evaluate complaints against a director or staff member.
+The Blaine School District No. 503 board meeting on September 23, 2024, included discussions on various policy changes and updates. Notably, the board approved the second reading and adoption of policies related to bullying prevention, including Policy 3207, which prohibits harassment, intimidation, and bullying of students. The board also addressed concerns raised during public comment regarding parental rights, particularly in relation to wellness and the administration of vaccines and medications to students without parental consent. Additionally, the board discussed the Transition Bilingual Instruction Program (TBIP) grant and the implementation of the Family Service Center's initiatives aimed at supporting families, including provisions for school supplies and food assistance. The meeting also highlighted the district's focus on bullying prevention with the upcoming Unity Day and Disability Awareness Month.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-09-23-minutes.txt)
 
+## 2024-07-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a regular board meeting on July 22, 2024, where several key topics were discussed, including the Superintendent's report on community engagement during the 4th of July booth and the potential impacts of reduced Title I funding on programming. The board approved various items on the consent agenda, including the 2023-2025 Collective Bargaining Agreements with both the Blaine Education Association and SEIU Local 925, as well as updates to Policies 2190 and 5005. A significant point of contention arose regarding Policy 5251, which addresses conflicts of interest for teachers providing for-profit tutoring services to Blaine students; the board ultimately voted 3-2 to retain the existing policy language, despite discussions on potentially adopting WSSDA's model policy. The board also discussed future agenda items, including a public hearing on the 2024-2025 budget and the need for a resolution concerning fairness in competition and student safety related to Title IX regulations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-22-minutes.txt)
+
 ## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions on several key topics.  The board discussed a policy regarding director visits to schools, ultimately agreeing that directors would make arrangements directly with principals while respecting the principal's preference for superintendent involvement. There was also discussion about placing curriculum adoptions on the Consent Agenda, with Director Swinburnson expressing concern that this practice denied recognition of the hard work involved in curriculum selection.  Future meeting agenda items were suggested, including a financial report, superintendent's report, and policy updates. A budget work session was also scheduled. The board briefly entered executive session to discuss the superintendent's performance.
+The Blaine School District No. 503 Board Meeting held on June 17, 2024, included multiple significant actions and discussions. The board approved several policies, including a minor update to Policy 2255 regarding Alternative Learning Experience Courses and the adoption of new Policy 2401 on Financial Education Mastery-Based Learning and Credit. The board also adopted new curricula, including "Mystery Science" for K-5, "OpenSciEd" for middle school science, and "The Washington Journey" for 7th Grade Washington State History. Furthermore, the board voted to approve Resolution 2324-09, which authorizes a $70,000,000 Bond Initiative to be submitted to voters for the November 5, 2024 General Election, emphasizing the need for community engagement and support for the district's initiatives. Discussions also highlighted concerns regarding Title IX requirements related to sports and the implications of OSPI's guidance on medical privacy for students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-06-17-minutes.txt)
 
@@ -22,9 +44,43 @@ The school board meeting minutes detail discussions on several key topics.  The 
 | [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
 | [Ryan Swinburnson](board_member_318.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
 
+## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a special board meeting on April 29, 2024, to discuss and take action on Resolution 2324-08, which pertains to the adoption of a Reduced Educational Program Plan for the 2024-2025 school year. This decision follows the board's prior meeting where the resolution was tabled. Superintendent Dr. Christopher Granger acknowledged the input from the SEIU and indicated that while the district does not wish to reduce educational programs, a reduction is deemed necessary due to current financial constraints. Various directors provided their insights, with Director Creydt expressing a desire for further discussion and clarity on budget allocations, while Director Swinburnson emphasized the importance of collaboration with legislators. The board ultimately voted unanimously (5-0) to adopt the resolution, although Director Creydt noted that the adopted plan should remain open for future adjustments.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-29-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Erika Creydt](board_member_315.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
+| [Ben Lazarus](board_member_316.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
+| [Cliff Freeman](board_member_317.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
+| [Ryan Swinburnson](board_member_318.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
+| [Steve Galbraith](board_member_319.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
+
+## 2024-04-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 Board of Directors held a regular meeting on April 22, 2024, addressing various topics including budget reductions and teacher appreciation. The board recognized Teacher Appreciation Week scheduled for May 6-10, highlighting the dedication of certificated staff. Public comments reflected concerns about proposed budget cuts, particularly regarding the potential elimination of positions and programs, including a secretary at Blaine Primary School and high school art classes. The board discussed Resolution 2324-08, which proposed a $2.5 million reduction plan, including $500,000 in non-staffing cuts. Directors expressed the need for more resources for students and the importance of collaborative communication with stakeholders. The board ultimately voted to table the resolution until April 29, 2024, to allow for further stakeholder feedback and consideration of alternatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-22-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Swinburnson](board_member_318.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Erika Creydt](board_member_315.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_317.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Steve Galbraith](board_member_319.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_316.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+
 ## 2024-03-15 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District held a school board meeting on March 15, 2024. During the meeting, the board appointed Ryan Swinburnson and Steve Galbraith to fill vacant positions representing Director Districts 4 and 5 respectively until the next general local election in 2025.  The appointments were made following an executive session held to discuss candidates for the vacant positions. The board also moved into a second executive session to evaluate a complaint or charges brought against a director or staff member, but no final action was taken following this session.
+On March 15, 2024, the Blaine School District No. 503 held a special board meeting to interview candidates for vacant board positions representing Director Districts 4 and 5. President Cliff Freeman led the meeting, noting the withdrawal of candidate Susan Lottimer and the telephonic interview of Paul Berg. The board interviewed a total of six candidates, including Derrick Bovenkamp and Ryan Swinburnson for District 4, and Paul Berg, Steve Galbraith, and Charles Gibson for District 5. Following the interviews, the board held an executive session to discuss candidate appointments, ultimately appointing Ryan Swinburnson and Steve Galbraith to their respective positions until the next general local election in 2025.
+
+The meeting also included an executive session to evaluate a complaint against a director or staff member, although no final action was taken post-session. The board's actions reflect a commitment to community engagement and board ethics, as evidenced by the thorough interview process and the inclusion of community members in the candidate evaluation. The minutes are set to be approved on March 25, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-03-15-minutes.txt)
 
@@ -39,9 +95,27 @@ The Blaine School District held a school board meeting on March 15, 2024. During
 | [Ben Lazarus](board_member_316.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
 | [Cliff Freeman](board_member_317.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
 
+## 2024-02-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 Board Meeting on February 26, 2024, addressed several key topics, including community engagement and support for educators. Superintendent Dr. Christopher Granger highlighted the upcoming Education Support Professionals Week (March 11-15) and School Retirees Appreciation Week (March 18-24), expressing gratitude for the contributions of support personnel and retired educators to the school community. Public comments included advocacy for local control of public schools and updates from the Peace Arch Education Foundation on initiatives to bolster financial resources for Blaine schools. Mental health initiatives were also discussed, with Mindi Caldwell of the Whatcom NAMI Affiliate emphasizing educational programs aimed at increasing mental health awareness in schools.
+
+The board accepted the resignations of Director Ryan Ford and President Don Leu, leading to the election of Cliff Freeman as the new board president. Discussions around policy included the need for clarity in financial matters and the importance of proper inquiry protocols as outlined in Policy 1620/1620P. The board also considered a $2.5 million budget reduction and discussed the potential engagement of a recruiting service for a new Chief Financial Officer after a recent candidate declined the position.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-26-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+
 ## 2024-02-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District held a special board meeting on February 20, 2024, to solicit stakeholder feedback on potential budget reductions for the 2024-2025 school year.  The meeting was structured around four group discussions, each focused on different aspects of the district's needs and priorities. Topics included identifying areas requiring additional resources, essential programs and supports, and desired student and family supports should levy funds become available. The board emphasized the importance of community input in prioritizing budget decisions and acknowledged the likelihood of program reductions.  Concerns raised by attendees included the process for determining cuts, the district's long-term financial sustainability, and the need for transparency in decision-making. The board encouraged ongoing communication with stakeholders through various channels.
+The Blaine School District No. 503 held a Special Board Meeting on February 20, 2024, to gather stakeholder feedback on budget planning for the 2024-2025 school year. The meeting, attended by board members and approximately thirty community members, focused on soliciting input regarding the district's priorities and areas needing additional resources. President Don Leu highlighted the importance of community engagement and transparency in the budget process, noting that feedback indicating a desire for "more" would be treated as a priority. Concerns were raised about the district's ongoing need for budget reductions and the potential impact on school programs, with Director Ryan Ford emphasizing the importance of advocating for adequate state funding.
+
+During the meeting, participants were divided into groups to discuss specific questions related to the district's strengths and areas for improvement. The feedback collected will inform the district's administration as they consider necessary budget reductions. President Leu acknowledged the likelihood of program cuts while encouraging the community to unite in their advocacy for educational funding. The meeting concluded with a unanimous vote to adjourn, and the minutes were approved on February 26, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-20-minutes.txt)
 
@@ -55,7 +129,7 @@ The Blaine School District held a special board meeting on February 20, 2024, to
 
 ## 2024-01-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting focused on addressing budget reduction considerations.  Vice President Lazarus emphasized the critical need for the EP&O Levy to pass, warning that failure would increase the district's shortfall from $2.7 million to over $9 million. He expressed support for teachers while also highlighting his research into claims made by the teachers' union regarding salary increases and budget allocations. Director Freeman acknowledged the importance of seeking public input on budget reductions and a method for planning such a meeting was discussed. The board also considered agenda items for future meetings, including recognizing Education Support Professionals Week and School Retirees’ Appreciation Week.
+The Blaine School District No. 503 regular board meeting held on January 22, 2024, included significant discussions surrounding special education funding and community engagement. Director Creydt reported on legislative issues such as HB 2180, which aims to increase the special education enrollment funding cap, highlighting the impact of funding shortages on students' access to services. The board expressed consensus on the need for a school resource officer in every school, aligning with HB 1071, which seeks to secure funding for this purpose. Additionally, Superintendent Dr. Granger outlined budget planning efforts, including potential reductions of $2.7 million for the 2024-2025 school year, emphasizing the importance of community input through upcoming public meetings. The board also unanimously approved Resolution 2324-04, supporting the district's propositions for a Replacement Educational Programs and Operations Levy and a $70 million General Obligations Bond, underscoring their commitment to financial stability and teacher support amidst budget constraints.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-22-minutes.txt)
 

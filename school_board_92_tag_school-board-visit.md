@@ -1,0 +1,26 @@
+# Meeting Summaries for YAKIMA_SCHOOL_DISTRICT with Tag: school-board-visit
+
+## 2024-09-17 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 is conducting a mandatory OSPI Board Training session for its members on September 17, 2024, from 5:30 PM to 8:30 PM. The training is to be held virtually, and the members invited to participate include Norm Walker, Graciela Villanueva, Martha Rice, Raymond Navarro, Jr., and Ryan Beckett. The session is likely aimed at ensuring that board members are equipped with the necessary knowledge and skills to fulfill their roles effectively, which may involve discussions on policy changes or updates relevant to the district's governance. Norm Walker serves as the President of the Board, and Trevor Greene is the Secretary to the Board.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-09-17-minutes.txt)
+
+## 2024-08-05 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Board Meeting held on August 5, 2024, addressed critical issues regarding budget cuts impacting teacher support and special education services. Frances Guerrero, YEA President, highlighted the adverse effects of budget reductions on custodians and paraprofessionals, emphasizing their essential role in supporting students, particularly in special education. The board approved Resolution 07.23.24, which outlines a Program Reduction in Force for the 2024-25 school year, resulting in 39 full-time equivalent (FTE) reductions, although no paraprofessionals will be laid off but reassigned. Additionally, the board approved an interlocal agreement with West Valley School District to enhance food services and a contract for special education services not exceeding $2,000,000. Public comments reflected community concerns regarding the budget cuts, particularly affecting special education paraeducators. The meeting underscored the district's ongoing efforts to engage with the community and adapt to financial constraints while maintaining support for critical educational services.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-08-05-minutes.txt)
+
+## 2024-07-09 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 held a budget work session on July 9, 2024, focusing on the current financial situation and challenges, particularly in relation to special education support. Assistant Superintendent of Finance, Jake Kuper, provided an overview of the financial impact stemming from a Reduction in Force (RIF) announced on March 25, 2024, which has led to challenges such as federal revenue decline, exceeding special education costs, and enrollment trends affecting the budget forecast. The session also included recommendations for the upcoming fiscal year aimed at stabilizing budgets, including an open enrollment marketing campaign. The board expressed concerns about having adequate time to review budget materials before key upcoming deadlines, such as the preliminary budget public hearing on July 30 and budget adoption on August 20. The meeting emphasized the need for community engagement strategies, although this topic was not fully addressed. Additionally, there was a motion to enter executive session to discuss potential litigation and the performance of a public employee, reflecting ongoing governance challenges.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-07-09-minutes.txt)
+
+## 2024-06-24 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Business Board Meeting held on June 24, 2024, addressed several key topics related to academic standards and community engagement. The board recognized the importance of social-emotional learning (SEL) and discussed the implementation of SEL training as part of the curriculum enhancements led by Principal Lucas Jaeger of the Discovery Early Learning Center. Jaeger also presented the 1000.1.0 ENDS Report Goal #1, which included alignment between preschool instruction and YSD standards. The board approved the 0580 Student Voice Policy, which aims to empower students and enhance their involvement in decision-making processes, acknowledging the efforts of students Ezra Rottman, Luanna Huang, and Andrea Cabellos in developing this policy. Additionally, the board addressed budget cuts impacting high school bands and the migrant student population, with 9.2% of YSD students identified as migrant. The meeting also included updates on financial reports and a discussion on the delegation of authority to the Washington Interscholastic Activities Association (WIAA).
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-06-24-minutes.txt)
+

@@ -2,7 +2,7 @@
 
 ## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School Board meeting minutes detail various agenda items and decisions made. Notably, the board approved Ashley Acton, a student from Lynden High School, as the 24/25 Student Board Representative. They also reviewed and approved the district's four-year Career & Technical Education (CTE) plan. Policy 2255 regarding Alternative Learning Experience Courses was updated and approved. Additionally, the board approved a lease amendment with Inspire Development Center and Resolution #08-24 advocating for local control and opposing unfunded mandates from the Washington State School Directors' Association (WSSDA).
+The Lynden School District Board Meeting on June 6, 2024, included discussions on various community concerns, notably from a community member who opposed biological men competing in women’s sports, highlighting the ongoing debates surrounding LGBTQ issues in athletics. The meeting also featured community engagement initiatives, with members of the Citizens for Lynden Schools group presenting information on an upcoming bond election, emphasizing the district's efforts to inform and involve the community in educational developments. Additionally, the board approved updated Policy 2255 regarding Alternative Learning Experience Courses, reflecting a commitment to adapt educational policies as needed. The meeting concluded with the adoption of Resolution #08-24, which emphasizes prioritizing local control and opposing unfunded mandates.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-minutes.txt)
 

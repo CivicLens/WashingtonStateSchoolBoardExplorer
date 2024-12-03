@@ -1,8 +1,33 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: lgbtq
 
+## 2024-10-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+
+The Lynden School District Board Meeting held on October 3, 2024, included significant discussions regarding transgender athletes' participation in girls' sports, with multiple community members expressing opposition to this policy. Director Hickman addressed recent social media discourse surrounding the board's activities related to this topic. The board also discussed various educational goals, including Lynden Academy's School Improvement Plan aimed at enhancing academic conversations and mathematics proficiency among students. Policy updates included the adoption of Policy 2401 concerning Financial Education Mastery-Based Learning & Credit and updates to Policy 3241 regarding Student Discipline. The board's emphasis on community engagement and feedback was evident, as several members of the public voiced their opinions on the WIAA Amendment Proposal and the necessity of an appeal process regarding transgender participation in sports.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-minutes.txt)
+
+## 2024-09-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+
+The Lynden School District Board meeting on September 19, 2024, included significant discussions and approvals regarding various policies. Notably, Policy 2125 on Sexual Health Education was updated to ensure comprehensive instruction consistent with state law. Additionally, Policy 3211 on Gender Inclusive Schools was approved with amendments to clarify language regarding communication and the use of names and pronouns, emphasizing the importance of recognizing the potential lack of support from parents or guardians during student transitions. Other policies discussed included updates to policies on emergencies, Title I parental involvement, and bid requirements, all of which were approved without contention. The board's legislative committee also recommended votes on various positions related to educational funding and mental health supports, with some positions not passing due to board votes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the dairy bid submitted by Dairy Valley Distributing | Director Brar seconded Director Owsley's motion to approve the dairy bid. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 21- African American Studies Wo...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Owsley. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and ...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Verburg. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 44- Native American Instruction...[truncated, use api for full text] | Director Owsley motioned to approve the legislative committee’s recommended vote. Seconded by Director Brar. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 48- School Athletics Officials | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Owsley. |
+| [Khush Brar](board_member_328.md) | Abstained from voting on motion to approve the legislative committee’s recommended vote for Position 48- School Athletic...[truncated, use api for full text] | Director Brar abstained. |
+| [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 8- Climate Impact Mitigation A...[truncated, use api for full text] | Director Owsley opposed. |
+| [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and...[truncated, use api for full text] | Director Owsley opposed. |
+
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions and actions related to transgender student athletes. The board approved a letter to the WIAA (Washington Interscholastic Activities Association) advocating for policy changes regarding transgender athlete participation.  Additionally, the board debated and ultimately approved a letter to legislators concerning the inclusion of transgender athletes assigned male at birth in sports. This letter saw revisions with the removal of a bullet point titled "Education and Awareness." The minutes also highlight Director Brar's request for further discussion on Initiative 2081, though its specific content related to LGBTQ+ issues is not mentioned.
+The Lynden School District Board meeting on September 5, 2024, included discussions on various policies and community concerns. A community member raised issues regarding the recent bond failure, emphasizing the need for enhanced safety and security on campuses, including funding for security officers. In terms of policy, several were moved to second readings, including Policy 2125 on Sexual Health Education and Policy 3211/P on Gender Inclusive Schools. Additionally, the board approved a letter to local legislators addressing transgender athlete participation, which included a contentious amendment to strike the bullet point on 'Education and Awareness.' This letter reflects the board's interest in advocating for changes in sports policies for transgender athletes, highlighting ongoing community engagement on LGBTQ issues.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
 
@@ -30,7 +55,7 @@ Directors Brar. Motion carried b...[truncated, use api for full text] |
 
 ## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superintendents on proposed amended language.
+The Lynden School District Board Meeting on August 15, 2024, included discussions on various policies and community concerns related to gender inclusivity in sports. Community members submitted written comments urging the board to ensure that girls' sports teams comprise only biological girls, citing concerns about fair competition and the impact of allowing transgender athletes to compete. The board discussed Policy 3211/P—Gender Inclusive Schools, with Superintendent David VanderYacht indicating plans to work with legal counsel on drafting amendments for a first reading at the September 5 meeting. Additionally, the board addressed the Washington Interscholastic Activities Association (WIAA) participation policies, which currently allow students to participate in athletics based on their gender identity. Director Brar mentioned that several districts are interested in amending these policies, and he has submitted proposed language for consideration. The meeting also highlighted the importance of community engagement in discussions regarding these sensitive topics.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
 
@@ -45,9 +70,7 @@ The school board discussed amending Policy 3211/P, which likely pertains to stud
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions concerning gender inclusive schools.  The board considered potential next steps for updating district Policy 3211/3211P, which addresses nondiscrimination and equal opportunity. They requested correspondence from Woodland School District regarding their interactions with the Office of Superintendent of Public Instruction (OSPI) on this matter. The board directed Superintendent VanderYacht to explore the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their model policy 3211/3211P, potentially with legal counsel's assistance.
-
-Additionally, they discussed the possibility of joining other districts advocating for a more parent-friendly model policy from WSSDA. The board also deliberated on implementing time limits for future meetings to enhance efficiency.  The finance committee provided an update on the 23/24 budget, the development of the 24/25 budget, and the AP/Payroll audit process.
+The Lynden School District Board meeting on July 11, 2024, included discussions about updating the district's Policy 3211/3211P, which pertains to gender-inclusive schools. The board expressed interest in reaching out to the Woodland School District for their correspondence with the Office of Superintendent of Public Instruction (OSPI) and directed Superintendent David VanderYacht to investigate the process for requesting revisions to OSPI and Washington State School Directors' Association (WSSDA) model policy language. The board also requested that a first reading of the updated policy 3211/3211P, as revised by WSSDA in March 2022, be included in the next agenda for consideration. Additionally, the board discussed the potential for collaborating with other districts in Washington State to advocate for a more parent-friendly model policy.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
 
@@ -74,7 +97,7 @@ Additionally, they discussed the possibility of joining other districts advocati
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District board meeting minutes detail discussions and votes on Resolution #09-24, titled "WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic & Extracurricular Activities."  Director Hickman initially motioned to amend the resolution by removing the phrase "including transgender athletes," which was seconded by Director Brar and carried unanimously. Subsequently, Director Brar motioned to add the word "equality" after "equity" in the last paragraph of page 50 of the resolution. This amendment also passed with unanimous support. The board ultimately approved the amended resolution.  The minutes do not explicitly state the reasoning behind these changes.
+The Lynden School District Board Meeting on June 20, 2024, included discussions and actions regarding various policies and community concerns, particularly around LGBTQ+ issues and school safety. Community members expressed opposition to transgender males participating in female sports and raised concerns about Title IX implications. The board reviewed and approved the Resolution #09-24, which advocates for fair, safe, and nondiscriminatory practices in athletics, with amendments to remove references to transgender athletes and to include the term "equality" in discussions of equity. Additionally, the board discussed the need to revise the district's Gender Inclusive Policy (3211), noting that other districts have adopted different policies, indicating a potential shift in the district's approach to inclusivity. The meeting also addressed the importance of safety protocols and the ongoing work of the Safety & Security Task Force.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
 
@@ -94,4 +117,25 @@ The Lynden School District board meeting minutes detail discussions and votes on
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
 Ext...[truncated, use api for full text] | Director Martinez motioned to approve Resolution #09-24- WIAA for a Fair, Safe and
 Nondiscriminatory Practice in Athleti...[truncated, use api for full text] |
+
+## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+
+The Lynden School District Board Meeting on June 6, 2024, included discussions on various community concerns, notably from a community member who opposed biological men competing in women’s sports, highlighting the ongoing debates surrounding LGBTQ issues in athletics. The meeting also featured community engagement initiatives, with members of the Citizens for Lynden Schools group presenting information on an upcoming bond election, emphasizing the district's efforts to inform and involve the community in educational developments. Additionally, the board approved updated Policy 2255 regarding Alternative Learning Experience Courses, reflecting a commitment to adapt educational policies as needed. The meeting concluded with the adoption of Resolution #08-24, which emphasizes prioritizing local control and opposing unfunded mandates.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
 

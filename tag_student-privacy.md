@@ -1,8 +1,26 @@
 # Meeting Summaries for Tag: student-privacy
 
+## 2024-12-01 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School Board held a regular meeting on October 29, 2024, where several significant actions were taken regarding policy changes and community engagement. Notably, revisions to GC-7 Ferndale School Board Social Contract included the removal of phrases like "Listening with our eyes and hearts as well as with our brains and ears," which reflects a shift towards more streamlined communication guidelines. The board also adopted revised Policy 6220 regarding Bid or Request for Proposal Requirements despite concerns raised by Director Peggy Uppiano about typographical errors and the need for further review. 
+
+Additionally, the board approved multiple memorandums of understanding (MOUs) aimed at enhancing mental health services for students, including collaborations with the Lummi Indian Business Council and Whatcom County Health & Community Services, indicating a focus on mental health support within the community. The meeting also included discussions on school safety, highlighted by the adoption of new policies related to safety and security services. Overall, the board's actions reflect an ongoing commitment to policy refinement, community partnerships, and student well-being.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-01-minutes.txt)
+
+## 2024-11-14 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a Special Board Meeting on November 14, 2024, primarily focused on an executive session to review the performance of a public employee. The meeting commenced at 6:00 p.m. with all directors present, except for Director Swinburnson, who joined telephonically. The executive session was initially scheduled for 45 minutes but was extended multiple times, ultimately lasting until 8:00 p.m. During this time, President Freeman communicated extensions to the boardroom and requested copies of a complaint from Superintendent Dr. Christopher Granger. The meeting reconvened in regular session at 8:00 p.m., where it was adjourned unanimously after confirming no further business was to be discussed. The minutes were approved on November 25, 2024. 
+
+tags: school-board-ethics
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-14-minutes.txt)
+
 ## 2024-11-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail the approval of several consent agenda items, including a new policy (6221) for direct contracting through a "Small Works Roster" and the receipt of a monitoring report for Operational Expectation 8 concerning communication with the board. Additionally, Resolution 18-2024, which updates Policy 4040R regarding public access to school district records, was adopted. During the sharing portion of the meeting, board members discussed various topics such as the cell phone policy and the process for contract approvals. Director Machado expressed appreciation for staff and teachers, while Director Childs highlighted the need for clearer communication regarding contract timelines. Director Button emphasized the importance of each member's role in advocating for students, and Director Uppiano stressed the value of questioning and presenting diverse viewpoints.
+The regular meeting of the Ferndale School Board took place on September 24, 2024, where significant discussions and actions were centered around various policies and community engagement initiatives. Notably, the board moved to adopt the Monitoring Report for Results 6 (R-6) on Career Readiness and the Monitoring Report for Results 2.4 (R 2.4) on Technology, both of which were deemed to meet expectations. The board discussed the Interlocal Agreement establishing a District Resource Officer Program with the City of Ferndale; concerns were raised regarding the timing of the agreement's signing before board review, leading to its postponement for further discussion in the October meeting. 
+
+Additionally, the board confirmed plans for a retreat to further discuss policy changes and monitoring report indicators, emphasizing the importance of community engagement and collaboration in shaping school safety and operational policies. The meeting also featured student representatives who reported positively on the new cell phone policy, indicating improved school connectivity and a welcoming environment. The board's actions reflect a commitment to addressing community needs while ensuring the safety and readiness of students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-09-minutes.txt)
 
@@ -12,11 +30,44 @@ The special meeting of the Kent School District No. 415 Board of Directors, held
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-11-06-boardspecialmeeting-minutes.txt)
 
+## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on October 14, 2024, where they discussed the 2025-2026 Budget Development. The session was attended by board members including Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Michael Tolley. The primary focus of the meeting was to review the budget planning process for the upcoming academic year, which is part of the district's long-term strategic plans. The session was called to order at 6:30 PM and adjourned at 7:34 PM, indicating a structured approach to managing the district's financial resources.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-14-minutes.txt)
+
 ## 2024-09-09 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
 The Battle Ground Public Schools Board of Directors held a regular meeting on September 9, 2024, where they recognized the contributions of School Resource Officers to school safety. The board discussed various updates, including the importance of social-emotional learning (SEL) and mental health initiatives, as highlighted by multiple citizens' comments advocating for such programs. Additionally, the board approved the retirement of Policy 5521 - Teacher Assistance Program, noting that the regulation directing the program has been repealed and that current statutes do not include specific provisions for it. This change reflects a shift in policy focus. Community engagement was evident, with citizens voicing concerns on topics such as student privacy, SEL, and the importance of crossing guards and extracurricular activities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-09-09-minutes.txt)
+
+## 2024-08-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Board of Directors held a special retreat on August 19, 2024, at Pop Keeney Stadium, focusing on planning and self-assessment as part of their long-term strategic plans. The meeting was attended by board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast, the President, along with Mr. Michael Tolley, the Superintendent. The session commenced at 4:30 PM and concluded at 7:52 PM. The retreat's purpose was to facilitate discussions aimed at improving the board's effectiveness and future direction, although specific policies or resolutions were not detailed in the minutes. The meeting was officially adjourned, and the minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-19-minutes.txt)
+
+## 2024-05-22 - COLVILLE_SCHOOL_DISTRICT (Minutes)
+
+The Colville School District Board of Directors held a regular meeting on May 22, 2024, where several key actions and updates were discussed. Notably, Policy 3421, concerning Child Abuse, Neglect, and Exploitation Prevention, was approved during its second reading, reflecting the Board's commitment to enhancing student safety. Additionally, the Board passed Resolution No. 23/24-10, which delegates authority to the Washington Interscholastic Activities Association (WIAA) to oversee interschool activities. Superintendent Kevin Knight reported on significant teacher and staff shortages, highlighting 71 instances where paraeducator substitutes were unavailable, leading to canceled intervention groups. The meeting also featured community engagement through public comments and recognition of student achievements, including Colville High School students' participation in SkillsUSA and a presentation on the district's summer food program, which has already seen over 200 sign-ups.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-05-22-mayregularboardmeeting-minutes.txt)
+
+## 2024-02-06 - PULLMAN_SCHOOL_DISTRICT (Minutes)
+
+The special council meeting of the Pullman City Council on February 6, 2024, focused on the approval of the Downtown Pullman Improvement Project, specifically the resolution R-08-24, which accepted the bid from Apollo, Inc. for the project. The project aims to enhance East Main Street, including infrastructure improvements such as water, sewer, and storm mains, as well as road and sidewalk construction. Despite opposition from some residents and business owners, the council ultimately voted in favor of the project, emphasizing the necessity of addressing aging infrastructure to prevent future emergencies. Several council members, including Pat Wright and Megan Guido, expressed support for the project, highlighting the importance of maintaining a viable downtown area and the need for timely upgrades. The council also discussed the financial implications, with a significant portion of the funding sourced from the American Rescue Plan Act (ARPA) and the necessity of additional funding for the project's completion. The resolution allows for flexibility in awarding bid additives related to the project, which includes enhancements such as benches and landscaping. The meeting concluded with a call for collaboration and communication to support downtown businesses during construction. 
+
+tags: community-engagement
+policy-changes
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-02-06-councilspecialmeeting-minutes.txt)
+
+## 2024-01-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting on January 30, 2024, for a strategic action plan school visit at Bothell High School. The meeting, which commenced at 9:00 AM and concluded at 11:00 AM, included attendance from board members Elisabeth Sotak, Hân Trần, and President Amy Cast, alongside Superintendent Mr. Michael Tolley. The primary focus of the meeting was the strategic action plan, indicating an emphasis on long-term planning and community engagement within the school district. The meeting minutes were generated by Peggy King and approved on February 12, 2024, with Mr. Michael Tolley serving as Secretary to the Board.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-30-minutes.txt)
 
 ## 2023-09-26 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 

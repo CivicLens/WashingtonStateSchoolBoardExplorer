@@ -2,13 +2,7 @@
 
 ## 2024-08-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District Board held a work session on August 26, 2024, to discuss the district's 5-year Strategic Plan and review 2023-2024 End-of-Year Reports & 2024-2025 School Improvement Plans. The discussion centered around several key areas:
-
-The district emphasized its commitment to high academic standards, evidenced by the adoption of a new middle and high school literacy curriculum and plans to review the K-5 curriculum.  There was also discussion about using data to inform instruction, transitioning from STAR to i-Ready assessments for better alignment with student achievement goals. The meeting highlighted ongoing improvements in Professional Learning Communities (PLCs) and the use of data to drive instructional decisions.
-
-The Board reviewed school improvement plans for each level, addressing attendance goals, literacy performance, and the impact of cell phone use on student focus.  Concerns were raised about the effectiveness of the Fountas & Pinnell literacy curriculum, prompting a discussion about finding a balance between phonics and whole language approaches. The meeting also touched upon the new Blaine High School Virtual Learning (BHSVL) program designed for students facing personal challenges who cannot attend in-person classes.
-
-The Board expressed appreciation for the dedicated team of administrators working towards continuous school improvement.  The formal approval of the 2024-2025 School Improvement Plans will take place at a subsequent regular board meeting.
+The Blaine School District No. 503 held a Board Work Session on August 26, 2024, where Superintendent Dr. Christopher Granger provided an update on the district's 5-year Strategic Plan, emphasizing the importance of Professional Learning Communities (PLCs) and fiscal responsibility. The district is transitioning from STAR to i-Ready assessments to better align with academic standards and improve student achievement. Campus administrators presented their 2023-2024 End-of-Year Reports and 2024-2025 School Improvement Plans (SIPs), highlighting efforts to ensure high-quality Tier 1 instruction and addressing challenges with the Fountas & Pinnell literacy curriculum. Director Galbraith raised concerns about literacy performance, suggesting the removal of the F&P curriculum from the SIP, while discussions included the need for a balanced approach to reading instruction. The meeting also covered updates on the Blaine High School Virtual Learning program, which aims to support students facing personal challenges. The board plans to take action on the approval of the SIPs at the next regular meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-08-26-minutes.txt)
 

@@ -2,17 +2,29 @@
 
 ## 2024-07-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The San Juan Island School Board held a meeting to discuss the 2024-2025 budget.  The discussion included explanations of various budget categories such as instructional programs, support services, and board/superintendent expenses. There was also clarification regarding staff reduction numbers and online FTE enrollment inclusion in the budget calculations.
-
-A key point of discussion involved resolving a K-3 class size funding issue caused by inaccurate coding for certain staff. The board addressed confusion related to an error in the personnel database reflecting an incorrect staff count for 2023-2024.
-
-The meeting concluded with a motion to adjourn, which passed 4-0 with one member absent.
+The Blaine School District No. 503 held a special board meeting on July 23, 2024, to review the draft budget for the 2024-2025 fiscal year, which includes discussions on various funds such as the General Fund, ASB Fund, Debt Service Fund, and Capital Projects Fund. Financial Consultant Amber Porter presented the budget, emphasizing the need for ongoing updates due to potential changes before the final adoption deadline of August 31. The board discussed the implications of staffing reductions and the impact of declining enrollment trends since the 2019-2020 school year, highlighting concerns over maintaining program funding and the necessity for long-term strategic planning to address potential budget shortfalls. Additionally, the district is facing challenges related to the transition to electric buses and the need for improved infrastructure to support this mandate.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-23-minutes.txt)
 
+## 2024-04-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 Board of Directors held a regular meeting on April 22, 2024, addressing various topics including budget reductions and teacher appreciation. The board recognized Teacher Appreciation Week scheduled for May 6-10, highlighting the dedication of certificated staff. Public comments reflected concerns about proposed budget cuts, particularly regarding the potential elimination of positions and programs, including a secretary at Blaine Primary School and high school art classes. The board discussed Resolution 2324-08, which proposed a $2.5 million reduction plan, including $500,000 in non-staffing cuts. Directors expressed the need for more resources for students and the importance of collaborative communication with stakeholders. The board ultimately voted to table the resolution until April 29, 2024, to allow for further stakeholder feedback and consideration of alternatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-22-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Swinburnson](board_member_318.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Erika Creydt](board_member_315.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_317.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Steve Galbraith](board_member_319.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_316.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+
 ## 2024-01-11 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The school board discussed potential budget cuts due to the possible failure of a local levy (EP&O).  Ms. Porter, a district representative, explained that if the levy fails, programs that can be reduced would face 24% cuts. The discussion focused on the impact of these reductions, particularly on staffing. There was concern expressed about the number of staff potentially impacted by a $2.7M reduction and the legal requirements for notifying staff about potential job losses.  The process for developing a reduced education plan was reviewed, highlighting the complexities and uncertainties involved. The board also discussed the district's efforts to address reductions in school library staffing and why volunteers could not replace contracted employees.
+The Blaine School District No. 503 held a special board meeting on January 11, 2024, primarily focused on the budget planning process for the 2024-2025 fiscal year. Executive Director of Finance and Operations, Amber Porter, presented an overview of the budget, highlighting the impact of McCleary restrictions on the district's ability to collect the full enrichment levy approved by voters in 2020. The board discussed the critical nature of the EP&O levy, which is essential for maintaining revenue, as well as the anticipated $2.7 million reduction needed in the upcoming budget, contingent on the levy passing. Porter emphasized the significant challenges posed by declining enrollment and the necessity of a reduced education plan if revenues do not cover expenditures. The meeting also addressed the implications of staffing reductions and the management of special education funding, alongside the need for clear communication among board members and district leadership regarding budgetary decisions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-11-minutes.txt)
 

@@ -1,5 +1,13 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: student-privacy
 
+## 2024-11-14 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a Special Board Meeting on November 14, 2024, primarily focused on an executive session to review the performance of a public employee. The meeting commenced at 6:00 p.m. with all directors present, except for Director Swinburnson, who joined telephonically. The executive session was initially scheduled for 45 minutes but was extended multiple times, ultimately lasting until 8:00 p.m. During this time, President Freeman communicated extensions to the boardroom and requested copies of a complaint from Superintendent Dr. Christopher Granger. The meeting reconvened in regular session at 8:00 p.m., where it was adjourned unanimously after confirming no further business was to be discussed. The minutes were approved on November 25, 2024. 
+
+tags: school-board-ethics
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-14-minutes.txt)
+
 ## 2021-11-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School Board discussed several policy changes during their meeting. Policy .060 was amended to prevent schools from withholding grades or transcripts due to student damage or loss of property.  The board also reviewed and approved revisions to policies 2420 (Grading and Progress Reports), 3231 (Student Records), 3520 (Student Fees, Fines, or Charges), and 6800 (Safety, Operations and Maintenance of School Property). The meeting included discussion about the shortage of substitute teachers and efforts to recruit new substitutes.  The board also addressed concerns regarding the district's redistricting plan and committed to scheduling a special meeting for further public input.

@@ -6,6 +6,30 @@ The Hood Canal School District Board of Education held a study session on Novemb
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-11-14-draftboardmtg-minutes.txt)
 
+## 2024-05-21 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 held a Special Board Meeting focused on Career and Technical Education (CTE) Awards on May 21, 2024. The event included a reception and an awards ceremony where students were recognized for their achievements in various programs including FFA, HOSA, Skills USA, TSA, and WSSEA. Notable attendees included board members Norm Walker, Graciela Villanueva, Martha Rice, and Ryan Beckett, with Raymond Navarro Jr. absent. Bonnie Smith, the Executive Director of Career and College Readiness and CTE, welcomed the students and their families. President Walker provided closing remarks encouraging the award recipients and adjourned the meeting at 7:10 PM. The event emphasized community engagement by celebrating student accomplishments and fostering connections between the school board and families.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-05-21-minutes.txt)
+
+## 2024-03-11 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Board Retreat on March 11, 2024, included discussions on various topics, notably special education and parental rights. K.C. Mitchell presented the top ten ambitious goals for Special Education for the upcoming school year, emphasizing the district's commitment to enhancing support for students with special needs. Additionally, Superintendent Trevor Greene and Assistant Superintendent of Finance Jake Kuper addressed legislative impacts, including Initiative 2081, known as the Parents Bill of Rights, which aims to outline and protect parental rights in education. The board also reviewed over 1100 policies, with planned edits to be approved in a future meeting, indicating ongoing policy changes that could affect governance and operations within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-03-11-minutes.txt)
+
+## 2024-01-29 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Business Board Meeting held on January 29, 2024, included discussions on significant growth in alternative education programs, particularly Yakima Online (YOL) and Open Doors, which have expanded from 153 to 687 students over five years. Principal Lois Menard emphasized the importance of creating supportive, non-traditional learning environments, reflecting a commitment to student autonomy and academic standards. The board approved several policy changes, specifically Policies 1000.3.4 through 1000.3.9, which outline the roles and conduct of board members, governance costs, and processes for addressing violations. The board also addressed community engagement by acknowledging support from local services and discussing potential improvements for educational pathways. Additionally, Superintendent Greene provided updates on legislative advocacy efforts and student health initiatives, including a recent clothing donation to elementary students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-01-29-minutes.txt)
+
+## 2024-01-25 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board of Directors Meeting held on January 25, 2024, included discussions on various community engagement initiatives and acknowledgments for National School Board Month from both the SEA and the Principals Association. Superintendent Maxwell provided an update on the dissemination of levy information to community groups and emphasized the importance of upcoming ballot dates. Additionally, the Board approved Resolution No. 01-2024, which authorized the surplus and scrap of two school buses, indicating a policy change regarding resource management within the district. The meeting concluded with public comments, where community member Vicky Frausto expressed her thoughts, further emphasizing the importance of community involvement in school governance. The Board also recognized the efforts of staff in maintaining school safety during inclement weather conditions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-25-minutes.txt)
+
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This excerpt from a school board meeting focuses on student perspectives and experiences.  A former student shares positive memories of the Teacher Academy program, highlighting its collaborative nature and impact on personal growth. The student also discusses challenges faced due to allergies and the benefits of remote learning during the COVID pandemic. The meeting emphasizes student voice and its importance in shaping educational policies. Additionally, a current student pursuing Automotive Collision Repair Technology expresses appreciation for the Teacher Academy's influence on their life skills and patience development.  The school board members express gratitude for the students' insights and acknowledge the value of ongoing feedback.

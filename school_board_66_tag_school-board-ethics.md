@@ -1,8 +1,25 @@
 # Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: school-board-ethics
 
+## 2024-11-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on November 20, 2024, where several policies were reviewed and approved. Notably, Policy & Procedure 3205 concerning Sex Discrimination and Sex-Based Harassment, Policy & Procedure 3206 regarding Pregnant and Parenting Students, Policy & Procedure 5011 on Sex Discrimination and Sex-Based Harassment of District Staff, and Policy & Procedure 5012 addressing Parent Family Marital Status and Pregnancy were all approved with unanimous votes. The meeting also featured presentations from various educational teams, including a report on the Special Education Program by Director of Special Services, Aaron Jacoby, which highlighted an increase in qualified students and discussed future challenges. Additionally, the board reviewed the Washington State Skills Center Association Interlocal Agreement and Levy Certification Resolution 12-24, both of which were approved. The meeting emphasized community engagement as student representatives Kennedy Brzozowski and Logan Ignacio reported on their discussions with school leaders regarding student advisory matters.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-11-20-nov-minutes.txt)
+
 ## 2024-10-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special school board meeting on October 31, 2024.  The meeting was called to order by Board President Steve Corwin at 10:01 am and adjourned at 10:02 am.  Board members present included Steve Corwin, Marty Gray, and Jana Haugen. Jarrod Karuza was absent. The consent agenda, which included items such as the Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and a Limitless MOU, was approved unanimously. No further business was discussed.
+The Meridian School District #505 held a special school board meeting on October 31, 2024, which was attended by Board President Steve Corwin, Marty Gray, and Jana Haugen, while Jarrod Karuza and student representatives Kennedy Brzozowski and Logan Ignacio were absent. The meeting commenced with the adoption of the agenda, followed by the approval of a consent agenda that included the Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and the Limitless MOU. Both motions passed unanimously with a vote of 3-0. The meeting was concluded by Board President Steve Corwin at 10:02 am, indicating no further business was present. 
+
+policy-changes
+summary: The Meridian School District #505 held a special school board meeting on October 31, 2024, which was attended by Board President Steve Corwin, Marty Gray, and Jana Haugen, while Jarrod Karuza and student representatives Kennedy Brzozowski and Logan Ignacio were absent. The meeting commenced with the adoption of the agenda, followed by the approval of a consent agenda that included the Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and the Limitless MOU. Both motions passed unanimously with a vote of 3-0. The meeting was concluded by Board President Steve Corwin at 10:02 am, indicating no further business was present.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-10-31-octoberboardmeeting-minutes.txt)
+
+## 2024-10-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a special school board meeting on October 31, 2024, which was conducted both in person and via YouTube live stream. The meeting was called to order by Board President Steve Corwin at 10:01 am, with Board members Marty Gray and Jana Haugen present, while Jarrod Karuza and student representatives Kennedy Brzozowski and Logan Ignacio were absent. The agenda was adopted with a motion from Marty Gray, seconded by Jana Haugen, passing unanimously. The consent agenda included items such as the Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and a Limitless MOU. The consent agenda was approved following a motion by Michelle Simmons, seconded by Marty Gray, also passing unanimously. The meeting concluded with the board's adjournment at 10:02 am. 
+
+tags: school-board-ethics, policy-changes
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-10-31-minutes.txt)
 
@@ -19,9 +36,21 @@ The Meridian School District #505 held a special school board meeting on October
 | [Steve Corwin](board_member_333.md) | called the special meeting to order |  |
 | [Steve Corwin](board_member_333.md) | adjourned the board meeting | There being no further business, the Board meeting was adjourned at 10:02 am by Board President Steve Corwin. |
 
+## 2024-09-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on September 25, 2024, where several key topics were discussed. A motion was passed to adopt the agenda and consent agenda, which included approvals for meeting minutes, personnel reports, accounts payable, and various contracts. Notably, the board reviewed and approved capital project donations and the Sunbelt Tele OT Agreement. Significant policy changes were introduced for first review, including Policy 5409 regarding Unpaid Holidays for Reason of Faith or Conscience, Policy 5400 on Personnel Leave, and Policy 3432 addressing Emergencies. These policies are set to be revisited for approval on October 9, 2024. The meeting also featured a finance report from Director Daniel Yorton, who provided updates on enrollment and budget projections, reflecting the district's commitment to financial transparency and community engagement.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-25-septemberboardmeeting-minutes.txt)
+
+## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on September 11, 2024, where several policies were reviewed and approved. Notable actions included the approval of Procedure 2151P – Interscholastic Activities, and various mastery-based credit policies for English Language Arts (Policy and Procedure 2402), Math (Policy and Procedure 2403), Science (Policy and Procedure 2404), and Social Studies (Policy and Procedure 2405), all of which received unanimous support from the board and student representatives. Additionally, the meeting featured a presentation on the Teacher on Special Assignment for Educational Technology, highlighting the importance of technology in education. Superintendent Dr. Everett reported on community engagement activities and the upcoming bond election, emphasizing the district's focus on preparing for the school year and supporting staff and students effectively.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-septemberboardmeeting-minutes.txt)
+
 ## 2024-08-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special school board meeting on August 7, 2024.  The board reviewed and approved Grant Applicant Authorization Resolution 09-24. They also conducted a first review of Procedure 2151P – Interscholastic Activities, which will be brought back for a second review and approval at the next board meeting. The Director of Finance presented a year-end spending update and recommended moving forward with a Budget Extension hearing and resolution signing.  Marty Gray, a school board director, shared information about the upcoming football season.
+The Meridian School District #505 held a special school board meeting on August 7, 2024, where several key actions were taken. The Board approved the Grant Applicant Authorization Resolution 09-24, which was presented for a second review. Additionally, a first review of Procedure 2151P – Interscholastic Activities was conducted, with discussions indicating that it will be revisited for a second review and approval at the upcoming Board meeting on August 21, 2024. The Director of Finance, Daniel Yorton, provided a verbal year-end spending update and recommended a Budget Extension hearing and resolution signing during the same August 21 meeting. There was no public comment, and the meeting concluded with no further business at 6:32 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-08-07-minutes.txt)
 
@@ -36,7 +65,7 @@ The Meridian School District #505 held a special school board meeting on August 
 
 ## 2024-07-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special school board meeting on July 10, 2024.  The board reviewed and approved the 2024-25 MSD Board Meeting Plan of Work Calendar. Additionally, they conducted a first review of Procedure 2151P – Interscholastic Activities, which will be brought back for a second review and approval at the next board meeting on July 23, 2024. The board also approved the MHS LOSS Drain Field Repair Contract presented by Jay Yeager, Director of Facilities and Maintenance.
+The Meridian School District #505 held a special school board meeting on July 10, 2024, where key actions included the approval of the 2024-25 MSD Board Meeting Plan of Work Calendar and the MHS LOSS Drain Field Repair Contract. The Board, led by President Steve Corwin, adopted the calendar with a 4-0 vote after a second review, indicating a structured approach to future meetings. Additionally, Assistant Superintendent Kurt Harvill presented Procedure 2151P – Interscholastic Activities for a first review, which will be revisited for approval at the upcoming July 23, 2024, Board meeting. The repair contract for the MHS LOSS Drain Field was also approved with a 4-0 vote, demonstrating the Board's commitment to maintaining school facilities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-10-minutes.txt)
 
@@ -51,9 +80,17 @@ The Meridian School District #505 held a special school board meeting on July 10
 | [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
 
+## 2024-06-12 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on June 12, 2024, where several key policies were reviewed and approved. Among them, Policy 4500 - Unmanned Aircraft System (Drones), Policy and Procedure 6700 - Nutrition, and Policy and Procedure 6702 - Wellness were all approved unanimously. Additionally, a first reading was conducted for Policy and Procedure 6703 - Recess and Physical Activity. The board also discussed a $75 million bond proposal to be presented to voters in November 2024, aimed at supporting various educational projects. Public comments included recognition of the MMS band director and students for their respect shown during a Veterans Day assembly. The meeting emphasized community engagement through the introduction of new student board representatives and discussions on mental health support via contracts for professionals in the upcoming school year.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-12-juneboardmeeting-minutes.txt)
+
 ## 2024-04-30 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special school board meeting on April 30, 2024.  The meeting was called to order by Board President Steve Corwin and included discussion of the agenda which passed unanimously. The board then moved into executive session for the purpose of reviewing the performance of a public employee. No action was taken during the executive session.  The meeting adjourned at 5:40 pm.
+The Meridian School District #505 held a special school board meeting on April 30, 2024, which was called to order by Board President Steve Corwin at 5:05 p.m. Board directors present included Steve Corwin, Jarrod Karuza, Marty Gray, and Michelle Simmons. The agenda was adopted following a motion by Marty Gray, seconded by Jarrod Karuza, passing with a unanimous vote of 4-0. The board then moved into an executive session to review the performance of a public employee, during which no actions were taken. Board director Jana Haugen joined the meeting at 5:10 p.m. The meeting concluded with adjournment at 5:40 p.m. by Board President Steve Corwin, with no further business discussed. 
+
+tags: school-board-ethics, policy-changes
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-30-minutes.txt)
 
@@ -66,7 +103,7 @@ The Meridian School District #505 held a special school board meeting on April 3
 
 ## 2024-04-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on April 24, 2024.  The meeting covered routine items such as approval of minutes, accounts payable, personnel reports, and donations. Several new policies were introduced for a first reading, including Policy and Procedure 4001 - Public Information Program, Policy and Procedure 4040 – Public Access to District Records, and Policy and Procedure 4060 – Distribution of Information. These policies will be reviewed again at the May 8th meeting. The board also reviewed a Sendan Center Contract for the first time.  The Finance Director presented a budget update report and an overview of the 2024-25 budget process. There was no public comment or information shared from student representatives or board directors. The meeting adjourned at 7:38 pm.
+The Meridian School District #505 held a regular school board meeting on April 24, 2024, where several policies were presented for first review. Assistant Superintendent Kurt Harvill introduced Policy and Procedure 4001 - Public Information Program, Policy and Procedure 4040 - Public Access to District Records, and Policy and Procedure 4060 - Distribution of Information. Each of these policies will be brought back for second review and approval at the upcoming May 8 regular Board meeting. Additionally, the Sendan Center Contract was also presented for first review with the same plan for follow-up approval. The meeting included updates from various departments, including a report from the Director of Food Services and a budget update from the Director of Finance, Daniel Yorton, regarding the 2024-25 budget process.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-24-minutes.txt)
 
@@ -81,7 +118,7 @@ The Meridian School District #505 held a regular school board meeting on April 2
 
 ## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District held a regular school board meeting on February 21, 2024.  The agenda included a work session on the WSSDA Board Bootcamp and several policy readings for first review.  These policies included Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, Policy 6111 - Tuition, and the 2024-2027 School Year Calendars. Resolution 01-24: OSPI 180 Day Waiver was also presented for first review. The board discussed opposition to HB 5462 and ESHB 2331 and scheduled a special session meeting to continue the discussion.  The Superintendent provided updates on community support for the levy election, his involvement with AASA, and upcoming advocacy opportunities. Student Board Representatives shared insights about their participation in principal interviews and Superintendent Advisory Council meetings.
+The Meridian School District #505 held a regular board meeting on February 21, 2024, where various topics related to policy changes and community engagement were discussed. Key actions included the first readings of several policies: Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, and Policy 6111 - Tuition, all of which will be subject to second review and approval at the upcoming March 6, 2024 meeting. Additionally, the board reviewed the 2024-2027 School Year Calendars and the OSPI 180 Day Waiver Resolution 01-24, indicating ongoing efforts to enhance curriculum transparency and operational efficiency. The board also discussed opposition to state bills HB 5462 and ESHB 2331, deciding to gather more information from local legislators, which reflects an active engagement with community and legislative matters.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-minutes.txt)
 
@@ -106,7 +143,7 @@ The Meridian School District held a regular school board meeting on February 21,
 
 ## 2024-01-03 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special meeting and work session on January 3rd, 2024.  The board reviewed the consent agenda which included accounts payable. During the work session, the board discussed WSSDA Roles and Responsibilities, likely referring to the Washington State School Directors' Association. The text does not provide details about specific policy changes or resolutions considered during the meeting.
+The Meridian School District #505 held a special meeting and work session on January 3, 2024, chaired by Board President Steve Corwin. The meeting commenced at 5:00 PM with the board directors present: Steve Corwin, Jarrod Karuza, Marty Gray, and Jana Haugen. The agenda was adopted unanimously following a motion by Jarrod Karuza and a second from Jana Haugen. The consent agenda, which included accounts payable, was also approved without opposition. The special meeting concluded at 5:07 PM, after which Board Director Michelle Simmons joined for the work session. The work session focused on reviewing the Washington State School Directors' Association (WSSDA) Roles and Responsibilities, estimated to last two hours, and it was adjourned at 7:10 PM. No specific policy changes or controversial topics were noted during the proceedings.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-03-minutes.txt)
 

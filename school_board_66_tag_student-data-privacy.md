@@ -2,11 +2,9 @@
 
 ## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular board meeting on January 10, 2024.  The meeting included an executive session for reviewing the performance of a public employee, followed by a reconvened regular meeting. The agenda covered standard topics such as approval of minutes, personnel reports, and accounts payable.
+The Meridian School District #505 held a regular board meeting on January 10, 2024, where several key topics were discussed. The board moved into an executive session to review the performance of a public employee, after which they reconvened and adopted the agenda and consent agenda, which included the approval of meeting minutes, personnel reports, accounts payable, payroll, and an affiliation agreement with Western Governors University. Dr. James Everett expressed appreciation for the school board directors, and Principal Todd Torgeson recognized the Meridian Middle School Science team for their efforts in building systems to master academic standards.
 
-Recognition was given to the school board and Meridian Middle School staff. Reports were presented on school data, including PLC presentations from MMS Social Studies and IRE fourth grade teams. There was no public comment. 
-
-The board reviewed proposed changes to MSD Board Operating Protocols and the Revised 2023-24 Plan of Work for a first reading, with final approval scheduled for the January 24th meeting. The Superintendent's report covered district activities, including Winter Wishes, training, leadership changes, and budget considerations.  The need for board directors to serve as Legislative Representative and WIAA Representative was also discussed. Student representatives provided updates on their participation in Winter Wishes events. Finally, a board member shared information about upcoming athletic games. The meeting adjourned at 7:33 p.m.
+Dr. Everett also presented the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work for first reviews, both of which will be revisited for approval at the January 24 board meeting. The meeting included presentations from various teams regarding their academic focus areas and strategies for measuring student progress. Student representatives shared positive experiences related to the Winter Wishes program and the Give Before You Get activities. The meeting concluded with a call for board directors to fill roles as Legislative and WIAA Representatives and was adjourned at 7:33 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-minutes.txt)
 

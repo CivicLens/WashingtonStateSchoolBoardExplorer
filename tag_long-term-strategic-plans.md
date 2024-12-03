@@ -1,10 +1,40 @@
 # Meeting Summaries for Tag: long-term-strategic-plans
 
+## 2024-12-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The regular meeting of the Ferndale School Board took place on September 24, 2024, where several significant actions were taken regarding school policies and safety measures. The board adopted the Monitoring Report for Results 6 (R-6) Career Readiness and the Monitoring Report for Results 2.4 (R 2.4) Technology, both meeting expectations. Additionally, the board discussed the Interlocal Agreement between the Ferndale School District and the City of Ferndale, which establishes a District Resource Officer Program. There were concerns expressed about the agreement being signed before board review, leading to its discussion being postponed to the October meeting. The board also confirmed a retreat scheduled for October 3rd to address various monitoring report indicators and to discuss policy changes, including the review of revised Policies 1240 and GC-5 related to board committees. Community engagement was highlighted through student representatives' positive feedback on the new cell phone policy, indicating a more connected school environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-09-minutes.txt)
+
+## 2024-12-08 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The regular school board meeting held on August 27, 2024, focused on several key policy changes and strategic plans. The board adopted revised policies, including Policy 2140, which pertains to the Comprehensive School Counseling Program, and Policy 2145, which addresses Suicide Prevention, both emphasizing the district's commitment to student health. Additionally, Policy 3245 was adopted, which governs students and telecommunication devices, highlighting the need for a shift in attitude regarding technology use among students. The board also discussed the Interlocal Agreement with the City of Ferndale to enhance collaboration on grant writing and advocacy efforts, indicating a long-term strategic plan for community engagement and resource sharing. The meeting included various action items and public comments, underscoring the board's focus on transparency and responsiveness to community needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-08-minutes.txt)
+
+## 2024-12-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The regular meeting held on July 30, 2024, at the Mountainview Learning Center included significant discussions and actions regarding policy changes and community engagement. Notably, the board decided to postpone the adoption of Revised Policies 1240 (Committees) and GC-5 (Board Committees) for further revisions. Additionally, the board ratified the contract between the District and the Ferndale Education Association, with the motion carried by a majority despite one dissenting vote from Peggy Uppiano. Superintendent Dr. Dominguez provided updates on the Strategic Plan, emphasizing its progress and relevance to long-term goals for the district, while also addressing various community engagement initiatives, including summer programs and student leadership camps. The meeting concluded with a positive evaluation of the overall proceedings, highlighting the importance of teacher support within the community.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-07-minutes.txt)
+
 ## 2024-11-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a Special Meeting on November 19, 2024, to visit Innovation Lab High School as part of their Strategic Action Plan. The meeting commenced at 9:00 AM and concluded at 11:00 AM, with attendance from several board members, including President Amy Cast and Superintendent Michael Tolley. The visit aimed to engage with the school's innovative practices and assess their alignment with the district's long-term strategic goals. No specific policy changes or resolutions were discussed during this meeting, focusing instead on community engagement and the implementation of the Strategic Action Plan within the school setting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-19-minutes.txt)
+
+## 2024-11-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting on November 19, 2024, at Innovation Lab High School to discuss the Strategic Action Plan. The meeting, attended by board members including President Amy Cast and Superintendent Michael Tolley, focused on engaging with the school's initiatives and evaluating its alignment with the district's long-term strategic plans. The meeting commenced at 9:00 AM and was adjourned at 11:00 AM, highlighting the board's commitment to community engagement and oversight of educational strategies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-19-minutes.txt)
+
+## 2024-11-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on November 18, 2024, at Canyon Park Middle School, focusing on community engagement through the "Conversations With the Board" initiative. The meeting commenced at 6:00 PM and was attended by board members including President Amy Cast, Superintendent Michael Tolley, and other directors. The session aimed to foster dialogue between the board and the community, emphasizing the importance of feedback and interaction. The meeting concluded at 7:34 PM and was later approved on November 25, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-18-minutes.txt)
 
 ## 2024-11-13 - ELLENSBURG_SCHOOL_DISTRICT (Minutes)
 
@@ -12,11 +42,29 @@ The Special Meeting of the Strategic Planning Committee held on November 13, 202
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kittitas/school_boards/ellensburg_school_district/2024/2024-11-13-minutes.txt)
 
+## 2024-11-12 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on November 12, 2024, included the adoption of Board Policy 3242 - Closed Campus, which passed with a majority vote, as Justin Voelker voted against it. This policy change reflects the board's decision to implement a closed campus policy, which may impact student movement during school hours. Additionally, the meeting highlighted community engagement, with discussions on high school athletic concessions and a senior all-nighter event, as well as a recognition of student achievements, such as cross country runner Rachel Metge qualifying for State. The board also approved Resolution 2824, which certifies the 2025 Excess Property Taxes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-11-12-minutes.txt)
+
 ## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a Study Session on November 12, 2024, focusing on budget development for the 2025-2026 school year. The session was attended by board members including President Amy Cast and Superintendent Michael Tolley. During the meeting, the board reviewed information pertinent to their financial planning and strategic goals for the upcoming school year. The session concluded with the adjournment at 7:37 PM. The minutes from this meeting were generated by Peggy King and approved on November 25, 2024, by Secretary Michael Tolley and President Amy Cast.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-12-minutes.txt)
+
+## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on November 12, 2024, focusing on budget development for the 2025-2026 school year. The meeting was attended by board members and the superintendent, Mr. Michael Tolley. The session included discussions on potential policy changes and long-term strategic plans related to the district's financial management and resource allocation for the upcoming school year. The study session concluded with the adjournment at 7:37 PM, and the minutes were generated by Peggy King.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-12-minutes.txt)
+
+## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The regular meeting of the school board, held on July 30, 2024, included discussions on various topics impacting the district and its educational policies. A significant focus was on the adoption and postponement of revised policies, specifically Policy 1240 regarding Committees and Policy GC-5 concerning Board Committees, both of which were agreed to be postponed for further revisions. The board also ratified the contract between the District and the Ferndale Education Association, despite a failed motion to delay this ratification. Dr. Dominguez provided updates on the Strategic Plan, emphasizing the importance of community engagement and support for teachers, which reflects ongoing efforts to enhance educational standards and teacher support within the district. Additionally, student representatives reported on positive experiences from a recent volleyball leadership camp, highlighting student engagement in extracurricular activities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
 
 ## 2024-11-06 - DAYTON_SCHOOL_DISTRICT (Minutes)
 
@@ -24,17 +72,43 @@ The Dayton School District No. 2 held a School Board Work Session on November 6,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-11-06-minutes.txt)
 
+## 2024-11-02 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting held on February 27, 2024, included discussions on several policy changes and their implications for student health and safety. Notably, revisions were approved for Policies 3418, 3419, and 3420, which address responses to student injury or illness, self-administration of asthma and anaphylaxis medications, and anaphylaxis prevention and response, respectively. These changes aim to enhance student health protocols and ensure a safer environment for students with medical needs. Additionally, the board discussed anti-bullying policies and procedures, emphasizing the importance of creating a supportive atmosphere for all students. Dr. Dominguez's presentation covered various topics, including budget preparation and strategic plan development, indicating a focus on long-term strategic planning for the district. The board also expressed interest in increasing community engagement by considering the inclusion of community members in board committees.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-02-minutes.txt)
+
 ## 2024-10-30 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on October 30, 2024, focused on a work session to discuss updates to the Strategic Plan and the Multilingual Education Program. The meeting was called to order by Director Clark at 5:04 p.m. and included a roll call of the Board of Directors, with President Margel present and Vice President Farah excused. Superintendent Vela and the Board Secretary were also in attendance. The meeting concluded with President Margel adjourning it at 6:56 p.m. The discussions aimed to evaluate and potentially enhance the district's long-term strategic objectives, particularly in relation to multilingual education initiatives.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-30-boardspecialmeeting-minutes.txt)
 
+## 2024-10-29 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on October 29, 2024, focused on the presentation of updated School Improvement Plan (SIP) templates for the 2024-25 academic year by Assistant Superintendents Helen Joung and Greg Schwab. The board plans to vote on the approval of these SIP plans at the upcoming meeting on November 12, 2024. The meeting was called to order by Director Katims at 5:00 PM and adjourned at 6:15 PM, with all board members present, including Director Smith who attended via Zoom. This meeting highlights the board's commitment to long-term strategic planning and the implementation of new policies regarding school improvement.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-10-29-minutes.txt)
+
 ## 2024-10-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a special meeting on October 29, 2024, at Crystal Springs Elementary School, focusing on the Strategic Action Plan. The meeting, which commenced at 10:00 AM and adjourned at 12:00 PM, included attendance from board members and the superintendent, Mr. Michael Tolley. The primary purpose of the visit was to engage with the school community as part of the district's long-term strategic planning efforts. The meeting emphasized the importance of community engagement in the implementation of the Strategic Action Plan, although specific policies or resolutions were not detailed in the minutes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-29-minutes.txt)
+
+## 2024-10-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on October 29, 2024, to conduct a strategic action plan school visit at Crystal Springs Elementary School. The meeting commenced at 10:00 AM and included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Michael Tolley. The primary focus of the visit was to engage with the school as part of ongoing long-term strategic planning efforts. The meeting concluded at 12:00 PM, and the minutes were approved on November 12, 2024, by Secretary Michael Tolley and President Amy Cast, indicating a formal acknowledgment of the meeting's proceedings and outcomes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-29-minutes.txt)
+
+## 2024-10-28 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
+
+The La Conner School Board meeting on October 28, 2024, included significant discussions on special education support, highlighted by guest speaker Beth Mills, who emphasized the importance of individualized educational programs for students with disabilities and integrating them into general education settings. Director Alana Quintasket raised questions about improving the learning environment for students with special needs and educating peers about diverse communication styles. The board expressed appreciation for Mills' contributions and her plans for continuous improvement in special education. 
+
+In terms of policy changes, the board adopted several new policies to comply with Title IX, including Policy 3205 on sex discrimination and sex-based harassment, and Policy 5011 prohibiting sex discrimination against district staff. Additionally, the board updated the engagement standard of the strategic plan, aiming to align educational standards in English Language Arts and Math by June 2026, and committed to reporting on progress related to these initiatives. The meeting also addressed the district's ongoing efforts to enhance student learning through targeted professional development and curriculum adjustments, reflecting a long-term strategic plan for academic achievement.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-10-28-minutes.txt)
 
 ## 2024-10-25 - ELLENSBURG_SCHOOL_DISTRICT (Minutes)
 
@@ -44,7 +118,7 @@ The ESD Board Work Session held on October 25, 2024, included a comprehensive re
 
 ## 2024-10-24 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Mount Baker School District (MBSD) held a study session on October 24, 2024.  The meeting focused on the district's finances and facilities as part of their long-term strategic plan, specifically Goal 2: Finance, Facilities and Operations. A resolution, MB Board Resolution 24/25:1, was passed to transfer funds from the Capital Projects Fund to the General Fund. The board also approved a consent agenda encompassing personnel actions, accounts payable, payroll, donations, and various agreements for services like E-Rate consulting and staffing.  Natalie Chavez raised concerns regarding the School Based Health Clinic during the "Information from the Audience" segment.
+The School Board Meeting held on October 24, 2024, included key discussions and actions related to policy changes and community engagement. Notably, the board unanimously approved MB Board Resolution 24/25:1, which involves transferring funds from the Capital Projects Fund to the General Fund, indicating a strategic financial adjustment. The meeting also featured a study session focused on Strategic Plan Goal 2, which addresses finance, facilities, and operations, emphasizing the board's long-term planning efforts. Additionally, audience member Natalie Chavez raised concerns regarding the School Based Health Clinic, highlighting the importance of community feedback in school operations. The meeting concluded with the scheduling of future regular meetings and special events, reinforcing the board's commitment to ongoing community engagement and transparency.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-24-minutes.txt)
 
@@ -55,6 +129,14 @@ The Mercer Island School District Board of Directors held a regular meeting on O
 Additionally, the Board approved revisions to Board Policy 3205 regarding sexual harassment of students, ensuring alignment with statutory language. The meeting included public input advocating against the repeal of the Climate Commitment Act, which some students argued impacts public school funding. The Board's discussions around facility improvements and educational strategies reflect ongoing efforts to address diversity and inclusion within the student population while ensuring safe and effective learning environments.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-10-24-minutes.txt)
+
+## 2024-10-22 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on October 22, 2024, included various agenda items focused on community engagement and school safety. Notably, the board approved multiple student travel requests for events such as the AWSL Middle Level Retreat and various wrestling tournaments, indicating an emphasis on student participation in extracurricular activities. A significant discussion point was the pertussis outbreak notification at EVHS, highlighting ongoing health and safety concerns within the school community. 
+
+Additionally, the board tabled the first reading of Board Policy 3242 - Closed Campus until the next meeting, suggesting a potential change in campus access regulations. The meeting also featured updates from Superintendent Brian Talbott regarding outdoor lighting adjustments at EVMS and ongoing facilities improvement efforts. These actions reflect the board's commitment to enhancing the school environment and responding to community needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-10-22-minutes.txt)
 
 ## 2024-10-17 - KALAMA_SCHOOL_DISTRICT (Minutes)
 
@@ -94,17 +176,35 @@ The Northshore School District Board of Directors convened a Study Session on Oc
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-14-minutes.txt)
 
+## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on October 14, 2024, where they discussed the 2025-2026 Budget Development. The session was attended by board members including Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Michael Tolley. The primary focus of the meeting was to review the budget planning process for the upcoming academic year, which is part of the district's long-term strategic plans. The session was called to order at 6:30 PM and adjourned at 7:34 PM, indicating a structured approach to managing the district's financial resources.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-14-minutes.txt)
+
 ## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors met on October 12, 2024, to discuss various topics related to district operations and strategic planning.  The meeting focused on reviewing the district's strategic priorities and key performance indicators, with a particular emphasis on multilingual language proficiency growth. Additionally, the board engaged in discussions regarding board development and effective governance practices. Superintendent David VanderYacht provided an update on the long-range capital facilities plan from June 2023, including information on impact fees.  The meeting concluded at 12:55 pm.
+The Lynden School District #504 held a board meeting on October 12, 2024, where key discussions centered on long-term strategic plans, specifically focusing on multilingual language proficiency growth as part of the district's strategic priorities. Superintendent David VanderYacht presented an update on the long-range capital facilities plan from June 2023, which included information regarding impact fees. The board also engaged in discussions about effective governance and board development, aiming to enhance their operational efficiency. The meeting concluded with a motion to adjourn made by Director Hickman at 12:55 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
+
+## 2024-10-08 - PULLMAN_SCHOOL_DISTRICT (Minutes)
+
+The Regular Council Meeting held on October 8, 2024, in Pullman, WA, addressed various community concerns and city business. Councilmember De Lira responded to accusations regarding her affiliation with the Palouse Democratic Socialites of America, emphasizing the need for respectful discourse on sensitive topics such as the Israeli-Palestinian conflict. The council discussed the importance of October as Domestic Violence Awareness Month and Fire Prevention Week, proclaiming October 6-12, 2024, with the theme "Smoke Alarms Make Them Work for You." The council also reviewed changes to Pullman City Code 11.28 concerning outdoor seating permits for businesses. Notably, the Mayor will now be responsible for final permit approvals instead of the City Engineer, the required deposit has been eliminated, and the permit fee schedule will be set by resolution, aiming to streamline the permitting process. Additionally, the council tabled two resolutions related to right-of-way permits to gather further input from downtown businesses and consider an appeal process.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-10-08-council-minutes.txt)
 
 ## 2024-10-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
 The regular meeting of the White Salmon Valley School District Board of Education on October 24, 2024, included significant updates and discussions on various topics. Superintendent Rich Polkinghorn reported on a decrease in Full-Time Equivalents (FTEs) but noted that overall enrollment exceeded projections. He highlighted the district's long-term strategic planning efforts, particularly in facilities planning led by the Construction Services Group (CSG), which will continue over the next 18 months. Additionally, several policies were presented for first reading, including updates to the High School Graduation Requirements (Policy 2410) and new policies addressing Pregnant and Parenting Students (Policy 3206) and Opioid Related Overdose Reversal (Policy 3424). The meeting also featured updates on community engagement efforts, such as the Grape Escape fundraiser organized by the White Salmon Valley Education Foundation (WSVEF) and the successful summer learning programs led by Rachel Suits.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-10-02-octoberdraftboard-minutes.txt)
+
+## 2024-10-01 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board held a special meeting focused on the Career and Technical Education (CTE) Department's Plan of Work for the upcoming school year. Mark Madison, the Director of STEM/Career & College Readiness, presented a report outlining the strategic initiatives and goals for the CTE program. The meeting was called to order by Director Katims at 5:00 PM and adjourned at 6:13 PM, with board members participating both in person and via phone. The session was part of the board's ongoing efforts to develop long-term strategic plans to enhance career and college readiness within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-10-01-minutes.txt)
 
 ## 2024-09-28 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
@@ -124,11 +224,43 @@ The Hood Canal School District Board of Education held a regular meeting on Sept
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-09-26-minutes.txt)
 
+## 2024-09-26 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board of Directors Meeting held on September 26, 2024, included discussions on various topics, particularly the Strategic Plan Presentation by Angel and Sandra, which focused on the ongoing work within the district regarding long-term strategic goals. The Board made several policy changes, including the tabling of Policy 2124 and Policy 6702, while also amending Policy 2023. The meeting recognized community engagement with public comments from community members and acknowledgments of staff contributions, including a recognition of Sandra Linde's years of service on the Sunnyside School Board. Additionally, Superintendent Maxwell reported on recent events, including partnerships and upcoming school activities, further emphasizing the Board's commitment to transparency and community involvement.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-09-26-minutes.txt)
+
 ## 2024-09-26 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Mercer Island School District Board of Directors held a regular meeting on September 26, 2024, where significant updates were discussed regarding Board Policy 3205, which addresses sexual harassment of students. This policy is being revised to comply with updated Title IX regulations, including changes to definitions of sex discrimination and hostile environments. Additionally, the Board reviewed the Long Range Facilities Plan, with an emphasis on preparing for a potential April 2025 bond. Executive Director Erin Battersby presented updates on staff evaluation practices under Board Policy 1800 OE-5, focusing on the adoption of the revised 2022 Danielson Framework. The Board also recognized various accomplishments related to sports and awareness months, including National Bullying Prevention Month, highlighting the district's commitment to fostering a safe and inclusive environment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-09-26-minutes.txt)
+
+## 2024-09-25 - COLVILLE_SCHOOL_DISTRICT (Minutes)
+
+The Colville School District Board of Directors held a regular meeting on September 25, 2024, where several policies were proposed for first reading. Among these were Policy 2410, which outlines High School Graduation Requirements, and Policy 3246, which addresses Restraint, Isolation, and Other Uses of Reasonable Force, both of which were approved for first reading unanimously. The meeting also featured a presentation by students from the Fish Hatchery program, highlighting their involvement in the Sherman Creek Fish Hatchery’s annual Water Festival, which emphasizes community engagement and experiential learning.
+
+Additionally, the report included updates on various educational programs, including the Developmental Preschool program, which provides early intervention support for children with significant developmental delays. The emphasis on safety was noted, particularly regarding a recent evacuation drill conducted at Colville Junior High School. The meeting concluded with the approval of the consent agenda, which included financial reports and personnel changes, indicating ongoing efforts to ensure effective management and support for special education needs within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-09-25-septemberregularboardmeeting-minutes.txt)
+
+## 2024-09-24 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board held a special meeting on September 24, 2024, where members Nancy Katims, Hawk Cramer, Thomas Garrard, and Carin Chase were present. The meeting commenced at 5:00 PM and included an executive session to discuss legal matters with legal counsel. The board adjourned the executive session and concluded the meeting at 6:00 PM. The minutes indicate that the meeting will be approved at a later date, specifically on October 8, 2024. There are no specific policy changes or resolutions mentioned in the text, nor any controversial content highlighted during this session.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-09-24-minutes.txt)
+
+## 2024-09-24 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on September 24, 2024, included discussions on several key topics, notably the approval of multiple donations to the East Valley School District, which totaled over $7,000 from various local organizations, including the EVHS Booster Club and Pryor's Rustic Restaurant. The board also approved a tunnel use agreement, reflecting ongoing community engagement and support for school activities. A significant point of discussion was the resignation of board member Laura Gates, who will be relocating from the district, prompting reflections on her contributions and the need for board continuity. The meeting also featured presentations from new administrators and updates on district initiatives, such as the upcoming Spokane County School Director's Association meeting and the EVHS Block Party/Open House. The board's decisions and discussions indicate a focus on maintaining ethical standards and transparency in their operations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-09-24-minutes.txt)
+
+## 2024-09-24 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
+
+The Board Work Session held on September 24, 2024, focused on several key areas including the discipline process for secondary schools, presented by principals Tyler Rice, Julie Perez, and Gabriel Darbyson. This discussion aimed to clarify the procedures and policies in place regarding student discipline. Additionally, the Board reviewed the September Consent and discussed the upcoming Regular Board Meeting Agenda set for September 26, 2024, which includes a Strategic Plan Presentation that was moved from this session. The Board also scheduled the October Board Meeting to coincide with the next Board Work Session on October 29, 2024. These actions reflect ongoing efforts to refine school discipline practices and enhance long-term strategic planning within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-09-24-minutes.txt)
 
 ## 2024-09-23 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
@@ -141,6 +273,18 @@ The Battle Ground Public Schools Board of Directors held a special meeting on Au
 The Northshore School District Board of Directors held a study session on September 23, 2024, where they reviewed the B's and R's (presumably referring to policies or resolutions) and discussed "Conversations With the Board" for the upcoming 2024-2025 school year. This indicates a focus on community engagement and feedback as the board seeks input from stakeholders. The session was attended by board members, including President Amy Cast and Superintendent Michael Tolley, who also serves as the Secretary to the Board. The meeting concluded with an adjournment at 6:43 PM, and the minutes were approved on October 14, 2024. The discussions may suggest ongoing policy changes and strategic planning efforts for the district's future.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-23-minutes.txt)
+
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Study Session on September 23, 2024, where they reviewed the B's and R's, indicating a focus on policy changes and governance matters for the upcoming school year. The meeting included discussions about "Conversations With the Board," which is likely aimed at enhancing community engagement and soliciting parental feedback regarding school policies and strategic plans. The session was attended by key district leaders, including Superintendent Michael Tolley, who is responsible for documenting the proceedings. The meeting was formally adjourned at 6:43 PM, and the minutes will be approved on October 14, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-23-minutes.txt)
+
+## 2024-09-17 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
+
+The Spokane Public Schools Board of Directors held a Special Meeting on September 17, 2024, to conduct interviews for two student advisor positions for the upcoming 2024-25 school year. This initiative highlights the board's commitment to student autonomy and engagement by involving students directly in the decision-making processes of the school district. The meeting commenced at 4:05 p.m. and concluded at 6:18 p.m., during which six students were interviewed for the positions, reflecting an effort to enhance community engagement and provide a platform for student voices in school governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-09-17-minutes.txt)
 
 ## 2024-09-12 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
@@ -166,11 +310,23 @@ The Bainbridge Island School District No. 303 held a special session on Septembe
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-09-12-minutes.txt)
 
+## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on September 11, 2024, where several policies were reviewed and approved. Notably, Procedure 2151P – Interscholastic Activities, and multiple Mastery-Based Credit policies (2402 for English Language Arts, 2403 for Math, 2404 for Science, and 2405 for Social Studies) were approved after their respective reviews, indicating a focus on enhancing academic standards and curriculum transparency. Additionally, the meeting included presentations on staffing and strategic plans, highlighting the district's commitment to community engagement and special education support, particularly through the recognition of the SLPC team at MP3. The board also discussed upcoming activities related to the NCTA Open Doors initiative and a November bond election, emphasizing long-term strategic planning.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
+
 ## 2024-09-11 - ELLENSBURG_SCHOOL_DISTRICT (Minutes)
 
 The ESD Board Study Session held on September 11, 2024, included discussions on mental health support for students, with presentations from Rhonda Schmidt, Melissa Wayman, and Tyler Douglass detailing available resources. The board also discussed a potential pilot program involving Yondr pouches to address cell phone policy, following a statement from Tosha Woods regarding a recent school shooting, which elicited strong opinions. Additionally, Superintendent Tornow provided an update on the strategic planning process, indicating the need for participant recruitment from all stakeholder groups, with meetings scheduled to start in October. The board passed a revised policy, Policy 3205, addressing sex discrimination and harassment of students, while also conducting a first reading of Policy 5011, which prohibits sex discrimination and harassment of district staff.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kittitas/school_boards/ellensburg_school_district/2024/2024-09-11-minutes.txt)
+
+## 2024-09-10 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on September 10, 2024, focused on the Start & End Times Committee, which presented its findings on potential changes to school start and end times. Dr. Miner and Dr. Schwab reported on the committee's work throughout the 2023-2024 school year and shared survey results gathered from families and staff regarding their preferences. The meeting emphasized the importance of community engagement and parental feedback in shaping school policies. Director Katims concluded the meeting at 5:46 PM, with a follow-up for approval scheduled on September 24, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-09-10-minutes.txt)
 
 ## 2024-09-09 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -196,15 +352,15 @@ The Tahoma School District No. 409 held a work study session on August 27, 2024,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-meetingwsfinal-minutes.txt)
 
+## 2024-08-27 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Regular Business Meeting held on August 27, 2024, included discussions on school safety, particularly regarding the reinstatement of school resource officers, as advocated by community members Jason Moore and Catherine Ward. They expressed concerns about student safety in restrooms and urged the board to reconsider the presence of resource officers. The board also approved an agreement with the Northwest School for Deaf and Hard-of-Hearing Children for special education services, highlighting their commitment to support diverse learning needs. Additionally, the board adopted the 2024-2029 Capital Facilities Plan, which includes resolutions for the replacement of College Place Elementary and Middle Schools, ensuring that attendance policies will not create or aggravate racial imbalance. The meeting also featured public comments emphasizing community engagement and the importance of addressing inequalities in educational opportunities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-08-27-minutes.txt)
+
 ## 2024-08-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District Board held a work session on August 26, 2024, to discuss the district's 5-year Strategic Plan and review 2023-2024 End-of-Year Reports & 2024-2025 School Improvement Plans. The discussion centered around several key areas:
-
-The district emphasized its commitment to high academic standards, evidenced by the adoption of a new middle and high school literacy curriculum and plans to review the K-5 curriculum.  There was also discussion about using data to inform instruction, transitioning from STAR to i-Ready assessments for better alignment with student achievement goals. The meeting highlighted ongoing improvements in Professional Learning Communities (PLCs) and the use of data to drive instructional decisions.
-
-The Board reviewed school improvement plans for each level, addressing attendance goals, literacy performance, and the impact of cell phone use on student focus.  Concerns were raised about the effectiveness of the Fountas & Pinnell literacy curriculum, prompting a discussion about finding a balance between phonics and whole language approaches. The meeting also touched upon the new Blaine High School Virtual Learning (BHSVL) program designed for students facing personal challenges who cannot attend in-person classes.
-
-The Board expressed appreciation for the dedicated team of administrators working towards continuous school improvement.  The formal approval of the 2024-2025 School Improvement Plans will take place at a subsequent regular board meeting.
+The Blaine School District No. 503 held a Board Work Session on August 26, 2024, where Superintendent Dr. Christopher Granger provided an update on the district's 5-year Strategic Plan, emphasizing the importance of Professional Learning Communities (PLCs) and fiscal responsibility. The district is transitioning from STAR to i-Ready assessments to better align with academic standards and improve student achievement. Campus administrators presented their 2023-2024 End-of-Year Reports and 2024-2025 School Improvement Plans (SIPs), highlighting efforts to ensure high-quality Tier 1 instruction and addressing challenges with the Fountas & Pinnell literacy curriculum. Director Galbraith raised concerns about literacy performance, suggesting the removal of the F&P curriculum from the SIP, while discussions included the need for a balanced approach to reading instruction. The meeting also covered updates on the Blaine High School Virtual Learning program, which aims to support students facing personal challenges. The board plans to take action on the approval of the SIPs at the next regular meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-08-26-minutes.txt)
 
@@ -214,17 +370,81 @@ The Northshore School District Board of Directors held a Study Session on August
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-26-minutes.txt)
 
+## 2024-08-22 - SELAH_SCHOOL_DISTRICT (Minutes)
+
+The Selah School District No. 119 Board of Directors held a meeting on August 22, 2024, where they recognized several achievements, including the announcement of award-winning students and staff. Key actions included the approval of the Human Resources Action Sheet, which involved a temporary hiring recommendation for a board member's spouse, and the adoption of several policy updates related to digital citizenship, physical education, and wellness. The board also discussed the upcoming school year, including plans for community engagement through superintendent Q&A sessions and the introduction of podcasts and videos to disseminate information. Dan Peters emphasized the need for the board to focus on long-term strategic plans, particularly regarding student safety, attendance, and data collection, suggesting that input from parents could help shape these discussions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-08-22-minutes.txt)
+
+## 2024-08-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on August 21, 2024, where significant discussions included the first reviews of several policies aimed at updating the curriculum standards for mastery-based credits in English Language Arts, Math, Science, and Social Studies. Assistant Superintendent Kurt Harvill presented these policies, which will be subject to a second review and potential approval at the next board meeting on September 11, 2024. Additionally, the board reviewed and adopted the Fiscal Year 2023-24 Budget Extension Resolution 10-24, which received no public comment. The meeting also included a presentation by Director of Maintenance and Facilities, Jay Yeager, on the 2024-25 Maintenance and Facilities Plan of Work, indicating ongoing strategic planning for the district's infrastructure. Notably, the board failed to approve Procedure 2151P regarding Interscholastic Activities, which suggests ongoing discussions and potential contention around this policy.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-08-21-augustboardmeeting-minutes.txt)
+
+## 2024-08-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on August 21, 2024, where several key policies and plans were discussed. The board reviewed and approved the Fiscal Year 2023-24 Budget Extension Resolution 10-24, which had no public comments. Additionally, the board presented multiple policies for first review, including Policy and Procedure 2402 – English Language Arts Master-Based Credit, Policy and Procedure 2403 – Math Mastery-Based Credit, Policy and Procedure 2404 – Science Mastery-Based Credit, Policy and Procedure 2405 – Social Studies-Mastery Based Credit, and Policy 2413 – Equivalency Credit Opportunities, all scheduled for a second review and approval at the upcoming September 11, 2024, meeting. Furthermore, the Director of Maintenance and Facilities, Jay Yeager, presented the 2024-25 Maintenance and Facilities Plan of Work, outlining staffing, upcoming projects, and strategic plans for the district's facilities. The meeting concluded without any public comments, indicating a lack of community engagement on the discussed topics.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-08-21-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Marty Gray](board_member_334.md) | voted no on motion to approve Procedure 2025 | Procedure 2025 was not further described in the meeting minutes provided. |
+
 ## 2024-08-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Board of Directors convened a Special Meeting for a Board Retreat on August 19, 2024, at Pop Keeney Stadium, focusing on planning and self-assessment. The meeting was called to order at 4:30 PM and adjourned at 7:52 PM. Present at the meeting were board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The primary purpose of the retreat was to engage in discussions related to long-term strategic planning for the board's objectives and operations. The minutes were generated by Peggy King and approved on August 26, 2024, by Mr. Michael Tolley and Amy Cast.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-19-minutes.txt)
 
+## 2024-08-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Board of Directors held a special retreat on August 19, 2024, at Pop Keeney Stadium, focusing on planning and self-assessment as part of their long-term strategic plans. The meeting was attended by board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast, the President, along with Mr. Michael Tolley, the Superintendent. The session commenced at 4:30 PM and concluded at 7:52 PM. The retreat's purpose was to facilitate discussions aimed at improving the board's effectiveness and future direction, although specific policies or resolutions were not detailed in the minutes. The meeting was officially adjourned, and the minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-19-minutes.txt)
+
+## 2024-08-19 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Arlington Public Schools Board of Directors held an all-day workshop on August 19, 2024, focusing on community engagement and the theme of "All Belong and Learn" for the upcoming 2024-25 school year. Superintendent Sweeting led discussions on the district's vision, emphasizing diversity and inclusion in educational practices. The workshop included activities aimed at fostering team building and collective leadership, such as a Four Corners activity and a Tapestry Project that visually represented the board's commitment to effective leadership and support for student learning. Additionally, the board reviewed survey results from families, students, and staff, which will inform their long-term strategic plans and adjustments to Board-Superintendent Goals and Professional Development Plans for the coming year. The meeting concluded with a review of the Public Disclosure Commission's guidelines regarding school election campaigns.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-08-19-minutes.txt)
+
+## 2024-08-13 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting, held on August 13, 2024, focused on a retreat agenda that included discussions on long-term strategic planning. Key agenda items reviewed by the board included Board Goals, Board Norms & Participation Protocol, Data Reports & Superintendent Communication, Study Session Planning, Legislative Advocacy Planning, and a Board of Distinction Discussion. No votes were taken during the meeting, indicating a focus on collaborative planning rather than immediate decision-making. The meeting was called to order by Director Katims at 8:43 am and adjourned at 3:12 pm, with attendance from Directors Katims, Chase, and Cramer, while Director Smith was absent.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-08-13-minutes.txt)
+
+## 2024-08-12 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Arlington Public Schools Board of Directors held a regular meeting on August 12, 2024, where they approved the 2024-25 Annual Budget (Resolution 24-11) after a public hearing led by President Levesque. The budget was presented by Gina Zeutenhorst, Executive Director of Financial Services, who also provided financial highlights from the current budget. The Board welcomed newly appointed members Nicole Watts and Student Advisor Deja Reed, and approved various policies, including the second readings of Board Policies 5005 (Employment and Volunteers) and 5401 (Sick Leave), which were adopted without revisions. Director Kelly highlighted concerns regarding Special Education funding and the need for a revised funding model, indicating ongoing challenges in meeting the district's financial requirements. The meeting also emphasized community engagement, with announcements of upcoming events such as open houses and a resource fair aimed at connecting families with district resources.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-08-12-minutes.txt)
+
 ## 2024-08-08 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
 The Hood Canal School District Board of Education held a study session on August 8, 2024, where key topics included an update on the Kindergarten Playground and discussions regarding the Capital Projects Levy Planning and a Request for Architectural Services. The board members, including Vice-Chair Annie Robbins and Paul Thompson, approved the agenda unanimously. During the meeting, Ms. Robbins recognized Melanie Lankford for her efforts in updating the library, highlighting community engagement and support for school resources. The meeting concluded with a discussion of future board meeting dates, indicating ongoing long-term strategic planning within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-08-08-minutes.txt)
+
+## 2024-08-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on August 8, 2024, at Pop Keeney Stadium to attend the Back to School Resource Fair. The meeting commenced at 4:00 PM and was attended by board members Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast, who serves as the President. The event focused on community engagement by providing resources for families as they prepare for the upcoming school year. The meeting was adjourned at 5:30 PM, and the minutes were generated by Peggy King on August 20, 2024. The minutes were later approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-08-minutes.txt)
 
 ## 2024-08-07 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
 
@@ -240,6 +460,18 @@ Additionally, the board approved the 2024-2025 State Transitional Bilingual Inst
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-08-02-augustdraftboard-minutes.txt)
 
+## 2024-07-29 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting on July 29, 2024, included a public hearing led by Sylvia Bazan, Director of Fiscal Services, regarding the 2024-25 District Budget and 4-Year Plan, which is required by OSPI and legislative action. The budget discussions involved detailed explanations of proposed expenditures and revenues across various fund categories, including General, Capital Projects, Debt Service, ASB, and Transportation. The meeting also highlighted the implementation of new policies, such as the requirement for school board meetings to be recorded as per the revised RCW 42.30.030. Superintendent Kelly Garza reported on community engagement initiatives, including the District's participation in the National Night Out event, and the Yakama Tribal Council's backpack giveaway for Native American students. The Board discussed topics for the upcoming Board of Distinction application, focusing on successful educational programs and district stability during financial hardships.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-07-29-julyregularmeeting-minutes.txt)
+
+## 2024-07-29 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on July 29, 2024, addressed significant topics including the 2024-25 District Budget and 4-Year Plan, presented by Sylvia Bazan, Director of Fiscal Services. This public hearing was mandated by the Office of Superintendent of Public Instruction (OSPI) and legislative actions, focusing on budget expenditures across various funds. The Board discussed enrollment projections and the General Fund's 4-year budget plan. Superintendent Kelly Garza noted a revision to RCW 42.30.030, which now requires school board meetings to be recorded, reflecting a policy change aimed at enhancing transparency. The meeting also highlighted community engagement initiatives, including the District’s participation in the National Night Out event and a backpack giveaway for Native American students organized by the Yakama Tribal Council. The Board aims to apply for the Board of Distinction, seeking input on topics to emphasize, which includes successful programs and district stability during financial challenges.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-07-29-minutes.txt)
+
 ## 2024-07-25 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Bainbridge Island School District No. 303 held a regular school board meeting on July 25, 2024, where several significant actions were taken. Among these was the unanimous approval of the Long-Range Strategic Facilities and Sustainability Framework Update, which includes planning for a bond/levy to address the findings and conclusions of the report. Additionally, the board approved Policy 3520 regarding Student Fees, Fines, and Charges during its first reading, indicating a potential change in how the district manages these financial aspects. The meeting also included a donation from the Bainbridge Schools Foundation, and the board unanimously approved the 2024-2025 Fee Schedule. These actions reflect the district's ongoing commitment to strategic planning and policy development to enhance educational offerings and financial management.
@@ -252,11 +484,29 @@ The Bainbridge Island School District No. 303 held a regular school board meetin
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-07-25-minutes.txt)
 
+## 2024-07-24 - COLVILLE_SCHOOL_DISTRICT (Minutes)
+
+The Colville School District Board of Directors held a regular meeting on July 24, 2024, where several significant policy changes were discussed and approved. Notably, Policy 2440 on Student Recognition was reinstated, and Policy 5001 regarding the Hiring of Retired School Employees was revised. The board also approved Resolution No. 23/24-13, which addresses Title IX Regulations Supporting Fairness in Competition and Student Safety, and Resolution No. 23/24-14 for a lighting electrical grant for the Colville High School football field. During the meeting, Chris Long, the CEA President, publicly thanked the Board for the teacher salary increase for the 2024-2025 school year, highlighting the importance of teacher support in the district. Additionally, the board discussed changes to the Graduation with Honors requirements, implementing a new selection process for Valedictorian and Salutatorian starting with the class of 2028, which will now consider GPA, number of Honors/AP courses, and SAT scores in case of ties. The meeting emphasized community engagement, as public comments were welcomed, and the board expressed its commitment to involving citizens in educational discussions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-07-24-julyregularboardmeeting-minutes.txt)
+
+## 2024-07-24 - COLVILLE_SCHOOL_DISTRICT (Minutes)
+
+The special meeting of the Colville School District Board of Directors on July 24, 2024, focused on the adoption of budget extensions for the 2023-2024 and 2024-2025 fiscal years. Superintendent Kevin Knight presented a PowerPoint detailing the 2023-2024 Capital Projects Fund Budget Extension, which was approved through Resolution No. 23/24-11 with a unanimous vote. The meeting also included a presentation on the proposed budget for 2024-2025, covering various aspects such as enrollment, staffing, and funding assumptions. The board subsequently adopted the 2024-2025 budget through Resolution No. 23/24-12, also passing unanimously. These actions reflect ongoing strategic planning and adjustments in the district’s financial management.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-07-24-julyspecialboardmeeting-minutes.txt)
+
 ## 2024-07-23 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
 The Federal Way Public School District Board of Education held a regular meeting on July 23, 2024, where several resolutions were approved, reflecting significant policy changes and long-term strategic plans. Notably, the board approved Resolution 2024-06, which pertains to the FWPS 2025 Capital Facilities Plan, along with related resolutions (2024-07 for the City of Federal Way, 2024-08 for the City of Auburn, 2024-09 for the City of Kent, and 2024-10 for King County). These resolutions aim to address future capital projects and infrastructure needs. Additionally, the board approved Resolution 2024-05, which authorizes an agreement and special use permit for the dedication of property to the City of Federal Way, necessary for the development of Illahee Middle School. The meeting also included a presentation on the Capital Facilities Plan by Dr. Dani Pfeiffer, Superintendent, highlighting the district's ongoing commitment to strategic planning for future educational facilities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-07-23-minutes.txt)
+
+## 2024-07-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a special board meeting on July 23, 2024, to review the draft budget for the 2024-2025 fiscal year, which includes discussions on various funds such as the General Fund, ASB Fund, Debt Service Fund, and Capital Projects Fund. Financial Consultant Amber Porter presented the budget, emphasizing the need for ongoing updates due to potential changes before the final adoption deadline of August 31. The board discussed the implications of staffing reductions and the impact of declining enrollment trends since the 2019-2020 school year, highlighting concerns over maintaining program funding and the necessity for long-term strategic planning to address potential budget shortfalls. Additionally, the district is facing challenges related to the transition to electric buses and the need for improved infrastructure to support this mandate.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-23-minutes.txt)
 
 ## 2024-07-23 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
 
@@ -266,7 +516,7 @@ The Wahluke School District held a Special Board Meeting on July 23, 2024, where
 
 ## 2024-07-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions on procedural matters and future planning.  The board clarified the protocol for handling inquiries, establishing a chain of command that routes questions through the board president to the superintendent. They also discussed implementing live streaming for meetings to enhance public access, while noting that recordings wouldn't be retained due to permanence concerns. The cost of setting up live streaming is estimated at $10,000 and will be covered by the current year's budget.  The board scheduled a special meeting on July 23, 2024, to discuss the proposed budget for the 2024-2025 fiscal year. A work session and regular board meeting are planned for August 26, 2024, with agenda items including financial reports, superintendent updates, a public hearing on the budget, consideration of budget adoption, school improvement plans, and policy updates.
+The Blaine School District No. 503 held a regular board meeting on July 22, 2024, where several key topics were discussed, including the Superintendent's report on community engagement during the 4th of July booth and the potential impacts of reduced Title I funding on programming. The board approved various items on the consent agenda, including the 2023-2025 Collective Bargaining Agreements with both the Blaine Education Association and SEIU Local 925, as well as updates to Policies 2190 and 5005. A significant point of contention arose regarding Policy 5251, which addresses conflicts of interest for teachers providing for-profit tutoring services to Blaine students; the board ultimately voted 3-2 to retain the existing policy language, despite discussions on potentially adopting WSSDA's model policy. The board also discussed future agenda items, including a public hearing on the 2024-2025 budget and the need for a resolution concerning fairness in competition and student safety related to Title IX regulations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-22-minutes.txt)
 
@@ -300,6 +550,44 @@ The Bremerton School District Board of Directors held a regular meeting on July 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-07-11-minutes.txt)
 
+## 2024-07-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a special school board meeting on July 10, 2024, where several key actions took place. The board approved the 2024-25 MSD Board Meeting Plan of Work Calendar following a second review, with a motion made by Jarrod Karuza and seconded by Jana Haugen, passing with a vote of 4-0. Additionally, the board reviewed Procedure 2151P – Interscholastic Activities, which will be subject to a second review and potential approval at the upcoming July 23, 2024, meeting. Furthermore, the board approved the MHS LOSS Drain Field Repair Contract, presented by Director of Facilities and Maintenance Jay Yeager, with a motion made by Jana Haugen and seconded by Michelle Simmons, also passing 4-0.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-10-julyboardmeeting-minutes.txt)
+
+## 2024-07-10 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
+
+The Spokane Public Schools Board of Directors held a Special Meeting on July 10, 2024, where they reviewed the results of their self-assessment and discussed their goals for the 2024-25 school year, focusing on enhancing school-board ethics and accountability. The board engaged in discussions regarding monitoring educational equity, referencing key ideas from the book "Monitoring Educational Equity," which likely addresses systemic issues and initiatives aimed at ensuring fair educational opportunities for all students. Additionally, Superintendent Swinyard led a discussion on priority strategies for the upcoming school year, indicating a commitment to long-term strategic planning that includes addressing racial equity among other critical areas. The meeting concluded with adjournment at 4:45 pm.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-07-10-minutes.txt)
+
+## 2024-07-09 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 held a budget work session on July 9, 2024, focusing on the current financial situation and challenges, particularly in relation to special education support. Assistant Superintendent of Finance, Jake Kuper, provided an overview of the financial impact stemming from a Reduction in Force (RIF) announced on March 25, 2024, which has led to challenges such as federal revenue decline, exceeding special education costs, and enrollment trends affecting the budget forecast. The session also included recommendations for the upcoming fiscal year aimed at stabilizing budgets, including an open enrollment marketing campaign. The board expressed concerns about having adequate time to review budget materials before key upcoming deadlines, such as the preliminary budget public hearing on July 30 and budget adoption on August 20. The meeting emphasized the need for community engagement strategies, although this topic was not fully addressed. Additionally, there was a motion to enter executive session to discuss potential litigation and the performance of a public employee, reflecting ongoing governance challenges.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-07-09-minutes.txt)
+
+## 2024-07-02 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District Board of Directors held two significant meetings in July 2024, focusing on budgetary concerns and special education services. During the Special Board Meeting on July 9, the board discussed the current financial situation, including the impact of a Reduction in Force (RIF) and ongoing budget challenges, particularly in special education. Superintendent Dr. Trevor Greene emphasized the need for effective systems to support special education students and outlined strategies for community engagement and long-term financial planning. 
+
+In the Business Board Meeting on July 30, a public hearing was held regarding the Preliminary Budget for 2024-25, which was projected to have a $3 million deficit. Assistant Superintendent Jake Kuper advised against approving the budget in its current form and committed to presenting a balanced budget for approval at the next meeting. The board also reviewed a Special Education Services report that highlighted compliance and inclusion efforts for diverse learners, with plans to improve IEP compliance and support services. No executive session was needed during the business meeting, and various consent agenda items were approved, including personnel actions and budget status reports.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-07-02-actionletterforjulymeeting-minutes.txt)
+
+## 2024-06-28 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The special meeting of the Board of Directors, held on June 28, 2024, focused on establishing priorities for the 2024-2025 school year across various departments, including safety and security, equity, and community engagement. Tavis Peterson, the Assistant Superintendent, emphasized the importance of safety and security measures, while discussions also highlighted the need for ongoing community engagement and the promotion of racial equity within the district. Superintendent Kelly Garza presented goals aimed at enhancing student achievement and operational management, with a specific emphasis on expanding Career and Technical Education (CTE) programs. The board decided to postpone the evaluation of their governance and goal-setting until a future meeting for further review of the WSSDA Self-Assessment results. No significant policy changes were noted during the meeting, but the focus on long-term strategic planning indicates an intent to address critical areas of concern within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-28-junespecialmeeting-minutes.txt)
+
+## 2024-06-28 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The special meeting of the Board of Directors, held on June 28, 2024, focused on establishing priorities for the 2024-2025 school year, with significant emphasis on safety and security, community engagement, and racial equity. Tavis Peterson, the Assistant Superintendent, presented on safety and security measures, while discussions also highlighted the importance of equity and student success. The Board reviewed the WSSDA Self-Assessment results but postponed the evaluation and goal-setting process for a future meeting. Superintendent Kelly Garza outlined goals for student achievement and operations, including a directive to expand Career and Technical Education (CTE) programs. The meeting concluded with the Board's consensus on the Superintendent's goals, reflecting a commitment to long-term strategic planning in these areas.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-28-minutes.txt)
+
 ## 2024-06-27 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
 The Battle Ground Public Schools Board of Directors held a special meeting on June 27, 2024, focusing on significant policy discussions and long-term strategic planning. Superintendent Denny Waters recommended running a levy in the February 2025 election, which indicates a proactive approach to securing funding for school initiatives. Additionally, the board engaged with presentations from David Kennedy, Lynnell Murry, and Tamra Scheetz, who discussed concepts from "The Governance Core," highlighting the importance of governance in educational improvement. The meeting concluded with discussions that appear to reflect a commitment to community engagement and strategic planning for the district's future.
@@ -317,6 +605,26 @@ The Battle Ground Public Schools Board of Directors held a special meeting on Ju
 The Kent School District No. 415 held a special meeting on June 26, 2024, focusing on work session #3 of 4 regarding the 2024-2025 Budget and discussions surrounding the 2024 Capital Projects and Technology Replacement Levy. The meeting was called to order by President Meghin Margel at 4:30 p.m. and included a roll call where Vice President Farah was noted as absent/excused. The meeting concluded at 6:00 p.m. with no specific policy changes or resolutions mentioned during this session, but the discussions were part of the district's long-term strategic planning efforts to address budgetary needs and capital projects. The presence of the Board Secretary and Superintendent Vela indicates an emphasis on community engagement in the decision-making process.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-26-boardspecialmeetingworksession-minutes.txt)
+
+## 2024-06-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on June 26, 2024, addressed several key topics, including the approval of the 2023-2024 Capital Projects Budget Extension, presented by Sylvia Bazan, which aimed to incorporate revenue from the sale of WHS bonds and other expenditures. Superintendent Kelly Garza reported on the Equitable Continuous Growth Plan, which outlines the district's focus areas for the next four years, and emphasized community engagement in the data-gathering process. The meeting also included discussions on the recommendation to purchase handheld radio infrastructure to improve communication across the district, which will be funded through ESSER. The Board approved several resolutions, including the 2024-2028 Equitable Continuous Growth Plan and a revised policy on Automated External Defibrillators (AED). Additionally, the Board engaged in discussions regarding construction projects and potential grant funding for a new well at Wapato High School.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-26-juneregularmeeting-minutes.txt)
+
+## 2024-06-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on June 26, 2024, included key discussions and approvals related to the District's long-term strategic plans, particularly the 2024-2028 Equitable Continuous Growth Plan, which outlines the District's focus areas for the next four years. Superintendent Kelly Garza presented this plan, emphasizing the importance of community engagement in gathering input and data for its development. The Board also approved the 2023-24 Resolution No. 13, which pertains to the Capital Projects Fund Budget Extension, allowing for the inclusion of revenue from the sale of WHS bonds.
+
+Additionally, the District's recommendation to purchase handheld radio infrastructure was discussed, aimed at improving communication across schools and ensuring safety, particularly for transportation needs. This project is to be funded through ESSER resources. The meeting concluded with a positive report on the Transportation department's performance, having passed fleet inspections for two consecutive years, highlighting the District's commitment to school safety.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-26-minutes.txt)
+
+## 2024-06-25 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on June 25, 2024, included discussions on various topics significant to the school district. Notably, Superintendent Brian Talbott reported on vandalism at Trentwood Elementary, which resulted in the closure of the playground, highlighting ongoing concerns related to school safety. Additionally, the board received updates on the Initiative for Student Wellness (ISW), which aims to improve mental health among students, as presented by Amanda Kirkpatrick, Hannah Hirshfield, and Chrystal Gaunt. The board also addressed policy changes, including the approval of the 26/27 CCS calendar and the renewal of the WIAA Membership, which underscores the district's commitment to maintaining community engagement through sports and extracurricular activities. Furthermore, the board discussed the new student handbook language from OSPI regarding harassment, intimidation, and bullying (HIB), indicating a focus on enhancing policies related to student welfare and safety.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-25-minutes.txt)
 
 ## 2024-06-24 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
 
@@ -340,11 +648,23 @@ The Bremerton School District Board of Directors held a regular meeting on June 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-06-20-minutes.txt)
 
+## 2024-06-20 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District's Board of Directors held a special meeting on June 20, 2024, at the Northshore Concert Hall to attend the Northshore Learning Options Graduation. The meeting commenced at 6:00 PM and was adjourned at 7:00 PM. Present at the meeting were board members Sandy Hayes, Jacqueline McGourty, Hân Trần, Elisabeth Sotak, and Amy Cast, who serves as President, along with Superintendent Mr. Michael Tolley. The agenda primarily focused on the graduation event, highlighting the board's engagement with the Northshore Learning Options program, which typically serves students with diverse educational needs. The meeting was officially documented and approved on July 8, 2024, with Mr. Michael Tolley acting as Secretary to the Board and Sandy Hayes as Vice President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-20-minutes.txt)
+
 ## 2024-06-17 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
 The School Board Special Meeting held on June 17, 2024, focused on the review and adoption of a Strategic Plan aimed at enhancing academic, social, and lifelong learning. The plan was adopted following a motion by Board Member Erika Cox, which was seconded by Tracey Malone, and received unanimous support from the attending members. The meeting also included the appointment of a new District Director II Board Member, Matthew McBride, who replaces Erika Cox after a roll call vote. The meeting concluded with an executive session, highlighting the board's commitment to governance and strategic planning for the school district's future.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-minutes.txt)
+
+## 2024-06-17 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting at Pop Keeney Stadium on June 17, 2024, to attend the North Creek High School Graduation. The meeting commenced at 6:00 PM and was attended by Board members including President Amy Cast and Superintendent Mr. Michael Tolley. The meeting concluded at 7:37 PM and was subsequently approved on July 8, 2024, by Mr. Tolley and Vice President Sandy Hayes. The focus of the meeting was primarily on the graduation event, with no specific policy discussions or changes noted in the minutes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-17-minutes.txt)
 
 ## 2024-06-13 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
@@ -360,9 +680,15 @@ The Hood Canal School District Board of Education held a study session on June 1
 
 ## 2024-06-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Mountainview Learning Center School Board held a meeting on June 11, 2024, to discuss the District 2024 budget.  The budget presentation highlighted the alignment of financial priorities with the new Strategic Plan's Focuses and Foundations. These focuses included Safety and Belonging, Early Learning (Birth - Grade 3), Mastery of Standards, and Future Ready. The Foundations outlined key operational principles such as Engaging and Effective Teaching and Learning Systems, Authentic and Meaningful Engagement with Students, Family and Community, Advancing Excellence: Strategic Operations and Resource Management, and Dynamic Systems for Hiring and Retention.  The meeting also included a brief Executive Session to discuss a real estate matter.
+The meeting focused on the District 2024 Budget, presented by Mr. Deebach and Finance Director Holly Graham, emphasizing its alignment with the new Strategic Plan's Focuses and Foundations. The Focuses include Safety and Belonging, Early Learning (Birth - Grade 3), Mastery of Standards, and Future Ready initiatives, while the Foundations encompass Engaging and Effective Teaching and Learning Systems, Authentic and Meaningful Engagement with Students, Families, and Community, and Dynamic Systems for Hiring and Retention. Additionally, an executive session was held to discuss a real estate matter, indicating ongoing strategic planning and resource management efforts within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
+
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 11, 2024, to attend the Adult Transition Pathways Celebration, highlighting the district's commitment to special education support. The meeting commenced at 6:00 PM and was attended by key figures including Amy Cast, the President of the Board, and Superintendent Mr. Michael Tolley. The event focused on celebrating the achievements and transitions of students in special education programs, reflecting the district's engagement with the community and its dedication to fostering pathways for adult transition. The meeting concluded at 7:00 PM, emphasizing the importance of community involvement in supporting special education initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-11-minutes.txt)
 
 ## 2024-06-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
@@ -370,11 +696,44 @@ The White Salmon Valley School District Board of Education held a meeting on Jun
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-06-02-junedraftboard-minutes.txt)
 
+## 2024-05-28 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board held a special meeting on May 28, 2024, at the Educational Service Center in Lynnwood, WA, where Directors Katims, Chase, Smith, and Cramer were present. The meeting began at 5:00 PM and immediately transitioned into an Executive Session focused on evaluating the performance of a public employee. The Executive Session lasted until approximately 6:15 PM, when Director Katims adjourned both the session and the special meeting. No specific policies, resolutions, or changes to policies were discussed during this meeting. 
+
+school-board-ethics
+policy-changes
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-05-28-minutes.txt)
+
+## 2024-05-28 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on May 28, 2024, included a public comment segment where Todd Gropp expressed concerns regarding fairness in relation to transgender athletes. This topic aligns with ongoing discussions about inclusivity and equity in school sports. The board also approved revisions to Board Policy 4060 - Distribution of Information, indicating a commitment to updating policies related to information dissemination. Additionally, Tammy Campbell from The Scholar First unveiled the 2024-2030 Strategic Plan, reflecting the district's long-term strategic planning efforts aimed at improving educational outcomes and addressing community needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-28-minutes.txt)
+
 ## 2024-05-28 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
 The Bremerton School District Board of Directors held a special board meeting on May 28, 2024, to review the final draft of their Strategic Plan, presented by Performance Fact. The board discussed two documents: a public-facing 4-page plan and a comprehensive full plan. Feedback included a request to simplify the Theory of Action, which was noted as confusing. The board also suggested minor formatting changes. Plans for the launch of the Strategic Plan were discussed, including the possibility of a mailer and a "roadshow" where Superintendent Dr. James Crawford would present the plan to various community groups, emphasizing community engagement in the implementation of the strategic initiatives. The meeting was adjourned at 7:00 p.m., with minutes scheduled for approval at the upcoming board meeting on June 6, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-05-28-minutes.txt)
+
+## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Closed Executive Session on May 28, 2024, at 4:00 PM to review the performance of an employee, as permitted under RCW 42.30.110(g). The session lasted for 45 minutes, after which the meeting was adjourned. The attendance included board members Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast, along with Superintendent Mr. Michael Tolley. No specific policy changes or resolutions were discussed during this session, but the focus on employee performance indicates ongoing assessments of staff within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-28-minutes.txt)
+
+## 2024-05-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a Community Linkage Special Meeting on May 22, 2024, focusing on the Bellingham Family Partnership Program (BFPP). Attendees included parents/guardians, school staff, and board directors, as well as Superintendent Greg Baker and various district leadership members. The meeting aimed to gather feedback from families about their experiences with BFPP, highlighting its strengths, areas for improvement, and how it aligns with the district's strategic plan, "The Bellingham Promise." Participants expressed a strong sense of community, valued the program's flexibility, and noted the need for high school options and additional services. The feedback emphasized the importance of partnerships between families and the school, with families appreciating the support and resources available at BFPP.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-22-minutes.txt)
+
+## 2024-05-22 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held its regular school board meeting on May 22, 2024, where significant policy changes and strategic plans were discussed. The Board approved several resolutions, including Resolution 04-24, which authorizes the commitment of funds in the General Fund for curriculum materials, and the Lead Water Action Plan, both passing with a 4-0 vote. Additionally, the Board reviewed multiple policies for a first reading, including Policy 4500 on Unmanned Aircraft Systems (Drones) and Policy and Procedure 6700 on Nutrition, which will be brought back for approval in the next meeting. The meeting also included a report on the strategic plan's progress, focusing on areas of goal setting and data progress, presented by Teaching and Learning Director Adrienne Somera and Communications Director Lisa Gilchrist.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-05-22-mayboardmeeting-minutes.txt)
 
 ## 2024-05-16 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
@@ -388,11 +747,23 @@ The Bainbridge Island School District No. 303 held a special session/retreat sch
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-05-16-draft-minutes.txt)
 
+## 2024-05-14 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on May 14, 2024, focused on the district's multilingual education program, presented by Director of Multilingual Education, Nichole Rodriguez. The report included demographic data and student performance metrics related to language development, as well as WIDA testing data. This session emphasized the importance of diversity and inclusion within the educational framework, showcasing the district's commitment to supporting students from various linguistic backgrounds. The meeting was attended by board members Deborah Kilgore, Carin Chase, Nancy Katims, Keith Smith, and Hawk Cramer, and concluded with an adjournment at 6:07 PM.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-05-14-minutes.txt)
+
 ## 2024-05-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a study session on May 13, 2024, at the Administrative Center Board Room, focusing on future Board advocacy. Key attendees included President Amy Cast, Superintendent Mr. Michael Tolley, and board members Elisabeth Sotak, Hân Trần (remote), and Sandy Hayes. The session was called to order at 5:20 PM and adjourned at 6:20 PM. Discussions centered on long-term strategic plans and potential policy changes aimed at enhancing community engagement. The details of specific policies or resolutions were not disclosed in the minutes. The session reflects the Board's ongoing efforts to align its advocacy with the needs of the community and its educational goals.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-13-minutes.txt)
+
+## 2024-05-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on May 13, 2024, where they focused on future Board advocacy, indicating a commitment to long-term strategic planning. The session was attended by key members including President Amy Cast and Superintendent Michael Tolley, who contributed to the discussions. The meeting was called to order at 5:20 PM and adjourned at 6:20 PM, emphasizing the Board's engagement in policy changes and community involvement. The specifics of the advocacy discussions were not detailed in the minutes, but the emphasis on future planning suggests a proactive approach to addressing community needs and educational goals.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-13-minutes.txt)
 
 ## 2024-05-09 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
@@ -412,6 +783,12 @@ The Board Work Session held on May 9, 2024, included discussions on several key 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kittitas/school_boards/ellensburg_school_district/2024/2024-05-09-minutes.txt)
 
+## 2024-05-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on May 8, 2024, where several significant policy changes were discussed and approved. The Board adopted Policy and Procedure 4001 - Public Information Program, Policy and Procedure 4040 - Public Access to District Records, and Policy and Procedure 4060 - Distribution of Information, all with unanimous votes of 4-0. These policies aim to enhance transparency and accessibility of information within the district. Additionally, the Board reviewed the GCU Universal Field Placement Agreement, the Board Resolution 04-24 authorizing the commitment of funds for curriculum materials, and a Lead Water Action Plan, which will be brought back for further review in the next meeting. The meeting also featured student recognitions and a presentation on the IRE fifth-grade team's writing program, showcasing community engagement and academic initiatives within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-05-08-mayboardmeeting-minutes.txt)
+
 ## 2024-05-08 - ELLENSBURG_SCHOOL_DISTRICT (Minutes)
 
 The study session held on May 8, 2024, included multiple consent agenda items, all of which were approved without opposition. These included several out-of-state travel requests for staff members, specifically Taylor Wilson, Neil Musser, Hope Isitt, Stephanie Harwood, and Sia Aronica. The meeting also featured presentations from EHS Computer Science students on the use of Artificial Intelligence in education, as well as a discussion led by Principal Beau Snow regarding staff training aimed at improving school climate. 
@@ -420,11 +797,29 @@ Additionally, Superintendent Tornow introduced various strategic planning propos
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kittitas/school_boards/ellensburg_school_district/2024/2024-05-08-minutes.txt)
 
+## 2024-05-08 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
+
+The Spokane Public Schools Board of Directors held a regular meeting on May 8, 2024, where they discussed various topics including community engagement and bullying prevention. Cherie Hemlick addressed the board regarding bullying, highlighting concerns within the school environment. The board also engaged in discussions about budget priorities for the 2024-2025 school year, particularly in relation to middle school transportation services and a proposed pilot program for middle school tackle football, which was supported by high school football coaches citing benefits such as individual development and community building. The board ultimately agreed to support the pilot program, indicating a commitment to enhancing student activities and athletics. Additionally, the board reviewed and adopted the 2024-25 schedule for regular meetings, demonstrating ongoing efforts to maintain transparency and community involvement in school governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-05-08-minutes.txt)
+
+## 2024-05-07 - PULLMAN_SCHOOL_DISTRICT (Minutes)
+
+The City of Pullman held a special meeting on May 7, 2024, to discuss goal setting for the city council. Mayor Francis Benjamin led the meeting, summarizing previous discussions from a council retreat and reviewing community goal suggestions collected during an open house. The council identified several long-term strategic plans, including goals related to bypass development, housing, repurposing railways, forming partnerships, and promoting tourism. Additionally, potential two-year goals were established, focusing on staff support, community engagement, economic development, and supporting regional efforts that impact Pullman. The meeting was adjourned at 9:19 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-05-07-council-minutes.txt)
+
 ## 2024-05-02 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The May 2, 2024, Regular Business Meeting of the Board of Directors included significant discussions and decisions regarding policy changes and strategic planning. The Board approved the agenda with an amendment to remove an Executive Session originally scheduled for later in the evening. They unanimously passed two resolutions: Resolution 2024-03, which pertains to the General Fund Extension, and Resolution 2024-04, concerning the Capital Fund Transfer, both receiving unanimous approval. The meeting also addressed long-term strategic planning, specifically the 2024-2029 Strategic Plan, indicating a focus on future goals and objectives for the district. Additionally, the Board approved an amended summer board meeting schedule, reflecting adjustments in their planning and operational strategies.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-05-02-minutes.txt)
+
+## 2024-04-30 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
+
+The Special Board Meeting held on April 30, 2024, focused on the discussion of the Strategic Plan, which is a long-term strategic initiative for the Board. The meeting included a closed session that addressed collective bargaining sessions and grievance meetings related to labor agreements. The Board members present included Jilliann Patterson, Stephen Berg, Linda Roberts, and Jory Anderson. The meeting was called to order by Director Berg at 5:00 PM, following a motion to approve the meeting agenda which carried unanimously. The Board adjourned the meeting at 9:00 PM after discussing the Strategic Plan and taking various motions that were also passed unanimously.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-30-minutes.txt)
 
 ## 2024-04-29 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
 
@@ -432,11 +827,25 @@ A special meeting of the Oak Harbor Public Schools Board of Directors took place
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/2024-04-29-specialboardmeeting-minutes.txt)
 
+## 2024-04-27 - PULLMAN_SCHOOL_DISTRICT (Minutes)
+
+The City Council of Pullman convened a special meeting on April 27, 2024, to engage in goal setting for the upcoming two-year period. Mayor Francis Benjamin outlined the importance of establishing goals that align with the city’s strategic plans, emphasizing that these goals would inform the city budget process and direct staff efforts. The Council reviewed previous goals from 2022-2023, identifying completed and ongoing priorities. They also considered community feedback, which included 33 goals submitted by residents and 100 recommended at a Council open house, alongside 58 staff-recommended goals. The Council agreed to reconvene on May 7, 2024, to finalize their goals and priorities for 2024-2025, indicating a commitment to ongoing community engagement in the planning process.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-04-27-council-minutes.txt)
+
 ## 2024-04-24 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors convened a special meeting on April 24, 2024, primarily focused on the second work session for the 2024-2025 budget, which is part of a series of four sessions. The meeting was called to order by President Meghin Margel and included a roll call where all members except Director Song were present. The meeting lasted approximately one hour and concluded with the adjournment at 6:01 p.m. This session is part of the district's long-term strategic planning process to address budgetary needs for the upcoming school year. No specific policy changes or resolutions were detailed in the meeting notes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-04-24-boardspecialmeeting-minutes.txt)
+
+## 2024-04-24 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
+
+The Spokane Public Schools Board of Directors held a Regular Meeting on April 24, 2024, where they discussed various topics including community engagement and budget development for the upcoming school year. During the meeting, Kimberly Draper raised concerns regarding the process for changing teachers in elementary schools. The Board approved several items in the consent agenda, including HR nominations and resolutions related to the completion of the 2024 School Facility Study and the Shaw Middle School Replacement Project. 
+
+Additionally, the Board engaged in discussions about the budget priorities for the 2024-2025 school year, with a focus on middle school transportation, language immersion program locations, and technology device models. The Spokane Language Immersion program is proposed to move to the Pratt location to better support its growth and community engagement. Superintendent Dr. Adam Swinyard also discussed plans for a 4-year equity resolution and celebration event, indicating a commitment to long-term strategic planning and community involvement. The Board expressed unanimous support for Dr. Swinyard's potential teaching position at WSU, highlighting their collaborative approach to leadership and education.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-04-24-minutes.txt)
 
 ## 2024-04-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
@@ -450,6 +859,24 @@ The Bremerton School District Board of Directors held a special meeting on April
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-04-23-minutes.txt)
 
+## 2024-04-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on April 23, 2024, for a school visit to Canyon Park Middle School as part of their Strategic Action Plan. The meeting commenced at 9:00 AM and was attended by board members including President Amy Cast and Superintendent Michael Tolley, among others. The primary focus of this meeting was to engage with the school community and assess the implementation of long-term strategic plans. The meeting concluded at 11:00 AM, and the minutes were generated on May 6, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-04-23-minutes.txt)
+
+## 2024-04-22 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Arlington Public Schools Board of Directors held a study session and regular meeting on April 22, 2024, where they discussed several important topics. The Board reviewed the strategic goals and district norms, focusing on long-term plans for post-middle school education, including contingency planning and levy projections. Superintendent Sweeting presented updates on the District Improvement Plan, emphasizing community engagement through discussions with cabinet members. The Board approved Resolution 24-03, which outlines a plan for approximately $2.8 million in reductions to the educational program for the 2024-25 fiscal year due to insufficient financial resources. Additionally, revisions to Board Policy 1400 regarding meeting conduct were presented for first reading, aiming to include a study session in July and a full-day workshop in August. The Board also adopted revisions to Policy 3420 concerning anaphylaxis prevention and response.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-04-22-minutes.txt)
+
+## 2024-04-22 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Business Board Meeting on April 22, 2024, highlighted several key initiatives and updates. Principal Cheryl Jordan of Roosevelt Elementary presented the school's strategic goals, emphasizing diversity and inclusion by stating that every student is born to be 100% successful at school. The goals include developing a strong foundation in early years, empowering students to be resilient and engaged, and ensuring equitable opportunities for core mastery and critical thinking. Community engagement was evident through programs like family game nights and guest speakers, which aim to enhance student attendance, currently at 93%. Superintendent Greene addressed the recall process for employees and commended student fellows for their contributions to the Student Voice Policy, underscoring the district's commitment to long-term strategic planning in educational development.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-04-22-minutes.txt)
+
 ## 2024-04-17 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on April 17, 2024, primarily focused on the Board/Superintendent Governance Team retreat. Key topics included the roles and responsibilities of the Board and Superintendent, emphasizing confidentiality, fiduciary duties, and disclosure. The session also covered communication and operating protocols, distinguishing between policy and protocols, and the implications of the Open Public Meetings Act (OPMA). A significant discussion point was the need for a "Success Protocol," which aimed to identify the requirements for the governance team to be effective, highlighting the importance of research into best practices for positively impacting student outcomes. The meeting included presentations from legal counsel Curtis Leonard and WSSDA retreat facilitator Amy Cast, indicating a structured approach to governance and strategic planning within the district.
@@ -458,7 +885,7 @@ The Kent School District No. 415 held a special meeting on April 17, 2024, prima
 
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys. They also discussed the strategic planning process and timeline for updating the district's Strategic Plan and Priorities. Additionally, the board reviewed the results of a self-assessment conducted by WSSDA (Washington State School Directors' Association) and discussed ways to improve responsible governance and effective board leadership. Finally, the board discussed the process for developing board meeting agendas and reviewed relevant policies.
+The Lynden School District #504 board meeting held on April 13, 2024, focused on several key areas, including a review of the district's strategic planning process and the development of long-term strategic plans to enhance student outcomes. The board discussed the results of their self-assessment conducted by the Washington State School Directors' Association (WSSDA) and explored ways to improve governance and leadership for better student results. Additionally, they reviewed Key Performance Indicators related to academic performance and engagement, such as 3rd Grade Reading and Graduation Rates. The agenda also included discussions on the process for developing board meeting agendas and a review of the board handbook and Policy 1220. No specific policy changes were reported during this meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-minutes.txt)
 
@@ -481,6 +908,40 @@ The Hood Canal School District Board of Education held a study session on April 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-04-11-minutes.txt)
 
+## 2024-04-09 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on April 9, 2024, focused on a midyear data review presented by Lisa Gonzalez, Helen Joung, and Superintendent Rebecca Miner. The meeting aimed to discuss data pertinent to the current school year, specifically in relation to the school board's strategic plan and annual goals. This session provided insights into the progress and effectiveness of educational strategies being implemented. Director Nancy Katims called the meeting to order at 5:00 PM and adjourned it at 6:35 PM, indicating a structured review of the district's performance against established benchmarks.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-04-09-minutes.txt)
+
+## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+
+The Lynden School District Board of Directors held a meeting on April 4, 2024, where they discussed several key topics including the approval of Resolution #04-24 for General Obligation Bonds, which will be placed on the ballot for the August special election. This bond aims to address ongoing facility needs, particularly in elementary schools, and is proposed at a cost of $1.36 per $1,000 of assessed value. The board also reviewed multiple proposed amendments and new positions for submission to the Washington State School Directors' Association (WSSDA), including amendments on Local Board Adoption of Core Instructional Materials and Local Control, both of which were approved unanimously. Notably, the board did not carry motions regarding the WSSDA Equity Statement and Diversity proposals, indicating potential divisions on these issues. Community members expressed their support for the bond and emphasized the urgency of addressing facility needs. The board is also considering the implications of school impact fees, with further discussions planned for future meetings.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second. Motion not carried. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No second. Motion not ca...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
+
 ## 2024-04-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
 The regular meeting of the White Salmon Valley School District Board of Education on April 25, 2024, included a range of updates and discussions relevant to the district's operations and policies. Superintendent Rich Polkinghorn reported on the successful waiver of two excess snow closure days and the pilot implementation of a Flexi-Schedule at Columbia High School. The board reviewed several updated policies, including 2022 on Electronic Resources and Internet Safety, and new policies like 2124 on Physical Education and Health Class. Additionally, the board addressed the Standard Response Protocols, which outline emergency operations and provide a uniform approach to safety across the district. The meeting also highlighted community engagement efforts, such as the upcoming Health and Wellness Fair and Art Walk, scheduled for May 18, 2024. The board adopted a number of policy changes, including the retirement of policy 4000 and the introduction of new policies aimed at improving district communication and operations.
@@ -492,6 +953,12 @@ The regular meeting of the White Salmon Valley School District Board of Educatio
 The Study Session of the Board of Education for the White Salmon Valley School District was convened to discuss the ongoing Strategic Planning process. Superintendent Rich Polkinghorn presented an overview of the session's objectives, detailing the progress and timeline of the Strategic Planning efforts. Six proposed goals were introduced, with a particular emphasis on clarifying the objectives and actions associated with each goal. The Board engaged in discussions focusing on the development of objectives for the financial goal, which included oversight of the budget and a contingency plan aimed at stabilizing the budget amid anticipated declining enrollment. The session concluded with Board Chair Laurie Stanton adjourning the meeting at 6:58 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-04-02-aprilstudysessiondraft-minutes.txt)
+
+## 2024-04-02 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District Board of Directors held two meetings in April 2024, focusing on several key issues, including the approval of the April 2024 Board Meeting Minutes and discussions surrounding policies and community engagement. Notably, the Board approved the 0580 Student Voice Policy, which includes 17 action items aimed at enhancing student involvement, but this was referred back to the superintendent's office for further review due to concerns about its implications for building budgets and staff. Additionally, the Board recognized Mental Health Week, emphasizing the importance of mental health initiatives within the district. Superintendent Dr. Trevor Greene highlighted the district's commitment to long-term strategic plans, including increasing student engagement and support systems, such as the before and after-school programs and the recent success of the high school music programs. Community engagement was further demonstrated through public comments regarding the Reduction in Force topic, showcasing the Board's responsiveness to community concerns.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-04-02-actionletterforaprilmeeting-minutes.txt)
 
 ## 2024-03-28 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
@@ -511,17 +978,23 @@ The Kent School District No. 415 Board of Directors held a special meeting on Ma
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-27-boardspecialmeetingworksession-minutes.txt)
 
+## 2024-03-26 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Regular Business Meeting held on March 26, 2024, included discussions on various topics, notably school safety and community engagement. Public comments highlighted concerns about maintaining safety and security roles within schools, emphasizing the importance of the Dean of Students position. Several speakers advocated for the retention of the 5th and 6th grade band and orchestra programs despite budget constraints, reflecting community engagement in educational offerings. The board approved multiple resolutions, including Resolution #24-05 for the sale of $200,000,000 in Unlimited Tax General Obligation Bonds, and various waivers regarding staff schedules and procedures at Meadowdale Middle School. These actions indicate ongoing policy changes aimed at addressing financial and operational needs within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-03-26-minutes.txt)
+
 ## 2024-03-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a community linkage meeting focused on gathering feedback about Career and Technical Education (CTE) programs.  The meeting aimed to understand the strengths and areas for improvement within the CTE offerings, aligning them with the district's long-term strategic plan, "The Bellingham Promise." Parents, students, community members, and school staff participated in discussions, highlighting the value of hands-on learning, strong tech offerings, and diverse pathways. Suggestions for improvement included expanding agriculture programs, strengthening connections with local industries, particularly in healthcare, and exploring opportunities for grant writing to enhance CTE resources. The board expressed appreciation for the valuable input received, emphasizing its commitment to representing community needs and expectations.
+The Bellingham School District Board of Directors held a Community Linkage special meeting on March 26, 2024, focused on Career and Technical Education (CTE) programs. The meeting included participation from high school students, parents, community members, and district staff, with a goal to gather feedback on the current CTE offerings and their alignment with the district's strategic plan, The Bellingham Promise. Key discussion points included the strengths of hands-on learning and strong technology offerings, as well as areas for improvement such as increasing agricultural programs and expanding opportunities for middle school students. Attendees expressed a desire for enhanced collaboration with local industries and other school districts to better meet workforce needs. The insights gathered will inform future decisions made by the school board, emphasizing the importance of community engagement in shaping educational programs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-26-minutes.txt)
 
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting minutes detail discussions on various topics. A mental health update was presented, covering the role of the Mental Health Coordinator, a summary of the Healthy Youth Survey, and the Gaggle electronic safety management system. Concerns regarding school safety at Lynden High School (LHS), particularly the numerous points of entry, were raised by a community member.
+The Lynden School District Board of Directors convened on March 21, 2024, where they addressed several key issues including mental health support and school safety. Tim Metz, Director of Student Services, and Jordan Feigel, Mental Health Coordinator, provided an update on mental health initiatives, including insights from a recent healthy youth survey. The board also discussed safety concerns related to the high number of entry points at Lynden High School, emphasizing the urgency of addressing these issues in relation to a potential bond resolution. 
 
-The board reviewed updated academic standards reflected in Policy 5005- Employment and Volunteers, which was approved. Discussions also centered around long-term strategic plans, including capital facilities planning and the possibility of putting a bond back out to vote. The board aimed to finalize a timeline for the bond resolution by their April 18th meeting. Community engagement was evident through presentations from representatives of Schooley Mitchell and discussions regarding retiree celebrations initiated by a board member.
+The board reviewed and approved Policy 5005 regarding Employment and Volunteers, indicating a change in the district's approach to staffing and volunteer management. Additionally, they engaged in discussions around long-term facilities planning, including the potential for a bond vote and the need to modify project scopes based on updated financial analyses. The board intends to further discuss these matters in a workshop scheduled for April 4, 2024, with a goal of voting on a bond resolution on April 18, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
 
@@ -545,6 +1018,18 @@ The Bremerton School District Board of Directors held a regular meeting on March
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-03-21-minutes.txt)
 
+## 2024-03-19 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on March 19, 2024, included discussions on the district's fund balance policy (6022- Minimum Fund Balance) and the results of the Balancing Act survey, which gathered budget feedback from the community. Executive Director of Business & Finance, Lydia Sellie, presented the survey data and addressed questions from the board. Additionally, Assistant Superintendent Helen Joung provided insights on monitoring Key Progress Indicators from the district's Strategic Plan, indicating a focus on long-term strategic planning. The meeting concluded with the board planning to continue discussions on these topics in an upcoming study session, reflecting an ongoing engagement with community feedback and strategic policy development.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-03-19-minutes.txt)
+
+## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 18, 2024, where key topics discussed included the development of a pool, the Portrait/Profile of Graduate, and the implications of artificial intelligence in education. The meeting also focused on data management and strategic planning for the future of the district. The discussions reflect a commitment to enhancing educational offerings and addressing contemporary challenges within the school system. The meeting concluded at 7:58 PM, and the minutes were generated by Mr. Michael Tolley, the Superintendent, and approved by Amy Cast, the President of the Board.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
+
 ## 2024-03-15 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The Lake Washington Board of Directors held an Extended Study Session from March 15-17, 2024, in Cle Elum, WA, addressing several key topics. Among the discussions were updates on OE-3 and OE-9 policies, which relate to organizational effectiveness and operational expectations. The board also reviewed enrollment projections and legislative changes as part of their 2024-45 budget planning, indicating a focus on long-term strategic plans for the district's financial and operational health. Additionally, the board discussed community engagement through board participation in local events, highlighting the importance of connecting with the community. The session concluded with plans to approve the minutes at the upcoming board meeting on March 25, 2024.
@@ -562,6 +1047,12 @@ The Hood Canal School District Board of Education held a study session on March 
 The Kent School District No. 415 Board of Directors convened a special meeting on March 13, 2024, at 5:00 p.m. to conduct a work session focused on Budget Work Session #1 of 4 for the FY 2025 Budget Cycle. The meeting was attended by President Meghin Margel, Directors Awale Farah, Tim Clark, Andy Song, and Donald Cook, as well as Superintendent Israel Vela. The session was primarily dedicated to discussing the budget planning process for the upcoming fiscal year. The meeting was adjourned at 5:58 p.m. without any specific policy changes or controversial content mentioned during the session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-13-boardspecialmeetingworksession-minutes.txt)
+
+## 2024-03-12 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The special meeting held on March 12, 2024, focused on the development of a new mission statement for the school board. The meeting commenced at 6:03 PM and included the recitation of the Pledge of Allegiance and a Land Acknowledgment. Board members present included Kevin Erickson, Steve Childs, Peggy Uppiano, and Nancy Button. The primary agenda item was the discussion regarding the mission statement, which signifies a potential policy change aimed at clarifying the board's objectives and values. The meeting concluded with adjournment at 6:32 PM, indicating a structured approach to community engagement and long-term strategic planning within the board's operations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-03-12-minutes.txt)
 
 ## 2024-03-11 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
@@ -581,11 +1072,29 @@ The Northshore School District Board of Directors convened a Study Session on Ma
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-minutes.txt)
 
+## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a study session on March 11, 2024, at 5:30 PM to discuss the development of the 2024-2025 budget. The meeting was attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley. The primary focus of the session was on reviewing information pertinent to the upcoming budget, which is crucial for the district's long-term strategic planning. The session was formally called to order at 7:00 PM and concluded at 7:50 PM, indicating a structured approach to budget discussions. The minutes from this session were approved on March 25, 2024, by Mr. Michael Tolley, Secretary to the Board, and President Amy Cast, reflecting adherence to procedural protocols in the board's operations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-11-minutes.txt)
+
+## 2024-03-11 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Arlington Public Schools Board of Directors held a regular meeting on March 11, 2024, where they recognized the contributions of Education Support Professionals and highlighted student projects from Eagle Creek Elementary. Superintendent Dr. Chrys Sweeting expressed gratitude towards classified staff and presented an acrostic poem to honor them, while also providing cookies as a token of appreciation. The board approved the agenda, minutes from the previous meeting, and a consent agenda that included personnel and payroll reports. Additionally, they discussed and approved an amendment to the Fee Schedule for 2024 Summer School Tuition. The meeting also included a presentation on best teaching practices and collective efficacy from Kari Henderson-Burke, emphasizing collaboration and goal consensus across the district. The board plans to reconvene for their next meeting on March 25, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-03-11-minutes.txt)
+
 ## 2024-03-07 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The March 7, 2024 Regular Business Meeting of the Board of Directors included several significant actions and discussions. Notably, the board approved Resolution 2024-02, which pertains to the final acceptance of the Pac West Mechanical Elementary Boiler Replacements. Additionally, the board approved the 2024 Board Liaisons and appointed Directors Bloch and Aras as liaisons to Bellevue City Council, with an amendment to include all cities and councils within the Bellevue School District. The meeting also featured the swearing-in of new District 3 Board Director Cindy Rogan and a review of the annual plan progress report focusing on literacy, biliteracy, and mathematics. These actions reflect ongoing efforts to enhance community engagement and implement long-term strategic plans within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-03-07-minutes.txt)
+
+## 2024-02-29 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board of Directors Meeting held on February 29, 2024, included several key actions and recognitions relevant to the Sunnyside School District's strategic initiatives. The board recognized the achievements of the Sunnyside High School Boys and Girls Wrestling teams and the Cheer team, fostering community engagement. Superintendent Maxwell provided an update on district events and strategic plan items, indicating ongoing efforts to align school operations with long-term goals. The board approved the Perkins Grant, a snow makeup day on April 26, 2024, and the selection of a new copier company, all of which reflect policy changes aimed at improving resource management and educational support. Additionally, the consent agenda included approvals related to minutes from previous meetings, policies, payroll, budget status, personnel, and enrollment, demonstrating the board's commitment to transparency and efficient governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-02-29-minutes.txt)
 
 ## 2024-02-28 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -593,17 +1102,51 @@ The Kent School District No. 415 held a special meeting on February 28, 2024, at
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-boardspecialmeetingworksession-minutes.txt)
 
+## 2024-02-28 - COLVILLE_SCHOOL_DISTRICT (Minutes)
+
+The Colville School District held a special meeting on February 28, 2024, to interview and appoint a new Board Director for District #3, following the vacancy left by Joseph Schweitzer. The meeting commenced with President Joe Fazzari calling it to order at 5:00 PM, followed by the Pledge of Allegiance. The sole candidate interviewed was Brianne Zier, who responded to various questions posed by the board members. After the interview, the board entered an executive session at 5:30 PM to evaluate her qualifications, reconvening at 5:40 PM. 
+
+Subsequently, a roll call vote was conducted to appoint Brianne Zier as the new Director of District #3, resulting in a unanimous decision with a 3-0 vote in favor. The meeting concluded with a motion to adjourn at 5:44 PM, indicating a successful engagement in the community's governance process through the appointment of a new board member.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-02-28-februaryspecialboardmeeting-minutes.txt)
+
+## 2024-02-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting held on February 27, 2024, included discussions and actions on several policy changes and initiatives. Notably, revisions were adopted for Policies 3418, 3419, and 3420, which pertain to responses to student injury or illness, self-administration of asthma and anaphylaxis medications, and anaphylaxis prevention and response, respectively. Additionally, the board discussed the implementation of anti-bullying policies and procedures as part of their commitment to student health and safety. The board also emphasized long-term strategic planning, including the development of a robust meeting calendar and the creation of a student advisory council to enhance community engagement and representation. Dr. Dominguez, the Superintendent, provided updates on various initiatives, including the passing of a levy proposition and the importance of budget preparation in alignment with the district's strategic goals.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-02-27-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Kevin Erickson](board_member_320.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Steve Childs](board_member_322.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Peggy Uppiano](board_member_321.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Antonio Machado](board_member_324.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Nancy Button](board_member_323.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+
 ## 2024-02-27 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a Special Meeting on February 27, 2024, at Fernwood Elementary School, focusing on the Strategic Action Plan. The meeting commenced at 10:00 AM and was attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley. The purpose of the visit was to engage with the school community and assess the implementation of long-term strategic plans. The meeting concluded at 12:00 PM, and the minutes were approved on March 11, 2024, by Mr. Michael Tolley as Secretary to the Board and President Amy Cast.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-27-minutes.txt)
 
+## 2024-02-27 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on February 27, 2024, to conduct a school visit at Fernwood Elementary as part of their Strategic Action Plan. The meeting, which commenced at 10:00 AM and adjourned at 12:00 PM, included attendance from board members and the superintendent, Mr. Michael Tolley. The focus of the visit aligns with the district's long-term strategic plans aimed at enhancing community engagement within the educational framework. No specific policy changes or resolutions were discussed during this meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-27-minutes.txt)
+
+## 2024-02-26 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Arlington Public Schools Board of Directors held a study session and regular meeting on February 26, 2024. During the study session, Superintendent Sweeting provided an overview of the learning outcomes and activities, focusing on the mid-year review of the District's Strategic Goals 1 through 4. In the regular meeting, Director Sheri Kelly reported on legislative developments, including SB 5462, which mandates the adoption of diverse and inclusive instructional materials in Washington schools. The board also discussed proposed legislation to lift the Special Education Cap to 17.25% and initiatives to increase paraeducator wages. Additionally, the board adopted Board Policy 5280 regarding Separation from Employment during the meeting. The upcoming performances of the musical "Footloose" and a Cultural Night at Arlington High School were also highlighted.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-02-26-minutes.txt)
+
 ## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This document details the Bellingham School Board's monitoring response to policy EL-9.1, "Facility Improvement or Development Involving Bond Measure Proposal." The board commends the superintendent for robust long-term facilities planning that incorporates diverse community voices and aligns with the district's commitment to equity as outlined in "The Bellingham Promise."  
-
-The board recommends deleting the first line of section 1 of the EL-9.1 policy, which mandated informing the board about the formation of a facilities and bond planning task force through the consent agenda. This change suggests a desire for more transparent and direct communication regarding bond proposals. The document also highlights the superintendent's success in seeking balanced input from staff, parents, and community stakeholders during the planning process.
+The Bellingham School District Board of Directors held a regular meeting on February 22, 2024, where several significant actions and discussions took place. The board approved various consent agenda items, including resolutions for the transfer of funds and a declaration of an emergency regarding water damage repairs at Sehome High School. Notably, the board discussed and approved monitoring response documents for policies EL-7 (Budget Planning and Execution), EL-9 (Asset Maintenance and Protection), and EL-9.1 (Facility Improvement or Development Involving Bond Measure Proposal), highlighting the superintendent's compliance and progress in these areas. A change was proposed to Policy EL-9.1 to remove the phrase "through the consent agenda," indicating a move towards more direct communication regarding facilities and bond planning. The meeting also featured community engagement, with audience members sharing insights on Career Technical Education (CTE) and technology access for students. The board expressed gratitude for community support following the recent passage of two levies, which are crucial for funding the district's budget.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-22-minutes.txt)
 
@@ -627,7 +1170,7 @@ Additionally, several policies were reviewed, including the first readings of Po
 
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail discussions on various topics, including legislative advocacy, board meeting logistics and communication improvements. Director Hickman emphasized the importance of community engagement regarding local control bills and shared information about an upcoming town hall meeting with local legislators. Superintendent VanderYacht highlighted the need for transparency in discussing board positions on specific bills and suggested focusing on policy content before addressing writing conventions. The board also discussed incorporating particular details and action items into meeting minutes, following Robert's Rules of Order.  Additional topics included post-Bond Planning Task Force needs such as impact fees, playground and technology upgrades, and construction delivery methods. The board expressed interest in revisiting Key Performance Indicators in greater depth and discussed the legalities of individual board members expressing personal opinions on social media regarding ballot initiatives and legislative bills.
+The Lynden School District #504 board meeting on February 15, 2024, addressed significant community concerns regarding a bond proposal for school safety and infrastructure that failed to pass in the recent election, receiving only 50.98% approval. Community members emphasized the urgent need for the bond to be presented again, highlighting safety and security as critical deficiencies in education. Superintendent David VanderYacht acknowledged the results and encouraged the board to develop a plan for potentially resubmitting the bond with adjustments. The meeting also included discussions on nursing services within the district, focusing on the responsibilities of school nurses and the mental health aspects of their roles, with plans for policy updates. The board scheduled a special meeting for February 20, 2024, to further discuss the bond issue and include public comments.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
 
@@ -652,11 +1195,9 @@ On February 14, 2024, the Board of Directors of Kent School District No. 415 con
 
 ## 2024-02-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The meeting minutes detail various community development projects and infrastructure improvements planned or underway in the city. These include street and sidewalk upgrades, a roundabout construction at Benson Rd/Badger Rd intersection, and the development of Benson Park with restoration of the Heusinkvelt Barn.  The Jim Kaemingk Trail is also under development.
+The Lynden School District #504 board meeting held on February 8, 2024, focused on several key areas, including long-term strategic planning for district facilities and school safety. Superintendent David VanderYacht provided updates on the district's facilities planning committees and the bond and levy funding initiatives set for the upcoming special election on February 13. He also discussed capacity and projected enrollment, emphasizing the need for future projects to accommodate increased student numbers due to local developments, such as the construction of 1,400-1,600 homes in the Pepin Creek area. 
 
-The discussion also touched upon interagency emergency planning and response, highlighting the school district's Safety & Security Task Force implementation of the "I Love You Guys" emergency planning program. Collaboration with local law enforcement agencies for emergency response planning was suggested. The city and school board expressed interest in annual meetings to foster ongoing communication and collaboration.
-
-Additionally, potential uses for Benson Park were discussed, including a proposal from Brent DeRuyter to develop it as a regional park site.  The possibility of a splash park and an outdoor pavilion at Glenning Park to support performing arts were also mentioned.
+The meeting included discussions on the district's partnership with Inspire Development Center, which plans to build a new facility at Isom Elementary, and the ongoing efforts to improve safety protocols through the "I Love You Guys" emergency planning program. Additionally, city personnel engaged in discussions about community projects, including the development of Benson Park and other infrastructure improvements, highlighting the importance of collaboration between the school district and city officials to address the needs of early learners, senior citizens, and homeless students in the community.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-08-minutes.txt)
 
@@ -679,11 +1220,29 @@ The Bainbridge Island School District No. 303 held a regular school board meetin
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-02-08-minutes.txt)
 
+## 2024-02-06 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting, held on February 6, 2024, focused on the budgeting process for the 2024-2025 school year. Lydia Sellie, the Executive Director of Business & Finance, provided updates regarding the budget, indicating ongoing discussions and planning for financial allocations. The meeting, which was called to order by Director Nancy Katims at 5:00 PM and adjourned at 6:09 PM, is part of the board's long-term strategic planning efforts to ensure fiscal responsibility and transparency. The meeting minutes will be presented for approval on February 27, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-02-06-minutes.txt)
+
 ## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors held a special meeting on February 3rd, 2024.  The meeting focused on team building exercises and establishing procedures for board meetings, including agenda item submission and policy review. Discussions also centered around legislative engagement, specifically advocating for local control in education. The board addressed district priorities and governance, touching upon standards, measures, goals, and the strategic planning process. No specific policies were mentioned by name during this meeting.
+The Lynden School District Board of Directors held a special meeting on February 3, 2024, focused on several key areas including board functions, legislative engagement, and district priorities. The board discussed the logistics of placing items on meeting agendas and emphasized the importance of transparency with the community. They also reviewed the current legislative session and the need for advocating local control. A significant portion of the meeting was dedicated to discussing standards, measures, and goals as part of the district's long-term strategic planning process. Director Tonya Hickman led the meeting and motioned to adjourn at 12:30 pm, with Superintendent David VanderYacht in attendance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
+
+## 2024-02-02 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District Board of Directors held two meetings in February 2024, focusing on various initiatives and updates. Notably, the board recognized the importance of community engagement by honoring the National PTA's 127 years of service and expressing appreciation for all PTA Booster parents. Superintendent Dr. Trevor Greene highlighted the district's strategic goals, emphasizing the ongoing efforts to improve student attendance and retention, particularly through programs like RISE (Relationships, Integrity, Success, Empathy) at Stanton Academy. The board also discussed the importance of addressing special education needs, approving an agreement with The Stepping Stones Group LLC for $590,000 to provide necessary services. Additionally, the board moved to adopt a long-term strategic plan that aligns with their overarching goals, ensuring that all proposals and initiatives support the district's mission of fostering an inclusive and supportive educational environment for all students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-02-02-actionletterforfebmeeting-minutes.txt)
+
+## 2024-02-01 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on February 1, 2024, focused on key governance topics, including the role of the school board, board norms and protocols, and the public comment process. The meeting also addressed the meeting schedule for the 2024-2025 school year, indicating a commitment to long-term strategic planning. The board engaged in discussions aimed at enhancing community engagement and improving board operations. Additionally, an executive session was conducted to evaluate the performance of a public employee, reflecting the board's adherence to school board ethics and performance evaluation practices. The meeting was called to order by Director Nancy Katims and concluded with adjournment at 8:21 PM.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-02-01-minutes.txt)
 
 ## 2024-01-31 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -696,6 +1255,24 @@ The Kent School District No. 415 held a special meeting on January 31, 2024, foc
 The Northshore School District Board of Directors held a special meeting on January 30, 2024, at Bothell High School as part of their Strategic Action Plan School Visit. The meeting commenced at 9:00 AM and was attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley. The focus of the visit was to engage with the school community and assess the implementation of long-term strategic plans aimed at improving educational outcomes. The meeting was adjourned at 11:00 AM, and the minutes were approved on February 12, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-30-minutes.txt)
+
+## 2024-01-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting on January 30, 2024, for a strategic action plan school visit at Bothell High School. The meeting, which commenced at 9:00 AM and concluded at 11:00 AM, included attendance from board members Elisabeth Sotak, Hân Trần, and President Amy Cast, alongside Superintendent Mr. Michael Tolley. The primary focus of the meeting was the strategic action plan, indicating an emphasis on long-term planning and community engagement within the school district. The meeting minutes were generated by Peggy King and approved on February 12, 2024, with Mr. Michael Tolley serving as Secretary to the Board.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-30-minutes.txt)
+
+## 2024-01-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on January 29, 2024, to participate in the Legislative Day On the Hill in Olympia, Washington. The meeting commenced at 9:00 AM and was attended by board members including President Amy Cast, Elisabeth Sotak, Hân Trần, Jacqueline McGourty, and Sandy Hayes. The meeting concluded at 5:00 PM. No specific policies, resolutions, or unusual content were highlighted in the minutes, indicating a focus on legislative engagement rather than internal policy changes or controversies. The minutes were generated by Peggy King and approved by Mr. Michael Tolley, the Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-29-minutes.txt)
+
+## 2024-01-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on January 28, 2024, to attend a Legislative Conference at Sound Sound Community College. The meeting commenced at 1:00 PM and was attended by Board members Sandy Hayes, Jacqueline McGourty, and Amy Cast, who serves as the President. The meeting was adjourned at 6:00 PM. This gathering reflects the Board's engagement with legislative issues that may affect the district, highlighting their commitment to community engagement and responsiveness to policy changes. The minutes were generated by Peggy King and were approved on February 12, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-28-minutes.txt)
 
 ## 2024-01-25 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
@@ -727,6 +1304,12 @@ The Northshore School District Board of Directors convened a Special Meeting on 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-23-minutes.txt)
 
+## 2024-01-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 23, 2024, at Arrowhead Elementary School as part of their Strategic Action Plan School Visit. The meeting commenced at 10:00 AM and concluded at 12:00 PM, with all board members in attendance, including President Amy Cast and Superintendent Mr. Michael Tolley. The focus of the meeting was on engaging with the school community and assessing the implementation of long-term strategic plans related to educational development. No specific policy changes or controversial issues were noted during this meeting. The minutes were generated by Peggy King and were approved on February 12, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-23-minutes.txt)
+
 ## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
 The special meeting held on January 22, 2024, at the Lewisville Campus focused on the School Improvement Plans for the 2023-24 academic year, presented by administrators from Prairie High School and River HomeLink. Key presenters included Shelly Whitten, Deputy Superintendent, and David Kennedy, Executive Director of School Improvement, among others. The meeting emphasized the importance of continuous school improvement planning, which is mandated by WAC 180-16-220, requiring annual Board approval of each school's plan. This process involves active participation from building staff, students, parents, and community members, and aims to be data-driven to enhance student achievement.
@@ -735,9 +1318,17 @@ The School Improvement Plans are designed to ensure high levels of student perfo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-specialmeeting-minutes.txt)
 
+## 2024-01-22 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Arlington Public Schools Board of Directors held a study session and regular meeting on January 22, 2024, where they discussed several key topics. Notably, revisions to the Strategic Plan were proposed by Superintendent Dr. Chrys Sweeting, aimed at enhancing the district's long-term strategic goals. The Board also approved the Transportation Support in Time of Emergency Memorandum of Agreement, a joint initiative among multiple school districts to provide transportation assistance during emergencies. Another significant resolution was the adoption of Resolution 24-02 Interfund Loan, which allows for an interfund loan from the Capital Projects Fund to the General Fund, detailing the repayment process and interest calculations. Additionally, the meeting featured community engagement through recognition activities for School Board Recognition Month, including performances by Arlington High School's choral group and a video from Haller Middle School's Leadership Class.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-01-22-minutes.txt)
+
 ## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-This text focuses on a school board's review of a report detailing progress towards the district's long-term facilities plan. The plan is explicitly designed to prioritize equity and align with "The Bellingham Promise," which suggests a commitment to racial equity within the district.  Board members commend the superintendent for robust community engagement in the planning process, highlighting diverse representation on the Facilities Planning Task Force. While no areas for improvement are identified, the board discusses a proposed policy change (EL-9.1) to remove the requirement that updates be presented through the consent agenda, allowing for greater flexibility in communication.
+The Bellingham School District Board of Directors met on January 18, 2024, where they addressed several key issues and resolutions. The board unanimously approved a series of consent agenda items, including resolutions for the transfer of funds related to water damage repairs at the District Office and the commissioning report for Sunnyland Elementary School. The board reviewed and discussed monitoring responses to various Executive Limitations policies, including EL-1 (Expectations of Superintendent), EL-5 (Communication and Counsel to the Board), EL-7 (Budget Planning and Execution), EL-9 (Asset Maintenance and Protection), and EL-9.1 (Facility Improvement or Development Involving Bond Measure Proposal). Notably, there were no changes proposed for the monitoring responses, indicating satisfaction with the superintendent's performance in these areas. 
+
+Superintendent Greg Baker highlighted the district's response to crises, including significant water damage due to a burst pipe and ongoing challenges with weather-related school operations. The board expressed appreciation for the superintendent's communication efforts and the district's commitment to mental health and sustainability initiatives. Additionally, the board discussed long-term strategic planning regarding facility improvements, emphasizing the importance of community engagement and equity in decision-making processes. A proposed change to policy EL-9.1 was noted, suggesting the removal of the phrase "through the consent agenda" to enhance communication discretion regarding facility improvements.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-18-minutes.txt)
 
@@ -751,11 +1342,59 @@ This text focuses on a school board's review of a report detailing progress towa
 | [Scott Ritchey](board_member_313.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 | [Katie Rose](board_member_314.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 
+## 2024-01-16 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on January 16, 2024, focused on a work/study session regarding budget and enrollment updates for the 2024-25 school year. Lydia Sellie, the Executive Director of Business & Finance, presented information pertinent to the anticipated budget and enrollment figures. All board members were present, and the meeting was called to order by Director Katims at 5:03 PM, concluding at 6:52 PM. The meeting's outcomes may influence long-term strategic plans related to budget allocation and enrollment management.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-01-16-minutes.txt)
+
+## 2024-01-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The study session held on January 16, 2024, focused on school finances and budgeting, specifically discussing the Finance Team's structure, financial reporting, and the F195 Budget Process. Mr. Deebach and Ms. Graham presented updates on the 2024/25 Budget, which is part of the district's long-term strategic plans for financial management. The meeting was attended by board members and student representatives, with discussions emphasizing the importance of transparency in financial processes. No specific policy changes were mentioned, but the emphasis on budget updates indicates ongoing efforts to maintain fiscal responsibility within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-16-minutes.txt)
+
+## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+
+The Lynden School District Board Meeting held on January 11, 2024, included discussions on various policies and plans aimed at enhancing educational standards and community engagement. Notably, the board conducted a first reading of Policy 5010 regarding nondiscrimination and Policy 5161 concerning civility in the workplace, both of which were postponed for further discussion in the next meeting. Additionally, the board approved updated Policy 2090 on Program Evaluation, emphasizing the importance of program efficacy in alignment with district goals. The meeting also featured presentations on School Improvement Plans from Lynden High School, Isom Elementary, and Lynden Middle School, focusing on enhancing student success and mental health through initiatives like Universal Design for Learning (UDL) and Positive Behavioral Interventions and Supports (PBIS). Furthermore, Superintendent VanderYacht shared information regarding a class action lawsuit related to the impact of social media on youth mental health, indicating a proactive approach to addressing mental health concerns within the community.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-11-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Tonya Hickman](board_member_326.md) | voted yes on approving updated Policy 2090- Program Evaluation | Director Hickman motioned to approve updated Policy 2090- Program Evaluation |
+| [Ken Owsley](board_member_327.md) | voted yes on approving updated Policy 2090- Program Evaluation | Seconded by Director Owsley. Motion carried by voice vote. |
+| [Khush Brar](board_member_328.md) | voted yes on approving all School Improvement Plans as presented | Director Brar motioned to approve all School Improvement Plans as presented. Seconded by Director Verburg. Motion carrie...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
+| [Ken Owsley](board_member_327.md) | voted no on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
+
+## 2024-01-11 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
+
+The Board Work Session held on January 11, 2024, included presentations from Elementary Principals and Vice Principals regarding the implementation of the district's long-term strategic plan within their schools. The Board expressed gratitude for the insights shared during these presentations, indicating a focus on the effectiveness of the strategic initiatives. Additionally, the session included an executive discussion concerning the performance of a public employee, which was extended twice, reflecting a thorough examination of personnel matters. The meeting concluded with a motion to adjourn, which was unanimously supported by all members present.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-11-minutes.txt)
+
 ## 2024-01-10 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on January 10, 2024, focused on an update regarding the implementation of their Strategic Plan. The meeting was led by Ms. Joelle Bejarano, the Director of Strategic Initiatives & Program Operations Accountability & Strategy, and was attended by Board President Meghin Margel and Superintendent Israel Vela. The meeting commenced at 4:30 p.m. and lasted approximately 1.5 hours, concluding at 5:32 p.m. The primary aim was to discuss the progress and developments related to the district's long-term strategic planning efforts.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-01-10-boardspecialmeetingworksession-minutes.txt)
+
+## 2024-01-09 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+
+The School Board Special Meeting held on January 9, 2024, focused on the status of the district's Math and Middle School Health curriculum adoptions. Executive Director of Student Learning, Lisa Gonzalez, along with Laura Marshall and Jenni McCloughan from the Student Learning Team, presented details regarding the academic standards associated with these curricula. The meeting emphasized the importance of curriculum transparency as the board discussed the implications of the proposed changes for student health education. Director Nancy Katims called the meeting to order at 5:01 PM and adjourned it at 6:04 PM, with the proceedings aimed at ensuring that the curriculum aligns with educational goals and the needs of students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-01-09-minutes.txt)
+
+## 2024-01-09 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on January 9, 2024, included discussions and approvals of several key items. Notably, the board approved the 2023-24 School Improvement Plans, which are part of the district's long-term strategic planning efforts led by Dr. Tammy Campbell. The meeting also saw the approval of a donation of $1,899.58 from the East Valley Booster Club for volleyball uniforms, reflecting community engagement in school activities. Additionally, the board decided to remove the personnel report from the consent agenda, indicating a change in how personnel matters are addressed in meetings. The meeting concluded with an executive session to review the performance of a public employee, highlighting ongoing oversight of staff performance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-09-minutes.txt)
 
 ## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
@@ -763,11 +1402,37 @@ The Northshore School District Board of Directors held a regular meeting on Janu
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
 
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District held a Regular Board Meeting on January 8, 2024, where significant topics included the adoption of a new Board Policy No. 4400 regarding Election Activities and a revised Board Policy 0001 focused on Racial and Educational Justice. The Board also approved the Consent Agenda which encompassed various meeting minutes and trip approvals, highlighting the district's commitment to transparency and community engagement. Superintendent Michael Tolley reported on the School Strategic Action Plan visits and various advocacy meetings, emphasizing ongoing efforts to enhance student learning environments. Additionally, Director Elisabeth Sotak proposed offering childcare during meetings to increase parent involvement, indicating a focus on community engagement and accessibility.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
+
+## 2024-01-08 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Board Retreat on January 8, 2024, addressed several significant issues impacting the district, including a projected budget reduction of $20 million, which was confirmed by Assistant Superintendent of Finance, Jake Kuper. This reduction is influenced by the Cost of Living Adjustment (COLA) and comes alongside a forecasted decline in student enrollment, raising concerns about the need for social and emotional support for students post-pandemic. Director Raymond Navarro, Jr. emphasized the importance of understanding the factors contributing to this decline, including housing development issues and the rise in private and homeschooling enrollments. 
+
+Additionally, the board discussed special education support, with Executive Director of Special Education, Nancy Smith, presenting on the Individuals with Disabilities Education Act (IDEA) and the Least Restrictive Environment (LRE) policy. The board expressed a desire to ensure that all students, including those with special needs, are included in general education settings. There was a call for clearer data on the impact of inclusion on general education students. The board also requested a draft proposal for future proclamations by January 16, 2024, and discussed strategies for enhancing family and community engagement, aiming for a unified approach to better serve the district's needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-01-08-minutes.txt)
+
 ## 2024-01-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors convened a Special Meeting on January 4, 2024, focused on Advocacy Strategy Planning. The meeting, which lasted from 5:00 PM to 6:30 PM, involved attendance from key board members, including President Amy Cast and Superintendent Michael Tolley. The primary agenda centered around developing long-term strategic plans to enhance community engagement in advocacy efforts. No specific policies or resolutions were discussed during this meeting, but the emphasis on strategic planning suggests a proactive approach to engaging with the community on educational issues. The meeting was officially adjourned at 6:30 PM, and the minutes were generated by Peggy King on January 17, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-04-minutes.txt)
+
+## 2024-01-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 4, 2024, focused on an Advocacy Strategy Planning Meeting. The meeting commenced at 5:00 PM and was attended by key members including President Amy Cast and Superintendent Michael Tolley. The primary agenda centered on developing long-term strategic plans for advocacy within the district, emphasizing community engagement. The meeting concluded at 6:30 PM, and the minutes were approved on January 22, 2024, by Mr. Tolley and President Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-04-minutes.txt)
+
+## 2024-01-03 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a special meeting and work session on January 3, 2024, where the board, led by Chair Steve Corwin, adopted the meeting agenda and consent agenda, which included accounts payable. The special meeting was brief, concluding at 5:07 PM, followed by a work session focused on reviewing the Washington State School Directors' Association (WSSDA) Roles and Responsibilities, estimated to last two hours. The work session was adjourned at 7:10 PM without any specific policy changes discussed during the meeting. The minutes reflect standard procedural actions without any unusual or controversial content. Board members present included Steve Corwin, Jarrod Karuza, Marty Gray, Jana Haugen, and later, Michelle Simmons.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-03-janspecialmeetingworksession-minutes.txt)
 
 ## 2023-08-31 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
