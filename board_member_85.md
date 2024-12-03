@@ -1,6 +1,6 @@
-# Positions Supported by Bernadette Bower (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Chris Thomas (MONTESANO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Bernadette Bower | ELMA_SCHOOL_DISTRICT |  |
+| Chris Thomas | MONTESANO_SCHOOL_DISTRICT | None |
 

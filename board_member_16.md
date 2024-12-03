@@ -1,6 +1,6 @@
-# Positions Supported by Paul Nelson (CASHMERE_SCHOOL_DISTRICT, Term: 11/25)
+# Positions Supported by Sandy Long, Ph.D. (PORT_ANGELES_SCHOOL_DISTRICT, Term: 12/27)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Paul Nelson | CASHMERE_SCHOOL_DISTRICT | 11/25 |
+| Sandy Long, Ph.D. | PORT_ANGELES_SCHOOL_DISTRICT | 12/27 |
 

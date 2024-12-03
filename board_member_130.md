@@ -1,6 +1,6 @@
-# Positions Supported by Tim Clark (KENT_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Lindsey Yocum (LAKE_WASHINGTON_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tim Clark | KENT_SCHOOL_DISTRICT | 2021-2025 |
+| Lindsey Yocum | LAKE_WASHINGTON_SCHOOL_DISTRICT | 2023-2027 |
 

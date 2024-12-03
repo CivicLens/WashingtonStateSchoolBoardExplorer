@@ -1,6 +1,6 @@
-# Positions Supported by Mary Hebert (PORT_ANGELES_SCHOOL_DISTRICT, Term: 11/25)
+# Positions Supported by Corey McEnry (CAMAS_SCHOOL_DISTRICT, Term: 2018-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mary Hebert | PORT_ANGELES_SCHOOL_DISTRICT | 11/25 |
+| Corey McEnry | CAMAS_SCHOOL_DISTRICT | 2018-2025 |
 

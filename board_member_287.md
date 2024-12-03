@@ -1,6 +1,6 @@
-# Positions Supported by Jeremy Engle (LIBERTY_SCHOOL_DISTRICT, Term: 2022-2025)
+# Positions Supported by Alan Nolan (MEAD_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jeremy Engle | LIBERTY_SCHOOL_DISTRICT | 2022-2025 |
+| Alan Nolan | MEAD_SCHOOL_DISTRICT | 2023-2027 |
 

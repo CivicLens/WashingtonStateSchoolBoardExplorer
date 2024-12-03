@@ -1,6 +1,6 @@
-# Positions Supported by Kacey Kiehn (QUINCY_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Stephanie Smith (ELMA_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kacey Kiehn | QUINCY_SCHOOL_DISTRICT | 2025 |
+| Stephanie Smith | ELMA_SCHOOL_DISTRICT |  |
 

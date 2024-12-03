@@ -1,6 +1,6 @@
-# Positions Supported by Paul Rogge (CONCRETE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Susie Deyo (LA_CONNER_SCHOOL_DISTRICT, Term: 2019-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Paul Rogge | CONCRETE_SCHOOL_DISTRICT | None |
+| Susie Deyo | LA_CONNER_SCHOOL_DISTRICT | 2019-2025 |
 

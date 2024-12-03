@@ -1,6 +1,6 @@
-# Positions Supported by Danielle Gray (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 2024)
+# Positions Supported by Halli Kimball (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Danielle Gray | MOUNT_BAKER_SCHOOL_DISTRICT | 2024 |
+| Halli Kimball | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
 

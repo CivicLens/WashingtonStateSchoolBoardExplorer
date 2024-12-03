@@ -1,6 +1,6 @@
-# Positions Supported by Edward Fox (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 12/31/2023)
+# Positions Supported by Shelley Harder (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Edward Fox | MOUNT_BAKER_SCHOOL_DISTRICT | 12/31/2023 |
+| Shelley Harder | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
 

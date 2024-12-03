@@ -1,6 +1,6 @@
-# Positions Supported by Danielle Brooks (CARBONADO_HISTORICAL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Megan Bearor (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Danielle Brooks | CARBONADO_HISTORICAL_SCHOOL_DISTRICT | None |
+| Megan Bearor | DIERINGER_SCHOOL_DISTRICT | 2021-2025 |
 

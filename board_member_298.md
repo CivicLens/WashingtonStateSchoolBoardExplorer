@@ -1,6 +1,6 @@
-# Positions Supported by KRISTIN ROBINSON (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Melissa Beard (TUMWATER_SCHOOL_DISTRICT, Term: 2016-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| KRISTIN ROBINSON | RAINIER_SCHOOL_DISTRICT | None |
+| Melissa Beard | TUMWATER_SCHOOL_DISTRICT | 2016-2025 |
 

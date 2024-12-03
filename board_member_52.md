@@ -1,6 +1,6 @@
-# Positions Supported by Kate McPherson (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2027)
+# Positions Supported by Meaghan Vibbert (EASTMONT_SCHOOL_DISTRICT, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kate McPherson | BRIDGEPORT_SCHOOL_DISTRICT | December 2027 |
+| Meaghan Vibbert | EASTMONT_SCHOOL_DISTRICT | 2019-2027 |
 

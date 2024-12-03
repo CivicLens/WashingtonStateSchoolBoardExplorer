@@ -1,6 +1,6 @@
-# Positions Supported by Meaghan Vibbert (EASTMONT_SCHOOL_DISTRICT, Term: 2019-2027)
+# Positions Supported by BOBBI PARKER (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Meaghan Vibbert | EASTMONT_SCHOOL_DISTRICT | 2019-2027 |
+| BOBBI PARKER | ORONDO_SCHOOL_DISTRICT | None |
 

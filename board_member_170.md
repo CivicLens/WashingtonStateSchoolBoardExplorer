@@ -1,6 +1,6 @@
-# Positions Supported by Traci Waddington (LYLE_SCHOOL_DISTRICT, Term: 2020-2023)
+# Positions Supported by Ona Felker (EVALINE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Traci Waddington | LYLE_SCHOOL_DISTRICT | 2020-2023 |
+| Ona Felker | EVALINE_SCHOOL_DISTRICT | None |
 

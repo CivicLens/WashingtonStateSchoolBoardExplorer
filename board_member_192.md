@@ -1,6 +1,6 @@
-# Positions Supported by Edrie Price (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Annie Robbins (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Edrie Price | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Annie Robbins | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

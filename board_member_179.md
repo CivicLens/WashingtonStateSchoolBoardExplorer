@@ -1,6 +1,6 @@
-# Positions Supported by Ms. Megan Iverson (ONALASKA_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Mara McGrath (PE_ELL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ms. Megan Iverson | ONALASKA_SCHOOL_DISTRICT | None |
+| Mara McGrath | PE_ELL_SCHOOL_DISTRICT | None |
 

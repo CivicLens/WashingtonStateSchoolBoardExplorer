@@ -1,6 +1,6 @@
-# Positions Supported by Cindy Reed (HIGHLAND_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Dan Peters (SELAH_SCHOOL_DISTRICT, Term: 2020-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Cindy Reed | HIGHLAND_SCHOOL_DISTRICT | None |
+| Dan Peters | SELAH_SCHOOL_DISTRICT | 2020-2027 |
 

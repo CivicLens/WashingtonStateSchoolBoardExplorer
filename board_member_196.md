@@ -1,6 +1,6 @@
-# Positions Supported by Jimmy Harris (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Nicole Gonzalez Timmons (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jimmy Harris | HOOD_CANAL_SCHOOL_DISTRICT | None |
+| Nicole Gonzalez Timmons | NORTH_MASON_SCHOOL_DISTRICT | None |
 

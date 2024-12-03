@@ -1,6 +1,6 @@
-# Positions Supported by Grant Griffen (DAYTON_SCHOOL_DISTRICT, Term: 2019-2027)
+# Positions Supported by Ryan Paulson (DAYTON_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Grant Griffen | DAYTON_SCHOOL_DISTRICT | 2019-2027 |
+| Ryan Paulson | DAYTON_SCHOOL_DISTRICT | 2023-2025 |
 

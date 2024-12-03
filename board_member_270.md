@@ -1,6 +1,6 @@
-# Positions Supported by Janet Loyd (DARRINGTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Nancy Katims (EDMONDS_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Janet Loyd | DARRINGTON_SCHOOL_DISTRICT | None |
+| Nancy Katims | EDMONDS_SCHOOL_DISTRICT | December 2027 |
 

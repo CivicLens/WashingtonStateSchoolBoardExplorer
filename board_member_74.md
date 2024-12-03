@@ -1,6 +1,6 @@
-# Positions Supported by Buffy Nicholson (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chad Lower (QUINCY_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Buffy Nicholson | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
+| Chad Lower | QUINCY_SCHOOL_DISTRICT | 2025 |
 

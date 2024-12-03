@@ -1,6 +1,6 @@
-# Positions Supported by Kate Kruller (TUKWILA_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Mike Desmond (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kate Kruller | TUKWILA_SCHOOL_DISTRICT | 2021-2025 |
+| Mike Desmond | NORTH_KITSAP_SCHOOL_DISTRICT | 2019-2027 |
 

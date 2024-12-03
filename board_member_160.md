@@ -1,6 +1,6 @@
-# Positions Supported by Jerry Lael (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Mitchell Powers (BICKLETON_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jerry Lael | KITTITAS_SCHOOL_DISTRICT | 2021-2025 |
+| Mitchell Powers | BICKLETON_SCHOOL_DISTRICT |  |
 

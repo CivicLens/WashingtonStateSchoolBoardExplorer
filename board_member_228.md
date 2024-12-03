@@ -1,6 +1,6 @@
-# Positions Supported by Devin Craig (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Travis Rush (EATONVILLE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Devin Craig | DIERINGER_SCHOOL_DISTRICT | 2021-2025 |
+| Travis Rush | EATONVILLE_SCHOOL_DISTRICT | None |
 

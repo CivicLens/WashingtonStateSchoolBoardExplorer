@@ -1,6 +1,6 @@
-# Positions Supported by Cecile Baggenstos (PE_ELL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Tom Anderson (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Cecile Baggenstos | PE_ELL_SCHOOL_DISTRICT | None |
+| Tom Anderson | GRAPEVIEW_SCHOOL_DISTRICT |  |
 

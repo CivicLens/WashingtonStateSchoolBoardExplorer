@@ -1,6 +1,6 @@
-# Positions Supported by Michael Brondi (CONCRETE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by John Agen (LA_CONNER_SCHOOL_DISTRICT, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Michael Brondi | CONCRETE_SCHOOL_DISTRICT | None |
+| John Agen | LA_CONNER_SCHOOL_DISTRICT | 2019-2027 |
 

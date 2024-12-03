@@ -1,6 +1,6 @@
-# Positions Supported by Laura Schmidt (CONCRETE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Kim Pedroza (LA_CONNER_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Laura Schmidt | CONCRETE_SCHOOL_DISTRICT | None |
+| Kim Pedroza | LA_CONNER_SCHOOL_DISTRICT | 2023-2027 |
 

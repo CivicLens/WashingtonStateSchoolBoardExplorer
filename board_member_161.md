@@ -1,6 +1,6 @@
-# Positions Supported by Carrie Kavanaugh (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by John Jensen (BICKLETON_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Carrie Kavanaugh | KITTITAS_SCHOOL_DISTRICT | 2021-2025 |
+| John Jensen | BICKLETON_SCHOOL_DISTRICT |  |
 

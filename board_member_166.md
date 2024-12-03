@@ -1,6 +1,6 @@
-# Positions Supported by John Jensen (BICKLETON_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Marc Harvey (LYLE_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| John Jensen | BICKLETON_SCHOOL_DISTRICT |  |
+| Marc Harvey | LYLE_SCHOOL_DISTRICT | 2023-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Joe Catron (SELAH_SCHOOL_DISTRICT, Term: 2022-2025)
+# Positions Supported by Stephen Berg (SUNNYSIDE_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Joe Catron | SELAH_SCHOOL_DISTRICT | 2022-2025 |
+| Stephen Berg | SUNNYSIDE_SCHOOL_DISTRICT | 2023-2027 |
 

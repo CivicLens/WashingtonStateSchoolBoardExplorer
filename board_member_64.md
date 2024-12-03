@@ -1,6 +1,6 @@
-# Positions Supported by John Kennedy (PASCO_SCHOOL_DISTRICT, Term: November 2027)
+# Positions Supported by JaMES Adams (EPHRATA_SCHOOL_DISTRICT, Term: 2019-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| John Kennedy | PASCO_SCHOOL_DISTRICT | November 2027 |
+| JaMES Adams | EPHRATA_SCHOOL_DISTRICT | 2019-2025 |
 

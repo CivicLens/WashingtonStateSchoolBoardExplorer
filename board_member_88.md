@@ -1,6 +1,6 @@
-# Positions Supported by Kelly Monroe (MONTESANO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Rita Keene (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kelly Monroe | MONTESANO_SCHOOL_DISTRICT | None |
+| Rita Keene | QUINAULT_LAKE_SCHOOL_DISTRICT | 2027 |
 

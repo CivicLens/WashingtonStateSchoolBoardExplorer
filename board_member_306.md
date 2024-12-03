@@ -1,6 +1,6 @@
-# Positions Supported by Casey Shaw (YELM_COMMUNITY_SCHOOLS, Term: 2021-2027)
+# Positions Supported by Eva Brown (COLLEGE_PLACE_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Casey Shaw | YELM_COMMUNITY_SCHOOLS | 2021-2027 |
+| Eva Brown | COLLEGE_PLACE_SCHOOL_DISTRICT | 2023-2025 |
 

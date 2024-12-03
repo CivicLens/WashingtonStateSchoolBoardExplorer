@@ -1,6 +1,6 @@
-# Positions Supported by Jeremy Wilbur (LA_CONNER_SCHOOL_DISTRICT, Term: 2020-2025)
+# Positions Supported by Christopher Gudger-Raines (MOUNT_VERNON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jeremy Wilbur | LA_CONNER_SCHOOL_DISTRICT | 2020-2025 |
+| Christopher Gudger-Raines | MOUNT_VERNON_SCHOOL_DISTRICT | None |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Stephanie Smith (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Tiffany Schweppe (MONTESANO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Stephanie Smith | ELMA_SCHOOL_DISTRICT |  |
+| Tiffany Schweppe | MONTESANO_SCHOOL_DISTRICT | None |
 

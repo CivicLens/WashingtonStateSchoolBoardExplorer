@@ -1,6 +1,6 @@
-# Positions Supported by Shane Wright (BICKLETON_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Dan Smith (LYLE_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Shane Wright | BICKLETON_SCHOOL_DISTRICT |  |
+| Dan Smith | LYLE_SCHOOL_DISTRICT | 2023-2025 |
 

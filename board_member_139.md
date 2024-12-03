@@ -1,6 +1,6 @@
-# Positions Supported by Alberto Laverde (SKYKOMISH_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Michael Wiggins (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Alberto Laverde | SKYKOMISH_SCHOOL_DISTRICT | 2021-2027 |
+| Michael Wiggins | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
 

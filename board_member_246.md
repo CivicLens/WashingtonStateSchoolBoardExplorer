@@ -1,6 +1,6 @@
-# Positions Supported by Enrique Leon (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2027)
+# Positions Supported by Michael Brondi (CONCRETE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Enrique Leon | TACOMA_PUBLIC_SCHOOLS | 2019-2027 |
+| Michael Brondi | CONCRETE_SCHOOL_DISTRICT | None |
 

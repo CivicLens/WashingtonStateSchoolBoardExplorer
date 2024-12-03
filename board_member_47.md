@@ -1,6 +1,6 @@
-# Positions Supported by Legislative Representative (LONGVIEW_PUBLIC_SCHOOLS, Term: None)
+# Positions Supported by Kate McPherson (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Legislative Representative | LONGVIEW_PUBLIC_SCHOOLS | None |
+| Kate McPherson | BRIDGEPORT_SCHOOL_DISTRICT | December 2027 |
 

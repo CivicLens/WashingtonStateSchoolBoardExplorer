@@ -1,6 +1,6 @@
-# Positions Supported by Alana Quintasket (LA_CONNER_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by David Cram (LA_CONNER_SCHOOL_DISTRICT, Term: 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Alana Quintasket | LA_CONNER_SCHOOL_DISTRICT | 2023-2027 |
+| David Cram | LA_CONNER_SCHOOL_DISTRICT | 2024 |
 

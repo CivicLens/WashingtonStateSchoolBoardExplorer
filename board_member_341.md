@@ -1,6 +1,6 @@
-# Positions Supported by Russ Pfeiffer-Hoyt (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 2024)
+# Positions Supported by Steve Jones (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Russ Pfeiffer-Hoyt | MOUNT_BAKER_SCHOOL_DISTRICT | 2024 |
+| Steve Jones | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
 

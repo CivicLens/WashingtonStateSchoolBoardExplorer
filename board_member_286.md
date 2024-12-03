@@ -1,6 +1,6 @@
-# Positions Supported by Chad Denny (LIBERTY_SCHOOL_DISTRICT, Term: 2022-2025)
+# Positions Supported by Chad Burchard (MEAD_SCHOOL_DISTRICT, Term: 2017-2021)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chad Denny | LIBERTY_SCHOOL_DISTRICT | 2022-2025 |
+| Chad Burchard | MEAD_SCHOOL_DISTRICT | 2017-2021 |
 

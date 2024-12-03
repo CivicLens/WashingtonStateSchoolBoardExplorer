@@ -1,6 +1,6 @@
-# Positions Supported by Jacob Burkhart (EASTMONT_SCHOOL_DISTRICT, Term: 2023-2025)
+# Positions Supported by LINDA PERI (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jacob Burkhart | EASTMONT_SCHOOL_DISTRICT | 2023-2025 |
+| LINDA PERI | ORONDO_SCHOOL_DISTRICT | None |
 

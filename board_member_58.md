@@ -1,6 +1,6 @@
-# Positions Supported by CHELSIE MILLER (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Steve Norberg (PASCO_SCHOOL_DISTRICT, Term: November 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| CHELSIE MILLER | ORONDO_SCHOOL_DISTRICT | None |
+| Steve Norberg | PASCO_SCHOOL_DISTRICT | November 2027 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Ashley Toney (SKYKOMISH_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Ric Lewis (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ashley Toney | SKYKOMISH_SCHOOL_DISTRICT | 2021-2025 |
+| Ric Lewis | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
 

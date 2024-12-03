@@ -1,6 +1,6 @@
-# Positions Supported by Jeffrey McCowen (DAYTON_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Jeremy Wheatley (DAYTON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jeffrey McCowen | DAYTON_SCHOOL_DISTRICT | 2021-2025 |
+| Jeremy Wheatley | DAYTON_SCHOOL_DISTRICT | None |
 

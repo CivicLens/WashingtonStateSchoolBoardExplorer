@@ -1,6 +1,6 @@
-# Positions Supported by Matt Carreon (TAHOMA_SCHOOL_DISTRICT, Term: 2-year term through Dec. 2024)
+# Positions Supported by Dave Larson (TUKWILA_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Matt Carreon | TAHOMA_SCHOOL_DISTRICT | 2-year term through Dec. 2024 |
+| Dave Larson | TUKWILA_SCHOOL_DISTRICT | 2027 |
 

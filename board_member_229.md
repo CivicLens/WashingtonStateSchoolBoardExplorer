@@ -1,6 +1,6 @@
-# Positions Supported by Paulette Gilliardi (EATONVILLE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chuck West (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Paulette Gilliardi | EATONVILLE_SCHOOL_DISTRICT | None |
+| Chuck West | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
 

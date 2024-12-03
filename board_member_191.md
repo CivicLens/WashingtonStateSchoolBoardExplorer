@@ -1,6 +1,6 @@
-# Positions Supported by Debbie Olig (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Jimmy Harris (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Debbie Olig | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Jimmy Harris | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

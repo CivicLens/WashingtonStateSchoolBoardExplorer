@@ -1,6 +1,6 @@
-# Positions Supported by Kristen Michal (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Chad Cornmesser (LIBERTY_SCHOOL_DISTRICT, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kristen Michal | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
+| Chad Cornmesser | LIBERTY_SCHOOL_DISTRICT | 2022-2025 |
 

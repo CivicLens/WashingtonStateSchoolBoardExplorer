@@ -1,6 +1,6 @@
-# Positions Supported by ROBERT HENRY JR (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Ty Kuehl (TUMWATER_SCHOOL_DISTRICT, Term: 2024-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| ROBERT HENRY JR | RAINIER_SCHOOL_DISTRICT | None |
+| Ty Kuehl | TUMWATER_SCHOOL_DISTRICT | 2024-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Marree Perrault (DARRINGTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Keith Smith (EDMONDS_SCHOOL_DISTRICT, Term: December 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Marree Perrault | DARRINGTON_SCHOOL_DISTRICT | None |
+| Keith Smith | EDMONDS_SCHOOL_DISTRICT | December 2025 |
 

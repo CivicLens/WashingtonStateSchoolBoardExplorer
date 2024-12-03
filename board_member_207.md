@@ -1,6 +1,6 @@
-# Positions Supported by Diane Hull (PATEROS_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Larry Sauer (NEWPORT_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Diane Hull | PATEROS_SCHOOL_DISTRICT | 2021-2027 |
+| Larry Sauer | NEWPORT_SCHOOL_DISTRICT | None |
 

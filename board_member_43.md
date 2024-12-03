@@ -1,6 +1,6 @@
-# Positions Supported by Jeremy Wheatley (DAYTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Kathy Corbin (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jeremy Wheatley | DAYTON_SCHOOL_DISTRICT | None |
+| Kathy Corbin | BRIDGEPORT_SCHOOL_DISTRICT | December 2025 |
 

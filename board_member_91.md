@@ -1,6 +1,6 @@
-# Positions Supported by Tiffany Schweppe (MONTESANO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Kacey Kiehn (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tiffany Schweppe | MONTESANO_SCHOOL_DISTRICT | None |
+| Kacey Kiehn | QUINAULT_LAKE_SCHOOL_DISTRICT | 2025 |
 

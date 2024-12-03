@@ -1,6 +1,6 @@
-# Positions Supported by Dameon Marlow (CARBONADO_HISTORICAL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chelsea Steiner (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dameon Marlow | CARBONADO_HISTORICAL_SCHOOL_DISTRICT | None |
+| Chelsea Steiner | DIERINGER_SCHOOL_DISTRICT | 2021-2027 |
 

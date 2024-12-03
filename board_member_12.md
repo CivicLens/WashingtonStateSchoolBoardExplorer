@@ -1,6 +1,6 @@
-# Positions Supported by Aaron Bessonette (CASHMERE_SCHOOL_DISTRICT, Term: 11/27)
+# Positions Supported by Sara Pipkin (CASHMERE_SCHOOL_DISTRICT, Term: 11/27)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Aaron Bessonette | CASHMERE_SCHOOL_DISTRICT | 11/27 |
+| Sara Pipkin | CASHMERE_SCHOOL_DISTRICT | 11/27 |
 

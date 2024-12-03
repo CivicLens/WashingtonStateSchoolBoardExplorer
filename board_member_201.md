@@ -1,6 +1,6 @@
-# Positions Supported by Nicole Gonzalez Timmons (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Erika Scroggie (PATEROS_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Nicole Gonzalez Timmons | NORTH_MASON_SCHOOL_DISTRICT | None |
+| Erika Scroggie | PATEROS_SCHOOL_DISTRICT | 2023-2027 |
 

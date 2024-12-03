@@ -1,6 +1,6 @@
-# Positions Supported by Dana Rosenbach (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Rick Trocano (PATEROS_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dana Rosenbach | NORTH_MASON_SCHOOL_DISTRICT | None |
+| Rick Trocano | PATEROS_SCHOOL_DISTRICT | 2023-2025 |
 

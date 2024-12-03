@@ -1,6 +1,6 @@
-# Positions Supported by Paul Ebreo (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Jason Heinz (EASTMONT_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Paul Ebreo | BRIDGEPORT_SCHOOL_DISTRICT | December 2025 |
+| Jason Heinz | EASTMONT_SCHOOL_DISTRICT | 2021-2025 |
 

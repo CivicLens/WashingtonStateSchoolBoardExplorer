@@ -1,6 +1,6 @@
-# Positions Supported by Tanya Silves (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Derek Iverson (SELAH_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tanya Silves | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
+| Derek Iverson | SELAH_SCHOOL_DISTRICT | 2023-2027 |
 

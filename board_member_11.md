@@ -1,6 +1,6 @@
-# Positions Supported by Frank Vermulm (PROSSER_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Aaron Bessonette (CASHMERE_SCHOOL_DISTRICT, Term: 11/27)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Frank Vermulm | PROSSER_SCHOOL_DISTRICT | 2021-2027 |
+| Aaron Bessonette | CASHMERE_SCHOOL_DISTRICT | 11/27 |
 

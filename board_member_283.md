@@ -1,6 +1,6 @@
-# Positions Supported by Mike Bly (EAST_VALLEY_SCHOOL_DISTRICT, Term: 2019-2025)
+# Positions Supported by Mark Bullock (LIBERTY_SCHOOL_DISTRICT, Term: 2024-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mike Bly | EAST_VALLEY_SCHOOL_DISTRICT | 2019-2025 |
+| Mark Bullock | LIBERTY_SCHOOL_DISTRICT | 2024-2027 |
 

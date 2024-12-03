@@ -1,11 +1,5 @@
 # Meeting Summaries for Tag: parental-feedback
 
-## 2028-02-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board reviewed a report on student academic performance based on standardized testing data.  The board discussed the adequacy of the Smarter Balanced Assessment (SBA) as a measure of student achievement, suggesting it may not be reliable and proposing further discussion about its use in evaluating Policy E-2.1. Concerns were raised about the inclusion of Bellevue as a comparable district due to significant demographic differences, particularly regarding free/reduced lunch eligibility. The board highlighted the need for increased support for Hispanic students and acknowledged a downward trend in performance among students with Individualized Education Programs (IEPs). They commended the thoroughness of the report and expressed interest in revisiting continuous growth data when available.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2028/2028-02-07-minutes.txt)
-
 ## 2024-11-18 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
 The text details a special meeting of the Board of Directors scheduled for November 18, 2024.  The primary agenda item is "Conversations With the Board - 2025-2026 Budget Development and Next Steps." This indicates that the board will be discussing the upcoming budget cycle and potential next steps in its development. The meeting also includes standard components like a commencement, list of attendees, and end of meeting.  The text suggests that the board is seeking parental feedback as part of this process.

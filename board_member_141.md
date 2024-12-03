@@ -1,6 +1,6 @@
-# Positions Supported by Jimmy Sarno (SKYKOMISH_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Pete Miller (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jimmy Sarno | SKYKOMISH_SCHOOL_DISTRICT | 2021-2025 |
+| Pete Miller | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
 

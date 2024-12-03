@@ -1,6 +1,6 @@
-# Positions Supported by Melanie Tinsley (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Enrique Leon (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Melanie Tinsley | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2025 |
+| Enrique Leon | TACOMA_PUBLIC_SCHOOLS | 2019-2027 |
 

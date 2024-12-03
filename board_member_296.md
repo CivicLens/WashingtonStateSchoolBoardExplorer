@@ -1,6 +1,6 @@
-# Positions Supported by JUSTIN GURNSEY (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Casey Taylor (TUMWATER_SCHOOL_DISTRICT, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| JUSTIN GURNSEY | RAINIER_SCHOOL_DISTRICT | None |
+| Casey Taylor | TUMWATER_SCHOOL_DISTRICT | 2019-2027 |
 

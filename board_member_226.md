@@ -1,6 +1,6 @@
-# Positions Supported by Greg Johnson (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Ashley Sova (EATONVILLE_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Greg Johnson | DIERINGER_SCHOOL_DISTRICT | 2021-2027 |
+| Ashley Sova | EATONVILLE_SCHOOL_DISTRICT | 2021-2025 |
 

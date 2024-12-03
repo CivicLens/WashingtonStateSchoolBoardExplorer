@@ -1,6 +1,6 @@
-# Positions Supported by Jenann Ross (CHELAN_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Stan Williams (PORT_ANGELES_SCHOOL_DISTRICT, Term: 12/27)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jenann Ross | CHELAN_SCHOOL_DISTRICT | None |
+| Stan Williams | PORT_ANGELES_SCHOOL_DISTRICT | 12/27 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Chris Thomas (MONTESANO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Shannon Durfee (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chris Thomas | MONTESANO_SCHOOL_DISTRICT | None |
+| Shannon Durfee | QUINAULT_LAKE_SCHOOL_DISTRICT | 2027 |
 

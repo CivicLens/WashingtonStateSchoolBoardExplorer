@@ -1,6 +1,6 @@
-# Positions Supported by Jennie Requa (DARRINGTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Carin Chase (EDMONDS_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jennie Requa | DARRINGTON_SCHOOL_DISTRICT | None |
+| Carin Chase | EDMONDS_SCHOOL_DISTRICT | December 2027 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Carolyn Watson (BELLEVUE_SCHOOL_DISTRICT, Term: December 2023 - November 2027)
+# Positions Supported by Julianne DeShayes (ENUMCLAW_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Carolyn Watson | BELLEVUE_SCHOOL_DISTRICT | December 2023 - November 2027 |
+| Julianne DeShayes | ENUMCLAW_SCHOOL_DISTRICT | 2021-2025 |
 

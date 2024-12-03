@@ -1,6 +1,6 @@
-# Positions Supported by Nicholas Thomas (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Diane Hull (PATEROS_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Nicholas Thomas | NORTH_MASON_SCHOOL_DISTRICT | None |
+| Diane Hull | PATEROS_SCHOOL_DISTRICT | 2021-2027 |
 

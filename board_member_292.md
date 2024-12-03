@@ -1,6 +1,6 @@
-# Positions Supported by Alan Nolan (MEAD_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by ROBERT HENRY JR (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Alan Nolan | MEAD_SCHOOL_DISTRICT | 2023-2027 |
+| ROBERT HENRY JR | RAINIER_SCHOOL_DISTRICT | None |
 

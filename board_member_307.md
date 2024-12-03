@@ -1,6 +1,6 @@
-# Positions Supported by Denise Hendrickson (YELM_COMMUNITY_SCHOOLS, Term: 1998-2027)
+# Positions Supported by Anne Marie Bauman (COLLEGE_PLACE_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Denise Hendrickson | YELM_COMMUNITY_SCHOOLS | 1998-2027 |
+| Anne Marie Bauman | COLLEGE_PLACE_SCHOOL_DISTRICT | 2023-2025 |
 

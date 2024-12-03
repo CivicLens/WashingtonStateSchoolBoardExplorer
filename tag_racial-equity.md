@@ -1,11 +1,5 @@
 # Meeting Summaries for Tag: racial-equity
 
-## 2029-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a special meeting on February 28-29, 2020, to discuss various school district initiatives. One key topic was a review of EL-10, a policy focused on Race and Equity. The board discussed the policy and its monitoring report, considering potential refinements. This discussion will continue at the board's next regular meeting.  The board also engaged in discussions regarding school board professional development, superintendent mid-year evaluation and contract renewal, communications and board visibility strategies, and the possibility of taking the WSSDA self-assessment again in January 2021. Additionally, Superintendent Baker provided updates on "big picture" ideas such as a potential dual-language program, an aquatics center, and a future bond.  No decisions were made on these larger initiatives.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2029/2029-02-28-minutes.txt)
-
 ## 2024-11-06 - FERNDALE_SCHOOL_DISTRICT (Agenda)
 
 The Ferndale School District No. 502 held a study session on April 18, 2023, focused on the implementation of a Land Acknowledgment Statement.  The session included presentations from Lummi Tribal members who discussed the history and significance of their ancestral lands. The board also engaged in discussion regarding the process used to develop the statement and its potential incorporation into school curriculum. This initiative reflects the district's commitment to diversity-inclusion and racial equity by recognizing and honoring the Indigenous peoples who originally inhabited the land where the schools are located.

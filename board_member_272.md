@@ -1,6 +1,6 @@
-# Positions Supported by Keith Smith (EDMONDS_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Eliza Davis (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Keith Smith | EDMONDS_SCHOOL_DISTRICT | December 2025 |
+| Eliza Davis | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
 

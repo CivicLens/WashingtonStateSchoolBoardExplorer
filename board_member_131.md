@@ -1,6 +1,6 @@
-# Positions Supported by Donald Cook (KENT_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Eric Laliberte (LAKE_WASHINGTON_SCHOOL_DISTRICT, Term: 2015-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Donald Cook | KENT_SCHOOL_DISTRICT | 2023-2027 |
+| Eric Laliberte | LAKE_WASHINGTON_SCHOOL_DISTRICT | 2015-2027 |
 

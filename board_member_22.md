@@ -1,6 +1,6 @@
-# Positions Supported by Kirsten Williams (PORT_ANGELES_SCHOOL_DISTRICT, Term: 12/27)
+# Positions Supported by Matthew McBride (CAMAS_SCHOOL_DISTRICT, Term: 2024-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kirsten Williams | PORT_ANGELES_SCHOOL_DISTRICT | 12/27 |
+| Matthew McBride | CAMAS_SCHOOL_DISTRICT | 2024-2025 |
 

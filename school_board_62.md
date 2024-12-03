@@ -11,9 +11,6 @@
 | [Katie Rose](board_member_314.md) | 2023-2027 |
 
 ## Available Years
-- [2029](school_board_62_year_2029.md)
-- [2028](school_board_62_year_2028.md)
-- [2025](school_board_62_year_2025.md)
 - [2024](school_board_62_year_2024.md)
 - [2023](school_board_62_year_2023.md)
 - [2022](school_board_62_year_2022.md)

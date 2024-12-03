@@ -1,6 +1,6 @@
-# Positions Supported by Jill Adams (TUMWATER_SCHOOL_DISTRICT, Term: 2022-2025)
+# Positions Supported by Frank King (YELM_COMMUNITY_SCHOOLS, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jill Adams | TUMWATER_SCHOOL_DISTRICT | 2022-2025 |
+| Frank King | YELM_COMMUNITY_SCHOOLS | 2021-2025 |
 

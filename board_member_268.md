@@ -1,6 +1,6 @@
-# Positions Supported by Maggie Weimer (DARRINGTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Hawk Cramer (EDMONDS_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Maggie Weimer | DARRINGTON_SCHOOL_DISTRICT | None |
+| Hawk Cramer | EDMONDS_SCHOOL_DISTRICT | December 2027 |
 

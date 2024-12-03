@@ -1,6 +1,6 @@
-# Positions Supported by Micah Valentine (KENNEWICK_SCHOOL_DISTRICT, Term: 2022-2025)
+# Positions Supported by Brittany Gledhill (KENNEWICK_SCHOOL_DISTRICT, Term: 2024-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Micah Valentine | KENNEWICK_SCHOOL_DISTRICT | 2022-2025 |
+| Brittany Gledhill | KENNEWICK_SCHOOL_DISTRICT | 2024-2027 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Tracey Malone (CAMAS_SCHOOL_DISTRICT, Term: 2017-2027)
+# Positions Supported by Jacqueline Weatherspoon (EVERGREEN_PUBLIC_SCHOOLS, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tracey Malone | CAMAS_SCHOOL_DISTRICT | 2017-2027 |
+| Jacqueline Weatherspoon | EVERGREEN_PUBLIC_SCHOOLS | 2022-2025 |
 

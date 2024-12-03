@@ -1,6 +1,6 @@
-# Positions Supported by Natalie Wimberley (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Jennifer McDonald (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Natalie Wimberley | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
+| Jennifer McDonald | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2025 |
 

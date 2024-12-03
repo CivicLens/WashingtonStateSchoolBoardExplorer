@@ -1,6 +1,6 @@
-# Positions Supported by Les Okonek (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Paul Thompson (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Les Okonek | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Paul Thompson | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

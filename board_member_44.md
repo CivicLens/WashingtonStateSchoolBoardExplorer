@@ -1,6 +1,6 @@
-# Positions Supported by Jana Eaton (DAYTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Thomas Jenkins (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jana Eaton | DAYTON_SCHOOL_DISTRICT | None |
+| Thomas Jenkins | BRIDGEPORT_SCHOOL_DISTRICT | December 2027 |
 

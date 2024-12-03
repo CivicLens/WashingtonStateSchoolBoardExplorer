@@ -1,6 +1,6 @@
-# Positions Supported by Viviann Kuehl (QUILCENE_SCHOOL_DISTRICT, Term: 2015-2027)
+# Positions Supported by Phil Bloch (BELLEVUE_SCHOOL_DISTRICT, Term: December 2023 - November 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Viviann Kuehl | QUILCENE_SCHOOL_DISTRICT | 2015-2027 |
+| Phil Bloch | BELLEVUE_SCHOOL_DISTRICT | December 2023 - November 2027 |
 

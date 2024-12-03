@@ -1,6 +1,6 @@
-# Positions Supported by Mark Stuart (LAKE_WASHINGTON_SCHOOL_DISTRICT, Term: 2013-2025)
+# Positions Supported by Franny Sweeters (SKYKOMISH_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mark Stuart | LAKE_WASHINGTON_SCHOOL_DISTRICT | 2013-2025 |
+| Franny Sweeters | SKYKOMISH_SCHOOL_DISTRICT | 2021-2025 |
 

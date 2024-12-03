@@ -1,6 +1,6 @@
-# Positions Supported by Tami Robocker (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2023 - 11/2027)
+# Positions Supported by Shona Davis (QUILCENE_SCHOOL_DISTRICT, Term: 2024-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tami Robocker | CHIMACUM_SCHOOL_DISTRICT | 11/2023 - 11/2027 |
+| Shona Davis | QUILCENE_SCHOOL_DISTRICT | 2024-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Sarah Methner (PORT_ANGELES_SCHOOL_DISTRICT, Term: 11/25)
+# Positions Supported by Kirsten Williams (PORT_ANGELES_SCHOOL_DISTRICT, Term: 12/27)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Sarah Methner | PORT_ANGELES_SCHOOL_DISTRICT | 11/25 |
+| Kirsten Williams | PORT_ANGELES_SCHOOL_DISTRICT | 12/27 |
 

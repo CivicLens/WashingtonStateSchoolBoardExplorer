@@ -1,6 +1,6 @@
-# Positions Supported by Dr. Josh Miller (KENNEWICK_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Jason Rainer (PROSSER_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dr. Josh Miller | KENNEWICK_SCHOOL_DISTRICT | 2023-2027 |
+| Jason Rainer | PROSSER_SCHOOL_DISTRICT | 2021-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Halli Kimball (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by David Barnes (HIGHLAND_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Halli Kimball | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
+| David Barnes | HIGHLAND_SCHOOL_DISTRICT | None |
 

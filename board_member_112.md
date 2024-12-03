@@ -1,6 +1,6 @@
-# Positions Supported by Jim Hodgson (QUILCENE_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Jane Aras (BELLEVUE_SCHOOL_DISTRICT, Term: December 2021 - November 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jim Hodgson | QUILCENE_SCHOOL_DISTRICT | 2023-2027 |
+| Jane Aras | BELLEVUE_SCHOOL_DISTRICT | December 2021 - November 2025 |
 

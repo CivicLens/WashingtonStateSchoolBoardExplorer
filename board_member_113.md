@@ -1,6 +1,6 @@
-# Positions Supported by Phil Bloch (BELLEVUE_SCHOOL_DISTRICT, Term: December 2023 - November 2027)
+# Positions Supported by Paul Fisher (ENUMCLAW_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Phil Bloch | BELLEVUE_SCHOOL_DISTRICT | December 2023 - November 2027 |
+| Paul Fisher | ENUMCLAW_SCHOOL_DISTRICT | 2021-2025 |
 

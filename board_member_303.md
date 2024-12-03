@@ -1,6 +1,6 @@
-# Positions Supported by Melissa Beard (TUMWATER_SCHOOL_DISTRICT, Term: 2016-2025)
+# Positions Supported by Debbie Edwards (YELM_COMMUNITY_SCHOOLS, Term: 1984-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Melissa Beard | TUMWATER_SCHOOL_DISTRICT | 2016-2025 |
+| Debbie Edwards | YELM_COMMUNITY_SCHOOLS | 1984-2025 |
 

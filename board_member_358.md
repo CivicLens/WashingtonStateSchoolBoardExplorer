@@ -1,6 +1,6 @@
-# Positions Supported by Dan Peters (SELAH_SCHOOL_DISTRICT, Term: 2020-2027)
+# Positions Supported by Jory Anderson (SUNNYSIDE_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dan Peters | SELAH_SCHOOL_DISTRICT | 2020-2027 |
+| Jory Anderson | SUNNYSIDE_SCHOOL_DISTRICT | 2023-2027 |
 

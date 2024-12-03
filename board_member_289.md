@@ -1,6 +1,6 @@
-# Positions Supported by Michael Cannon (MEAD_SCHOOL_DISTRICT, Term: 2019-2023)
+# Positions Supported by BRYON BAHR (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Michael Cannon | MEAD_SCHOOL_DISTRICT | 2019-2023 |
+| BRYON BAHR | RAINIER_SCHOOL_DISTRICT | None |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Brenna Reaugh (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 2023)
+# Positions Supported by Tanya Silves (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Brenna Reaugh | MOUNT_BAKER_SCHOOL_DISTRICT | 2023 |
+| Tanya Silves | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
 

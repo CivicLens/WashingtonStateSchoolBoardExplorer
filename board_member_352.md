@@ -1,6 +1,6 @@
-# Positions Supported by David Barnes (HIGHLAND_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Jamie Morford (SELAH_SCHOOL_DISTRICT, Term: 2013-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| David Barnes | HIGHLAND_SCHOOL_DISTRICT | None |
+| Jamie Morford | SELAH_SCHOOL_DISTRICT | 2013-2025 |
 

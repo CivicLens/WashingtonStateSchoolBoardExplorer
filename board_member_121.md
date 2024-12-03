@@ -1,6 +1,6 @@
-# Positions Supported by Scott Mason (ENUMCLAW_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Trudy Davis (FEDERAL_WAY_PUBLIC_SCHOOLS, Term: 2018-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Scott Mason | ENUMCLAW_SCHOOL_DISTRICT | 2023-2027 |
+| Trudy Davis | FEDERAL_WAY_PUBLIC_SCHOOLS | 2018-2025 |
 

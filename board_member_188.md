@@ -1,6 +1,6 @@
-# Positions Supported by Tom Anderson (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Edie Reclusado (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tom Anderson | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Edie Reclusado | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

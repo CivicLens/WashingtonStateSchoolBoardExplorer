@@ -1,6 +1,6 @@
-# Positions Supported by Gordon Smith (HOCKINSON_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Zac Fabian (DAYTON_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Gordon Smith | HOCKINSON_SCHOOL_DISTRICT | 2023-2027 |
+| Zac Fabian | DAYTON_SCHOOL_DISTRICT | 2021-2027 |
 

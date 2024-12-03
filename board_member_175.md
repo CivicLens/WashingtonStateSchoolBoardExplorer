@@ -1,6 +1,6 @@
-# Positions Supported by Ona Felker (EVALINE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Mr. Jim Ball (ONALASKA_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ona Felker | EVALINE_SCHOOL_DISTRICT | None |
+| Mr. Jim Ball | ONALASKA_SCHOOL_DISTRICT | None |
 

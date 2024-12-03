@@ -1,6 +1,6 @@
-# Positions Supported by Dr. Kristina Mayer (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2023 - 11/2027)
+# Positions Supported by Viviann Kuehl (QUILCENE_SCHOOL_DISTRICT, Term: 2015-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dr. Kristina Mayer | CHIMACUM_SCHOOL_DISTRICT | 11/2023 - 11/2027 |
+| Viviann Kuehl | QUILCENE_SCHOOL_DISTRICT | 2015-2027 |
 

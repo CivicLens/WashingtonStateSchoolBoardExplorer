@@ -1,6 +1,6 @@
-# Positions Supported by Luckisha Phillips (FEDERAL_WAY_PUBLIC_SCHOOLS, Term: 2018-2027)
+# Positions Supported by Awale Farah (KENT_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Luckisha Phillips | FEDERAL_WAY_PUBLIC_SCHOOLS | 2018-2027 |
+| Awale Farah | KENT_SCHOOL_DISTRICT | 2021-2025 |
 

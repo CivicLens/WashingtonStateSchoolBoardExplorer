@@ -1,6 +1,6 @@
-# Positions Supported by Debbie Edwards (YELM_COMMUNITY_SCHOOLS, Term: 1984-2025)
+# Positions Supported by Todd Stubblefield (COLLEGE_PLACE_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Debbie Edwards | YELM_COMMUNITY_SCHOOLS | 1984-2025 |
+| Todd Stubblefield | COLLEGE_PLACE_SCHOOL_DISTRICT | 2023-2027 |
 

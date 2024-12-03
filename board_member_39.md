@@ -1,6 +1,6 @@
-# Positions Supported by Zac Fabian (DAYTON_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Jeffrey McCowen (DAYTON_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Zac Fabian | DAYTON_SCHOOL_DISTRICT | 2021-2027 |
+| Jeffrey McCowen | DAYTON_SCHOOL_DISTRICT | 2021-2025 |
 

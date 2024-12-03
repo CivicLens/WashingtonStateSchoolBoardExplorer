@@ -1,6 +1,6 @@
-# Positions Supported by Jason Bloodgood (MOUNT_BAKER_SCHOOL_DISTRICT, Term: December 2023)
+# Positions Supported by Ty Elmendorf (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jason Bloodgood | MOUNT_BAKER_SCHOOL_DISTRICT | December 2023 |
+| Ty Elmendorf | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
 

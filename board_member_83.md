@@ -1,6 +1,6 @@
-# Positions Supported by Michael Smith (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Kelly Monroe (MONTESANO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Michael Smith | ELMA_SCHOOL_DISTRICT |  |
+| Kelly Monroe | MONTESANO_SCHOOL_DISTRICT | None |
 

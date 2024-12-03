@@ -1,6 +1,6 @@
-# Positions Supported by Anita Waller (EPHRATA_SCHOOL_DISTRICT, Term: 2018-2025)
+# Positions Supported by Rich Black (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Anita Waller | EPHRATA_SCHOOL_DISTRICT | 2018-2025 |
+| Rich Black | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
 

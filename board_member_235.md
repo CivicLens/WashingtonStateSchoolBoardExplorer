@@ -1,6 +1,6 @@
-# Positions Supported by Jennifer Butler (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Samuel T. Scott (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jennifer Butler | PENINSULA_SCHOOL_DISTRICT | 2021-2025 |
+| Samuel T. Scott | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2027 |
 

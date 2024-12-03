@@ -1,6 +1,6 @@
-# Positions Supported by Thom Garrard (EDMONDS_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Craig Hereth (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Thom Garrard | EDMONDS_SCHOOL_DISTRICT | December 2025 |
+| Craig Hereth | MARYSVILLE_SCHOOL_DISTRICT | 2021-2025 |
 

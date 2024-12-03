@@ -1,25 +1,5 @@
 # Meeting Summaries for Tag: community-engagement
 
-## 2117-08-20 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Kenmore Community Club will host a Special Meeting - Community Town Hall on i-2117 on August 20, 2024, at 6:00 PM.  The meeting's purpose is to discuss i-2117 with the community. The Board of Directors will be in attendance. Further details regarding i-2117 are not provided in the text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2117/2117-08-20-agenda.txt)
-
-## 2117-08-20 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Kenmore School Board is holding a special meeting on Tuesday, August 20, 2024, at 6:00 PM at the Kenmore Community Club.  The purpose of the meeting is to host a community town hall regarding i-2117. The agenda includes a commencement of meeting, a list of attendees, discussion regarding the town hall, and an end of meeting.  The Board of Directors will be in attendance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2117/2117-08-20-agenda.txt)
-
-## 2025-02-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a special meeting on February 24-25, 2017, to discuss various topics.  The board continued its discussion on board advocacy and roles, initiated in a previous meeting. They also reviewed proposed revisions to Governance Process policies, scheduling further discussion for a future regular meeting. A Board Candidate Informational Meeting was planned for April 19, 2017, to provide information to potential candidates. The Superintendent presented mid-year accomplishments and district initiatives.  
-
-The board engaged in discussions regarding consent agenda practices, responses to monitoring reports, and the scheduling of two additional "linkages" or study sessions: one focused on connecting with Visual and Performing Arts Community Partners and the other on connecting with the LGBTQA Community.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2025/2025-02-24-minutes.txt)
-
 ## 2024-11-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
 The Washington State School Directors' Association is hosting a Board Member Dinner on November 22, 2024, at the Italian Kitchen in Spokane, Washington. This dinner is part of their annual conference and will bring together members of school boards from across the state for networking and discussion. The agenda includes standard items such as commencement of meeting, list of attendees, discussion, and end of meeting.  The specific topics for discussion are not detailed in the provided text.

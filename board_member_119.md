@@ -1,6 +1,6 @@
-# Positions Supported by Julianne DeShayes (ENUMCLAW_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Luckisha Phillips (FEDERAL_WAY_PUBLIC_SCHOOLS, Term: 2018-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Julianne DeShayes | ENUMCLAW_SCHOOL_DISTRICT | 2021-2025 |
+| Luckisha Phillips | FEDERAL_WAY_PUBLIC_SCHOOLS | 2018-2027 |
 

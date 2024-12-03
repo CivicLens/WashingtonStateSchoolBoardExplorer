@@ -1,6 +1,6 @@
-# Positions Supported by Patrick Lewis (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Chelsea McElroy (TACOMA_PUBLIC_SCHOOLS, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Patrick Lewis | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2025 |
+| Chelsea McElroy | TACOMA_PUBLIC_SCHOOLS | 2021-2027 |
 

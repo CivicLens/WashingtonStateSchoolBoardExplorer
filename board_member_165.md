@@ -1,6 +1,6 @@
-# Positions Supported by Mitchell Powers (BICKLETON_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Traci Waddington (LYLE_SCHOOL_DISTRICT, Term: 2020-2023)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mitchell Powers | BICKLETON_SCHOOL_DISTRICT |  |
+| Traci Waddington | LYLE_SCHOOL_DISTRICT | 2020-2023 |
 

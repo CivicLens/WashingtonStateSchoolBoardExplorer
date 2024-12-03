@@ -1,6 +1,6 @@
-# Positions Supported by Trudy Davis (FEDERAL_WAY_PUBLIC_SCHOOLS, Term: 2018-2025)
+# Positions Supported by Donald Cook (KENT_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Trudy Davis | FEDERAL_WAY_PUBLIC_SCHOOLS | 2018-2025 |
+| Donald Cook | KENT_SCHOOL_DISTRICT | 2023-2027 |
 

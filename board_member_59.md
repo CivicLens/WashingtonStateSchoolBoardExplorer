@@ -1,6 +1,6 @@
-# Positions Supported by SALLY LANCASTER (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by John Kennedy (PASCO_SCHOOL_DISTRICT, Term: November 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| SALLY LANCASTER | ORONDO_SCHOOL_DISTRICT | None |
+| John Kennedy | PASCO_SCHOOL_DISTRICT | November 2027 |
 

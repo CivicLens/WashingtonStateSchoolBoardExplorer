@@ -1,6 +1,6 @@
-# Positions Supported by Roseanna Camacho (BETHEL_SCHOOL_DISTRICT, Term: 2018-2025)
+# Positions Supported by Marlee Patterson (CARBONADO_HISTORICAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Roseanna Camacho | BETHEL_SCHOOL_DISTRICT | 2018-2025 |
+| Marlee Patterson | CARBONADO_HISTORICAL_SCHOOL_DISTRICT | None |
 

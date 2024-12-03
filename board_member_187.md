@@ -1,6 +1,6 @@
-# Positions Supported by Chris Dodd (PE_ELL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Edrie Price (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chris Dodd | PE_ELL_SCHOOL_DISTRICT | None |
+| Edrie Price | GRAPEVIEW_SCHOOL_DISTRICT |  |
 

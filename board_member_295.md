@@ -1,6 +1,6 @@
-# Positions Supported by JOHN BECKMAN (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Jill Adams (TUMWATER_SCHOOL_DISTRICT, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| JOHN BECKMAN | RAINIER_SCHOOL_DISTRICT | None |
+| Jill Adams | TUMWATER_SCHOOL_DISTRICT | 2022-2025 |
 

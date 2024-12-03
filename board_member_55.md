@@ -1,6 +1,6 @@
-# Positions Supported by Jason Heinz (EASTMONT_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by ARMANDO DAVILA (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jason Heinz | EASTMONT_SCHOOL_DISTRICT | 2021-2025 |
+| ARMANDO DAVILA | ORONDO_SCHOOL_DISTRICT | None |
 

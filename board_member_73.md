@@ -1,6 +1,6 @@
-# Positions Supported by Shannon Nicholson (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Rita Keene (QUINCY_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Shannon Nicholson | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
+| Rita Keene | QUINCY_SCHOOL_DISTRICT | 2027 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by April Owen (NEWPORT_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Marcus Young, Sr. (BETHEL_SCHOOL_DISTRICT, Term: 2018-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| April Owen | NEWPORT_SCHOOL_DISTRICT | None |
+| Marcus Young, Sr. | BETHEL_SCHOOL_DISTRICT | 2018-2025 |
 

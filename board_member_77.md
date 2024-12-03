@@ -1,6 +1,6 @@
-# Positions Supported by Rich Black (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Dayana Ruiz (QUINCY_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Rich Black | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
+| Dayana Ruiz | QUINCY_SCHOOL_DISTRICT | 2027 |
 

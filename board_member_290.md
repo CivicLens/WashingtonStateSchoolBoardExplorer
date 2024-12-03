@@ -1,6 +1,6 @@
-# Positions Supported by BrieAnne Gray (MEAD_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by JOHN BECKMAN (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| BrieAnne Gray | MEAD_SCHOOL_DISTRICT | 2021-2025 |
+| JOHN BECKMAN | RAINIER_SCHOOL_DISTRICT | None |
 

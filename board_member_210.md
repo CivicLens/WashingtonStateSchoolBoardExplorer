@@ -1,6 +1,6 @@
-# Positions Supported by Connie Moore (NEWPORT_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Erasmo Ruiz (BETHEL_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Connie Moore | NEWPORT_SCHOOL_DISTRICT | None |
+| Erasmo Ruiz | BETHEL_SCHOOL_DISTRICT | 2023-2027 |
 

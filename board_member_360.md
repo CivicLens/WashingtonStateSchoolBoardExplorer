@@ -1,6 +1,6 @@
-# Positions Supported by Leticia Zesati (SUNNYSIDE_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Lori Garcia (WAPATO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Leticia Zesati | SUNNYSIDE_SCHOOL_DISTRICT | 2023-2027 |
+| Lori Garcia | WAPATO_SCHOOL_DISTRICT | None |
 

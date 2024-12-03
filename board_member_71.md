@@ -1,6 +1,6 @@
-# Positions Supported by MATTHEW TRUSCOTT (EPHRATA_SCHOOL_DISTRICT, Term: 2024-2025)
+# Positions Supported by Alex Tufts (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| MATTHEW TRUSCOTT | EPHRATA_SCHOOL_DISTRICT | 2024-2025 |
+| Alex Tufts | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
 

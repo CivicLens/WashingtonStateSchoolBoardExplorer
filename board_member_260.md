@@ -1,6 +1,6 @@
-# Positions Supported by David Cram (LA_CONNER_SCHOOL_DISTRICT, Term: 2024)
+# Positions Supported by Larry Otos (MOUNT_VERNON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| David Cram | LA_CONNER_SCHOOL_DISTRICT | 2024 |
+| Larry Otos | MOUNT_VERNON_SCHOOL_DISTRICT | None |
 

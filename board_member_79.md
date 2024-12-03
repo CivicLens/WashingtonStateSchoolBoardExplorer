@@ -1,6 +1,6 @@
-# Positions Supported by Chad Lower (QUINCY_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Jamie Bailey (ELMA_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chad Lower | QUINCY_SCHOOL_DISTRICT | 2025 |
+| Jamie Bailey | ELMA_SCHOOL_DISTRICT |  |
 

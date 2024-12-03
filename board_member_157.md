@@ -1,6 +1,6 @@
-# Positions Supported by Stacy Mills (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Erin Tostenson (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Stacy Mills | NORTH_KITSAP_SCHOOL_DISTRICT | 2023-2027 |
+| Erin Tostenson | KITTITAS_SCHOOL_DISTRICT | 2021-2027 |
 

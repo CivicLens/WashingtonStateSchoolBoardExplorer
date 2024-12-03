@@ -1,6 +1,6 @@
-# Positions Supported by Lori Glover (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Melanie Tinsley (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Lori Glover | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
+| Melanie Tinsley | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2025 |
 

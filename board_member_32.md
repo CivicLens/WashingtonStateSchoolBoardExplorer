@@ -1,6 +1,6 @@
-# Positions Supported by Gary Wilson (EVERGREEN_PUBLIC_SCHOOLS, Term: 2023-2025)
+# Positions Supported by Patrick Carter (HOCKINSON_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Gary Wilson | EVERGREEN_PUBLIC_SCHOOLS | 2023-2025 |
+| Patrick Carter | HOCKINSON_SCHOOL_DISTRICT | 2021-2025 |
 

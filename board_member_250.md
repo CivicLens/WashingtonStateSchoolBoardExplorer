@@ -1,6 +1,6 @@
-# Positions Supported by Arthur Sanchez (CONCRETE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Alana Quintasket (LA_CONNER_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Arthur Sanchez | CONCRETE_SCHOOL_DISTRICT | None |
+| Alana Quintasket | LA_CONNER_SCHOOL_DISTRICT | 2023-2027 |
 

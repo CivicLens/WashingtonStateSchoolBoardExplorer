@@ -1,6 +1,6 @@
-# Positions Supported by Lisa Guthrie (LAKE_WASHINGTON_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Alberto Laverde (SKYKOMISH_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Lisa Guthrie | LAKE_WASHINGTON_SCHOOL_DISTRICT | 2023-2027 |
+| Alberto Laverde | SKYKOMISH_SCHOOL_DISTRICT | 2021-2027 |
 

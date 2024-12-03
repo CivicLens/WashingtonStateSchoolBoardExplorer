@@ -1,6 +1,6 @@
-# Positions Supported by Lisa Keating (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2025)
+# Positions Supported by Arthur Sanchez (CONCRETE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Lisa Keating | TACOMA_PUBLIC_SCHOOLS | 2019-2025 |
+| Arthur Sanchez | CONCRETE_SCHOOL_DISTRICT | None |
 

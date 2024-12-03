@@ -1,6 +1,6 @@
-# Positions Supported by Julie Bocanegra (EVERGREEN_PUBLIC_SCHOOLS, Term: 2012-2025)
+# Positions Supported by Teresa VanNatta (HOCKINSON_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Julie Bocanegra | EVERGREEN_PUBLIC_SCHOOLS | 2012-2025 |
+| Teresa VanNatta | HOCKINSON_SCHOOL_DISTRICT | 2021-2025 |
 

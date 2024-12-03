@@ -1,6 +1,6 @@
-# Positions Supported by Josh Sainsbury (EPHRATA_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Shannon Nicholson (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Josh Sainsbury | EPHRATA_SCHOOL_DISTRICT | 2023-2027 |
+| Shannon Nicholson | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
 

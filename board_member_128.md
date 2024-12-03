@@ -1,6 +1,6 @@
-# Positions Supported by Meghin Margel (KENT_SCHOOL_DISTRICT, Term: 2022-2027)
+# Positions Supported by Leah Choi (LAKE_WASHINGTON_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Meghin Margel | KENT_SCHOOL_DISTRICT | 2022-2027 |
+| Leah Choi | LAKE_WASHINGTON_SCHOOL_DISTRICT | 2021-2025 |
 

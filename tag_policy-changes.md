@@ -1,19 +1,5 @@
 # Meeting Summaries for Tag: policy-changes
 
-## 2028-02-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board reviewed a report on student academic performance based on standardized testing data.  The board discussed the adequacy of the Smarter Balanced Assessment (SBA) as a measure of student achievement, suggesting it may not be reliable and proposing further discussion about its use in evaluating Policy E-2.1. Concerns were raised about the inclusion of Bellevue as a comparable district due to significant demographic differences, particularly regarding free/reduced lunch eligibility. The board highlighted the need for increased support for Hispanic students and acknowledged a downward trend in performance among students with Individualized Education Programs (IEPs). They commended the thoroughness of the report and expressed interest in revisiting continuous growth data when available.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2028/2028-02-07-minutes.txt)
-
-## 2025-02-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a special meeting on February 24-25, 2017, to discuss various topics.  The board continued its discussion on board advocacy and roles, initiated in a previous meeting. They also reviewed proposed revisions to Governance Process policies, scheduling further discussion for a future regular meeting. A Board Candidate Informational Meeting was planned for April 19, 2017, to provide information to potential candidates. The Superintendent presented mid-year accomplishments and district initiatives.  
-
-The board engaged in discussions regarding consent agenda practices, responses to monitoring reports, and the scheduling of two additional "linkages" or study sessions: one focused on connecting with Visual and Performing Arts Community Partners and the other on connecting with the LGBTQA Community.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2025/2025-02-24-minutes.txt)
-
 ## 2024-11-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The text outlines upcoming events for a school board.  There is a Special Board Meeting scheduled for November 21, 2024 and a Regular Board Meeting will also take place.  The text mentions the board's attendance at the WSSDA Conference in Spokane, WA from November 21-23, 2024. No specific policies or resolutions are mentioned in the provided text.

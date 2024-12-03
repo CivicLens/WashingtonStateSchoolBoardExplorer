@@ -1,6 +1,6 @@
-# Positions Supported by Mr. Jim Ball (ONALASKA_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chad Burnett (PE_ELL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mr. Jim Ball | ONALASKA_SCHOOL_DISTRICT | None |
+| Chad Burnett | PE_ELL_SCHOOL_DISTRICT | None |
 

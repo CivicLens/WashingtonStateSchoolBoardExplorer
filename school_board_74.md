@@ -5,7 +5,6 @@
 No current board members available.
 
 ## Available Years
-- [2117](school_board_74_year_2117.md)
 - [2024](school_board_74_year_2024.md)
 
 ## Summaries by Tag

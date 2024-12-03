@@ -1,6 +1,6 @@
-# Positions Supported by Mike fleurkens (EPHRATA_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by George LaPlace (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mike fleurkens | EPHRATA_SCHOOL_DISTRICT | 2023-2027 |
+| George LaPlace | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
 

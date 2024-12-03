@@ -1,6 +1,6 @@
-# Positions Supported by Nick Wood (CASHMERE_SCHOOL_DISTRICT, Term: 11/27)
+# Positions Supported by Roger Perleberg (CASHMERE_SCHOOL_DISTRICT, Term: 11/25)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Nick Wood | CASHMERE_SCHOOL_DISTRICT | 11/27 |
+| Roger Perleberg | CASHMERE_SCHOOL_DISTRICT | 11/25 |
 

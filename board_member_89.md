@@ -1,6 +1,6 @@
-# Positions Supported by Moraya Wilson (MONTESANO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chad Lower (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Moraya Wilson | MONTESANO_SCHOOL_DISTRICT | None |
+| Chad Lower | QUINAULT_LAKE_SCHOOL_DISTRICT | 2025 |
 

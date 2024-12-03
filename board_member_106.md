@@ -1,6 +1,6 @@
-# Positions Supported by Mike Aman (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2021 - 11/2025)
+# Positions Supported by Jon Cooke (QUILCENE_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mike Aman | CHIMACUM_SCHOOL_DISTRICT | 11/2021 - 11/2025 |
+| Jon Cooke | QUILCENE_SCHOOL_DISTRICT | 2021-2025 |
 

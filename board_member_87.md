@@ -1,6 +1,6 @@
-# Positions Supported by Ryan Cristelli (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Doug Messick (MONTESANO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ryan Cristelli | ELMA_SCHOOL_DISTRICT |  |
+| Doug Messick | MONTESANO_SCHOOL_DISTRICT | None |
 

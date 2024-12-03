@@ -1,6 +1,6 @@
-# Positions Supported by Steve Jones (NOOKSACK_VALLEY_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Lupita Flores (HIGHLAND_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Steve Jones | NOOKSACK_VALLEY_SCHOOL_DISTRICT | None |
+| Lupita Flores | HIGHLAND_SCHOOL_DISTRICT | None |
 

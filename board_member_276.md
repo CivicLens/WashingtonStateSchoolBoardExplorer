@@ -1,6 +1,6 @@
-# Positions Supported by Connor Krebbs (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Justin Voelker (EAST_VALLEY_SCHOOL_DISTRICT, Term: 2013-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Connor Krebbs | MARYSVILLE_SCHOOL_DISTRICT | 2021-2025 |
+| Justin Voelker | EAST_VALLEY_SCHOOL_DISTRICT | 2013-2025 |
 

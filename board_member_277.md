@@ -1,6 +1,6 @@
-# Positions Supported by Eliza Davis (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Jonathan Horsley (EAST_VALLEY_SCHOOL_DISTRICT, Term: 2022-2026)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Eliza Davis | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
+| Jonathan Horsley | EAST_VALLEY_SCHOOL_DISTRICT | 2022-2026 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by RITA WRIGLESWORTH-MELDRUM (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Darby Kaikkonen (TUMWATER_SCHOOL_DISTRICT, Term: 2019-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| RITA WRIGLESWORTH-MELDRUM | RAINIER_SCHOOL_DISTRICT | None |
+| Darby Kaikkonen | TUMWATER_SCHOOL_DISTRICT | 2019-2025 |
 

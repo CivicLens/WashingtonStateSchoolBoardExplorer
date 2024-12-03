@@ -1,6 +1,6 @@
-# Positions Supported by Ty Kuehl (TUMWATER_SCHOOL_DISTRICT, Term: 2024-2025)
+# Positions Supported by Denise Hendrickson (YELM_COMMUNITY_SCHOOLS, Term: 1998-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ty Kuehl | TUMWATER_SCHOOL_DISTRICT | 2024-2025 |
+| Denise Hendrickson | YELM_COMMUNITY_SCHOOLS | 1998-2027 |
 

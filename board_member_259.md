@@ -1,6 +1,6 @@
-# Positions Supported by Susie Deyo (LA_CONNER_SCHOOL_DISTRICT, Term: 2019-2025)
+# Positions Supported by Wendy Ragusa (MOUNT_VERNON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Susie Deyo | LA_CONNER_SCHOOL_DISTRICT | 2019-2025 |
+| Wendy Ragusa | MOUNT_VERNON_SCHOOL_DISTRICT | None |
 

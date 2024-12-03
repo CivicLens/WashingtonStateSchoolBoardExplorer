@@ -1,6 +1,6 @@
-# Positions Supported by Chad Burchard (MEAD_SCHOOL_DISTRICT, Term: 2017-2021)
+# Positions Supported by JUSTIN GURNSEY (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chad Burchard | MEAD_SCHOOL_DISTRICT | 2017-2021 |
+| JUSTIN GURNSEY | RAINIER_SCHOOL_DISTRICT | None |
 

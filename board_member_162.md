@@ -1,6 +1,6 @@
-# Positions Supported by Erin Tostenson (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Tim Mains (BICKLETON_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Erin Tostenson | KITTITAS_SCHOOL_DISTRICT | 2021-2027 |
+| Tim Mains | BICKLETON_SCHOOL_DISTRICT |  |
 

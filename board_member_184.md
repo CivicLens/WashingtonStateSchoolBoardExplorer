@@ -1,6 +1,6 @@
-# Positions Supported by Mara McGrath (PE_ELL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Wes Martin (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mara McGrath | PE_ELL_SCHOOL_DISTRICT | None |
+| Wes Martin | GRAPEVIEW_SCHOOL_DISTRICT |  |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Marc Harvey (LYLE_SCHOOL_DISTRICT, Term: 2023-2025)
+# Positions Supported by Anya Klemmensen (EVALINE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Marc Harvey | LYLE_SCHOOL_DISTRICT | 2023-2025 |
+| Anya Klemmensen | EVALINE_SCHOOL_DISTRICT | None |
 

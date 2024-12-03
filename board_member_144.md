@@ -1,6 +1,6 @@
-# Positions Supported by Michael Wiggins (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
+# Positions Supported by Kate Kruller (TUKWILA_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Michael Wiggins | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
+| Kate Kruller | TUKWILA_SCHOOL_DISTRICT | 2021-2025 |
 

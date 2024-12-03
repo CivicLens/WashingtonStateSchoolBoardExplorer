@@ -5,7 +5,6 @@
 No current board members available.
 
 ## Available Years
-- [2117](school_board_73_year_2117.md)
 - [2024](school_board_73_year_2024.md)
 
 ## Summaries by Tag
@@ -34,16 +33,6 @@ No current board members available.
 - [book-access](school_board_73_tag_book-access.md)
 - [special-education-support](school_board_73_tag_special-education-support.md)
 - [graduation](school_board_73_tag_graduation.md)
-- [here-are-the-tags-that-directly-relate-to-the-topics,-themes,3786.00](school_board_73_tag_here-are-the-tags-that-directly-relate-to-the-topics,-themes,3786.00.md)
-- [project:](school_board_73_tag_project:.md)
-- [project:--installations](school_board_73_tag_project:--installations.md)
-- [contractor:-converge-technology-solutions-inc.](school_board_73_tag_contractor:-converge-technology-solutions-inc..md)
-- [purchase-order:-p2051493](school_board_73_tag_purchase-order:-p2051493.md)
-- [final-contract-amount:-$253,360.00](school_board_73_tag_final-contract-amount:-$253,360.00.md)
-- [location(s):-various-schools](school_board_73_tag_location(s):-various-schools.md)
-- [##-summary:](school_board_73_tag_##-summary:.md)
-- [the-school-board-agenda-includes-information-regarding-completed-projects-under-$1-million.-three-projects-are-highlighted:--ssc-building-improvements,-security-camera-installations,-and-two-playground-improvement-projects-at-cottage-lake-elementary-and-eastridge-elementary.-the-ssc-building-improvements-project,-contracted-to-forma-construction-company-for-a-final-amount-of-$409,663.00,-focused-on-enhancing-safety-measures-at-the-support-service-center.](school_board_73_tag_the-school-board-agenda-includes-information-regarding-completed-projects-under-$1-million.-three-projects-are-highlighted:--ssc-building-improvements,-security-camera-installations,-and-two-playground-improvement-projects-at-cottage-lake-elementary-and-eastridge-elementary.-the-ssc-building-improvements-project,-contracted-to-forma-construction-company-for-a-final-amount-of-$409,663.00,-focused-on-enhancing-safety-measures-at-the-support-service-center..md)
-- [the-security-camera-installations-project,-completed-by-kcda-siemens-industry-inc.,-totaled-$253,360.00-and-involved-installing-security-cameras-across-various-schools.-the-agenda-does-not-provide-details-regarding-the-scope-of-work-or-specific-improvements-made-within-each-project.](school_board_73_tag_the-security-camera-installations-project,-completed-by-kcda-siemens-industry-inc.,-totaled-$253,360.00-and-involved-installing-security-cameras-across-various-schools.-the-agenda-does-not-provide-details-regarding-the-scope-of-work-or-specific-improvements-made-within-each-project..md)
 - [teacher-support](school_board_73_tag_teacher-support.md)
 - [leadership](school_board_73_tag_leadership.md)
 - [school-board-meeting](school_board_73_tag_school-board-meeting.md)

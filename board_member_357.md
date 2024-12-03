@@ -1,6 +1,6 @@
-# Positions Supported by Jamie Morford (SELAH_SCHOOL_DISTRICT, Term: 2013-2025)
+# Positions Supported by Jilliann Patterson (SUNNYSIDE_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jamie Morford | SELAH_SCHOOL_DISTRICT | 2013-2025 |
+| Jilliann Patterson | SUNNYSIDE_SCHOOL_DISTRICT | 2021-2025 |
 

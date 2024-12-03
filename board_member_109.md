@@ -1,6 +1,6 @@
-# Positions Supported by Shona Davis (QUILCENE_SCHOOL_DISTRICT, Term: 2024-2025)
+# Positions Supported by Carolyn Watson (BELLEVUE_SCHOOL_DISTRICT, Term: December 2023 - November 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Shona Davis | QUILCENE_SCHOOL_DISTRICT | 2024-2025 |
+| Carolyn Watson | BELLEVUE_SCHOOL_DISTRICT | December 2023 - November 2027 |
 

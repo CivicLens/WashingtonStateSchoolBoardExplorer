@@ -1,6 +1,6 @@
-# Positions Supported by Ben Stouffer (ENUMCLAW_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Joan Marie Murphy (FEDERAL_WAY_PUBLIC_SCHOOLS, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ben Stouffer | ENUMCLAW_SCHOOL_DISTRICT | 2023-2027 |
+| Joan Marie Murphy | FEDERAL_WAY_PUBLIC_SCHOOLS | 2023-2027 |
 

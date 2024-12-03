@@ -1,6 +1,6 @@
-# Positions Supported by President (LONGVIEW_PUBLIC_SCHOOLS, Term: None)
+# Positions Supported by Paul Ebreo (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| President | LONGVIEW_PUBLIC_SCHOOLS | None |
+| Paul Ebreo | BRIDGEPORT_SCHOOL_DISTRICT | December 2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Mark Vorce (LYLE_SCHOOL_DISTRICT, Term: 2020-2024)
+# Positions Supported by Matt Klemmensen (EVALINE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mark Vorce | LYLE_SCHOOL_DISTRICT | 2020-2024 |
+| Matt Klemmensen | EVALINE_SCHOOL_DISTRICT | None |
 

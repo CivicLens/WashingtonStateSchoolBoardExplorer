@@ -1,6 +1,6 @@
-# Positions Supported by Darby Kaikkonen (TUMWATER_SCHOOL_DISTRICT, Term: 2019-2025)
+# Positions Supported by Bill Hauss (YELM_COMMUNITY_SCHOOLS, Term: 2004-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Darby Kaikkonen | TUMWATER_SCHOOL_DISTRICT | 2019-2025 |
+| Bill Hauss | YELM_COMMUNITY_SCHOOLS | 2004-2027 |
 

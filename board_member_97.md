@@ -1,6 +1,6 @@
-# Positions Supported by Dayana Ruiz (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Sharon Jensen (OAK_HARBOR_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dayana Ruiz | QUINAULT_LAKE_SCHOOL_DISTRICT | 2027 |
+| Sharon Jensen | OAK_HARBOR_SCHOOL_DISTRICT | 2023-2025 |
 

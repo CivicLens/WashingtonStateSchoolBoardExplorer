@@ -1,6 +1,6 @@
-# Positions Supported by Mark Tomas (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Mike Bly (EAST_VALLEY_SCHOOL_DISTRICT, Term: 2019-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mark Tomas | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
+| Mike Bly | EAST_VALLEY_SCHOOL_DISTRICT | 2019-2025 |
 

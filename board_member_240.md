@@ -1,6 +1,6 @@
-# Positions Supported by Samuel T. Scott (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Lisa Keating (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Samuel T. Scott | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2027 |
+| Lisa Keating | TACOMA_PUBLIC_SCHOOLS | 2019-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Dave Larson (TUKWILA_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Stacy Mills (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dave Larson | TUKWILA_SCHOOL_DISTRICT | 2027 |
+| Stacy Mills | NORTH_KITSAP_SCHOOL_DISTRICT | 2023-2027 |
 

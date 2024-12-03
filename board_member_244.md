@@ -1,6 +1,6 @@
-# Positions Supported by Loujanna Rohrer (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Elizabeth Bonbright (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2029)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Loujanna Rohrer | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2027 |
+| Elizabeth Bonbright | TACOMA_PUBLIC_SCHOOLS | 2019-2029 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Vice President (LONGVIEW_PUBLIC_SCHOOLS, Term: None)
+# Positions Supported by Wayne van Zwoll (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Vice President | LONGVIEW_PUBLIC_SCHOOLS | None |
+| Wayne van Zwoll | BRIDGEPORT_SCHOOL_DISTRICT | December 2027 |
 

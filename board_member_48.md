@@ -1,6 +1,6 @@
-# Positions Supported by Kathy Corbin (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Lauren Miehe (EASTMONT_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kathy Corbin | BRIDGEPORT_SCHOOL_DISTRICT | December 2025 |
+| Lauren Miehe | EASTMONT_SCHOOL_DISTRICT | 2023-2027 |
 

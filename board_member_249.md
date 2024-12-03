@@ -1,6 +1,6 @@
-# Positions Supported by Elizabeth Bonbright (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2029)
+# Positions Supported by Paul Rogge (CONCRETE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Elizabeth Bonbright | TACOMA_PUBLIC_SCHOOLS | 2019-2029 |
+| Paul Rogge | CONCRETE_SCHOOL_DISTRICT | None |
 

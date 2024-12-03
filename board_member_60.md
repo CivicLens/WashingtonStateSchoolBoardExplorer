@@ -1,6 +1,6 @@
-# Positions Supported by ARMANDO DAVILA (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Amanda Brown (PASCO_SCHOOL_DISTRICT, Term: November 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| ARMANDO DAVILA | ORONDO_SCHOOL_DISTRICT | None |
+| Amanda Brown | PASCO_SCHOOL_DISTRICT | November 2025 |
 

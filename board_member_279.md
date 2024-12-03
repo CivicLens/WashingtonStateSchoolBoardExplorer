@@ -1,6 +1,6 @@
-# Positions Supported by Craig Hereth (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Stephanie Stout (LIBERTY_SCHOOL_DISTRICT, Term: 2024-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Craig Hereth | MARYSVILLE_SCHOOL_DISTRICT | 2021-2025 |
+| Stephanie Stout | LIBERTY_SCHOOL_DISTRICT | 2024-2027 |
 

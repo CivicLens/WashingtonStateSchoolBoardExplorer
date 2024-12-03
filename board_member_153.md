@@ -1,6 +1,6 @@
-# Positions Supported by Edward Wright (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2024-2025)
+# Positions Supported by Billy Fekkes (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Edward Wright | NORTH_KITSAP_SCHOOL_DISTRICT | 2024-2025 |
+| Billy Fekkes | KITTITAS_SCHOOL_DISTRICT | 2021-2027 |
 

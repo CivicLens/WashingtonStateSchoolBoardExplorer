@@ -1,6 +1,6 @@
-# Positions Supported by Franny Sweeters (SKYKOMISH_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Matt Carreon (TAHOMA_SCHOOL_DISTRICT, Term: 2-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Franny Sweeters | SKYKOMISH_SCHOOL_DISTRICT | 2021-2025 |
+| Matt Carreon | TAHOMA_SCHOOL_DISTRICT | 2-year term through Dec. 2024 |
 

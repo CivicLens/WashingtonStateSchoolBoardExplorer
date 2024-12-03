@@ -1,6 +1,6 @@
-# Positions Supported by Amy Phillips (PASCO_SCHOOL_DISTRICT, Term: November 2025)
+# Positions Supported by MATTHEW TRUSCOTT (EPHRATA_SCHOOL_DISTRICT, Term: 2024-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Amy Phillips | PASCO_SCHOOL_DISTRICT | November 2025 |
+| MATTHEW TRUSCOTT | EPHRATA_SCHOOL_DISTRICT | 2024-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Lupita Flores (HIGHLAND_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Sarah Michael (SELAH_SCHOOL_DISTRICT, Term: 2018-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Lupita Flores | HIGHLAND_SCHOOL_DISTRICT | None |
+| Sarah Michael | SELAH_SCHOOL_DISTRICT | 2018-2027 |
 

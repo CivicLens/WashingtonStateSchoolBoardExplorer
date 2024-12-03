@@ -1,6 +1,6 @@
-# Positions Supported by Doug Messick (MONTESANO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Dayana Ruiz (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Doug Messick | MONTESANO_SCHOOL_DISTRICT | None |
+| Dayana Ruiz | QUINAULT_LAKE_SCHOOL_DISTRICT | 2027 |
 

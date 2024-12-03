@@ -1,6 +1,6 @@
-# Positions Supported by Awale Farah (KENT_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Lisa Guthrie (LAKE_WASHINGTON_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Awale Farah | KENT_SCHOOL_DISTRICT | 2021-2025 |
+| Lisa Guthrie | LAKE_WASHINGTON_SCHOOL_DISTRICT | 2023-2027 |
 

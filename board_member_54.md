@@ -1,6 +1,6 @@
-# Positions Supported by Whitney Smith (EASTMONT_SCHOOL_DISTRICT, Term: 2019-2027)
+# Positions Supported by SALLY LANCASTER (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Whitney Smith | EASTMONT_SCHOOL_DISTRICT | 2019-2027 |
+| SALLY LANCASTER | ORONDO_SCHOOL_DISTRICT | None |
 
