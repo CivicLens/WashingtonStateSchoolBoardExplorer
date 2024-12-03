@@ -26,6 +26,12 @@ The Bellingham School District is hosting an informational meeting for individua
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
 
+## 2024-10-28 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on October 28, 2024, where they discussed various topics including the recent recognition of River HomeLink as a "School on the Rise," which highlights efforts to foster inclusive and equitable environments. The board also addressed mental health support through referrals to Care Solace and recognized the importance of social-emotional learning (SEL) initiatives. There was a focus on curriculum transparency, particularly regarding updates to the library information and technology programs, which included a review of procedures to ensure consistency and best practices in selecting books. The meeting also included citizen comments on topics such as harmful chemicals in water and the need for smaller class sizes, reflecting community engagement and feedback on pressing issues. Additionally, the board approved several items in the consent agenda, including a contract amendment for Amergis Healthcare Staffing and the Carl Perkins Grant for Career and Technical Education programs, indicating ongoing policy changes to support educational and operational needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-10-28-minutes.txt)
+
 ## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
 The October 14th, 2024 study session agenda for the school board focuses on reviewing information related to the 2025-2026 budget development.  The meeting will take place at 6:00 PM in the Administrative Center Board Room and is categorized as a public content meeting. A file attachment titled "25-26 PPT - October 14 as of 10.10.24.pdf" (502 KB) is included with the agenda, suggesting that detailed budget proposals will be presented for discussion.
@@ -37,6 +43,20 @@ The October 14th, 2024 study session agenda for the school board focuses on revi
 The Lynden School District #504 Board of Directors met on October 12, 2024, to discuss various topics related to district operations and strategic planning.  The meeting focused on reviewing the district's strategic priorities and key performance indicators, with a particular emphasis on multilingual language proficiency growth. Additionally, the board engaged in discussions regarding board development and effective governance practices. Superintendent David VanderYacht provided an update on the long-range capital facilities plan from June 2023, including information on impact fees.  The meeting concluded at 12:55 pm.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
+
+## 2024-10-11 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Mercer Island School District Board of Directors held a special meeting on October 11, 2024, to discuss Board Policy 1800 OE-1, which focuses on personalized learning, and to review the iReady Math assessment tool under Board Policy 1800 OE-10. Superintendent Fred Rundle introduced Dr. Ray Smith to lead a discussion on the importance of effective teaching practices, emphasizing the need for potential revisions to the policy language to broaden the focus from "personalized learning" to "learning" as a whole. The Board acknowledged the necessity of defining the "why," "how," and "what" of the policy and discussed metrics to monitor progress, such as the percentage of teachers whose students show significant growth. In the afternoon, discussions centered on the iReady assessment tool, with representatives from Curriculum Associates presenting its adaptive nature and the importance of using multiple data sources for comprehensive student evaluations. The Board expressed the need for clear measures and monitoring systems to enhance instructional decisions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-10-11-minutes.txt)
+
+## 2024-09-24 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
+
+The Wahluke School District Board Meeting on September 24, 2024, focused on various community engagement initiatives and updates from different school programs. Daniel Barajas reported on the thriving SkillsUSA program, which aims for a "chapter of excellence" with plans for multiple fundraisers and student trips. Kassidy Lennington proposed the establishment of a new Art Club at the high school, while Michael Kantman sought approval to send students to the NCSA Conference in Memphis, highlighting opportunities for student involvement and leadership development. 
+
+Several curriculum updates were presented, including the addition of eDynamic Learning curriculum by Myron Hamilton, which aims to enhance educational offerings. The board also approved several personnel changes, including new hires and coaching resignations, as part of their ongoing efforts to support special education. The meeting concluded with the approval of various policies, including Policy 6217 regarding Electronic Funds Transfer and Policy 6550 concerning the Capitalization Threshold for Leases, both of which underwent a second reading and were adopted. These actions reflect the board's commitment to transparency and effective governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-09-24-minutes.txt)
 
 ## 2024-09-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -181,6 +201,12 @@ This school board agenda and meeting minutes detail upcoming discussions and act
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-22-agenda.txt)
 
+## 2024-07-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on July 22, 2024, where several significant actions and discussions took place. The board approved the food services management contract with Chartwells for the 2024-25 school year, as presented by Darcy Spierkman in the absence of Michelle Scott. Additionally, the board accepted the first reading of the Go Math curriculum for Grades K-6 and Grades 7-8, indicating a commitment to curriculum transparency. Revisions were made to multiple policies, including Policy 2022 on Electronic Resources and Internet Safety, Policy 2023 on Digital Citizenship and Media Literacy, and Policy 2121 on the Substance Abuse Program, reflecting ongoing policy changes aimed at enhancing student safety and educational standards. The meeting also featured citizen comments on concerns regarding policy and procedure 2021, showcasing community engagement on educational policies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-07-22-minutes.txt)
+
 ## 2024-07-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The Meridian School District Board will hold a special meeting on July 10th, 2024 to discuss various agenda items.  A key focus is the "Second Review and Approval" of the 2024-25 MSD Board Meeting Plan of Work Calendar. Additionally, the board will conduct a first review of Procedure 2151P - Interscholastic Activities, with plans for a second review and approval on July 23rd, 2024. The meeting agenda also includes discussion and potential approval of the MHS LOSS Drain Field Repair Contract.  The meeting will be held at 5:00 PM in the Professional Development Room.
@@ -251,6 +277,12 @@ The meeting also included first readings of several procedures, including Proced
 | [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
 | [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
 
+## 2024-06-24 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on June 24, 2024, where several significant policy changes were approved. Notably, the Board accepted the first reading of the High School Child Development curriculum titled "Working with Young Children" by Judy Herr, which aims to enhance curriculum transparency. Additionally, revisions were made to multiple policies, including Policy 3241 on Student Discipline, which was approved, and Policy 3143, which was renamed to "Notification and Dissemination of Information about Student Offenses and Notification of Threats of Violence or Harm." The Board also approved changes to Policy 3120 on Enrollment and Policy 6022 on Fund Balance, reflecting ongoing adjustments to district policies. These actions demonstrate the Board's commitment to updating educational standards and ensuring effective governance within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-06-24-minutes.txt)
+
 ## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham Public Schools board meeting minutes highlight the district's commendable progress in various areas, including academic standards and curriculum transparency.  The report showcases examples like compacted math for middle schoolers and online learning tools as positive additions to the curriculum. The board expresses appreciation for the district's focus on student autonomy through initiatives like the 5th-grade strings program. Additionally, the district's commitment to social-emotional learning and mental health support is lauded.  The minutes also reflect a desire for continued improvement in attendance rates, particularly in light of pandemic-related challenges. The board encourages exploration of creative solutions to address scheduling conflicts that may discourage middle school students from pursuing arts education.
@@ -290,6 +322,12 @@ File Attachments\n2024-04 fund category, project phase
 Projects Fund.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-10-agenda.txt)
+
+## 2024-06-06 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The June 6, 2024 Regular Business Meeting of the Board of Directors included various key actions and updates. Notably, the board approved the 2024-2025 instructional materials for K-5 Literacy, 4th Grade Social Studies, Middle School Social Emotional Learning, Edge Fundamentals for Grades 6-8 Literacy, and the French Curriculum for grades 9-12. These approvals were made through a series of motions led by President Carolyn Watson and Director Bloch, all of which received unanimous support from the board. The meeting also featured a report on the Annual Plan Progress regarding communications and a discussion on the Sustainability Plan. Additionally, the board engaged in an executive session to evaluate a complaint against a public employee and discuss potential litigation, emphasizing the board's commitment to addressing legal and financial implications for the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-06-06-minutes.txt)
 
 ## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -372,6 +410,12 @@ The Meridian School District #505 held a regular school board meeting on April 2
 | [Marty Gray](board_member_334.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
 | [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
 
+## 2024-04-23 - CHIMACUM_SCHOOL_DISTRICT (Minutes)
+
+The meeting on April 23, 2024, focused on the adoption of health and English Language Arts (ELA) curricula. The transition from FLASH to PTWY for elementary health education was discussed, highlighting the need for engaging content for younger students. The new curriculum meets state requirements for HIV education starting in 5th grade, with 8.5 hours allocated for health education in grades 5 and 6, and 16 hours for grades 7-12. The presentations emphasized the importance of comprehensive health education that respects student rights and responsibilities. In ELA, the committee reviewed the history of curriculum adoption, noting that the Wit and Wisdom program was rejected, while Wonders and Amplify CKLA were piloted. Concerns were raised about the suitability of the Wonders curriculum for special education students, and the committee acknowledged the differing preferences between primary and upper elementary teachers regarding foundational skills and engaging materials. The discussions underscored the necessity for curriculum transparency and responsiveness to diverse student needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/jefferson/school_boards/chimacum_school_district/2024/2024-04-23-aprilimc-minutes.txt)
+
 ## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School District #504 Board Meeting agenda outlines several policy discussions and potential actions. First readings are scheduled for policies 2413 (Equivalency Credit Opportunities), 6700 (Nutrition), 6701 (Recess & Physical Activity), 6702 (Wellness), and 2124 (Physical Education & Health Class).  A second reading will be held for Policy 3421 (Child Abuse & Neglect). The board will also consider approving Pro/Con Committee Members related to a bond resolution and Resolution #05-24, focusing on the Asset Preservation Program.  The agenda emphasizes community engagement by allowing time for information from the audience regarding both agenda and non-agenda items.
@@ -398,6 +442,12 @@ The Meridian School District #505 held a regular school board meeting on April 1
 The board discussed and approved several resolutions including Emergency Repair Resolution 02-24 and Resolution 03-24 - Emergency Declaration and Waiving Bid Laws. The purpose of these resolutions was not explicitly stated in the provided text. Additionally, a first review was conducted for the BTC Admission Data Sharing Interlocal Agreement, which will be brought back for final approval at the next meeting.  The superintendent provided an update on budget work, the approval of a 180-day waiver day application and maintenance updates.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-minutes.txt)
+
+## 2024-04-08 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on April 8, 2024, where several key topics were discussed. Superintendent Denny Waters reported on a potential School Resource Officer (SRO) for Prairie High School, which would cost approximately $90,000 for the 2024-25 school year. The board also addressed mental health support, approving a contract with Care Solace to improve access to mental health services for students, funded by the AWARE grant. Additionally, the board conducted first readings for new curriculum proposals, including a curriculum for Middle School Science (Amplify Science, Copyright 2022) and High School Social Studies, emphasizing transparency in the curriculum adoption process. The board members asked clarifying questions regarding these proposals and the mental health initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-04-08-minutes.txt)
 
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -473,6 +523,12 @@ The Bothell School District Board of Directors will be holding a special meeting
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-05-agenda.txt)
 
+## 2024-02-26 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on February 26, 2024, where several key actions and discussions took place. Notably, the board approved the second reading and adoption of Policy 6815 regarding Advertising on District Property, which formalizes existing practices while ensuring compliance with non-discrimination and freedom of speech principles. The board also reviewed and approved curriculum proposals for Advanced Placement (AP) Social Studies and Science courses, highlighting the district's commitment to high-quality education and transparency in the curriculum adoption process. Additionally, the board approved the Career and Technical Education Plan presented by Cindy Arnold, which reflects the district's ongoing efforts to enhance educational opportunities for students. The meeting included updates on various projects, including the award of a contract for a Public Safety Distributed Antenna System to improve security in schools, funded by a federal grant.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-26-regularboardmeeting-minutes.txt)
+
 ## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail a regular school board meeting held on February 22, 2024.  The board addressed various topics including student safety with the approval of MB Policy 6605 Student Safety Walking, Biking, and Riding Buses. Discussions also centered around academic standards, specifically the review and approval of MB Policy 5010 Nondiscrimination and Affirmative Action, and MB Policy 6020 Systems of Funds and Accounts.
@@ -538,6 +594,24 @@ The Lynden School District #504 Board Meeting agenda focuses on several key area
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-agenda.txt)
 
+## 2024-02-13 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 Board of Education held a regular meeting on February 13, 2024, where they addressed various topics including community engagement and academic standards. Superintendent Dr. Dani Pfeiffer introduced Principal Charleen Prichard, who provided a school highlight, emphasizing the importance of community partnerships. The Board recognized scholars and staff for their achievements, reflecting a commitment to diversity and inclusion. Notably, the Board approved the adoption of the 3-5 and 6-8 English Language Arts (ELA) Curriculum, which is part of their focus on maintaining academic standards and ensuring curriculum transparency. Additionally, the meeting included a discussion on Resolution 2024-02, which authorized surplus disposition requirements under RCW 28A.335.180, demonstrating the Board's intent to manage district resources effectively.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-13-minutes.txt)
+
+## 2024-02-12 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on February 12, 2024, where significant discussions and decisions were made regarding curriculum proposals and policy revisions. Notably, the board accepted the first readings of Advanced Placement (AP) courses in social studies and science, including AP Government and Politics, AP Human Geography, AP U.S. History, AP World History, AP Biology, AP Chemistry, and AP Environmental Science. Each motion carried unanimously with a student advisory vote in favor. Furthermore, the board approved a revision of Policy 4060, which expanded the distribution of materials to include governmental entities alongside nonprofit organizations, ensuring that such distribution does not interfere with the educational process. Additionally, the board received citizen comments regarding the retention of books in high school libraries, highlighting the ongoing conversation around book access.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-12-minutes.txt)
+
+## 2024-02-12 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+On February 12, 2024, the Battle Ground Public Schools Board of Directors held a regular meeting where they discussed several significant topics. Notably, the board approved the first readings of curriculum proposals for Advanced Placement (AP) Social Studies and AP Science courses, presented by Allison Tuchardt and Dave Cresap. These proposals are part of a broader curriculum adoption process governed by the College Board's requirements. The board also revised Policy 4060, which governs the distribution of materials, aligning it with model policies from the Washington State School Directors' Association to include governmental entities alongside nonprofit organizations. The meeting included various reports from board members and staff, emphasizing community engagement and the importance of student voice in board decisions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-12-regularboardmeeting-minutes.txt)
+
 ## 2024-02-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board held a regular meeting on February 7, 2024.  The meeting included standard agenda items such as approval of consent agenda items (meeting minutes, accounts payable, payroll, personnel report, student travel, and addition of instructional materials committee members), recognition of students for their persuasive writing projects, and reports from Professional Learning Communities (PLCs) on kindergarten phonics, middle school math progress, high school biology standards, and elementary STEAM math focus.  
@@ -560,6 +634,12 @@ The Lynden School District #504 Board of Directors held a special meeting on Feb
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
 
+## 2024-01-25 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The school board discussed several policy changes aimed at enhancing diversity and inclusion within the curriculum. A notable proposal was the revision of the existing curriculum to include more comprehensive content on diverse cultures and perspectives. This change is intended to promote inclusivity and ensure that all students see their identities reflected in their education. The board emphasized the importance of curriculum transparency, stating that parents and community members would have access to the updated materials for review. Additionally, the board received feedback from parents regarding the proposed changes, highlighting the community's interest in fostering an inclusive educational environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-25-approved-minutes.txt)
+
 ## 2024-01-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on January 24, 2024.  The meeting covered a range of topics including curriculum and policy updates. The board reviewed and approved the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work. Three new policies were introduced for first reading: Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment. These will be revisited at the February 7th meeting for second review and potential approval.  The board also appointed Michelle Simmons as the Legislative Representative and Jana Haugen as the WIAA Board Representative. During the superintendent's report, Dr. Everett highlighted the maintenance team's efforts during recent weather events, a partnership opportunity with UW AmplifyLearn.AI, and upcoming events like the replacement levy election. Student representative Kennedy Brzozowski reported on the student advisory council's focus on wellness and principal interviews.  Several board directors shared positive feedback about attending the Share Fair at MP3.
@@ -579,11 +659,23 @@ The Meridian School District #505 held a regular school board meeting on January
 | [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
 
+## 2024-01-23 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where various agenda items were addressed, including the approval of the Required Approvals Agenda and the Meeting Agenda. Key actions included the approval of Resolution 2024-01, which authorizes the waiver of public bidding requirements as per RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and introduced several recognitions, including the Because of You Awards for outstanding scholars and staff. The meeting also featured reports from student representatives and discussions on legislative updates, highlighting the board's commitment to community engagement and transparency in academic standards. The board assessed its performance and discussed recent events impacting the district. The meeting concluded with an adjournment at 7:53 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-23-minutes.txt)
+
 ## 2024-01-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
 The school board agenda outlines a regular meeting on January 22, 2024.  The meeting includes time for general comments from the directors and discussion of future meetings and agenda suggestions. A School Improvement Plan mid-year work session is scheduled for February 26, 2024, followed by a regular board meeting. Suggested agenda items include recognizing Education Support Professionals Week and School Retirees' Appreciation Week, receiving a High School Student Report and School Administrator Monthly Reports, discussing enrollment updates and financial reports, and hearing the Superintendent's report. The agenda also includes a potential executive session for discussion of confidential matters allowed under state statute.  The meeting concludes with a formal motion to adjourn.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-22-agenda.txt)
+
+## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on January 22, 2024, where several significant actions were taken regarding curriculum and policy changes. The board approved the new course codes for Intensive Math IC and English IV, presented by Director of Instructional Leadership Travis Drake, with both motions carrying unanimously. Additionally, the board approved a revision of Policy 2255, which now includes the Battle Ground Virtual Academy and clarifies assessment and enrollment processes. A further revision of Policy 6550 regarding the Capitalization Threshold for Lease and Subscription-Based Information Technology Arrangements (SBITAs) was also approved, reflecting updated guidance from the state auditor's office. The meeting included student voices, with representatives from Maple Grove Primary School discussing positive aspects of their educational experience, highlighting community engagement in school activities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-minutes.txt)
 
 ## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

@@ -1,10 +1,42 @@
 # Meeting Summaries for Tag: social-emotional-learning
 
+## 2024-11-12 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 held a Special Board Meeting on November 12, 2024, where various educational and administrative matters were discussed. The meeting included a presentation on Multi-tiered Systems of Support (MTSS) and Social-Emotional Learning (SEL), emphasizing the district's commitment to supporting student mental health and emotional well-being. Superintendent Dr. Dani Pfeiffer introduced key staff members who provided updates on these initiatives, highlighting the importance of inclusive practices and support systems for all students, including those from diverse backgrounds. 
+
+Additionally, the Board approved Resolution 2024-17 regarding Superintendent Signing Authority and made updates to Board Policies GP-1 and GP-2, which pertain to governance processes. The Board also confirmed compliance with various governance policies, ensuring adherence to established standards. These actions reflect ongoing efforts to enhance organizational performance and ensure effective leadership within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-11-12-minutes.txt)
+
+## 2024-10-28 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on October 28, 2024, where they discussed various topics including the recent recognition of River HomeLink as a "School on the Rise," which highlights efforts to foster inclusive and equitable environments. The board also addressed mental health support through referrals to Care Solace and recognized the importance of social-emotional learning (SEL) initiatives. There was a focus on curriculum transparency, particularly regarding updates to the library information and technology programs, which included a review of procedures to ensure consistency and best practices in selecting books. The meeting also included citizen comments on topics such as harmful chemicals in water and the need for smaller class sizes, reflecting community engagement and feedback on pressing issues. Additionally, the board approved several items in the consent agenda, including a contract amendment for Amergis Healthcare Staffing and the Carl Perkins Grant for Career and Technical Education programs, indicating ongoing policy changes to support educational and operational needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-10-28-minutes.txt)
+
+## 2024-10-14 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on October 14, 2024, where various topics were discussed, including updates from student representatives on events at their schools and the importance of community engagement. Notably, citizens addressed the board on issues related to LGBTQ+ representation, Indigenous Peoples month, and inclusive sex education. The board approved the retirement of Policy 5612, which dealt with Temporary Administrators, as it was deemed redundant with Policy 5001 regarding the hiring of retired school employees. Additionally, revisions to Policy 6220 on Bid or Request for Proposal Requirements were approved to reflect changes in statutory law under Senate Bill 5268. Superintendent Denny Waters provided insights into the AWARE grant's purpose, which aims to enhance mental health support and social-emotional learning initiatives within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-10-14-minutes.txt)
+
 ## 2024-10-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Happy Valley Elementary School on October 1, 2024.  The purpose of the visit was to learn about the school's social-emotional learning curriculum and its integration with International Baccalaureate (IB) programs, Teacher Principal Evaluation Program (TPEP), and Universal Design for Learning (UDL). The board used a rubric provided by the school principal to assess classrooms during their visit. Following the classroom visits, the board engaged in a debriefing session to discuss key takeaways from their observations.  The meeting highlighted the district's focus on student well-being and the implementation of comprehensive learning approaches that address both academic and social-emotional needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-01-minutes.txt)
+
+## 2024-09-09 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on September 9, 2024, where they recognized the contributions of School Resource Officers to school safety. The board discussed various updates, including the importance of social-emotional learning (SEL) and mental health initiatives, as highlighted by multiple citizens' comments advocating for such programs. Additionally, the board approved the retirement of Policy 5521 - Teacher Assistance Program, noting that the regulation directing the program has been repealed and that current statutes do not include specific provisions for it. This change reflects a shift in policy focus. Community engagement was evident, with citizens voicing concerns on topics such as student privacy, SEL, and the importance of crossing guards and extracurricular activities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-09-09-minutes.txt)
+
+## 2024-08-26 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on August 26, 2024, where significant discussions and decisions took place regarding the 2024-2025 budget and various educational proposals. Notably, the Board approved Resolution E-24, which adopts the proposed budget for the upcoming school year. The meeting also included the approval of Requests for Proposals (RFPs) for a Social-Emotional Learning (SEL) curriculum and a K-8 Universal Screener, indicating a focus on enhancing student mental health and learning assessments. Additionally, community engagement was highlighted through citizen comments, with residents addressing issues such as the need for water filters in schools and referencing specific policies like Policy 3210. The Board also discussed the importance of upcoming events and legislative updates, illustrating ongoing efforts to involve the community and address educational needs effectively.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-08-26-minutes.txt)
 
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -19,6 +51,12 @@ The board expresses concern over attendance rates, which they hope will improve 
 The Bellingham Public Schools board meeting minutes highlight the district's commendable progress in various areas, including academic standards and curriculum transparency.  The report showcases examples like compacted math for middle schoolers and online learning tools as positive additions to the curriculum. The board expresses appreciation for the district's focus on student autonomy through initiatives like the 5th-grade strings program. Additionally, the district's commitment to social-emotional learning and mental health support is lauded.  The minutes also reflect a desire for continued improvement in attendance rates, particularly in light of pandemic-related challenges. The board encourages exploration of creative solutions to address scheduling conflicts that may discourage middle school students from pursuing arts education.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
+
+## 2024-06-06 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The June 6, 2024 Regular Business Meeting of the Board of Directors included various key actions and updates. Notably, the board approved the 2024-2025 instructional materials for K-5 Literacy, 4th Grade Social Studies, Middle School Social Emotional Learning, Edge Fundamentals for Grades 6-8 Literacy, and the French Curriculum for grades 9-12. These approvals were made through a series of motions led by President Carolyn Watson and Director Bloch, all of which received unanimous support from the board. The meeting also featured a report on the Annual Plan Progress regarding communications and a discussion on the Sustainability Plan. Additionally, the board engaged in an executive session to evaluate a complaint against a public employee and discuss potential litigation, emphasizing the board's commitment to addressing legal and financial implications for the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-06-06-minutes.txt)
 
 ## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
@@ -46,6 +84,12 @@ The school board agenda outlines a retreat meeting focused on several key topics
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-18-agenda.txt)
 
+## 2024-03-04 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The March 4, 2024 Board Meeting of the Lake Washington School District included several key recognitions and resolutions. Notably, the Board recognized 54 teachers who achieved or maintained their National Board Certification, emphasizing support for teacher development. Additionally, a proclamation was read designating March 11-15, 2024 as Education Support Professionals Week, highlighting the importance of educational support staff. A further proclamation designated March 8, 2024 as Social Emotional Learning Day, underscoring the district's commitment to mental health and social-emotional learning initiatives. The meeting also featured public comments on various topics, including inclusion and transportation safety, reflecting community engagement in district matters. The Board approved several resolutions, including the consent agenda and a Human Resources Report, which included recommendations for conditional certificates and out-of-endorsement assignments for educators.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-04-minutes.txt)
+
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
@@ -56,9 +100,15 @@ Key themes that emerged included the need for safe spaces like GSA, concerns abo
 
 ## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on February 26, 2024, to discuss Goal 2 of their long-term strategic plan. This goal focuses on fostering "Responsible, Resilient, Empathetic Learners."  The meeting, which lasted from 5:04 PM to 6:38 PM, included attendees such as board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The specific details of the discussion regarding Goal 2 were not provided in the text.  The minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+The Northshore School District Board of Directors convened a study session on February 26, 2024, focusing on Goal 2, which emphasizes the development of responsible, resilient, and empathetic learners. The session included discussions on strategies and initiatives aimed at fostering social-emotional learning among students, aligning with the district's commitment to diversity and inclusion. Board members present included President Amy Cast and Superintendent Michael Tolley, who contributed to the discussions on enhancing community engagement in educational practices. The session concluded with adjournment at 6:38 PM, and the minutes were officially approved on March 11, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-minutes.txt)
+
+## 2024-01-09 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District Board of Education convened on January 9, 2024, at Thomas Jefferson High School. The meeting included a presentation by Superintendent Dr. Dani Pfeiffer regarding the adoption update for Social Emotional Learning (SEL) and U.S. History, emphasizing the district's commitment to enhancing academic standards and supporting student mental health. The board recognized the importance of community engagement, with Superintendent Pfeiffer introducing Whitney Chiang, Chief of Communications and Strategy, who acknowledged community partners. Additionally, the board discussed the importance of diversity and inclusion within the district, although specific policies or changes related to these themes were not detailed in the minutes. The meeting concluded with public comments and a formal adjournment by President Dr. Jennifer Jones.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-09-minutes.txt)
 
 ## 2024-01-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

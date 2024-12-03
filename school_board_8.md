@@ -13,5 +13,12 @@
 | [Jana Eaton](board_member_42.md) | None |
 
 ## Available Years
+- [2024](school_board_8_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_8_tag_policy-changes.md)
+- [community-engagement](school_board_8_tag_community-engagement.md)
+- [academic-standards](school_board_8_tag_academic-standards.md)
+- [teacher-support](school_board_8_tag_teacher-support.md)
+- [school-board-ethics](school_board_8_tag_school-board-ethics.md)
+- [long-term-strategic-plans](school_board_8_tag_long-term-strategic-plans.md)

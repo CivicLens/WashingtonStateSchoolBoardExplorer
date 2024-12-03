@@ -1,0 +1,20 @@
+# Meeting Summaries for LAKE_WASHINGTON_SCHOOL_DISTRICT with Tag: mental-health
+
+## 2024-04-15 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The April 15, 2024 Board Meeting of the Lake Washington School District included discussions on mental health, with students Urja Varatkar and Kaeya Joshi addressing academic stress and advocating for reduced stress in the community. The Board recognized April as Arts in Education Month and declared the week of April 29-May 3, 2024, as School Nutrition Employee Week. A significant focus was placed on sustainability, with multiple public comments addressing the district's sustainability policy. The Board adopted several resolutions, including Resolution No. 2365, which redirects 2022 Construction Levy proceeds for classroom and core space additions at Eastlake and Redmond High Schools, and Resolution No. 2366, authorizing the issuance of Limited General Obligation Bonds for up to $50 million. The first reading of revised policy OE-03, now titled Community Engagement and Experience, was also conducted, consolidating previous policies OE-3 and OE-9. The next board meeting is scheduled for May 6, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-04-15-minutes.txt)
+
+## 2024-03-04 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The March 4, 2024 Board Meeting of the Lake Washington School District included several key recognitions and resolutions. Notably, the Board recognized 54 teachers who achieved or maintained their National Board Certification, emphasizing support for teacher development. Additionally, a proclamation was read designating March 11-15, 2024 as Education Support Professionals Week, highlighting the importance of educational support staff. A further proclamation designated March 8, 2024 as Social Emotional Learning Day, underscoring the district's commitment to mental health and social-emotional learning initiatives. The meeting also featured public comments on various topics, including inclusion and transportation safety, reflecting community engagement in district matters. The Board approved several resolutions, including the consent agenda and a Human Resources Report, which included recommendations for conditional certificates and out-of-endorsement assignments for educators.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-04-minutes.txt)
+
+## 2024-01-22 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The January 22, 2024 Board Meeting of the Lake Washington School District included several proclamations and recognitions, notably declaring February as Career and Technical Education Month and the week of February 5-9 as National School Counseling Week. The board acknowledged January 2024 as School Board Appreciation Month, recognizing board members and student representatives for their service. Public comments addressed various topics, including student safety, emotional support, and issues related to Islamophobia and anti-Arab hate, highlighting concerns about diversity and inclusion within the district. The board received an update on inclusionary practices, emphasizing the importance of accommodating diverse student needs. Additionally, the meeting included discussions on legislative updates, with a focus on community engagement and advocacy efforts, as well as a report on the district's budget and future considerations for potential cuts, reflecting ongoing challenges in school safety and mental health support.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
+

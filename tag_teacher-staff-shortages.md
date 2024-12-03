@@ -12,6 +12,18 @@ The Bellingham School District is hosting an informational meeting for individua
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
 
+## 2024-10-23 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District No. 415 Board of Directors held a meeting on October 23, 2024, where they addressed several key topics including school safety and staffing issues. During the Student Public Comment segment, concerns were raised about school safety, including issues related to vandalism, the presence of guns in schools, and vaping in student bathrooms. Additionally, there were discussions regarding the need for adequate staffing to ensure student safety. The board also approved several items under the Consent Agenda, including field trip authorizations for the Kentwood High School Wrestling Team and various professional service agreements aimed at supporting the district's educational initiatives. The meeting concluded with no final comments from the audience, indicating a structured engagement process throughout the session.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-23-board-minutes.txt)
+
+## 2024-10-17 - KALAMA_SCHOOL_DISTRICT (Minutes)
+
+The Kalama School District No. 402 held a board workshop on October 17, 2024, where several key topics were discussed, including school finance and strategic planning. Director Eader presided over the meeting, which began with a roll call confirming a quorum. Dr. Benjamin presented an article on school district funding, emphasizing the financial challenges faced by the district. The board also discussed conducting a third-party management review by the Washington Association of School Administrators (WASA) to address potential teacher and staff shortages. Other topics included the possibility of adding boys soccer to the athletic program and the review of applications for student positions on the governing board, indicating a commitment to long-term strategic planning and community engagement. The meeting concluded with a discussion on the involvement of past board members in diploma presentations, reflecting on school-board ethics and traditions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/2024-10-17-minutes.txt)
+
 ## 2024-10-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District Board held a meeting on October 10, 2024, discussing various topics. Concerns were raised regarding the School Based Health Clinic by Natalie Chavez.  The Athletic Director, Ron Lepper, provided an update on the athletic budget. The board addressed upcoming Parent/Teacher Conferences and acknowledged Cindy Henninger's contributions to the district. They also discussed Pet Partnership Therapy evaluations and participation in several conferences and meetings, including the WSSDA General Assembly and a meeting with Whatcom County Council Member Jon Scanion.  
@@ -28,6 +40,18 @@ The Ferndale School Board convened a special session on October 3rd, 2024 to dis
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
 
+## 2024-10-03 - MOSES_LAKE_SCHOOL_DISTRICT (Minutes)
+
+The regular meeting of the school board on October 3, 2024, addressed various topics, including significant concerns regarding school safety and staff shortages. Ms. Lewis recognized the Nutrition Services and Custodial departments for their continued efforts despite budget cuts, highlighting the importance of maintaining a safe and clean environment for students. The board discussed ten lobbying priorities for the district, emphasizing fiscal nonrenewal dates, support for special education programs, and comprehensive school safety. Mr. Coulston raised concerns about the district's finance audit process and the need for transparency regarding large purchases, indicating a potential policy change in procurement practices. Additionally, the board addressed ongoing issues related to transportation staffing shortages, which are affecting service delivery but are not attributed to budget constraints. The meeting concluded with a motion to request an external investigation into potential criminal acts involving Mr. Meek, indicating serious governance and ethical considerations within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/moses_lake_school_district/2024/2024-10-03-minutes.txt)
+
+## 2024-09-26 - MOSES_LAKE_SCHOOL_DISTRICT (Minutes)
+
+The special meeting of the school board, held on September 26, 2024, focused on a range of topics, particularly the financial audit and staffing shortages in the nursing department. Mr. Ryan Coulston initiated a discussion regarding the financial audit, expressing skepticism about conducting an audit at this time, despite acknowledging the importance of understanding past financial decisions. He emphasized that the district has consistently passed state audits, which only sample financial documents. Public comments highlighted community concerns about the financial audit and the need for improved communication regarding financial matters. Additionally, there was a discussion on the ongoing teacher staff shortages, particularly regarding two open LPN positions, with Ms. Kirryn Jensen seeking potential solutions. The board also noted that the district is currently out of compliance in areas including physical education due to insufficient funding from the state. The meeting concluded with a motion to adjourn at 7:45 PM, with no votes recorded from the excused member, Amy Breitenstein.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/moses_lake_school_district/2024/2024-09-26-minutes.txt)
+
 ## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held its regular school board meeting on September 11, 2024.  Several policies and procedures related to academic standards and curriculum transparency were reviewed and approved. Procedure 2151P – Interscholastic Activities was passed, outlining guidelines for student participation in extracurricular activities.  Policies and Procedures 2402-2405 addressed mastery-based credit systems for English Language Arts, Math, Science, and Social Studies respectively. These policies aim to provide alternative pathways for students to earn academic credit based on demonstrated proficiency rather than traditional seat time requirements. The board also discussed long-term strategic plans, including the annual staffing report which highlighted teacher-staff shortages within the district.  The meeting concluded with a superintendent's report outlining preparations for the start of the school year and community engagement initiatives.
@@ -43,6 +67,20 @@ A key point of discussion involved resolving a K-3 class size funding issue caus
 The meeting concluded with a motion to adjourn, which passed 4-0 with one member absent.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-23-minutes.txt)
+
+## 2024-07-23 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
+
+The Wahluke School District held a Special Board Meeting on July 23, 2024, where key discussions included the proposed 2024-2025 budget presented by Director of Finance Gabby Chacon, emphasizing a conservative approach based on current enrollment projections of 2,273 Full-Time Equivalents (FTE). Superintendent Andy Harlow addressed ongoing teacher and paraprofessional shortages, highlighting the need for planning in the current year and mentioning a forthcoming 10-year facilities plan to be presented in September. The Board approved several personnel changes, including new hires and resignations, and passed Resolution 04-2024 for the adoption of the 2024-2025 budget, indicating a commitment to long-term financial planning and community engagement in the district's educational strategies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-07-23-minutes.txt)
+
+## 2024-05-02 - CHIMACUM_SCHOOL_DISTRICT (Minutes)
+
+The special joint board meeting held on May 2, 2024, for the Port Townsend School District No. 50 and Chimacum School District No. 49 focused on several key reports and potential policy changes. The Transportation Director, Monica Mulligan, proposed a change to the bell schedule for Port Townsend schools for the 2025-26 school year, aiming to improve efficiency in student transportation and reduce ride times for younger students. This proposal, which includes reversing the order of afternoon pick-ups, was discussed in light of ongoing staff shortages in the transportation department, highlighting recruitment challenges for bus drivers. 
+
+Additionally, the Athletic Director, Shelby Box, presented the Title IX/Athletic Program report, noting a significant increase in student participation in athletics across both districts, with 93 athletes in Chimacum and 184 in Port Townsend. The boards approved the Athletic Memorandum of Understanding (MOU) and the Transportation Interlocal Agreement, indicating a commitment to collaboration between the districts. Community engagement was evident as public comments included support for the proposed changes and a suggestion for greater transparency in the athletic budget. The meeting concluded with plans for future joint gatherings and a scheduled review of reports in May 2025.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/jefferson/school_boards/chimacum_school_district/2024/2024-05-02-minutes.txt)
 
 ## 2024-01-24 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
 

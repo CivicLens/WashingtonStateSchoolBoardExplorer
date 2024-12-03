@@ -14,7 +14,7 @@ The school board agenda outlines a special meeting focused on strategic planning
 
 ## 2024-02-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on February 26, 2024, to discuss Goal 2 of their long-term strategic plan. This goal focuses on fostering "Responsible, Resilient, Empathetic Learners."  The meeting, which lasted from 5:04 PM to 6:38 PM, included attendees such as board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast (President), along with Superintendent Michael Tolley. The specific details of the discussion regarding Goal 2 were not provided in the text.  The minutes were approved on March 11, 2024, by both Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+The Northshore School District Board of Directors convened a study session on February 26, 2024, focusing on Goal 2, which emphasizes the development of responsible, resilient, and empathetic learners. The session included discussions on strategies and initiatives aimed at fostering social-emotional learning among students, aligning with the district's commitment to diversity and inclusion. Board members present included President Amy Cast and Superintendent Michael Tolley, who contributed to the discussions on enhancing community engagement in educational practices. The session concluded with adjournment at 6:38 PM, and the minutes were officially approved on March 11, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-26-minutes.txt)
 

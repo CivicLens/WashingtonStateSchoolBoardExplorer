@@ -63,6 +63,12 @@ The Northshore School District Board of Directors held a retreat on March 18, 20
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
 
+## 2024-03-06 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District No. 415 Board of Directors held a special meeting on March 6, 2024, focusing on a work session that included a presentation and discussion on Student Data and Street Data. The meeting was attended by President Meghin Margel, Directors Awale Farah, Tim Clark, and Donald Cook, with Superintendent Israel Vela also present. The meeting commenced at 5:05 p.m. and included a break from 6:03 p.m. to 6:05 p.m. Director Cook exited the meeting at 6:45 p.m., and the meeting was adjourned at 7:00 p.m. The discussions likely centered around the implications of student data management and its impact on community engagement and privacy, although specific policies or resolutions were not detailed in the minutes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-06-boardspecialmeetingworksession-minutes.txt)
+
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
@@ -70,6 +76,12 @@ This document details a student roundtable meeting hosted by the Bellingham Scho
 Key themes that emerged included the need for safe spaces like GSA, concerns about dehumanizing language and bullying, and challenges with restroom access. Students also expressed a desire for increased adult support, more inclusive curriculum representation, and attention to social-emotional well-being. The meeting highlights the district's commitment to diversity and inclusion by actively seeking student voice on issues related to LGBTQ+ experiences.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
+
+## 2024-01-30 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
+
+The Wahluke School Board held a special meeting on January 30, 2024, where community engagement was emphasized, particularly through presentations from the High School PSO aiming to increase parental involvement and raise funds for scholarships. Reports included updates on discipline and attendance data, with a goal of reducing chronic absenteeism by 15% district-wide. The Superintendent reported a projected $1.4 million budget deficit for the 2023-24 school year, attributing this to declining enrollment and the failure of a local levy. Numerous policies were reviewed and adopted, including Policy 3112 on Social Emotional Climate and Policy 3241 on Student Discipline, which aim to enhance school safety and address student needs. The board also approved several policies related to student privacy, such as Policy 3231 on Student Records and Policy 3220 on Freedom of Expression, indicating a focus on protecting student rights and data.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-01-30-minutes.txt)
 
 ## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

@@ -90,9 +90,27 @@ The Northshore School District Board of Directors held a closed executive sessio
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-25-minutes.txt)
 
+## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened on March 11, 2024, for a study session focused on the development of the 2024-2025 budget. Key attendees included Board President Amy Cast and Superintendent Michael Tolley. The discussion centered on budgetary considerations, but specific details regarding policy changes or strategic plans were not mentioned in the provided text. The session was adjourned after approximately 50 minutes of discussion. The date of approval for the minutes is noted as March 25, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-minutes.txt)
+
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened an Exempt Closed Session on February 12, 2024, primarily to discuss matters related to collective bargaining as per RCW 42.30.140(4). The session was attended by board members including President Amy Cast and Superintendent Michael Tolley. The Board estimated the session would last approximately 60 minutes, after which they would reconvene solely for adjournment. The meeting was adjourned at 8:28 PM. The documentation does not indicate any specific policy changes or proposals discussed during the session. However, the focus on collective bargaining may imply ongoing discussions surrounding diversity and inclusion policies, particularly in relation to LGBTQ matters, although no explicit mention of such topics was made in the minutes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-02-12-minutes.txt)
+
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which aims for growth for every student and the elimination of outcome and opportunity gaps. This discussion reflects the district's commitment to diversity and inclusion, particularly in relation to racial equity and support for LGBTQ+ students. The session was attended by board members, including President Amy Cast and Superintendent Michael Tolley, who emphasized the importance of addressing these equity issues within the educational framework. The study session concluded with an adjournment at 6:49 PM, and the minutes were approved on February 12, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
+
 ## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors met on January 8, 2024.  The meeting included standard agenda items such as budget reports, capital project updates and a discussion about offering childcare during meetings to encourage parental involvement. A new policy, "Racial Equity," was discussed but no details were provided regarding its content or implementation. The board also reviewed a Deductive Change Order for the Northshore School District Concert Hall at Inglemoor High School.  Additionally, the Board discussed upcoming Advocacy meetings and reviewed individual member reports detailing their participation in various events.
+The Northshore School District's Regular Board Meeting on January 8, 2024, included a report from Superintendent Michael Tolley highlighting recent strategic action plan visits and advocacy meetings. The Board adopted several policies, including the new Board Policy No. 4400 on Election Activities and revised Board Policy 0001 focusing on Racial and Educational Justice. The meeting emphasized community engagement, with Director Elisabeth Sotak suggesting the introduction of childcare options to increase parent participation at meetings scheduled before elementary school dismissals. Additionally, the Board reviewed various reports, including the District Budget Status Report for November 2023, and discussed the importance of student health and wellness through comments related to the Student Wellness and Safety Taskforce.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
 

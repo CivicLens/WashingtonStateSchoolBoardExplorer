@@ -49,6 +49,12 @@ The school board meeting minutes detail discussions and votes on various positio
 | [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 8- Climate Impact Mitigation A...[truncated, use api for full text] | Director Owsley opposed. |
 | [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and...[truncated, use api for full text] | Director Owsley opposed. |
 
+## 2024-08-19 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The August 19, 2024 Board Meeting of the Lake Washington School District included several key resolutions and updates. The board approved the 2024-25 Budget (Resolution No. 2380), which had been previously presented and discussed in a public hearing. Additionally, the board adopted Resolution No. 2384 to formally close the Futures School, citing a significant decline in enrollment and the availability of alternative support programs at all high schools. The meeting also featured a legislative update provided by Associate Superintendent Barbara Posthumus, highlighting ongoing engagement with Congresswoman DelBene's office regarding technology and education policy, including discussions on AI opportunities. Director Yocum emphasized the importance of reviewing new amendment proposals from the WSSDA General Assembly Handbook in preparation for the next board meeting, underscoring the board's focus on legislative engagement and community involvement in decision-making.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-08-19-minutes.txt)
+
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document is a school board monitoring response to a report on the district's progress towards its Ends policies. The board commends the district for its success in several areas, including the Latinos in Action program, principled behavior at Northern Heights High School, and growth in reading scores based on i-Ready data. They also highlight the positive impact of compacted math options and online learning tools.
@@ -62,6 +68,32 @@ The board expresses concern over attendance rates, which they hope will improve 
 The school board agenda focuses on several key items related to diversity and inclusion.  The board will discuss monitoring reports for Ends 1 (Strategic Mission and Vision), 2 (Outcomes Focused on Knowledge) and 3 (Outcomes Focused on Character and Action) to determine if the superintendent is in compliance with policy. Additionally, they will review the Annual Affirmative Action Progress Report based on October 2023 data, which was prepared by Human Resources Executive Director Arionda Feeney. This report assesses the progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The agenda also includes a discussion on the performance review of a public employee.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-agenda.txt)
+
+## 2024-06-03 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The June 3, 2024, Board Meeting of the Lake Washington School District included several key recognitions and resolutions aimed at promoting diversity and community engagement. A statement recognizing Juneteenth was read by Director Lisa Guthrie, emphasizing its significance in the ongoing struggle for freedom and equality. The meeting also featured the awarding of PTSA Scholarships to graduating seniors and certificated staff, highlighting the district's commitment to supporting educational achievement and community service. 
+
+The Board unanimously approved Resolution No. 2375, which authorizes a six-year Construction Levy to be placed on the November 5, 2024, ballot. This plan is part of a long-term strategy to address aging facilities and reduce reliance on portable classrooms, thereby enhancing the educational environment for students. Additionally, updates on the Strategic Plan and Inclusionary Practices Program were provided, indicating ongoing efforts to improve inclusivity and support for all students, including those from diverse backgrounds.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-03-minutes.txt)
+
+## 2024-05-22 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District No. 415 held a special meeting on May 22, 2024, focusing on a work session with student leadership and Ms. Simone Hamilton, the Director of Equity and Strategic Engagement. The meeting, led by President Meghin Margel, aimed to foster community engagement and discuss issues related to diversity and inclusion, with an emphasis on racial equity within the district. The Board of Directors present included Vice President Farah, Director Cook, and Director Song, who joined the meeting later. The meeting concluded at 6:02 p.m., emphasizing the district's commitment to engaging with student voices on equity-related initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-22-boardspecialmeeting-minutes.txt)
+
+## 2024-05-02 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The May 2, 2024, Regular Business Meeting of the Board of Directors included significant discussions and decisions regarding policy changes and strategic planning. The Board approved the agenda with an amendment to remove an Executive Session originally scheduled for later in the evening. They unanimously passed two resolutions: Resolution 2024-03, which pertains to the General Fund Extension, and Resolution 2024-04, concerning the Capital Fund Transfer, both receiving unanimous approval. The meeting also addressed long-term strategic planning, specifically the 2024-2029 Strategic Plan, indicating a focus on future goals and objectives for the district. Additionally, the Board approved an amended summer board meeting schedule, reflecting adjustments in their planning and operational strategies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-05-02-minutes.txt)
+
+## 2024-04-18 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The April 18, 2024 Regular Business Meeting of the Board of Directors included a focus on community engagement and diversity-inclusion, highlighted by a student update and a study session on equity-driven decision making and family engagement. The meeting commenced with the introduction of a student and a land acknowledgment, emphasizing the board's commitment to recognizing diverse community backgrounds. The agenda also featured a unanimous approval of the consent agenda, which included personnel elections and travel approvals, indicating ongoing operational matters. The meeting concluded with discussions aimed at enhancing equity and engagement within the school community, reflecting the board's strategic priorities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-04-18-minutes.txt)
 
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -103,6 +135,12 @@ This excerpt from school board meeting minutes focuses on a report regarding stu
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
 
+## 2024-03-05 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 held a Work Study Meeting on March 5, 2024, focusing on various educational policies and programs. Superintendent Dr. Dani Pfeiffer introduced key staff members, including Marla Newton and Dr. Melissa Spencer, to present on the ENDS 3 policy, which likely addresses educational outcomes and goals. The meeting included a discussion led by Board President Dr. Jennifer Jones on equity, highlighting Multilingual Education in secondary schools presented by Sonia Nicholson. This discussion aligns with the district's commitment to diversity and inclusion, as well as racial equity, indicating a focus on supporting diverse student populations. The meeting concluded with procedural adjournment at 6:44 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-03-05-minutes.txt)
+
 ## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details the Bellingham School Board's monitoring response to policy EL-9.1, "Facility Improvement or Development Involving Bond Measure Proposal." The board commends the superintendent for robust long-term facilities planning that incorporates diverse community voices and aligns with the district's commitment to equity as outlined in "The Bellingham Promise."  
@@ -142,7 +180,7 @@ The Administrative Center Board Room will host a study session on January 22, 20
 
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on January 22, 2024, to review information related to Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps.  The meeting focused on strategies to ensure academic growth for all students while addressing disparities in educational outcomes and opportunities. The specific details of the strategies discussed were not included in the provided text. The session adjourned at 6:49 PM.
+The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which aims for growth for every student and the elimination of outcome and opportunity gaps. This discussion reflects the district's commitment to diversity and inclusion, particularly in relation to racial equity and support for LGBTQ+ students. The session was attended by board members, including President Amy Cast and Superintendent Michael Tolley, who emphasized the importance of addressing these equity issues within the educational framework. The study session concluded with an adjournment at 6:49 PM, and the minutes were approved on February 12, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
 
@@ -168,9 +206,15 @@ This text focuses on a school board's review of a report detailing progress towa
 | [Scott Ritchey](board_member_313.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 | [Katie Rose](board_member_314.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 
+## 2024-01-11 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The minutes from the January 11, 2024, Regular Business Meeting of the Board of Directors included several key actions and updates relevant to policy changes and diversity initiatives. Notably, the board approved the 2024 Multilingual Learner Education Report, which aims to enhance educational strategies for multilingual students, reflecting an emphasis on diversity and inclusion within the curriculum. Additionally, the board approved the 2024 Legislative Priorities, which may influence future policy directions, although specific details were not elaborated in the minutes. The meeting also featured a student update and acknowledgments, highlighting the board's commitment to community engagement and the inclusion of student voices in decision-making processes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-11-minutes.txt)
+
 ## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors met on January 8, 2024.  The meeting included standard agenda items such as budget reports, capital project updates and a discussion about offering childcare during meetings to encourage parental involvement. A new policy, "Racial Equity," was discussed but no details were provided regarding its content or implementation. The board also reviewed a Deductive Change Order for the Northshore School District Concert Hall at Inglemoor High School.  Additionally, the Board discussed upcoming Advocacy meetings and reviewed individual member reports detailing their participation in various events.
+The Northshore School District's Regular Board Meeting on January 8, 2024, included a report from Superintendent Michael Tolley highlighting recent strategic action plan visits and advocacy meetings. The Board adopted several policies, including the new Board Policy No. 4400 on Election Activities and revised Board Policy 0001 focusing on Racial and Educational Justice. The meeting emphasized community engagement, with Director Elisabeth Sotak suggesting the introduction of childcare options to increase parent participation at meetings scheduled before elementary school dismissals. Additionally, the Board reviewed various reports, including the District Budget Status Report for November 2023, and discussed the importance of student health and wellness through comments related to the Student Wellness and Safety Taskforce.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
 

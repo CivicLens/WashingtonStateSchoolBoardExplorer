@@ -11,5 +11,21 @@
 | [Mark Stuart](board_member_132.md) | 2013-2025 |
 
 ## Available Years
+- [2024](school_board_26_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_26_tag_policy-changes.md)
+- [student-autonomy](school_board_26_tag_student-autonomy.md)
+- [diversity-inclusion](school_board_26_tag_diversity-inclusion.md)
+- [lgbtq](school_board_26_tag_lgbtq.md)
+- [community-engagement](school_board_26_tag_community-engagement.md)
+- [mental-health](school_board_26_tag_mental-health.md)
+- [school-safety](school_board_26_tag_school-safety.md)
+- [school-board-ethics](school_board_26_tag_school-board-ethics.md)
+- [social-emotional-learning](school_board_26_tag_social-emotional-learning.md)
+- [long-term-strategic-plans](school_board_26_tag_long-term-strategic-plans.md)
+- [sustainability-policy](school_board_26_tag_sustainability-policy.md)
+- [teacher-support](school_board_26_tag_teacher-support.md)
+- [bullying-prevention](school_board_26_tag_bullying-prevention.md)
+- [special-education-support](school_board_26_tag_special-education-support.md)
+- [racial-equity](school_board_26_tag_racial-equity.md)

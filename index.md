@@ -15,9 +15,14 @@
 - [CAMAS_SCHOOL_DISTRICT](school_board_5.md)
 - [EVERGREEN_PUBLIC_SCHOOLS](school_board_6.md)
 - [HOCKINSON_SCHOOL_DISTRICT](school_board_7.md)
+- [BATTLE_GROUND_SCHOOL_DISTRICT](school_board_76.md)
 
 ### COLUMBIA County
 - [DAYTON_SCHOOL_DISTRICT](school_board_8.md)
+
+### COWLITZ County
+- [KALAMA_SCHOOL_DISTRICT](school_board_77.md)
+- [TOUTLE_LAKE_SCHOOL_DISTRICT](school_board_78.md)
 
 ### DOUGLAS County
 - [BRIDGEPORT_SCHOOL_DISTRICT](school_board_9.md)
@@ -31,6 +36,8 @@
 - [EPHRATA_SCHOOL_DISTRICT](school_board_13.md)
 - [GRAND_COULEE_DAM_SCHOOL_DISTRICT](school_board_14.md)
 - [QUINCY_SCHOOL_DISTRICT](school_board_15.md)
+- [MOSES_LAKE_SCHOOL_DISTRICT](school_board_79.md)
+- [WAHLUKE_SCHOOL_DISTRICT](school_board_80.md)
 
 ### GRAYS_HARBOR County
 - [ELMA_SCHOOL_DISTRICT](school_board_16.md)
@@ -54,6 +61,7 @@
 - [TAHOMA_SCHOOL_DISTRICT](school_board_28.md)
 - [TUKWILA_SCHOOL_DISTRICT](school_board_29.md)
 - [NORTHSHORE_SCHOOL_DISTRICT](school_board_73.md)
+- [MERCER_ISLAND_SCHOOL_DISTRICT](school_board_81.md)
 
 ### KITSAP County
 - [NORTH_KITSAP_SCHOOL_DISTRICT](school_board_30.md)
@@ -218,3 +226,10 @@
 - [homeless-students](tag_homeless-students.md)
 - [special-meeting](tag_special-meeting.md)
 - [school-board-retreat](tag_school-board-retreat.md)
+- [superintendent-evaluation](tag_superintendent-evaluation.md)
+- [equity-learning](tag_equity-learning.md)
+- [multilingual-education](tag_multilingual-education.md)
+- [sustainability-policy](tag_sustainability-policy.md)
+- [budget-discussion](tag_budget-discussion.md)
+- [financial-audit](tag_financial-audit.md)
+- [budgeting-process](tag_budgeting-process.md)

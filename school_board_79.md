@@ -1,16 +1,19 @@
-# Meeting Summaries for NORTH_MASON_SCHOOL_DISTRICT
+# Meeting Summaries for MOSES_LAKE_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Erik Youngberg](board_member_198.md) | None |
-| [Leanna Krotzer](board_member_199.md) | None |
-| [Arla Shephard Bull](board_member_200.md) | None |
-| [Nicole Gonzalez Timmons](board_member_201.md) | None |
-| [Nicholas Thomas](board_member_202.md) | None |
-| [Dana Rosenbach](board_member_203.md) | None |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_79_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_79_tag_policy-changes.md)
+- [community-engagement](school_board_79_tag_community-engagement.md)
+- [special-education-support](school_board_79_tag_special-education-support.md)
+- [long-term-strategic-plans](school_board_79_tag_long-term-strategic-plans.md)
+- [academic-standards](school_board_79_tag_academic-standards.md)
+- [budget-discussion](school_board_79_tag_budget-discussion.md)
+- [teacher-staff-shortages](school_board_79_tag_teacher-staff-shortages.md)
+- [financial-audit](school_board_79_tag_financial-audit.md)
+- [school-safety](school_board_79_tag_school-safety.md)

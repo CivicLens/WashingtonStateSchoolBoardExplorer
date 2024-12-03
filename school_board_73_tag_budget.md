@@ -32,7 +32,7 @@ The Inglemoor High School Board is holding a special meeting on Wednesday, May 2
 
 ## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on March 11, 2024, to review information related to the 2024-2025 budget development.  The meeting was called to order at 7:00 PM and adjourned at 7:50 PM.  In attendance were board members Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on March 25, 2024, by Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+The Northshore School District Board of Directors convened on March 11, 2024, for a study session focused on the development of the 2024-2025 budget. Key attendees included Board President Amy Cast and Superintendent Michael Tolley. The discussion centered on budgetary considerations, but specific details regarding policy changes or strategic plans were not mentioned in the provided text. The session was adjourned after approximately 50 minutes of discussion. The date of approval for the minutes is noted as March 25, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-minutes.txt)
 

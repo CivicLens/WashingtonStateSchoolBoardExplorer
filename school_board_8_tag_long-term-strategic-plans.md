@@ -1,14 +1,8 @@
-# Meeting Summaries for FERNDALE_SCHOOL_DISTRICT with Tag: long-term-strategic-plans
+# Meeting Summaries for DAYTON_SCHOOL_DISTRICT with Tag: long-term-strategic-plans
 
-## 2024-06-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+## 2024-11-06 - DAYTON_SCHOOL_DISTRICT (Minutes)
 
-The Mountainview Learning Center School Board held a meeting on June 11, 2024, to discuss the District 2024 budget.  The budget presentation highlighted the alignment of financial priorities with the new Strategic Plan's Focuses and Foundations. These focuses included Safety and Belonging, Early Learning (Birth - Grade 3), Mastery of Standards, and Future Ready. The Foundations outlined key operational principles such as Engaging and Effective Teaching and Learning Systems, Authentic and Meaningful Engagement with Students, Family and Community, Advancing Excellence: Strategic Operations and Resource Management, and Dynamic Systems for Hiring and Retention.  The meeting also included a brief Executive Session to discuss a real estate matter.
+The Dayton School District No. 2 held a School Board Work Session on November 6, 2024, led by Board Chair Jeff McCowen. The meeting included a review of the Washington State School Directors' Association (WSSDA) Board Self-Assessment Survey, facilitated by Mary Fertakis and Heather Curl from WSSDA. Board members participated in an ice-breaker and engaged in small group discussions to establish goals and focus areas for the year, emphasizing their motivation to serve students. The session concluded with positive feedback from board members regarding the workshop's outcomes. The next regular board meeting is scheduled for November 20, 2024, at the high school media center and via Zoom.
 
-[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
-
-## 2023-03-15 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The Ferndale School District Board held a study session on March 15, 2023, to discuss the budget development process. Assistant Superintendent Mark Deebach and Managing Director of Business Services Holly Graham provided an overview of the general education budgeting process, focusing on staffing and enrollment projections. Executive Directors Trina Hall and Kellie Larrabee updated the board on the progress of the Early Learning Task Force, which is developing recommendations for early childhood education. The task force aims to create a 3-5 year plan to allow for proactive budgeting in this area.  The board also discussed scheduling future study sessions, with the next meeting planned for April 18th at Vista Middle School to focus on a Land Acknowledgement Statement.
-
-[View Full Text](https://raw.githubusercontent.com/CivicLens/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-03-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-11-06-minutes.txt)
 

@@ -14,7 +14,7 @@ The School Board will hold a workshop on Monday, August 12, 2024, at 4:30 PM to 
 
 ## 2024-06-17 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The School Board held a Special Meeting on June 17, 2024, to discuss and adopt the District's Strategic Plan. The meeting included a public comment period regarding the plan before its unanimous adoption by the board. Following this, the board conducted interviews for the Director District II Board Member position.  The board then recessed into Executive Session for approximately 45 minutes. Upon resuming the regular meeting, Matthew McBride was appointed as the new District Director II Board Member, replacing Erika Cox. The appointment followed a roll call vote where Connie Hennessey, Bamini Pathmanathan and Corey McEnry voted for Matthew McBride, while Tracey Malone voted for Dena Strong.
+The School Board Special Meeting held on June 17, 2024, focused on the review and adoption of a Strategic Plan aimed at enhancing academic, social, and lifelong learning. The plan was adopted following a motion by Board Member Erika Cox, which was seconded by Tracey Malone, and received unanimous support from the attending members. The meeting also included the appointment of a new District Director II Board Member, Matthew McBride, who replaces Erika Cox after a roll call vote. The meeting concluded with an executive session, highlighting the board's commitment to governance and strategic planning for the school district's future.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-minutes.txt)
 

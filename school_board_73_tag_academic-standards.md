@@ -62,7 +62,7 @@ The Board of Directors for an unnamed school district will hold a study session 
 
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on January 22, 2024, to review information related to Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps.  The meeting focused on strategies to ensure academic growth for all students while addressing disparities in educational outcomes and opportunities. The specific details of the strategies discussed were not included in the provided text. The session adjourned at 6:49 PM.
+The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which aims for growth for every student and the elimination of outcome and opportunity gaps. This discussion reflects the district's commitment to diversity and inclusion, particularly in relation to racial equity and support for LGBTQ+ students. The session was attended by board members, including President Amy Cast and Superintendent Michael Tolley, who emphasized the importance of addressing these equity issues within the educational framework. The study session concluded with an adjournment at 6:49 PM, and the minutes were approved on February 12, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
 

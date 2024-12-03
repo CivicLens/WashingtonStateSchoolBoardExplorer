@@ -1,5 +1,23 @@
 # Meeting Summaries for Tag: bullying-prevention
 
+## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District No. 415 Board of Directors held a meeting on October 9, 2024, where various proclamations were made, including those for LGBTQ History Month and National Bullying Prevention Month, highlighting the district's commitment to diversity and inclusion. The board reviewed and approved several policies, including Policy 2415 on Performance-Based Pathway for High School Graduation and Policy 2418 concerning Waiver of High School Graduation Credits. A significant discussion involved the repeal of Resolution No. 1669, which related to the creation of a Labor Policy Committee of the Board. Public comments addressed concerns about school lockdowns, board conduct, and the implications of capital projects and levies, emphasizing the community's engagement with school safety and governance issues.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-board-minutes.txt)
+
+## 2024-09-26 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Mercer Island School District Board of Directors held a regular meeting on September 26, 2024, where significant updates and discussions took place regarding long-term strategic plans and policy changes. Superintendent Fred Rundle reported on the recommendation to dissolve the Center for Collaborative Support (CCS), which had become a topic of discussion among member districts regarding its purpose and financial implications. The Board voted in favor of this recommendation, with remaining funds to be allocated to member districts. Additionally, updates were provided on Board Policy 3205, which addresses sexual harassment of students, aimed at aligning with revised Title IX regulations. Changes included updated definitions concerning sex discrimination and hostile environments, and the Board plans to review the policy further in the next meeting. The meeting also included recognition of various school programs and initiatives, emphasizing the importance of diversity and inclusion, as well as the ongoing efforts in bullying prevention and support for LGBTQ+ students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-09-26-minutes.txt)
+
+## 2024-09-11 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District No. 415 Board of Directors held a meeting on September 11, 2024, where they addressed various topics including the Superintendent's contract and legislative priorities for the 2024-2025 school year. The board recognized National Hispanic Heritage Month and September Attendance Awareness Month, emphasizing their commitment to diversity and inclusion. Public comments raised concerns regarding student harassment and support for stable leadership. The board approved the 2024-2025 Legislative Priorities and Gifts, Donations, and/or Memorials Acceptance. A motion to table the Superintendent's Contract was made but failed, leading to an Executive Session for further discussion. After extensive deliberation, the contract was ultimately approved. The meeting concluded with no final comments from the audience, and the board's actions reflect a focus on community engagement and addressing issues related to bullying prevention.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-11-board-minutes.txt)
+
 ## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
 The Tahoma School District Board meeting agenda outlines several topics for discussion and action.  One item is the first reading of a revised Policy 3207 titled "Prohibition of Harassment, Intimidation or Bullying." Another item addresses the approval of a ThoughtExchange Community Engagement Platform. This platform will allow for community feedback on district matters. The board will also be reviewing the first reading of revisions to Policy 5010, "Nondiscrimination and Affirmative Action," with Director of Human Resources Scott Mitchell available to answer questions.
@@ -14,6 +32,18 @@ The Ferndale School Board held a meeting on May 16, 2024, to discuss Harassment,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-16-minutes.txt)
 
+## 2024-05-06 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The May 6, 2024, Board Meeting of the Lake Washington School District included significant recognitions for National School Nurse Day and Teacher Appreciation Week, emphasizing the importance of teacher support and the well-being of students. The board addressed community engagement through public comments that raised concerns about Islamophobia, anti-Semitism, and bullying within schools. Notably, the board discussed the approval of several resolutions, including the adoption of new curriculum materials for K-5 Social Studies, specifically "Inquiry Journeys from InquirEd," which aims to enhance educational standards and teacher training. Additionally, the board presented a first reading of a new Operational Expectation focused on Sustainability, indicating a potential policy change aimed at promoting environmental responsibility within the district. The meeting also included a recess due to audience misconduct, highlighting challenges in community engagement during discussions on sensitive topics.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
+
+## 2024-02-28 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District No. 415 Board of Directors held a meeting on February 28, 2024, where they addressed various topics including student mental health, bullying prevention, and updates on school policies. The board approved several policies including Policy 2005 on School Improvement Plans, Policy 2106 on Program Compliance, and Policy 5011 which prohibits sexual harassment of district staff. Notably, Resolution No. 1669 was passed, which relates to the creation of a Labor Policy Committee of the Board. Public comments highlighted concerns regarding student mental health and bullying, emphasizing the importance of community engagement in these discussions. The meeting also addressed the potential implications of a previous OPMA matter concerning the Reduction in Education Program, indicating ongoing discussions about the district's budget and organizational needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-board-minutes.txt)
+
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather feedback from LGBTQ+ middle school students who are members of the Gender and Sexuality Alliance (GSA) Club. Students shared their experiences, both positive and negative, regarding being LGBTQ+ in middle school.  
@@ -22,11 +52,23 @@ Key themes that emerged included the need for safe spaces like GSA, concerns abo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
+## 2024-02-26 - TOUTLE_LAKE_SCHOOL_DISTRICT (Minutes)
+
+The TOUTLE LAKE SCHOOL DISTRICT #130 Board of Directors held a meeting on February 26, 2024, where they approved several motions, including the adoption of the agenda and the consent agenda, which covered payroll and personnel matters. A significant focus of the meeting was the first reading of various policies, including 2190/P – Highly Capable Programs & Procedure, and 3241/P – Student Discipline & Procedure, indicating ongoing efforts to refine district policies. Additionally, the board discussed the establishment of a Student Engagement Committee aimed at addressing bullying prevention, as highlighted by student representatives Mason Grose and Blake Chrisler. The board also approved various agreements, including the 2024-2025 New Market Skills Center Agreement and a donation of 836 pairs of Bomba socks valued at $10,036 from Savior Socks, emphasizing community engagement and support.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/toutle_lake_school_district/2024/2024-02-26-february-minutes.txt)
+
 ## 2024-02-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The February 8, 2024 school board meeting addressed various topics related to student well-being and school operations.  The board approved several policy updates for first and final reading, including MB Policy 1400 Meeting Conduct, Order of Business, and Quorum; MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students); MB Policy 2190 Highly Capable Programs; MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students; MB Policy 3231 Student Records; and MB Policy 3520 Student Fees, Fines, or Charges. The board also discussed school safety measures, including the use of drug dogs on campus and upcoming visits to schools by the Superintendent. Additionally, they reviewed reports on athletic events and budget matters.  The meeting included updates on wrestling and basketball competitions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
+
+## 2023-12-21 - TOUTLE_LAKE_SCHOOL_DISTRICT (Minutes)
+
+The Toutle Lake School District #130 board meeting on December 21, 2023, included significant discussions on policy changes and updates related to special education and bullying prevention. The board unanimously approved the revised policies and procedures, which included 2162P – Education of Students with Disabilities Procedure, aimed at enhancing support for students with disabilities, and 3207/P – Prohibition of Harassment, Intimidation, and Bullying of Students & Procedure, focused on preventing bullying within the school environment. Additionally, the board tabled policy 3122 – Excused and Unexcused Absences for further discussion in January. The meeting also featured a presentation by Jennifer Halleck regarding the modernization grant process, which the board agreed to pursue, reflecting ongoing efforts to improve school facilities and resources.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/toutle_lake_school_district/2023/2023-12-21-december-minutes.txt)
 
 ## 2023-10-18 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

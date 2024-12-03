@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: school-discipline
 
+## 2024-11-12 - KALAMA_SCHOOL_DISTRICT (Minutes)
+
+The Kalama School District No. 402 held a board workshop on November 12, 2024, where several key topics were discussed. Notably, there were updates to several policies related to student discipline, including Policy 3241 and Policy 3414, as well as their corresponding procedures. The board is in the process of reviewing these updates, which aim to enhance the framework surrounding student conduct and discipline within the district. Additionally, Dr. Benjamin provided data on student discipline, indicating a focus on improving student behavior and possibly addressing any underlying issues. The board also discussed the potential addition of a student representative to the governing board, deciding to pause this initiative until later in the spring or summer.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/2024-11-12-minutes.txt)
+
 ## 2024-10-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Northgate School District held a school board meeting to discuss the district's cell phone policy. Student representatives from different grade levels shared their perspectives on the current policy, highlighting both its positive and negative aspects. Students expressed a desire for more flexibility in phone use, particularly around class start and end times, and suggested that the policy could be applied with more individualized consideration. They also noted instances of students circumventing the rules and advocated for a more respectful approach to enforcement. The meeting aimed to gather student input on the cell phone policy as part of a broader effort to improve school practices based on student voice.  The meeting concluded with expressions of gratitude from the board president and secretary for the students' participation.
@@ -17,6 +23,12 @@ The Lynden School District #504 Board Meeting agenda focuses on several key topi
 The school board agenda includes a first reading of Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force. This procedure will be reviewed again for approval on July 23, 2024.  The agenda also lists a finance report presentation by the Director of Finance, Daniel Yorton. The report will cover budget updates, enrollment figures compared to the budget and enrollment changes from May to June. Finally, Superintendent Dr. James Everett will deliver a report summarizing district activities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-agenda.txt)
+
+## 2024-06-24 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on June 24, 2024, where several significant policy changes were approved. Notably, the Board accepted the first reading of the High School Child Development curriculum titled "Working with Young Children" by Judy Herr, which aims to enhance curriculum transparency. Additionally, revisions were made to multiple policies, including Policy 3241 on Student Discipline, which was approved, and Policy 3143, which was renamed to "Notification and Dissemination of Information about Student Offenses and Notification of Threats of Violence or Harm." The Board also approved changes to Policy 3120 on Enrollment and Policy 6022 on Fund Balance, reflecting ongoing adjustments to district policies. These actions demonstrate the Board's commitment to updating educational standards and ensuring effective governance within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-06-24-minutes.txt)
 
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -45,11 +57,7 @@ The school board meeting minutes detail discussions on various topics including 
 
 ## 2024-04-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Camas School Board met on April 22, 2024.  The board reviewed and adopted several updated policies during the meeting. These included Policy 2410 (High School Graduation Requirements), Policy 3122 (Excused and Unexcused Absences), Policy 3141 (Non-resident Students), Policy 5005 (Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval), Policy 5010 (Nondiscrimination and Affirmative Action), Policy 5050 (Contracts), Policy 5271 (Reporting Improper Governmental Action (Whistleblower Protection)), Policy 5280 (Separation from Employment) and Policy 5400 (Personnel Leaves). They also reviewed and adopted a new policy, Policy 2415 (Performance-Based Pathway for High School Graduation).
-
-The board approved two items related to Quality Facilities and Resources.  These included a one-year contract with GB Manchester, Inc. for district-wide annual inspections of fire alarm systems in the amount of $71,925 plus applicable sales tax. The second item was the approval of the replacement of Wireless Access Point (WAP) devices districtwide at a total cost of $688,453.80.  The funds for this project will be paid from the Technology Levy. 
-
-Finally, the board reviewed and approved several items on the Consent Agenda including Minutes, Accounts Payable, Payroll, and Human Resources.
+The School Board Meeting held on April 22, 2024, included discussions on several policy reviews and approvals. Notably, policies were presented for first reading, including 2410 - High School Graduation Requirements, and 5005 - Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval. The board also reviewed and adopted policies in their second reading, such as 2255 - Alternative Learning Experience Courses and 2415 - Performance-Based Pathway for High School Graduation, which is a new policy. Additionally, the board approved a one-year contract with GB Manchester, Inc. for district-wide fire alarm inspections, amounting to $71,925, and authorized the purchase of Wireless Access Point devices for $688,453.80, funded by the Technology Levy. The meeting concluded with an executive session focused on property matters.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-22-minutes.txt)
 
@@ -65,6 +73,12 @@ This school board meeting minutes focuses on several issues related to governanc
 |--------------|--------------------|---------|
 | [Cliff Freeman](board_member_317.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
 | [Ben Lazarus](board_member_316.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+
+## 2024-01-30 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
+
+The Wahluke School Board held a special meeting on January 30, 2024, where community engagement was emphasized, particularly through presentations from the High School PSO aiming to increase parental involvement and raise funds for scholarships. Reports included updates on discipline and attendance data, with a goal of reducing chronic absenteeism by 15% district-wide. The Superintendent reported a projected $1.4 million budget deficit for the 2023-24 school year, attributing this to declining enrollment and the failure of a local levy. Numerous policies were reviewed and adopted, including Policy 3112 on Social Emotional Climate and Policy 3241 on Student Discipline, which aim to enhance school safety and address student needs. The board also approved several policies related to student privacy, such as Policy 3231 on Student Records and Policy 3220 on Freedom of Expression, indicating a focus on protecting student rights and data.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-01-30-minutes.txt)
 
 ## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

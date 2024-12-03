@@ -66,6 +66,12 @@ The Northgate School District held a school board meeting to discuss the distric
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
 
+## 2024-10-09 - TOUTLE_LAKE_SCHOOL_DISTRICT (Minutes)
+
+The Toutle Lake School District #130 Board of Directors held a workshop on October 9, 2024, where several policies and procedures were reviewed and approved. The significant policies included Policy 2255 regarding Alternative Learning Experience Courses, Procedure 4260P for the Use of School Facilities, and Policy 6550 concerning Parking on School District Property, all of which were unanimously approved. Additionally, the board approved the 2024-25 ALE Program for the Toutle Valley Virtual Academy and appointed Chris Engebo as a 0.2 FTE ALE Program Teacher. Gianne Curry and Chris Engebo were also approved for an Out-of-Endorsed position for multiple subjects. Superintendent Chris Schumaker provided updates on a survey conducted among parents, staff, and students, indicating an effort to engage the community in district matters. The meeting concluded with the scheduling of the next board meeting for October 22, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/toutle_lake_school_district/2024/2024-10-09-specialmeetingoctober-minutes.txt)
+
 ## 2024-09-23 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
 This school board agenda and meeting minutes outline standard operational topics for a school district.  The board plans to discuss the execution of contracts and the work of the enrollment committee. They will also consider suggestions for future meeting agendas, including reports from school administrators, enrollment updates, financial reports, and plans for highly capable and career and technical education (CTE) programs. The agenda also includes a provision for an executive session, during which confidential matters may be discussed. Finally, the minutes document the formal adjournment of the meeting by board vote.
@@ -106,7 +112,7 @@ The school board meeting minutes detail discussions on procedural matters and fu
 
 ## 2024-06-24 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Camas School Board held a meeting on June 24, 2024, addressing various agenda items.  The board approved the consent agenda, which included routine matters such as minutes, accounts payable, payroll, human resources updates, travel requests, donations, and surplus equipment disposal. They also greenlit a club request from Camas High School for "Tutor the Youth." The board approved a new graduation date for Camas Connect Academy, moving it from June 11, 2025, to June 14, 2025. Additionally, they approved an out-of-field teaching assignment request and a contract extension for the superintendent from 2024 to 2027.  The meeting concluded with an executive session regarding personnel matters, resulting in the termination of Bradley Vandyne's employment. The board also recognized student achievements, including Aaria Lankireddy's first-place win at the Washington State Science Engineering Fair and the accomplishments of the Boys Track team and Papermaker Cheer Program.
+The School Board Meeting held on June 24, 2024, included several key actions and resolutions. Notably, the board approved a change to the graduation date for the Camas Connect Academy from June 11, 2025, to June 14, 2025, reflecting a policy change aimed at better accommodating students and families. Additionally, the board accepted the termination of Bradley Vandyne, which was discussed in an executive session, indicating ongoing personnel management and oversight. The meeting also recognized various achievements, including the Mill Town Pride Awards, showcasing community engagement and support for student accomplishments. The board's actions reflect a commitment to transparency and responsiveness to community needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-24-minutes.txt)
 
@@ -124,7 +130,7 @@ The Camas School Board held a special meeting on June 17, 2024, to discuss and a
 
 ## 2024-06-17 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The School Board held a Special Meeting on June 17, 2024, to discuss and adopt the District's Strategic Plan. The meeting included a public comment period regarding the plan before its unanimous adoption by the board. Following this, the board conducted interviews for the Director District II Board Member position.  The board then recessed into Executive Session for approximately 45 minutes. Upon resuming the regular meeting, Matthew McBride was appointed as the new District Director II Board Member, replacing Erika Cox. The appointment followed a roll call vote where Connie Hennessey, Bamini Pathmanathan and Corey McEnry voted for Matthew McBride, while Tracey Malone voted for Dena Strong.
+The School Board Special Meeting held on June 17, 2024, focused on the review and adoption of a Strategic Plan aimed at enhancing academic, social, and lifelong learning. The plan was adopted following a motion by Board Member Erika Cox, which was seconded by Tracey Malone, and received unanimous support from the attending members. The meeting also included the appointment of a new District Director II Board Member, Matthew McBride, who replaces Erika Cox after a roll call vote. The meeting concluded with an executive session, highlighting the board's commitment to governance and strategic planning for the school district's future.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-minutes.txt)
 

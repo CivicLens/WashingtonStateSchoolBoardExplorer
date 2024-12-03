@@ -74,6 +74,12 @@ This document outlines the time commitment and meeting schedule expectations for
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-02-minutes.txt)
 
+## 2024-10-16 - DAYTON_SCHOOL_DISTRICT (Minutes)
+
+The Dayton School District held its regular board meeting on October 16, 2024, where key topics included the approval of the hiring of Jesse Yost as the Middle School Head Boys' Basketball Coach and discussions around various student and community engagement initiatives. The board approved a series of donations to support the football team and student body activities, highlighting community involvement. Reports from the ASB Treasurer and student representative indicated strong student participation in school events, including homecoming activities and the planning of a winter formal dance. Additionally, Superintendent Jeremy Wheatley discussed the focus on teacher effectiveness during early release Wednesdays and the discontinuation of the middle school open science curriculum, which was deemed not a good fit. The meeting emphasized the district's commitment to academic standards and the importance of community engagement in supporting student activities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-16-minutes.txt)
+
 ## 2024-10-14 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
 The School Board Workshop agenda for October 14, 2024, focuses on several key areas.  "Safe and Healthy School Environments - District Safety Protocols" will be discussed as an informational item. A review of "Cultural Understanding - Policy & Procedure Review 3210," focusing on nondiscrimination, is scheduled as a discussion topic. The workshop also includes a presentation on "Excellence in Academic, Social and Lifelong Learning - CTE Program Review"  as an informational item. Finally, "Logistics" will be discussed.
@@ -109,6 +115,12 @@ The Lynden School District #504 held a special meeting on October 12, 2024, at t
 The Lynden School District #504 Board of Directors met on October 12, 2024, to discuss various topics related to district operations and strategic planning.  The meeting focused on reviewing the district's strategic priorities and key performance indicators, with a particular emphasis on multilingual language proficiency growth. Additionally, the board engaged in discussions regarding board development and effective governance practices. Superintendent David VanderYacht provided an update on the long-range capital facilities plan from June 2023, including information on impact fees.  The meeting concluded at 12:55 pm.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
+
+## 2024-10-11 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Mercer Island School District Board of Directors held a special meeting on October 11, 2024, to discuss Board Policy 1800 OE-1, which focuses on personalized learning, and to review the iReady Math assessment tool under Board Policy 1800 OE-10. Superintendent Fred Rundle introduced Dr. Ray Smith to lead a discussion on the importance of effective teaching practices, emphasizing the need for potential revisions to the policy language to broaden the focus from "personalized learning" to "learning" as a whole. The Board acknowledged the necessity of defining the "why," "how," and "what" of the policy and discussed metrics to monitor progress, such as the percentage of teachers whose students show significant growth. In the afternoon, discussions centered on the iReady assessment tool, with representatives from Curriculum Associates presenting its adaptive nature and the importance of using multiple data sources for comprehensive student evaluations. The Board expressed the need for clear measures and monitoring systems to enhance instructional decisions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-10-11-minutes.txt)
 
 ## 2024-10-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -264,6 +276,12 @@ The Mount Baker School District Board held a regular meeting on July 25, 2024.  
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
 
+## 2024-07-25 - MOSES_LAKE_SCHOOL_DISTRICT (Minutes)
+
+The Moses Lake School District Board meeting held on July 25, 2024, included several significant actions. The Board approved various resolutions, including Resolution 2024-13 for Superintendent Signature Authorization and Resolution 2024-20 for Authorization to Invest Funds, all passing unanimously. A notable policy change was made to Policy 1400, which governs meeting conduct, moving the meetings to the 1st and 3rd Thursdays starting in September. This change aims to improve community engagement by providing a more consistent meeting schedule. Additionally, the Board discussed academic standards, with presentations on Early Learners Meeting Standards and Career Technical Education (CTE) programs, highlighting the importance of aligning CTE programming with local industry and expanding opportunities for students. The meeting also included a request to accept a donation of up to $2.6 million from Community Athletics and Activities to support district athletics and activities, demonstrating a commitment to enhancing student engagement in extracurricular programs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/moses_lake_school_district/2024/2024-07-25-minutes.txt)
+
 ## 2024-07-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 Board held a regular meeting on July 23, 2024. Several policy updates were discussed and voted on, including the second review and approval of Procedure 2161P - Special Education and Related Services for Eligible Students, Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force, and Procedure 2151P – Interscholastic Activities. The latter failed to pass with a vote of zero in favor, four opposed, and one abstention after a lengthy discussion.  A first review was conducted for Grant Applicant Authorization Resolution 09-24 which will be brought back for second review and approval at the August 7th meeting. Additionally, Director of Technology Joe O'Brien presented the 2024-25 Technology Plan of Work outlining technology staff, support tickets, completed projects from the previous year, major summer 2024 projects and scheduled projects for the 2024-25 school year. The Finance Report provided a budget update including status and projections, strategies to manage program shortfalls, and upcoming capital project financial updates. Superintendent Dr. Everett updated the Board on his recent involvement in conferences related to School Finance Funding and Legislative Advocacy.
@@ -391,7 +409,7 @@ The meeting also included first readings of several procedures, including Proced
 
 ## 2024-06-24 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Camas School Board held a meeting on June 24, 2024, addressing various agenda items.  The board approved the consent agenda, which included routine matters such as minutes, accounts payable, payroll, human resources updates, travel requests, donations, and surplus equipment disposal. They also greenlit a club request from Camas High School for "Tutor the Youth." The board approved a new graduation date for Camas Connect Academy, moving it from June 11, 2025, to June 14, 2025. Additionally, they approved an out-of-field teaching assignment request and a contract extension for the superintendent from 2024 to 2027.  The meeting concluded with an executive session regarding personnel matters, resulting in the termination of Bradley Vandyne's employment. The board also recognized student achievements, including Aaria Lankireddy's first-place win at the Washington State Science Engineering Fair and the accomplishments of the Boys Track team and Papermaker Cheer Program.
+The School Board Meeting held on June 24, 2024, included several key actions and resolutions. Notably, the board approved a change to the graduation date for the Camas Connect Academy from June 11, 2025, to June 14, 2025, reflecting a policy change aimed at better accommodating students and families. Additionally, the board accepted the termination of Bradley Vandyne, which was discussed in an executive session, indicating ongoing personnel management and oversight. The meeting also recognized various achievements, including the Mill Town Pride Awards, showcasing community engagement and support for student accomplishments. The board's actions reflect a commitment to transparency and responsiveness to community needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-24-minutes.txt)
 
@@ -428,6 +446,12 @@ The Mount Baker School District Board met on June 13, 2024.  The meeting include
 The Mountainview Learning Center School Board held a meeting on June 11, 2024, to discuss the District 2024 budget.  The budget presentation highlighted the alignment of financial priorities with the new Strategic Plan's Focuses and Foundations. These focuses included Safety and Belonging, Early Learning (Birth - Grade 3), Mastery of Standards, and Future Ready. The Foundations outlined key operational principles such as Engaging and Effective Teaching and Learning Systems, Authentic and Meaningful Engagement with Students, Family and Community, Advancing Excellence: Strategic Operations and Resource Management, and Dynamic Systems for Hiring and Retention.  The meeting also included a brief Executive Session to discuss a real estate matter.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
+
+## 2024-06-06 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The June 6, 2024 Regular Business Meeting of the Board of Directors included various key actions and updates. Notably, the board approved the 2024-2025 instructional materials for K-5 Literacy, 4th Grade Social Studies, Middle School Social Emotional Learning, Edge Fundamentals for Grades 6-8 Literacy, and the French Curriculum for grades 9-12. These approvals were made through a series of motions led by President Carolyn Watson and Director Bloch, all of which received unanimous support from the board. The meeting also featured a report on the Annual Plan Progress regarding communications and a discussion on the Sustainability Plan. Additionally, the board engaged in an executive session to evaluate a complaint against a public employee and discuss potential litigation, emphasizing the board's commitment to addressing legal and financial implications for the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-06-06-minutes.txt)
 
 ## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -544,13 +568,15 @@ The Mount Baker School Board held a regular meeting on April 25th, 2024.  The bo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-04-25-minutes.txt)
 
+## 2024-04-23 - CHIMACUM_SCHOOL_DISTRICT (Minutes)
+
+The meeting on April 23, 2024, focused on the adoption of health and English Language Arts (ELA) curricula. The transition from FLASH to PTWY for elementary health education was discussed, highlighting the need for engaging content for younger students. The new curriculum meets state requirements for HIV education starting in 5th grade, with 8.5 hours allocated for health education in grades 5 and 6, and 16 hours for grades 7-12. The presentations emphasized the importance of comprehensive health education that respects student rights and responsibilities. In ELA, the committee reviewed the history of curriculum adoption, noting that the Wit and Wisdom program was rejected, while Wonders and Amplify CKLA were piloted. Concerns were raised about the suitability of the Wonders curriculum for special education students, and the committee acknowledged the differing preferences between primary and upper elementary teachers regarding foundational skills and engaging materials. The discussions underscored the necessity for curriculum transparency and responsiveness to diverse student needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/jefferson/school_boards/chimacum_school_district/2024/2024-04-23-aprilimc-minutes.txt)
+
 ## 2024-04-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Camas School Board met on April 22, 2024.  The board reviewed and adopted several updated policies during the meeting. These included Policy 2410 (High School Graduation Requirements), Policy 3122 (Excused and Unexcused Absences), Policy 3141 (Non-resident Students), Policy 5005 (Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval), Policy 5010 (Nondiscrimination and Affirmative Action), Policy 5050 (Contracts), Policy 5271 (Reporting Improper Governmental Action (Whistleblower Protection)), Policy 5280 (Separation from Employment) and Policy 5400 (Personnel Leaves). They also reviewed and adopted a new policy, Policy 2415 (Performance-Based Pathway for High School Graduation).
-
-The board approved two items related to Quality Facilities and Resources.  These included a one-year contract with GB Manchester, Inc. for district-wide annual inspections of fire alarm systems in the amount of $71,925 plus applicable sales tax. The second item was the approval of the replacement of Wireless Access Point (WAP) devices districtwide at a total cost of $688,453.80.  The funds for this project will be paid from the Technology Levy. 
-
-Finally, the board reviewed and approved several items on the Consent Agenda including Minutes, Accounts Payable, Payroll, and Human Resources.
+The School Board Meeting held on April 22, 2024, included discussions on several policy reviews and approvals. Notably, policies were presented for first reading, including 2410 - High School Graduation Requirements, and 5005 - Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval. The board also reviewed and adopted policies in their second reading, such as 2255 - Alternative Learning Experience Courses and 2415 - Performance-Based Pathway for High School Graduation, which is a new policy. Additionally, the board approved a one-year contract with GB Manchester, Inc. for district-wide fire alarm inspections, amounting to $71,925, and authorized the purchase of Wireless Access Point devices for $688,453.80, funded by the Technology Levy. The meeting concluded with an executive session focused on property matters.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-22-minutes.txt)
 
@@ -843,6 +869,12 @@ The Lynden School District #504 Board Meeting agenda focuses on several key area
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-agenda.txt)
 
+## 2024-02-13 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 Board of Education held a regular meeting on February 13, 2024, where they addressed various topics including community engagement and academic standards. Superintendent Dr. Dani Pfeiffer introduced Principal Charleen Prichard, who provided a school highlight, emphasizing the importance of community partnerships. The Board recognized scholars and staff for their achievements, reflecting a commitment to diversity and inclusion. Notably, the Board approved the adoption of the 3-5 and 6-8 English Language Arts (ELA) Curriculum, which is part of their focus on maintaining academic standards and ensuring curriculum transparency. Additionally, the meeting included a discussion on Resolution 2024-02, which authorized surplus disposition requirements under RCW 28A.335.180, demonstrating the Board's intent to manage district resources effectively.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-13-minutes.txt)
+
 ## 2024-02-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
 The Lynden School District #504 School Board is holding a meeting on February 8th, 2024 at 7:00 PM in the Board Room located at 516 Main St, Lynden, WA 98264.  The agenda includes standard items such as a call to order, approval of meeting minutes from January 25th, 2024, and a consent agenda covering payroll and personnel recommendations. The meeting will also feature a joint work session with the City of Lynden and Lynden Parks & Recreation. The specific topics for discussion during this work session are outlined in a separate agenda document dated February 8th, 2024.  The meeting concludes with an adjournment vote.
@@ -908,6 +940,12 @@ The Meridian School District #505 held a regular school board meeting on January
 | [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
 
+## 2024-01-23 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where various agenda items were addressed, including the approval of the Required Approvals Agenda and the Meeting Agenda. Key actions included the approval of Resolution 2024-01, which authorizes the waiver of public bidding requirements as per RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and introduced several recognitions, including the Because of You Awards for outstanding scholars and staff. The meeting also featured reports from student representatives and discussions on legislative updates, highlighting the board's commitment to community engagement and transparency in academic standards. The board assessed its performance and discussed recent events impacting the district. The meeting concluded with an adjournment at 7:53 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-23-minutes.txt)
+
 ## 2024-01-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
 The school board agenda outlines a regular meeting on January 22, 2024.  The meeting includes time for general comments from the directors and discussion of future meetings and agenda suggestions. A School Improvement Plan mid-year work session is scheduled for February 26, 2024, followed by a regular board meeting. Suggested agenda items include recognizing Education Support Professionals Week and School Retirees' Appreciation Week, receiving a High School Student Report and School Administrator Monthly Reports, discussing enrollment updates and financial reports, and hearing the Superintendent's report. The agenda also includes a potential executive session for discussion of confidential matters allowed under state statute.  The meeting concludes with a formal motion to adjourn.
@@ -916,9 +954,23 @@ The school board agenda outlines a regular meeting on January 22, 2024.  The mee
 
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on January 22, 2024, to review information related to Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps.  The meeting focused on strategies to ensure academic growth for all students while addressing disparities in educational outcomes and opportunities. The specific details of the strategies discussed were not included in the provided text. The session adjourned at 6:49 PM.
+The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which aims for growth for every student and the elimination of outcome and opportunity gaps. This discussion reflects the district's commitment to diversity and inclusion, particularly in relation to racial equity and support for LGBTQ+ students. The session was attended by board members, including President Amy Cast and Superintendent Michael Tolley, who emphasized the importance of addressing these equity issues within the educational framework. The study session concluded with an adjournment at 6:49 PM, and the minutes were approved on February 12, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
+
+## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on January 22, 2024, where several key actions were taken. The board approved the new course proposals for "Intensive Math 1C" and "English IV," both set to begin in the 2024-25 school year, as presented by Travis Drake, the Director of Instructional Leadership for Secondary Level. Additionally, the board revised Policy 2255 regarding Alternative Learning Experience Programs to include the Battle Ground Virtual Academy, clarifying assessments and enrollment procedures. Other policy revisions included Policy 6215 on Voucher Certification and Approval, which was updated to meet statutory requirements for the audit committee, and Policy 6550 on Capitalization Threshold for Lease and Subscription Based Information Technology Arrangements (SBITAs), reflecting guidance from the Washington State School Directors' Association. The meeting also highlighted student achievements and staff recognitions, emphasizing community engagement and the board's commitment to nurturing student voices.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-regularboardmeeting-minutes.txt)
+
+## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The special meeting held on January 22, 2024, at the Lewisville Campus focused on the School Improvement Plans for the 2023-24 academic year, presented by administrators from Prairie High School and River HomeLink. Key presenters included Shelly Whitten, Deputy Superintendent, and David Kennedy, Executive Director of School Improvement, among others. The meeting emphasized the importance of continuous school improvement planning, which is mandated by WAC 180-16-220, requiring annual Board approval of each school's plan. This process involves active participation from building staff, students, parents, and community members, and aims to be data-driven to enhance student achievement.
+
+The School Improvement Plans are designed to ensure high levels of student performance and promote a positive impact on learning. They include strategies for continuous improvement and are developed through collaborative input from various stakeholders. The meeting concluded with an adjournment after discussing the importance of these plans in meeting academic standards and fostering community engagement in the educational process.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-specialmeeting-minutes.txt)
 
 ## 2024-01-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 

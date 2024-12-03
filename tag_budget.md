@@ -42,11 +42,15 @@ The Board of Directors for an unspecified school district is holding a study ses
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-14-agenda.txt)
 
+## 2024-08-27 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public School District No. 210 Board of Education held a regular meeting on August 27, 2024, where they approved several key items, including the 2024-25 Budget (Resolution 2024-12) and the 2024-25 Board Meeting Schedule. The budget presentation was made by Superintendent Dr. Dani Pfeiffer, alongside Chief Finance & Operations Officer Rob Bryant and Executive Director of Business Services Jeri Carlson. The meeting included a public hearing for the budget, although no public comments were received during that time. Additionally, the board engaged in discussions about recent events, demonstrating a commitment to community engagement. The meeting concluded with an adjournment at 7:16 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-08-27-minutes.txt)
+
 ## 2024-08-26 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Camas School Board held a meeting on August 26, 2024.  The board approved the 2024/2025 budget (Board Resolution 24-01) and a consent agenda including items such as minutes, accounts payable, payroll, human resources, contract renewals, and facility requests.
-
-Several projects were also addressed, with final acceptance granted for the Camas High School Cardon Field Turf Replacement Project, Camas High School Roof Replacement Project Phase 1, and the District-wide Wireless Access Point (WAP) Project. The board also approved a student placement agreement with Triumph Academy and a two-year renewal agreement with Zoom for meeting and webinar software.
+The school board meeting held on August 26, 2024, included several key actions and resolutions. The board approved the 2024/2025 Budget as presented in Board Resolution 24-01, with unanimous support from all members present. Additionally, the board moved to approve various consent agenda items, including contracts and requests related to human resources and facilities. Notably, the board approved a student placement agreement with Triumph Academy, a two-year renewal agreement with Zoom for meeting and webinar software at an annual cost of $5,672.83, and the final acceptance of multiple facility projects, including the Camas High School Cardon Field Turf Replacement Project and the Roof Replacement Project Phase 1. The meeting concluded with an executive session regarding property matters before adjourning at 8:12 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-08-26-minutes.txt)
 
@@ -81,7 +85,7 @@ The Blaine School District is holding a special board meeting on July 23, 2024, 
 
 ## 2024-07-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The meeting minutes detail a regular School Board Meeting on July 22, 2024. Key topics discussed included the approval of the 2023/2024 budget extension through Board Resolution 23-07.  The board also approved a Professional Services Agreement with MacKay Sposito for design and engineering services related to a covered tennis court project. Additionally, they approved a Facility Use and Management Agreement with USTA and authorized the purchase of Mystery Science materials for elementary schools.
+The School Board Meeting held on July 22, 2024, included discussions and actions related to several key policies and resolutions. Notably, Board Resolution 23-07 was approved, proposing an extension on the 2023/2024 Budget. The meeting also featured a public hearing regarding the budget extension, allowing for community engagement through public comments. Additionally, the board approved a Professional Services Agreement with MacKay Sposito for design and project management services for a covered tennis court project, which is budgeted at a total not to exceed $153,000. Furthermore, the board authorized the purchase of Mystery Science materials for all elementary schools, totaling $64,128.93, aiming to enhance the curriculum.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-07-22-minutes.txt)
 
@@ -117,7 +121,7 @@ The Board of Directors for an unnamed school district will hold a study session 
 
 ## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on March 11, 2024, to review information related to the 2024-2025 budget development.  The meeting was called to order at 7:00 PM and adjourned at 7:50 PM.  In attendance were board members Elisabeth Sotak, Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on March 25, 2024, by Mr. Tolley (Secretary to the Board) and Ms. Cast (President).
+The Northshore School District Board of Directors convened on March 11, 2024, for a study session focused on the development of the 2024-2025 budget. Key attendees included Board President Amy Cast and Superintendent Michael Tolley. The discussion centered on budgetary considerations, but specific details regarding policy changes or strategic plans were not mentioned in the provided text. The session was adjourned after approximately 50 minutes of discussion. The date of approval for the minutes is noted as March 25, 2024.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-minutes.txt)
 

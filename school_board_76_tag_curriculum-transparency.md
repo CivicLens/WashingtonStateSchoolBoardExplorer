@@ -1,0 +1,50 @@
+# Meeting Summaries for BATTLE_GROUND_SCHOOL_DISTRICT with Tag: curriculum-transparency
+
+## 2024-10-28 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on October 28, 2024, where they discussed various topics including the recent recognition of River HomeLink as a "School on the Rise," which highlights efforts to foster inclusive and equitable environments. The board also addressed mental health support through referrals to Care Solace and recognized the importance of social-emotional learning (SEL) initiatives. There was a focus on curriculum transparency, particularly regarding updates to the library information and technology programs, which included a review of procedures to ensure consistency and best practices in selecting books. The meeting also included citizen comments on topics such as harmful chemicals in water and the need for smaller class sizes, reflecting community engagement and feedback on pressing issues. Additionally, the board approved several items in the consent agenda, including a contract amendment for Amergis Healthcare Staffing and the Carl Perkins Grant for Career and Technical Education programs, indicating ongoing policy changes to support educational and operational needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-10-28-minutes.txt)
+
+## 2024-07-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on July 22, 2024, where several significant actions and discussions took place. The board approved the food services management contract with Chartwells for the 2024-25 school year, as presented by Darcy Spierkman in the absence of Michelle Scott. Additionally, the board accepted the first reading of the Go Math curriculum for Grades K-6 and Grades 7-8, indicating a commitment to curriculum transparency. Revisions were made to multiple policies, including Policy 2022 on Electronic Resources and Internet Safety, Policy 2023 on Digital Citizenship and Media Literacy, and Policy 2121 on the Substance Abuse Program, reflecting ongoing policy changes aimed at enhancing student safety and educational standards. The meeting also featured citizen comments on concerns regarding policy and procedure 2021, showcasing community engagement on educational policies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-07-22-minutes.txt)
+
+## 2024-06-24 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on June 24, 2024, where several significant policy changes were approved. Notably, the Board accepted the first reading of the High School Child Development curriculum titled "Working with Young Children" by Judy Herr, which aims to enhance curriculum transparency. Additionally, revisions were made to multiple policies, including Policy 3241 on Student Discipline, which was approved, and Policy 3143, which was renamed to "Notification and Dissemination of Information about Student Offenses and Notification of Threats of Violence or Harm." The Board also approved changes to Policy 3120 on Enrollment and Policy 6022 on Fund Balance, reflecting ongoing adjustments to district policies. These actions demonstrate the Board's commitment to updating educational standards and ensuring effective governance within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-06-24-minutes.txt)
+
+## 2024-04-08 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on April 8, 2024, where several key topics were discussed. Superintendent Denny Waters reported on a potential School Resource Officer (SRO) for Prairie High School, which would cost approximately $90,000 for the 2024-25 school year. The board also addressed mental health support, approving a contract with Care Solace to improve access to mental health services for students, funded by the AWARE grant. Additionally, the board conducted first readings for new curriculum proposals, including a curriculum for Middle School Science (Amplify Science, Copyright 2022) and High School Social Studies, emphasizing transparency in the curriculum adoption process. The board members asked clarifying questions regarding these proposals and the mental health initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-04-08-minutes.txt)
+
+## 2024-02-26 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on February 26, 2024, where several key actions and discussions took place. Notably, the board approved the second reading and adoption of Policy 6815 regarding Advertising on District Property, which formalizes existing practices while ensuring compliance with non-discrimination and freedom of speech principles. The board also reviewed and approved curriculum proposals for Advanced Placement (AP) Social Studies and Science courses, highlighting the district's commitment to high-quality education and transparency in the curriculum adoption process. Additionally, the board approved the Career and Technical Education Plan presented by Cindy Arnold, which reflects the district's ongoing efforts to enhance educational opportunities for students. The meeting included updates on various projects, including the award of a contract for a Public Safety Distributed Antenna System to improve security in schools, funded by a federal grant.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-26-regularboardmeeting-minutes.txt)
+
+## 2024-02-12 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+On February 12, 2024, the Battle Ground Public Schools Board of Directors held a regular meeting where they discussed several significant topics. Notably, the board approved the first readings of curriculum proposals for Advanced Placement (AP) Social Studies and AP Science courses, presented by Allison Tuchardt and Dave Cresap. These proposals are part of a broader curriculum adoption process governed by the College Board's requirements. The board also revised Policy 4060, which governs the distribution of materials, aligning it with model policies from the Washington State School Directors' Association to include governmental entities alongside nonprofit organizations. The meeting included various reports from board members and staff, emphasizing community engagement and the importance of student voice in board decisions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-12-regularboardmeeting-minutes.txt)
+
+## 2024-02-12 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on February 12, 2024, where significant discussions and decisions were made regarding curriculum proposals and policy revisions. Notably, the board accepted the first readings of Advanced Placement (AP) courses in social studies and science, including AP Government and Politics, AP Human Geography, AP U.S. History, AP World History, AP Biology, AP Chemistry, and AP Environmental Science. Each motion carried unanimously with a student advisory vote in favor. Furthermore, the board approved a revision of Policy 4060, which expanded the distribution of materials to include governmental entities alongside nonprofit organizations, ensuring that such distribution does not interfere with the educational process. Additionally, the board received citizen comments regarding the retention of books in high school libraries, highlighting the ongoing conversation around book access.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-12-minutes.txt)
+
+## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on January 22, 2024, where several significant actions were taken regarding curriculum and policy changes. The board approved the new course codes for Intensive Math IC and English IV, presented by Director of Instructional Leadership Travis Drake, with both motions carrying unanimously. Additionally, the board approved a revision of Policy 2255, which now includes the Battle Ground Virtual Academy and clarifies assessment and enrollment processes. A further revision of Policy 6550 regarding the Capitalization Threshold for Lease and Subscription-Based Information Technology Arrangements (SBITAs) was also approved, reflecting updated guidance from the state auditor's office. The meeting included student voices, with representatives from Maple Grove Primary School discussing positive aspects of their educational experience, highlighting community engagement in school activities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-minutes.txt)
+

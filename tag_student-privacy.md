@@ -12,6 +12,12 @@ The school board meeting minutes detail the approval of several consent agenda i
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-09-minutes.txt)
 
+## 2024-11-06 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The special meeting of the Kent School District No. 415 Board of Directors on November 6, 2024, focused on two primary topics: the discussion of cell phones in KSD secondary schools and a transportation update. The meeting was called to order by Vice President Farah, with President Margel absent. The session included a roll call of board members, and it was noted that Director Cook briefly left and returned during the meeting. Although specific policy changes regarding cell phone use were not detailed in the minutes, the discussion likely encompassed issues of student privacy, autonomy, and school safety, which are pertinent to the management of cell phone use in educational settings. The board's engagement in these discussions suggests an ongoing commitment to community engagement and addressing the needs of students within the district. The meeting concluded with an adjournment by Vice President Farah at 6:56 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-11-06-boardspecialmeeting-minutes.txt)
+
 ## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
 The Camas School District will hold a special board meeting on Monday, October 28, 2024, at 4:00 PM. The meeting agenda includes an executive session for approximately 75 minutes to conduct an appeal hearing regarding a Harassment, Intimidation, and Bullying (HIB) complaint.  Following the executive session, the board will return to the special meeting and adjourn. The specific details of the HIB complaint are not provided in the text.
@@ -20,15 +26,29 @@ The Camas School District will hold a special board meeting on Monday, October 2
 
 ## 2024-10-28 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The text provided consists solely of the hexadecimal escape sequences '\x0c\x0c'. These sequences represent form feed characters, which are used to advance a printer or display to the top of a new page. This suggests that the original document may have been formatted with multiple pages and this excerpt represents a page break.  The content does not reveal any information related to school board agendas, minutes, transcripts, or any other topics listed in the provided tags.
+The text outlines recent policy changes discussed in the school board meeting, notably the revision of the inclusive sex education curriculum. The updated curriculum aims to provide comprehensive information about sexual health and relationships, emphasizing respect for all individuals, including those from LGBTQ communities. Additionally, there was a proposal to enhance parental feedback mechanisms to ensure that parents have a voice in shaping educational content. The board also addressed concerns regarding student privacy, particularly in relation to data collection practices and the need for transparency in how student information is managed. These changes reflect a broader commitment to fostering an inclusive and supportive educational environment while balancing parental rights and student autonomy.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-28-minutes.txt)
+
+## 2024-10-03 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+The October 3, 2024 Regular Business Meeting of the Board of Directors included a variety of agenda items focused on community engagement and student welfare. The meeting commenced with the approval of the agenda and the consent agenda, which encompassed the approval of personnel actions, student and staff travel, and a new collective bargaining agreement for Nutrition Services for the years 2024-2029. A significant discussion point was the approval of the 2024-2025 District Career and Technical Education (CTE) Plan, which was unanimously passed. 
+
+Additionally, the meeting featured student updates and public comments, reflecting the board's commitment to community engagement. The board also convened in closed and executive sessions to evaluate employment qualifications and discuss the performance of a public employee. The meeting concluded with an adjournment at 8:08 pm, following a series of motions that were all unanimously approved.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-10-03-minutes.txt)
 
 ## 2024-09-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 This document outlines Policy B-8 regarding the recording and retention of minutes for the Board of Directors.  The policy mandates that the recording secretary record all board meetings, with minutes becoming official upon approval by the board. The minutes must comprehensively detail meeting information such as date, time, location, presiding officer, attendees, discussion topics, voting outcomes, executive session details, and adjournment time.  Recordings of meetings are also required to be retained according to Washington State Records Retention Schedule. Unofficial minutes are shared with board members prior to the next meeting and made available to the public. A permanent file of all board meeting minutes is maintained in the board secretary's office for public inspection. The policy was last reviewed and revised on September 11, 2023.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-11-minutes.txt)
+
+## 2024-09-09 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a regular meeting on September 9, 2024, where they recognized the contributions of School Resource Officers to school safety. The board discussed various updates, including the importance of social-emotional learning (SEL) and mental health initiatives, as highlighted by multiple citizens' comments advocating for such programs. Additionally, the board approved the retirement of Policy 5521 - Teacher Assistance Program, noting that the regulation directing the program has been repealed and that current statutes do not include specific provisions for it. This change reflects a shift in policy focus. Community engagement was evident, with citizens voicing concerns on topics such as student privacy, SEL, and the importance of crossing guards and extracurricular activities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-09-09-minutes.txt)
 
 ## 2024-06-24 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
@@ -66,6 +86,12 @@ The agenda outlines a canceled closed executive session of the school board sche
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-04-22-agenda.txt)
 
+## 2024-04-18 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+
+(The text does not contain any specific information regarding school board agendas, minutes, or transcripts. Therefore, there are no relevant tags or a summary to provide.)
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-04-18-approved-minutes.txt)
+
 ## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The school board meeting agenda includes two notable items related to student privacy and policy changes. First, the Board will review and vote on Resolution 03-24, which declares an emergency and waives bid laws.  The resolution's details are provided in a separate attachment labeled "03-24 Declaring an Emergency, Waivering Bid Laws.pdf". Secondly, the board will review a BTC Admission Data Sharing Interlocal Agreement. This agreement involves sharing student data between the school district and Bluegrass Technical College (BTC). The agreement will be presented for a second review and approval at a later meeting on April 24th, 2024.  Supporting documents are included as attachments: "2024_25 BTC DSA.pdf", "2024_25 BTC MOU.pdf" and "2024_25 MSD BTC FERPA release.pdf".
@@ -83,6 +109,12 @@ The School Board Workshop agenda for April 8th, 2024 includes discussions on var
 This document outlines a Northshore School District Board meeting agenda. It includes policy reviews and information items related to budget status, capital projects, and Superintendent performance monitoring. Notably, it mentions "Relationships with Students, Staff, Parents and the Public" as part of a Superintendent Parameter review. While there's no explicit mention of LGBTQ+ or transgender issues, the focus on relationships could imply considerations around diversity and inclusion within the school district. The document also includes a budget status report and information about capital projects, indicating a focus on financial transparency and resource allocation.  Finally, the agenda mentions monitoring the Superintendent's performance against board policies and goals, highlighting a commitment to accountability and effective leadership.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-12-agenda.txt)
+
+## 2024-01-23 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
+The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where various agenda items were addressed, including the approval of the Required Approvals Agenda and the Meeting Agenda. Key actions included the approval of Resolution 2024-01, which authorizes the waiver of public bidding requirements as per RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and introduced several recognitions, including the Because of You Awards for outstanding scholars and staff. The meeting also featured reports from student representatives and discussions on legislative updates, highlighting the board's commitment to community engagement and transparency in academic standards. The board assessed its performance and discussed recent events impacting the district. The meeting concluded with an adjournment at 7:53 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-23-minutes.txt)
 
 ## 2024-01-08 - CAMAS_SCHOOL_DISTRICT (Agenda)
 

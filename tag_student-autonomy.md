@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: student-autonomy
 
+## 2024-11-18 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The Lake Washington Board of Directors held a study session on November 18, 2024, where significant topics included a discussion on the transition from a 7-period high school schedule to a 6-period schedule, set to begin in the 2025-26 school year. Deputy Superintendent Scott Beebe provided an update on this policy change, focusing on its implications for student schedules, policy modifications, and enhancing student opportunities and agency. Additionally, President Leah Choi addressed the Board and Student Representatives regarding conference attendance and the importance of reporting on participation and learning outcomes. The meeting concluded with the official minutes to be signed upon approval, reflecting the Board's ongoing commitment to strategic planning and policy development.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-11-18-minutes.txt)
+
 ## 2024-11-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
 The Edmonds School District Board of Directors held a special meeting on November 20, 2021, at the Hyatt Regency Bellevue to discuss results from their recent self-assessment survey conducted by the Washington State School Directors Association (WSSDA).  This was not a regular school board meeting and did not include public comment. The purpose of the meeting was to review the findings of the WSSDA self-assessment survey and identify areas for improvement in board governance and practices. No specific policy changes were mentioned in the provided text.
@@ -23,6 +29,12 @@ The school board meeting minutes detail the approval of several consent agenda i
 The agenda outlines a regular meeting of the school board on November 28, 2023.  The meeting includes legislative updates from Ms. Uppiano and a sharing session for board members. A key item is the reorganization of the School Board, where nominations and elections will be held for president and vice president, positions to be filled until the December 2024 board meeting. The agenda also indicates that the board will decide on a Bond Committee liaison. Finally, student board members will evaluate the meeting using a provided survey.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-agenda.txt)
+
+## 2024-11-06 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The special meeting of the Kent School District No. 415 Board of Directors on November 6, 2024, focused on two primary topics: the discussion of cell phones in KSD secondary schools and a transportation update. The meeting was called to order by Vice President Farah, with President Margel absent. The session included a roll call of board members, and it was noted that Director Cook briefly left and returned during the meeting. Although specific policy changes regarding cell phone use were not detailed in the minutes, the discussion likely encompassed issues of student privacy, autonomy, and school safety, which are pertinent to the management of cell phone use in educational settings. The board's engagement in these discussions suggests an ongoing commitment to community engagement and addressing the needs of students within the district. The meeting concluded with an adjournment by Vice President Farah at 6:56 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-11-06-boardspecialmeeting-minutes.txt)
 
 ## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -107,11 +119,7 @@ The school board meeting minutes detail several policy changes and approvals.  R
 
 ## 2024-09-23 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Mill Town School Board held a regular meeting on September 23rd, 2024. The meeting included standard agenda items such as the Pledge of Allegiance and Land Acknowledgement.  Board communication involved public comments and presentations from students. 
-
-The board approved student placements at SPERO Center for $326,000 and Florens Academy for $600,000 for the 2024-2025 school year. Additionally, an Out-of-Endorsement Assignment Request for Adam Mathieson was approved. The consent agenda included minutes, accounts payable, payroll, human resources matters, donations, and a contract renewal for a Behavioral Health Program. All consent agenda items were approved unanimously.
-
-The meeting concluded with the approval of a travel request by the CHS Select Vocal Ensemble for their retreat in September 2024 via email vote.
+The School Board Meeting held on September 23, 2024, included several key discussions and approvals related to student placements and educational programs. The board approved a student placement at SPERO Center for $326,000 and at Florens Academy for $600,000 for the 2024/25 school year, with motions moved by Connie Hennessey and Tracey Malone, respectively. Both motions carried unanimously. Additionally, the board approved an Out-of-Endorsement Assignment Request for Adam Mathieson, indicating a focus on staffing needs. The meeting also featured a Superintendent's Report and a consent agenda that included approvals for minutes, accounts payable, payroll, and a contract renewal for a Behavioral Health Program, emphasizing the board's commitment to mental health resources. The meeting concluded with an email vote approving a travel request for the CHS Select Vocal Ensemble's retreat.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-23-minutes.txt)
 
@@ -248,6 +256,12 @@ The school board meeting addressed several policy revisions related to high scho
 | [Peggy Uppiano](board_member_321.md) | voted no on motion to receive revised policy 2255 alternative learning experience courses | Action (Consent): 10.07 Receive Revised Policy 2255 Alternative Learning Experience Courses |
 | [Kevin Erickson](board_member_320.md) | voted yes on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
 | [Peggy Uppiano](board_member_321.md) | voted no on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
+
+## 2024-05-28 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+
+The Battle Ground Public Schools Board of Directors held a special meeting on May 28, 2024, to conduct interviews for an open student representative position on the board. The selected student will serve a two-year term beginning July 1, 2024. Four 10th-grade students were interviewed for this position, emphasizing student autonomy in school governance. Following an executive session, the board appointed Itzel Contreras Montiel as the student board representative and selected Aubrey Grier as the alternate, pending acceptance. This process reflects community engagement by involving students in decision-making roles within the school board. The meeting concluded with a unanimous vote of 5-0 in favor of the appointments.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-05-28-minutes.txt)
 
 ## 2024-05-14 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -433,6 +447,12 @@ The Spokane Public Schools Board will hold a special meeting on February 7, 2024
 The Lynden School District Board meeting agenda focuses on several key topics.  The board will conduct first and second readings of revised policies addressing meeting conduct, workplace civility, and nondiscrimination. A discussion regarding a class action lawsuit concerning social media's impact on youth mental health is also scheduled. Notably, the board will vote on approving a Nondiscrimination in Hiring Plan. The agenda highlights various school updates, including the implementation of a Unified Sports basketball team for students with special needs and the launch of an Extended Day program at Fisher Elementary.  Additionally, reports from the superintendent, teaching and learning department, and finance and operations division will be presented, covering topics such as capital facilities planning, emergency management and safety, and financial updates.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-agenda.txt)
+
+## 2024-01-03 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The January 3, 2024 Special Board Meeting of the Lake Washington Board of Directors commenced at 7:00 p.m. with a roll call of board members present: Leah Choi, Lisa Guthrie, Eric Laliberte, Mark Stuart, and Lindsey Yocum. The agenda for the meeting was approved, which included a significant discussion during the Executive Session, focused on evaluating complaints against public officers or employees and matters related to potential litigation. The Executive Session began at 7:05 p.m. and was extended multiple times, concluding at 9:05 p.m. The official minutes from this meeting are scheduled for approval at the subsequent meeting on January 8, 2024. Notably, no specific policies or resolutions were mentioned in the agenda or during the meeting, indicating that the focus was primarily on procedural matters rather than policy changes or new initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-03-minutes.txt)
 
 ## 2023-11-16 - BLAINE_SCHOOL_DISTRICT (Agenda)
 

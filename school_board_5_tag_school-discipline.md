@@ -2,11 +2,7 @@
 
 ## 2024-04-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
-The Camas School Board met on April 22, 2024.  The board reviewed and adopted several updated policies during the meeting. These included Policy 2410 (High School Graduation Requirements), Policy 3122 (Excused and Unexcused Absences), Policy 3141 (Non-resident Students), Policy 5005 (Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval), Policy 5010 (Nondiscrimination and Affirmative Action), Policy 5050 (Contracts), Policy 5271 (Reporting Improper Governmental Action (Whistleblower Protection)), Policy 5280 (Separation from Employment) and Policy 5400 (Personnel Leaves). They also reviewed and adopted a new policy, Policy 2415 (Performance-Based Pathway for High School Graduation).
-
-The board approved two items related to Quality Facilities and Resources.  These included a one-year contract with GB Manchester, Inc. for district-wide annual inspections of fire alarm systems in the amount of $71,925 plus applicable sales tax. The second item was the approval of the replacement of Wireless Access Point (WAP) devices districtwide at a total cost of $688,453.80.  The funds for this project will be paid from the Technology Levy. 
-
-Finally, the board reviewed and approved several items on the Consent Agenda including Minutes, Accounts Payable, Payroll, and Human Resources.
+The School Board Meeting held on April 22, 2024, included discussions on several policy reviews and approvals. Notably, policies were presented for first reading, including 2410 - High School Graduation Requirements, and 5005 - Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval. The board also reviewed and adopted policies in their second reading, such as 2255 - Alternative Learning Experience Courses and 2415 - Performance-Based Pathway for High School Graduation, which is a new policy. Additionally, the board approved a one-year contract with GB Manchester, Inc. for district-wide fire alarm inspections, amounting to $71,925, and authorized the purchase of Wireless Access Point devices for $688,453.80, funded by the Technology Levy. The meeting concluded with an executive session focused on property matters.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-22-minutes.txt)
 
