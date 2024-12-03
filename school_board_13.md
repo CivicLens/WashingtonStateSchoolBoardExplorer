@@ -1,4 +1,4 @@
-# Meeting Summaries for ANACORTES_SCHOOL_DISTRICT
+# Meeting Summaries for WENATCHEE_SCHOOL_DISTRICT
 
 ## Board Members
 

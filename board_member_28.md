@@ -1,6 +1,6 @@
-# Positions Supported by Edward Fox (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 12/31/2023)
+# Positions Supported by Rob Perkins (EVERGREEN_PUBLIC_SCHOOLS, Term: 2014-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Edward Fox | MOUNT_BAKER_SCHOOL_DISTRICT | 12/31/2023 |
+| Rob Perkins | EVERGREEN_PUBLIC_SCHOOLS | 2014-2025 |
 

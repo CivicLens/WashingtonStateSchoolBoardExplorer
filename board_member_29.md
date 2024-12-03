@@ -1,6 +1,6 @@
-# Positions Supported by Jason Bloodgood (MOUNT_BAKER_SCHOOL_DISTRICT, Term: December 2023)
+# Positions Supported by Jacqueline Weatherspoon (EVERGREEN_PUBLIC_SCHOOLS, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jason Bloodgood | MOUNT_BAKER_SCHOOL_DISTRICT | December 2023 |
+| Jacqueline Weatherspoon | EVERGREEN_PUBLIC_SCHOOLS | 2022-2025 |
 

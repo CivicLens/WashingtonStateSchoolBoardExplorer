@@ -1,6 +1,6 @@
-# Positions Supported by Brenna Reaugh (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 2023)
+# Positions Supported by Ginny Gronwoldt (EVERGREEN_PUBLIC_SCHOOLS, Term: 2017-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Brenna Reaugh | MOUNT_BAKER_SCHOOL_DISTRICT | 2023 |
+| Ginny Gronwoldt | EVERGREEN_PUBLIC_SCHOOLS | 2017-2025 |
 

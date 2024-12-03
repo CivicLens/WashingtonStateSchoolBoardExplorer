@@ -1,6 +1,6 @@
-# Positions Supported by Danielle Gray (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 2024)
+# Positions Supported by Tracey Malone (CAMAS_SCHOOL_DISTRICT, Term: 2017-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Danielle Gray | MOUNT_BAKER_SCHOOL_DISTRICT | 2024 |
+| Tracey Malone | CAMAS_SCHOOL_DISTRICT | 2017-2027 |
 
