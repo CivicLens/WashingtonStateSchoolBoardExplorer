@@ -6,12 +6,6 @@ The Mount Baker School District Board held a regular meeting on July 25, 2024.  
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
 
-## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also included updates from the superintendent regarding COVID-19 planning, waiver updates, capital projects, and graduation plans. Discussions touched upon long-term strategic planning for the district.  The board scheduled future meetings, including regular sessions and work sessions.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
-
 ## 2024-06-13 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District Board met on June 13, 2024.  The meeting included an executive session to discuss contract negotiations with the MBEA and PSE. During regular session, the board approved contracts for both unions. Additionally, they approved Resolution MB 23/24:20 regarding WIAA membership. The board discussed several topics including graduation, field day events, and program cuts for the upcoming school year. They also received public comment regarding class sizes for the 24/25 school year.  The meeting concluded with a discussion on the four-year budget and scheduling of future meetings.

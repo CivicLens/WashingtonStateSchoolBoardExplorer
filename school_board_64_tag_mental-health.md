@@ -8,12 +8,6 @@ The Board Consent Agenda focused on approving minutes, reviewing the budget, and
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
 
-## 2024-11-05 - FERNDALE_SCHOOL_DISTRICT (Agenda)
-
-The Ferndale School District No. 502 School Board will hold a study session on October 17, 2023, at 5:00 p.m. to discuss Mental and Behavioral Health.  The meeting will be held at 5780 Hendrickson Road in Ferndale, WA. The agenda includes a consent calendar item for approving overnight travel for students from Eagleridge Elementary to attend Camp Killoqua. The primary focus of the meeting is a discussion on Mental and Behavioral Health led by Dr. Erickson and Dr. Dominguez, with a guest panel available for questions and answers.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-05-agenda.txt)
-
 ## 2024-11-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail routine actions taken by the school board, including authorizations for personnel matters and leave requests. Notably, during a discussion period, board members expressed concern about declining student performance in recent years, suggesting that the education system has not adequately adapted to post-pandemic challenges.  The board also briefly discussed the length of their agendas and the need to prioritize certain items for effective decision-making regarding student well-being. A review of a monitoring report (R-2.4) related to academic achievement and technology was included on the consent agenda, which was approved unanimously.

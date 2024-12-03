@@ -114,12 +114,6 @@ The Superintendent's report highlighted professional development and planning pr
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-06-minutes.txt)
 
-## 2023-09-06 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The agenda outlines a regular meeting of the school board on September 6, 2023. Key items include a first review of the Bradley University Preceptor Agreement, which will be brought back for approval on September 20th.  The board is also asked to review and approve a Professional Services Agreement for expedited consideration. The Superintendent will deliver a report on district activities. The agenda concludes with opportunities for information sharing from student board representatives and board members, followed by the adjournment of the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-06-agenda.txt)
-
 ## 2023-07-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on July 26th, 2023.  The meeting covered a range of topics including presentations on the 2023-24 Technology Plan of Work and levy/bond initiatives from D.A. Davidson & Co. Several policies and procedures were reviewed and approved, including: Agreement for Legal Services, NWESD 2023-24 Special Education Cooperative Agreement, Policy 1400 - Meeting Conduct, Order of Business, and Quorum - Time. Proposed changes to student meal pricing and a revised meeting time for the August 23rd meeting were also discussed and will be brought back for approval in the consent agenda at the August 9th special session. The Superintendent's report included updates on legislative conversations, facilities planning, and upcoming training opportunities.
@@ -153,24 +147,6 @@ Presentations focused on bus safety and the Highly Capable Learning program. The
 The district also faces teacher and staff shortages, which was mentioned during the meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
-
-## 2022-10-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District held a special meeting on October 13, 2022, at 5:00 PM.  The meeting's primary focus was a training session titled "PLC at Work Training" conducted by WASA (Washington Association of School Administrators). This training, expected to last one and a half hours, aimed to enhance the school board's understanding and implementation of Professional Learning Communities (PLCs) – collaborative teams of educators working together to improve student learning.  The agenda also included procedural items like calling the meeting to order and adopting the agenda. The meeting concluded with an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-13-agenda.txt)
-
-## 2021-09-29 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District held a special meeting on Wednesday, September 29, 2021, via Zoom. The meeting agenda included a call to order, adoption of the agenda, and a consent agenda item focusing on approving accounts payable.  Following these procedural items, the school board participated in "PLC at Work" training facilitated by WASA (Washington Association of School Administrators). This training likely focused on professional learning communities and collaborative practices within schools. The meeting concluded with an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-09-29-agenda.txt)
-
-## 2021-04-14 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District Board held a special meeting on April 14, 2021.  The agenda included standard procedural items like calling the meeting to order and welcoming attendees.  Board members reviewed and discussed the proposed 2021-22 school calendar. They also considered Resolution 01-21: Small Works Roster Authorization, which outlines a process for contracting small-scale construction projects without formal bidding. The board received a financial update from Daniel Yorton, Director of Business and Finance, who presented reports on the budget status and enrollment projections. Superintendent Dr. James Everett delivered his report, including information related to COVID-19 mitigation strategies based on guidance from the local health officer.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-04-14-agenda.txt)
 
 ## 2020-07-29 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

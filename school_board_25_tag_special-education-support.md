@@ -6,12 +6,6 @@ The Kent School District No. 415 Board Meeting held on June 12, 2024, included s
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-12-board-minutes.txt)
 
-## 2024-04-24 - KENT_SCHOOL_DISTRICT (Minutes)
-
-The Kent School District No. 415 Board of Directors held a meeting on April 24, 2024, where they recognized several proclamations, including National Student Leadership Week, Administrative Professionals Week, and School Lunch Hero Day. Superintendent Vela provided a report during the meeting, and various consent agenda items were approved, including construction contracts for projects at multiple high schools and the acceptance of gifts and donations. Notably, the board also approved Consent Agenda Item 6.02, which pertains to construction administration services for the Network Data Cabling Improvement Project (Phase 1), signaling ongoing infrastructure improvements within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-04-24-board-minutes.txt)
-
 ## 2024-02-14 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on February 14, 2024, where key topics included school safety, special education support, and the approval of various resolutions and policies. Notably, the board discussed Resolution No. 1665, which pertains to the Capital Projects and Technology Replacement Levy, and held a public hearing where community members expressed concerns regarding student safety while walking to and from school, staffing issues, and conditions in school buildings. The board also addressed the reimbursement of personal legal fees incurred by Director Cook, which was ultimately voted down after a roll call vote. Additionally, the meeting included proclamations for National School Counseling Week, National Black History Month, and Career and Technical Education Month, highlighting a focus on community engagement and recognition of various educational initiatives.

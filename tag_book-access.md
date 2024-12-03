@@ -1,22 +1,10 @@
 # Meeting Summaries for Tag: book-access
 
-## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+## 2024-06-11 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board is considering approving new supplemental and core curriculum materials for high school English Language Arts (ELA) and Physics courses. 
+The Bainbridge Island School District No. 303 held a regular school board meeting on June 11, 2024, where several key actions were taken regarding educational policies and curriculum materials. The board approved Resolution 07-23-24, which delegates authority to the Washington Interscholastic Activities Association (WIAA). Additionally, the board endorsed recommendations from the Instructional Materials Committee (IMC) to adopt the educational resources "Amplify" and "The Book Thief," reflecting a focus on curriculum transparency and book access for students. Furthermore, the board reviewed Policy 2163, which pertains to Multi-Tiered Systems of Support/Response to Intervention, and approved it in its second reading, indicating a commitment to enhancing support structures for students. The meeting concluded with the cancellation of the June 27 board meeting due to a lack of quorum and set the next regular meeting for July 25.
 
-The proposed ELA novels aim to enhance the existing curriculum by introducing diverse perspectives and underrepresented voices through various titles selected by the ELA Novel Study Committee. A new edition of a previously approved textbook, Chemistry Course Companion, is also being considered. The Board is also reviewing Peer Physics, a POGIL (Process Oriented Guided Inquiry Learning) curriculum for 
-Fiscal Year 2024
-
-summary: This agenda item requests approval from the Northshore School District Board to accept the April 2024
-
-
-The board will be reviewing a report detailing the allocation of funds within the Capital Projects Fund for the month of April. The report provides information on projects funded and their progress during the month of April 
-support the Capital Projects update.
-
-File Attachments\n2024-04 fund category, project phase 
-Projects Fund.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-06-10-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-06-11-draft-minutes.txt)
 
 ## 2024-02-26 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
@@ -30,11 +18,17 @@ The Battle Ground Public Schools Board of Directors held a regular meeting on Fe
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-12-minutes.txt)
 
-## 2023-01-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+## 2024-01-25 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board Meeting agenda focuses on several key areas.  The meeting will highlight "good news" stories including the Lynden Rotary Club's donation of $750 worth of books to school libraries and a presentation on cyber security for 3rd and 4th graders by agents from the Department of Homeland Security. The board will also review consent agenda items such as AP/Payroll reports and personnel recommendations. Additionally, committee assignments will be discussed, covering areas like Capital Facilities, Superintendent Evaluation, Communications, Teaching & Learning, and Finance. A finance report for December 2022 will be presented.  The meeting includes a section for "Information from the audience" outlining procedures for public comment on agenda and non-agenda items. Finally, the board will adjourn to a work session focused on Capital Facilities Planning.
+The Hood Canal School District Board of Education held a regular meeting on January 25, 2024, where they discussed various topics including community engagement and partnerships. Notably, Ms. Robbins recognized Melanie Lankford for establishing a collaboration with Timberland Regional Library, allowing Hood Canal students to check out and return books through the school, thereby enhancing book access for students. The board also reviewed their strategic plan process and ongoing work with Mary Fertakis, indicating a commitment to long-term strategic planning. Additionally, the board approved an overnight field trip to NatureBridge, reflecting their engagement in experiential learning opportunities for students.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-01-26-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-01-25-draftmtg-minutes.txt)
+
+## 2024-01-25 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
+
+The Hood Canal School District Board of Education held a regular meeting on January 25, 2024, where several key topics were discussed. The board engaged in community engagement by recognizing Melanie Lankford for her efforts in establishing a partnership with Timberland Regional Library, enabling Hood Canal students to check out and return books through the school, thereby enhancing book access for students. Additionally, the board reviewed the strategic plan process, indicating a focus on long-term strategic plans for the district's future. The meeting also included motions to approve personnel addendums and an overnight field trip to NatureBridge, demonstrating adherence to school board ethics in decision-making.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-01-25-minutes.txt)
 
 ## 2022-07-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

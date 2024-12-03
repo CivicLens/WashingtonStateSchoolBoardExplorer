@@ -1,11 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2015
 
-## 2015-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board held a meeting focused on strengthening the connection between schools and healthcare practitioners.  The discussion centered around addressing challenges students face related to mental health, self-esteem, autism, and ADHD, and how these issues impact learning. Participants explored potential solutions like on-site clinics and highlighted the importance of community support for families in distress. The district aims to improve communication with medical providers and explore ways to better integrate healthcare services into the educational environment.  The meeting also touched upon The Bellingham Promise, a program designed to provide comprehensive support for students beyond academics, emphasizing the need for individualized interventions and a loving environment for every child.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-12-09-minutes.txt)
-
 ## 2015-11-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board minutes detail the approval of two resolutions: Resolution 29-15 Replacement Educational Support and Operations Levy and Resolution 30-15 Replacement Technology Capital Projects Levy.  These resolutions pertain to funding for educational support and operations, as well as technology capital projects. The board also discussed and approved Committee Appointment Forms for committees supporting these levies. Notably, the minutes mention that if citizens notify the district by December 1st of their intent to form a committee against the levies, appointment forms for those opposing committees will be included in the December 10th meeting agenda.  The minutes also include reports from school board directors on their recent activities, which included attending school events and meetings related to teacher shortages and future planning for Sehome High School. Several board members are scheduled to attend the Washington State School Directors’ Association Annual Conference.
@@ -66,16 +60,6 @@ The board also engaged in a policy governance review of EL-2, Organizational Con
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-07-16-minutes.txt)
 
-## 2015-07-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board scheduled a special meeting and public hearing on July 16, 2015, to discuss amending Resolution 14-13. This resolution, originally adopted on June 27, 2013, outlined eligible capital improvements funded by the 2013 bond issue. The proposed amendment aims to add the acquisition or construction of a new warehouse and portable classrooms to the list of eligible projects.
-
-The need for a new warehouse arose because SCAP funds, initially anticipated for its construction, would not be available in time before demolition of the existing warehouse to make way for the new Options High School in June 2016. The amendment would allow bond proceeds to fund the immediate acquisition or construction of a new warehouse.
-
-Additionally, the amendment seeks to include portable classrooms on the list of eligible projects. This anticipates future state funding for lower class sizes and aims to enable the district to acquire additional portables for expanded classroom space.  The public hearing is mandated by RCW 28A.530.020 before amending the list of eligible projects associated with a bond issue. Following the hearing, a regular board meeting will be held to vote on the proposed amendment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-07-16-agenda.txt)
-
 ## 2015-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes detail discussions on the preliminary budget for the 2015-16 school year, which will be finalized after the state legislature approves its budget.  The board also reviewed the performance of a public employee and engaged in professional negotiations during an executive session. Notably, the board discussed a "final Monitoring Response Document" related to unspecified policy changes. The minutes also mention community engagement efforts through liaisons with county and city councils.   Finally, the meeting included reports from individual board members on various topics, including school safety.
@@ -118,12 +102,6 @@ The Bellingham Public Schools Board of Directors held a special meeting on April
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-04-02-minutes.txt)
 
-## 2015-04-02 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board scheduled a special meeting on April 2, 2015, to provide an orientation for individuals interested in running for the school board.  The meeting will take place at 6:30 p.m. in Room 205 of the District Office. Potential candidates will receive important information about running for the school board and the filing deadline with the Whatcom County Auditor's Office is May 11-15. The agenda includes opening items such as a roll call, an orientation session for potential candidates, and closing items like adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-04-02-agenda.txt)
-
 ## 2015-03-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham Public Schools Board of Directors held a special meeting on March 27, 2015 to review and improve governance policies with the assistance of Dr. Monte Bridges, an Educational Leadership Consultant. The workshop focused on discussing what aspects of existing governance systems were working well, identifying challenges, and generating recommendations for improvement.  The specific content of the reviewed policies and proposed changes is not detailed in the provided text.
@@ -157,12 +135,6 @@ The Bellingham School Board meeting minutes highlight discussions on several key
 The board also discussed the possibility of expanding the curriculum to be more inclusive of Native American studies.  This initiative aligns with the district's commitment to diversity and inclusion outlined in "The Bellingham Promise." Next steps involve Dr. Gass and Ms. Hackler forwarding relevant materials to Dr. Baker for further consideration. Finally, the meeting concluded with an Executive Session to discuss the performance of a public employee.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-01-22-minutes.txt)
-
-## 2015-01-22 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board scheduled a Community Linkage Meeting on January 22, 2015, to engage with faith-based community groups.  The meeting would be held at the District Office and immediately followed by an Executive Session to review the performance of a public employee. This linkage meeting is specifically aimed at fostering connections with faith-based organizations. The agenda notes that this is not a regular meeting and will not include time for public comment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-01-22-agenda.txt)
 
 ## 2015-01-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

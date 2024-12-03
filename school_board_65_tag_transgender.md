@@ -1,11 +1,5 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: transgender
 
-## 2024-09-19 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board meeting agenda includes several policy readings related to LGBTQ+ and transgender student inclusion.  The second reading of Policy 3211 and 3211P, "Gender Inclusive Schools," aims to create a supportive environment for transgender students. Additionally, the first reading of Policy 2401 addresses "Financial Education Mastery-Based Learning & Credit," while the second readings cover Policies 2125 on "Sexual Health Education," 3432 on "Emergencies," 4130 on "Title I, Parental Involvement," 5314 on "Tax Deferred Annuity/Compensation," and 6220 on "Bid or Request for Proposal Requirements." The agenda also includes a report from the Superintendent on the "Be The One Mentoring Program" and time allotted for "Information from Board Directors and Student Representatives."  The board will also vote on approval of a dairy bid for the 2024-2025 school year.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-agenda.txt)
-
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes detail discussions and actions related to transgender student athletes. The board approved a letter to the WIAA (Washington Interscholastic Activities Association) advocating for policy changes regarding transgender athlete participation.  Additionally, the board debated and ultimately approved a letter to legislators concerning the inclusion of transgender athletes assigned male at birth in sports. This letter saw revisions with the removal of a bullet point titled "Education and Awareness." The minutes also highlight Director Brar's request for further discussion on Initiative 2081, though its specific content related to LGBTQ+ issues is not mentioned.
@@ -33,12 +27,6 @@ Board V...[truncated, use api for full text] |
 | [Danny Martinez](board_member_330.md) | Voted no on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
 Directors Brar. Motion carried b...[truncated, use api for full text] |
 | [Danny Martinez](board_member_330.md) | Voted no on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators ...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
-
-## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on several items related to transgender student participation in athletics.  The board will discuss and potentially take action on a "Letter to Legislators - Transgender Athlete Participation" and a "Letter to WIAA - Transgender Participation Policy." These letters address the district's stance on transgender athlete inclusion within the context of existing policies from the Washington Interscholastic Activities Association (WIAA).  The meeting also includes standard agenda items like reports from the superintendent, teaching and learning department, and finance and operations. Several policy first readings are scheduled, including Policy 3211/P- Gender Inclusive Schools. The specific content and potential revisions within these policies are not detailed in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-agenda.txt)
 
 ## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

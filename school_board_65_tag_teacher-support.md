@@ -1,28 +1,10 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: teacher-support
 
-## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines a range of topics focusing on academic and operational matters.  The board will discuss and potentially vote on the adoption of the 2024-2025 budget (Resolution #10-24). They will also consider approval for 2024-2025 Interscholastic Activities and the Highly Capable Program. An interlocal agreement with the Meridian School District regarding transportation services is also on the agenda for potential approval. The meeting includes time for public comment, information from the audience, and reports from the Superintendent, Teaching & Learning department, and Finance & Operations. A board workshop focusing on "Gender Inclusive Schools" will take place after regular agenda items are addressed.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
-
 ## 2023-09-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail several actions taken by the board.  They approved a $157,500,000 General Obligation Bond (Resolution #10-23) to be placed on the February 13, 2024 ballot. This bond aims to fund unspecified projects. The board also approved the 23/24 Transitional Bilingual Instructional Program grant and two Interlocal Agreements: one with Whatcom County for Behavioral Health services and another with Meridian School District for transportation services. Additionally, they ratified a union contract with the Lynden Education Association (LEA).  Tonya Hickman provided feedback on her experience at the WSSDA General Assembly and discussed forming a committee for next year's event.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-09-28-minutes.txt)
-
-## 2023-06-22 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on routine matters like approving payroll and personnel recommendations.  Notable items include celebrating the 2023 graduates and recognizing retiring staff members. The Transportation Department received recognition from OSPI for exceptional school bus safety inspections. Reports from the Superintendent, Teaching and Learning, and Finance and Operations are scheduled. A second reading of policy 3245 regarding Students and Telecommunication Devices is planned.  The board will also discuss action items related to the Comprehensive School Counseling Plan. Finally, a workshop on Superintendent Evaluation Process & Timeline, Capital Facilities Planning Update, and the School Board Director Handbook is scheduled.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-22-agenda.txt)
-
-## 2023-02-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda outlines standard operational topics.  The "Good News" section highlights teacher and staff achievements, including professional development focused on "Every Student. Every Day," a theme emphasizing student learning through Social Emotional Learning Standards. A Freshman Blitz program aimed at supporting 9th graders' successful completion of their first semester is also celebrated. The agenda includes standard items like meeting minutes, consent agenda approvals (AP Payroll and Personnel Recommendations), reports from the Superintendent, Teaching and Learning, and Finance and Operations departments.  "Information from the Audience" establishes procedures for public comment during the meeting.  The board will hold a workshop on "Facilities Planning," and an action item concerns Interlocal Agreements for specialized teachers for visually impaired and deaf/hard-of-hearing students. A first reading of Policy 1250, "Students on Governing Boards," is also scheduled.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-agenda.txt)
 
 ## 2022-04-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

@@ -1,17 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: teacher-staff-shortages
 
-## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District is hosting an informational meeting for individuals interested in running for the school board.  The meeting will take place on Thursday, March 16, 2023, at 5:00 p.m. at Options High School. Topics covered will include an overview of the district's policy governance model and election basics. The meeting aims to inform potential candidates about the roles and responsibilities of school board members and provide guidance on the election process.  The fall election filing opportunity with the Whatcom County Auditor's Office is scheduled for May 15-19.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
-
-## 2023-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The document outlines a series of personal services contracts proposed for approval by the Bellingham School District Board.  These contracts cover a range of support services including Title I literacy interventions, human resources assistance, payroll support for new hire benefits enrollment, and orientation and mobility services for students. The contracts specify service durations and are accompanied by individual PDF attachments detailing the terms of each agreement. Notably, the document highlights a potential teacher-staff shortage as evidenced by the need for temporary HR support "as needed during the 2023-24 school year."  The board is also addressing special education needs through contracts with Lisa Blas and Christina Tan to provide Title I Literacy Interventions at Assumption Catholic School and Bellingham Christian School (BCS) respectively.  Andrea Yake's contract focuses on providing Orientation and Mobility services for BSD students, indicating a commitment to supporting students with visual impairments.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-09-14-agenda.txt)
-
 ## 2022-06-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board reviewed a monitoring report on the superintendent's performance in relation to district policy EL-8, District Calendar.  The board found the superintendent to be in compliance with the policy and commended their efforts in adapting to the challenges of the pandemic, including shifting schedules, deploying instructional coaches, and addressing staff shortages due to illness. The board specifically highlighted the work of the Family Engagement team in supporting students and families during this time. No changes were made to the policy.

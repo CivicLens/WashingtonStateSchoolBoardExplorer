@@ -1,11 +1,5 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: school-discipline
 
-## 2024-10-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on several key topics.  The board will review and potentially approve second readings of Policy 2401 (Financial Education Mastery-Based Learning & Credit) and Policy 3241 (Student Discipline). These policies are undergoing revisions, with the specific changes not detailed in the provided text. The board will also discuss School Improvement Plans for Lynden Academy and Lynden High School, highlighting a commitment to academic standards.  Community engagement is emphasized through an "Information from the Audience" segment, allowing community members to address the board on agenda and non-agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-agenda.txt)
-
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions on various topics including student behavior and mental health.  The board noted that 91% of behavioral referrals involved three or fewer instances, indicating the effectiveness of early intervention strategies. Additionally, they approved an interlocal agreement with Whatcom County for Behavioral Health Services Support for the 2024-2025 academic year. The board also reviewed and approved a revised Policy 6905 regarding Site Acquisition.  The minutes further document the election of Director Brar as the WIAA representative and the approval of interlocal agreements with Whatcom Discovery. Finally, Resolution #07-24 concerning Surplus Personal Property was passed.

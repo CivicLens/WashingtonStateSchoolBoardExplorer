@@ -1,28 +1,10 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: student-autonomy
 
-## 2024-11-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Edmonds School District Board of Directors held a special meeting on November 20, 2021, at the Hyatt Regency Bellevue to discuss results from their recent self-assessment survey conducted by the Washington State School Directors Association (WSSDA).  This was not a regular school board meeting and did not include public comment. The purpose of the meeting was to review the findings of the WSSDA self-assessment survey and identify areas for improvement in board governance and practices. No specific policy changes were mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-12-agenda.txt)
-
-## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District is hosting an informational meeting for individuals interested in running for the school board.  The meeting will take place on Thursday, March 16, 2023, at 5:00 p.m. at Options High School. Topics covered will include an overview of the district's policy governance model and election basics. The meeting aims to inform potential candidates about the roles and responsibilities of school board members and provide guidance on the election process.  The fall election filing opportunity with the Whatcom County Auditor's Office is scheduled for May 15-19.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
-
 ## 2024-10-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Northgate School District held a school board meeting to discuss the district's cell phone policy. Student representatives from different grade levels shared their perspectives on the current policy, highlighting both its positive and negative aspects. Students expressed a desire for more flexibility in phone use, particularly around class start and end times, and suggested that the policy could be applied with more individualized consideration. They also noted instances of students circumventing the rules and advocated for a more respectful approach to enforcement. The meeting aimed to gather student input on the cell phone policy as part of a broader effort to improve school practices based on student voice.  The meeting concluded with expressions of gratitude from the board president and secretary for the students' participation.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
-
-## 2024-10-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board is holding a special meeting on October 23rd, 2024, from 1:50 to 2:50 p.m. at Bellingham High School. This meeting will be a student roundtable focused on discussing cell phone use in schools.  The board aims to gather student perspectives and insights on this topic. Notably, this is not a regular school board meeting and will not include public comment time. The agenda includes opening items such as confirming the meeting date and location and taking roll call. The primary item on the agenda is the "Student Roundtable" discussion, which will focus on cell phone use in schools. Finally, the meeting concludes with an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-agenda.txt)
 
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -58,18 +40,6 @@ Key themes that emerged included the need for safe spaces like GSA, concerns abo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
-## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Whatcom Middle School will host a School Board Special Meeting/Student Roundtable on February 27th, 2024 from 2:00 to 3:00 pm.  The purpose of the meeting is for the school board to learn more about the GSA Club, indicating a focus on LGBTQ+ student inclusion and diversity within the school. This meeting will not include public comment time.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-agenda.txt)
-
-## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The February 22nd, 2024 school board meeting agenda includes a discussion and potential action regarding Policy EL-9.1, Facility Improvement or Development Involving Bond Measure Proposal.  The superintendent recommends approving a suggested revision to paragraph 1 of the policy. A "markup" of the current policy with the suggested change is included as an attachment, along with a clean copy of the revised policy. The board will also review the Ends Monitoring Report 2.1, Part 1 - Student Competence, which focuses on student learning outcomes and progress.  Finally, the board will review the updated GP-7.2, 2023-24 annual board agenda, with changes from the previous version highlighted for informational purposes only.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-22-agenda.txt)
-
 ## 2023-10-31 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Geneva Elementary School on October 31, 2023.  The visit included a presentation by the school's principal, Laura Britt, and tours led by student leaders who highlighted their leadership roles within the school and focused on Promise K and kindergarten classrooms. The meeting concluded at 8:30 a.m.
@@ -81,12 +51,6 @@ The Bellingham School District Board of Directors visited Geneva Elementary Scho
 This excerpt from a school board meeting focuses on student perspectives and experiences.  A former student shares positive memories of the Teacher Academy program, highlighting its collaborative nature and impact on personal growth. The student also discusses challenges faced due to allergies and the benefits of remote learning during the COVID pandemic. The meeting emphasizes student voice and its importance in shaping educational policies. Additionally, a current student pursuing Automotive Collision Repair Technology expresses appreciation for the Teacher Academy's influence on their life skills and patience development.  The school board members express gratitude for the students' insights and acknowledge the value of ongoing feedback.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-24-minutes.txt)
-
-## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board will hold a special meeting on October 24th, 2023, from 2:15 to 3:15 PM at Bellingham High School. This meeting is designated as a Student Roundtable, where the board aims to learn more about the Teacher Academy program.  The event is structured as a discussion forum and will not include public comment time. The focus of this roundtable appears to be on gathering student perspectives and feedback regarding the Teacher Academy.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-24-agenda.txt)
 
 ## 2022-07-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -100,12 +64,6 @@ The Bellingham School District Board of Directors visited Silver Beach Elementar
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-06-07-minutes.txt)
 
-## 2022-03-30 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board will hold a special meeting on March 30, 2022, from 1:15 to 2:15 p.m. at Alderwood Elementary School.  The meeting is designed as a student roundtable focusing on elementary school students and will allow for discussion between board members and students. The agenda includes standard opening items such as roll call and closing items like adjournment.  The primary focus of the meeting is listed as "Student Roundtable" under the "Community/Board Linkage" section, suggesting an effort to increase student voice and engagement in decision-making processes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-30-agenda.txt)
-
 ## 2022-03-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a Student Roundtable meeting on March 30, 2022, to gather input from third-grade students at Alderwood Elementary School.  The meeting aimed to strengthen the connection between the school board and students, allowing them to share their experiences and perspectives. Students discussed topics such as favorite subjects, feelings of being loved at school, aspirations for the future, and suggestions for improvement.
@@ -113,12 +71,6 @@ The Bellingham School District Board of Directors held a Student Roundtable meet
 Discussions centered around student well-being, highlighting subjects like recess and preferred learning styles. The new Alderwood Elementary School building was praised by students. Concerns regarding playground safety compared to the previous location were raised.  The meeting provided a platform for students to voice their opinions on school life and contribute to the district's long-term strategic planning efforts embodied in "The Bellingham Promise."
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-20-minutes.txt)
-
-## 2021-11-17 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board's scheduled "School Board Special Meeting/Student Roundtable" for November 17, 2021, focusing on high school students, was cancelled.  The meeting agenda included items such as roll call and a discussion period designated for the student roundtable. The cancellation notice does not provide a reason for the change.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-11-17-agenda.txt)
 
 ## 2021-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -133,12 +85,6 @@ This school board meeting summary focuses on the challenges and successes faced 
 There is no mention of specific policies or policy changes related to curriculum, student discipline, diversity, or other social issues.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-05-13-minutes.txt)
-
-## 2020-03-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda outlines discussions regarding the monitoring of superintendent compliance with existing policies. Specifically, they will address "EL-4 Staff Treatment, Compensation and Evaluation" and "Ends 2.1 (part 2) Student Competence."  The board will determine if revisions to these policies are necessary. Additionally, the board will review an updated annual agenda for informational purposes only. There is no mention of specific changes to policy language or reasoning behind any potential revisions.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-25-agenda.txt)
 
 ## 2020-03-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -200,12 +146,6 @@ The Bellingham School Board meeting minutes detail discussions on various topics
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-03-13-minutes.txt)
 
-## 2019-01-21 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board held a special meeting on January 21, 2019, at Sehome High School.  The agenda included informational items and discussions regarding the Superintendent's mid-year report and evaluation, board assessment of reports, policy governance discussion, student voice, and a tour of the facility. The meeting did not include public comment time.  The meeting was focused on internal school board processes and procedures rather than specific policy changes or curriculum debates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-01-21-agenda.txt)
-
 ## 2018-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Northern Heights Elementary School on November 6, 2018.  The meeting focused on innovative programs at the school, including an approach to teaching students with autism and a new jobs program designed to empower student leadership. The school also showcased Seesaw, a new communication tool for teachers and parents.
@@ -225,12 +165,6 @@ The school board meeting focused on several key topics.  Community engagement wa
 The discussion also touched upon academic standards and curriculum transparency, aiming to ensure that students are well-prepared for their future endeavors.  Parental feedback was emphasized as crucial for shaping educational policies and practices. The board highlighted the importance of long-term strategic plans to guide the school district's development and address evolving needs. Additionally, concerns regarding student autonomy and mental health were raised, prompting a conversation about creating supportive environments that empower students and prioritize their well-being.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-03-20-minutes.txt)
-
-## 2017-02-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This document outlines consent and informational items for a February 15, 2017 school board meeting. Item 2.13 addresses EL-4, Staff Treatment, Compensation and Evaluation,  a policy monitored through reports submitted to the board. The meeting also includes informational items such as School Board Directors' Reports and Discussion of School Board Visits and Linkages.  Finally, closing items include a Board Assessment of Meeting and Adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-02-15-agenda.txt)
 
 ## 2016-03-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -279,10 +213,4 @@ The discussion centered around preparing students for diverse career paths, reco
 The Bellingham School Board meeting minutes detail various agenda items including student trips, personal service contracts, and personnel recommendations. Notably, the board discussed Policy Governance EL-1 (Expectations of Superintendent) and EL-18 (Mandatory Policies). Dr. Gass expressed a preference for specific data over assurances in relation to EL-1. Regarding EL-18, he requested identification of administrators responsible for each series of administrative policies and procedures. The meeting also included reports from board directors regarding budget preparedness and new program implementation.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-07-07-minutes.txt)
-
-## 2002-01-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board scheduled a special meeting on March 4, 2020, specifically for a student roundtable discussion.  The focus of the roundtable was elementary school students and took place from 1:15 to 2:15 p.m. at Carl Cozier Elementary School. This event aimed to facilitate direct engagement between the School Board and elementary school students, fostering an environment for open dialogue and feedback.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2002/2002-01-15-agenda.txt)
 

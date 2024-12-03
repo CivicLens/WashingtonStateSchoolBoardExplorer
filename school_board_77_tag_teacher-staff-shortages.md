@@ -1,8 +1,8 @@
-# Meeting Summaries for KALAMA_SCHOOL_DISTRICT with Tag: teacher-staff-shortages
+# Meeting Summaries for WAHLUKE_SCHOOL_DISTRICT with Tag: teacher-staff-shortages
 
-## 2024-10-17 - KALAMA_SCHOOL_DISTRICT (Minutes)
+## 2024-07-23 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
 
-The Kalama School District No. 402 held a board workshop on October 17, 2024, where several key topics were discussed, including school finance and strategic planning. Director Eader presided over the meeting, which began with a roll call confirming a quorum. Dr. Benjamin presented an article on school district funding, emphasizing the financial challenges faced by the district. The board also discussed conducting a third-party management review by the Washington Association of School Administrators (WASA) to address potential teacher and staff shortages. Other topics included the possibility of adding boys soccer to the athletic program and the review of applications for student positions on the governing board, indicating a commitment to long-term strategic planning and community engagement. The meeting concluded with a discussion on the involvement of past board members in diploma presentations, reflecting on school-board ethics and traditions.
+The Wahluke School District held a Special Board Meeting on July 23, 2024, where key discussions included the proposed 2024-2025 budget presented by Director of Finance Gabby Chacon, emphasizing a conservative approach based on current enrollment projections of 2,273 Full-Time Equivalents (FTE). Superintendent Andy Harlow addressed ongoing teacher and paraprofessional shortages, highlighting the need for planning in the current year and mentioning a forthcoming 10-year facilities plan to be presented in September. The Board approved several personnel changes, including new hires and resignations, and passed Resolution 04-2024 for the adoption of the 2024-2025 budget, indicating a commitment to long-term financial planning and community engagement in the district's educational strategies.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/2024-10-17-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-07-23-minutes.txt)
 

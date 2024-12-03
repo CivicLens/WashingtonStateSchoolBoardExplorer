@@ -1,34 +1,10 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: parental-feedback
 
-## 2024-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Sudden Valley Golf and Country Club will host a special work session of the school board on January 16, 2010, at 9:00 am.  The agenda includes an open session for discussion of future facility needs, budget updates, and reports on ongoing projects. Following the open session, the board will convene in executive session from 1 to 2 pm to discuss personnel issues. The meeting concludes with an adjournment.  Notably, the agenda does not mention any specific policy changes or proposals related to curriculum, student life, or diversity initiatives. It primarily focuses on logistical and administrative matters.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-09-agenda.txt)
-
-## 2024-11-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board will hold a special meeting on July 15, 2014, in Room 205 of the District Office to finalize plans and review materials for upcoming meetings related to filling a vacant school board position. The meeting is not a regular meeting and will not include public comment time.  The agenda includes opening items such as roll call and a review of materials for upcoming meetings regarding the selection process for a new board member. The meeting will conclude with an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-08-agenda.txt)
-
-## 2024-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Edmonds School District Board of Directors held a special meeting on November 19, 2021, at John Howie Steak in Bellevue, Washington.  The purpose of the meeting was to discuss school district initiatives, issues, and business in an unstructured manner. This was not a regular school board meeting and did not include public comment time. The meeting took place during the Washington State School Directors Association (WSSDA) Annual Conference.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-06-agenda.txt)
-
 ## 2024-10-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Northgate School District held a school board meeting to discuss the district's cell phone policy. Student representatives from different grade levels shared their perspectives on the current policy, highlighting both its positive and negative aspects. Students expressed a desire for more flexibility in phone use, particularly around class start and end times, and suggested that the policy could be applied with more individualized consideration. They also noted instances of students circumventing the rules and advocated for a more respectful approach to enforcement. The meeting aimed to gather student input on the cell phone policy as part of a broader effort to improve school practices based on student voice.  The meeting concluded with expressions of gratitude from the board president and secretary for the students' participation.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
-
-## 2024-06-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on June 20, 2018.  The meeting included updates from Superintendent Greg Baker regarding district accomplishments, budget development and projections for the upcoming year. Resolution 13-18 related to bond issuance and sale was approved along with Resolution 14-18 which requested a transfer of funds from the Capital Projects Fund to the General Fund. The board also discussed and approved several contracts including YMCA Before and After School Care (#1819-001) and the 2018-19 Northwest Career & Technical Academy Agreement (#1819-003).  Directors shared reflections on recent high school graduation ceremonies and reviewed GP-7.2, the annual board agenda. The meeting adjourned at 7:06 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-20-minutes.txt)
 
 ## 2024-05-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -68,12 +44,6 @@ Parents shared personal anecdotes about their experiences with the district, emp
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-05-12-minutes.txt)
 
-## 2021-10-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board meeting agenda includes items related to approving personal services contracts for additional instruction and Title I support.  The board will also review the updated annual board agenda (GP-7.2) with highlighted changes. The consent agenda includes approval of personal service contracts for Mark Kelly, providing additional instruction for 6th-grade beginning band students, and Christina Tan, offering Title I support at Bellingham Christian School. The meeting agenda emphasizes transparency by making documentation available to the public in advance and allowing for individual items on the consent agenda to be moved to the regular agenda.  The board will also assess the meeting itself.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-10-13-agenda.txt)
-
 ## 2021-08-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail discussions on various agenda items, including policy reviews and informational updates.  The board reviewed policies GP-7 (Agenda Planning), GP-7.1 (Board Self-Assessment), and GP-7.2 (Annual Board Agenda) with no changes made to GP-7 or GP-7.1. GP-7.2 was unanimously approved.  
@@ -81,38 +51,6 @@ The school board meeting minutes detail discussions on various agenda items, inc
 The meeting also included informational reports from board members, highlighting the review of parent and community feedback, appreciation for staff work on the budget, and anticipation for the return to in-person meetings. Discussions centered around logistical planning for a safe return to in-person meetings considering the evolving COVID-19 landscape.  The board assessed the meeting as commendable and adjourned at 6:41 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-08-11-minutes.txt)
-
-## 2021-06-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda outlines two discussion items related to academic standards.  The first item concerns EL-6, Academic Standards and Provisions, with the board reviewing a monitoring report and determining superintendent compliance. The second item focuses on EL-8, District Calendar, following a similar process of review and compliance determination. Both discussions stem from individual feedback provided by board members after reviewing initial monitoring reports. 
-
-Additionally, the agenda includes informational items such as School Board Directors' Reports and a review of the updated GP-7.2, 2020-21 annual board agenda. The latter highlights changes made to the previous version for informational purposes only.  The agenda concludes with standard closing items including a Board Assessment of Meeting and Adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-06-09-agenda.txt)
-
-## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District will hold a special board meeting on May 26, 2021, at noon via Zoom to discuss and approve the Academic and Student Well-Being Recovery Plan. This plan, due to the Office of Superintendent of Public Instruction (OSPI) on June 1st, aims to address student needs and recovery from the impacts of COVID-19.  The plan will be available for public review and comment via email. The meeting agenda also includes consent items related to the approval of the Recovery Plan. The district emphasizes community engagement in the planning process, with opportunities for feedback and input.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-agenda.txt)
-
-## 2021-02-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors will hold a special meeting on February 26, 2021, via Zoom.  The meeting agenda includes discussions on various topics such as policy discussions, the monitoring report process, board meetings, WSSDA self-assessment, board engagement, the WSSDA legislative conference, and the superintendent's mid-year report/evaluation. The meeting will not include public comment time.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-26-agenda.txt)
-
-## 2020-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board met to discuss monitoring reports for two policies: EL-1 (Expectations of Superintendent) and EL-5 (Communication and Counsel to the Board).  The board reviewed feedback on these policies and will submit a final summary version for approval at their next meeting. For policy EL-5, Ms. Rose and Mr. Benjamin were tasked with researching potential edits based on the feedback received. The meeting also included informational reports from school board directors highlighting student activities and reflections on their experiences serving on the board.  The board assessed the meeting as commendable.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-12-09-minutes.txt)
-
-## 2020-10-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This school board agenda includes standard items for a regular meeting.  A consent agenda lists personnel recommendations which have been reviewed and approved by the superintendent. The board will also review informational items including reports from School Board Directors and an updated annual board agenda (GP-7.2, 2020-21).  The agenda indicates that documentation for all consent agenda items was provided to board members and the public in advance. Finally, the meeting concludes with a board assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-10-14-agenda.txt)
 
 ## 2020-07-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -133,12 +71,6 @@ There is no mention of specific policies or policy changes related to curriculum
 The school board meeting minutes detail discussions regarding the district's response to the COVID-19 pandemic. Board members expressed appreciation for Dr. Baker's updates and communication regarding the challenges and adaptations implemented during this time.  Ms. Diaz Hackler inquired about the potential impact of the pandemic on the construction of Parkview Elementary and the future learning environment. Several board members highlighted positive aspects of remote learning, such as increased visibility into classroom activities and a reduction in student loneliness due to video interactions. Mr. Benjamin plans to solicit feedback from board members regarding Dr. Baker's work related to COVID-19.  The meeting also touched upon the importance of mental health and self-care during this stressful period.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-04-22-minutes.txt)
-
-## 2020-04-22 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The text details the agenda and minutes of a school board meeting.  The board reviewed monitoring reports on "Treatment, Compensation and Evaluation" (EL-4) and "Student Competence" (Ends 2.1, Part 2). These reports are part of a Policy Governance framework. The board will determine if the superintendent is in compliance with these policies. Additionally, the agenda included informational items such as School Board Directors' Reports and a revised annual board agenda (GP-7.2).  The meeting concluded with a board assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-04-22-agenda.txt)
 
 ## 2020-03-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -190,18 +122,6 @@ The Bellingham School District held a community linkage meeting to gather input 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-10-30-minutes.txt)
 
-## 2018-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This school board agenda covers a regular meeting and study session on September 12, 2018.  The agenda includes consent items such as approval of personal services contracts submitted by the Assistant Superintendent of Human Resources. The board will also engage in a study session focused on Early Childhood education. Informational items include reports from School Board Directors and a review of the updated annual board agenda (GP-7.2). The meeting concludes with a board assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-09-12-agenda.txt)
-
-## 2018-06-20 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This document details the agenda and consent items for a Bellingham High School board meeting on June 20, 2018.  The consent agenda includes approval of personal service contracts, including one for DJ services at the prom. The meeting also featured informational items regarding school board director reports and a review of GP-7.2, which is likely an annual board agenda policy. The board planned to discuss new business as needed. An executive session was scheduled to review the performance of a public employee.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-06-20-agenda.txt)
-
 ## 2018-04-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details feedback from a Bellingham Public Schools community meeting focused on the International Baccalaureate (IB) program. Participants, including students, parents, and staff, discussed the strengths and weaknesses of the IB program.  Positive aspects highlighted include the emphasis on student leadership, collaboration, passion-driven learning, and risk-taking by teachers. Suggestions for improvement centered around extending the program to middle school, offering more challenging world language options, and increasing curriculum transparency. Parents also expressed a desire for greater understanding of what the IB program entails.
@@ -216,35 +136,17 @@ The discussion also touched upon academic standards and curriculum transparency,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-03-20-minutes.txt)
 
-## 2017-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The school board minutes detail a regular meeting on December 6, 2017. Two resolutions were unanimously approved: Resolution 32-17 and Resolution 33-17, relating to the sale of real estate parcel 380316504243.  The meeting also included informational items from school board directors regarding their attendance at the WSSDA Annual Conference. Ms. Diaz Hackler discussed a potential presentation on the district's 4x8 schedule and requested a discussion on Boards of Distinction be added to a future retreat agenda. Other updates included Ms. Peterson addressing parental questions about course selection under the new 4x8 schedule and Ms. Bashaw sharing insights from her visit with Squalicum High School GRADS students. The meeting concluded with an assessment by Ms. Diaz Hackler and an adjournment time of 6:47 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-06-minutes.txt)
-
 ## 2017-05-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham Public Schools Board discussed the superintendent's progress on Ends 2.1 (part 3) goals. While acknowledging "reasonable progress," the board expressed a desire for greater advancements. Dr. Smith proposed amendments to Items 4 and 5 of the policy, aiming to elevate student performance in comparison to high-performing districts. The revised Item 4 focuses on continuous advancement towards on-time graduation and extended graduation options, while the revised Item 5 emphasizes increasing post-secondary education and career preparation participation rates exceeding those in comparable districts. This motion passed with a 4-1 vote.  The board also agreed to conduct a self-assessment using WSSDA's Board Self-Assessment tool, comparing results to their 2013 assessment. Lastly, the board briefly discussed highlights from a recent visit to Sunnyland Elementary School.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-05-11-minutes.txt)
 
-## 2016-10-20 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This document outlines agenda items for a school board meeting on October 20, 2016.  The agenda includes consent items such as a monitoring report for EL-5, Communication and Counsel to the Board. The report is presented in accordance with Policy Governance principles.  Additionally, informational items include School Board Directors' Reports and a discussion regarding School Board Visits and Linkages. The meeting concludes with a Board Assessment and Adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-10-20-agenda.txt)
-
 ## 2016-10-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors met on October 5, 2016 to discuss various agenda items.  The meeting included a review of consent items such as approval of minutes from the previous meeting, expenditures and payroll, interlocal agreements with Skagit Valley College and the University of Washington, and personnel recommendations. During informational items, board members shared reports on their activities, including attendance at conferences and seminars related to school safety, student health, and mental health. They also discussed upcoming events like a visit to North Central High School's Institute of Science and Technology and sub-committee work on Governing Policies (GP) review. The board agreed to pause the GP review process until after a discussion on Board Advocacy.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-10-05-minutes.txt)
-
-## 2016-10-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This excerpt from a school board agenda outlines items for discussion and approval at an October 5th, 2016 meeting. The agenda includes consent items such as personal services contracts for individuals providing services to the Department of Teaching & Learning. These contracts specify the duration of service (September 2016 - June 2017) and the nature of work performed.  The agenda also lists informational items, including School Board Directors' Reports and a discussion on School Board Visits and Linkages. Finally, closing items include a Board Assessment of Meeting and Adjournment. The document highlights the use of Robert's Rules of Order for parliamentary procedure and emphasizes the availability of documentation to board members and the public for review prior to the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-10-05-agenda.txt)
 
 ## 2016-07-21 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

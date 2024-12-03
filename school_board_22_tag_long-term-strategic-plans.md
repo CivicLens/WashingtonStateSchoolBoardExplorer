@@ -26,15 +26,3 @@ The March 7, 2024 Regular Business Meeting of the Board of Directors included se
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-03-07-minutes.txt)
 
-## 2024-01-11 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-The minutes from the January 11, 2024, Regular Business Meeting of the Board of Directors included several key actions and updates relevant to policy changes and diversity initiatives. Notably, the board approved the 2024 Multilingual Learner Education Report, which aims to enhance educational strategies for multilingual students, reflecting an emphasis on diversity and inclusion within the curriculum. Additionally, the board approved the 2024 Legislative Priorities, which may influence future policy directions, although specific details were not elaborated in the minutes. The meeting also featured a student update and acknowledgments, highlighting the board's commitment to community engagement and the inclusion of student voices in decision-making processes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-11-minutes.txt)
-
-## 2023-12-14 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-The December 14, 2023, Regular Business Meeting of the Board of Directors included significant actions related to school policies and facilities. The board approved the Consent Agenda, which encompassed the approval of personnel changes, school improvement plans, and financial transactions. Notably, the board passed Resolution 2023-24 regarding renovations to the Food Classroom at Sammamish High School, indicating a commitment to enhancing educational facilities. The meeting also featured updates on the Middle School Consolidation Study and a review of draft 2024 Legislative Priorities, though no specific board business was conducted. The meeting concluded with a study session focused on the Strategic Plan, emphasizing the board's ongoing efforts to align its initiatives with long-term educational goals.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2023/2023-12-14-minutes.txt)
-

@@ -1,15 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2014
 
-## 2014-12-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The meeting minutes detail the proceedings of a school board meeting on December 11, 2014.  The board discussed and unanimously approved the annual agenda for the 2014-2015 school year (GP-7.1). They also reviewed and unanimously approved changes to several policies related to the Board/Superintendent Relationship. These policy revisions included chronological renumbering.
-
-Specifically, the following policies were affected: B/SR - 1 (no change in number), B/SR - 4 (new number: B/SR - 2), B/SR - 5 (new number: B/SR - 3), B/SR - 5.1 (new number: B/SR - 3.1), and B/SR - 5.1.1 (new number: B/SR - 3.1.1). The minutes also highlight the board's positive assessment of a new math curriculum at the lower elementary level, noting its vigorous implementation.
-
-Additionally, the board discussed plans for community engagement, including scheduling a meeting with City Council Liaison Roxanne Murphy in the new year.  The minutes further indicate that a template prepared by Dr. Smith will be distributed to board members for recording observations during school visits. This suggests an effort towards increased transparency and data-driven decision-making regarding curriculum and instruction.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-12-11-minutes.txt)
-
 ## 2014-11-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The meeting minutes detail the actions taken by a school board during a session on November 13, 2014.  The board reviewed and unanimously approved revisions to policies related to superintendent evaluation (nSummative Evaluation of the Superintendent) and agenda planning (Governance Process: GP-7, Agenda Planning). Discussion regarding policy EL-3 was tabled pending input from Dr. Gass. The board also addressed new business concerning the grievance process and Disciplinary Appeal Council, concluding that board representation on the council is unnecessary. Future revisions to policy 3200 are anticipated.
@@ -58,12 +48,6 @@ The Bellingham School Board met to discuss and review monitoring reports related
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-07-17-minutes.txt)
 
-## 2014-07-17 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This document outlines the agenda and topics discussed during a school board meeting on July 17, 2014. A key item was the review of Monitoring Report EL-5, "Communication and Counsel to the Board." The board assessed whether the Superintendent's interpretation of this executive limitation policy aligned with district practices.  The meeting also included committee reports covering various topics such as superintendent review, board manual enhancements, and board transparency initiatives. Finally, the agenda addressed the selection process for filling a vacant board position and preparations for candidate interviews scheduled for July 28th.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-07-17-agenda.txt)
-
 ## 2014-07-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a special meeting on July 15, 2014, to discuss plans and review materials for upcoming board meetings scheduled for July 17 and July 28. These meetings would focus on the selection and interview process for filling a vacant school board position.  The meeting was attended by Board President Steve Smith, Directors Ken Gass and Camille Hackler, Superintendent Greg Baker, Recorder Ruth Rasmussen, and Tanya Rowe, Executive Director of Communications and Community Relations. Board Vice President Kelly Bashaw was absent due to an out-of-town commitment. The meeting adjourned at 9:44 a.m.
@@ -82,35 +66,17 @@ The Bellingham School District Board of Directors held a special meeting on June
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-06-23-minutes.txt)
 
-## 2014-06-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board held a meeting on June 12, 2014, to discuss several matters.  A preliminary budget focused on student needs was presented and commended for its readability and transparency. The board accepted the resignation of Dr. Stockburger due to health reasons and outlined a process for filling the vacancy within the required 90-day timeframe. This process includes accepting applications, reviewing qualifications in executive session, selecting finalists, conducting interviews, and making an appointment.  The board also discussed work on the application for State Board of Distinction, aiming for a July 10th deadline for a draft. Additionally, they set a goal to have an initial draft of a revised Board Manual by August 1st.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-06-12-minutes.txt)
-
 ## 2014-05-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 Students expressed a desire for more classes that prepare them for life after high school, such as resume writing and job skills. They also advocated for increased funding for the special education department, citing a need for reliable computers. Several students highlighted the benefits of after-school learning centers and suggested extending library hours for greater flexibility. Concerns regarding student stress levels led to a proposal for dedicated senior class periods to facilitate work completion. The meeting concluded with Dr. Baker, Superintendent of Schools, acknowledging the value of student feedback and emphasizing the district's commitment to updating technology and addressing scheduling concerns related to adolescent sleep needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-05-28-minutes.txt)
 
-## 2014-05-28 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board held a Community Linkage Meeting on May 28, 2014, to focus on senior students. Following this meeting, the board considered three consent agenda items.  The first item was Policy 2020, which required board action. A memo of explanation and an amended administrative policy were submitted for review. The second item involved Personnel Recommendations, including a list of certified elections and a separate document outlining personnel recommendations. The third item concerned Personal Services Contracts for three individuals: Hilburn, McGrath, and Schlichting, each providing services in different capacities within the school district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-05-28-agenda.txt)
-
 ## 2014-05-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details the financial distribution of funds from the Associated Student Body (ASB) and Private Purpose Trust Fund.  It outlines the allocation amounts for various schools within the Bellingham School District, including Bellingham, Sehome, Squalicum, Fairhaven, Kulshan, Shuksan, and Whatcom. The document also lists warrant numbers associated with these disbursements. Additionally, it provides information on the Transportation Fund expenditures and total payroll for March.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-05-08-minutes.txt)
-
-## 2014-05-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The May 8, 2014 school board meeting agenda includes several items related to board governance and community engagement.  The board will review Monitoring Report EL-2, Organizational Continuity, to determine if the Superintendent is in compliance with the policy. The agenda also features reports from various School Board Committees, including County and City Council Liaisons, Superintendent Review, and Policy Governance Enhancements. A new resolution, Resolution 10-14, urges Congress to reauthorize the Elementary and Secondary Education Act. Finally, the meeting will conclude with a study session focused on High School Success Strategies.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-05-08-agenda.txt)
 
 ## 2014-03-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -121,12 +87,6 @@ The document also includes entries for a Private Purpose Trust Fund and Transpor
 The text also reveals that the school board uses warrant numbers for tracking and authorizing payments related to various funds. This system indicates a process for ensuring accountability and transparency in financial management.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-03-13-minutes.txt)
-
-## 2014-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This document outlines the agenda and meeting minutes for a school board meeting on February 27, 2014. A key item on the agenda was the Board's response to monitoring of Executive Limitation 3 (EL-3), which pertains to Treatment and Communication with Public, Parents, and Students.  The Board would determine whether the Superintendent is "In Compliance" or "Working Toward Compliance" in connection with EL-3. The meeting also included informational items such as School Board Directors' Reports and a study session on Early Childhood Education.  Finally, the meeting concluded with a board assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-02-27-agenda.txt)
 
 ## 2014-02-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

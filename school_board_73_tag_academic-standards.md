@@ -1,68 +1,16 @@
-# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: academic-standards
+# Meeting Summaries for BATTLE_GROUND_SCHOOL_DISTRICT with Tag: academic-standards
 
-## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a Study Session on November 12, 2024, to discuss budget development for the 2025-2026 school year.  The meeting was called to order at 6:35 PM and adjourned at 7:37 PM.  Board members present included Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Hân Trần, and Amy Cast (President). Superintendent Michael Tolley was also in attendance. The minutes were approved on November 25, 2024.
+The special meeting held on January 22, 2024, at the Lewisville Campus focused on the School Improvement Plans for the 2023-24 academic year, presented by administrators from Prairie High School and River HomeLink. Key presenters included Shelly Whitten, Deputy Superintendent, and David Kennedy, Executive Director of School Improvement, among others. The meeting emphasized the importance of continuous school improvement planning, which is mandated by WAC 180-16-220, requiring annual Board approval of each school's plan. This process involves active participation from building staff, students, parents, and community members, and aims to be data-driven to enhance student achievement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-12-minutes.txt)
+The School Improvement Plans are designed to ensure high levels of student performance and promote a positive impact on learning. They include strategies for continuous improvement and are developed through collaborative input from various stakeholders. The meeting concluded with an adjournment after discussing the importance of these plans in meeting academic standards and fostering community engagement in the educational process.
 
-## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-specialmeeting-minutes.txt)
 
-The Administrative Center Board Room will host a study session on Tuesday, November 12, 2024, at 6:00 PM.  The primary focus of the meeting is "2025-2026 Budget Development." During this discussion, the Board of Directors will review pertinent information related to the upcoming budget cycle. A file attachment titled "25-26 PPT - 2024_11_12.pdf" (568 KB) is available for reference.  The meeting agenda also includes standard items such as a call to order and a list of attendees.
+## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-12-agenda.txt)
+The Battle Ground Public Schools Board of Directors held a regular meeting on January 22, 2024, where several key actions were taken. The board approved the new course proposals for "Intensive Math 1C" and "English IV," both set to begin in the 2024-25 school year, as presented by Travis Drake, the Director of Instructional Leadership for Secondary Level. Additionally, the board revised Policy 2255 regarding Alternative Learning Experience Programs to include the Battle Ground Virtual Academy, clarifying assessments and enrollment procedures. Other policy revisions included Policy 6215 on Voucher Certification and Approval, which was updated to meet statutory requirements for the audit committee, and Policy 6550 on Capitalization Threshold for Lease and Subscription Based Information Technology Arrangements (SBITAs), reflecting guidance from the Washington State School Directors' Association. The meeting also highlighted student achievements and staff recognitions, emphasizing community engagement and the board's commitment to nurturing student voices.
 
-## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a study session on October 14, 2024, to review information regarding the 2025-2026 Budget Development.  The meeting was called to order at 6:30 PM and adjourned at 7:34 PM. In attendance were board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on October 28, 2024.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-14-minutes.txt)
-
-## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The October 14th, 2024 study session agenda for the school board focuses on reviewing information related to the 2025-2026 budget development.  The meeting will take place at 6:00 PM in the Administrative Center Board Room and is categorized as a public content meeting. A file attachment titled "25-26 PPT - October 14 as of 10.10.24.pdf" (502 KB) is included with the agenda, suggesting that detailed budget proposals will be presented for discussion.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-14-agenda.txt)
-
-## 2024-09-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a study session on September 9, 2024, to discuss the Teacher and Principal Evaluation Program (TPEP). The meeting, which began at 6:45 PM and concluded at 7:45 PM, included all board members and Superintendent Michael Tolley.  The discussion centered around the TPEP, a program designed to evaluate teacher and principal performance. No specific changes or updates to the program were mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-09-minutes.txt)
-
-## 2024-08-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors for an unspecified school district will hold a study session on August 26, 2024.  The agenda includes a discussion on "General Assembly and Legislative Priorities." This suggests the board will be reviewing potential changes to academic standards or curriculum transparency measures proposed by the General Assembly. Additionally, the meeting agenda indicates a focus on developing long-term strategic plans for the school district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-26-agenda.txt)
-
-## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-This document details the minutes from a Northshore School District board meeting.  It covers routine agenda items such as budget reports, contract awards for services like food and beverage provision and copier maintenance, and construction updates for school renovation projects. The board also approved an amendment to a contract related to the Leota Middle School Phase 1 Replacement Project. There are no mentions of topics typically associated with culture war debates in education.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
-
-## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM in the Administrative Center Board Room to discuss Goal 4 - Innovative, Creative, Critical Thinkers.  The meeting agenda includes a review of information related to this goal. Supporting documents for review include "Goal 4 Slide Deck," "SG4-2023-2024-Report-Final," and "G-1_Goals_last reviewed_2_13_2023."  The meeting will conclude with an end of meeting summary.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-agenda.txt)
-
-## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special meeting on March 18, 2024, where they discussed several key topics, including the development of a pool, the Portrait/Profile of Graduate, the implications of artificial intelligence in education, and the handling of data. The meeting commenced at 5:02 PM and concluded at 7:58 PM. Specific actions or resolutions regarding these topics were not detailed in the minutes, but the inclusion of artificial intelligence suggests a focus on integrating modern technology into the educational framework. The session was attended by board members and the superintendent, Mr. Michael Tolley, who also served as the secretary to the board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
-
-## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors for an unnamed school district will hold a study session on March 11, 2024 to discuss the 2024-2025 budget development.  The meeting agenda includes a call to order, list of attendees, and discussion regarding the upcoming budget. A file attachment titled "March 11 as of 3.8.24.pdf" is available for public review. The meeting concludes with an end of meeting designation.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-agenda.txt)
-
-## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which emphasizes Growth for Every Student and the elimination of outcome and opportunity gaps. The discussion was led by Superintendent Mr. Michael Tolley, who provided insights into the district's strategies for achieving these objectives. The session was attended by board members including President Amy Cast and other directors. The Board's commitment to racial equity was evident as they reviewed policies aimed at addressing disparities in educational outcomes. The meeting concluded with an adjournment at 6:49 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-01-22-regularboardmeeting-minutes.txt)
 

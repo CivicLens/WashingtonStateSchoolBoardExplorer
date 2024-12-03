@@ -1,11 +1,5 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: school-safety
 
-## 2024-07-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda and meeting minutes detail upcoming discussions and actions related to various aspects of school governance.  The board plans to review the 2024-2025 budget, including a public hearing for community input. They will also discuss and potentially adopt 2024-2025 School Improvement Plans. Additionally, policy updates are on the agenda. The minutes indicate that an executive session was held, though the specific purpose is not disclosed.  The board adjourned the meeting unanimously.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-22-agenda.txt)
-
 ## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions on several key topics.  The board discussed a policy regarding director visits to schools, ultimately agreeing that directors would make arrangements directly with principals while respecting the principal's preference for superintendent involvement. There was also discussion about placing curriculum adoptions on the Consent Agenda, with Director Swinburnson expressing concern that this practice denied recognition of the hard work involved in curriculum selection.  Future meeting agenda items were suggested, including a financial report, superintendent's report, and policy updates. A budget work session was also scheduled. The board briefly entered executive session to discuss the superintendent's performance.
@@ -35,12 +29,6 @@ The Blaine School District held a special board meeting on February 20, 2024, to
 | [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
 | [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
 | [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
-
-## 2024-01-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda outlines a regular meeting on January 22, 2024.  The meeting includes time for general comments from the directors and discussion of future meetings and agenda suggestions. A School Improvement Plan mid-year work session is scheduled for February 26, 2024, followed by a regular board meeting. Suggested agenda items include recognizing Education Support Professionals Week and School Retirees' Appreciation Week, receiving a High School Student Report and School Administrator Monthly Reports, discussing enrollment updates and financial reports, and hearing the Superintendent's report. The agenda also includes a potential executive session for discussion of confidential matters allowed under state statute.  The meeting concludes with a formal motion to adjourn.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-22-agenda.txt)
 
 ## 2023-09-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -90,12 +78,6 @@ The Blaine School Board meeting minutes detail discussions and actions related t
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-07-25-minutes.txt)
 
-## 2022-06-06 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The Blaine School District held a special board meeting on June 6, 2022, to consider Resolution 2122-11. This resolution sought to waive two missed school days (May 26 and May 27) due to a threat that resulted in a lockdown and evacuation of all Pre-K through Grade 12 students and staff. The board unanimously approved the resolution, which authorizes an application to the Office of Superintendent of Public Instruction (OSPI) for the waiver.  The meeting minutes indicate that the school closure was prompted by a "threat to the school campus" on May 25, 2022. The nature of the threat is not specified in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-06-06-agenda.txt)
-
 ## 2022-04-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions and decisions regarding several key topics.  The board approved a revised 2022-2023 school calendar, incorporating Family Conferences and an early release period for high school students from April 12-14, 2023. They also added a budget work session to the calendar, scheduled for June 20, 2022.
@@ -116,24 +98,6 @@ The Blaine School Board discussed several policy changes during their meeting. P
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-11-22-minutes.txt)
 
-## 2021-10-25 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda outlines a regular meeting followed by a special session.  The regular meeting will include standard reports from school administrators on enrollment, finances and the WSSDA Conference. Additionally, there will be a superintendent's report and discussion of the 2021-2022 CTE Program Plan. Policy updates are also scheduled for discussion. A separate special meeting is planned to review adjustments to director districts following the 2020 US Census.  The agenda also includes an executive session, during which the board may discuss personnel matters, legal counsel, collective bargaining, or real estate transactions. Following the executive session, the board will reconvene and adjourn the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-10-25-agenda.txt)
-
-## 2021-06-28 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda focuses on standard operational items.  The next regular meeting will be held on July 26, 2021 at 7:00 pm. Suggested agenda items include a public hearing on the 2021-2022 budget, a superintendent's report, the 2021-2022 student fee list and policy updates. The board also notes that there will be no executive session at this meeting. Finally, the meeting was adjourned by formal motion carried by Dougal Thomas, seconded by Todd Nunamaker.  All directors present voted yea: Todd Nunamaker, Dougal Thomas, Joan Lotze, Charles E Gibson.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-06-28-agenda.txt)
-
-## 2021-04-26 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda includes standard items such as administrator reports, financial updates, and policy reviews. Notably, the agenda lists "Review and Consideration of 2021-2022 Reopening Plan" suggesting ongoing discussions about COVID-19 related school safety measures and potential adjustments to academic standards or curriculum delivery in light of the pandemic. The board also plans to discuss the WIAA (Washington Interscholastic Activities Association) membership renewal, indicating a focus on extracurricular activities and student engagement.  The agenda concludes with a motion to adjourn the meeting following the executive session.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-04-26-agenda.txt)
-
 ## 2020-11-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions on various policies and upcoming events. Policy 5404 regarding Family Medical and Maternity Leave was reviewed, along with a range of other policies concerning program planning and budgeting (Policy 6000), safety and maintenance of school property (Policy 6800), energy management (Policy 6810), construction design (Policy 6920), and contractor assurances (Policy 6950).  The board unanimously approved all reviewed policies. The meeting also included a discussion on incorporating student voice into board decision-making, to be added to the January meeting agenda. Additionally, the next regular board meeting was scheduled for December 15th with an abbreviated agenda including consent items, officer elections, and the superintendent's report. A special meeting was also scheduled for January 11th to review the performance of a public employee in executive session.  The minutes conclude with the adjournment of the meeting following the executive session.
@@ -151,12 +115,6 @@ The Olympia School District Board held a meeting to discuss and approve various 
 The board meeting minutes detail the first reading of two new policies. Policy 3205, "Sexual Harassment of Students Prohibited," outlines procedures for addressing sexual harassment claims and includes a provision for withholding employment recommendations in cases of substantiated misconduct. This policy also designates Dr. Granger as the Title IX Investigator and ensures legal counsel involvement during investigations.  Policy 4300, "Limiting Immigration Enforcement in Schools," restricts immigration enforcement activity on school property while clarifying that it does not apply to local law enforcement conducting investigations. Both policies were unanimously approved for their first reading.  The board also discussed preferences for in-person meetings and agenda item suggestions for future sessions. An executive session was held to review the performance of a public employee, with no action taken afterward.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-09-28-minutes.txt)
-
-## 2020-08-24 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The school board meeting agenda includes standard items such as administrator reports, enrollment updates, financial reports, and superintendent's report. Notably, the agenda proposes discussing the "2020-2021 Highly Capable Program Plan" which suggests a focus on academic advancement for gifted students.  The board also plans to address "Policy Updates," indicating potential revisions or additions to existing school policies. The meeting includes an executive session to discuss the district's position in collective bargaining negotiations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-24-agenda.txt)
 
 ## 2020-08-08 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -177,18 +135,4 @@ The superintendent acknowledged that staff concerns about returning in-person ha
 The Blaine School District Board held a meeting to discuss and approve various matters.  A key topic was the extension of Superintendent Dr. Granger's contract through June 2023. The board unanimously approved the contract, acknowledging Dr. Granger's work during the pandemic.  The meeting also included agenda suggestions for future discussions, such as the Educator of the Year Award, the 2020-2021 Student Fee List, and the 2020-2021 Budget Planning Update. The board went into executive session to review the performance of a public employee.  Following the executive session, the meeting reconvened, and the directors affirmed the accuracy of the Consent Agenda vote.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-05-26-minutes.txt)
-
-## 2020-04-20 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda and meeting minutes outline typical school district business. The board will discuss the 2019-20 HomeConnection Annual Report, provide a 2020-21 Budget Planning Update, and hear the Superintendent's Report.  A WIAA Membership Resolution will be considered, along with the 2020-21 Board Meeting Calendar. The board will vote on approving the Superintendent's Contract and review Policy Updates. Notably, the meeting includes a scheduled executive session to discuss potential employment of personnel.
-
-The agenda also highlights adjustments due to the COVID-19 pandemic, with the next regular board meeting being held on a Tuesday instead of the usual day due to the Memorial Day holiday.  Finally, the minutes detail the motion and voting results for adjourning the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-04-20-agenda.txt)
-
-## 2020-01-13 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The North West Educational Service District 189 (NWESD 189) school board held a special meeting on January 13th, 2020. The primary focus of the meeting was the first reading and approval of Policy 3145, titled "Sex Offender Access to District Property".  This policy outlines procedures for restricting access to district property by registered sex offenders.  The board unanimously approved the first reading of the policy. Following this, the board entered into a 60-minute executive session to review the performance of a public employee. No action was taken after the executive session and the meeting was adjourned.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-01-13-agenda.txt)
 

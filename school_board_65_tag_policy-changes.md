@@ -1,11 +1,5 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: policy-changes
 
-## 2024-10-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on several key topics.  The board will review and potentially approve second readings of Policy 2401 (Financial Education Mastery-Based Learning & Credit) and Policy 3241 (Student Discipline). These policies are undergoing revisions, with the specific changes not detailed in the provided text. The board will also discuss School Improvement Plans for Lynden Academy and Lynden High School, highlighting a commitment to academic standards.  Community engagement is emphasized through an "Information from the Audience" segment, allowing community members to address the board on agenda and non-agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-agenda.txt)
-
 ## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board discussed amending Policy 3211/P, which likely pertains to student participation in extracurricular activities.  The discussion centered around aligning the district's policy with current Washington Interscholastic Activities Association (WIAA) guidelines that allow students to participate in athletics according to their gender identity. Director Brar led the conversation and shared updates on WIAA's amendment process, noting that a supermajority vote of participating districts is required for changes. Superintendent VanderYacht reported ongoing collaboration with other Superintendents on proposed amended language.
@@ -20,12 +14,6 @@ The school board discussed amending Policy 3211/P, which likely pertains to stud
 | [Khush Brar](board_member_328.md) | Supports external cameras on school buses and wants further discussion | Director Brar stated that she supports external cameras on the buses and would like to further discuss this. |
 | [Khush Brar](board_member_328.md) | Wants to appeal city's decision against crosswalk at Vossbeck Elementary | Director Brar asked about the status of the proposed crosswalk at Vossbeck Elementary. Superintendent VanderYacht explai...[truncated, use api for full text] |
 | [Khush Brar](board_member_328.md) | Wants to pursue Impact Fees | Director Brar asked about the status of pursuing Impact Fees. |
-
-## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines a range of topics focusing on academic and operational matters.  The board will discuss and potentially vote on the adoption of the 2024-2025 budget (Resolution #10-24). They will also consider approval for 2024-2025 Interscholastic Activities and the Highly Capable Program. An interlocal agreement with the Meridian School District regarding transportation services is also on the agenda for potential approval. The meeting includes time for public comment, information from the audience, and reports from the Superintendent, Teaching & Learning department, and Finance & Operations. A board workshop focusing on "Gender Inclusive Schools" will take place after regular agenda items are addressed.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -61,12 +49,6 @@ Additionally, they discussed the possibility of joining other districts advocati
 The Lynden School District #504 Board of Directors held an executive session on July 8th, 2024, to discuss potential litigation with legal counsel.  The session, initially scheduled for 45 minutes, was extended multiple times, ultimately concluding at 8:25 pm. The nature of the potential litigation was not disclosed in the meeting minutes.  This suggests a possible policy change or decision made by the school board that is being challenged legally.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-08-minutes.txt)
-
-## 2024-07-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board will hold a special meeting on July 8th, 2024 at 6:30 PM in the Lynden School District Board Room.  The agenda includes an executive session for discussion with legal counsel regarding litigation or potential litigation. No action will be taken during the executive session. The meeting's primary focus appears to be addressing legal matters facing the school district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-08-agenda.txt)
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -112,20 +94,6 @@ The Lynden School Board meeting minutes detail various agenda items and decision
 | [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
 | [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
 
-## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board meeting agenda focuses on several key areas.  The board will consider the LHS Science Curriculum Adoption and the Career & Technical Education (CTE) 4-Year Plan, both of which relate to academic standards and curriculum transparency. Community engagement is highlighted through opportunities for public comment and recognition of student achievements. The board will also vote on Policy 2255 regarding Alternative Learning Experience Courses, a policy change that should be reviewed for specific alterations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-agenda.txt)
-
-## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School Board meeting agenda focuses on several key areas.  The board will discuss first and second readings of updated policies. Policy 2255, Alternative Learning Experience Courses, is undergoing a first reading. A second reading will be held for Policy 6905, Site Acquisition. The board will also consider two Interlocal Cooperative Agreements: one with Whatcom County Behavioral Health for the 24/25 school year and another with Whatcom Discovery for the same period. Resolution #07-24 addresses Surplus Personal Property.  The election of a WIAA representative is also on the agenda.
-
-Parental feedback and community engagement are highlighted as important topics, with an open forum for audience members to address the board on both agenda and non-agenda items. The meeting agenda emphasizes school safety and mental health, with reports from the superintendent and teaching and learning departments likely addressing these themes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-16-agenda.txt)
-
 ## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail several policy changes and actions taken.  The board voted to approve updated Policy 2124 - Equivalency Credit Opportunities as amended. They also approved an amendment to Policy 2413, striking the phrase "to ensure cultural responsiveness and equity in awarding mastery-based credit" from the first sentence of the last paragraph in the section titled “Mastery/Competency-based credits”.  The reasoning behind this change is not explicitly stated in the minutes. The board then voted to adopt Policy 2413 as amended. Other actions taken included approving an Interlocal Agreement with Whatcom County Detention Center for 2024/2025 and approving Resolution #06-24 - WIAA Membership Renewal for the 2024/2025 school year. The board also authorized its legislative committee to revise and submit revisions on the “Local Control” proposal to WSSDA.
@@ -153,16 +121,6 @@ The Lynden School Board meeting minutes detail several policy changes and action
 | [Ken Owsley](board_member_327.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
 | [Khush Brar](board_member_328.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
 
-## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a school board meeting on May 2nd, 2024. The meeting agenda included updates on the district's progress towards its goal of graduating all students "college, career, and citizenship ready."  Good news items highlighted student achievements in academics, extracurricular activities, and career exploration.
-
-The board reviewed policy changes including first readings for Policy 6905- Site Acquisition and second readings for policies related to nutrition (6700), recess and physical activity (6701), wellness (6702), physical education and health class (2124) and equivalency credit opportunities (2413).  Specific details regarding the content of these policy changes were not included in the provided text. The board also considered an Interlocal Cooperative Agreement with the Whatcom Detention Center and Resolution #06-24 for WIAA Membership Renewal.
-
-The meeting emphasized community engagement, with a section dedicated to information from the audience and opportunities for public comment on agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-02-agenda.txt)
-
 ## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail discussions on academic performance, finance and operations, and policy updates.  The board reviewed student performance data in reading and math, noting scores of approximately 61% and 53%, respectively. Director Ben Thomas presented a financial report for March 2024 encompassing enrollment analysis, budget status, revenue and expenditure analysis, and projections. Several policies underwent first readings, including Policy 2413 (Equivalency Credit Opportunities), Policy 6700 (Nutrition), Policy 6701 (Recess & Physical Activity), Policy 6702 (Wellness), and Policy 2124 (Physical Education & Health Class).  Policy 3421 (Child Abuse & Neglect) received a second reading and was approved with a unanimous vote. The board also addressed action items, approving Resolution #05-24 for the Asset Preservation Program and appointing committee members for a bond resolution. Additionally, they approved an interlocal agreement with Bellingham School District for Title 1 services. Director Martinez shared updates on his school visits and community engagement initiatives.
@@ -183,12 +141,6 @@ The Lynden School Board meeting minutes detail discussions on academic performan
 | [Khush Brar](board_member_328.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
 | [Danny Martinez](board_member_330.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
 | [Ken Owsley](board_member_327.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
-
-## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines several policy discussions and potential actions. First readings are scheduled for policies 2413 (Equivalency Credit Opportunities), 6700 (Nutrition), 6701 (Recess & Physical Activity), 6702 (Wellness), and 2124 (Physical Education & Health Class).  A second reading will be held for Policy 3421 (Child Abuse & Neglect). The board will also consider approving Pro/Con Committee Members related to a bond resolution and Resolution #05-24, focusing on the Asset Preservation Program.  The agenda emphasizes community engagement by allowing time for information from the audience regarding both agenda and non-agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-18-agenda.txt)
 
 ## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -217,14 +169,6 @@ The school board meeting minutes detail discussions and votes on several policy 
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
 | [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
-
-## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board Meeting agenda focuses on several key areas. Firstly, it highlights the district's commitment to "Mental Health" with mentions of a Youth Mental Health First Aid course and a community viewing of the film "Screenagers," which addresses technology's impact on youth development.  Secondly, the agenda promotes "Social-Emotional Learning" through events like the Lynden Middle School Chess Club hosting a competition with local first responders. The meeting also touches upon "School Safety" by including an item on building leadership teams collaborating around Multi Tiered Systems of Support (MTSS) and Universal Design for Learning.
-
-Regarding "Academic Standards," the agenda includes a first reading of Policy 2415 - Performance-Based Pathway for High School Graduation, suggesting potential changes to graduation requirements.  Furthermore, the emphasis on "Curriculum Transparency" is evident in the inclusion of the policy's first reading, allowing for public review and feedback. Lastly, the agenda underscores "Community Engagement" by providing opportunities for audience members to address the board on both agenda and non-agenda items. The meeting also includes a workshop on Facilities Planning, indicating a focus on long-term district development.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-agenda.txt)
 
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -285,14 +229,6 @@ The Lynden School District Board of Directors met on February 20, 2024, to discu
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
 | [Khush Brar](board_member_328.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
 
-## 2024-02-20 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on February 20, 2024, at 6:30 AM to discuss several key items.  The board will be considering Resolution # 01-24 regarding a General Obligations Bond and will also delegate authority to the Superintendent for approving For/Against Committees related to the bond. Additionally, the board will address two resolutions: Board Resolution- House Bill 2331 and Board Resolution- Senate Bill 5462. The meeting agenda includes time for public input on the general obligations bond, with written comments accepted until 8:00 PM on February 19th.  Those wishing to speak in person must sign up at the meeting. The board will also hold a workshop to discuss bond resolution possibilities in relation to election timelines and project scope.  
-
-The Lynden School District's mission is "to ensure that all students graduate college, career, and citizenship ready."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-20-agenda.txt)
-
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions on various topics, including legislative advocacy, board meeting logistics and communication improvements. Director Hickman emphasized the importance of community engagement regarding local control bills and shared information about an upcoming town hall meeting with local legislators. Superintendent VanderYacht highlighted the need for transparency in discussing board positions on specific bills and suggested focusing on policy content before addressing writing conventions. The board also discussed incorporating particular details and action items into meeting minutes, following Robert's Rules of Order.  Additional topics included post-Bond Planning Task Force needs such as impact fees, playground and technology upgrades, and construction delivery methods. The board expressed interest in revisiting Key Performance Indicators in greater depth and discussed the legalities of individual board members expressing personal opinions on social media regarding ballot initiatives and legislative bills.
@@ -305,12 +241,6 @@ The school board meeting minutes detail discussions on various topics, including
 |--------------|--------------------|---------|
 | [Tonya Hickman](board_member_326.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
 | [Ken Owsley](board_member_327.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-
-## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a special meeting on February 3rd, 2024, at 8:00 AM to discuss board functions and meetings.  The agenda includes topics such as meeting logistics (placing items on agendas and policy review), communication strategies (internal among directors and transparency with the community), legislative engagement, district priorities, and board governance. The meeting will also feature a team-building activity focused on getting to know one another. Notably, the agenda emphasizes communication with the community and understanding individual director interests.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-agenda.txt)
 
 ## 2024-01-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -330,12 +260,6 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 | [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
 | [Ken Owsley](board_member_327.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
 
-## 2024-01-25 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board meeting agenda focuses on several key topics.  The board will conduct first and second readings of revised policies addressing meeting conduct, workplace civility, and nondiscrimination. A discussion regarding a class action lawsuit concerning social media's impact on youth mental health is also scheduled. Notably, the board will vote on approving a Nondiscrimination in Hiring Plan. The agenda highlights various school updates, including the implementation of a Unified Sports basketball team for students with special needs and the launch of an Extended Day program at Fisher Elementary.  Additionally, reports from the superintendent, teaching and learning department, and finance and operations division will be presented, covering topics such as capital facilities planning, emergency management and safety, and financial updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-agenda.txt)
-
 ## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail discussions on several key topics.  The board reviewed school improvement plans for various schools within the district, ultimately approving them unanimously. A proposed "Nondiscrimination in Hiring Plan" was postponed for further consideration. Notably, the board discussed a potential class action lawsuit concerning social media's impact on youth mental health and contemplated joining it. Additionally, the meeting addressed a goal to decrease behavioral referrals by 25% compared to the previous school year. The board also considered adjusting its meeting schedule and start time for future meetings.
@@ -354,35 +278,11 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 | [Khush Brar](board_member_328.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
 | [Jim Verburg](board_member_329.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
 
-## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on several key items related to diversity and inclusion.  The board will conduct first readings of two new policies: Policy 5010 - Nondiscrimination and Policy 5161 - Civility in the Workplace. A second reading is scheduled for Policy 2090 - Program Evaluation. The meeting also includes presentations on School Improvement Plans from Lynden High School, Lynden Middle School, and Isom Elementary.  Additionally, a presentation will be given on the Nondiscrimination in Hiring Plan. The board will vote on the approval of both the School Improvement Plans and the Nondiscrimination in Hiring Plan. Finally, a board workshop will discuss a class action lawsuit regarding social media.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-11-agenda.txt)
-
 ## 2023-12-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting discussed the review and approval process for a new science curriculum. The curriculum undergoes community review for 30 days, followed by consensus from the science team and approval by the Instructional Materials Committee (IMC). Final approval rests with the school board. Director Owsley expressed interest in a deeper review of the curriculum. The board also received an overview of the 24/25 budget development process. Policy updates were addressed, including first readings for Policy 2004- Performance Improvement Goals and Policy 2090- Program Evaluation. Updated Policy 2190- Highly Capable Programs was approved unanimously.  The board scheduled a retreat for January 27th at 8:00 am. The meeting adjourned at 10:46 pm following an executive session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-12-14-minutes.txt)
-
-## 2023-12-14 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines standard topics such as meeting minutes approval, oath of office for newly elected board members, and good news segments highlighting student achievements.  The agenda includes a "Consent Agenda" with routine items like payroll approvals and personnel recommendations.  
-
-A significant portion focuses on reports from the Superintendent, Teaching & Learning department, and Finance & Operations. The Teaching & Learning report will feature School Improvement Plan Presentations for Lynden Academy, Fisher Elementary, and Bernice Vossbeck Elementary, along with a Curriculum Adoption and Maintenance Presentation.  The Finance & Operations section addresses the 2024-2025 Budget Calendar Development.
-
-Policy discussions include first readings of revised policies: Policy 2004 - Performance Improvement Goals, Policy 2090 - Program Evaluation, and Policy 2190 - Highly Capable Programs. The meeting concludes with a Board Workshop, Executive Session regarding litigation, and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-12-14-agenda.txt)
-
-## 2023-11-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda outlines standard topics including good news reports from schools, approval of meeting minutes and a consent agenda covering payroll, personnel recommendations and interdistrict agreements. Reports from the superintendent, teaching and learning departments, and finance are scheduled. 
-
-The board will address policy changes with second readings for Policy 5310 (Compensation) and Policy 6215 (Expense Claim Certification and Approval), followed by third readings for Policy 6959 (Acceptance of Completed Project). The agenda also includes time for action items, information from board members, a student board representative report, and a board workshop.  Notably, the meeting agenda does not mention any topics related to diversity, equity, inclusion, or social-emotional learning.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-11-09-agenda.txt)
 
 ## 2023-10-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -390,23 +290,11 @@ The Lynden School District Board meeting minutes detail the board's discussion a
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-26-minutes.txt)
 
-## 2023-10-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 board meeting agenda focuses on routine matters such as approving payroll and personnel recommendations.  The consent agenda includes the "23-24 Lynden SD Running Start Agreement". Several policy readings are scheduled, including first readings for Policy 5310- Compensation, Policy 6215- Expense Claim Certification and Approval, and Policy 6605- Student Safety- Walking, Biking, and Riding Buses. Second readings are planned for Policy 3520- Student Fees, Fines, and Charges, Policy 6530- Insurance, and Policy 6959- Acceptance of Completed Project. The meeting also includes a section for "Good News" highlighting student achievements and community engagement activities within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-26-agenda.txt)
-
 ## 2023-10-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District #504 Board of Directors met on October 13, 2023, to discuss several key items.  They reviewed suggested revisions to the board handbook, with Director Costanti agreeing to draft an updated version incorporating the agreed-upon changes. The board also ranked WSSDA legislative positions, aiming to submit their top 10 priorities for 2024. Superintendent VanderYacht presented his recommendations for district performance indicators, intended to track student learning goals.  The meeting adjourned at 12:14 pm.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-13-minutes.txt)
-
-## 2023-10-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a special meeting on October 13, 2023, at 8:00 AM to discuss several topics.  The agenda includes reviewing the Board Handbook and examining WSSDA positions. A significant portion of the meeting (135 minutes) will be dedicated to discussing District Performance Measures. The meeting concludes with an adjournment scheduled for 12:00 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-13-agenda.txt)
 
 ## 2023-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -414,29 +302,11 @@ The Lynden School Board meeting minutes detail several policy changes and discus
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-12-minutes.txt)
 
-## 2023-10-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board meeting agenda focuses on routine matters such as good news reports, approval of meeting minutes and consent agenda items.  Policy changes are a significant part of the agenda with first readings for several new policies including Policy 1610- Conflicts of Interest, Policy 3520- Student Fees, Fines, and Charges, Policy 6217- Electronic Funds Transfer, Policy 6530- Insurance, Policy 6550- Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangements and Policy 6959- Acceptance of Completed Project. Second readings are scheduled for Policy 3207- Prohibition of Harassment, Intimidation, and Bullying of Students, Policy 6212- Charge Cards and Policy 6220- Bid or Request for Proposal Requirements. The board will also discuss the EP&O Levy Renewal in a workshop session and vote on related resolutions (Resolution #12-23- EP & O Levy Renewal) as well as a Lease Amendment with Inspire Development Centers.  Resolution #11-23- Private Purpose Trust Fund, Closure to General Fund is also scheduled for a vote. The meeting encourages community engagement by allowing public comment on agenda and non-agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-12-agenda.txt)
-
 ## 2023-09-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail several actions taken by the board.  They approved a $157,500,000 General Obligation Bond (Resolution #10-23) to be placed on the February 13, 2024 ballot. This bond aims to fund unspecified projects. The board also approved the 23/24 Transitional Bilingual Instructional Program grant and two Interlocal Agreements: one with Whatcom County for Behavioral Health services and another with Meridian School District for transportation services. Additionally, they ratified a union contract with the Lynden Education Association (LEA).  Tonya Hickman provided feedback on her experience at the WSSDA General Assembly and discussed forming a committee for next year's event.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-09-28-minutes.txt)
-
-## 2023-09-28 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board meeting agenda focuses on several key areas.  A "Safety & Security Task Force" is being formed to address safe and secure learning environments for students. This task force will be co-facilitated by Superintendent VanderYacht, a former law enforcement officer, and a Lynden Police Officer. Additionally, the board will discuss and take action on several policies including first readings of "Policy 3207- Prohibition of Harassment, Intimidation and Bullying of Students," "Policy 6212- Charge Cards" and "Policy 6220- Bid or Request for Proposal Requirements." A second reading of "Policy 5051- Hiring of District Administrators" is also scheduled. The agenda includes updates on various school programs, a report on the district's transitional bilingual instructional program, and action items such as approving the 23/24 Transitional Bilingual Instructional Program Grant and several interlocal agreements.  The meeting will conclude with information from board members and an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-09-28-agenda.txt)
-
-## 2023-09-14 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a school board meeting on September 14, 2023.  The agenda included routine items such as the oath of office for student directors, reports from the superintendent and teaching and learning department, and public comment. The board reviewed policy changes, including first readings of Policy 1400 (Meeting Conduct, Order of Business, and Quorum) and Policy 2190 (Highly Capable Program). A second reading was conducted for Policy 2230 (Transition to Kindergarten). Action items included the approval of a Highly Capable Grant for the 23/24 school year, student fees and fines, and a feasibility study for the Whatcom County Skills Center.  The meeting concluded with a board workshop on bond resolution planning and attendance at the WSSDA General Assembly. A closed session was scheduled to discuss collective bargaining updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-09-14-agenda.txt)
 
 ## 2023-08-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -444,29 +314,11 @@ The school board meeting minutes detail discussions and actions taken on various
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-08-10-minutes.txt)
 
-## 2023-08-10 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on routine administrative matters and policy updates.  The board will review the 2023/2024 budget, discuss union contract ratifications, and approve meal prices for the upcoming school year. Several policy changes are slated for discussion, including first readings of policies related to annual organizational meetings (Policy 1210), multi-tiered system of support (Policy 2163), transition to kindergarten program (Policy 2230), and hiring procedures for district administrators (Policy 5051). The board will also conduct a second reading for the retirement of Policy 3144 and 4314. Finally, the agenda includes a work session on bond planning task force recommendations and a closed session to discuss collective bargaining updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-08-10-agenda.txt)
-
-## 2023-07-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines various topics for discussion and action. Key items include updates on the 23/24 Educational Program, Annual Policy Reporting, and a Superintendent's Report under "Reports".  The board will also address policy changes, including retiring policies 3144 and 4314, and introducing a revised Policy 6700 focusing on Nutrition, Health, & Physical Education.  Further discussion points involve the Comprehensive School Counseling Plan, an Interlocal Agreement with the Battle Ground School District, and the Superintendent's Evaluation and Contract. The meeting agenda also includes time for "Information from Board Members" and a subsequent "Board Workshop" focused on Capital Facilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-07-13-agenda.txt)
-
 ## 2023-06-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting focused on routine matters such as approving meeting minutes and the consent agenda, which included financial reports and personnel recommendations.  A key discussion point was the adoption of Policy 3245 regarding Students and Telecommunication Devices. The board also reviewed the Comprehensive School Counseling Plan, deciding to postpone a vote until all members were present. Discussions centered around school safety with updates on the Long-Range Capital Facilities group's work and the Bond Planning Task Force's progress.  The Superintendent Evaluation framework was presented, with plans for a public discussion during the next meeting. The board also discussed potential changes to the Board Director Handbook for the upcoming school year. Notably, concerns were raised about Special Education funding for the following year.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-22-minutes.txt)
-
-## 2023-06-22 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on routine matters like approving payroll and personnel recommendations.  Notable items include celebrating the 2023 graduates and recognizing retiring staff members. The Transportation Department received recognition from OSPI for exceptional school bus safety inspections. Reports from the Superintendent, Teaching and Learning, and Finance and Operations are scheduled. A second reading of policy 3245 regarding Students and Telecommunication Devices is planned.  The board will also discuss action items related to the Comprehensive School Counseling Plan. Finally, a workshop on Superintendent Evaluation Process & Timeline, Capital Facilities Planning Update, and the School Board Director Handbook is scheduled.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-22-agenda.txt)
 
 ## 2023-05-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -476,29 +328,11 @@ The board conducted first and second readings of Policy 5254 (Staff Expression) 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-25-minutes.txt)
 
-## 2023-05-25 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 board meeting agenda highlights several key topics.  The board will discuss and potentially vote on Policy 5254 - Staff Expression and Policy 6815 - Advertising on District Property, both of which are undergoing second readings. Additionally, the meeting will include reports from the Superintendent covering Middle School & Elementary School Counseling, Elementary PTA Presentation, Facilities Update, and 23/24 Budget Development.  The agenda also features a Consent Agenda with items related to AP/Payroll and Personnel Recommendations. The board will address information from the audience, followed by discussions on policy changes and information from board members. Finally, the meeting will conclude with a closed session to discuss collective bargaining updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-25-agenda.txt)
-
-## 2023-05-11 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on various topics including academic achievement and student well-being.  The board will review the School Improvement Plan for Lynden Middle School, highlighting a commitment to improving academic standards. Curriculum transparency is addressed through first readings of Policy 5254 (Staff Expression) and Policy 6815 (Advertising on District Property).  Policy changes are also evident in Resolution #06-23 concerning a Reduced Educational Program and Resolution #07-23 related to Bank Accounts. The agenda includes a discussion on the Student Director Selection Process, emphasizing student autonomy within the school governance structure.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-11-agenda.txt)
-
 ## 2023-04-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes detail discussions on the 2023-2024 budget development process. Superintendent VanderYacht presented an overview of current funding and legislative session highlights, noting a projected $3.2 million revenue shortfall to maintain a 4% end fund balance. He outlined the district's process for identifying reductions and next steps for communication and adoption of the budget. The board approved several policy updates, including Policy 4060 (Distribution of Information) and Policy 5001 (Hiring of Retired School Employees).  The board also reviewed the Career & Technical Education (CTE) 4-year plan and approved Resolution #05-23 for a 180-day waiver. Additionally, Lynden High School administrators presented an update on instructional programs with a focus on Multi-Tiered Systems of Support (MTSS).
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-04-27-minutes.txt)
-
-## 2023-04-27 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a school board meeting on April 27, 2023.  The agenda included discussion of the 2023/2024 budget development update and reports from the Superintendent, Teaching and Learning department, and Finance and Operations department. Several policies were presented for first reading, including Policy 4060- Distribution of Information, Policy 5001- Hiring of Retired School Employees, and Policy 6111- Tuition.  The board also considered action items such as the Career & Technical Education - 4-Year Plan and Resolution #05-23- 180 Day Waiver. The meeting included a period for information from the audience and updates from board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-04-27-agenda.txt)
 
 ## 2023-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -508,12 +342,6 @@ During reports, Superintendent VanderYacht provided updates on ParentSquare comm
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-04-13-minutes.txt)
 
-## 2023-04-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda outlines standard topics for discussion, including reports from the superintendent and teaching/learning departments.  The board will consider action items such as approving the school calendar for 2023/2024, a resolution (#02-23) regarding surplus personal property, and an overnight trip request. The agenda emphasizes community engagement by allowing time for information from the audience. Policy changes are noted, but specific details about those changes are not included in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-04-13-agenda.txt)
-
 ## 2023-03-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail several key decisions and discussions.  The board approved the sale of Brink’s Dairy to Dairy Valley Distributing following a single compliant bid. Resolution #01-23 authorized a transfer of funds from the General Fund and Capital Projects to the Debt Service Fund. Policy 2411, regarding High School Equivalency Certificates, was updated and approved with a 3-1 vote.
@@ -522,31 +350,11 @@ The board also discussed long-term facilities planning. A Bond Planning Task For
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-23-minutes.txt)
 
-## 2023-03-23 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on various topics related to academic performance and school operations.  The board will discuss committee assignments, review meeting minutes from February 23rd, and address a consent agenda encompassing payroll approvals, personnel recommendations, and donations. Reports from the superintendent, teaching and learning department, and finance and operations are scheduled.
-
-The agenda includes "Action Items" such as considerations for the Northwest Career & Technology Academy and dairy bids.  A resolution (#01-23) proposes a transfer of funds from the General Fund and Capital Projects to the Debt Service Fund. Policy discussions will involve first and second readings, with Policy 2411 addressing High School Equivalency Certificates. The meeting concludes with a board workshop and information sharing from board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-23-agenda.txt)
-
-## 2023-03-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 board meeting agenda focuses on various topics including school improvement plans, program reviews, grant overviews, and reports from the superintendent and teaching and learning departments.  The agenda includes action items such as approving dairy bids for the Northwest Career & Technology Academy and passing Resolution #01-23. Policy discussions involve a second reading of Policy 2411 concerning High School Equivalency Certificates. The meeting also highlights "good news" from different schools within the district, showcasing student achievements and community engagement in events like reading month celebrations, game nights, and successful athletic competitions.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-09-agenda.txt)
-
 ## 2023-02-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board Meeting minutes detail discussions on several key topics.  The board implemented a new policy (1250- Students on Governing Boards) allowing for advisory votes from student directors, Cooper Graddon and Aislinn Nilsen. These votes will be recorded alongside board member votes in the meeting minutes. The board reviewed reports from various departments including Teaching and Learning, Finance and Operations, and Facilities/Maintenance.  Superintendent VanderYacht presented information regarding a potential Whatcom County skills center modeled after the Northwest Career & Technical Academy (NCTA). A draft document expressing intent to participate was shared with the board. Discussions also centered on the 23/24 budget challenges and contributing factors. The board reviewed a draft Capital Facilities Planning Framework, outlining a proposed timeline, roles, and responsibilities for long-term planning committees. They discussed strategies for community data collection to inform bond decisions. Tonya Hickman highlighted the importance of sharing the district's special education story with legislators.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-23-minutes.txt)
-
-## 2023-02-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda outlines standard operational topics.  The "Good News" section highlights teacher and staff achievements, including professional development focused on "Every Student. Every Day," a theme emphasizing student learning through Social Emotional Learning Standards. A Freshman Blitz program aimed at supporting 9th graders' successful completion of their first semester is also celebrated. The agenda includes standard items like meeting minutes, consent agenda approvals (AP Payroll and Personnel Recommendations), reports from the Superintendent, Teaching and Learning, and Finance and Operations departments.  "Information from the Audience" establishes procedures for public comment during the meeting.  The board will hold a workshop on "Facilities Planning," and an action item concerns Interlocal Agreements for specialized teachers for visually impaired and deaf/hard-of-hearing students. A first reading of Policy 1250, "Students on Governing Boards," is also scheduled.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-agenda.txt)
 
 ## 2023-01-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -564,14 +372,6 @@ The meeting concluded with policy first readings and continued readings. Policy 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-01-12-minutes.txt)
 
-## 2023-01-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda covers a range of topics including good news stories about student achievements and community support initiatives.  The meeting will feature an annual organizational meeting followed by a consent agenda, reports from the superintendent and various departments, and time for information from the audience. A board workshop will focus on discussing the Superintendent Evaluation Framework and Process using materials provided by the Washington State School Directors' Association (WSSDA). 
-
-Policy changes are noted with first readings of Policy 5011- Sexual Harassment of District Staff Prohibited and continued readings of Policy 4218- Language Access and Policy 5001- Hiring of Retired School Employees. No details regarding the content of these policy changes are provided in the text. The meeting agenda also includes a resolution (#01-23)  regarding a City of Lynden Right of Way Grant, Slope Easement, and Temporary Construction Easement.  Additional documentation related to this resolution includes letters of support and dedication, temporary construction, transportation impact fee credit agreements with the City of Lynden.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-01-12-agenda.txt)
-
 ## 2022-12-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail several policy changes and discussions regarding student autonomy.  The board approved Resolution #20-22 authorizing the use of procurement cards for employees needing to make purchases from vendors who don't accept purchase orders. They also approved Resolution #21-22, though the specific details of this resolution are not mentioned in the provided text.
@@ -581,12 +381,6 @@ Several policy changes were discussed and voted on during the meeting. Policy 56
 The discussion around student autonomy centered on refining the onboarding procedure for new board members and exploring the possibility of including freshman and sophomore students as directors on the school board, in addition to the current junior/senior representation.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-12-08-minutes.txt)
-
-## 2022-12-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on several key areas.  The board will discuss and potentially vote on "Resolution #20-22- Procurement Cards" and "Resolution #21-22- City of Lynden," though the specific details of these resolutions are not provided in the text. Policy changes are a significant theme, with first readings scheduled for policies 5001 (Hiring of Retired School Employees), 5610 (Substitute Employment), 4218 (Language Access), 6112 (Rental or Lease of District Property) and 1610 (Conflicts of Interest). A continued reading is planned for policy 3116 (Students in Foster Care). The agenda also highlights "Good News" from the district, including scholastic book purchases, student participation in a design contest, and completion of a Marathon Club.  The meeting will include time for information from the audience, reflecting a commitment to community engagement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-12-08-agenda.txt)
 
 ## 2022-11-18 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -600,12 +394,6 @@ The Lynden School District Board Meeting minutes detail discussions on various t
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-11-10-minutes.txt)
 
-## 2022-11-10 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on several key areas.  School safety is addressed through a report from the Superintendent regarding the City of Lynden's Right of Way, likely concerning traffic and pedestrian safety around school zones. Mental health is highlighted with recognition given to School Psychologist Kelly Lam-Scholten for receiving the 2022 President's Award from the Washington State Association of School Psychologists for her work in advancing mental health services. Community engagement is emphasized through "Good News" items showcasing partnerships with local organizations like Scholten's Equipment and Unity Care NW, demonstrating the district's commitment to collaboration. Finally, policy changes are evident in the agenda's listing of second readings for policies 4210 (Regulation of Dangerous Weapons on School Premises), 3116 (Students in Foster Care), 3432 (Emergencies), and 3122 (Excused and Unexcused Absences). These policy reviews suggest ongoing efforts by the district to refine its procedures and ensure student well-being.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-11-10-agenda.txt)
-
 ## 2022-10-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District #504 Board meeting minutes detail discussions on various policies and reports.  The board reviewed the September 2022 Financial Report, which included enrollment analysis, budget status, revenue sources, and expenditure breakdowns by program. They also heard an update from the Isom PTA regarding school events and the success of their Teacher Grant program.
@@ -614,29 +402,11 @@ Several policy changes were addressed during the meeting. Policy 1420 (Proposed 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-27-minutes.txt)
 
-## 2022-10-27 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on routine matters and policy updates.  The meeting will include reports from the Superintendent, Teaching and Learning, and Finance and Operations departments. Notably, several policies are slated for second readings, including Policy 1400 (Conduct, Order of Business, & Quorum), Policy 1420 (Proposed Agenda and Consent Agenda), Policy 6610 (Video Surveillance), and Policy 2110 (Transitional Bilingual Instruction Program).  First readings will be held for policies addressing excused absences (Policy 3122), dangerous weapons on school premises (Policy 4210), students in foster care (Policy 3116), and emergency procedures (Policy 3432). The board will also convene an executive session to discuss potential litigation.  The agenda highlights the district's commitment to operational efficiency, transparency through policy review, and addressing legal matters privately.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-27-agenda.txt)
-
 ## 2022-09-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail discussions on various topics including school safety, academic standards, and curriculum transparency.  The board received a report on the K-5 ELA CKLA/Amplify program, transitional kindergarten, and new teacher onboarding. They also reviewed budget information for the 2022-2023 school year. Notably, the board approved a Running Start Agreement with Bellingham Technical College. Additionally, they passed two resolutions authorizing transfers from the General Fund to the Debt Service Fund and from the Capital Project Fund to the Debt Service Fund. Tonya Hickman abstained from both votes on the fund transfers. The meeting also included a first reading of Policy #2410 regarding High School Graduation Requirements, which was approved. Finally, the board heard concerns from parents about transitional housing units near schools and the use of recess zones across elementary schools.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-08-minutes.txt)
-
-## 2022-09-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on several key areas.  The board will review and potentially approve changes to Policy #2410 regarding High School Graduation Requirements. Additionally, they will discuss reports from Teaching and Learning and Finance and Operations departments. A Running Start Agreement with Bellingham Technical College is also up for approval. The meeting highlights a commitment to curriculum transparency by including the first reading of a revised policy and providing detailed financial reports. Community engagement is evident in the recognition of student achievements and the acknowledgment of donations from Partners for Schools and the Isom PTA.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-9-8-agenda.txt)
-
-## 2022-08-30 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School Board held a special meeting on August 30, 2022, to approve a Lease Agreement and Lease Rider with Inspire Development Center.  The agreement involves services provided by the US Department of Health and Human Services, Administration for Children and Families.  The motion to approve both documents was made by Tonya Hickman and seconded by David Vis, passing by voice vote.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-8-30-agenda.txt)
 
 ## 2022-06-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -651,12 +421,6 @@ The meeting included reports from Finance and Operations Director Ben Thomas on 
 The Lynden School Board of Directors held a special meeting on June 20, 2022, to interview candidates for open positions.  The board ultimately appointed Cindy Petersen to Position No. 2 and Ken Owsley to Position No. 5. These appointments followed an extended executive session where the board discussed candidate qualifications. The meeting concluded at 10:00 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-06-20-minutes.txt)
-
-## 2022-06-20 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a special meeting on June 20, 2022, to conduct interviews for school board director positions.  The agenda included a call to order, candidate interviews, and an executive session to review the interviews. Following the executive session, the board announced the selection of two new school board directors in an open meeting. This meeting highlights the process of selecting school board members who will be responsible for setting policies and overseeing the district's operations. The agenda indicates a focus on transparency through the public announcement of the selected directors.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-6-20-agenda.txt)
 
 ## 2022-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -679,18 +443,6 @@ The board approved a new interlocal agreement with Whatcom County Detention, a 2
 The Lynden School District held a special meeting on March 31, 2022, to select the next superintendent.  The board convened in executive session to discuss the qualifications of three finalist candidates: David VanderYacht, Tavis Peterson, and Lisa Riggs. Following the executive session, the board unanimously voted to appoint David VanderYacht as the next superintendent, effective July 1, 2022. The selection process began in November 2021 and involved gathering feedback from staff, families, and community members.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-3-31-minutes.txt)
-
-## 2022-03-31 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 School Board is holding a meeting on March 31st, 2022 at 7:30 AM.  The agenda includes an executive session to discuss the qualifications of a public employment applicant. Following the executive session, the board will announce the new Superintendent. The meeting will be held both in-person at the Lynden School District Office and via teleconference.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-31-agenda.txt)
-
-## 2022-03-30 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 School Board is holding a business meeting on March 30th, 2022 at 5:00 PM.  The agenda includes a call to order, welcome and pledge of allegiance, roll call, adjournment of the regular meeting, an executive session for dinner with finalist candidate #3, and adjournment of the executive session. The meeting will be held in person at Lynden Middle School Library or via teleconference. Notably, the agenda lists only procedural items and does not mention any specific policy discussions or changes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-30-agenda.txt)
 
 ## 2022-03-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -899,12 +651,6 @@ This document appears to be a summary of personnel changes within a school distr
 The text reflects several policy changes related to staffing. Notably, it shows the replacement of several staff members in coaching positions, indicating potential turnover or restructuring within the athletic department. The document also highlights the ongoing challenge of teacher and staff shortages, as evidenced by the need to fill multiple positions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-03-28-minutes.txt)
-
-## 2019-02-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a work session on February 26, 2019.  The agenda included standard items such as meeting minutes approval and a consent agenda covering personnel actions. A presentation was scheduled regarding the Glenning Street Property. Finance and Operations were to be discussed with a January budget update. Action items included Weather Make Up Days, the School Calendar for 2019-2020, and Resolution No. 04-19, which designated authority to sign real-estate transactions. The meeting was to adjourn into a board work session covering topics such as a Materials Distribution Policy, High School Science Requirements, and Safety Planning.  The agenda also listed "Board Work Session Topics" without further detail.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-02-26-agenda.txt)
 
 ## 2019-02-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

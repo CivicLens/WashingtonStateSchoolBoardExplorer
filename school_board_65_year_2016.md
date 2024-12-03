@@ -36,12 +36,6 @@ The Lynden School Board held a special meeting on September 28, 2016, at Lynden 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-09-28-minutes.txt)
 
-## 2016-09-28 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting to discuss the "Lynden Middle School Opening Bid Day."  The agenda focuses on procedural items such as the call to order, pledge of allegiance, and roll call.  While the specific content of the "Opening Bid Day" is not detailed, the meeting's focus suggests a discussion related to academic standards and potentially student achievement or school improvement initiatives. The location and time of the meeting are also provided.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-09-28-agenda.txt)
-
 ## 2016-09-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 This document details personnel changes within a school district. It outlines new hires, resignations, and leaves of absence for both certificated (teachers) and classified (staff) personnel.  Several entries highlight the need to replace departing staff members, suggesting potential teacher-staff shortages. The document also includes information about changes in assignments for existing employees. Notably, there are multiple instances of replacing individuals with new hires, indicating a possible ongoing effort to address staffing needs. Additionally, the document details specific support provided for students with special education needs, including the hiring of a Speech Language Pathologist (SLP) and a Para Educator.

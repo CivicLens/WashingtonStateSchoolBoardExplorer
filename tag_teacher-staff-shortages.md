@@ -1,10 +1,12 @@
 # Meeting Summaries for Tag: teacher-staff-shortages
 
-## 2024-11-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+## 2024-12-04 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The school board meeting minutes detail routine financial matters including deposits and fund allocations.  The board approved a number of personnel actions including hiring, resignations, retirements, leaves of absence and supplemental contracts. They also adopted Resolution No. 23-2022 to cancel warrants. The minutes note the review of the year-to-date Board of Director’s Budget as of October 31, 2022.  The board approved consent agenda items including minutes from the October 25th meeting. Notably, the student members evaluated the meeting with an overall rating of 3 "Meets Standard" on a scale of 1-4. The meeting adjourned at 9:30 PM.
+The Bremerton School District held a special board meeting at Naval Avenue Elementary on April 15, 2024, focusing on various school issues and community engagement. Principal Kimberly Powell reported ongoing challenges with staffing, specifically in special education para-educator positions, which has led to adjustments in lunch and recess schedules. The school currently requires additional staff, including two preschool, two general education, and two special education paras. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-11-minutes.txt)
+The meeting also addressed safety concerns, particularly regarding traffic at a nearby intersection, with suggestions made for improved visibility and safety measures, such as flashing lights and speed bumps. Additionally, community members expressed a desire for more parental engagement and the establishment of a parent-teacher organization. Discussions included the implementation of a garden program aimed at promoting health and nutrition among students. Curriculum transparency was highlighted, with inquiries regarding updates to math and reading materials, as well as the alignment of these with essential standards.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-12-04-minutes.txt)
 
 ## 2024-11-07 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
@@ -13,12 +15,6 @@ The November 7, 2024 Regular Business Meeting of the Board of Directors included
 The meeting also involved the approval of administrative changes to Policy 1810, Policy 0150, and Procedure 0150P, which likely reflect adjustments in governance or operational procedures. Furthermore, updates to the 2024-2025 Policy Schedule were approved, suggesting a commitment to maintaining current educational policies. Public comments were made by community members, highlighting ongoing engagement with stakeholders regarding educational needs and support for local programs like Sammamish Robotics.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-11-07-minutes.txt)
-
-## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District is hosting an informational meeting for individuals interested in running for the school board.  The meeting will take place on Thursday, March 16, 2023, at 5:00 p.m. at Options High School. Topics covered will include an overview of the district's policy governance model and election basics. The meeting aims to inform potential candidates about the roles and responsibilities of school board members and provide guidance on the election process.  The fall election filing opportunity with the Whatcom County Auditor's Office is scheduled for May 15-19.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
 
 ## 2024-10-23 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -66,6 +62,18 @@ The Meridian School District #505 held its regular school board meeting on Septe
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
 
+## 2024-07-29 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
+
+The La Conner School Board held a special meeting on July 29, 2024, to discuss the 2024-2025 budget, including a public hearing to adopt the budget and review Resolution No 24-17. Superintendent David Cram presented budget information, highlighting a projected positive fund balance of approximately $511,000 despite significant staffing and program reductions due to declining student enrollment. The budget discussion included concerns raised by resident Dan O'Donnell regarding the Swinomish Tribe's financial contributions to the district, particularly given that 34% of the student population is Native American. The board acknowledged the need for community engagement with local stakeholders to address enrollment declines and urged collaboration with the Swinomish Tribe. The meeting also included consent agenda items related to personnel actions and financial transactions, reflecting ongoing challenges in staffing and budget management within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-07-29-minutes.txt)
+
+## 2024-07-25 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District (VISD) Board meeting included discussions on various topics, including the hiring of new directors, with Stephanie Acevedo appointed as the Director of Facilities and Cassie Zizah as the Director of Business and Finance. The board addressed the VISD 2024-25 Budget Resolution #815, which was approved with a 4-0 vote, with Kaycie Alanis abstaining. The budget discussions involved clarifying the differences between the 2023-24 and projected 2024-25 fund balances. Additionally, a proposal for the installation of two pickleball courts at BARC was presented by Elaine Ott, reflecting community engagement in district planning. The board also approved personnel recommendations, including several coaching and teaching positions for the upcoming school year, highlighting ongoing efforts to address teacher and staff shortages.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-07-25-minutes.txt)
+
 ## 2024-07-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The San Juan Island School Board held a meeting to discuss the 2024-2025 budget.  The discussion included explanations of various budget categories such as instructional programs, support services, and board/superintendent expenses. There was also clarification regarding staff reduction numbers and online FTE enrollment inclusion in the budget calculations.
@@ -82,6 +90,36 @@ The Wahluke School District held a Special Board Meeting on July 23, 2024, where
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-07-23-minutes.txt)
 
+## 2024-07-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The regular meeting of the Board of Education for the White Salmon Valley School District included a public hearing on the 2024-2025 final budget, which was opened by Board Chair Laurie Stanton. Superintendent Rich Polkinghorn provided updates on staffing, noting that the district has filled several vacancies but continues to seek candidates for remaining positions, highlighting an ongoing issue with teacher and staff shortages. The meeting also addressed multiple policy updates, including the second reading and approval of various board policies related to financial management and district operations, such as updates to policy 6021 on Interfund Loans and policy 6801 on Capital Assets/Theft-Sensitive Assets. Additionally, Resolution No. 23/24-07 was approved, which pertains to the budget for the upcoming school year, alongside an increase in meal prices for the 2024-2025 school year.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-07-02-julydraftboard-minutes.txt)
+
+## 2024-05-23 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 board meeting on May 23, 2024, included discussions on various topics, notably the Special Education Parent Advisory Council (SEPAC) report presented by Anna Waldman and Kennedy Leavens. They outlined the council's mission and priorities, which include improving bussing, parent education, feedback mechanisms for IEP issues, communication between parents and schools, and community events. The board engaged in discussions about these priorities, indicating a focus on community engagement and support for special education. Additionally, public comment highlighted concerns regarding teacher staff shortages, specifically mentioning the reduction in force affecting colleague Paola Lester and the need for additional support staff in the upcoming school year. The meeting also addressed the district's budget status, with a shortfall now estimated at $125,000 after recent reductions, further emphasizing the challenges faced by the district in maintaining adequate staffing and resources.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-05-23-draft-minutes.txt)
+
+## 2024-05-23 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting included a report from the Special Education Parent Advisory Council (SEPAC), presented by Anna Waldman and Kennedy Leavens, which detailed the group's mission and priorities, including addressing bussing, parent education, and communication between parents and schools. Michele Palermo provided public comment in support of a colleague whose position was reduced, highlighting concerns about the district's staffing levels and the need for additional support in the upcoming school year. The board discussed personnel changes, including resignations of special education teachers and a new hire, and engaged in discussions about the district's budget status, which now reflects a shortfall of $125,000, raising concerns about potential impacts on staffing and services.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-05-23-minutes.txt)
+
+## 2024-05-14 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 held a board meeting on May 14, 2024, where significant discussions centered on the 2024-25 Budget Reduction Plan due to ongoing budgetary challenges. Superintendent Dr. Slade McSheehy emphasized the need for the district to explore alternative funding sources and highlighted a shortfall in Title I funding. The board members discussed various options for staffing reductions, ultimately adopting Option 2, which aimed to maintain certain positions, including a PBIS Specialist, with the intention of restoration as future funding allows. Community members voiced support for retaining key positions and expressed concerns about the impact of budget cuts on paraeducators and other staff. The meeting reflected a strong community engagement as stakeholders actively participated in discussions regarding the budget and staffing challenges, illustrating the ongoing teacher and staff shortages faced by the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-05-14-draft-minutes.txt)
+
+## 2024-05-14 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District (VISD) board meeting addressed significant budgetary challenges and staffing reductions, particularly impacting teacher and support staff positions. The board approved Option 2 of the VISD 2024-25 Budget Reduction Plan, which aims to restore certain positions, including the Tier II classified PBIS Specialist, following a community fundraising effort that raised $77,000. Board members expressed concerns about the continuity of teaching and support staff, emphasizing the importance of maintaining quality education for students. The discussions highlighted the urgency of addressing teacher-staff shortages and the need for strategic funding solutions beyond traditional tax and state funding sources. Community engagement was evident, with public comments supporting various staff positions and advocating for paraeducators. The meeting also noted the implications of the budget on the district's ability to provide adequate resources and support for students and staff.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-05-14-minutes.txt)
+
 ## 2024-05-02 - CHIMACUM_SCHOOL_DISTRICT (Minutes)
 
 The special joint board meeting held on May 2, 2024, for the Port Townsend School District No. 50 and Chimacum School District No. 49 focused on several key reports and potential policy changes. The Transportation Director, Monica Mulligan, proposed a change to the bell schedule for Port Townsend schools for the 2025-26 school year, aiming to improve efficiency in student transportation and reduce ride times for younger students. This proposal, which includes reversing the order of afternoon pick-ups, was discussed in light of ongoing staff shortages in the transportation department, highlighting recruitment challenges for bus drivers. 
@@ -90,11 +128,51 @@ Additionally, the Athletic Director, Shelby Box, presented the Title IX/Athletic
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/jefferson/school_boards/chimacum_school_district/2024/2024-05-02-minutes.txt)
 
-## 2024-01-24 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
+## 2024-04-25 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-This document outlines the agenda for a Human Growth and
+The Vashon Island School District No. 402 held a board meeting on April 25, 2024, where significant discussions centered around the proposed staff and program reductions for the 2024-2025 school year. Public comments were made by numerous community members expressing concerns about the impact of these reductions, emphasizing the importance of staff support for students. Superintendent Dr. Slade McSheehy presented a revised Budget Reduction Plan, which included a timeline for budgetary decisions and highlighted the need for further analysis of district staffing levels. The board also reviewed the Equity Policy 3212, which focuses on racial equity and outlines objectives for improvement, indicating the district's commitment to addressing these issues while navigating budgetary constraints. Additionally, the meeting included personnel recommendations and financial reports, indicating ongoing challenges related to teacher and staff shortages. The board's decision to approve international travel for a Costa Rica exchange program was also noted, reflecting continued engagement in educational opportunities despite budgetary challenges.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-01-24-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-04-25-draft-minutes.txt)
+
+## 2024-04-25 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting included significant discussions around proposed staff and program reductions for the 2024-2025 school year, which have raised concerns among community members and students regarding their potential impact on student health and support systems. Public comments were made by numerous individuals, highlighting the importance of maintaining staff who provide essential support to students. The Superintendent, Dr. Slade McSheehy, acknowledged these comments and indicated the need for further dialogue regarding budget reduction plans and potential funding sources. 
+
+Additionally, a report on the Equity Policy 3212 was presented by Dr. McSheehy and Dr. Stephanie Spencer, which focused on racial equity and included a bi-annual review of policy objectives and areas for improvement. The board directed Dr. McSheehy to conduct a review of the VISD athletic program as part of the budget reduction process. The meeting concluded with a recommendation for the approval of the International Travel - 2024-2025 Costa Rica Exchange, which was passed unanimously.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-04-25-minutes.txt)
+
+## 2024-04-22 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
+
+The La Conner School Board held its regular meeting on April 22, 2024, where several key actions were taken, including the approval of a $700 cash donation from the Soroptimist for Math Night and the adoption of the 2023-2024 Highly Capable Annual Plan, which supports over 30 students in advanced programs. The board also addressed staff reductions due to declining enrollment by adopting Resolution No. 24-05, which implements a Reduction in Force (RIF) affecting elementary staff. Superintendent Will Nelson expressed hope for the affected teachers' return to the district. Additionally, the board adopted the 2024-26 District Calendar, which included the removal of Native American Day and the addition of an optional snow day, reflecting community feedback and a desire for more instructional days. The meeting included discussions on the new math curriculum, highlighting its positive impact on student engagement and real-world applications.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-04-22-minutes.txt)
+
+## 2024-04-18 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 held a board meeting on April 18, 2024, where significant discussions centered around budget reductions and staff changes for the 2024-25 school year. The board reviewed the VISD 2024-25 Budget Reduction Plan, which included potential reductions of certificated and classified staff, as outlined in Exhibit A. Superintendent Dr. Slade McSheehy emphasized the historical impacts of program reductions and the importance of community engagement in the decision-making process. Additionally, the board approved Policy 5005, which pertains to employment and volunteer disclosures, reflecting updated language regarding certification requirements. 
+
+There was also a second reading and approval of an addendum to Dr. Slade McSheehy's contract, which maintained a flat salary for the upcoming year, removing a previously proposed 4.7% increase while keeping a 6% retirement annuity. Public comments from VEA Co-Presidents highlighted concerns regarding the effects of proposed staff reductions on both staff and students, signaling ongoing discussions about the implications of these changes within the community.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-04-18-draft-minutes.txt)
+
+## 2024-04-18 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District (VISD) board meeting included significant discussions on the 2024-25 budget reduction plan, with a focus on proposed staff reductions and their implications for both staff and students. Superintendent Dr. Slade McSheehy presented the process for determining enrollment projections and historical impacts of program reductions, highlighting the need for sustainable funding. The board also discussed an updated Addendum to Dr. McSheehy’s contract, which will maintain a flat salary for 2024-25 while keeping a 3% retirement annuity. Additionally, the board addressed the International Student Trips policy, specifically the Costa Rica Exchange program, emphasizing its benefits for student development and cultural exchange. Public comments reflected concerns over the proposed staff reductions and their effects on the community, with multiple speakers urging careful consideration of the decision-making process.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-04-18-minutes.txt)
+
+## 2024-04-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a special meeting at Naval Avenue Elementary School on April 15, 2024. A significant focus was on school safety, with discussions surrounding traffic issues near the school and the need for measures such as flashing lights and speed bumps. Parents expressed concerns about the lack of a parent-teacher organization and the need for more community engagement. Principal Kimberly Powell reported challenges in staffing, particularly with special education paraprofessionals, which has led to disruptions in scheduling and coverage. The board also addressed parental feedback regarding curriculum, specifically the desire for updated materials that align with essential standards in reading and math, and the need for more resources in the school garden initiative.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-04-15-minutes.txt)
+
+## 2024-02-12 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
+
+The La Conner School Board of Directors held a special study meeting on February 12, 2024, where they discussed various topics, including site visits to math classrooms and personnel actions. The board approved travel requests for staff to attend the Innovative Schools Summit in New York, highlighting the need for community engagement and input regarding the football program, especially after WIAA denied the petition for an 8-person football team. The board is considering options for the football program, including eliminating it or combining with another school due to declining enrollment and participation. Additionally, the board reviewed School Improvement Plans (SIPs) and noted a 6% increase in graduation rates, emphasizing the importance of addressing teacher-staff shortages and improving academic standards. Policies under consideration included several regarding board operations and governance, with a first reading of multiple new policies scheduled for adoption at the upcoming meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-02-12-minutes.txt)
 
 ## 2024-01-11 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -109,17 +187,19 @@ The school board discussed potential budget cuts due to the possible failure of 
 | [Erika Creydt](board_member_315.md) | supported proceeding with proposed reductions and passing of the EP&O levy | Ms. Porter closed her presentation by encouraging the board to proceed with the proposed reductions and to support passi...[truncated, use api for full text] |
 | [Erika Creydt](board_member_315.md) | commented on the importance of managing expectations of administrator performance in addition to teacher performance | Director Creydt commented on the importance of managing expectations of administrator performance in addition to teacher...[truncated, use api for full text] |
 
-## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+## 2024-01-11 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The December 13th school board meeting agenda covers a range of topics relevant to the daily operations and future planning of the school district.  The Transportation Director will present a report on the department, followed by a presentation from the Facilities Task Force Committee regarding their recommendations. The board will conduct a second review and approval of the Youth Care Services Contract.  Dr. James Everett, Superintendent, will deliver a report on district activities. The agenda also includes time for information sharing from student board representatives and board directors, as well as the formal adjournment of the meeting. Notably, the agenda reflects potential concerns about teacher staffing shortages.
+The Bainbridge Island School District No. 303 held its regular school board meeting on January 11, 2024, where several key actions and discussions took place. The board moved to adjust the agenda, placing the Sustainability Action Committee presentation after the Superintendent's Report. Among the actions taken, the board approved the deletion of Policy 5015, which addressed the Prohibition of Harassment, Intimidation, and Bullying. The board also unanimously approved Resolution 06-23-24, which pertains to a contract to provide services to BISD students, indicating a commitment to enhance student support. Additionally, the board discussed recruitment and retention strategies, highlighting ongoing concerns regarding teacher and staff shortages. Public comments were made by various community members, emphasizing community engagement in district matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-01-11-draft-minutes.txt)
 
-## 2023-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+## 2024-01-11 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The document outlines a series of personal services contracts proposed for approval by the Bellingham School District Board.  These contracts cover a range of support services including Title I literacy interventions, human resources assistance, payroll support for new hire benefits enrollment, and orientation and mobility services for students. The contracts specify service durations and are accompanied by individual PDF attachments detailing the terms of each agreement. Notably, the document highlights a potential teacher-staff shortage as evidenced by the need for temporary HR support "as needed during the 2023-24 school year."  The board is also addressing special education needs through contracts with Lisa Blas and Christina Tan to provide Title I Literacy Interventions at Assumption Catholic School and Bellingham Christian School (BCS) respectively.  Andrea Yake's contract focuses on providing Orientation and Mobility services for BSD students, indicating a commitment to supporting students with visual impairments.
+The Bainbridge Island School District No. 303 held a regular school board meeting on January 11, 2024, where several key actions and reports were discussed. Notably, the board approved the deletion of Policy 5015, which addressed the prohibition of harassment, intimidation, and bullying. This change may reflect a shift in the district's approach to these issues, although the reasoning behind this deletion was not explicitly stated in the meeting. Additionally, the board approved Resolution 06-23-24, which pertains to a contract to provide services to BISD students, indicating ongoing efforts to enhance student support.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-09-14-agenda.txt)
+The meeting also included discussions on recruitment and retention strategies, highlighting concerns about teacher and staff shortages, a significant issue facing many districts. Community engagement was emphasized during public comment, with numerous community members voicing their perspectives, showcasing the involvement of stakeholders in district matters. The board's unanimous votes on several actions indicate a collaborative approach to governance and decision-making within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-01-11-minutes.txt)
 
 ## 2023-09-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -160,14 +240,6 @@ Presentations focused on bus safety and the Highly Capable Learning program. The
 The district also faces teacher and staff shortages, which was mentioned during the meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
-
-## 2022-09-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on September 7th, 2022.  The meeting covered a range of topics including the approval of a consent agenda containing items such as accounts payable, personnel reports, and agreements with organizations like BTC Running Start and ECC College in High School. The Board also received reports on school data and staffing for the 2022-23 academic year. Several policies and procedures underwent second readings and were subsequently approved. These included Policy and Procedure 1400: Meeting Conduct, Order of Business, and Quorum; Policy and Procedure 1410: Executive or Closed Sessions; and Policy and Procedure 1420: Proposed Agenda and Consent Agenda. A first reading was conducted for Policy and Procedure 4210: Meeting Conduct, Order of Business, and Quorum and Policy and Procedure 6112: Executive or Closed Sessions. The Superintendent provided updates on back-to-school procedures, COVID-related matters, maintenance and facilities projects, NCTA updates, and Proposition 5.  The meeting concluded with the scheduling of the next regular board meeting for September 21st.
-
-The text also mentions teacher-staff shortages.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-07-minutes.txt)
 
 ## 2022-06-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

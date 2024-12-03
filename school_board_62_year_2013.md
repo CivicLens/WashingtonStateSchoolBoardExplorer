@@ -1,11 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2013
 
-## 2013-12-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The text provided consists solely of the Unicode character form feed (\x0c) repeated eight times. This suggests a possible attempt to insert a hidden or non-printable message within a document. Without further context, it is impossible to determine the content or intent of this hidden message.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-12-12-minutes.txt)
-
 ## 2013-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This transcript details a school board meeting focused on family engagement and addressing parent concerns.  Several parents expressed challenges related to language barriers and cultural differences impacting their ability to support their children's education. They requested increased translation services, translated materials, and home visits from volunteers to assist with homework. There were also requests for clearer communication regarding school policies, such as the bullying policy, and a desire for more accessible information about extracurricular activities and future planning resources like college preparation. The superintendent acknowledged these concerns and emphasized the district's commitment to family engagement and ensuring all families feel included.  

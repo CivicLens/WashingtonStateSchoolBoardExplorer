@@ -1,19 +1,5 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: social-emotional-learning
 
-## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board Meeting agenda focuses on several key areas. Firstly, it highlights the district's commitment to "Mental Health" with mentions of a Youth Mental Health First Aid course and a community viewing of the film "Screenagers," which addresses technology's impact on youth development.  Secondly, the agenda promotes "Social-Emotional Learning" through events like the Lynden Middle School Chess Club hosting a competition with local first responders. The meeting also touches upon "School Safety" by including an item on building leadership teams collaborating around Multi Tiered Systems of Support (MTSS) and Universal Design for Learning.
-
-Regarding "Academic Standards," the agenda includes a first reading of Policy 2415 - Performance-Based Pathway for High School Graduation, suggesting potential changes to graduation requirements.  Furthermore, the emphasis on "Curriculum Transparency" is evident in the inclusion of the policy's first reading, allowing for public review and feedback. Lastly, the agenda underscores "Community Engagement" by providing opportunities for audience members to address the board on both agenda and non-agenda items. The meeting also includes a workshop on Facilities Planning, indicating a focus on long-term district development.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-agenda.txt)
-
-## 2023-02-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda outlines standard operational topics.  The "Good News" section highlights teacher and staff achievements, including professional development focused on "Every Student. Every Day," a theme emphasizing student learning through Social Emotional Learning Standards. A Freshman Blitz program aimed at supporting 9th graders' successful completion of their first semester is also celebrated. The agenda includes standard items like meeting minutes, consent agenda approvals (AP Payroll and Personnel Recommendations), reports from the Superintendent, Teaching and Learning, and Finance and Operations departments.  "Information from the Audience" establishes procedures for public comment during the meeting.  The board will hold a workshop on "Facilities Planning," and an action item concerns Interlocal Agreements for specialized teachers for visually impaired and deaf/hard-of-hearing students. A first reading of Policy 1250, "Students on Governing Boards," is also scheduled.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-agenda.txt)
-
 ## 2022-07-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail the recognition of Tim Metz, Executive Director of Special Programs, as the Lynden/Ferndale Masonic Lodge Educator of the Year. Metz was lauded for his work in facilitating a return to in-person learning and overseeing Social Emotional Learning (SEL) programs focused on student wellness and creating a culturally responsive environment. The Board also received a budget report for the 2022-2023 school year from Ben Thomas, Director of Finance and Operations.  The report covered WA State funding history, enrollment projections, revenue and expenditure forecasts, and fund balances. The Board intends to approve the budget at a future meeting.
@@ -47,12 +33,6 @@ The meeting also addressed long-term strategic planning for the district, specif
 Finally, the personnel recommendations section detailed new hires, changes in assignments, leaves of absence, resignations, and retirements for both certificated and classified staff. Notably, there was a focus on special education support with Tim Metz discussing challenges related to preschool funding and special education needs growth within Early Learning programs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
-
-## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a work session on October 26, 2017, at Lynden High School.  The agenda included standard items like meeting minutes and a consent agenda for personnel actions. Notably, the board dedicated time to discussing "District Long Range Planning" and "Social Emotional Learning" as part of their work session. This suggests a focus on developing long-term educational strategies and incorporating social-emotional learning into the curriculum.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-agenda.txt)
 
 ## 2017-03-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

@@ -1,38 +1,14 @@
 # Meeting Summaries for TAHOMA_SCHOOL_DISTRICT with Tag: community-engagement
 
-## 2024-11-16 - TAHOMA_SCHOOL_DISTRICT (Agenda)
+## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Minutes)
 
-The Tahoma School District Board of Directors has scheduled a work study session for Saturday, November 16, 2024, at 8:00 a.m.  The meeting will be held at the Central Services Center and a virtual option will be available via Zoom. The agenda includes an opening with a call to order, attendance, and the Pledge of Allegiance. The primary focus of the session is a training and team-building exercise led by Kristine McDuffy from Hazard, Young, Attea & Associates.  The training aims to develop the Board and Superintendent's skills and foster collaboration. The meeting concludes with an adjournment.
+The Tahoma School District No. 409 held a work study session on August 27, 2024, where President Michael Wiggins called the meeting to order at 4:02 p.m. Board Directors, including Vice President Pete Miller, Director Ric Lewis, and Director Jennifer McMaster, were present, while Director Matt Carreon was absent. A significant topic of discussion led by Superintendent Callison was the proposal to form a committee aimed at exploring solutions to student housing challenges. This committee would also review other facility needs for both the short and long term, highlighting the district's focus on long-term strategic planning and community engagement in addressing these challenges. The meeting concluded at 4:57 p.m., and the minutes were approved on September 24, 2024.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-11-16-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-meetingwsfinal-minutes.txt)
 
-## 2024-11-12 - TAHOMA_SCHOOL_DISTRICT (Agenda)
+## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Minutes)
 
-The Tahoma School District Board is holding a work study session on November 12, 2024, to discuss elementary school improvement plans.  The meeting will be held at the Central Services Center with a virtual option available via Zoom. Plans for Tahoma Elementary, Glacier Park Elementary, and Rock Creek Elementary will be presented to the board. Accompanying documents include detailed School Improvement Plans for each institution as well as a consolidated slide deck outlining key points across all three schools.  The session aims to foster community engagement by providing transparency into the district's academic standards and improvement strategies for its elementary schools.
+The Tahoma School District No. 409 held a regular board meeting on August 27, 2024, where several key actions and reports were presented. The board approved the ThoughtExchange Community Engagement Platform, aimed at enhancing community engagement in district matters. Additionally, there were first readings for two policy revisions: Policy 3207, which addresses the prohibition of harassment, intimidation, and bullying, and Policy 5010, concerning nondiscrimination and affirmative action. These revisions are part of the district's ongoing efforts to promote a safe and inclusive environment for all students. The meeting also included reports on student events and administrative updates, emphasizing the district's commitment to staff support and preparation for the upcoming school year.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-11-12-agenda.txt)
-
-## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Agenda)
-
-The Tahoma School District Board meeting agenda outlines several topics for discussion and action.  One item is the first reading of a revised Policy 3207 titled "Prohibition of Harassment, Intimidation or Bullying." Another item addresses the approval of a ThoughtExchange Community Engagement Platform. This platform will allow for community feedback on district matters. The board will also be reviewing the first reading of revisions to Policy 5010, "Nondiscrimination and Affirmative Action," with Director of Human Resources Scott Mitchell available to answer questions.
-
-The agenda also includes discussion regarding coach personnel reports and a Board Inquiry Tracking System (BITS).
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-agenda.txt)
-
-## 2024-06-04 - TAHOMA_SCHOOL_DISTRICT (Agenda)
-
-This agenda outlines a special meeting of the Main Governing Board on June 4th, 2024.  The meeting will be held at the Central Services Center in Maple Valley, WA with a virtual option available via Zoom. The agenda includes standard opening procedures like calling the meeting to order and recognizing attendees.  
-
-A "Discussion Item" is listed as "Annual Employee Retiree Recognition." This suggests recognition of retiring staff members will take place during the meeting. The agenda concludes with an adjournment. 
-
-The text also notes accommodations for individuals with disabilities who wish to participate in the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-06-04-agenda.txt)
-
-## 2024-03-19 - TAHOMA_SCHOOL_DISTRICT (Agenda)
-
-The text outlines the agenda for a work study session of the Main Governing Board on March 19, 2024.  The meeting will include standard opening procedures such as a call to order and the pledge of allegiance. A discussion item is scheduled regarding engagement with members of PTA/PTO. The agenda also notes that a video/audio recording of the meeting will be available afterwards. Individuals requiring modifications to participate are advised to contact the Superintendent's Office in advance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-19-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-meetingbmfinal-minutes.txt)
 

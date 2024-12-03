@@ -14,12 +14,6 @@ Key themes that emerged included the need for safe spaces like GSA, concerns abo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
 
-## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District will hold a special board meeting on May 26, 2021, at noon via Zoom to discuss and approve the Academic and Student Well-Being Recovery Plan. This plan, due to the Office of Superintendent of Public Instruction (OSPI) on June 1st, aims to address student needs and recovery from the impacts of COVID-19.  The plan will be available for public review and comment via email. The meeting agenda also includes consent items related to the approval of the Recovery Plan. The district emphasizes community engagement in the planning process, with opportunities for feedback and input.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-agenda.txt)
-
 ## 2021-04-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes discuss positive trends in 5-year graduation rates and decreasing dropout rates for various student subgroups including English Language Learners (ELL), students with Individualized Education Programs (IEP), students eligible for free or reduced lunch, and students of color.  The board acknowledges the progress made in closing the graduation gap for Hispanic/Latinx students and those from low-income backgrounds. They also highlight the increasing enrollment in dual credit courses among these subgroups.
@@ -47,14 +41,6 @@ The Board also highlights BSD's efforts in analyzing student data beyond traditi
 The school board meeting minutes detail discussions on student performance and disciplinary actions.  The board reviewed monitoring reports related to Ends 2.1 part 1 (Student Competence), acknowledging progress made in reducing suspensions and engaging with former students who did not complete high school. They also discussed the wording of "comparable high-performing districts" within the policy, potentially planning revisions for future meetings. The directors shared updates on their participation in various school events and conferences, including a linkage meeting with business community representatives and visits to Cordata Elementary School where they observed the implementation of Social/Emotional Learning programs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-07-minutes.txt)
-
-## 2017-03-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This excerpt details the Bellingham School District's adherence to the  Annual Program Participation (APP) reporting requirements for state-funded school facilities built after December 31, 1993. The report, attached as "2016-17 APP Data.pdf," assesses the condition of various schools in the district, including Birchwood Elementary School, Fairhaven, Kulshan, and Shuksan middle schools, and Bellingham and Squalicum high schools.  The document confirms that all facilities exceed OSPI Building Condition Standards.
-
-Additionally, the agenda mentions a discussion on "Board Assessment of Meeting" according to Governance Process Policy GP-4.1, suggesting a self-evaluation process for board performance. The school board also planned to enter an Executive Session to discuss real estate acquisition per RCW 42.30.110(1)(b), indicating a confidential deliberation on potential property purchases or leases.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-23-agenda.txt)
 
 ## 2016-03-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

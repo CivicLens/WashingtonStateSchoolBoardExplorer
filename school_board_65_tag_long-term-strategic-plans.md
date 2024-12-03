@@ -6,12 +6,6 @@ The Lynden School District #504 Board of Directors met on October 12, 2024, to d
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
 
-## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a special meeting on October 12, 2024, at the Inn at Lynden.  The agenda focused on strategic priorities and key performance indicators, with a specific emphasis on multilingual language proficiency growth. Additionally, the board discussed topics related to board development and effective governance, including the purpose and mission of the board and its operating principles. The meeting also included a session on capital facilities planning, outlining the district's long-range plan for facility improvements.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-agenda.txt)
-
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys. They also discussed the strategic planning process and timeline for updating the district's Strategic Plan and Priorities. Additionally, the board reviewed the results of a self-assessment conducted by WSSDA (Washington State School Directors' Association) and discussed ways to improve responsible governance and effective board leadership. Finally, the board discussed the process for developing board meeting agendas and reviewed relevant policies.
@@ -24,12 +18,6 @@ The Lynden School District Board of Directors met on April 13, 2024 to discuss v
 |--------------|--------------------|---------|
 | [Ken Owsley](board_member_327.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
-
-## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a retreat on April 13, 2024, to discuss several key topics.  The board will review their governance and development processes, analyze student outcome data through Key Performance Indicators (KPIs), and work on developing long-term strategic plans for the district. Additionally, they will address the process for developing future agendas and aim to foster stronger community engagement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-agenda.txt)
 
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -113,12 +101,6 @@ The Lynden School District Board of Directors held a special meeting retreat on 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-09-minutes.txt)
 
-## 2023-06-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a retreat to discuss board development and processes, review key district performance measures, and begin developing the 2025-2028 Strategic Plan.  The meeting will include a review of the Lynden School Board Director Handbook and analysis of board self-assessment results. The board will prioritize key district performance measures and discuss strategies for authentic community involvement in the strategic planning process.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-09-agenda.txt)
-
 ## 2023-05-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes from May 25, 2023, detail discussions on various topics.  The board reviewed and approved the consent agenda which included financial transactions and personnel recommendations. Reports were presented by counselors from Lynden Middle School and elementary schools outlining their services and student needs. The PTA also shared information about their activities during the school year. Superintendent VanderYacht provided updates on the 23/24 budget development and facilities planning.
@@ -167,12 +149,6 @@ The Lynden School District #504 Board of Directors held a special meeting on Oct
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-01-minutes.txt)
 
-## 2022-10-01 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School Board is holding a retreat on October 1st, 2022 at The Inn at Lynden.  The agenda focuses on reviewing the existing 2021-2024 Strategic Priorities and discussing improvements to Board Operations. This meeting suggests a focus on long-term planning and internal organizational efficiency for the school board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-01-agenda.txt)
-
 ## 2022-09-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board of Directors held a meeting on September 22, 2022, to discuss various topics related to school operations and community partnerships. A significant portion of the meeting was dedicated to discussing school safety, including traffic flow, parking, and pedestrian safety around Lynden High School.  The Superintendent expressed a desire to partner with the Lynden Police Department on these issues.
@@ -188,12 +164,6 @@ The Lynden School District held a school board meeting on June 23, 2022.  The me
 The meeting included reports from Finance and Operations Director Ben Thomas on the May budget and Food Service Director Narlene VanBeek who provided updates on service offerings during COVID-19, potential price changes for breakfast and lunch, equipment needs, and a recent OSPI program review. The meeting concluded with a board workshop focused on progress monitoring for the 2021-2024 Strategic Plan's second semester.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-6-23-minutes.txt)
-
-## 2022-06-23 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on standard operational items and long-term planning.  The agenda includes an Oath of Office for new board members, approval of meeting minutes and a consent agenda covering payroll and personnel actions. A key item is the "Comprehensive School Counseling Plan (CSCP)," though details about its content are not provided. The meeting also features reports on finance and operations, including a budget update, and a food service presentation. Finally, the agenda concludes with a board workshop dedicated to reviewing progress on the district's long-term strategic plan for the second semester.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-6-23-agenda.txt)
 
 ## 2022-06-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -223,12 +193,6 @@ The Lynden School Board held a retreat on November 12, 2018, at The Inn at Lynde
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-minutes.txt)
 
-## 2018-11-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a special meeting on November 12, 2018, at The Inn at Lynden Conference Room.  The agenda focused on the district's long-term strategic plans and included discussions on school board retreat topics such as strategic planning, district growth, and school board goals. The overarching aim of the district is to ensure that all students graduate college, career, and citizenship ready.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-agenda.txt)
-
 ## 2018-04-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District held a school board meeting on April 19, 2018, at Lynden High School Library.  The meeting began with routine items such as the call to order, pledge of allegiance and roll call.  Following this, there was no information presented from the audience. The board then adjourned into a work session focused on "Board Linkage." This activity, facilitated by Superintendent Jim Frey, aimed to engage both school district staff and board members in a discussion about the Lynden School District's successes, areas for improvement, and considerations for future growth.  The feedback gathered during this session was intended to inform the future direction of the district.
@@ -244,12 +208,6 @@ The meeting also addressed long-term strategic planning for the district, specif
 Finally, the personnel recommendations section detailed new hires, changes in assignments, leaves of absence, resignations, and retirements for both certificated and classified staff. Notably, there was a focus on special education support with Tim Metz discussing challenges related to preschool funding and special education needs growth within Early Learning programs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
-
-## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a work session on October 26, 2017, at Lynden High School.  The agenda included standard items like meeting minutes and a consent agenda for personnel actions. Notably, the board dedicated time to discussing "District Long Range Planning" and "Social Emotional Learning" as part of their work session. This suggests a focus on developing long-term educational strategies and incorporating social-emotional learning into the curriculum.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-agenda.txt)
 
 ## 2017-09-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

@@ -6,12 +6,6 @@ This document details the minutes from a school board meeting. The board reviewe
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-11-28-minutes.txt)
 
-## 2023-11-17 - FERNDALE_SCHOOL_DISTRICT (Agenda)
-
-The Ferndale School District No. 502 School Board is holding a special meeting on November 17, 2023, at the Hyatt Regency Bellevue as part of their attendance at the Washington State School Directors Association's Annual Conference.  The purpose of this notice is to inform the public that a quorum of board members will be present, either in-person or virtually, during the conference which takes place from November 16-18, 2023.  No specific agenda items or policy discussions are outlined in this notice.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-11-17-agenda.txt)
-
 ## 2023-10-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail a school board meeting where several routine matters were addressed via a consent agenda. These included approving agreements, minutes, policy revisions, and vouchers.  The board also approved Resolution 14-23, which concerns the attendance of directors-elect at the annual WSSDA conference. Additionally, the board received reports on legislative priorities, the monitoring report for Operational Expectations 7 (OE-7) regarding asset protection, and updates from individual board members about community events and challenges faced by the Bond Oversight Committee. The meeting concluded with an evaluation.

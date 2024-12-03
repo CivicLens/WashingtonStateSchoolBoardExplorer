@@ -96,12 +96,6 @@ The Bellingham School District Board of Directors held a special meeting on May 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-minutes.txt)
 
-## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District will hold a special board meeting on May 26, 2021, at noon via Zoom to discuss and approve the Academic and Student Well-Being Recovery Plan. This plan, due to the Office of Superintendent of Public Instruction (OSPI) on June 1st, aims to address student needs and recovery from the impacts of COVID-19.  The plan will be available for public review and comment via email. The meeting agenda also includes consent items related to the approval of the Recovery Plan. The district emphasizes community engagement in the planning process, with opportunities for feedback and input.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-agenda.txt)
-
 ## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This school board meeting summary focuses on the district's efforts to address equity and inclusion. The addition of a Director for Equity, Diversity and Inclusion (DEI) and a Mental Health Coordinator are highlighted as key steps.  The report also mentions increased engagement with families, particularly those historically less connected, through the expansion of the Family Engagement Team. The district acknowledges the impact of COVID-19 on student mental health and outlines initiatives to provide support. Concerns about applying an equity lens consistently across district initiatives and a need for more comprehensive support during crises are raised.
@@ -119,12 +113,6 @@ The Bellingham School District Board of Directors held a special meeting on Octo
 The school board meeting minutes detail a positive start to the school year despite challenges. Board members expressed appreciation for the superintendent and staff's efforts in navigating the ongoing COVID-19 pandemic.  Several members highlighted positive feedback from parents regarding the school year's commencement. The meeting also included a discussion on the importance of reaching out to families experiencing difficulties and ensuring the well-being of both students and staff during this time.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-09-16-minutes.txt)
-
-## 2020-09-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board is reviewing personal services contracts for two individuals. Mychel Cortese will provide evaluation and test administration assistance to the School Psychologist group in the preschool program from August 30, 2020 to January 29, 2021. Christina Tan will provide Title 1 Literacy Interventions for Bellingham Christian School from September 1, 2020 to June 11, 2021. The board will also review the updated GP-7.2, 2020-21 annual board agenda, with changes from the previous version highlighted. This review is for informational purposes only.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-09-16-agenda.txt)
 
 ## 2020-07-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -214,23 +202,11 @@ The Bellingham Public School Board met to discuss and approve several policy cha
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-02-27-minutes.txt)
 
-## 2018-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The text details a school board agenda for a meeting on December 5th, 2018.  Two contracts are proposed for approval: one for Daniel Hahn for .20 FTE School Psychologist Leave Replacement and two for Hadassah McGill as Pianist/rehearsal accompanist for Drama Productions and Choir Classes. The agenda also includes a discussion item regarding the monitoring of policy Ends 2.1, Part 1, focusing on student achievement and learning outcomes.  The Board will review a report and data set related to this policy.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-05-agenda.txt)
-
 ## 2018-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes highlight several key topics.  The board discussed positive feedback received from an ELL (English Language Learner) linkage meeting where families shared their experiences. There was also discussion regarding the potential expansion of resources from the AIMS (Access in the Mainstream Setting) program, designed to support students on the autism spectrum, to a wider group of students. The board members expressed appreciation for the Northern Heights school visit, particularly noting the school's jobs program, buddy bench initiative, and welcoming environment.  The minutes also indicate that Ms. Bashaw observed an eighth-grade student translating for their parents at the ELL linkage meeting and is exploring potential online English learning resources for families.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-11-07-minutes.txt)
-
-## 2018-06-06 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes several items related to personnel and policy.  The board will vote on approval of personal services contracts for individuals providing GLAD (Guided Language Acquisition Design) training and instruction as well as a drum line coach. Additionally, the board will discuss and vote on revisions to Ends 2.1, a policy concerning Student Competence. The specific changes proposed are not detailed in this excerpt but the agenda notes that the directors considered them at a previous meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-06-06-agenda.txt)
 
 ## 2018-03-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -283,12 +259,6 @@ The board addressed student motivation and incentivization, citing an example of
 Finally, the Running Start program was discussed, highlighting its benefits while clarifying that it doesn't automatically guarantee an associate's degree and may not be suitable for all students. The board emphasized the need for transparency regarding the program's structure and expectations.  The meeting concluded with a summary of key discussion points and a reminder of the district's commitment to data-driven decision-making, incorporating both quantitative and qualitative information.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-03-30-minutes.txt)
-
-## 2015-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board held a meeting focused on strengthening the connection between schools and healthcare practitioners.  The discussion centered around addressing challenges students face related to mental health, self-esteem, autism, and ADHD, and how these issues impact learning. Participants explored potential solutions like on-site clinics and highlighted the importance of community support for families in distress. The district aims to improve communication with medical providers and explore ways to better integrate healthcare services into the educational environment.  The meeting also touched upon The Bellingham Promise, a program designed to provide comprehensive support for students beyond academics, emphasizing the need for individualized interventions and a loving environment for every child.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-12-09-minutes.txt)
 
 ## 2015-09-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

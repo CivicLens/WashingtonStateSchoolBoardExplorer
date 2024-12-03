@@ -1,17 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: teacher-support
 
-## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The agenda focuses on approving personal services contracts for individuals providing specialized support to students. Nora Cohoe will provide speech language services for private school students on Individualized Education Programs (IEPs). Debbie Hecht-Reier will offer IEP and teaching support for special education staff. Mark Kelly will deliver additional instruction for 6th-grade beginning band students. These contracts highlight the district's commitment to  special education support and teacher support through external expertise. The agenda also includes an informational item regarding the revised GP-7.2, 2024-25 annual board agenda, which outlines the schedule of meetings and topics for the upcoming school year.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-agenda.txt)
-
-## 2024-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The agenda includes two action items related to personal services contracts. Laura Brown will develop, review, and update service plans for private school students from August 29, 2024, through June 27, 2025. Stefanie Weis will assist payroll with new hire benefit enrollments from September 24, 2024, through August 2025.  The agenda also includes an informational item regarding the updated GP-7.2, 2024-25 annual board agenda, which highlights changes from the previous version.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-09-12-agenda.txt)
-
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This excerpt from school board meeting minutes focuses on a report regarding student academic performance and the district's efforts to address learning loss stemming from the COVID-19 pandemic. Board members commend the progress made in math and science, particularly in comparison to other districts. They acknowledge that while improvements are evident, further progress is needed to fully recover from the pandemic's impact on student learning. The discussion highlights the district's commitment to closing proficiency gaps and its ongoing efforts to support teachers through professional development and curriculum adoption.  There is a positive sentiment towards the district's focus on racial equity and addressing achievement disparities.
@@ -23,12 +11,6 @@ This excerpt from school board meeting minutes focuses on a report regarding stu
 This excerpt from a school board meeting focuses on student perspectives and experiences.  A former student shares positive memories of the Teacher Academy program, highlighting its collaborative nature and impact on personal growth. The student also discusses challenges faced due to allergies and the benefits of remote learning during the COVID pandemic. The meeting emphasizes student voice and its importance in shaping educational policies. Additionally, a current student pursuing Automotive Collision Repair Technology expresses appreciation for the Teacher Academy's influence on their life skills and patience development.  The school board members express gratitude for the students' insights and acknowledge the value of ongoing feedback.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-24-minutes.txt)
-
-## 2021-10-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board meeting agenda includes items related to approving personal services contracts for additional instruction and Title I support.  The board will also review the updated annual board agenda (GP-7.2) with highlighted changes. The consent agenda includes approval of personal service contracts for Mark Kelly, providing additional instruction for 6th-grade beginning band students, and Christina Tan, offering Title I support at Bellingham Christian School. The meeting agenda emphasizes transparency by making documentation available to the public in advance and allowing for individual items on the consent agenda to be moved to the regular agenda.  The board will also assess the meeting itself.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-10-13-agenda.txt)
 
 ## 2021-06-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -49,12 +31,6 @@ The Bellingham School Board held a regular meeting on March 22, 2020.  Discussio
 Board member Diaz Hackler raised concerns about the mental health impact of the pandemic on both students and families, suggesting the need for additional support resources during this stressful time. The superintendent shared positive feedback regarding the district's focus on equity in its meal distribution efforts.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-25-minutes.txt)
-
-## 2019-07-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The document outlines professional development activities undertaken by Bellingham School District teachers. Hope LaBrie and Roxann Rose participated in training on "Understanding by Design in the Culturally and Linguistically Diverse Classroom" led by Jay McTigue and Amy Heineke. This training aimed to refine teaching practices for English Language Learners. Additionally, John Lehni provided 1:1 tutoring services to incarcerated Bellingham School District students at the Whatcom County Juvenile Jail and to students between school placements during the 2019-20 school year. Linda Pollino was involved in refurbishing elementary science kits from September 1, 2019, to August 30, 2020.  Natalie Reilly's participation as a bass player in the musical "9 to 5" is also noted. The document does not mention any specific policies or policy changes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-10-agenda.txt)
 
 ## 2019-06-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -81,12 +57,6 @@ The text focuses on the need for improved consistency and support for arts educa
 The document outlines approved changes to Item 2 of the EL-4 policy. These changes mandate that the Superintendent ensure all staff are qualified and effective and provide appropriate training for all employee classifications. Additionally, the Superintendent must maintain salary schedules comparing district salary and benefits to those of comparable districts and establish a system for evaluating employees, providing written improvement plans, and monitoring progress. The document also includes informational items from a school board meeting, including reports on student support initiatives, attendance at a social media safety program, and updates on legislative actions related to higher education credits.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-09-minutes.txt)
-
-## 2017-02-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This document outlines consent and informational items for a February 15, 2017 school board meeting. Item 2.13 addresses EL-4, Staff Treatment, Compensation and Evaluation,  a policy monitored through reports submitted to the board. The meeting also includes informational items such as School Board Directors' Reports and Discussion of School Board Visits and Linkages.  Finally, closing items include a Board Assessment of Meeting and Adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-02-15-agenda.txt)
 
 ## 2016-06-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

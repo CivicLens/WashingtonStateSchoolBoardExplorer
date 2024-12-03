@@ -6,14 +6,6 @@ The Meridian School District #505 held its regular school board meeting on Septe
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
 
-## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School Board agenda outlines a regular meeting on September 11, 2024.  Dr. Everett will present donations for review and a Sunbelt Tele OT agreement for the board's consideration. Both items are scheduled for a second review and approval on September 25th. Dr. Everett will also deliver a report on district activities. The agenda includes time for information from student board representatives, board directors, and the official signing of documents before adjourning.  
-
-The meeting minutes indicate that "Dr. Everett will present donations to the board for a first review" with attachments including donation details from the Mt. Baker Foundation and the Whatcom Community Foundation. A Sunbelt Tele OT agreement is also on the agenda for initial review, with supporting documentation detailing the terms of the agreement for occupational therapy services.  The Superintendent's Report will cover district activities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-agenda.txt)
-
 ## 2024-07-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 Board held a regular meeting on July 23, 2024. Several policy updates were discussed and voted on, including the second review and approval of Procedure 2161P - Special Education and Related Services for Eligible Students, Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force, and Procedure 2151P – Interscholastic Activities. The latter failed to pass with a vote of zero in favor, four opposed, and one abstention after a lengthy discussion.  A first review was conducted for Grant Applicant Authorization Resolution 09-24 which will be brought back for second review and approval at the August 7th meeting. Additionally, Director of Technology Joe O'Brien presented the 2024-25 Technology Plan of Work outlining technology staff, support tickets, completed projects from the previous year, major summer 2024 projects and scheduled projects for the 2024-25 school year. The Finance Report provided a budget update including status and projections, strategies to manage program shortfalls, and upcoming capital project financial updates. Superintendent Dr. Everett updated the Board on his recent involvement in conferences related to School Finance Funding and Legislative Advocacy.
@@ -71,22 +63,4 @@ The Meridian School District Board held a regular meeting on January 25, 2023.  
 Additionally, Aaron Jacoby, Director of Student Services, provided a Special Services report highlighting positive impacts from co-teaching classes at Meridian High School and inclusion efforts at the elementary level. A Culture and Climate report shared by student board representative Mirage DeNeal indicated that most students feel supported and safe but suggested improvements in teacher connections, acceptance, and communication.  The meeting concluded with the adjournment at 8:47 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-01-25-minutes.txt)
-
-## 2021-07-22 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Bellingham School Board is holding a special work session on July 22nd, 2021 to discuss the Washington State School Directors' Association (WSSDA) Evaluation Training.  The purpose of the meeting is for professional development and will focus on topics related to diversity and inclusion. The session will include a closing review and is expected to conclude around 8:00 p.m.   Specific details about the content of the WSSDA training are not provided in the text.  No mention is made of specific policies or changes related to special education support.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-07-22-agenda.txt)
-
-## 2021-07-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The agenda includes discussion of two interlocal agreements.  The first, the PT Services Interlocal Agreement, is being presented for a first reading and would extend the district's participation in this agreement for a third year. The second agreement, the Teacher of the Visually Impaired (TVI) Interlocal Agreement, is also being presented for a first reading and would continue the district's involvement in this agreement for a second year.  The agenda also includes a financial update from Daniel Yorton, Director of Business and Finance, and a Superintendent's Report from Dr. James Everett.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-07-21-agenda.txt)
-
-## 2020-10-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board meeting agenda includes a presentation and vote on the "Highly Capable Grant" which aims to support students with advanced academic abilities.  The board will also consider Resolution 08-20, authorizing the "Reduced Educational Support Program" for the 2020-2021 school year. This program likely outlines adjustments to educational services due to budget constraints or other factors. The meeting agenda also includes a finance update with enrollment reports and a superintendent's report covering various school matters.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-10-21-agenda.txt)
 

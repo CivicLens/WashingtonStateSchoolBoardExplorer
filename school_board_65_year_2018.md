@@ -12,12 +12,6 @@ The Lynden School Board held a retreat on November 12, 2018, at The Inn at Lynde
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-minutes.txt)
 
-## 2018-11-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a special meeting on November 12, 2018, at The Inn at Lynden Conference Room.  The agenda focused on the district's long-term strategic plans and included discussions on school board retreat topics such as strategic planning, district growth, and school board goals. The overarching aim of the district is to ensure that all students graduate college, career, and citizenship ready.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-agenda.txt)
-
 ## 2018-10-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 This document details personnel changes within a school district. It lists leaves of absence granted to employees, including Marilyn Weeks who is transitioning from a Noon Supervisor position to an Office Professional 1 role. The document also records resignations, including that of Douglas Mather, a Bus Driver.  Finally, the document notes several supplemental assignments for Extended Day Program staff at Fisher elementary school.

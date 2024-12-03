@@ -6,25 +6,11 @@ This document details the minutes from a school board meeting.  The board discus
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-12-12-minutes.txt)
 
-## 2023-12-12 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda and minutes for a school board meeting held on December 12, 2023.  The meeting included standard items such as board comments, future meeting scheduling, superintendent reports, and consent agenda items. The board also convened in executive session, though the specific purpose of this session is not detailed in the provided text. Notably, the document records a formal motion to adjourn the meeting, which passed unanimously.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-12-12-agenda.txt)
-
 ## 2023-11-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District board held a special meeting on November 16th to review and vote on the superintendent's annual performance evaluation.  The evaluation was deemed "more than satisfactory" leading to a motion to extend the superintendent's contract through June 30, 2027. This motion passed with a 4-1 vote. A separate motion authorized the board president and vice-president to negotiate contract parameters with the superintendent, with a final recommendation to be presented to the full board by May 28, 2024. This motion passed 4-0 with one abstention.  The meeting also included a reminder about the December 12th organizational meeting, which will feature an abbreviated agenda and include the Blaine School District Leadership Team.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-11-27-minutes.txt)
-
-## 2023-11-27 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda and minutes for a school board meeting on November 27, 2023.  The board discussed future meeting dates and potential agenda items, including oaths of office for newly elected directors, the election of officers, and a consent agenda. The meeting also included an executive session, the purpose of which was not specified in the provided text. Following the executive session, the board adjourned by formal motion. 
-
-Policy changes were noted as being a possibility for discussion during future meetings.  The document mentions that the Blaine School District Leadership Team has been invited to join the December meeting. The board also intends to solicit parental feedback on agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-11-27-agenda.txt)
 
 ## 2023-11-16 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -32,23 +18,11 @@ The Blaine School District No. 503 held a special board meeting on November 16, 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-11-16-minutes.txt)
 
-## 2023-11-16 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The Blaine School District Board of Directors will hold a special meeting on November 16, 2023, in Bellevue, Washington, during the annual WSSDA Conference. The purpose of the meeting is to review the performance of a public employee in executive session.  The board will convene at 5:30 p.m. and the executive session is anticipated to last until 7:30 p.m., with any extension announced publicly. Telephonic observation of the meeting's opening and adjournment will be available locally in the district's boardroom. The board emphasizes adherence to Policy 1410, which outlines permissible reasons for convening in executive session under state statute. No final action will be taken by the board during this meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-11-16-agenda.txt)
-
 ## 2023-10-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail the second reading and adoption of updates to policies 6020, 6114, and 6212.  The motion for adoption carried 4-0 with one abstention. The specific details regarding the content of these policy changes are not provided in the excerpt.  The board also discussed upcoming meetings, including a special meeting in executive session on November 16th to discuss the performance of a school employee. This closed session was expected to last approximately thirty minutes and no action would be taken by the board following the session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-10-23-minutes.txt)
-
-## 2023-10-23 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda and minutes for a regular school board meeting on October 23, 2023.  The board discusses scheduling future meetings, including a special executive session on November 16th to discuss unspecified matters. The next regular meeting is scheduled for November 27th and will likely include reports from school administrators, an enrollment and financial update, a report on the WSSDA conference, the Superintendent's report, and potential policy updates.  The board also formally adjourns the October 23rd meeting by motion.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-10-23-agenda.txt)
 
 ## 2023-09-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

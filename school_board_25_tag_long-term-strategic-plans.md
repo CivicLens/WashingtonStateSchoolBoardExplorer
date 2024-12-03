@@ -12,12 +12,6 @@ The Kent School District No. 415 Board of Directors convened a special meeting o
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-04-boardspecialmeeting-minutes.txt)
 
-## 2024-08-28 - KENT_SCHOOL_DISTRICT (Minutes)
-
-The special meeting of the Board of Directors for Kent School District No. 415, held on August 28, 2024, focused on discussing the 2024-2025 Calendar and Agenda. The meeting, which lasted approximately 60 minutes, was called to order by President Meghin Margel, with all directors present either in person or virtually. The agenda did not indicate any specific policy changes or resolutions being discussed, but it was centered around planning for the upcoming school year. The meeting concluded with President Margel adjourning at 6:00 p.m., and the minutes were formally recorded by Board Secretary Israel Vela.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-08-28-boardspecialmeeting-minutes.txt)
-
 ## 2024-06-26 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on June 26, 2024, focusing on work session #3 of 4 regarding the 2024-2025 Budget and discussions surrounding the 2024 Capital Projects and Technology Replacement Levy. The meeting was called to order by President Meghin Margel at 4:30 p.m. and included a roll call where Vice President Farah was noted as absent/excused. The meeting concluded at 6:00 p.m. with no specific policy changes or resolutions mentioned during this session, but the discussions were part of the district's long-term strategic planning efforts to address budgetary needs and capital projects. The presence of the Board Secretary and Superintendent Vela indicates an emphasis on community engagement in the decision-making process.

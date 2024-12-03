@@ -10,9 +10,3 @@ Public comments included expressions of concern regarding future school board de
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-09-minutes.txt)
 
-## 2024-03-14 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda includes a first reading for MB Policy 5280 Separation from Employment. The recommended action is to approve the policy.  There are no reports from the Director of Finance and the Superintendent's report will be given during the meeting. The agenda also includes time for general Board Discussion and lists upcoming Regular School Board Meetings scheduled for March 28, April 11, April 25, and May 9, all at 6:00 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-14-agenda.txt)
-

@@ -84,14 +84,6 @@ The meeting also included a study session on Social Emotional Learning and the M
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-05-09-minutes.txt)
 
-## 2018-05-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board meeting agenda for May 9, 2018, includes a discussion on the superintendent's compliance with policy EL-8 regarding the District Calendar.  The board will determine if any revisions to the policy are necessary. Additionally, the meeting features a study session focused on Social and Emotional Learning.
-
-Several informational items are also on the agenda, including reports from school board directors, discussions about recent community linkage meetings and school board visits, and a review of the updated GP-7.2, 2017-18 annual board agenda. The meeting concludes with a board assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-05-09-agenda.txt)
-
 ## 2018-02-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail discussions on student performance and disciplinary actions.  The board reviewed monitoring reports related to Ends 2.1 part 1 (Student Competence), acknowledging progress made in reducing suspensions and engaging with former students who did not complete high school. They also discussed the wording of "comparable high-performing districts" within the policy, potentially planning revisions for future meetings. The directors shared updates on their participation in various school events and conferences, including a linkage meeting with business community representatives and visits to Cordata Elementary School where they observed the implementation of Social/Emotional Learning programs.
@@ -110,12 +102,6 @@ On January 9, 2018, the Bellingham School District Board of Directors held a mee
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-01-09-minutes.txt)
 
-## 2017-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors visited Columbia Elementary School on December 5, 2017. The meeting focused on discussing the school's outcomes and their connection to the Bellingham Promise.  The board also learned about the work of the Columbia Parent Association in supporting equity and inclusion. Additionally, they observed classroom practices aimed at fostering the social and emotional development of students. No specific policies were mentioned or discussed during the visit.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-minutes.txt)
-
 ## 2017-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Carl Cozier Elementary School on November 7, 2017.  The purpose of the visit was to observe how the school utilizes lunch and recess periods to support social-emotional learning.  The board also learned about the implementation of resources from the Elementary Technology Pilot program, which are being used to enhance inquiry-based learning and family engagement. The meeting concluded at 8:30 a.m.
@@ -129,12 +115,6 @@ The Bellingham School District Board of Directors met on May 25, 2017 to discuss
 The board also reviewed proposed revisions and consolidations to several policies: GP-3 (Board Job Description), GP-3.1 (The Board President), and GP-3.2 (Board Committees). These revisions aimed to streamline and clarify the roles and responsibilities within the school board structure. Additionally, the meeting included discussions on school board visits and linkages, with a mention of a community linkage meeting with the LGTQA+ community on May 17, 2017. Finally, the board announced two upcoming fundraisers supporting the Bellingham Public Schools Foundation.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-05-25-minutes.txt)
-
-## 2016-11-03 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda outlines a regular meeting and study session scheduled for November 3, 2016.  The agenda includes a discussion on Social/Emotional Learning as part of the study session. Additionally, the board will review monitoring reports related to Superintendent expectations (EL-1) and communication with the board (EL-5). These reviews aim to determine if the Superintendent is in compliance with existing policies. The meeting also features informational items such as directors' reports and discussions on school board visits and linkages. Finally, the agenda concludes with a board assessment of the meeting and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-11-03-agenda.txt)
 
 ## 2016-10-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

@@ -80,23 +80,11 @@ The discussion also touched upon academic standards and curriculum transparency,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-03-20-minutes.txt)
 
-## 2017-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The school board minutes detail a regular meeting on December 6, 2017. Two resolutions were unanimously approved: Resolution 32-17 and Resolution 33-17, relating to the sale of real estate parcel 380316504243.  The meeting also included informational items from school board directors regarding their attendance at the WSSDA Annual Conference. Ms. Diaz Hackler discussed a potential presentation on the district's 4x8 schedule and requested a discussion on Boards of Distinction be added to a future retreat agenda. Other updates included Ms. Peterson addressing parental questions about course selection under the new 4x8 schedule and Ms. Bashaw sharing insights from her visit with Squalicum High School GRADS students. The meeting concluded with an assessment by Ms. Diaz Hackler and an adjournment time of 6:47 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-06-minutes.txt)
-
 ## 2017-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a special meeting on August 16, 2017, at Happy Valley Elementary School.  The board discussed several topics, including the creation of a committee to further develop the "Bellingham Promise" vision. They also reviewed the draft annual board calendar for the 2017-18 school year and discussed utilizing the WSSDA Board Self-Assessment Model. Additionally, the board considered its role in initiating school bonds under the policy governance model and planned to revise the board handbook at a future meeting. Other discussion items included board adoptions of schools, responsibilities related to the WSSDA Legislative Representative position, and an update from Superintendent Baker on the 2017-18 budget, facilities, and labor negotiations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-16-minutes.txt)
-
-## 2017-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board held a special meeting on August 16, 2017, to discuss several informational items. These included reviewing the district's vision and the Bellingham Promise initiative, finalizing the annual board calendar for the 2017-18 school year, and discussing the Washington State School Directors' Association (WSSDA) self-assessment model. The board also planned to address the role of the board in policy governance related to school bonds, form a committee for the Board Handbook, and discuss other relevant items such as legislative representative roles and a preview of the 2017-18 school year.  The meeting did not include public comment time.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-16-agenda.txt)
 
 ## 2016-09-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

@@ -1,15 +1,5 @@
 # Meeting Summaries for Tag: student-data-privacy
 
-## 2024-10-22 - TAHOMA_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda outlines a variety of topics for discussion and action.  The board will review and potentially approve several policy revisions, including the retirement of Policy 5314 Tax Deferred Account/Compensation and the revision of Policies 2090 Program Evaluation), 6111 Tuition, and 6605 Student Safety Walking, Biking and Riding Buses to School. The agenda also includes a First Reading for revised policies relating to special education tuition (Policy 611 Meeting Minutes FINAL.pdf (148 KB)
-The board will review personnel reports for certificated, classified and Coach staff.
-
-
-There is a discussion item on the Board Inquiry Tracking System (BITS).  The agenda concludes with an Adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-10-22-agenda.txt)
-
 ## 2024-10-11 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Mercer Island School District Board of Directors held a special meeting on October 11, 2024, to discuss Board Policy 1800 OE-1 regarding personalized learning and instructional practices. Superintendent Fred Rundle introduced Dr. Ray Smith, who discussed high-impact teaching practices and the importance of collaboration among educators to improve student outcomes. The Board considered revising the policy language to focus more broadly on "learning" instead of just "personalized learning," emphasizing the need to define the "why," "how," and "what" of the policy. Metrics for measuring progress were also discussed. In the afternoon, the Board reviewed iReady Math, an adaptive assessment tool presented by representatives from Curriculum Associates. They explored its role in informing instruction and measuring student growth, highlighting the necessity of using multiple data sources for a comprehensive understanding of student learning. The discussions reflect the district's commitment to enhancing academic standards and transparency in curriculum and assessment practices.
@@ -32,23 +22,11 @@ The school board meeting minutes detail discussions regarding several key topics
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-05-28-minutes.txt)
 
-## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The Blaine School District held a special board meeting on April 29th, 2024 to consider Resolution 2324-08, titled "Adoption of 2024-2025 Reduced Educational Program." This resolution proposed a plan for reducing educational offerings in the district for the upcoming school year. The plan was developed by district leadership and incorporated feedback from campus and department administrators, staff surveys, presentations, and community meetings.  The board voted to adopt the resolution. A separate proposal submitted to the board by SEIU Local 925 Blaine School District Chapter Leadership was also included in the meeting materials. The meeting minutes indicate that all directors were present and that the vote to adopt the resolution was unanimous.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-29-agenda.txt)
-
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board reviewed a report on student outcomes, focusing on graduation rates and the impact of Career and Technical Education (CTE) programs.  The board expressed satisfaction with narrowing graduation gaps between Hispanic/Latinx and non-Hispanic/Latinx students, as well as low-income students. They also commended the growth of CTE programs for their ability to engage diverse student interests. However, concerns were raised about the widening gap in graduation rates for multilingual learners. The report highlighted income as a significant contributor to graduation rate disparities.  The board discussed the potential impact of COVID-19 on standardized test scores and expressed optimism for future improvement. They also acknowledged the district's commitment to addressing proficiency gaps and closing achievement disparities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
-
-## 2024-04-08 - CAMAS_SCHOOL_DISTRICT (Agenda)
-
-The School Board Workshop agenda for April 8th, 2024 includes discussions on various topics related to school operations and student well-being.  The workshop will address "Student Data Security Measures," outlining the protocols in place to protect sensitive student information. Additionally, a "District Safety Update" will be provided, likely covering security procedures, emergency preparedness, and any recent safety incidents or concerns. The board will also review input from the Student Advisory Committee regarding next year's school structures. Finally, the workshop agenda includes a discussion on "Logistics for the Month of April," which may encompass scheduling, staffing, and other operational details.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-08-agenda.txt)
 
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -62,12 +40,6 @@ This school board meeting minutes focuses on several issues related to governanc
 |--------------|--------------------|---------|
 | [Cliff Freeman](board_member_317.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
 | [Ben Lazarus](board_member_316.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-
-## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special meeting on March 18, 2024, where they discussed several key topics, including the development of a pool, the Portrait/Profile of Graduate, the implications of artificial intelligence in education, and the handling of data. The meeting commenced at 5:02 PM and concluded at 7:58 PM. Specific actions or resolutions regarding these topics were not detailed in the minutes, but the inclusion of artificial intelligence suggests a focus on integrating modern technology into the educational framework. The session was attended by board members and the superintendent, Mr. Michael Tolley, who also served as the secretary to the board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
 
 ## 2024-03-06 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -121,12 +93,6 @@ The Blaine School District Board meeting minutes detail discussions concerning s
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-05-22-minutes.txt)
 
-## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District will hold a special board meeting on May 26, 2021, at noon via Zoom to discuss and approve the Academic and Student Well-Being Recovery Plan. This plan, due to the Office of Superintendent of Public Instruction (OSPI) on June 1st, aims to address student needs and recovery from the impacts of COVID-19.  The plan will be available for public review and comment via email. The meeting agenda also includes consent items related to the approval of the Recovery Plan. The district emphasizes community engagement in the planning process, with opportunities for feedback and input.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-agenda.txt)
-
 ## 2021-04-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes discuss positive trends in 5-year graduation rates and decreasing dropout rates for various student subgroups including English Language Learners (ELL), students with Individualized Education Programs (IEP), students eligible for free or reduced lunch, and students of color.  The board acknowledges the progress made in closing the graduation gap for Hispanic/Latinx students and those from low-income backgrounds. They also highlight the increasing enrollment in dual credit courses among these subgroups.
@@ -154,14 +120,6 @@ The Board also highlights BSD's efforts in analyzing student data beyond traditi
 The school board meeting minutes detail discussions on student performance and disciplinary actions.  The board reviewed monitoring reports related to Ends 2.1 part 1 (Student Competence), acknowledging progress made in reducing suspensions and engaging with former students who did not complete high school. They also discussed the wording of "comparable high-performing districts" within the policy, potentially planning revisions for future meetings. The directors shared updates on their participation in various school events and conferences, including a linkage meeting with business community representatives and visits to Cordata Elementary School where they observed the implementation of Social/Emotional Learning programs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-07-minutes.txt)
-
-## 2017-03-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This excerpt details the Bellingham School District's adherence to the  Annual Program Participation (APP) reporting requirements for state-funded school facilities built after December 31, 1993. The report, attached as "2016-17 APP Data.pdf," assesses the condition of various schools in the district, including Birchwood Elementary School, Fairhaven, Kulshan, and Shuksan middle schools, and Bellingham and Squalicum high schools.  The document confirms that all facilities exceed OSPI Building Condition Standards.
-
-Additionally, the agenda mentions a discussion on "Board Assessment of Meeting" according to Governance Process Policy GP-4.1, suggesting a self-evaluation process for board performance. The school board also planned to enter an Executive Session to discuss real estate acquisition per RCW 42.30.110(1)(b), indicating a confidential deliberation on potential property purchases or leases.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-23-agenda.txt)
 
 ## 2016-03-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

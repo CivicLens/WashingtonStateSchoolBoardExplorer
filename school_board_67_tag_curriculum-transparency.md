@@ -6,20 +6,6 @@ The Mount Baker School District Board held a regular meeting on July 25, 2024.  
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
 
-## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The Mount Baker School Board held a virtual meeting on July 23, 2020, to discuss various school matters. Key topics included preparations for the upcoming school year amidst the COVID-19 pandemic.  The board approved a resolution (MB Resolu on 19/20:18) in support of the Nooksack River Floodplains that Work - Phase 2 project. They also approved several agreements, including an ESD 189 Science Materials Center Interlocal Cooperative Agreement and a Client Staffing Agreement.  
-
-The board discussed plans for high school graduation, which would be held as a drive-in style ceremony on August 7, 2020, to ensure social distancing. The meeting also included updates on the district's COVID-19 response, including a waiver application process and a reopening timeline. Additionally, the board approved several expenditures related to curriculum materials. They discussed transitioning to a new platform for managing school records and adopted a policy for transparent communication regarding curriculum changes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
-
-## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also included updates from the superintendent regarding COVID-19 planning, waiver updates, capital projects, and graduation plans. Discussions touched upon long-term strategic planning for the district.  The board scheduled future meetings, including regular sessions and work sessions.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
-
 ## 2024-03-28 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District Board held a regular meeting on March 28, 2024, discussing various topics including school safety, academic standards, and curriculum transparency.  The board approved several resolutions, including MB Board Resolution 23/24:16 which authorized the transfer of certain state forest land revenues from the Debt Service Fund to the Capital Projects Fund. Additionally, they adopted the 2024-2025 Reduced Educational Program through MB Board Resolution 23/24:17.

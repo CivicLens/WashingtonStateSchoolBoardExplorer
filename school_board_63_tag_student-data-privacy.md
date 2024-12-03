@@ -16,12 +16,6 @@ The school board meeting minutes detail discussions regarding several key topics
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-05-28-minutes.txt)
 
-## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The Blaine School District held a special board meeting on April 29th, 2024 to consider Resolution 2324-08, titled "Adoption of 2024-2025 Reduced Educational Program." This resolution proposed a plan for reducing educational offerings in the district for the upcoming school year. The plan was developed by district leadership and incorporated feedback from campus and department administrators, staff surveys, presentations, and community meetings.  The board voted to adopt the resolution. A separate proposal submitted to the board by SEIU Local 925 Blaine School District Chapter Leadership was also included in the meeting materials. The meeting minutes indicate that all directors were present and that the vote to adopt the resolution was unanimous.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-29-agenda.txt)
-
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 This school board meeting minutes focuses on several issues related to governance and conduct. Director Lazarus raised concerns about Director Creydt's behavior towards former CFO Amber Porter, alleging it breached board policy and aimed to discredit Dr. Granger and Ms. Porter. He also requested access to past disciplinary actions taken against staff by Dr. Granger to address complaints he received. The board president suggested this topic be discussed in an executive session.  Additionally, Director Lazarus proposed future discussions on cell phone policies for students and the state's mandate to record meetings.

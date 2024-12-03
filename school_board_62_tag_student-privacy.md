@@ -1,11 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: student-privacy
 
-## 2024-11-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Edmonds School District Board of Directors held a special meeting on November 20, 2021, at the Hyatt Regency Bellevue to discuss results from their recent self-assessment survey conducted by the Washington State School Directors Association (WSSDA).  This was not a regular school board meeting and did not include public comment. The purpose of the meeting was to review the findings of the WSSDA self-assessment survey and identify areas for improvement in board governance and practices. No specific policy changes were mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-12-agenda.txt)
-
 ## 2017-06-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The provided text consists solely of six form feed characters ("\x0c"). This sequence does not contain any information related to educational policies, student demographics, or school board activities. Therefore, the most appropriate tag is "student-privacy" as it indirectly relates to the potential for data privacy concerns when dealing with seemingly empty or obfuscated data.
@@ -49,10 +43,4 @@ The text provided consists solely of the Unicode character form feed ( \x0c ) re
 The provided text consists solely of the form feed character (\x0c) repeated multiple times. This suggests a potential attempt to insert hidden content or formatting into a document, possibly related to student privacy concerns.  Without further context, it is impossible to determine the specific nature of the privacy issue.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-01-16-minutes.txt)
-
-## 2013-12-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The text provided consists solely of the Unicode character form feed (\x0c) repeated eight times. This suggests a possible attempt to insert a hidden or non-printable message within a document. Without further context, it is impossible to determine the content or intent of this hidden message.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-12-12-minutes.txt)
 

@@ -86,12 +86,6 @@ The Lynden School District Board held a meeting on March 30, 2021, to discuss re
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-03-30-minutes.txt)
 
-## 2021-03-30 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on March 30th, 2021 at 7:00 PM to discuss in-person learning updates and the superintendent search process.  The meeting will be held both in-person at Lynden Middle School and via phone conference. The agenda includes a section for "Information from the Audience" where community members can address the school board for five minutes, either remotely or in person.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-3-30-agenda.txt)
-
 ## 2021-03-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 This document details personnel changes within a school district.  It lists new hires, changes in assignment, leaves of absence (both for medical reasons and maternity leave), and resignations/retirements/terminations for both certificated and classified personnel. Notably, there are several instances of paraeducators being placed on leave, highlighting potential staffing shortages. The document also mentions the need for special education support with the hiring of a Para Ed at LMS.

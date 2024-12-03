@@ -22,14 +22,6 @@ The Mount Baker School District Board held a meeting on August 8th, 2024, to dis
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-08-08-minutes.txt)
 
-## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The Mount Baker School Board held a virtual meeting on July 23, 2020, to discuss various school matters. Key topics included preparations for the upcoming school year amidst the COVID-19 pandemic.  The board approved a resolution (MB Resolu on 19/20:18) in support of the Nooksack River Floodplains that Work - Phase 2 project. They also approved several agreements, including an ESD 189 Science Materials Center Interlocal Cooperative Agreement and a Client Staffing Agreement.  
-
-The board discussed plans for high school graduation, which would be held as a drive-in style ceremony on August 7, 2020, to ensure social distancing. The meeting also included updates on the district's COVID-19 response, including a waiver application process and a reopening timeline. Additionally, the board approved several expenditures related to curriculum materials. They discussed transitioning to a new platform for managing school records and adopted a policy for transparent communication regarding curriculum changes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
-
 ## 2024-07-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District held a regular board meeting on July 11, 2024.  The meeting included standard agenda items such as approval of the agenda and minutes, consent agenda items including personnel actions and purchases, presentations on state forest timber sales and CTE & Perkins programs, information from the audience, and action items regarding the approval of the 2023-2028 CTE District Wide Plan and the 2023-2024 Carl Perkins Application. The board also discussed topics for a future retreat agenda.  Natalie Chavez shared concerns about the School Based Health Clinic during information from the audience.  The meeting concluded with an adjournment at 8:16 p.m. Notably, the minutes reflect a policy change in the form of an amendment to an existing interlocal agreement between ESD 112 and MBSD. The specific details of this amendment are not elaborated upon in the provided text.
@@ -90,12 +82,6 @@ The March 14, 2024 meeting of the school board focused on routine matters like a
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-14-minutes.txt)
 
-## 2024-03-14 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda includes a first reading for MB Policy 5280 Separation from Employment. The recommended action is to approve the policy.  There are no reports from the Director of Finance and the Superintendent's report will be given during the meeting. The agenda also includes time for general Board Discussion and lists upcoming Regular School Board Meetings scheduled for March 28, April 11, April 25, and May 9, all at 6:00 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-14-agenda.txt)
-
 ## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail a regular school board meeting held on February 22, 2024.  The board addressed various topics including student safety with the approval of MB Policy 6605 Student Safety Walking, Biking, and Riding Buses. Discussions also centered around academic standards, specifically the review and approval of MB Policy 5010 Nondiscrimination and Affirmative Action, and MB Policy 6020 Systems of Funds and Accounts.
@@ -104,23 +90,11 @@ The board emphasized curriculum transparency by approving a consent agenda that 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
 
-## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This agenda outlines a regular school board meeting scheduled for February 22, 2024, at 6:00 p.m. A significant portion of the meeting will be dedicated to an executive session covering various topics outlined in Washington state law (RCW). These topics include personnel issues, legal matters, acquisition of real estate, publicly bid contracts, and bargaining updates. The agenda also includes a procedural item for adjourning to the executive session and a closing item for adjournment.  The agenda indicates that the school board will be seeking parental feedback during this meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-agenda.txt)
-
 ## 2024-02-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The February 8, 2024 school board meeting addressed various topics related to student well-being and school operations.  The board approved several policy updates for first and final reading, including MB Policy 1400 Meeting Conduct, Order of Business, and Quorum; MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students); MB Policy 2190 Highly Capable Programs; MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students; MB Policy 3231 Student Records; and MB Policy 3520 Student Fees, Fines, or Charges. The board also discussed school safety measures, including the use of drug dogs on campus and upcoming visits to schools by the Superintendent. Additionally, they reviewed reports on athletic events and budget matters.  The meeting included updates on wrestling and basketball competitions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
-
-## 2024-02-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-The provided text details the agenda for a Regular School Board Meeting scheduled for February 8, 2024.  The agenda includes several items categorized under "Executive Session," which are closed to the public. These topics include Personnel Issues, Legal Issues, Acquisition of Real Estate, Publicly Bid Contracts, and Bargaining Updates. Notably, despite listing "Adjourn to Executive Session" as an item, the text explicitly states "11. Executive Session - None this meeting." The agenda concludes with a procedural "Adjournment" under "Closing Items."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-agenda.txt)
 
 ## 2024-01-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -132,39 +106,17 @@ The board discussed upcoming school visits and the February 13th levy date. They
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-25-minutes.txt)
 
-## 2024-01-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This agenda outlines topics for discussion at a regular school board meeting scheduled for January 25, 2024. The agenda includes several items categorized under "Executive Session - None this meeting," indicating that these matters will be discussed in an open session rather than a closed executive session.  The subjects listed are Personnel Issues, Legal Issues, Acquisition of Real Estate, Publicly Bid Contracts, and Bargaining Update. The final item under discussion is "Adjourn to Executive Session" which contradicts the earlier statement that there would be no executive session.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-25-agenda.txt)
-
 ## 2024-01-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District (MBSD) held a regular school board meeting on January 11, 2024.  The board approved several policies including MB Policy 4210 Regulation of Dangerous Weapons on School Premises and MB Policy 5161 Civility in the Workplace. They also conducted first readings for MB Policy 5254 Staff Expression and MB Policy 6815 Advertising on District Property. The board discussed an Interim Superintendent Contract and reviewed information from the Director of Finance.  The meeting included updates from the superintendent regarding a Secondary Campus Assistant Principal Position and time for Board Discussion on School Visits. Future meetings were scheduled, including a study session on January 19, 2024.  Parental feedback was solicited through the "Vote Yes" Committee event at North Fork Brewery.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-11-minutes.txt)
 
-## 2024-01-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda for a Regular School Board Meeting scheduled for January 11, 2024.  The agenda indicates that there will be no executive session during this meeting. Several topics are listed for discussion and information sharing, including personnel issues, legal matters, acquisition of real estate, publicly bid contracts, and bargaining updates. The final item on the agenda is adjournment.  
-
-The document also notes that the School Board Meeting takes place on the second and fourth Thursday of each month in the District Office unless otherwise noted.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-11-agenda.txt)
-
 ## 2024-01-04 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The School Board of [School District Name] held a special meeting on January 4th, 2024, to discuss and appoint an interim superintendent.  The board entered executive session to discuss personnel matters and the details of the interim superintendent contract. Following the executive session, the board unanimously voted to appoint Mr. Philip Brockman as the new Interim Superintendent. During the open session, the board interviewed Mr. Brockman, highlighting his prior superintendent experience in similar districts, his focus on budget optimization, and positive recommendations he received.  No other specific policies or resolutions were discussed or acted upon during this meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-04-minutes.txt)
-
-## 2024-01-04 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-The Mount Baker School District is holding a special school board meeting on January 4, 2024.  The agenda includes standard opening items such as the Pledge of Allegiance and approval of the agenda. There will be an executive session to discuss personnel issues and the details of an interim superintendent contract. Following the executive session, the board will consider appointing an interim superintendent. The meeting also includes a section for public comment, where community members can share their thoughts and concerns with the board. 
-
-The agenda indicates that the board is seeking feedback from parents and the community. This suggests that the board values transparency and collaboration in decision-making processes.  The meeting will be held at the District Office or remotely via video link.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-04-agenda.txt)
 
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -174,31 +126,11 @@ Policy discussions centered around MB Policy/Procedure 6100, which underwent its
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
 
-## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda and minutes for a Regular School Board Meeting held on December 10, 2020.  The meeting included an executive session to discuss personnel issues, legal issues, acquisition of real estate, publicly bid contracts, and bargaining updates. The topics discussed in the regular session are not detailed in this excerpt.
-
-The document also notes that school board meetings are held at 6:00 p.m. on the second Thursday and 8:30 a.m. on the fourth Thursday of each month in the District Office unless otherwise noted.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-agenda.txt)
-
 ## 2020-11-20 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The text details a special meeting of the School Board held on November 20, 2020.  The board approved MB Resolution 2021-5, which pertains to the Certification of 2021 Excess Property Taxes. This resolution was passed unanimously by the three present board members.  The meeting commenced at 4:32 p.m. and concluded at 4:38 p.m., taking place virtually via Zoom.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-20-minutes.txt)
-
-## 2020-11-20 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This agenda outlines a special meeting of the school board on November 20th, 2020. The meeting includes procedural items like a call to order and pledge of allegiance. Action items include approving a resolution titled "MB Resolution 2021-5 Certification of 2021 Excess Property Taxes".  The agenda also covers upcoming meeting schedules for regular meetings and work sessions. Notably, the agenda states that there will be no executive session during this meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-20-agenda.txt)
-
-## 2020-11-12 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda for a Regular School Board Meeting on November 12, 2020.  A significant portion of the meeting is dedicated to Executive Session, during which the board will discuss personnel issues, legal matters, acquisition of real estate, publicly bid contracts, and bargaining updates. The document also lists an "Adjourn to Executive Session" item categorized as procedural.  Finally, the agenda concludes with a procedural item for adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-12-agenda.txt)
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -210,47 +142,9 @@ Parents provided feedback on remote learning experiences during the "Good of the
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
 
-## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda for a Regular School Board Meeting on October 22, 2020.  The meeting includes an Executive Session to discuss personnel issues, legal matters, acquisition of real estate, publicly bid contracts, and bargaining updates. The specific details regarding these topics are not provided in the excerpt. Following the Executive Session, the agenda lists "Adjournment" as the final item under "Closing Items".
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-agenda.txt)
-
-## 2020-10-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda and minutes for a school board meeting held on October 8, 2020.  The meeting included an executive session to discuss personnel issues, legal issues, acquisition of real estate, publicly bid contracts, and bargaining updates. The specific details of these discussions are not provided in the text. The meeting concluded with an adjournment.  The document also includes a schedule for regular school board meetings held on the second and fourth Thursdays of each month at 6:00 p.m. and 8:30 a.m., respectively, unless otherwise noted.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-08-agenda.txt)
-
 ## 2020-09-24 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District held a regular meeting on September 24, 2020, via Zoom.  The board approved the minutes from March 26, 2020, and addressed several action items. These included Resolution 20/21:2 for the final acceptance of construction completion at MB Baker and a Sub Recipient Agreement between Whatcom County & Mount Baker School District. The meeting also featured reports from the Executive Director of Finance & Operations (Financial Report) and the Superintendent (Reopening Items), suggesting that discussions related to COVID-19 and school reopening procedures were likely part of the agenda. The board reviewed and approved a consent agenda containing personnel actions, purchases over $7,500, accounts payable for September 30th, 2020, and donations.  The next regular meeting was scheduled for October 22nd, 2020 at 8:30 AM via Zoom.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-24-minutes.txt)
-
-## 2020-09-24 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the agenda and minutes for a school board meeting held on September 24, 2020.  A significant portion of the meeting was dedicated to an executive session, during which the board discussed personnel issues, legal matters, acquisition of real estate, publicly bid contracts, and bargaining updates. These discussions were held in private, with no public content available. The agenda also included a procedural item for adjourning to the executive session and a closing item for adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-24-agenda.txt)
-
-## 2020-09-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-The text provides a detailed agenda for a Regular School Board Meeting scheduled for September 10, 2020.  The meeting includes an Executive Session to discuss several confidential topics, including personnel issues, legal matters, acquisition of real estate, publicly bid contracts, and bargaining updates. All discussions within the Executive Session are designated as "Discussion, Information". The agenda concludes with a procedural item for adjournment. There is no mention of any specific policies or policy changes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-10-agenda.txt)
-
-## 2020-08-27 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document outlines the schedule and agenda items for upcoming school board meetings. It includes regular meetings, a work session, and an executive session.  The executive session will cover personnel issues, legal issues, acquisition of real estate, publicly bid contracts, and bargaining updates. The document also mentions an adjournment to executive session and closing items like adjournment. 
-
-There are no specific policies mentioned or discussed in the agenda excerpt provided. However, the inclusion of an executive session for topics such as personnel issues and legal matters suggests potential discussions regarding school board governance and operational procedures.  The presence of "Bargaining Update" indicates ongoing negotiations with employee unions, likely concerning contracts and working conditions.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-08-27-agenda.txt)
-
-## 2020-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-This document details the agenda and minutes from a school board meeting held on July 23, 2020.  The meeting included an executive session to discuss personnel issues, legal matters, acquisition of real estate, publicly bid contracts, and bargaining updates. The executive session was adjourned and followed by closing items including the adjournment of the meeting itself. Specific details regarding these topics are not provided in the text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-07-23-agenda.txt)
 

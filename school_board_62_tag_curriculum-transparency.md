@@ -1,28 +1,10 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: curriculum-transparency
 
-## 2024-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham Public Schools Board of Directors held a study session on June 17, 2010, to review the preliminary budget for the 2010-2011 school year.  The meeting included reports from Superintendent Sherrie Brown, Executive Director of Human Resources Nora Klewiada, and Assistant Superintendent of Business and Operations Ron Cowan regarding the budget plan. The session aimed to provide transparency into the district's financial planning process and allow for questions from board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-07-agenda.txt)
-
-## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District is hosting an informational meeting for individuals interested in running for the school board.  The meeting will take place on Thursday, March 16, 2023, at 5:00 p.m. at Options High School. Topics covered will include an overview of the district's policy governance model and election basics. The meeting aims to inform potential candidates about the roles and responsibilities of school board members and provide guidance on the election process.  The fall election filing opportunity with the Whatcom County Auditor's Office is scheduled for May 15-19.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
-
 ## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham Public Schools board meeting minutes highlight the district's commendable progress in various areas, including academic standards and curriculum transparency.  The report showcases examples like compacted math for middle schoolers and online learning tools as positive additions to the curriculum. The board expresses appreciation for the district's focus on student autonomy through initiatives like the 5th-grade strings program. Additionally, the district's commitment to social-emotional learning and mental health support is lauded.  The minutes also reflect a desire for continued improvement in attendance rates, particularly in light of pandemic-related challenges. The board encourages exploration of creative solutions to address scheduling conflicts that may discourage middle school students from pursuing arts education.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
-
-## 2024-05-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda outlines discussions regarding monitoring reports for two policies: EL-6, Academic Standards and Provisions, and EL-8, District Calendar.  The board will assess the superintendent's compliance with these policies. Additionally, the board will review an updated annual agenda (GP-7.2) for informational purposes. The meeting also includes a study session focused on the International Baccalaureate program.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-16-agenda.txt)
 
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -30,35 +12,17 @@ This excerpt from school board meeting minutes focuses on a report regarding stu
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
 
-## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The March 14, 2024 school board meeting agenda focuses on reviewing the superintendent's compliance with existing policies and discussing potential policy changes.  Specifically, the board will discuss monitoring reports related to Ends 2.1 (Part 1 & 2) - Student Competence, evaluating whether the superintendent is adhering to the established standards for student learning outcomes. Additionally, the board will review the updated GP-7.2, 2023-24 annual board agenda, noting any changes from the previous version.  This meeting highlights the board's commitment to curriculum transparency and ensuring that educational standards are being met.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-agenda.txt)
-
 ## 2022-06-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Silver Beach Elementary School on June 7, 2022. The purpose of the visit was to observe and learn about the implementation of new curriculum adoptions at the school. Students greeted the board with a musical performance and provided tours of the facility. The board also engaged in discussions with students and staff regarding their experiences with the new curriculum.  The meeting concluded at 8:30 am.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-06-07-minutes.txt)
 
-## 2021-10-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board meeting agenda includes items related to approving personal services contracts for additional instruction and Title I support.  The board will also review the updated annual board agenda (GP-7.2) with highlighted changes. The consent agenda includes approval of personal service contracts for Mark Kelly, providing additional instruction for 6th-grade beginning band students, and Christina Tan, offering Title I support at Bellingham Christian School. The meeting agenda emphasizes transparency by making documentation available to the public in advance and allowing for individual items on the consent agenda to be moved to the regular agenda.  The board will also assess the meeting itself.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-10-13-agenda.txt)
-
 ## 2021-08-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a special meeting on August 25, 2021, via Zoom.  The board discussed the Washington State School Directors' Association (WSSDA) self-assessment and its potential use for the upcoming November WSSDA event. They also reviewed the school board calendar for the 2021-22 academic year, considering future study sessions, student roundtables, and school visits. The superintendent provided updates on preparations for the start of the school year, capital projects, and future bond preparation. Notably, due to COVID-19 concerns, board meetings would remain online for the foreseeable future.  The meeting concluded with a tour of the Parkview Elementary School construction site.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-08-25-minutes.txt)
-
-## 2021-08-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors will hold a special meeting on August 25, 2021 via Zoom.  The agenda includes an update from the superintendent and discussion items regarding the Washington State School Directors' Association (WSSDA) self-assessment, the school board calendar for the 2021-2022 academic year, and a tour of the Parkview Elementary School construction site. The meeting will not include public comment time.  Following the Superintendent Update, the directors will recess briefly before resuming the meeting at Parkview Elementary School for a tour of the building's construction site.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-08-25-agenda.txt)
 
 ## 2018-04-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -87,14 +51,6 @@ Discussions during the meeting included updates on the start of the school year,
 The text focuses on the need for improved consistency and support for arts education within the Bellingham Public Schools district. Participants discuss the lack of a centralized approach to arts programming, leading to disparities in resources and opportunities across schools.  Kim Lund from the Bellingham Public Schools Foundation suggests creating an arts endowment for sustainable funding. Mike Copland proposes incorporating dance into the school day through an artist-in-residence program. The discussion highlights the importance of teacher support and community engagement in developing a comprehensive K-12 arts model.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-04-19-minutes.txt)
-
-## 2017-03-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This excerpt details the Bellingham School District's adherence to the  Annual Program Participation (APP) reporting requirements for state-funded school facilities built after December 31, 1993. The report, attached as "2016-17 APP Data.pdf," assesses the condition of various schools in the district, including Birchwood Elementary School, Fairhaven, Kulshan, and Shuksan middle schools, and Bellingham and Squalicum high schools.  The document confirms that all facilities exceed OSPI Building Condition Standards.
-
-Additionally, the agenda mentions a discussion on "Board Assessment of Meeting" according to Governance Process Policy GP-4.1, suggesting a self-evaluation process for board performance. The school board also planned to enter an Executive Session to discuss real estate acquisition per RCW 42.30.110(1)(b), indicating a confidential deliberation on potential property purchases or leases.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-23-agenda.txt)
 
 ## 2016-03-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -152,16 +108,6 @@ The board also discussed the possibility of expanding the curriculum to be more 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-01-22-minutes.txt)
 
-## 2014-12-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The meeting minutes detail the proceedings of a school board meeting on December 11, 2014.  The board discussed and unanimously approved the annual agenda for the 2014-2015 school year (GP-7.1). They also reviewed and unanimously approved changes to several policies related to the Board/Superintendent Relationship. These policy revisions included chronological renumbering.
-
-Specifically, the following policies were affected: B/SR - 1 (no change in number), B/SR - 4 (new number: B/SR - 2), B/SR - 5 (new number: B/SR - 3), B/SR - 5.1 (new number: B/SR - 3.1), and B/SR - 5.1.1 (new number: B/SR - 3.1.1). The minutes also highlight the board's positive assessment of a new math curriculum at the lower elementary level, noting its vigorous implementation.
-
-Additionally, the board discussed plans for community engagement, including scheduling a meeting with City Council Liaison Roxanne Murphy in the new year.  The minutes further indicate that a template prepared by Dr. Smith will be distributed to board members for recording observations during school visits. This suggests an effort towards increased transparency and data-driven decision-making regarding curriculum and instruction.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-12-11-minutes.txt)
-
 ## 2014-05-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 Students expressed a desire for more classes that prepare them for life after high school, such as resume writing and job skills. They also advocated for increased funding for the special education department, citing a need for reliable computers. Several students highlighted the benefits of after-school learning centers and suggested extending library hours for greater flexibility. Concerns regarding student stress levels led to a proposal for dedicated senior class periods to facilitate work completion. The meeting concluded with Dr. Baker, Superintendent of Schools, acknowledging the value of student feedback and emphasizing the district's commitment to updating technology and addressing scheduling concerns related to adolescent sleep needs.
@@ -190,14 +136,6 @@ Finally, the meeting touched upon the District Facilities Planning Task Force's 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-01-24-minutes.txt)
 
-## 2012-12-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The School Board meeting focused on monitoring the progress of Ends 3.0, a policy outlining desired skills and attributes for students. Deputy Superintendent Tom Venable, Research, Assessment Director Brian Rick, Program Administrator for Title I Trina Hall, and Program Administrator for English Language Learners Amy Carder presented a report detailing the implementation of a standard-based reporting system at the elementary and middle school levels.  The Board requested future reports include information on how to further support student learning and inquired about high school level initiatives related to Ends 3.0.
-
-The meeting also included an update from Assistant Superintendent Ron Cowan on the Facilities Planning Task Force, which is examining district facilities and will make recommendations to Superintendent Greg Baker for community consideration.  Upcoming events were announced, including Board visits to schools and a School Board Retreat. The meeting concluded with a positive assessment and an executive session to discuss negotiations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-12-13-minutes.txt)
-
 ## 2012-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail a discussion and approval of a monitoring report on Ends 2.0 (Academic Achievement) and Ends 2.1 (Student Competence).  The Board expressed satisfaction with the completeness of the data presented, though they suggested broadening the scope of comparison districts for future reports. They also recommended including math scores and data from every student in subsequent reports.
@@ -217,24 +155,6 @@ The Bellingham School Board reviewed a report on student progress towards the di
 The Bellingham School Board reviewed monitoring reports for various academic standards and practices (EL-13, EL-14, EL-15, EL-17) and found no concerns.  Director Steve Smith proposed consolidating similar Executive Limitation (EL) policies for further discussion. The board also discussed the need for a new software system to better manage meeting materials and monitoring reports.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-04-26-minutes.txt)
-
-## 2012-02-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board meeting minutes detail several personnel recommendations for tutoring and instructional roles within the district.  The board also reviewed and approved revisions to Board/Superintendent Relationship Policies (BSR-1 through BSR-5.1.2) focusing on clarifying accountability, delegation, and performance evaluation processes. Notably, they combined and renumbered Executive Limitation Policies EL-13, EL-14, and EL-15 into a single policy, EL-6, addressing Academic Standards and Practices with minor edits. This consolidation suggests a streamlining effort to enhance clarity and efficiency in academic policy governance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-02-14-minutes.txt)
-
-## 2011-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The school board meeting minutes detail discussions on academic performance (Ends 2.1, Academic Competence) and potential modifications to this policy.  The board is considering revisions to the Ends 2.1 policy following a monitoring report presented at their November meeting. Additionally, the board approved two levies for voter consideration in a special election: Resolution 10-11, a four-year Maintenance and Operations Levy to support general fund expenditures, and Resolution 11-11, a four-year Technology Levy for technology improvements and equipment. The board also selected Dykeman Architects for the Birchwood Elementary School project.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-08-minutes.txt)
-
-## 2011-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board of Directors met on December 6, 2011 to discuss the expiring Maintenance and Operations (M&O) levy and Technology Levy.  The M&O levy supports approximately 25% of the district's annual operating budget and helps maintain current student programs. Both levies will be on the ballot for a vote on February 14, 2012. The Board received information about the levies from Superintendent Greg Baker and Ron Cowan, assistant superintendent of Business and Operations.  The Executive Team also answered questions from the Board regarding the levies.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-06-minutes.txt)
 
 ## 2011-11-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

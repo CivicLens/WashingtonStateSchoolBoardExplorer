@@ -56,12 +56,6 @@ The Lynden School District Board of Directors held a meeting on August 3, 2020, 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-03-minutes.txt)
 
-## 2020-08-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on August 3rd, 2020 at 7:00 PM via phone conference to discuss the re-opening of schools.  The meeting agenda includes a call to order, welcome, pledge of allegiance, and roll call followed by an opportunity for information from the audience. Those wishing to provide comments must do so 24 hours in advance of the meeting by emailing shagrens@lynden.wednet.edu. The main topic of discussion will be a board work session focused on re-opening schools amidst the COVID-19 pandemic.  The district's stated goal is to ensure that all students graduate college, career, and citizenship ready.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-03-agenda.txt)
-
 ## 2020-07-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The July 23rd, 2020 school board meeting focused on re-opening plans for the upcoming school year amidst the COVID-19 pandemic and addressed a revised statement regarding equity for all students.  The Board reviewed three learning platform options for the 2020-2021 school year, acknowledging potential adjustments based on staffing capacity and distancing guidelines.
@@ -108,12 +102,6 @@ The Lynden School Board met via Zoom teleconference on April 2, 2020.  The meeti
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-04-02-minutes.txt)
 
-## 2020-04-02 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a work session on April 2nd, 2020 via phone conference.  The agenda includes standard items such as meeting minutes, a consent agenda covering payroll and personnel actions, and an opportunity for information from the audience. Notably, the board will discuss "Secondary School Improvement Plans (SIP's)" and receive a "Superintendent Report". The district emphasizes its commitment to ensuring all students graduate "college, career, and citizenship ready."  The meeting format reflects adjustments made due to the COVID-19 pandemic.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-04-02-agenda.txt)
-
 ## 2020-03-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 This document outlines personnel changes within a school district. It details new hires, changes in assignments, leaves of absence, resignations, retirements, and terminations for both certificated (teachers) and classified (non-teaching staff) personnel.  The document also lists supplemental assignments for various extracurricular activities like coaching. Notably, there's a mention of a teacher reducing their FTE to job share with another teacher, highlighting potential staffing challenges. The overall sentiment suggests a focus on managing human resources within the district.
@@ -137,12 +125,6 @@ This document details personnel changes within a school district. It outlines ne
 This document details personnel changes within a school district. It lists leaves of absence for both certificated (teachers) and classified (staff) personnel, specifying reasons like maternity leave, personal leave, and partial leave due to workplace injury. The document also notes resignations and retirements among certificated and classified staff.  Several positions are listed as needing supplemental support, suggesting potential teacher-staff shortages. The district highlights its commitment to special education by listing specific paraeducator roles supporting students with migrant backgrounds and those requiring additional educational assistance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-02-13-minutes.txt)
-
-## 2020-02-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The text provided consists solely of the Unicode character form feed ( \x0c ) repeated three times. This sequence is often used to signal a page break or new section in a document. Without further context, it's impossible to determine what specific student privacy issues are being addressed.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-02-13-agenda.txt)
 
 ## 2020-01-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

@@ -38,12 +38,6 @@ The school board meeting minutes discuss the 2019-2020 school year report, highl
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-01-12-minutes.txt)
 
-## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing consistent updates, particularly during the COVID-19 pandemic. While the evaluation commends the Superintendent's performance overall, it suggests incorporating student and parent voices more explicitly as evidence of compliance with certain policies. The document also mentions a transition to remote learning due to COVID-19 but does not elaborate on the specifics or challenges associated with this shift.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-minutes.txt)
-
 ## 2021-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Fairhaven Middle School on November 9, 2021.  The visit focused on hearing from students about their experiences during the COVID-19 pandemic and in the post-pandemic school environment. Students shared both challenges and positive aspects of this period. The meeting also included a presentation on the history of Fairhaven Middle School.
@@ -82,12 +76,6 @@ The Bellingham School District Board of Directors held a special meeting on May 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-minutes.txt)
 
-## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District will hold a special board meeting on May 26, 2021, at noon via Zoom to discuss and approve the Academic and Student Well-Being Recovery Plan. This plan, due to the Office of Superintendent of Public Instruction (OSPI) on June 1st, aims to address student needs and recovery from the impacts of COVID-19.  The plan will be available for public review and comment via email. The meeting agenda also includes consent items related to the approval of the Recovery Plan. The district emphasizes community engagement in the planning process, with opportunities for feedback and input.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-agenda.txt)
-
 ## 2021-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details the impact of COVID-19 on a school district and highlights positive adaptations made during the pandemic. The text emphasizes strong community partnerships that provided educational opportunities for parents, improved connections with families receiving special education services, and EDI workshops focused on cultural responsiveness and diversity.  The school board commends the superintendent's exceptional communication and engagement with stakeholders during this challenging period. Specific examples of successful adaptation include adjusting the academic calendar to accommodate remote learning, providing professional development opportunities for staff, and ensuring students had access to necessary supplies and technology. The document also showcases positive feedback from teachers regarding strengthened connections with families.
@@ -112,12 +100,6 @@ This document is a compilation of feedback from school board members on a facili
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-01-13-minutes.txt)
 
-## 2020-11-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors held a special meeting on November 18, 2020, via Zoom to discuss and approve two resolutions. Resolution 29-20 concerns the emergency suspension of policy regarding bidding requirements for air filters due to the COVID-19 pandemic. This resolution aims to expedite the purchase of necessary air filters to ensure safe air quality in school buildings.  Resolution 30-20 addresses the levy certification, adjusting Resolution 27-20 to include refunds for debt service and capital levies. The board is required by law to certify the levy amount to the assessor by November 30th.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-11-18-agenda.txt)
-
 ## 2020-11-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a meeting on November 18, 2021 to discuss various matters related to school operations.  A significant portion of the meeting focused on updates regarding the district's response to the COVID-19 pandemic. Superintendent Baker provided information on the phased return to in-person learning for students, highlighting the success of safety protocols implemented during the initial phases. The board also discussed the ongoing challenges and adjustments required to support student health and well-being amidst the pandemic.
@@ -139,12 +121,6 @@ The Bellingham School District Board of Directors held a special meeting on Octo
 The school board meeting minutes detail a positive start to the school year despite challenges. Board members expressed appreciation for the superintendent and staff's efforts in navigating the ongoing COVID-19 pandemic.  Several members highlighted positive feedback from parents regarding the school year's commencement. The meeting also included a discussion on the importance of reaching out to families experiencing difficulties and ensuring the well-being of both students and staff during this time.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-09-16-minutes.txt)
-
-## 2020-08-19 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board will hold a special meeting on August 19, 2020, via Zoom to discuss the school district's reopening plan for the 2020-21 academic year in light of the COVID-19 pandemic.  The agenda includes discussion items related to the school board calendar, reopening plans, and the Board of Distinction recognition. The meeting will not include public comment time.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-08-19-agenda.txt)
 
 ## 2020-07-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -173,10 +149,4 @@ The Bellingham School Board held a regular meeting on March 22, 2020.  Discussio
 Board member Diaz Hackler raised concerns about the mental health impact of the pandemic on both students and families, suggesting the need for additional support resources during this stressful time. The superintendent shared positive feedback regarding the district's focus on equity in its meal distribution efforts.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-25-minutes.txt)
-
-## 2018-02-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This document outlines a two-day School Board Special Meeting originally scheduled for February 23rd and 24th, 2018. The meeting was canceled due to inclement weather.  The agenda included "Opening Items" such as roll call and confirmation of the meeting date and location. "Informational Items/Discussion" topics encompassed Community Linkages, Policy Governance & Board Handbook, a Superintendent Update and Discussion, and allowance for other topics. Finally, "Closing Items" listed adjournment. The cancellation notice is prominently displayed at the top of the document.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-23-agenda.txt)
 

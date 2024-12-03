@@ -1,4 +1,4 @@
-# Meeting Summaries for SPOKANE_PUBLIC_SCHOOLS
+# Meeting Summaries for TOUTLE_LAKE_SCHOOL_DISTRICT
 
 ## Board Members
 
@@ -6,19 +6,12 @@ No current board members available.
 
 ## Available Years
 - [2024](school_board_75_year_2024.md)
+- [2023](school_board_75_year_2023.md)
 
 ## Summaries by Tag
-- [school-board-ethics](school_board_75_tag_school-board-ethics.md)
-- [parental-rights](school_board_75_tag_parental-rights.md)
 - [policy-changes](school_board_75_tag_policy-changes.md)
-- [student-health](school_board_75_tag_student-health.md)
-- [mental-health](school_board_75_tag_mental-health.md)
-- [special-education-support](school_board_75_tag_special-education-support.md)
-- [teacher-staff-shortages](school_board_75_tag_teacher-staff-shortages.md)
-- [academic-standards](school_board_75_tag_academic-standards.md)
-- [student-autonomy](school_board_75_tag_student-autonomy.md)
-- [curriculum-transparency](school_board_75_tag_curriculum-transparency.md)
-- [budget](school_board_75_tag_budget.md)
-- [long-term-strategic-plans](school_board_75_tag_long-term-strategic-plans.md)
 - [community-engagement](school_board_75_tag_community-engagement.md)
-- [diversity-inclusion](school_board_75_tag_diversity-inclusion.md)
+- [special-education-support](school_board_75_tag_special-education-support.md)
+- [bullying-prevention](school_board_75_tag_bullying-prevention.md)
+- [school-board-ethics](school_board_75_tag_school-board-ethics.md)
+- [parental-feedback](school_board_75_tag_parental-feedback.md)

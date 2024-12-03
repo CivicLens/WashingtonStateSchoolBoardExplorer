@@ -44,18 +44,6 @@ The October 3, 2024 Regular Business Meeting of the Board of Directors included 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-10-03-approved-minutes.txt)
 
-## 2024-09-19 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-The September 19, 2024 Regular Business Meeting of the Board of Directors included discussions on school safety, highlighted by a study session focused on this topic. The meeting commenced with standard opening items and the approval of the agenda, followed by a superintendent update which included a presentation of the PSESD High School Accreditation Plaque and matters of operational excellence. Under board business, several motions were passed unanimously, including the approval of the 2024-2025 Disciplinary Appeal Council (DAC) Appointments, a change order for Newport High School, and Resolution 2024-16, which involved the final acceptance of the Puesta del Sol Project. These actions reflect ongoing efforts to maintain operational efficiency and uphold safety standards within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-09-19-minutes.txt)
-
-## 2024-09-19 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-(The text does not provide any specific details regarding school board agendas, minutes, or transcripts that can be summarized. There are no identifiable policies, resolutions, or statements from individuals to report on. Therefore, no relevant tags can be selected or summarized.)
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-09-19-approved-minutes.txt)
-
 ## 2024-09-05 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The September 5, 2024 Regular Business Meeting of the Board of Directors included several key actions and resolutions. Notably, the board approved Resolution 2024-15 regarding Workforce Housing, which involves a letter of intent with SRM Development. This resolution reflects the board's commitment to addressing housing needs within the community. Additionally, the board approved the 2024-2025 Annual Board Calendar and the 2024-2025 Policy Schedule, indicating a structured approach to governance and policy implementation for the upcoming year. The meeting also featured a review of consent agenda items, which included personnel elections and various travel approvals, demonstrating ongoing administrative functions. The session concluded with an executive discussion about the potential sale of the Somerset property, highlighting strategic considerations for district assets.
@@ -106,12 +94,6 @@ Additionally, a Superintendent Employment Contract for Dr. Aramaki was approved,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-06-20-minutes.txt)
 
-## 2024-06-06 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-There is no text provided to review and summarize. Please provide the necessary text for analysis.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-06-06-approved-minutes.txt)
-
 ## 2024-05-16 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The May 16, 2024 Regular Business Meeting of the Board of Directors included significant discussions and decisions regarding policy changes and long-term strategic planning. A notable amendment was made to postpone the First Reading of Revisions to Policy 0130: Equity and Accountability, as well as Proposed Revisions to Procedure 0130P, to a date uncertain, to be determined through the agenda planning process. Additionally, the Board approved the 2024-2029 Strategic Plan, which outlines the district's goals and priorities for the upcoming years, emphasizing the importance of strategic direction in educational planning. Resolutions were also passed, including Resolution 2024-05 for the Annual Kingco Conference Membership and Resolution 2024-06 for the Annual Washington Interscholastic Athletic Association Membership for the 2024-25 school year, reflecting ongoing commitments to athletic and conference participation.
@@ -130,23 +112,11 @@ The recent school board meeting included discussions on various policy changes a
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-05-02-approved-minutes.txt)
 
-## 2024-04-18 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-(The text does not contain any specific information regarding school board agendas, minutes, or transcripts. Therefore, there are no relevant tags or a summary to provide.)
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-04-18-approved-minutes.txt)
-
 ## 2024-04-04 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The April 4, 2024 Regular Business Meeting of the Board of Directors included several key actions and discussions relevant to policy and community engagement. The board unanimously approved the agenda and the consent agenda, which encompassed the approval of meeting minutes from the March 21, 2024 Regular Board Meeting, personnel elections, student and staff travel, surplus items, and various financial transactions. A significant motion was made to support the Washington State School Directors' Association (WSSDA) Legislative Positions, which was also approved unanimously. This indicates a commitment to aligning with broader educational policies and advocacy efforts. Additionally, the meeting featured a student update and public comments, highlighting the board's focus on community engagement and transparency in its operations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-04-04-draft-minutes.txt)
-
-## 2024-03-21 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-It appears that the text provided is empty or consists solely of formatting characters. Without any content to analyze, I cannot generate relevant tags or a summary. Please provide the actual text or content you would like me to review for summaries and tagging.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-03-21-minutes.txt)
 
 ## 2024-03-07 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
@@ -201,10 +171,4 @@ The document outlines the approval of various financial transactions for the Jan
 The text outlines recent policy changes discussed in a school board meeting, focusing on the revision of the inclusive sex education curriculum. The board has decided to remove certain terms that were deemed controversial and replace them with more neutral language to foster a more inclusive environment. Additionally, the board emphasized the importance of parental feedback in shaping future educational policies, reflecting a commitment to community engagement. The meeting also addressed concerns regarding student privacy, particularly in relation to data collection practices within the district, leading to discussions about enhancing student data privacy measures.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-11-approved-minutes.txt)
-
-## 2023-12-14 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-The December 14, 2023, Regular Business Meeting of the Board of Directors included significant actions related to school policies and facilities. The board approved the Consent Agenda, which encompassed the approval of personnel changes, school improvement plans, and financial transactions. Notably, the board passed Resolution 2023-24 regarding renovations to the Food Classroom at Sammamish High School, indicating a commitment to enhancing educational facilities. The meeting also featured updates on the Middle School Consolidation Study and a review of draft 2024 Legislative Priorities, though no specific board business was conducted. The meeting concluded with a study session focused on the Strategic Plan, emphasizing the board's ongoing efforts to align its initiatives with long-term educational goals.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2023/2023-12-14-minutes.txt)
 

@@ -12,12 +12,6 @@ The Lynden School District Board of Directors held a special meeting on December
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-12-12-minutes.txt)
 
-## 2017-12-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting to discuss the sale of surplus property and allow for public comment.  The agenda outlines procedures for public participation, including sign-up requirements, time limits for speakers, and restrictions on content related to complaints against district employees. Written complaints are required for such matters and may be addressed in executive session. The meeting will conclude with an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-12-12-agenda.txt)
-
 ## 2017-12-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board of Directors held a special meeting on December 5, 2017, at Lynden High School Library to discuss college and career readiness.  The meeting, which began at 6:32 PM and concluded at 8:25 PM, brought together board members and community stakeholders to explore strategies for engaging students in preparation for successful contributions to society.
@@ -39,12 +33,6 @@ The meeting also addressed long-term strategic planning for the district, specif
 Finally, the personnel recommendations section detailed new hires, changes in assignments, leaves of absence, resignations, and retirements for both certificated and classified staff. Notably, there was a focus on special education support with Tim Metz discussing challenges related to preschool funding and special education needs growth within Early Learning programs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
-
-## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a work session on October 26, 2017, at Lynden High School.  The agenda included standard items like meeting minutes and a consent agenda for personnel actions. Notably, the board dedicated time to discussing "District Long Range Planning" and "Social Emotional Learning" as part of their work session. This suggests a focus on developing long-term educational strategies and incorporating social-emotional learning into the curriculum.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-agenda.txt)
 
 ## 2017-10-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

@@ -12,12 +12,6 @@ The Federal Way Public School District No. 210 held a Special Board Meeting on O
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-10-22-minutes.txt)
 
-## 2024-10-15 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public School District No. 210 Board of Education held a regular Work Study Meeting on October 15, 2024, at the Educational Service Center. The meeting was called to order by Board President Dr. Jennifer Jones at 5:01 p.m., with all board members present, including Superintendent Dr. Dani Pfeiffer. Key presentations included an overview of Legislative Priorities by Dr. Pfeiffer, emphasizing the district's strategic goals for legislative engagement. Additionally, the District Support Team (DST) was introduced, with presentations by Deputy Superintendent Marla Newton and Chief Academic Officer Dr. Melissa Spencer, focusing on the support structures in place for district initiatives. The meeting concluded with adjournment at 6:08 p.m. No specific policy changes were noted in the agenda.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-10-15-minutes.txt)
-
 ## 2024-10-08 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
 The Federal Way Public School District No. 210 Board of Education convened on October 8, 2024, at Wildwood Elementary School, where various actions were taken, including the approval of the meeting agenda and required approvals agenda for the evening. Notably, the Board recognized community partners and highlighted the importance of collaboration in the "Schools Can't Do It Alone" presentation by Superintendent Dr. Dani Pfeiffer. The meeting also included updates on enrollment and staff wellness, indicating a focus on student and staff health. Superintendent Dr. Pfeiffer introduced new administrative staff, underscoring ongoing changes in leadership within the district. The meeting concluded with public comments and reflections from board members on recent events, emphasizing community engagement and responsiveness to stakeholder feedback.
@@ -29,36 +23,6 @@ The Federal Way Public School District No. 210 Board of Education convened on Oc
 The Federal Way Public Schools Board of Education convened on September 24, 2024, where various procedural actions were taken, including the approval of the meeting agenda and the required approvals agenda. A significant resolution discussed was Resolution 2024-13, which authorized surplus disposition requirements in accordance with RCW 28A.335.180; this motion was moved by Vice President Luckisha Phillips and seconded by Director Quentin Morris, ultimately carrying after discussion. The meeting included presentations recognizing community partners and scholars, as well as updates on legislative activities, emphasizing the importance of community engagement in school operations. Superintendent Dr. Dani Pfeiffer introduced new administrative staff and provided a Back to School Report, reflecting on the district's strategic direction and organizational performance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-09-24-minutes.txt)
-
-## 2024-09-17 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public School District No. 210 Board of Education convened a Work Study Meeting on September 17, 2024, at the Educational Service Center. During the meeting, the Board discussed various organizational performance assurances and conducted a review of policies. A significant topic was the WSSDA (Washington State School Directors' Association) General Assembly, led by Vice President Luckisha Phillips, indicating a focus on potential policy changes and Board development. The meeting concluded with President Dr. Jennifer Jones adjourning at 6:15 p.m. No specific policy changes or controversial content were detailed in the minutes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-09-17-minutes.txt)
-
-## 2024-09-05 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public Schools Board of Education held a Special Board Meeting on September 5, 2024, where they approved two significant collective bargaining agreements. The first agreement was with the Federal Way Education Association, covering the period from September 1, 2024, to August 21, 2027, aimed at enhancing teacher support. The second agreement was with the Federal Way Education Association-Educational Support Professionals, effective from September 1, 2024, to August 31, 2027, which similarly focuses on supporting educational staff. Both agreements were discussed and approved following motions from board members, indicating a commitment to improving conditions for teachers and support staff within the district. Additionally, Superintendent Dr. Dani Pfeiffer provided comments on recent events, although specific details were not disclosed in the meeting summary.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-09-05-minutes.txt)
-
-## 2024-08-27 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public School District No. 210 Board of Education held a regular meeting on August 27, 2024, where they approved several key actions, including the adoption of Resolution 2024-12, which pertains to the 2024-25 Budget. The budget presentation was led by Superintendent Dr. Dani Pfeiffer, with contributions from Rob Bryant, Chief Finance & Operations Officer, and Jeri Carlson, Executive Director of Business Services. The meeting also included the approval of the 2024-25 Board Meeting Schedule and updates on legislative activities. The board engaged in discussions on various topics, including recent events affecting the district, and provided an opportunity for public comment. The meeting concluded with the board's adjournment at 7:16 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-08-27-minutes.txt)
-
-## 2024-06-11 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public School District Board of Education held a regular meeting on June 11, 2024, where several key actions were taken. Notably, the Board approved Resolution 2024-04, which authorized the disposition of portable classrooms in accordance with RCW 28A.335.180. Additionally, the Board approved an inflationary adjustment of 3.70% for unrepresented central office personnel, including the Superintendent, for the 2024-25 school year, as outlined in the 2024-25 salary schedule, pursuant to RCW 28A.400.205. The meeting also included a budget presentation by Superintendent Dr. Dani Pfeiffer, who introduced key finance personnel to discuss the district's financial status.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-06-11-minutes.txt)
-
-## 2024-06-04 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public School District No. 210 held a Special Board Meeting on June 4, 2024, where key procedural actions included an Executive Session and a Work Study Session. During the meeting, Superintendent Dr. Dani Pfeiffer presented the budget, with Rob Bryant, Chief Finance & Operations Officer, assisting in the presentation. The meeting was called to order by Board President Dr. Jennifer Jones, who also facilitated the adjournment of the meeting. There were no specific policy changes or controversial topics noted in the agenda, but the focus on budget presentation indicates ongoing financial planning and oversight within the district. The meeting was structured to ensure that board members were present and engaged in the discussions concerning the district's financial status.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-06-04-minutes.txt)
 
 ## 2024-05-28 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
@@ -90,12 +54,6 @@ The Federal Way Public Schools Board of Education held a regular meeting on Marc
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-03-12-minutes.txt)
 
-## 2024-03-05 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public School District No. 210 conducted a Work Study Meeting on March 5, 2024, focusing on organizational performance and equity in education. Superintendent Dr. Dani Pfeiffer introduced key staff members, including Marla Newton and Natalee Saber, to present on ENDS 3, which likely pertains to educational goals related to student outcomes. A significant discussion on equity was led by Dr. Jennifer Jones, where Sonia Nicholson, Executive Director of Multitiered Systems of Support, presented on Multilingual Education in secondary schools. This indicates a commitment to diversity and inclusion, particularly in supporting multilingual students, and aligns with the district's efforts towards racial equity in educational practices. The meeting concluded with Dr. Jennifer Jones officially adjourning the session at 6:44 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-03-05-minutes.txt)
-
 ## 2024-02-27 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
 The Federal Way Public School District No. 210 Board of Education held a regular meeting on February 27, 2024, at Enterprise Elementary School. The meeting included the approval of the agenda and various required approvals, including minutes from the previous meeting and financial reports. A significant action taken was the approval of Sub End 2 - A Dream - Academic Achievement, which was deemed in compliance. The meeting featured presentations from school representatives and updates on legislative activities, highlighting community engagement and recognition of student and staff achievements. Superintendent Dr. Dani Pfeiffer introduced key updates, particularly on Multi-Tiered System of Supports (MTSS), emphasizing the district's commitment to academic standards and support for students. Public comments were also included, reflecting community involvement in school affairs.
@@ -107,15 +65,6 @@ The Federal Way Public School District No. 210 Board of Education held a regular
 The Federal Way Public School District No. 210 held a Board Meeting on February 13, 2024, where several key actions were taken. Notably, the Board approved the adoption of the 3-5 and 6-8 English Language Arts (ELA) Curriculum, which aligns with academic standards and aims to enhance curriculum transparency. Additionally, the Board passed Resolution 2024-02, which authorizes surplus disposition requirements as stipulated by RCW 28A.335.180. Superintendent Dr. Dani Pfeiffer introduced community engagement initiatives and recognized the contributions of community partners, emphasizing the importance of collaboration in education. The meeting also featured reports from scholar representatives, highlighting the involvement of students in school governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-13-minutes.txt)
-
-## 2024-01-23 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where several key actions were taken. The board approved the Meeting Agenda and the Required Approvals Agenda, which included the approval of various financial reports and personnel reports. Notably, Resolution 2024-01 was passed, authorizing the waiver of public bidding requirements as outlined in RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and recognized the accomplishments of scholars and staff through the "Because of You Awards." The meeting concluded with public comments and a review of the board meeting assessment by President Dr. Jennifer Jones. Overall, the meeting focused on organizational performance, budgetary considerations, and recognition of achievements within the district. 
-
-policy-changes
-summary: The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where several key actions were taken. The board approved the Meeting Agenda and the Required Approvals Agenda, which included the approval of various financial reports and personnel reports. Notably, Resolution 2024-01 was passed, authorizing the waiver of public bidding requirements as outlined in RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and recognized the accomplishments of scholars and staff through the "Because of You Awards." The meeting concluded with public comments and a review of the board meeting assessment by President Dr. Jennifer Jones. Overall, the meeting focused on organizational performance, budgetary considerations, and recognition of achievements within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-23-minutes.txt)
 
 ## 2024-01-09 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 

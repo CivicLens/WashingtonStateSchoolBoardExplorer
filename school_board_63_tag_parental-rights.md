@@ -6,12 +6,6 @@ The Blaine School Board discussed concerns regarding school funding and enrollme
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-09-23-minutes.txt)
 
-## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda includes discussion on several topics, including the "Parents' Bill of Rights" and Policy 5251 regarding Conflicts of Interest.  The board also plans to discuss Title IX requirements related to allowing boys to play girls sports.  A future meeting is scheduled for July 22, 2024, at 7:00 p.m., with a budget work session planned for the following day. The agenda also mentions the possibility of convening in executive session according to Policy 1410, but details regarding the specific purpose are not provided.  The meeting concluded with a motion to adjourn by Steve Galbraith, seconded by Erika Creydt, and carried unanimously.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-06-17-agenda.txt)
-
 ## 2024-05-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions regarding several key topics.  The board expressed a desire for direct access to the district's financial system. There was also discussion about potential policy changes, including adjustments to allow for the establishment of committees without burdening the superintendent. Additionally, Vice President Lazarus expressed his intention to review past employee investigations due to complaints he had received regarding Dr. Granger's handling of those matters.  The board discussed the new Parents' Bill of Rights and its implications, aiming to reach a consensus on how to implement it. Finally, the meeting minutes mention Dr. Granger's ongoing data collection efforts related to providing the board with direct access to financial information.

@@ -1,11 +1,5 @@
 # Meeting Summaries for FERNDALE_SCHOOL_DISTRICT with Tag: parental-feedback
 
-## 2024-11-12 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The meeting minutes detail a school board meeting where members discussed standard agenda items like the superintendent's consent agenda and board consent agenda.  The superintendent's consent agenda included routine administrative matters such as authorizing vouchers, adopting resolutions for Title VII Impact Aid Funds and canceling warrants, approving personnel hiring, authorizing personal services contracts, leave of absences, and accepting resignations and retirements. The board also reviewed a budget for the Board of Directors. Item 10.02, Approve Minutes, was removed for further edits.  The meeting concluded with an evaluation survey where Mr. Ledbetter assessed the board's performance, noting areas needing improvement like agenda planning and monopolization of discussion time by one member. The meeting adjourned at 9:26 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-12-minutes.txt)
-
 ## 2024-11-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail the approval of several consent agenda items, including a new policy (6221) for direct contracting through a "Small Works Roster" and the receipt of a monitoring report for Operational Expectation 8 concerning communication with the board. Additionally, Resolution 18-2024, which updates Policy 4040R regarding public access to school district records, was adopted. During the sharing portion of the meeting, board members discussed various topics such as the cell phone policy and the process for contract approvals. Director Machado expressed appreciation for staff and teachers, while Director Childs highlighted the need for clearer communication regarding contract timelines. Director Button emphasized the importance of each member's role in advocating for students, and Director Uppiano stressed the value of questioning and presenting diverse viewpoints.
@@ -17,12 +11,6 @@ The school board meeting minutes detail the approval of several consent agenda i
 The meeting minutes detail the actions taken by the school board during a session.  The board approved several items on the consent agenda, including accepting July 2024 financial statements and adopting Policy 1822 regarding Training and Development for Board Members. The board also received monitoring reports for Results 6 (Career Readiness) and Results 2.4 (Technology). During the sharing portion of the meeting, board members discussed recent events and professional development opportunities.  The meeting concluded with a positive evaluation from Mrs. Button who gave it a score of 4.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-minutes.txt)
-
-## 2024-11-01 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The Ferndale School District No. 502 held a special session on January 24, 2023, to discuss the filling of a vacant school board director position (Director Position No. 3).  The vacancy arose from Jessie Deardorff's resignation on November 20, 2022. The board outlined the process for filling the vacancy as per Policy 1114P, which required selecting five candidates from the applicant pool for interviews. However, the board struggled to reach a consensus on five candidates and ultimately voted to suspend policy 1114P to interview only four candidates: Cindy Cultee, Katie Dorr, Patricia Dunn, and Toni Jefferson. The decision to deviate from the established policy highlights potential challenges in the board's selection process and the need for clear communication and agreement among members.  The board received significant parental feedback via email regarding the candidates, which influenced their decision-making process.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-01-minutes.txt)
 
 ## 2024-05-28 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 

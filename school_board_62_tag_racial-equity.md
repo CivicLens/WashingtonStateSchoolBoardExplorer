@@ -14,12 +14,6 @@ The board expresses concern over attendance rates, which they hope will improve 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
 
-## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda focuses on several key items related to diversity and inclusion.  The board will discuss monitoring reports for Ends 1 (Strategic Mission and Vision), 2 (Outcomes Focused on Knowledge) and 3 (Outcomes Focused on Character and Action) to determine if the superintendent is in compliance with policy. Additionally, they will review the Annual Affirmative Action Progress Report based on October 2023 data, which was prepared by Human Resources Executive Director Arionda Feeney. This report assesses the progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The agenda also includes a discussion on the performance review of a public employee.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-agenda.txt)
-
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board reviewed a report on student outcomes, focusing on graduation rates and the impact of Career and Technical Education (CTE) programs.  The board expressed satisfaction with narrowing graduation gaps between Hispanic/Latinx and non-Hispanic/Latinx students, as well as low-income students. They also commended the growth of CTE programs for their ability to engage diverse student interests. However, concerns were raised about the widening gap in graduation rates for multilingual learners. The report highlighted income as a significant contributor to graduation rate disparities.  The board discussed the potential impact of COVID-19 on standardized test scores and expressed optimism for future improvement. They also acknowledged the district's commitment to addressing proficiency gaps and closing achievement disparities.
@@ -72,18 +66,6 @@ The provided text details a school board meeting discussion focused on the distr
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-11-09-minutes.txt)
 
-## 2023-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda outlines several discussion points related to policy governance review.  Specifically, the board will be reviewing and discussing B/SR-1 (Board/Superintendent Connection), B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation), and B/SR-3.1.1 (Monitoring Response Document) for potential revisions. The agenda also mentions a monitoring report on EL-10, Race and Equity, received by the board on October 12, 2023. The board will review feedback to determine if the superintendent is in compliance with the policy.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-11-09-agenda.txt)
-
-## 2022-12-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes discussion items related to monitoring superintendent compliance with policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will review a monitoring report on EL-10, Race and Equity, and determine if the superintendent is in compliance. The board will also discuss whether the superintendent is in compliance with policy EL-5, Communication and Counsel to the Board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-12-14-agenda.txt)
-
 ## 2022-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details the progress made by a school district in implementing its diversity, equity and inclusion (EDI) policy.  Board members reviewed evidence of EDI implementation across various areas including curriculum, staffing practices, and community engagement. Specific examples cited include increased enrollment in Ethnic Studies classes, a BIPOC job fair with positive results, and expanded Promise K programming. The board also acknowledged the district's ongoing collaboration with the Lummi Nation and Western Washington University to refine the "Since Time Immemorial" curriculum. Board members expressed satisfaction with the progress made and did not identify any areas for improvement. They praised the clarity and conciseness of the report outlining EDI compliance.
@@ -130,24 +112,6 @@ The Bellingham School District Board of Directors met on February 25, 2022 to di
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-minutes.txt)
 
-## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors will hold a special meeting on February 25, 2022, via Zoom.  The meeting agenda includes reviewing and discussing several policies. Policy EL-9, Asset Maintenance and Protection, and Policy EL-10, Race and Equity, will be reviewed. Additionally, the board will discuss linkages/study sessions/roundtables review, board improvement plan review, board routines, and the superintendent's mid-year report/evaluation. The meeting will not include public comment time.  The specific changes being considered for each policy are not mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-agenda.txt)
-
-## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The December 8, 2021 school board meeting agenda includes discussions on monitoring reports for policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will vote on whether the superintendent is in compliance with these policies. Additionally, the board will review an updated annual board agenda (GP-7.2 - 2021-22 Annual Board Agenda, Revised). The meeting concludes with a board assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-agenda.txt)
-
-## 2021-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes an informational item reviewing the updated annual board agenda (GP 7.2). This review highlights changes from the previous version.  An action item addresses the Annual Affirmative Action Progress Report. This report, based on October 2020 data, details progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The report was prepared by Human Resources Director JoAn Steiner.  The agenda also includes standard items for board meeting assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-12-agenda.txt)
-
 ## 2021-04-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes discuss positive trends in 5-year graduation rates and decreasing dropout rates for various student subgroups including English Language Learners (ELL), students with Individualized Education Programs (IEP), students eligible for free or reduced lunch, and students of color.  The board acknowledges the progress made in closing the graduation gap for Hispanic/Latinx students and those from low-income backgrounds. They also highlight the increasing enrollment in dual credit courses among these subgroups.
@@ -174,23 +138,11 @@ This school board meeting summary focuses on the district's efforts to address e
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-minutes.txt)
 
-## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda details discussions regarding monitoring reports on two policies: EL-3, Treatment and Communication with Public, Parents and Students, and EL-10, Race and Equity.  The board will review feedback and determine if the superintendent is in compliance with these policies. Additionally, the board will review an updated annual board agenda (GP-7.2 - 2020-21 Annual Board Agenda, Revised) for informational purposes. The agenda notes that changes from the previous version are highlighted.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-agenda.txt)
-
 ## 2020-06-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes highlight discussions on diversity and inclusion. Ms. Diaz Hackler expressed a desire for increased representation of people of color in various school roles, including the school board itself.  Ms. Mason noted an increase in community feedback regarding social justice issues.  The board also discussed the superintendent's annual summative evaluation, which included comments reflecting on the atypical year and unprecedented events. A motion was passed to include these comments in the evaluation without attributing them to specific board members. Additionally, Ms. Rose raised concerns about potential funding for increased counseling services stemming from conversations around Black Lives Matter at the elementary level.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-17-minutes.txt)
-
-## 2020-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The School Board of Directors will hold a two-day special meeting on February 28th and 29th at the Environmental Learning Center in Rockport, Washington.  The agenda includes discussion items focused on reviewing EL-10, which concerns race and equity; discussing board professional development; conducting the superintendent's mid-year evaluation and contract review; addressing communications and board visibility strategies; completing a WSSDA self-assessment; and providing updates on big picture district initiatives. The meeting will also include time for other topics as determined by the board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-28-agenda.txt)
 
 ## 2020-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -200,18 +152,6 @@ Additionally, the minutes mention Ms. Diaz Hackler's attendance at the WSSDA leg
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-19-minutes.txt)
 
-## 2020-01-29 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes discussions on monitoring reports for two policies: EL-9, Asset Maintenance and Protection, and EL-10, Race and Equity.  The board will determine if the superintendent is in compliance with these policies following feedback from individual board members.  Additionally, the board will review an updated annual agenda (GP-7.2) highlighting changes from the previous version.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-29-agenda.txt)
-
-## 2020-01-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This agenda excerpt details two instances of the school board reviewing monitoring reports related to district policies.  The first report concerns EL-9, Asset Maintenance and Protection, while the second focuses on EL-10, Race and Equity. Following standard practice outlined in Policy Governance, the board will assess whether the superintendent is adhering to these policies based on the feedback provided by individual board members. The agenda also includes a review of the updated 2019-20 annual board agenda (GP-7.2) for informational purposes only.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-15-agenda.txt)
-
 ## 2019-11-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes highlight various activities undertaken by board members to promote diversity and inclusion within the school district.  Ms. Mason visited Wade King Elementary School, observing the integration of students from AIMS (Access in Mainstream Setting) and Life Skills programs into mainstream classrooms. Sehome High School's student-led equity work, involving a homecoming event simulation where students experienced perspectives from different backgrounds, was also discussed. This initiative led to changes for future homecoming events. 
@@ -220,23 +160,11 @@ Additionally, the minutes mention Ms. Diaz Hackler's attendance at Maria Salazar
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-20-minutes.txt)
 
-## 2019-11-20 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The text details a school board meeting agenda for November 20, 2019.  The board will be reviewing and discussing several policies related to the Superintendent's role and responsibilities, including B/SR-1 (Board/Superintendent Connection), B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation) and B/SR-3.1.1 (Monitoring Response Document). The board will determine whether the superintendent is in compliance with EL-10, a policy related to Race and Equity.  The agenda does not provide specifics about the content of these policies or any proposed changes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-20-agenda.txt)
-
 ## 2019-10-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail the activities and observations of various board members. Ms. Mason visited Lowell Elementary and was impressed by a teacher's work in the BRIDGES classroom, which focuses on Behavior Re-Education in Developing Growth and Emotional Strength.  Ms. Diaz Hackler also visited a BRIDGES classroom and attended a Parkview PTO meeting where families expressed a need for a flashing speed limit sign near the school. She highlighted Western Washington University's recent opening of a multi-cultural center as an important step in making students feel welcome and centered. The minutes do not mention any specific policies, but highlight discussions on race and equity at the WSSDA legislative assembly.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-10-16-minutes.txt)
-
-## 2019-10-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board meeting agenda includes a monitoring report for EL-10, Race and Equity.  The report is presented as part of the board's Policy Governance framework. Additionally, the agenda lists an informational item reviewing GP-7.2, the 2019-20 annual board agenda, which has been recently updated with changes highlighted for review.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-10-16-agenda.txt)
 
 ## 2019-09-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -256,12 +184,6 @@ The Bellingham School District Board of Directors met on July 24, 2019, to discu
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-24-minutes.txt)
 
-## 2019-07-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The July 24, 2019 school board agenda includes several informational items and discussion topics. Notably, the board will discuss "Equity Policy (EL-10)," which focuses on race and equity.  The agenda also features a discussion on "Student Voice" with a provided toolkit. Additionally, the board will review a "WSSDA Self-Assessment" and "Board Meeting Assessment Data." Finally, there's a scheduled discussion on "Climate Change/Conservation."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-24-agenda.txt)
-
 ## 2019-05-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District held a Community Linkage Special Meeting to gather student input on "The Bellingham Promise," the district's strategic plan outlining goals for students. Students discussed various aspects of the plan, including mental health, character development, and diversity & inclusion. They expressed appreciation for the inclusion of LGBTQ+ identities but suggested more staff training on these topics.  Students also highlighted the need for increased access to resources like food and clothing, and emphasized the importance of a supportive and inclusive school environment. The meeting aimed to foster community engagement and incorporate student voices in shaping educational policies and practices as part of the district's long-term strategic planning.
@@ -273,12 +195,6 @@ The Bellingham School District held a Community Linkage Special Meeting to gathe
 The Bellingham School District Board of Directors held a special meeting on January 21, 2019, at Sehome High School.  The meeting focused on informational items and discussions rather than decision-making. Topics included reviewing communication recommendations from a board committee, discussing the superintendent's mid-year report and evaluation, and exploring methods for evaluating the superintendent through EL and Ends reports. The board also engaged in conversations about potential modifications to an existing EL-1 policy, the development of an equity policy, and ways to increase student voice within the district.  The meeting concluded with a tour of the new Sehome High School.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-01-21-minutes.txt)
-
-## 2018-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The school board meeting minutes detail discussions and reports from the WSSDA conference.  Several board members highlighted sessions related to diversity and inclusion, with Ms. Diaz Hackler expressing disappointment in the lack of diversity and inclusion options available at the conference.  Ms. Bashaw attended a Native American curriculum breakout session. Mr. Benjamin shared information about a teacher focusing on strengths-based growth and expressed interest in incorporating more student voice into school practices. Ms. Mason noted interesting conversations on equity during the legislative assembly. The board also discussed the monitoring response document for a policy, though the specific content of the policy is not mentioned.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-05-minutes.txt)
 
 ## 2018-10-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -315,12 +231,6 @@ This document details the Bellevue School District (BSD) Board's monitoring of S
 The Board also highlights BSD's efforts in analyzing student data beyond traditional comparables and exploring diverse ways of examining subgroups. However, they identify areas needing improvement, including ongoing support for special education students and strategies to combat the impact of poverty on graduation rates. The document emphasizes the importance of community partnerships in providing holistic support to families. Notably, the Board acknowledges that district success is not solely measured by graduation rates but encompasses broader student outcomes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-28-minutes.txt)
-
-## 2017-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors visited Columbia Elementary School on December 5, 2017. The meeting focused on discussing the school's outcomes and their connection to the Bellingham Promise.  The board also learned about the work of the Columbia Parent Association in supporting equity and inclusion. Additionally, they observed classroom practices aimed at fostering the social and emotional development of students. No specific policies were mentioned or discussed during the visit.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-minutes.txt)
 
 ## 2017-01-31 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

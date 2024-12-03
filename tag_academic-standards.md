@@ -1,52 +1,10 @@
 # Meeting Summaries for Tag: academic-standards
 
-## 2024-11-12 - CAMAS_SCHOOL_DISTRICT (Agenda)
-
-The School Board Workshop on November 12, 2024, will focus on continuous growth in elementary and secondary education. Additionally, the board will discuss Policy Review - 6022 - Minimum Fund Balance.  This policy review suggests a potential change to the minimum fund balance required by the school district. The meeting agenda includes file attachments related to the proposed changes in the Minimum Fund Balance Policy.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-11-12-agenda.txt)
-
-## 2024-11-12 - TAHOMA_SCHOOL_DISTRICT (Agenda)
-
-The Tahoma School District Board is holding a work study session on November 12, 2024, to discuss elementary school improvement plans.  The meeting will be held at the Central Services Center with a virtual option available via Zoom. Plans for Tahoma Elementary, Glacier Park Elementary, and Rock Creek Elementary will be presented to the board. Accompanying documents include detailed School Improvement Plans for each institution as well as a consolidated slide deck outlining key points across all three schools.  The session aims to foster community engagement by providing transparency into the district's academic standards and improvement strategies for its elementary schools.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-11-12-agenda.txt)
-
-## 2024-11-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Edmonds School District Board of Directors held a special meeting on November 20, 2021, at the Hyatt Regency Bellevue to discuss results from their recent self-assessment survey conducted by the Washington State School Directors Association (WSSDA).  This was not a regular school board meeting and did not include public comment. The purpose of the meeting was to review the findings of the WSSDA self-assessment survey and identify areas for improvement in board governance and practices. No specific policy changes were mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-12-agenda.txt)
-
-## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Administrative Center Board Room will host a study session on Tuesday, November 12, 2024, at 6:00 PM.  The primary focus of the meeting is "2025-2026 Budget Development." During this discussion, the Board of Directors will review pertinent information related to the upcoming budget cycle. A file attachment titled "25-26 PPT - 2024_11_12.pdf" (568 KB) is available for reference.  The meeting agenda also includes standard items such as a call to order and a list of attendees.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-12-agenda.txt)
-
-## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a Study Session on November 12, 2024, to discuss budget development for the 2025-2026 school year.  The meeting was called to order at 6:35 PM and adjourned at 7:37 PM.  Board members present included Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Hân Trần, and Amy Cast (President). Superintendent Michael Tolley was also in attendance. The minutes were approved on November 25, 2024.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-11-12-minutes.txt)
-
-## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Administrative Center Board Room will host a study session on Tuesday, November 12, 2024, at 6:00 PM.  The meeting agenda includes a "Call to Order," followed by a "List of Attendees." The primary focus of the session is "Discussion" regarding the development of the 2025-2026 budget. A file attachment titled "25-26 PPT - 2024_11_12.pdf" will be reviewed during this discussion. The meeting concludes with an "End of Meeting."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-12-agenda.txt)
-
 ## 2024-11-08 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The meeting minutes detail the actions taken by the school board during a session.  The board approved several items on the consent agenda, including accepting July 2024 financial statements and adopting Policy 1822 regarding Training and Development for Board Members. The board also received monitoring reports for Results 6 (Career Readiness) and Results 2.4 (Technology). During the sharing portion of the meeting, board members discussed recent events and professional development opportunities.  The meeting concluded with a positive evaluation from Mrs. Button who gave it a score of 4.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-minutes.txt)
-
-## 2024-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham Public Schools Board of Directors held a study session on June 17, 2010, to review the preliminary budget for the 2010-2011 school year.  The meeting included reports from Superintendent Sherrie Brown, Executive Director of Human Resources Nora Klewiada, and Assistant Superintendent of Business and Operations Ron Cowan regarding the budget plan. The session aimed to provide transparency into the district's financial planning process and allow for questions from board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-07-agenda.txt)
 
 ## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -55,12 +13,6 @@ This school board meeting agenda and minutes cover a range of routine administra
 The Board Consent Agenda focused on approving minutes, reviewing the budget, and receiving a monitoring report for Operational Expectations Policy 2 (OE-2) regarding succession planning. They also adopted the Governance Culture Policy 6-E Annual Work Plan. During the "Sharing" segment, board members discussed personal experiences and reiterated support for financial literacy courses and cursive writing in the curriculum.  The meeting concluded with an evaluation by Mr. Ledbetter before adjourning at 9:16 pm.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
-
-## 2024-11-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District is hosting an informational meeting for individuals interested in running for the school board.  The meeting will take place on Thursday, March 16, 2023, at 5:00 p.m. at Options High School. Topics covered will include an overview of the district's policy governance model and election basics. The meeting aims to inform potential candidates about the roles and responsibilities of school board members and provide guidance on the election process.  The fall election filing opportunity with the Whatcom County Auditor's Office is scheduled for May 15-19.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-05-agenda.txt)
 
 ## 2024-11-04 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -74,47 +26,17 @@ The meeting minutes detail routine actions taken by the school board, including 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-03-minutes.txt)
 
-## 2024-11-02 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+## 2024-11-02 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-This document outlines the time commitment and meeting schedule expectations for members of a school board.  It details the frequency and timing of various meetings including board meetings, executive sessions, officer/committee meetings, school visits, board retreats, and site adoptions. The document also mentions opportunities for professional development through organizations like WSSDA (Washington State School Directors Association) and NSBA (National School Boards Association). Additionally, it highlights the importance of community engagement and lists events where board members can interact with constituents, staff, and other school district representatives.  The document emphasizes that attendance at board meetings is expected and absences beyond four consecutive meetings may result in removal from the board.
+The Bremerton School District Board of Directors held a special meeting on November 13, 2024, at West Hills STEM Academy. The meeting was focused on site visits and conversations regarding the school's academic standards and curriculum, particularly emphasizing standards-based curriculum and instruction. Key members present included Board President Ms. Alyson L Rotter and Interim Superintendent Ms. Donna Colosky. The meeting was adjourned at 11:36 am, concluding the discussions and tours related to the school's educational offerings and engagement with the community.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-02-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-11-02-nov-minutes.txt)
 
 ## 2024-10-16 - DAYTON_SCHOOL_DISTRICT (Minutes)
 
 The Dayton School District held its regular board meeting on October 16, 2024, where key topics included the approval of the hiring of Jesse Yost as the Middle School Head Boys' Basketball Coach and discussions around various student and community engagement initiatives. The board approved a series of donations to support the football team and student body activities, highlighting community involvement. Reports from the ASB Treasurer and student representative indicated strong student participation in school events, including homecoming activities and the planning of a winter formal dance. Additionally, Superintendent Jeremy Wheatley discussed the focus on teacher effectiveness during early release Wednesdays and the discontinuation of the middle school open science curriculum, which was deemed not a good fit. The meeting emphasized the district's commitment to academic standards and the importance of community engagement in supporting student activities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-16-minutes.txt)
-
-## 2024-10-14 - CAMAS_SCHOOL_DISTRICT (Agenda)
-
-The School Board Workshop agenda for October 14, 2024, focuses on several key areas.  "Safe and Healthy School Environments - District Safety Protocols" will be discussed as an informational item. A review of "Cultural Understanding - Policy & Procedure Review 3210," focusing on nondiscrimination, is scheduled as a discussion topic. The workshop also includes a presentation on "Excellence in Academic, Social and Lifelong Learning - CTE Program Review"  as an informational item. Finally, "Logistics" will be discussed.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-10-14-agenda.txt)
-
-## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The October 14th, 2024 study session agenda for the school board focuses on reviewing information related to the 2025-2026 budget development.  The meeting will take place at 6:00 PM in the Administrative Center Board Room and is categorized as a public content meeting. A file attachment titled "25-26 PPT - October 14 as of 10.10.24.pdf" (502 KB) is included with the agenda, suggesting that detailed budget proposals will be presented for discussion.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-14-agenda.txt)
-
-## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a study session on October 14, 2024, to review information regarding the 2025-2026 Budget Development.  The meeting was called to order at 6:30 PM and adjourned at 7:34 PM. In attendance were board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The minutes were approved on October 28, 2024.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-14-minutes.txt)
-
-## 2024-10-14 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors for an unspecified school district is holding a study session on October 14th, 2024 to review information related to the development of the 2025-2026 budget.  A presentation titled "25-26 PPT - October 14 as of 10.10.24.pdf" will be reviewed during the discussion portion of the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-14-agenda.txt)
-
-## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a special meeting on October 12, 2024, at the Inn at Lynden.  The agenda focused on strategic priorities and key performance indicators, with a specific emphasis on multilingual language proficiency growth. Additionally, the board discussed topics related to board development and effective governance, including the purpose and mission of the board and its operating principles. The meeting also included a session on capital facilities planning, outlining the district's long-range plan for facility improvements.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-agenda.txt)
 
 ## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -166,32 +88,25 @@ The Ferndale School Board convened a special session on October 3rd, 2024 to dis
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
 
-## 2024-10-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on several key topics.  The board will review and potentially approve second readings of Policy 2401 (Financial Education Mastery-Based Learning & Credit) and Policy 3241 (Student Discipline). These policies are undergoing revisions, with the specific changes not detailed in the provided text. The board will also discuss School Improvement Plans for Lynden Academy and Lynden High School, highlighting a commitment to academic standards.  Community engagement is emphasized through an "Information from the Audience" segment, allowing community members to address the board on agenda and non-agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-agenda.txt)
-
 ## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held its regular school board meeting on September 11, 2024.  Several policies and procedures related to academic standards and curriculum transparency were reviewed and approved. Procedure 2151P – Interscholastic Activities was passed, outlining guidelines for student participation in extracurricular activities.  Policies and Procedures 2402-2405 addressed mastery-based credit systems for English Language Arts, Math, Science, and Social Studies respectively. These policies aim to provide alternative pathways for students to earn academic credit based on demonstrated proficiency rather than traditional seat time requirements. The board also discussed long-term strategic plans, including the annual staffing report which highlighted teacher-staff shortages within the district.  The meeting concluded with a superintendent's report outlining preparations for the start of the school year and community engagement initiatives.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
 
-## 2024-09-09 - CAMAS_SCHOOL_DISTRICT (Agenda)
+## 2024-09-05 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The School Board Workshop agenda for September 9, 2024, focuses on three key areas: Culture, Learning, and Systems/Pathways.  Under "Culture," the workshop will review Associated Student Body (ASB) budgets. The "Learning" section includes a review of summer school programs. Finally, under "Systems/Pathways," the discussion topic is logistics. 
+The Bremerton School District Board of Directors held a regular meeting on September 5, 2024, where several significant updates and resolutions were discussed. Interim Superintendent Donna Dearin-Colosky presented the Superintendent's Report, highlighting the Summer Institute and the first day of school, as well as recognizing Crownhill Elementary and Armin Jahr Elementary for their achievements in the Washington School Recognition Program. The board approved several policies, including Policy 2410 concerning High School Requirements and Policy 2170 regarding Career and Technical Education. A notable resolution passed was Resolution 2024/2024-01, which allows the district to waive four days of the 180-day school calendar for conferences while still meeting hourly requirements, reflecting a commitment to student-led conferences.
 
+Additionally, the board proclaimed September as Attendance Awareness Month through Resolution 2024/2025-02, emphasizing the importance of student attendance in academic performance. The meeting also included a report on the 2024 Capital Bond Program, where updates on the selection process for design teams for new elementary schools were provided. There was no public input at this meeting, but the board reflected on various topics, including the importance of community engagement and the impact of new facilities on student experiences.
 
-The agenda provides no further detail on the specific content of these discussions.
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-05-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-09-agenda.txt)
+## 2024-09-05 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-## 2024-09-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+The Bremerton School District Board of Directors held a regular meeting on September 5, 2024, where they discussed various policies and resolutions, including the approval of the Consent Agenda, which encompassed multiple policies such as Policy 2410 on High School Requirements and Policy 2170 on Career and Technical Education. A significant resolution passed was Resolution 2024/2024-01, which sought a waiver of four days from the mandated 180-day school calendar to facilitate student-led conferences, reflecting a commitment to student autonomy and engagement. Additionally, Resolution 2024/2025-02 proclaimed September as Attendance Awareness Month, emphasizing the importance of student attendance for academic success. The meeting also highlighted updates on the Mountain View Middle School Athletics Complex and recognized the academic achievements of Crownhill and Armin Jahr Elementary Schools. Administrators presented reports on ongoing projects, including the selection of design teams for upcoming elementary school developments, indicating a focus on long-term strategic planning and community engagement in educational improvements.
 
-The Northshore School District Board of Directors held a study session on September 9, 2024, to discuss the Teacher and Principal Evaluation Program (TPEP). The meeting, which began at 6:45 PM and concluded at 7:45 PM, included all board members and Superintendent Michael Tolley.  The discussion centered around the TPEP, a program designed to evaluate teacher and principal performance. No specific changes or updates to the program were mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-09-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-05-septboard-minutes.txt)
 
 ## 2024-08-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -204,26 +119,6 @@ The Board reviewed school improvement plans for each level, addressing attendanc
 The Board expressed appreciation for the dedicated team of administrators working towards continuous school improvement.  The formal approval of the 2024-2025 School Improvement Plans will take place at a subsequent regular board meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-08-26-minutes.txt)
-
-## 2024-08-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors for an unspecified school district will hold a study session on August 26, 2024.  The agenda includes a discussion on "General Assembly and Legislative Priorities." This suggests the board will be reviewing potential changes to academic standards or curriculum transparency measures proposed by the General Assembly. Additionally, the meeting agenda indicates a focus on developing long-term strategic plans for the school district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-08-26-agenda.txt)
-
-## 2024-08-26 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors for an unspecified organization will meet on August 26, 2024, at 5:30 PM in the Administrative Center Board Room.  The meeting is a study session and open to the public. The agenda includes discussion on General Assembly and Legislative Priorities. This suggests that the board may be reviewing or setting policy goals related to education standards and curriculum transparency. The specific nature of these priorities is not detailed in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-26-agenda.txt)
-
-## 2024-08-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda includes a first reading of Policy 2413 Equivalency Credit Opportunities. Assistant Superintendent Kurt Harvill will present the policy at the August 21st meeting, with a second review and approval scheduled for September 13th.  The agenda mentions that this is a "first reading" and notes that the updated version of the policy has been marked up. The specific changes made to the policy are not detailed in the provided text.  
-
-In addition to the discussion on Policy 2413, the agenda also includes a finance report from Daniel Yorton, Director of Business and Finance. This report will provide an update on the district's budget status and projections. Finally, Dr. James Everett will deliver a Superintendent's Report outlining district activities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-08-21-agenda.txt)
 
 ## 2024-08-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -248,18 +143,6 @@ The meeting featured discussions on several new policies and procedures related 
 | [Steve Corwin](board_member_333.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
 | [Marty Gray](board_member_334.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
 | [Marty Gray](board_member_334.md) | voted no on motion to approve Procedure 2025 | Procedure 2025 was not further described in the meeting minutes provided. |
-
-## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines a range of topics focusing on academic and operational matters.  The board will discuss and potentially vote on the adoption of the 2024-2025 budget (Resolution #10-24). They will also consider approval for 2024-2025 Interscholastic Activities and the Highly Capable Program. An interlocal agreement with the Meridian School District regarding transportation services is also on the agenda for potential approval. The meeting includes time for public comment, information from the audience, and reports from the Superintendent, Teaching & Learning department, and Finance & Operations. A board workshop focusing on "Gender Inclusive Schools" will take place after regular agenda items are addressed.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-agenda.txt)
-
-## 2024-08-07 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District Board is holding a special meeting on August 7th, 2024. Key agenda items include the second review and approval of Grant Applicant Authorization Resolution 09-24.  Additionally, the board will conduct a first review of Procedure 2151P - Interscholastic Activities, with a planned second review and approval scheduled for August 21st. The meeting also includes standard procedural items like call to order, welcome, pledge of allegiance, and adoption of the agenda. Financial matters are addressed through a budget and finance update, while personnel actions are handled within the consent agenda.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-08-07-agenda.txt)
 
 ## 2024-08-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -315,12 +198,6 @@ The Meridian School District #505 Board held a regular meeting on July 23, 2024.
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
 | [Jarrod Karuza](board_member_332.md) | voted no on motion to approve Procedure 2161P - Interscholastic Activities Eligibility | Procedure 2161P outlines rules for student participation in sports and extracurricular activities |
 
-## 2024-07-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda and meeting minutes detail upcoming discussions and actions related to various aspects of school governance.  The board plans to review the 2024-2025 budget, including a public hearing for community input. They will also discuss and potentially adopt 2024-2025 School Improvement Plans. Additionally, policy updates are on the agenda. The minutes indicate that an executive session was held, though the specific purpose is not disclosed.  The board adjourned the meeting unanimously.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-22-agenda.txt)
-
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document is a school board monitoring response to a report on the district's progress towards its Ends policies. The board commends the district for its success in several areas, including the Latinos in Action program, principled behavior at Northern Heights High School, and growth in reading scores based on i-Ready data. They also highlight the positive impact of compacted math options and online learning tools.
@@ -328,12 +205,6 @@ This document is a school board monitoring response to a report on the district'
 The board expresses concern over attendance rates, which they hope will improve to at least the state average.  They suggest exploring creative solutions to support students with multiple interests, particularly in music education during middle school. The board acknowledges the challenges inherent in this but emphasizes the importance of fostering a lifelong appreciation for creativity. They also praise the report's focus on Columbia Elementary School as an example and its combination of qualitative and quantitative data.  No policy changes are proposed at this time.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
-
-## 2024-07-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District Board will hold a special meeting on July 10th, 2024 to discuss various agenda items.  A key focus is the "Second Review and Approval" of the 2024-25 MSD Board Meeting Plan of Work Calendar. Additionally, the board will conduct a first review of Procedure 2151P - Interscholastic Activities, with plans for a second review and approval on July 23rd, 2024. The meeting agenda also includes discussion and potential approval of the MHS LOSS Drain Field Repair Contract.  The meeting will be held at 5:00 PM in the Professional Development Room.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-10-agenda.txt)
 
 ## 2024-07-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -352,37 +223,17 @@ The Meridian School District #505 held a special school board meeting on July 10
 | [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
 
-## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-07-08 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
 
-The July 9, 2020 school board meeting minutes detail routine matters such as approval of minutes, consent agenda items (including purchases and contracts), and budget discussions. Notably, the board approved the "Renaissance Agreement" without further specification on its contents. The meeting also included updates from the superintendent regarding COVID-19 planning, waiver updates, capital projects, and graduation plans. Discussions touched upon long-term strategic planning for the district.  The board scheduled future meetings, including regular sessions and work sessions.
+The La Conner School Board held a special study session on July 8, 2024, where they approved the 2024-2025 Superintendent Goals and Board Goals, emphasizing academic standards with a focus on improving math and reading scores by 10 points. Superintendent Dave Cram indicated that the district would utilize IReady test scores for assessment and plans to engage with local non-profits regarding an upcoming levy. The Board also discussed the enforcement of Policy 3245, which restricts cell phone use during school hours to minimize distractions, and outlined plans for evaluating Superintendent Cram in November and February. Additionally, the board approved an addendum to Cram's contract which includes increased responsibilities and a $12,000 compensation increase, acknowledging his expanded leadership role.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-07-08-minutes.txt)
 
 ## 2024-07-08 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 held a special board meeting on July 8, 2024, for an audit exit conference with the Washington State Auditor's Office (SAO). The SAO conducted several audits, including an accountability audit, a major federal program compliance audit, and an audit of financial statements.  The auditors found no deficiencies or instances of misstatements in any of the audited areas. They commended the district for its diligence in financial management. The meeting concluded with the board president expressing appreciation to the SAO and the district's business office staff.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-07-08-minutes.txt)
-
-## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-This document details the minutes from a Northshore School District board meeting.  It covers routine agenda items such as budget reports, contract awards for services like food and beverage provision and copier maintenance, and construction updates for school renovation projects. The board also approved an amendment to a contract related to the Leota Middle School Phase 1 Replacement Project. There are no mentions of topics typically associated with culture war debates in education.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
-
-## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Northshore School District Board meeting agenda focuses on several key items.  The board will vote on authorizing Amendment #3 for the Leota Middle School Phase 1 Replacement Project. This amendment is part of a larger construction project and adjusts aspects of the ongoing work. Additionally, the board will review and potentially approve changes to academic standards and curriculum transparency policies. The specific details of these proposed policy changes are not provided in the text. Finally, the agenda mentions discussions regarding student health initiatives.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-07-08-agenda.txt)
-
-## 2024-07-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors met on July 6, 2017, to discuss various agenda items.  A key topic was the board's response to monitoring report EL-6 regarding Academic Standards and Practices. Following discussion, the board approved changes to the policy, including requiring the superintendent to appropriately involve stakeholder groups in academic standard decisions and timely communicate material changes. The revised policy also mandates a periodic systematic review of academic content, standards, curriculum, materials, and instruction involving appropriate stakeholders.  Additionally, the board discussed deleting the reference to the month in the Monitoring Frequency reference on all EL policies.
-
-The meeting also covered consent agenda items such as approval of minutes, investments, expenditures, and payroll, as well as resolutions related to various school matters. The board briefly addressed the process and timing for turning in responses to monitoring reports, intending to further discuss this at an upcoming retreat.  Finally, the board toured the new Options High School facility.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-06-minutes.txt)
 
 ## 2024-06-27 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -413,11 +264,13 @@ The meeting also included first readings of several procedures, including Proced
 | [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
 | [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
 
-## 2024-06-24 - CAMAS_SCHOOL_DISTRICT (Minutes)
+## 2024-06-24 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
 
-The School Board Meeting held on June 24, 2024, included several key actions and resolutions. Notably, the board approved a change to the graduation date for the Camas Connect Academy from June 11, 2025, to June 14, 2025, reflecting a policy change aimed at better accommodating students and families. Additionally, the board accepted the termination of Bradley Vandyne, which was discussed in an executive session, indicating ongoing personnel management and oversight. The meeting also recognized various achievements, including the Mill Town Pride Awards, showcasing community engagement and support for student accomplishments. The board's actions reflect a commitment to transparency and responsiveness to community needs.
+The La Conner School Board of Directors convened for their annual retreat on June 24, 2024, to discuss several key issues. The board reviewed their strategic plan, emphasizing the importance of student engagement and the need to improve community outreach to increase student enrollment. Discussions included the necessity of establishing a fully operational emergency plan to address potential threats, such as active shooter situations or natural disasters, highlighting concerns regarding school safety. Additionally, the board discussed the revision of academic standards, particularly in math, science, and English, pending state updates expected in January. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-24-minutes.txt)
+The board also addressed the roles and responsibilities of the school board and superintendent, reiterating the importance of following the chain of command. They reviewed the WSSDA Self-Assessment Survey results, with a commitment to continuous improvement in governance. Notably, the board plans to adopt the same operating principles for the 2024-2025 school year, with no changes made. They also discussed the need for increased family engagement through community events and proposed strategies for promoting job opportunities among tribal and minority communities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-06-24-minutes.txt)
 
 ## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -453,17 +306,19 @@ The Mountainview Learning Center School Board held a meeting on June 11, 2024, t
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
 
+## 2024-06-10 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
+
+The La Conner School Board held a special study session on June 10, 2024, where several key actions and discussions took place regarding academic standards and community engagement. The board approved the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as student representatives for the 2024-2025 school year, emphasizing the importance of student voices in board discussions. The board also adopted the 2024-2026 NWESD Stronger Connections Data Sharing Agreement #5929-03 and extended the existing contract with the Washington State Department of Commerce Energy Division for a solar project, highlighting a commitment to community resources and sustainability.
+
+In curriculum discussions, the board reviewed recommendations for K-12 science and K-5 physical education curricula, specifically the Mystery Science and SPARK programs. These recommendations aim to enhance academic standards and improve the quality of education. The board plans to adopt these curricula at the upcoming regular board meeting on June 24, 2024. Additionally, the board discussed the need for stricter compliance with state guidelines in the food service program, indicating ongoing efforts to ensure transparency and quality in educational offerings.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-06-10-minutes.txt)
+
 ## 2024-06-06 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The June 6, 2024 Regular Business Meeting of the Board of Directors included various key actions and updates. Notably, the board approved the 2024-2025 instructional materials for K-5 Literacy, 4th Grade Social Studies, Middle School Social Emotional Learning, Edge Fundamentals for Grades 6-8 Literacy, and the French Curriculum for grades 9-12. These approvals were made through a series of motions led by President Carolyn Watson and Director Bloch, all of which received unanimous support from the board. The meeting also featured a report on the Annual Plan Progress regarding communications and a discussion on the Sustainability Plan. Additionally, the board engaged in an executive session to evaluate a complaint against a public employee and discuss potential litigation, emphasizing the board's commitment to addressing legal and financial implications for the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-06-06-minutes.txt)
-
-## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board meeting agenda focuses on several key areas.  The board will consider the LHS Science Curriculum Adoption and the Career & Technical Education (CTE) 4-Year Plan, both of which relate to academic standards and curriculum transparency. Community engagement is highlighted through opportunities for public comment and recognition of student achievements. The board will also vote on Policy 2255 regarding Alternative Learning Experience Courses, a policy change that should be reviewed for specific alterations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-agenda.txt)
 
 ## 2024-05-28 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -488,23 +343,17 @@ The school board meeting addressed several policy revisions related to high scho
 | [Kevin Erickson](board_member_320.md) | voted yes on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
 | [Peggy Uppiano](board_member_321.md) | voted no on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
 
-## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
+## 2024-05-23 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
-The Board of Directors will hold a study session on May 28th, 2024, at 5:00 PM in the Administrative Center Board Room to discuss Goal 4 - Innovative, Creative, Critical Thinkers.  The meeting agenda includes a review of information related to this goal. Supporting documents for review include "Goal 4 Slide Deck," "SG4-2023-2024-Report-Final," and "G-1_Goals_last reviewed_2_13_2023."  The meeting will conclude with an end of meeting summary.
+The Hood Canal School District Board of Education held a regular meeting on May 23, 2024, where they approved several key items. Notably, the Board adopted the 2024-2025 School Calendar and approved the recommended K-5 English Language Arts (ELA) Curriculum Adoption, reflecting a commitment to maintaining academic standards and curriculum transparency. The Superintendent, Dr. Lance Gibbon, presented the recommendation for the K-5 ELA curriculum, which was subsequently supported by board members through unanimous votes. Additionally, the Board reviewed financial reports indicating a stable financial condition for the district and discussed the Building Condition Assessment Report. The meeting also included a commendation from Ms. Robbins for the care of rhododendrons during school construction, highlighting community engagement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-05-28-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-05-23-draftmtg-minutes.txt)
 
-## 2024-05-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+## 2024-05-23 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
-The school board agenda outlines discussions regarding monitoring reports for two policies: EL-6, Academic Standards and Provisions, and EL-8, District Calendar.  The board will assess the superintendent's compliance with these policies. Additionally, the board will review an updated annual agenda (GP-7.2) for informational purposes. The meeting also includes a study session focused on the International Baccalaureate program.
+The Hood Canal School District Board of Education convened on May 23, 2024, to discuss various agenda items, including the adoption of the K-5 English Language Arts (ELA) curriculum. Dr. Lance Gibbon, the Superintendent, presented a recommendation for this curriculum adoption, which was unanimously approved by the board. Additionally, the board reviewed the 2024-2025 School Calendar, which was also passed unanimously. The meeting included a report on the district's financial stability and an assessment of the building conditions. No new matters were raised in the Board of Education report, and personnel changes were approved without controversy. The meeting concluded with a commendation for a staff member's care of the school’s landscaping during construction.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-16-agenda.txt)
-
-## 2024-05-13 - CAMAS_SCHOOL_DISTRICT (Agenda)
-
-The School Board Workshop agenda for May 13, 2024, outlines three main discussion topics.  The first is a presentation from the USTA (United States Tennis Association), suggesting a focus on physical education and potentially extracurricular activities. The second topic, "Continuous Growth - All levels," likely pertains to ongoing professional development initiatives for school staff aimed at improving educational outcomes across all grade levels. Lastly, the agenda includes a discussion session titled "Logistics for the Month of May/June/July," which suggests planning for upcoming academic events, scheduling, and operational needs during the summer months.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-05-13-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-05-23-minutes.txt)
 
 ## 2024-05-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -531,22 +380,6 @@ The Board also approved the Sendan Center Contract which was presented for a sec
 | [Marty Gray](board_member_334.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
 | [Jana Haugen](board_member_331.md) | voted yes | motion to approve the Sendan Center Contract as presented |
 | [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the Sendan Center Contract as presented |
-
-## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a school board meeting on May 2nd, 2024. The meeting agenda included updates on the district's progress towards its goal of graduating all students "college, career, and citizenship ready."  Good news items highlighted student achievements in academics, extracurricular activities, and career exploration.
-
-The board reviewed policy changes including first readings for Policy 6905- Site Acquisition and second readings for policies related to nutrition (6700), recess and physical activity (6701), wellness (6702), physical education and health class (2124) and equivalency credit opportunities (2413).  Specific details regarding the content of these policy changes were not included in the provided text. The board also considered an Interlocal Cooperative Agreement with the Whatcom Detention Center and Resolution #06-24 for WIAA Membership Renewal.
-
-The meeting emphasized community engagement, with a section dedicated to information from the audience and opportunities for public comment on agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-02-agenda.txt)
-
-## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The Blaine School District held a special board meeting on April 29th, 2024 to consider Resolution 2324-08, titled "Adoption of 2024-2025 Reduced Educational Program." This resolution proposed a plan for reducing educational offerings in the district for the upcoming school year. The plan was developed by district leadership and incorporated feedback from campus and department administrators, staff surveys, presentations, and community meetings.  The board voted to adopt the resolution. A separate proposal submitted to the board by SEIU Local 925 Blaine School District Chapter Leadership was also included in the meeting materials. The meeting minutes indicate that all directors were present and that the vote to adopt the resolution was unanimous.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-29-agenda.txt)
 
 ## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -580,18 +413,6 @@ The meeting on April 23, 2024, focused on the adoption of health and English Lan
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/jefferson/school_boards/chimacum_school_district/2024/2024-04-23-aprilimc-minutes.txt)
 
-## 2024-04-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
-
-The School Board Meeting held on April 22, 2024, included discussions on several policy reviews and approvals. Notably, policies were presented for first reading, including 2410 - High School Graduation Requirements, and 5005 - Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval. The board also reviewed and adopted policies in their second reading, such as 2255 - Alternative Learning Experience Courses and 2415 - Performance-Based Pathway for High School Graduation, which is a new policy. Additionally, the board approved a one-year contract with GB Manchester, Inc. for district-wide fire alarm inspections, amounting to $71,925, and authorized the purchase of Wireless Access Point devices for $688,453.80, funded by the Technology Levy. The meeting concluded with an executive session focused on property matters.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-22-minutes.txt)
-
-## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines several policy discussions and potential actions. First readings are scheduled for policies 2413 (Equivalency Credit Opportunities), 6700 (Nutrition), 6701 (Recess & Physical Activity), 6702 (Wellness), and 2124 (Physical Education & Health Class).  A second reading will be held for Policy 3421 (Child Abuse & Neglect). The board will also consider approving Pro/Con Committee Members related to a bond resolution and Resolution #05-24, focusing on the Asset Preservation Program.  The agenda emphasizes community engagement by allowing time for information from the audience regarding both agenda and non-agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-18-agenda.txt)
-
 ## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail discussions on academic performance, finance and operations, and policy updates.  The board reviewed student performance data in reading and math, noting scores of approximately 61% and 53%, respectively. Director Ben Thomas presented a financial report for March 2024 encompassing enrollment analysis, budget status, revenue and expenditure analysis, and projections. Several policies underwent first readings, including Policy 2413 (Equivalency Credit Opportunities), Policy 6700 (Nutrition), Policy 6701 (Recess & Physical Activity), Policy 6702 (Wellness), and Policy 2124 (Physical Education & Health Class).  Policy 3421 (Child Abuse & Neglect) received a second reading and was approved with a unanimous vote. The board also addressed action items, approving Resolution #05-24 for the Asset Preservation Program and appointing committee members for a bond resolution. Additionally, they approved an interlocal agreement with Bellingham School District for Title 1 services. Director Martinez shared updates on his school visits and community engagement initiatives.
@@ -619,12 +440,6 @@ The Bellingham School Board reviewed a report on student outcomes, focusing on g
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
 
-## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a retreat on April 13, 2024, to discuss several key topics.  The board will review their governance and development processes, analyze student outcome data through Key Performance Indicators (KPIs), and work on developing long-term strategic plans for the district. Additionally, they will address the process for developing future agendas and aim to foster stronger community engagement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-agenda.txt)
-
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board of Directors met on April 13, 2024 to discuss various topics related to district operations and student outcomes.  The board reviewed data on Key Performance Indicators including 3rd Grade Reading, Multilingual Learner Language Proficiency Progress, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys. They also discussed the strategic planning process and timeline for updating the district's Strategic Plan and Priorities. Additionally, the board reviewed the results of a self-assessment conducted by WSSDA (Washington State School Directors' Association) and discussed ways to improve responsible governance and effective board leadership. Finally, the board discussed the process for developing board meeting agendas and reviewed relevant policies.
@@ -638,6 +453,18 @@ The Lynden School District Board of Directors met on April 13, 2024 to discuss v
 | [Ken Owsley](board_member_327.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
 
+## 2024-04-11 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
+
+The Hood Canal School District Board of Education held a study session on April 11, 2024, where key topics included the planning process for the 2024-25 calendar, updates on the K-5 English Language Arts (ELA) curriculum adoption, and discussions on long-range facilities planning and grant opportunities. The meeting emphasized academic standards and curriculum transparency, particularly concerning the adoption of new educational materials for K-5 students. Additionally, the board acknowledged community engagement efforts, with Ms. Robbins commending Sarah Moore for organizing a student field trip to Autism Acres, highlighting the district's focus on special education support. The fiscal team received praise from Mr. Thompson for achieving a clean Fiscal & Compliance Audit, reinforcing the importance of financial accountability in long-term strategic plans.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-04-11-draftmtg-minutes.txt)
+
+## 2024-04-11 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
+
+The Hood Canal School District Board of Education held a study session on April 11, 2024, where key topics included the planning process for the 2024-25 academic calendar, updates on the K-5 English Language Arts (ELA) curriculum adoption, and discussions on long-range facilities planning and grant opportunities. The board emphasized the importance of maintaining high academic standards and curriculum transparency as they consider new educational materials. Additionally, the meeting highlighted community engagement, with Ms. Robbins recognizing Sarah Moore for organizing a student field trip to Autism Acres, reflecting a commitment to special education support. The meeting concluded with positive remarks about the fiscal team's performance in a recent audit, underscoring the district's focus on responsible financial management.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-04-11-minutes.txt)
+
 ## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on April 10, 2024.  The agenda included several items related to curriculum and policy updates. The board reviewed and adopted Eureka Math² and Adíos Textbook as new curriculum materials. They also approved Policy and Procedure 2121 (substance abuse), Policy and Procedure 3122 (harassment, intimidation and bullying) and Policy and Procedure 4230 (emergency preparedness).  
@@ -646,20 +473,6 @@ The board discussed and approved several resolutions including Emergency Repair 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-minutes.txt)
 
-## 2024-04-04 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District Board Meeting agenda focuses on several key areas. Firstly, it highlights the district's commitment to "Mental Health" with mentions of a Youth Mental Health First Aid course and a community viewing of the film "Screenagers," which addresses technology's impact on youth development.  Secondly, the agenda promotes "Social-Emotional Learning" through events like the Lynden Middle School Chess Club hosting a competition with local first responders. The meeting also touches upon "School Safety" by including an item on building leadership teams collaborating around Multi Tiered Systems of Support (MTSS) and Universal Design for Learning.
-
-Regarding "Academic Standards," the agenda includes a first reading of Policy 2415 - Performance-Based Pathway for High School Graduation, suggesting potential changes to graduation requirements.  Furthermore, the emphasis on "Curriculum Transparency" is evident in the inclusion of the policy's first reading, allowing for public review and feedback. Lastly, the agenda underscores "Community Engagement" by providing opportunities for audience members to address the board on both agenda and non-agenda items. The meeting also includes a workshop on Facilities Planning, indicating a focus on long-term district development.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-agenda.txt)
-
-## 2024-04-02 - TAHOMA_SCHOOL_DISTRICT (Agenda)
-
-The Tahoma School District Board is holding a work study session on April 2nd, 2024.  The meeting will focus on discussion items related to academic standards and the 2024/25 budget. PSESD Superintendent John Welch will be in attendance. Chief Financial Officer Bill Hernandez will provide an update on preliminary enrollment and revenue projections for the upcoming school year. The session will also include a review of relevant documents, including the Tahoma SD Slides for April 2024 and the District Budget Work Study Session materials.  The meeting will be held at the Central Services Center with a virtual option available via Zoom.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-04-02-agenda.txt)
-
 ## 2024-03-28 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District Board held a regular meeting on March 28, 2024, discussing various topics including school safety, academic standards, and curriculum transparency.  The board approved several resolutions, including MB Board Resolution 23/24:16 which authorized the transfer of certain state forest land revenues from the Debt Service Fund to the Capital Projects Fund. Additionally, they adopted the 2024-2025 Reduced Educational Program through MB Board Resolution 23/24:17.
@@ -667,12 +480,6 @@ The Mount Baker School District Board held a regular meeting on March 28, 2024, 
 The board also approved several policy changes for first and final readings, including MB Policy 5005 Employment and Volunteers Disclosures Certification Requirements,  MB Policy 2090 Program Evaluation, and MB Policy 6220 Bid or Request for Proposal Requirements. The meeting concluded with a discussion on upcoming events and the scheduling of future meetings. Notably, the board approved a Memorandum of Understanding between Common Threads Farm and the Mount Baker School District.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-28-minutes.txt)
-
-## 2024-03-26 - TAHOMA_SCHOOL_DISTRICT (Agenda)
-
-
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-03-26-agenda.txt)
 
 ## 2024-03-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -716,6 +523,14 @@ The school board meeting addressed several routine matters through a consent age
 | [Antonio Machado](board_member_324.md) | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
 | [Nancy Button](board_member_323.md) | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
 
+## 2024-03-25 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+
+The Regular School Board Meeting held on March 25, 2024, included several key discussions and actions centered around community engagement and mental health initiatives. The board recognized Steve Richardson as the community partner of the month for his contributions to the school. Updates were provided on the elementary school's iReady scores, reflecting strong academic performance with 89% passing in Math and 80% in ELA, indicating readiness for upcoming SBAC testing. Additionally, the board approved several personnel changes, including resignations and new hires, as well as the first reading of policy 6217/6217P regarding Electronic Funds Transfer and the second reading/adoption of multiple policies related to graduation requirements and employment practices.
+
+The meeting also addressed mental health through initiatives like trauma-informed training in elementary schools, which has reportedly improved the environment for both students and staff. The board approved a resolution to reduce positions as part of budgetary adjustments, which may impact staffing levels. Overall, the meeting highlighted the school district's commitment to enhancing academic standards and supporting the mental well-being of students while navigating administrative changes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-03-25-minutes.txt)
+
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes detail discussions on various topics. A mental health update was presented, covering the role of the Mental Health Coordinator, a summary of the Healthy Youth Survey, and the Gaggle electronic safety management system. Concerns regarding school safety at Lynden High School (LHS), particularly the numerous points of entry, were raised by a community member.
@@ -748,47 +563,17 @@ Additionally, Director of Teaching and Learning Adrienne Somera presented Eureka
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-minutes.txt)
 
-## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+## 2024-03-16 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a special meeting on March 18, 2024, where they discussed several key topics, including the development of a pool, the Portrait/Profile of Graduate, the implications of artificial intelligence in education, and the handling of data. The meeting commenced at 5:02 PM and concluded at 7:58 PM. Specific actions or resolutions regarding these topics were not detailed in the minutes, but the inclusion of artificial intelligence suggests a focus on integrating modern technology into the educational framework. The session was attended by board members and the superintendent, Mr. Michael Tolley, who also served as the secretary to the board.
+The Bremerton School District Board of Directors held a special meeting on March 16, 2024, to review and discuss several policy changes. Key policies included Policy 2170, which updated vocational education to Career and Technical Education (CTE) standards, and Policy 2413, which expanded equivalency credits to include experiential educational opportunities. The board addressed how students could earn credits through paid work experiences and mastery-based assessments. Policy 2195 was introduced to ensure students demonstrating competency in a course are automatically enrolled in the next rigorous course, while Policy 2104 emphasized the need for equity in Title 1 services. Policy 2107 was introduced as a new comprehensive early literacy plan, mandating monitoring of early literacy progress and the use of research-based interventions. The meeting included discussions on the alignment of these policies with current practices and legislative requirements, as well as the need for clear procedures regarding student retention and intervention individualization.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-18-minutes.txt)
-
-## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The March 14, 2024 school board meeting agenda focuses on reviewing the superintendent's compliance with existing policies and discussing potential policy changes.  Specifically, the board will discuss monitoring reports related to Ends 2.1 (Part 1 & 2) - Student Competence, evaluating whether the superintendent is adhering to the established standards for student learning outcomes. Additionally, the board will review the updated GP-7.2, 2023-24 annual board agenda, noting any changes from the previous version.  This meeting highlights the board's commitment to curriculum transparency and ensuring that educational standards are being met.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-03-16-minutes.txt)
 
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This excerpt from school board meeting minutes focuses on a report regarding student academic performance and the district's efforts to address learning loss stemming from the COVID-19 pandemic. Board members commend the progress made in math and science, particularly in comparison to other districts. They acknowledge that while improvements are evident, further progress is needed to fully recover from the pandemic's impact on student learning. The discussion highlights the district's commitment to closing proficiency gaps and its ongoing efforts to support teachers through professional development and curriculum adoption.  There is a positive sentiment towards the district's focus on racial equity and addressing achievement disparities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
-
-## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors for an unnamed school district will hold a study session on March 11, 2024 to discuss the 2024-2025 budget development.  The meeting agenda includes a call to order, list of attendees, and discussion regarding the upcoming budget. A file attachment titled "March 11 as of 3.8.24.pdf" is available for public review. The meeting concludes with an end of meeting designation.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-03-11-agenda.txt)
-
-## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Board of Directors for an unspecified school district will hold a study session on Monday, March 11, 2024.  The primary focus of the meeting is "2024-2025 Budget Development" which will be discussed by the board. No other specific policy or agenda items are mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-11-agenda.txt)
-
-## 2024-03-07 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 board meeting agenda focuses on various topics related to student well-being and academic performance.  The agenda includes a "Curriculum Process Update" under the Teaching and Learning report, suggesting a focus on transparency in educational practices. A "Special Education Presentation" by the Superintendent highlights the district's commitment to supporting students with diverse learning needs. The board will also consider a resolution (Resolution #03-24) regarding Food Service meal balances.  Furthermore, an Overnight Trip Request and the 24/25 School Calendar are on the agenda for discussion and potential approval. The meeting emphasizes student autonomy by featuring achievements of Lynden High School students in academics and athletics.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-07-agenda.txt)
-
-## 2024-03-06 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda includes a second review and motion to approve the 2024-27 school year calendars.  The board will also consider Resolution 01-24: OSPI 180 Day Waiver, which seeks approval for a waiver from the standard 180-day school year requirement. The Superintendent will deliver a report on district activities. Other agenda items include information sharing from student board representatives and board directors, and the signing of official documents.  The meeting will conclude with an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-06-agenda.txt)
 
 ## 2024-03-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -809,12 +594,6 @@ The meeting minutes detail a regular school board meeting held on February 22, 2
 The board emphasized curriculum transparency by approving a consent agenda that included several policies related to financial procedures and student health. Notably, the meeting highlighted community engagement through presentations from FFA students and an opportunity for public comment during "Information from the Audience." The minutes also document updates on school visits, legislative action, and budget reports delivered by the Superintendent and Director of Finance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
-
-## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The agenda outlines a regular meeting and board work session for the school district on February 21, 2024. Key discussion points include Resolution 01-24: OSPI 180 Day Waiver, which will be presented for initial review and subsequently brought back for approval on March 6, 2024. This resolution likely concerns a waiver request from the Office of Superintendent of Public Instruction (OSPI) regarding the standard 180-day school year requirement. Additionally, the agenda includes information about a partnership opportunity with the University of Washington focused on leveraging generative AI to enhance mathematics instruction through their Amplify Learn initiative. The Superintendent will also deliver a report on district activities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-agenda.txt)
 
 ## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -841,18 +620,6 @@ The Meridian School District held a regular school board meeting on February 21,
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
 
-## 2024-02-21 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
-
-The Spokane Public Schools Board will hold a special meeting on February 21, 2024, at 4:30 pm.  The agenda includes a work session focused on updating Priority Strategy #1 (Bond & Levy Ballot Initiative) following the recent February special election. Additionally, there will be a discussion on the budget development process and priorities for the 2024-2025 school year. Lastly, a legislative update on the current Washington State Legislative Session and its impact on the district's adopted legislative priorities will be presented. The meeting will be held in person at the Administration Building and accessible via Zoom.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-21-agenda.txt)
-
-## 2024-02-20 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The Blaine School District is holding a special board meeting on February 20, 2024, at the Blaine Middle School Cafeteria to solicit feedback from stakeholders regarding the district's budget planning for the 2024-2025 school year.  The meeting will be divided into four groups, each discussing specific questions related to the district's strengths, areas needing improvement, essential programs and supports, and potential student and family support offerings if levy funding allows. The board will listen to group discussions, review written feedback, and hear presentations from each group. Following the feedback process, the meeting will be adjourned.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-20-agenda.txt)
-
 ## 2024-02-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District held a special board meeting on February 20, 2024, to solicit stakeholder feedback on potential budget reductions for the 2024-2025 school year.  The meeting was structured around four group discussions, each focused on different aspects of the district's needs and priorities. Topics included identifying areas requiring additional resources, essential programs and supports, and desired student and family supports should levy funds become available. The board emphasized the importance of community input in prioritizing budget decisions and acknowledged the likelihood of program reductions.  Concerns raised by attendees included the process for determining cuts, the district's long-term financial sustainability, and the need for transparency in decision-making. The board encouraged ongoing communication with stakeholders through various channels.
@@ -867,31 +634,23 @@ The Blaine School District held a special board meeting on February 20, 2024, to
 | [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
 | [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
 
-## 2024-02-20 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on February 20, 2024, at 6:30 AM to discuss several key items.  The board will be considering Resolution # 01-24 regarding a General Obligations Bond and will also delegate authority to the Superintendent for approving For/Against Committees related to the bond. Additionally, the board will address two resolutions: Board Resolution- House Bill 2331 and Board Resolution- Senate Bill 5462. The meeting agenda includes time for public input on the general obligations bond, with written comments accepted until 8:00 PM on February 19th.  Those wishing to speak in person must sign up at the meeting. The board will also hold a workshop to discuss bond resolution possibilities in relation to election timelines and project scope.  
-
-The Lynden School District's mission is "to ensure that all students graduate college, career, and citizenship ready."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-20-agenda.txt)
-
-## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on several key areas.  The board will review meeting minutes and a consent agenda including personnel recommendations and donations. A significant portion of the meeting is dedicated to reports from the superintendent, teaching and learning department, and finance and operations. These reports cover topics such as nursing presentations, special election results, budget forecasts, and financial updates. The board will also address action items, including overnight and out-of-state trip requests. Additionally, a legislative update and information from board members regarding meeting logistics and communication are scheduled.  The agenda emphasizes student autonomy with a section for "Information from the audience" allowing public comment on both agenda and non-agenda items.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-agenda.txt)
-
 ## 2024-02-13 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
 The Federal Way Public School District No. 210 held a Board Meeting on February 13, 2024, where several key actions were taken. Notably, the Board approved the adoption of the 3-5 and 6-8 English Language Arts (ELA) Curriculum, which aligns with academic standards and aims to enhance curriculum transparency. Additionally, the Board passed Resolution 2024-02, which authorizes surplus disposition requirements as stipulated by RCW 28A.335.180. Superintendent Dr. Dani Pfeiffer introduced community engagement initiatives and recognized the contributions of community partners, emphasizing the importance of collaboration in education. The meeting also featured reports from scholar representatives, highlighting the involvement of students in school governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-13-minutes.txt)
 
-## 2024-02-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+## 2024-02-12 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 School Board is holding a meeting on February 8th, 2024 at 7:00 PM in the Board Room located at 516 Main St, Lynden, WA 98264.  The agenda includes standard items such as a call to order, approval of meeting minutes from January 25th, 2024, and a consent agenda covering payroll and personnel recommendations. The meeting will also feature a joint work session with the City of Lynden and Lynden Parks & Recreation. The specific topics for discussion during this work session are outlined in a separate agenda document dated February 8th, 2024.  The meeting concludes with an adjournment vote.
+The La Conner School Board of Directors held a special study meeting on February 12, 2024, where they discussed various topics, including site visits to math classrooms and personnel actions. The board approved travel requests for staff to attend the Innovative Schools Summit in New York, highlighting the need for community engagement and input regarding the football program, especially after WIAA denied the petition for an 8-person football team. The board is considering options for the football program, including eliminating it or combining with another school due to declining enrollment and participation. Additionally, the board reviewed School Improvement Plans (SIPs) and noted a 6% increase in graduation rates, emphasizing the importance of addressing teacher-staff shortages and improving academic standards. Policies under consideration included several regarding board operations and governance, with a first reading of multiple new policies scheduled for adoption at the upcoming meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-08-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-02-12-minutes.txt)
+
+## 2024-02-08 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
+
+The Hood Canal School District Board of Education held a study session on February 8, 2024, where significant topics included the presentation of i-Ready diagnostic results by Principal Steven Torres, indicating student progress in academic standards from the beginning of the school year to recent assessments. The meeting also addressed attendance rates, highlighting an increase in regular attendance and a decrease in chronic absences among students. Additionally, the Board discussed future professional development opportunities, including a workshop scheduled with Mary Fertakis on March 9, 2024. Community engagement was acknowledged by Ms. Robbins, who recognized the Citizens for the Support of Hood Canal School committee for their contributions. The session concluded with an executive session focused on the superintendent evaluation process, lasting a total of 1 hour and 15 minutes, after which no actions were reported.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-02-08-draftmtg-minutes.txt)
 
 ## 2024-02-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -902,12 +661,6 @@ The board reviewed and approved several policies including Policy and Procedure 
 The meeting concluded with an adjournment at 8:15pm.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-07-minutes.txt)
-
-## 2024-02-07 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
-
-The Spokane Public Schools Board will hold a special meeting on February 7, 2024, at 4:30 pm.  The agenda includes a work session discussing legislative updates and high school programming options available on the Hillyard Campus.  The meeting will be held in person at the Administration Building and accessible via Zoom. The board will also hold an executive session to discuss the performance of a public employee. Public comment can be submitted via email to SchoolBoard@spokaneschools.org.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-07-agenda.txt)
 
 ## 2024-02-06 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
@@ -957,27 +710,6 @@ The Meridian School District #505 held a regular school board meeting on January
 | [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
 | [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
 | [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-
-## 2024-01-23 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
-
-The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where several key actions were taken. The board approved the Meeting Agenda and the Required Approvals Agenda, which included the approval of various financial reports and personnel reports. Notably, Resolution 2024-01 was passed, authorizing the waiver of public bidding requirements as outlined in RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and recognized the accomplishments of scholars and staff through the "Because of You Awards." The meeting concluded with public comments and a review of the board meeting assessment by President Dr. Jennifer Jones. Overall, the meeting focused on organizational performance, budgetary considerations, and recognition of achievements within the district. 
-
-policy-changes
-summary: The Federal Way Public Schools Board of Education held a regular meeting on January 23, 2024, where several key actions were taken. The board approved the Meeting Agenda and the Required Approvals Agenda, which included the approval of various financial reports and personnel reports. Notably, Resolution 2024-01 was passed, authorizing the waiver of public bidding requirements as outlined in RCW 39.04.280. Superintendent Dr. Dani Pfeiffer provided a budget update and recognized the accomplishments of scholars and staff through the "Because of You Awards." The meeting concluded with public comments and a review of the board meeting assessment by President Dr. Jennifer Jones. Overall, the meeting focused on organizational performance, budgetary considerations, and recognition of achievements within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-01-23-minutes.txt)
-
-## 2024-01-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda outlines a regular meeting on January 22, 2024.  The meeting includes time for general comments from the directors and discussion of future meetings and agenda suggestions. A School Improvement Plan mid-year work session is scheduled for February 26, 2024, followed by a regular board meeting. Suggested agenda items include recognizing Education Support Professionals Week and School Retirees' Appreciation Week, receiving a High School Student Report and School Administrator Monthly Reports, discussing enrollment updates and financial reports, and hearing the Superintendent's report. The agenda also includes a potential executive session for discussion of confidential matters allowed under state statute.  The meeting concludes with a formal motion to adjourn.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-22-agenda.txt)
-
-## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which emphasizes Growth for Every Student and the elimination of outcome and opportunity gaps. The discussion was led by Superintendent Mr. Michael Tolley, who provided insights into the district's strategies for achieving these objectives. The session was attended by board members including President Amy Cast and other directors. The Board's commitment to racial equity was evident as they reviewed policies aimed at addressing disparities in educational outcomes. The meeting concluded with an adjournment at 6:49 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
 
 ## 2024-01-22 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
@@ -1037,27 +769,11 @@ The board reviewed proposed changes to MSD Board Operating Protocols and the Rev
 | [Marty Gray](board_member_334.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
 | [Steve Corwin](board_member_333.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
 
-## 2023-12-14 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines standard topics such as meeting minutes approval, oath of office for newly elected board members, and good news segments highlighting student achievements.  The agenda includes a "Consent Agenda" with routine items like payroll approvals and personnel recommendations.  
-
-A significant portion focuses on reports from the Superintendent, Teaching & Learning department, and Finance & Operations. The Teaching & Learning report will feature School Improvement Plan Presentations for Lynden Academy, Fisher Elementary, and Bernice Vossbeck Elementary, along with a Curriculum Adoption and Maintenance Presentation.  The Finance & Operations section addresses the 2024-2025 Budget Calendar Development.
-
-Policy discussions include first readings of revised policies: Policy 2004 - Performance Improvement Goals, Policy 2090 - Program Evaluation, and Policy 2190 - Highly Capable Programs. The meeting concludes with a Board Workshop, Executive Session regarding litigation, and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-12-14-agenda.txt)
-
 ## 2023-12-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting discussed the review and approval process for a new science curriculum. The curriculum undergoes community review for 30 days, followed by consensus from the science team and approval by the Instructional Materials Committee (IMC). Final approval rests with the school board. Director Owsley expressed interest in a deeper review of the curriculum. The board also received an overview of the 24/25 budget development process. Policy updates were addressed, including first readings for Policy 2004- Performance Improvement Goals and Policy 2090- Program Evaluation. Updated Policy 2190- Highly Capable Programs was approved unanimously.  The board scheduled a retreat for January 27th at 8:00 am. The meeting adjourned at 10:46 pm following an executive session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-12-14-minutes.txt)
-
-## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The December 13th school board meeting agenda covers a range of topics relevant to the daily operations and future planning of the school district.  The Transportation Director will present a report on the department, followed by a presentation from the Facilities Task Force Committee regarding their recommendations. The board will conduct a second review and approval of the Youth Care Services Contract.  Dr. James Everett, Superintendent, will deliver a report on district activities. The agenda also includes time for information sharing from student board representatives and board directors, as well as the formal adjournment of the meeting. Notably, the agenda reflects potential concerns about teacher staffing shortages.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-agenda.txt)
 
 ## 2023-11-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1067,37 +783,11 @@ The board conducted second reviews and approvals of several levies: the NWESD Be
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-11-21-minutes.txt)
 
-## 2023-11-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda outlines standard topics including good news reports from schools, approval of meeting minutes and a consent agenda covering payroll, personnel recommendations and interdistrict agreements. Reports from the superintendent, teaching and learning departments, and finance are scheduled. 
-
-The board will address policy changes with second readings for Policy 5310 (Compensation) and Policy 6215 (Expense Claim Certification and Approval), followed by third readings for Policy 6959 (Acceptance of Completed Project). The agenda also includes time for action items, information from board members, a student board representative report, and a board workshop.  Notably, the meeting agenda does not mention any topics related to diversity, equity, inclusion, or social-emotional learning.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-11-09-agenda.txt)
-
-## 2023-11-01 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The November 1, 2023 school board meeting agenda includes discussions on several key topics.  The board will review Resolution 09-23, a capital levy resolution aimed at replacing an expiring levy and funding district education programs and operations. A finance report will be presented by Director of Finance Daniel Yorton, covering enrollment figures compared to previous months and budget projections. Superintendent Dr. James Everett will deliver a report on district activities. The agenda also includes time for information from student board representatives and board members, as well as the signing of official documents and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-11-01-agenda.txt)
-
-## 2023-10-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 board meeting agenda focuses on routine matters such as approving payroll and personnel recommendations.  The consent agenda includes the "23-24 Lynden SD Running Start Agreement". Several policy readings are scheduled, including first readings for Policy 5310- Compensation, Policy 6215- Expense Claim Certification and Approval, and Policy 6605- Student Safety- Walking, Biking, and Riding Buses. Second readings are planned for Policy 3520- Student Fees, Fines, and Charges, Policy 6530- Insurance, and Policy 6959- Acceptance of Completed Project. The meeting also includes a section for "Good News" highlighting student achievements and community engagement activities within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-26-agenda.txt)
-
 ## 2023-10-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes detail the board's discussion and approval of various policies and agenda items.  The board approved updated versions of Policy 3520 (Student Fees, Fines, and Charges) and Policy 6530 (Insurance). They also moved Policy 6959 (Acceptance of Completed Project) to a third reading for further consideration. Additionally, the board reviewed and approved a Running Start Agreement with Bellingham Technical College for the 2023-2024 academic year. The meeting included reports from the Superintendent, Teaching and Learning department, and Finance and Operations.  The minutes also document updates on WSSDA position prioritization and progress on updating the board handbook.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-26-minutes.txt)
-
-## 2023-10-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a special meeting on October 13, 2023, at 8:00 AM to discuss several topics.  The agenda includes reviewing the Board Handbook and examining WSSDA positions. A significant portion of the meeting (135 minutes) will be dedicated to discussing District Performance Measures. The meeting concludes with an adjournment scheduled for 12:00 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-13-agenda.txt)
 
 ## 2023-10-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1105,35 +795,17 @@ The Lynden School District #504 Board of Directors met on October 13, 2023, to d
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-10-13-minutes.txt)
 
-## 2023-09-29 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Bellingham School District Board is holding a special meeting on September 29th, 2023 at 4:30 PM in the Professional Development Room.  The agenda includes procedural items such as calling the meeting to order and adjourning. Action items include adopting the agenda and approving consent agenda items like accounts payable and payroll. The board will also be discussing unspecified "official documents" requiring signatures. No specific policies or curriculum changes are mentioned in this agenda preview.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-29-agenda.txt)
-
 ## 2023-09-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting focused on a proposed $70 million bond initiative to fund various school improvements.  The board unanimously approved Resolution 2324-02, authorizing the submission of this bond initiative for voter approval in February 2024. Discussion points included upgrades planned for Point Roberts Primary School and the importance of communicating transparently with voters about the bond's potential impact. President Thomas emphasized that the district's ability to complete all projects depends on factors beyond their control, and there are no guarantees. Director Gibson expressed appreciation for efforts to maintain the current tax rate. Ms. Porter clarified that increases in property assessed value could still lead to higher taxes, a factor outside the school district's control. The board also discussed agenda items for the next meeting, including enrollment updates, financial reports, and plans for highly capable and career and technical education (CTE) programs.  They will also review WSSDA Legislative Priorities at the next meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-09-25-minutes.txt)
 
-## 2023-09-20 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The agenda outlines a school board meeting on September 20th, 2023.  A first reading of Policy 6240 - Food and Beverage will be presented by Assistant Superintendent Kurt Harvill with a second review and approval scheduled for the October 4th meeting. Daniel Yorton, Director of Finance, will deliver the finance report, which will be available in BoardDocs before 10 am on September 18th.  Superintendent Dr. James Everett will provide a report on district activities, including an approval letter from Whatcom Core Campus dated September 8th, 2023. The agenda concludes with information from student board representatives, board members, and the official signing of documents before adjourning.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-20-agenda.txt)
-
 ## 2023-09-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on September 20, 2023.  The meeting covered a range of topics including reports on professional development plans for staff and summer maintenance projects. Several agreements were reviewed and approved, including the Bradley University Preceptor Agreement and the SLP Teleservices Agreement. The board also received a first reading of several policies and procedures related to electronic resources, internet safety, student fees, fines or charges, student records, and food and beverage consumption.  These will be brought back for a second review and approval at the next meeting.  The superintendent provided updates on enrollment projections, budget status, and the district's application for a Core Skill Center in Whatcom County. Student Board Representatives shared their plans for engaging student voices.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-20-minutes.txt)
-
-## 2023-09-14 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a school board meeting on September 14, 2023.  The agenda included routine items such as the oath of office for student directors, reports from the superintendent and teaching and learning department, and public comment. The board reviewed policy changes, including first readings of Policy 1400 (Meeting Conduct, Order of Business, and Quorum) and Policy 2190 (Highly Capable Program). A second reading was conducted for Policy 2230 (Transition to Kindergarten). Action items included the approval of a Highly Capable Grant for the 23/24 school year, student fees and fines, and a feasibility study for the Whatcom County Skills Center.  The meeting concluded with a board workshop on bond resolution planning and attendance at the WSSDA General Assembly. A closed session was scheduled to discuss collective bargaining updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-09-14-agenda.txt)
 
 ## 2023-09-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1151,30 +823,6 @@ The Superintendent's report highlighted professional development and planning pr
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-09-06-minutes.txt)
 
-## 2023-08-31 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a special meeting on August 31, 2023, at 7:00 PM.  The agenda includes routine items such as reviewing meeting minutes and approving personnel recommendations, donations, and interscholastic activities. Notably, the board will discuss "School Finance and Local Funding Initiatives" in the Superintendent's Report and hold a workshop on "Capital Facilities Discussion." The agenda emphasizes community engagement by including a section for "Information from the Audience" and "Information from Board Members."  The meeting also includes time for public comment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-08-31-agenda.txt)
-
-## 2023-08-10 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on routine administrative matters and policy updates.  The board will review the 2023/2024 budget, discuss union contract ratifications, and approve meal prices for the upcoming school year. Several policy changes are slated for discussion, including first readings of policies related to annual organizational meetings (Policy 1210), multi-tiered system of support (Policy 2163), transition to kindergarten program (Policy 2230), and hiring procedures for district administrators (Policy 5051). The board will also conduct a second reading for the retirement of Policy 3144 and 4314. Finally, the agenda includes a work session on bond planning task force recommendations and a closed session to discuss collective bargaining updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-08-10-agenda.txt)
-
-## 2023-08-09 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Bellingham School Board is holding a special meeting on August 9, 2023, to address several agenda items. These include procedural matters like calling the meeting to order and adopting the agenda.  The board will also review a consent agenda covering routine items such as approving accounts payable, payroll, personnel reports, and contracts for network support and education services staffing. Additionally, they will consider a revised meeting time for the August 23rd school board meeting and a student meal pricing increase previously discussed on July 26th.  The agenda reflects standard operational procedures for a school board meeting, including transparency through public content and file attachments for review.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-08-09-agenda.txt)
-
-## 2023-07-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The School Board Meeting agenda for July 26, 2023 includes several items related to school operations and finances. Dr. Everett will present a revised start time for the August 23rd School Board meeting, moving it to 6:00 pm. This change is being brought forward for initial review and will require approval through the consent agenda at the August 9th board meeting.  Additionally, Dr. Everett will discuss student meal pricing with the board for initial review, followed by a vote on the consent agenda at the August 9th meeting. Daniel Yorton, Director of Business and Finance, will present a finance and budget update to the Board, including supporting documentation such as Budget Projection Reports for May and June 2023, and Budget Status Reports for May and June 2023. Finally, Superintendent Dr. James Everett will provide a report on district activities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-07-26-agenda.txt)
-
 ## 2023-07-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on July 26th, 2023.  The meeting covered a range of topics including presentations on the 2023-24 Technology Plan of Work and levy/bond initiatives from D.A. Davidson & Co. Several policies and procedures were reviewed and approved, including: Agreement for Legal Services, NWESD 2023-24 Special Education Cooperative Agreement, Policy 1400 - Meeting Conduct, Order of Business, and Quorum - Time. Proposed changes to student meal pricing and a revised meeting time for the August 23rd meeting were also discussed and will be brought back for approval in the consent agenda at the August 9th special session. The Superintendent's report included updates on legislative conversations, facilities planning, and upcoming training opportunities.
@@ -1187,12 +835,6 @@ The Blaine School District No. 503 held a special board meeting on July 24, 2023
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2023/2023-07-24-minutes.txt)
 
-## 2023-07-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda outlines various topics for discussion and action. Key items include updates on the 23/24 Educational Program, Annual Policy Reporting, and a Superintendent's Report under "Reports".  The board will also address policy changes, including retiring policies 3144 and 4314, and introducing a revised Policy 6700 focusing on Nutrition, Health, & Physical Education.  Further discussion points involve the Comprehensive School Counseling Plan, an Interlocal Agreement with the Battle Ground School District, and the Superintendent's Evaluation and Contract. The meeting agenda also includes time for "Information from Board Members" and a subsequent "Board Workshop" focused on Capital Facilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-07-13-agenda.txt)
-
 ## 2023-06-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School District Board meeting on June 27th, 2023 covered a variety of topics. Discussions centered around Governance Culture Policy 6-E (Annual Work Plan) which will be revised and voted on in the July meeting.  The board also discussed Board of Directors Compensation referencing WSSDA policy 1733 and RCW 28A.343.400.  Additionally, a presentation regarding Teen Council was mentioned for potential action at the next meeting. The meeting included standard agenda items such as approval of vouchers, travel, grant applications, hiring, resignations/retirements, leave requests, and financial statements.
@@ -1200,12 +842,6 @@ The Ferndale School District Board meeting on June 27th, 2023 covered a variety 
 The board also reviewed a Monitoring Report for Operational Expectations Policy 9 (OE-9) Learning Environment.  Student input was incorporated through the Student Advisory Vote on the Board consent agenda. The meeting concluded with a School Board Evaluation of the Meeting conducted by student representative Ms. Lenssen.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-06-27-minutes.txt)
-
-## 2023-06-22 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on routine matters like approving payroll and personnel recommendations.  Notable items include celebrating the 2023 graduates and recognizing retiring staff members. The Transportation Department received recognition from OSPI for exceptional school bus safety inspections. Reports from the Superintendent, Teaching and Learning, and Finance and Operations are scheduled. A second reading of policy 3245 regarding Students and Telecommunication Devices is planned.  The board will also discuss action items related to the Comprehensive School Counseling Plan. Finally, a workshop on Superintendent Evaluation Process & Timeline, Capital Facilities Planning Update, and the School Board Director Handbook is scheduled.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-22-agenda.txt)
 
 ## 2023-06-22 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1219,29 +855,11 @@ The Meridian School District #505 held a regular school board meeting and budget
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-06-21-minutes.txt)
 
-## 2023-06-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on celebrating student achievements and addressing standard school board topics.  The "Good News" section highlights various student accomplishments across different grade levels, including field trips, engineering projects, art exhibitions, athletic victories, and a multicultural night event.  The meeting includes routine items like approving payroll, personnel recommendations, overnight trip requests, donations, and reports from the superintendent, teaching and learning departments, and finance and operations. The agenda also features a section for "Information from the Audience" outlining rules for public comment. Finally, the board will consider an "Alternative Learning Experience (ALE) Approval" as an action item.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-08-agenda.txt)
-
 ## 2023-06-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting minutes detail discussions on several key topics.  The board approved a new science curriculum for Lynden High School with an emphasis on aligning the curriculum with college and career readiness standards and the district's Multi-Tiered System of Support (MTSS) framework. This decision follows data analysis showing the impact of COVID-19 on student learning in science, highlighting the need for a robust curriculum. The board also reviewed the Alternative Learning Experience (ALE) Annual Report for 2022-2023, which outlines student participation, staff ratios, and program course providers.  Community engagement was evident through the recognition of Lynden Academy's graduation ceremony by board members and the superintendent's update on applications for student board director positions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-06-08-minutes.txt)
-
-## 2023-06-08 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District Board is holding a special meeting on June 8th, 2023 at 5:45 PM in the Professional Development Room located at 194 W Laurel Road, Bellingham, WA 98226.  The agenda includes procedural items such as calling the meeting to order and adopting the agenda. The consent agenda covers routine matters like approving accounts payable, payroll, transportation agreements, and an agreement for NWESD Science Materials. The meeting will conclude with an adjournment. Notably, the board is reviewing and approving several transportation agreements with neighboring school districts (Blaine, Bellingham, Ferndale, Lynden, Mt. Baker, and Nooksack).  The specific details of these agreements are not included in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-06-08-agenda.txt)
-
-## 2023-05-25 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 board meeting agenda highlights several key topics.  The board will discuss and potentially vote on Policy 5254 - Staff Expression and Policy 6815 - Advertising on District Property, both of which are undergoing second readings. Additionally, the meeting will include reports from the Superintendent covering Middle School & Elementary School Counseling, Elementary PTA Presentation, Facilities Update, and 23/24 Budget Development.  The agenda also features a Consent Agenda with items related to AP/Payroll and Personnel Recommendations. The board will address information from the audience, followed by discussions on policy changes and information from board members. Finally, the meeting will conclude with a closed session to discuss collective bargaining updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-25-agenda.txt)
 
 ## 2023-05-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1251,12 +869,6 @@ The board conducted first and second readings of Policy 5254 (Staff Expression) 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-25-minutes.txt)
 
-## 2023-05-24 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The May 24, 2023 school board meeting agenda includes a discussion on new curriculum materials. Director of Teaching and Learning Adrienne Somerawill will present Discovery Education Techbook, World History Project 1200Present,and Bridge to College Math for first review.  The meeting also includes a financial report from Director of Finance Daniel Yorton and a Superintendent's Report from Dr. James Everett on district activities. The agenda highlights a commitment to parental feedback with the "Curriculum Materials Proposal First Review" item listed under "New Business".
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-05-24-agenda.txt)
-
 ## 2023-05-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on May 24, 2023.  The meeting covered a variety of topics including recognition of the Masonic Lodge Educator of the Year and student board members. A report was given on the progress of the district's strategic plan implementation, with a focus on identified outcome areas and measurement metrics for the 2023-24 school year.
@@ -1264,12 +876,6 @@ The Meridian School District #505 held a regular school board meeting on May 24,
 Discovery Education Techbook, World History Project 1200-Present, and Bridge to College Math curriculum materials were presented for initial review. A financial update was provided, including student enrollment comparisons, budget status, and projections. The superintendent also updated the board on a Whatcom County Skills Center and Early Learning Center.  The next regular board meeting is scheduled for June 21, 2023.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-05-24-minutes.txt)
-
-## 2023-05-11 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on various topics including academic achievement and student well-being.  The board will review the School Improvement Plan for Lynden Middle School, highlighting a commitment to improving academic standards. Curriculum transparency is addressed through first readings of Policy 5254 (Staff Expression) and Policy 6815 (Advertising on District Property).  Policy changes are also evident in Resolution #06-23 concerning a Reduced Educational Program and Resolution #07-23 related to Bank Accounts. The agenda includes a discussion on the Student Director Selection Process, emphasizing student autonomy within the school governance structure.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-05-11-agenda.txt)
 
 ## 2023-05-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1282,12 +888,6 @@ The Lynden School District Board meeting minutes detail discussions on various t
 The Meridian School District #505 held a regular school board meeting on May 10, 2023.  The meeting included a review of the self-manager program for fifth graders at IRE Elementary and an assessment program report presented by Director of Teaching and Learning Adrienne Somera. The Board approved Resolution 05-23, Adoption of Long-Range Study and Survey, and Policy and Procedure 3205 - Sexual Harassment of Students Prohibited. Superintendent Dr. Everett provided updates on teacher appreciation, meetings with tribal leaders, and the district's decision not to reduce staffing for the 2023-24 school year. Student Board Representatives Mirage DeNeal and Kurtis Kettman were present at the meeting.  The meeting adjourned at 8:33 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-05-10-minutes.txt)
-
-## 2023-04-27 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a school board meeting on April 27, 2023.  The agenda included discussion of the 2023/2024 budget development update and reports from the Superintendent, Teaching and Learning department, and Finance and Operations department. Several policies were presented for first reading, including Policy 4060- Distribution of Information, Policy 5001- Hiring of Retired School Employees, and Policy 6111- Tuition.  The board also considered action items such as the Career & Technical Education - 4-Year Plan and Resolution #05-23- 180 Day Waiver. The meeting included a period for information from the audience and updates from board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-04-27-agenda.txt)
 
 ## 2023-04-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1314,12 +914,6 @@ During the meeting, school board members shared updates on their recent activiti
 The meeting concluded with an evaluation by student representatives and an adjournment at 8:40 pm.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-04-25-minutes.txt)
-
-## 2023-04-13 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda outlines standard topics for discussion, including reports from the superintendent and teaching/learning departments.  The board will consider action items such as approving the school calendar for 2023/2024, a resolution (#02-23) regarding surplus personal property, and an overnight trip request. The agenda emphasizes community engagement by allowing time for information from the audience. Policy changes are noted, but specific details about those changes are not included in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-04-13-agenda.txt)
 
 ## 2023-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1349,31 +943,11 @@ Board members shared experiences from their community engagement activities, inc
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-03-28-minutes.txt)
 
-## 2023-03-23 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on various topics related to academic performance and school operations.  The board will discuss committee assignments, review meeting minutes from February 23rd, and address a consent agenda encompassing payroll approvals, personnel recommendations, and donations. Reports from the superintendent, teaching and learning department, and finance and operations are scheduled.
-
-The agenda includes "Action Items" such as considerations for the Northwest Career & Technology Academy and dairy bids.  A resolution (#01-23) proposes a transfer of funds from the General Fund and Capital Projects to the Debt Service Fund. Policy discussions will involve first and second readings, with Policy 2411 addressing High School Equivalency Certificates. The meeting concludes with a board workshop and information sharing from board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-23-agenda.txt)
-
 ## 2023-03-15 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board held a regular meeting on March 15th, 2023.  The meeting included PLC presentations from teachers at different grade levels focusing on social and emotional learning (SEL) and STEM models. A new CTE program was presented with details about new classes being offered and partnerships within the community. The board reviewed proposed curriculum materials for DESMOS Math and OpenSciEd. Resolution 04-23, a settlement in Juul litigation, received a first reading and will be voted on at the next meeting. Resolution 02-23, an agreement to participate in the Northwest Career & Technical Academy, received a second reading and was approved unanimously. Policy and Procedure 6970 regarding naming schools, facilities, teams, mascots, images, or logos received a second reading and was adopted with the student advisor abstaining. Policy and Procedure 3231 concerning student records also received a second reading and was unanimously approved.  The superintendent provided updates on legislative bills, the Whatcom County Skills Center, and Early Learning Childhood Development Center.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-03-15-minutes.txt)
-
-## 2023-03-09 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 board meeting agenda focuses on various topics including school improvement plans, program reviews, grant overviews, and reports from the superintendent and teaching and learning departments.  The agenda includes action items such as approving dairy bids for the Northwest Career & Technology Academy and passing Resolution #01-23. Policy discussions involve a second reading of Policy 2411 concerning High School Equivalency Certificates. The meeting also highlights "good news" from different schools within the district, showcasing student achievements and community engagement in events like reading month celebrations, game nights, and successful athletic competitions.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-03-09-agenda.txt)
-
-## 2023-02-23 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on various topics related to student well-being and academic progress.  "Good News" highlights celebrate student achievements in academics, extracurricular activities, and community engagement. The agenda includes reports from the Superintendent and Teaching & Learning departments, covering areas like the Northwest Career & Technical Academy and updates on curriculum. A "Policy" section mentions a first reading of Policy 2411 concerning High School Equivalency Certificates.  The meeting also includes time for public comment and a board workshop focused on Capital Facilities Planning.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-23-agenda.txt)
 
 ## 2023-02-22 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1388,12 +962,6 @@ The Lynden School District Board of Directors met on February 9, 2023, to discus
 The board held a workshop focused on long-term facilities planning, emphasizing safety/security improvements, building condition upgrades, expanded learning spaces, and potential high school replacement or remodel. They discussed timelines for a community survey to gauge priorities and investment preferences. The board directed Superintendent VanderYacht to draft roles and responsibilities for both a Bond Planning Task Force and a Long-Range Facilities Planning Committee. Finally, the board heard updates from members who attended WSSDA legislative sessions and presentations on online safety and career technical education programs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2023/2023-02-09-minutes.txt)
-
-## 2023-02-08 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda outlines several items for discussion and approval.  A second reading of Policy 5410 regarding Holidays is scheduled for approval. The board will also review a Curriculum Materials Proposal from MP3 Principal Michelle Siadal, including recommendations for writing skills and math programs. Additionally, Superintendent Dr. James Everett will deliver a report on district activities. Notably, the agenda includes a discussion on "Child Abuse and Neglect," with associated policy documents (Policy 3421 and Procedure 3421P) marked up for potential revisions.  The specific nature of these revisions is not detailed in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-02-08-agenda.txt)
 
 ## 2023-02-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1429,18 +997,6 @@ The Meridian School District Board met on January 11, 2023 to discuss a variety 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-01-11-minutes.txt)
 
-## 2023-01-09 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District Board will hold a special meeting on January 9, 2023.  The agenda includes a PLC at Work training session focused on improving instructional practices. Following the training, the board will convene for a work session and review accounts payable items.  Board members will adopt the agenda, address consent agenda items, including approving payments, and conclude with an adjournment. The meeting emphasizes professional development and financial oversight within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-01-09-agenda.txt)
-
-## 2022-12-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on several key areas.  The board will discuss and potentially vote on "Resolution #20-22- Procurement Cards" and "Resolution #21-22- City of Lynden," though the specific details of these resolutions are not provided in the text. Policy changes are a significant theme, with first readings scheduled for policies 5001 (Hiring of Retired School Employees), 5610 (Substitute Employment), 4218 (Language Access), 6112 (Rental or Lease of District Property) and 1610 (Conflicts of Interest). A continued reading is planned for policy 3116 (Students in Foster Care). The agenda also highlights "Good News" from the district, including scholastic book purchases, student participation in a design contest, and completion of a Marathon Club.  The meeting will include time for information from the audience, reflecting a commitment to community engagement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-12-08-agenda.txt)
-
 ## 2022-11-30 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School Board held a meeting on November 30th, 2022, to discuss various agenda items.  The meeting included presentations on the district's technology plan and recognition of staff members. During public comment, a student spoke about her positive experience in a culinary arts program, and another individual thanked the board for transportation services provided to the Northwest Career and Technical Academy.
@@ -1451,23 +1007,11 @@ Notably, the minutes were revised and re-signed on February 8th, 2023, to correc
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-30-minutes.txt)
 
-## 2022-11-18 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on November 18th, 2022 at the Kalispel Golf & Country Club in Spokane, WA.  The agenda focuses on a work session to debrief the Washington State School Directors' Association (WSSDA) Conference. This suggests a focus on reviewing and potentially revising district policies and practices based on learnings from the conference. The meeting also highlights the district's commitment to ensuring all students graduate "college, career, and citizenship ready," indicating a focus on preparing students for success beyond high school.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-11-18-agenda.txt)
-
 ## 2022-11-02 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 Board held a regular meeting on November 2nd, 2022.  The meeting focused on several key topics including updates on COVID protocols and ongoing efforts to support student mental health through social-emotional learning initiatives. The board reviewed academic standards and discussed curriculum transparency measures. They also received presentations from teachers at various grade levels highlighting innovative teaching strategies and the implementation of new assessment rubrics for writing skills.  Several policies were presented for second readings, including Policy 5001 (Hiring of Retired School Employees), Policy 5610 (Substitute Employment), and Policy 5612 (Temporary Administrators). Additionally, a second reading was held for Policy and Procedure 6700 (Nutrition, Health, and Physical Education Markup) and Policy and Procedure 6701 (Meal Charges). The board unanimously approved all presented policies.  The Superintendent provided updates on the COVID situation, the Northwest Career and Technical Academy, and the progress of both the Strategic Plan Development Committee and the Equity and Access Committee.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-02-minutes.txt)
-
-## 2022-10-27 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on routine matters and policy updates.  The meeting will include reports from the Superintendent, Teaching and Learning, and Finance and Operations departments. Notably, several policies are slated for second readings, including Policy 1400 (Conduct, Order of Business, & Quorum), Policy 1420 (Proposed Agenda and Consent Agenda), Policy 6610 (Video Surveillance), and Policy 2110 (Transitional Bilingual Instruction Program).  First readings will be held for policies addressing excused absences (Policy 3122), dangerous weapons on school premises (Policy 4210), students in foster care (Policy 3116), and emergency procedures (Policy 3432). The board will also convene an executive session to discuss potential litigation.  The agenda highlights the district's commitment to operational efficiency, transparency through policy review, and addressing legal matters privately.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-10-27-agenda.txt)
 
 ## 2022-10-19 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1479,37 +1023,11 @@ The district also faces teacher and staff shortages, which was mentioned during 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
 
-## 2022-09-22 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board is holding a meeting on September 22nd, 2022 to discuss various agenda items.  The meeting will include a review of board minutes from the previous meeting and a consent agenda covering personnel recommendations, payroll certification, and interlocal agreements with other school districts and organizations for services like physical therapy and vision impairment support. The board will also hold a work session focused on an informational discussion with representatives from the City of Lynden and Lynden Parks & Recreation. This suggests a focus on community collaboration and alignment between educational and recreational resources within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-22-agenda.txt)
-
-## 2022-09-08 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on several key areas.  The board will review and potentially approve changes to Policy #2410 regarding High School Graduation Requirements. Additionally, they will discuss reports from Teaching and Learning and Finance and Operations departments. A Running Start Agreement with Bellingham Technical College is also up for approval. The meeting highlights a commitment to curriculum transparency by including the first reading of a revised policy and providing detailed financial reports. Community engagement is evident in the recognition of student achievements and the acknowledgment of donations from Partners for Schools and the Isom PTA.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-9-8-agenda.txt)
-
 ## 2022-09-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes detail discussions on various topics including school safety, academic standards, and curriculum transparency.  The board received a report on the K-5 ELA CKLA/Amplify program, transitional kindergarten, and new teacher onboarding. They also reviewed budget information for the 2022-2023 school year. Notably, the board approved a Running Start Agreement with Bellingham Technical College. Additionally, they passed two resolutions authorizing transfers from the General Fund to the Debt Service Fund and from the Capital Project Fund to the Debt Service Fund. Tonya Hickman abstained from both votes on the fund transfers. The meeting also included a first reading of Policy #2410 regarding High School Graduation Requirements, which was approved. Finally, the board heard concerns from parents about transitional housing units near schools and the use of recess zones across elementary schools.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-08-minutes.txt)
-
-## 2022-09-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on September 7th, 2022.  The meeting covered a range of topics including the approval of a consent agenda containing items such as accounts payable, personnel reports, and agreements with organizations like BTC Running Start and ECC College in High School. The Board also received reports on school data and staffing for the 2022-23 academic year. Several policies and procedures underwent second readings and were subsequently approved. These included Policy and Procedure 1400: Meeting Conduct, Order of Business, and Quorum; Policy and Procedure 1410: Executive or Closed Sessions; and Policy and Procedure 1420: Proposed Agenda and Consent Agenda. A first reading was conducted for Policy and Procedure 4210: Meeting Conduct, Order of Business, and Quorum and Policy and Procedure 6112: Executive or Closed Sessions. The Superintendent provided updates on back-to-school procedures, COVID-related matters, maintenance and facilities projects, NCTA updates, and Proposition 5.  The meeting concluded with the scheduling of the next regular board meeting for September 21st.
-
-The text also mentions teacher-staff shortages.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-07-minutes.txt)
-
-## 2022-08-22 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The text outlines an agenda for a school board work session focused on reviewing the district's 3-year Strategic Plan and examining campus-specific School Improvement Plans.  The session will begin with a call to order by President Thomas, followed by Superintendent Dr. Christopher Granger providing an update on the district's strategic plan. Campus administrators will then present their 2021-22 End-of-Year Reports and their 2022-23 School Improvement Plans. The session concludes with a summary discussion where the Board of Directors will share feedback, address questions, and note that mid-year progress reports are scheduled for February 27, 2023.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-08-22-agenda.txt)
 
 ## 2022-08-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -1519,23 +1037,11 @@ The district is implementing a new literacy curriculum called MyPerspectives and
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-08-22-minutes.txt)
 
-## 2022-07-14 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board Meeting agenda focuses on standard operational items.  The meeting will include recognition of an educator, approval of meeting minutes and a consent agenda covering payroll and personnel actions. A period for public comment is included with specific guidelines regarding time limits and subject matter. Reports on finance and operations, including the budget report for 2022-2023, are also scheduled. The agenda reflects a commitment to transparency by outlining the topics for discussion and providing a framework for community engagement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-7-14-agenda.txt)
-
 ## 2022-07-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board reviewed a monitoring report from the Superintendent regarding progress towards established goals. The board commended the district for improvements in graduation rates across diverse socioeconomic backgrounds and highlighted the successful summer book distribution program which provided over 17,000 books to elementary school students.  The board also acknowledged the creative efforts made during the pandemic, specifically mentioning a virtual middle school concert. While praising overall progress, the board identified continued work on the Bellingham Promise initiative as an area for improvement. No changes were made to existing policies.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-07-13-minutes.txt)
-
-## 2022-06-23 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 Board meeting agenda focuses on standard operational items and long-term planning.  The agenda includes an Oath of Office for new board members, approval of meeting minutes and a consent agenda covering payroll and personnel actions. A key item is the "Comprehensive School Counseling Plan (CSCP)," though details about its content are not provided. The meeting also features reports on finance and operations, including a budget update, and a food service presentation. Finally, the agenda concludes with a board workshop dedicated to reviewing progress on the district's long-term strategic plan for the second semester.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-6-23-agenda.txt)
 
 ## 2022-05-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1571,26 +1077,11 @@ The board approved a new interlocal agreement with Whatcom County Detention, a 2
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-4-14-minutes.txt)
 
-## 2022-03-28 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda and meeting minutes document a standard board meeting.  Agenda items included routine updates such as enrollment reports, financial reports, budget planning, superintendent's report, contract approvals for staff, and policy updates. The board moved into executive session to review the performance of a public employee. Following the executive session, the board reconvened and adjourned the meeting. 
-
-
-The agenda specifically mentions "Adoption of 4000 Series Policy Updates" and "First Reading of Other Policy Updates," suggesting ongoing revisions and refinements to school policies.  The minutes note that no action was anticipated following the executive session regarding employee performance review.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-03-28-agenda.txt)
-
 ## 2022-03-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting on March 24, 2022, focused on several key areas.  The board approved a consent agenda that included various financial warrants and personnel action items. During the reports section, Elementary Principals and the Director of Teaching and Learning presented updates on the Elementary School Improvement Plan (SIP), highlighting efforts to meet learning targets, close learning gaps through interventions, and adopt new materials for K-5 learners. They also discussed the continued use of Character Strong and Safe and Civil learning programs across elementary schools to promote safe emotional learning.  Superintendent Mike Stromme provided information on the 2022 Legislative Consensus budget. The board then approved a Whatcom Discovery Interlocal Agreement.  The meeting concluded at 8:35 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-24-minutes.txt)
-
-## 2022-03-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The agenda includes items related to the monitoring of Ends 2.1, Part 1 and Part 2, focusing on Student Competence.  The board will review monitoring reports submitted by Superintendent Greg Baker and determine if he is in compliance with the policy. Additionally, the board will review an updated annual board agenda (GP-7.2). Changes from the previous version are highlighted for informational purposes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-16-agenda.txt)
 
 ## 2022-03-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -1598,43 +1089,11 @@ This excerpt from school board meeting minutes focuses on student academic perfo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-16-minutes.txt)
 
-## 2021-12-08 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda outlines several items for discussion during their December 8, 2021 meeting.  A key topic is the proposed traffic mitigation plans for the intersection of Hannegan Road and East Hemmi Road. The Board will consider sending a letter of support for these plans to address safety concerns. Additionally, the board will review budget projections and status reports presented by Daniel Yorton, Director of Business and Finance. Dr. James Everett, Superintendent, will deliver a report on district activities. Finally, the agenda includes time for information from student board members and board members, as well as the formal adjournment of the meeting. The Hannegan Road and East Hemmi Road intersection mitigation plan is presented in a document titled "ABEO Strategic Planning Proposal" which the Board is being asked to approve.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-12-08-agenda.txt)
-
-## 2021-11-17 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School Board met on November 17, 2021 to discuss various policies and procedures.  The board conducted second readings and adopted Policy & Procedure 2420 (Grading and Progress Reports), Policy & Procedure 3231 (Student records) and Policy & Procedure 6800 (Safety, Operations, and Maintenance of School Property). They also reviewed a NWESD Communications Contract which was subsequently adopted.  
-
-The meeting included first readings for several new policies: Policy & Procedure 1822 (Training and Professional Development for Board Members), Policy & Procedure 5520 (Staff Development) and Procedure 6225 (Use of Electronic Signature). Additionally, a first reading was conducted on the Abeo Strategic Planning Proposal.  The board also received reports on district finances and updates from the Superintendent regarding asset preservation and new School Board Directors.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-11-17-minutes.txt)
-
-## 2021-10-25 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda outlines a regular meeting followed by a special session.  The regular meeting will include standard reports from school administrators on enrollment, finances and the WSSDA Conference. Additionally, there will be a superintendent's report and discussion of the 2021-2022 CTE Program Plan. Policy updates are also scheduled for discussion. A separate special meeting is planned to review adjustments to director districts following the 2020 US Census.  The agenda also includes an executive session, during which the board may discuss personnel matters, legal counsel, collective bargaining, or real estate transactions. Following the executive session, the board will reconvene and adjourn the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-10-25-agenda.txt)
-
-## 2021-10-13 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board meeting agenda includes items related to approving personal services contracts for additional instruction and Title I support.  The board will also review the updated annual board agenda (GP-7.2) with highlighted changes. The consent agenda includes approval of personal service contracts for Mark Kelly, providing additional instruction for 6th-grade beginning band students, and Christina Tan, offering Title I support at Bellingham Christian School. The meeting agenda emphasizes transparency by making documentation available to the public in advance and allowing for individual items on the consent agenda to be moved to the regular agenda.  The board will also assess the meeting itself.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-10-13-agenda.txt)
-
 ## 2021-09-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail routine agenda items including contract approvals (MAP Testing, DreamBox Learning Master Software and Services Agreement, City of Bellingham – Civic Field Event Supervision, Highline School District Inter-District Cooperative Agreement), personnel recommendations, personal services contracts, and an inter-agency agreement with the Opportunity Council.  The board also discussed informational items such as school board director reports and a review of the annual board agenda (GP-7.2). Notably, Mr. Benjamin highlighted the pending deadline for completing a WSSDA self-assessment and Ms. Diaz Hackler shared positive impressions from a tour of the new Parkview building. The meeting concluded with a board assessment rating of 4 (commendable) and an adjournment at 6:52 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-09-15-minutes.txt)
-
-## 2021-08-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors will hold a special meeting on August 25, 2021 via Zoom.  The agenda includes an update from the superintendent and discussion items regarding the Washington State School Directors' Association (WSSDA) self-assessment, the school board calendar for the 2021-2022 academic year, and a tour of the Parkview Elementary School construction site. The meeting will not include public comment time.  Following the Superintendent Update, the directors will recess briefly before resuming the meeting at Parkview Elementary School for a tour of the building's construction site.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-08-25-agenda.txt)
 
 ## 2021-08-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -1648,59 +1107,17 @@ The school board meeting minutes detail the passage of two resolutions. Resoluti
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-08-23-minutes.txt)
 
-## 2021-07-26 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda covers a regular meeting on July 26, 2021.  The agenda includes items for discussion and potential action related to the upcoming school year's budget, minimum basic education report, and approval of the Highly Capable Program Plan. The board also plans to hold a Strategic and Campus Plans Work Session prior to the regular meeting on August 23, 2021.  The agenda notes that there will be no executive session at this particular meeting. Finally, the document records the formal adjournment of the July 26th meeting by motion.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-07-26-agenda.txt)
-
-## 2021-06-28 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda focuses on standard operational items.  The next regular meeting will be held on July 26, 2021 at 7:00 pm. Suggested agenda items include a public hearing on the 2021-2022 budget, a superintendent's report, the 2021-2022 student fee list and policy updates. The board also notes that there will be no executive session at this meeting. Finally, the meeting was adjourned by formal motion carried by Dougal Thomas, seconded by Todd Nunamaker.  All directors present voted yea: Todd Nunamaker, Dougal Thomas, Joan Lotze, Charles E Gibson.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-06-28-agenda.txt)
-
-## 2021-06-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda outlines two discussion items related to academic standards.  The first item concerns EL-6, Academic Standards and Provisions, with the board reviewing a monitoring report and determining superintendent compliance. The second item focuses on EL-8, District Calendar, following a similar process of review and compliance determination. Both discussions stem from individual feedback provided by board members after reviewing initial monitoring reports. 
-
-Additionally, the agenda includes informational items such as School Board Directors' Reports and a review of the updated GP-7.2, 2020-21 annual board agenda. The latter highlights changes made to the previous version for informational purposes only.  The agenda concludes with standard closing items including a Board Assessment of Meeting and Adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-06-09-agenda.txt)
-
 ## 2021-05-27 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The May 27, 2021 school board meeting focused on several key issues.  The board received information from community members regarding mental health concerns for teens during the pandemic and discussed mask mandates and youth vaccination. A preliminary re-opening plan for the 2021-2022 school year was shared, outlining phases of work and data collection to monitor progress. The board approved a boundary adjustment to accommodate growth within elementary schools. Additionally, they approved Resolution No. 07-21 focused on academic and student wellbeing.  The superintendent provided updates on communication with the Whatcom County Health Department regarding face covering requirements, quarantine recommendations, current case rates, and vaccination discussions for staff and students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-05-27-minutes.txt)
 
-## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District will hold a special board meeting on May 26, 2021, at noon via Zoom to discuss and approve the Academic and Student Well-Being Recovery Plan. This plan, due to the Office of Superintendent of Public Instruction (OSPI) on June 1st, aims to address student needs and recovery from the impacts of COVID-19.  The plan will be available for public review and comment via email. The meeting agenda also includes consent items related to the approval of the Recovery Plan. The district emphasizes community engagement in the planning process, with opportunities for feedback and input.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-agenda.txt)
-
 ## 2021-05-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a special meeting on May 26, 2021, via Zoom to conduct a public hearing on the district’s Academic and Student Well-Being Recovery Plan.  The plan was designed to address the impact of COVID-19 on student learning and well-being. No members of the public attended the hearing to offer comment. The Board unanimously approved the recovery plan as part of its consent agenda.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-minutes.txt)
-
-## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District Board meeting minutes detail a range of topics including standard school board business like approving the agenda, minutes from previous meetings, and recognizing staff achievements.  The board also addressed several policy matters. They adopted Board Resolution 04-21 affirming membership with the Washington Interscholastic Activities Association (WIAA) and requiring adherence to its rules. Board Resolution 05-21 approved a collective bargaining agreement with the Meridian Education Association.
-
-Several new policies received first readings, including Policy 2161 regarding Special Education and Related Services for Eligible Students, Policy 2162 concerning Education of Students With Disabilities Under Section 504 of the Rehabilitation Act of 1973, and Policy 2170 addressing Career and Technical Education.  The board also approved additional members to the instructional materials committee.
-
-Mental health was a focus as the board discussed Compass Health Services Agreement which was presented for approval. The minutes also mention that Superintendent Dr. James Everett provided an update on end-of-year events and graduation.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-minutes.txt)
-
-## 2021-04-26 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda includes standard items such as administrator reports, financial updates, and policy reviews. Notably, the agenda lists "Review and Consideration of 2021-2022 Reopening Plan" suggesting ongoing discussions about COVID-19 related school safety measures and potential adjustments to academic standards or curriculum delivery in light of the pandemic. The board also plans to discuss the WIAA (Washington Interscholastic Activities Association) membership renewal, indicating a focus on extracurricular activities and student engagement.  The agenda concludes with a motion to adjourn the meeting following the executive session.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-04-26-agenda.txt)
 
 ## 2021-04-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -1715,18 +1132,6 @@ The school board meeting minutes discuss positive trends in 5-year graduation ra
 Areas for improvement are identified, including the need to further increase graduation rates for ELL students and those receiving free and reduced meals. The board suggests tracking post-graduation destinations of all students beyond traditional college pathways to better understand trends and inform future policy decisions.  The meeting also acknowledges the superintendent's team for their efforts in collecting and presenting detailed student data, which aids in understanding graduation and post-graduation outcomes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-04-14-minutes.txt)
-
-## 2021-04-14 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District Board held a special meeting on April 14, 2021.  The agenda included standard procedural items like calling the meeting to order and welcoming attendees.  Board members reviewed and discussed the proposed 2021-22 school calendar. They also considered Resolution 01-21: Small Works Roster Authorization, which outlines a process for contracting small-scale construction projects without formal bidding. The board received a financial update from Daniel Yorton, Director of Business and Finance, who presented reports on the budget status and enrollment projections. Superintendent Dr. James Everett delivered his report, including information related to COVID-19 mitigation strategies based on guidance from the local health officer.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-04-14-agenda.txt)
-
-## 2021-03-30 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on March 30th, 2021 at 7:00 PM to discuss in-person learning updates and the superintendent search process.  The meeting will be held both in-person at Lynden Middle School and via phone conference. The agenda includes a section for "Information from the Audience" where community members can address the school board for five minutes, either remotely or in person.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-3-30-agenda.txt)
 
 ## 2021-03-30 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1746,24 +1151,6 @@ This excerpt from school board meeting minutes focuses on student academic perfo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-03-10-minutes.txt)
 
-## 2021-02-24 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda includes a financial update with budget projections and status reports presented by Daniel Yorton.  The Superintendent's report will cover district activities and include information on the 2020-21 reopening plan for Washington schools. Additionally, there is an item addressing "Information from Student Board Members" and a procedural item to adjourn the meeting. The agenda concludes with an Executive Session to review the contract of a public employee. Policy changes are noted as part of the agenda items but no specific details on those changes are provided.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-02-24-agenda.txt)
-
-## 2021-02-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District Board held a meeting on February 24, 2021, to discuss various school matters. Notably, they addressed the ongoing impact of COVID-19 on school operations, including updates from Meridian Parent Partnership Principal Michelle Siadal regarding changes and challenges faced during the pandemic.  The board also reviewed and adopted a revised fee schedule for Meridian High School and a policy regarding student promotion and retention (Policy 2421). A second reading was conducted for Policy 2107: Comprehensive Early Literacy Plan, and Policy 3115: Homeless Students Experiencing Homelessness – Enrollment Rights and Services.  The board finalized the 2021 graduation date and discussed a yearly interlocal agreement with NWESD Whatcom Detention Center. Superintendent James Everett provided updates on committee formation, vaccination clinics, and MSD Athletics. Student Board Members shared information about sports team performance and leadership class events. The meeting concluded with an executive session to review the contract of a public employee.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-02-24-minutes.txt)
-
-## 2021-02-10 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The February 10, 2021 school board meeting agenda includes a first reading of two new policies: Policy 2107: Comprehensive Early Literacy Plan and Policy 2421: Promotion/Retention.  The Superintendent's report will cover district activities and include information on legislative updates (SB 5128, HB 1476). The agenda also includes a discussion of the fee schedule for the 2020-21 school year.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-02-10-agenda.txt)
-
 ## 2021-01-27 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on January 27, 2021 via Zoom.  The meeting included updates on the district's response to COVID-19, including the return of students to campus and an upcoming vaccination clinic. Several policies were presented for second reading and adoption, including Policy 5251: Conflicts of Interest, Policy 5259 Recognition and De Minimis Policy, Policy 6220: Bid or Request for Proposal Requirements, and Policy 6230: Relations with Vendors. The board also approved a Title 1A Interlocal Agreement and the 2020-2021 NCTA Inter-district Agreement for Financing Operations.  The Superintendent provided a report on the return of students to campus and upcoming events. Student Board Members shared their perspectives on returning to in-person learning. The next Regular Board Meeting was scheduled for February 10th.
@@ -1777,12 +1164,6 @@ The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoo
 Policy discussions centered around MB Policy/Procedure 6100, which underwent its annual review. Reports were presented by the Executive Director of Finance & Operations regarding COVID-19's financial impact and by the Superintendent on elementary and secondary attendance, engagement, secondary master schedule considerations, and Continua (likely a program or initiative). The meeting concluded with scheduling details for future meetings and the absence of an executive session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
-
-## 2020-12-02 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The Meridian School District Board will hold a special work session on December 2, 2020, via Zoom to review and create board goals.  The meeting agenda includes a discussion on "Board Goals" under the category of "Work Session Content".  The session will conclude with a "Closing Review of the Work Session" discussion. The meeting's primary focus appears to be setting internal objectives for the school board itself.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-12-02-agenda.txt)
 
 ## 2020-11-04 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1808,12 +1189,6 @@ Parents provided feedback on remote learning experiences during the "Good of the
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
 
-## 2020-10-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board meeting agenda includes a presentation and vote on the "Highly Capable Grant" which aims to support students with advanced academic abilities.  The board will also consider Resolution 08-20, authorizing the "Reduced Educational Support Program" for the 2020-2021 school year. This program likely outlines adjustments to educational services due to budget constraints or other factors. The meeting agenda also includes a finance update with enrollment reports and a superintendent's report covering various school matters.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-10-21-agenda.txt)
-
 ## 2020-09-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School Board meeting minutes detail discussions on several key topics.  The board reviewed the budget for August and approved a resolution (Resolution No. 13-20) outlining a process for evaluating potential furloughs and layoffs. Discussions also centered around reopening plans for in-person learning, with a decision to postpone the return of K-2 grades until the second week of October.  The board reviewed several policies for a first reading, including Policy #2004 (Accountability Goals), Policy #3225 (School Based Threat Assessment), Policy #3413 (Student Immunization and Life Threatening Health Conditions), and Policy #3424 (Opioid Related Overdose Reversal). These policies will be considered for approval after a second reading.  Finally, the board reviewed the school board meeting calendar and discussed future plans to address committee formation in December.
@@ -1826,23 +1201,11 @@ The Mount Baker School District held a regular meeting on September 24, 2020, vi
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-24-minutes.txt)
 
-## 2020-09-23 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda outlines a regular meeting on September 23, 2020. Key items include adopting Board Resolution 07-20 authorizing the Reduced Educational Support Program for the 2020-2021 academic year.  The board will also receive a finance report from Director of Finance Daniel Yorton and a superintendent's report from Dr. James Everett. The agenda mentions discussion points related to student privacy concerning file attachments, school safety measures in light of COVID-19, and potential changes to academic standards and curriculum transparency. The board also seeks parental feedback on these matters.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-09-23-agenda.txt)
-
 ## 2020-09-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board held a virtual meeting on September 9, 2020 to discuss various agenda items.  The board unanimously approved several agreements including the MSD ConnectED MOU, the 2020-21 Physical Therapist Services Interlocal Agreement and the 2020-21 Procare Agreement. They also discussed Resolution 06-20 which was presented by Superintendent Dr. James Everett. The meeting included reports on the start of the school year from both Superintendent Everett and Assistant Superintendent Kurt Harvill.  The board approved the surplus of district vehicles as presented by Transportation Director Kathy Lafreniere. First readings were conducted for several new policies and procedures including Policy and Procedure 2255 - Alternative Learning Experience Courses, Policy and Procedure 3143 - Notification and Dissemination of Information about Student Offenses and Notification of Threats of Violence or Harm and Policy and Procedure 3510 – Associated Student Bodies.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-09-09-minutes.txt)
-
-## 2020-08-24 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-The school board meeting agenda includes standard items such as administrator reports, enrollment updates, financial reports, and superintendent's report. Notably, the agenda proposes discussing the "2020-2021 Highly Capable Program Plan" which suggests a focus on academic advancement for gifted students.  The board also plans to address "Policy Updates," indicating potential revisions or additions to existing school policies. The meeting includes an executive session to discuss the district's position in collective bargaining negotiations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-08-24-agenda.txt)
 
 ## 2020-08-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -1870,23 +1233,11 @@ The meeting also covered several other agenda items, including a First Reading o
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-08-05-minutes.txt)
 
-## 2020-08-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on August 3rd, 2020 at 7:00 PM via phone conference to discuss the re-opening of schools.  The meeting agenda includes a call to order, welcome, pledge of allegiance, and roll call followed by an opportunity for information from the audience. Those wishing to provide comments must do so 24 hours in advance of the meeting by emailing shagrens@lynden.wednet.edu. The main topic of discussion will be a board work session focused on re-opening schools amidst the COVID-19 pandemic.  The district's stated goal is to ensure that all students graduate college, career, and citizenship ready.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-03-agenda.txt)
-
 ## 2020-08-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board of Directors held a meeting on August 3, 2020, to discuss the reopening of schools for the 2020-2021 academic year amidst the COVID-19 pandemic.  The board considered three learning options: "Lynden at School" (in-person learning), "Lynden Home Connect" (parent-led homeschooling with school support), and "Lynden On-Line" (online instruction). The discussion centered around addressing concerns from families, staff, and the community regarding these options.  The board acknowledged challenges associated with hybrid learning models and aimed to mitigate potential learning gaps. This meeting reflects a commitment to parental rights by providing diverse learning options and incorporating feedback from the community in shaping the reopening plan.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-08-03-minutes.txt)
-
-## 2020-07-29 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda outlines a special meeting and subsequent work session. Key discussion points include Superintendent Dr. James Everett's request for approval of the 2020-2021 Board Yearly Plan of Work, which is attached to the agenda.  The work session will focus on reviewing the purpose of the session and discussing school reopening plans in light of the COVID-19 pandemic. The meeting concludes with a summary discussion and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-07-29-agenda.txt)
 
 ## 2020-07-29 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1894,25 +1245,11 @@ The Meridian School District #505 held a special meeting and board work session 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-07-29-minutes.txt)
 
-## 2020-07-27 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda and minutes document outline a routine meeting with standard discussion topics.  The board discussed potential agenda items for the next meeting, including reports on teaching and learning, the superintendent's report, and budget adoption. They also planned to review the Highly Capable Program plan and discuss policy updates. The board entered executive session to review the performance of a public employee. Following the executive session, the meeting was adjourned.  No action was taken following the executive session.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-07-27-agenda.txt)
-
 ## 2020-07-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail the adoption of two policies: Policy 6225 Use of Electronic Signature and Policy 2004 Accountability Goals.  Policy 6225 aims to facilitate business operations while minimizing exposure risks, likely related to COVID-19. Policy 2004 sets accountability goals for student performance, with a target of 90% passing assessments by 2027. Dr. Granger, the superintendent, anticipates this goal will be modified in the future. The board also discussed improvements to the online meeting platform's visual clarity and scheduled their next regular meeting for August 24, 2020. Following a brief executive session to review a public employee's performance, the meeting adjourned.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-07-27-minutes.txt)
-
-## 2020-07-15 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The North West Educational Service District (NWESD) Science Materials Center Process and Amplify Adoption Proposal will be presented to the school board for consideration.  This is part of a "First Reading" process for Policy and Procedure 1400, which addresses Meeting Conduct, Order of Business, and Quorum.  The board will also review the 2020-2021 Plan of Work and receive a report from Superintendent Dr. James Everett.  
-
-Policy 1400 is being presented for the first time ("First Reading"). The meeting agenda lists both a clean copy and a marked-up version of the policy for review. Additionally, a document referencing the Washington State School Directors' Association (WSSDA) Policy 1400 is included as well as Meridian School District's 2020-2021 school board calendar.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-07-15-agenda.txt)
 
 ## 2020-06-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1923,26 +1260,6 @@ The board also discussed several new business items. They conducted interviews t
 The board also reviewed proposals related to technology, including the OETC Membership Agreement and OETC Contract for Technology Leasing Services. Both agreements were unanimously approved, allowing the district to pursue the purchase of technology based on availability. The Insight Financial Services Leasing Agreement was also discussed and approved. Finally, Finance Director Daniel Yorton presented the budget and status report, and Superintendent Everett provided an update on COVID-19 and school plans for the 2020-2021 academic year.  The next regular board meeting was scheduled for July 15th via Zoom.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-06-24-minutes.txt)
-
-## 2020-06-11 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda outlines several items for discussion and action.  A first reading of an updated Policy & Procedure 6225: Electronic Signatures is scheduled. This policy governs the use of electronic signatures within the district. Additionally, Director of Teaching and Learning Adrienne Somera will present the Elementary English Language Arts Adoption to the Board. Supporting documents include details on the adoption process, a proposal from the Academic Review Committee (ARC), a cost summary, and staff input.  Superintendent James Everett will introduce the ESD112 Purchasing Cooperative for consideration by the board. Finally, Superintendent Everett will deliver a report on district activities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-06-11-agenda.txt)
-
-## 2020-04-20 - BLAINE_SCHOOL_DISTRICT (Agenda)
-
-This school board agenda and meeting minutes outline typical school district business. The board will discuss the 2019-20 HomeConnection Annual Report, provide a 2020-21 Budget Planning Update, and hear the Superintendent's Report.  A WIAA Membership Resolution will be considered, along with the 2020-21 Board Meeting Calendar. The board will vote on approving the Superintendent's Contract and review Policy Updates. Notably, the meeting includes a scheduled executive session to discuss potential employment of personnel.
-
-The agenda also highlights adjustments due to the COVID-19 pandemic, with the next regular board meeting being held on a Tuesday instead of the usual day due to the Memorial Day holiday.  Finally, the minutes detail the motion and voting results for adjourning the meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-04-20-agenda.txt)
-
-## 2020-04-02 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a work session on April 2nd, 2020 via phone conference.  The agenda includes standard items such as meeting minutes, a consent agenda covering payroll and personnel actions, and an opportunity for information from the audience. Notably, the board will discuss "Secondary School Improvement Plans (SIP's)" and receive a "Superintendent Report". The district emphasizes its commitment to ensuring all students graduate "college, career, and citizenship ready."  The meeting format reflects adjustments made due to the COVID-19 pandemic.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-04-02-agenda.txt)
 
 ## 2020-04-02 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1958,12 +1275,6 @@ The board entered executive session to review the performance of a public employ
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-03-23-minutes.txt)
 
-## 2019-12-05 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on December 5th, 2019 at 6:30 PM in the Main Street Campus Library to discuss construction bids for the Main Street Campus.  The meeting agenda includes a call to order, welcome address, pledge of allegiance, roll call, discussion of the construction bids, and adjournment. The possible action item indicates that a decision may be made regarding the chosen construction bid.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-12-05-agenda.txt)
-
 ## 2019-09-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting focused on several key areas.  They reviewed an enrollment report and a 15-year enrollment trends summary. Discussions centered around the district's strategic priorities, which include creating a safe and supportive learning environment, preparing students for college and careers, fostering family and community partnerships, and promoting responsible citizenship. The board also examined the July budget and discussed opportunities for community engagement through public town hall meetings.  
@@ -1971,18 +1282,6 @@ The Lynden School Board meeting focused on several key areas.  They reviewed an 
 A significant portion of the meeting addressed the potential replacement of the Enrichment Levy, set to expire in 2021. The board considered scenarios involving a Technology and Facilities levy and a future capital facilities bond for high school additions and potentially a new elementary school. The board approved the Learning Assistance Program (LAP) Grant to support students in reading, math, and graduation assistance. Finally, they conducted a first reading of Policy #3241 – Student Discipline.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-09-12-minutes.txt)
-
-## 2019-02-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a work session on February 26, 2019.  The agenda included standard items such as meeting minutes approval and a consent agenda covering personnel actions. A presentation was scheduled regarding the Glenning Street Property. Finance and Operations were to be discussed with a January budget update. Action items included Weather Make Up Days, the School Calendar for 2019-2020, and Resolution No. 04-19, which designated authority to sign real-estate transactions. The meeting was to adjourn into a board work session covering topics such as a Materials Distribution Policy, High School Science Requirements, and Safety Planning.  The agenda also listed "Board Work Session Topics" without further detail.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-02-26-agenda.txt)
-
-## 2018-11-12 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a special meeting on November 12, 2018, at The Inn at Lynden Conference Room.  The agenda focused on the district's long-term strategic plans and included discussions on school board retreat topics such as strategic planning, district growth, and school board goals. The overarching aim of the district is to ensure that all students graduate college, career, and citizenship ready.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-11-12-agenda.txt)
 
 ## 2018-08-16 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1999,12 +1298,6 @@ The school board meeting focused on several key topics.  Community engagement wa
 The discussion also touched upon academic standards and curriculum transparency, aiming to ensure that students are well-prepared for their future endeavors.  Parental feedback was emphasized as crucial for shaping educational policies and practices. The board highlighted the importance of long-term strategic plans to guide the school district's development and address evolving needs. Additionally, concerns regarding student autonomy and mental health were raised, prompting a conversation about creating supportive environments that empower students and prioritize their well-being.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-03-20-minutes.txt)
-
-## 2018-02-07 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The document outlines the agenda for a February 7, 2018 school board meeting. A key item is the review of a monitoring report on Ends 2.1 (part 1), focusing on Student Competence.  The board will determine if the superintendent has met the goals outlined in this policy. Additionally, the board will discuss the updated GP-7.2, the 2017-18 annual board agenda, which includes highlighted changes from the previous version. This review serves as an informational item for the board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-07-agenda.txt)
 
 ## 2017-08-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -2040,14 +1333,6 @@ The text focuses on the need for improved consistency and support for arts educa
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-04-19-minutes.txt)
 
-## 2017-03-23 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This excerpt details the Bellingham School District's adherence to the  Annual Program Participation (APP) reporting requirements for state-funded school facilities built after December 31, 1993. The report, attached as "2016-17 APP Data.pdf," assesses the condition of various schools in the district, including Birchwood Elementary School, Fairhaven, Kulshan, and Shuksan middle schools, and Bellingham and Squalicum high schools.  The document confirms that all facilities exceed OSPI Building Condition Standards.
-
-Additionally, the agenda mentions a discussion on "Board Assessment of Meeting" according to Governance Process Policy GP-4.1, suggesting a self-evaluation process for board performance. The school board also planned to enter an Executive Session to discuss real estate acquisition per RCW 42.30.110(1)(b), indicating a confidential deliberation on potential property purchases or leases.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-03-23-agenda.txt)
-
 ## 2017-03-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting focused on several key areas.  The board discussed a "Response to Intervention" (RTI) program aimed at providing support for students struggling with bullying, suicide, and social/emotional issues. This initiative highlights the district's commitment to **mental health** and **social-emotional learning**.
@@ -2057,18 +1342,6 @@ Updates were also provided on academic progress, including course mapping aligne
 Finally, the board engaged in **community engagement** by discussing feedback from a recent community meeting regarding school climate and safety. They also reviewed applications for open positions, underscoring potential **teacher-staff shortages**.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-03-23-minutes.txt)
-
-## 2017-01-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda focuses on reviewing the superintendent's progress towards achieving student competence goals outlined in Ends 2.1, Part 1.  The board will also discuss possible revisions to policies EL-1 and EL-5, though the specific content of these policies is not detailed in the provided text. Finally, the agenda includes a continuation of the review process for Governance Process (GP) policies, which are part of a broader subcommittee review taking place throughout the 2016-17 school year.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-01-12-agenda.txt)
-
-## 2016-09-28 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting to discuss the "Lynden Middle School Opening Bid Day."  The agenda focuses on procedural items such as the call to order, pledge of allegiance, and roll call.  While the specific content of the "Opening Bid Day" is not detailed, the meeting's focus suggests a discussion related to academic standards and potentially student achievement or school improvement initiatives. The location and time of the meeting are also provided.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2016/2016-09-28-agenda.txt)
 
 ## 2016-07-21 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -2174,16 +1447,6 @@ The board also discussed the possibility of expanding the curriculum to be more 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-01-22-minutes.txt)
 
-## 2014-12-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The meeting minutes detail the proceedings of a school board meeting on December 11, 2014.  The board discussed and unanimously approved the annual agenda for the 2014-2015 school year (GP-7.1). They also reviewed and unanimously approved changes to several policies related to the Board/Superintendent Relationship. These policy revisions included chronological renumbering.
-
-Specifically, the following policies were affected: B/SR - 1 (no change in number), B/SR - 4 (new number: B/SR - 2), B/SR - 5 (new number: B/SR - 3), B/SR - 5.1 (new number: B/SR - 3.1), and B/SR - 5.1.1 (new number: B/SR - 3.1.1). The minutes also highlight the board's positive assessment of a new math curriculum at the lower elementary level, noting its vigorous implementation.
-
-Additionally, the board discussed plans for community engagement, including scheduling a meeting with City Council Liaison Roxanne Murphy in the new year.  The minutes further indicate that a template prepared by Dr. Smith will be distributed to board members for recording observations during school visits. This suggests an effort towards increased transparency and data-driven decision-making regarding curriculum and instruction.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-12-11-minutes.txt)
-
 ## 2014-05-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 Students expressed a desire for more classes that prepare them for life after high school, such as resume writing and job skills. They also advocated for increased funding for the special education department, citing a need for reliable computers. Several students highlighted the benefits of after-school learning centers and suggested extending library hours for greater flexibility. Concerns regarding student stress levels led to a proposal for dedicated senior class periods to facilitate work completion. The meeting concluded with Dr. Baker, Superintendent of Schools, acknowledging the value of student feedback and emphasizing the district's commitment to updating technology and addressing scheduling concerns related to adolescent sleep needs.
@@ -2232,14 +1495,6 @@ Finally, the meeting touched upon the District Facilities Planning Task Force's 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-01-24-minutes.txt)
 
-## 2012-12-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The School Board meeting focused on monitoring the progress of Ends 3.0, a policy outlining desired skills and attributes for students. Deputy Superintendent Tom Venable, Research, Assessment Director Brian Rick, Program Administrator for Title I Trina Hall, and Program Administrator for English Language Learners Amy Carder presented a report detailing the implementation of a standard-based reporting system at the elementary and middle school levels.  The Board requested future reports include information on how to further support student learning and inquired about high school level initiatives related to Ends 3.0.
-
-The meeting also included an update from Assistant Superintendent Ron Cowan on the Facilities Planning Task Force, which is examining district facilities and will make recommendations to Superintendent Greg Baker for community consideration.  Upcoming events were announced, including Board visits to schools and a School Board Retreat. The meeting concluded with a positive assessment and an executive session to discuss negotiations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-12-13-minutes.txt)
-
 ## 2012-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail a discussion and approval of a monitoring report on Ends 2.0 (Academic Achievement) and Ends 2.1 (Student Competence).  The Board expressed satisfaction with the completeness of the data presented, though they suggested broadening the scope of comparison districts for future reports. They also recommended including math scores and data from every student in subsequent reports.
@@ -2277,24 +1532,6 @@ The Bellingham School District Board of Directors met in a special session on Ma
 The Bellingham School Board meeting minutes detail discussions on curriculum alignment and the approval of a monitoring report for the district calendar.  The board acknowledged that curriculum alignment, while progressing well in some areas, requires further work and expressed interest in future in-depth discussions on the topic. Dr. Baker noted the challenges of achieving curriculum alignment within the current economic climate. The board also approved the Monitoring Report for EL-16, District Calendar, finding it compliant.  The meeting included a discussion on a special meeting scheduled to consider Resolution 4–12, Adoption of 2012–13 Reduced Education Program, a legal process requiring board approval. Additionally, the board reviewed The Bellingham Promise, the district's strategic plan, during a study session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-03-22-minutes.txt)
-
-## 2012-02-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board meeting minutes detail several personnel recommendations for tutoring and instructional roles within the district.  The board also reviewed and approved revisions to Board/Superintendent Relationship Policies (BSR-1 through BSR-5.1.2) focusing on clarifying accountability, delegation, and performance evaluation processes. Notably, they combined and renumbered Executive Limitation Policies EL-13, EL-14, and EL-15 into a single policy, EL-6, addressing Academic Standards and Practices with minor edits. This consolidation suggests a streamlining effort to enhance clarity and efficiency in academic policy governance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-02-14-minutes.txt)
-
-## 2011-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The school board meeting minutes detail discussions on academic performance (Ends 2.1, Academic Competence) and potential modifications to this policy.  The board is considering revisions to the Ends 2.1 policy following a monitoring report presented at their November meeting. Additionally, the board approved two levies for voter consideration in a special election: Resolution 10-11, a four-year Maintenance and Operations Levy to support general fund expenditures, and Resolution 11-11, a four-year Technology Levy for technology improvements and equipment. The board also selected Dykeman Architects for the Birchwood Elementary School project.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-08-minutes.txt)
-
-## 2011-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board of Directors met on December 6, 2011 to discuss the expiring Maintenance and Operations (M&O) levy and Technology Levy.  The M&O levy supports approximately 25% of the district's annual operating budget and helps maintain current student programs. Both levies will be on the ballot for a vote on February 14, 2012. The Board received information about the levies from Superintendent Greg Baker and Ron Cowan, assistant superintendent of Business and Operations.  The Executive Team also answered questions from the Board regarding the levies.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-06-minutes.txt)
 
 ## 2011-11-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -2367,14 +1604,6 @@ The board also reviewed and approved several Governance Process policies (GP-5, 
 The Bellingham School Board meeting minutes from February 24, 2011, detail routine agenda items including approval of invoices and personnel recommendations. Notably, the board discussed and approved several out-of-state travel requests for teachers and staff to attend professional development conferences focused on subjects like math leadership, science education, and technology.  The meeting also included a Community/Board Linkage session dedicated to early childhood education. This suggests a focus on strengthening foundational learning experiences and potentially addressing issues related to school readiness and academic achievement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-02-24-minutes.txt)
-
-## 2010-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The school board meeting minutes detail a review of Executive Limitation 8 (EL-8) regarding budget execution. Assistant Superintendent Ron Cowan presented evidence demonstrating compliance with the policy for the fiscal year 2009-10. Business and Finance Manager Brett Greenwood provided a financial summary, highlighting an increase in enrollment and revenues exceeding expenditures. The unreserved Fund Balance aligned with the board's target range of three to five percent.
-
-The board also discussed revisions to Policy Governance policy Ends-2.1, Academic Achievement.  The proposed changes involved adding the phrase "and other available data, as appropriate" to several sections of the policy. This amendment suggests a desire for more comprehensive and nuanced evaluation of academic achievement. Finally, the board approved a motion to publicly share summaries of linkage meetings on the district website, demonstrating a commitment to transparency and community engagement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2010/2010-12-09-minutes.txt)
 
 ## 2010-11-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

@@ -1,22 +1,10 @@
 # Meeting Summaries for FERNDALE_SCHOOL_DISTRICT with Tag: student-autonomy
 
-## 2024-11-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The school board meeting minutes detail routine financial matters including deposits and fund allocations.  The board approved a number of personnel actions including hiring, resignations, retirements, leaves of absence and supplemental contracts. They also adopted Resolution No. 23-2022 to cancel warrants. The minutes note the review of the year-to-date Board of Director’s Budget as of October 31, 2022.  The board approved consent agenda items including minutes from the October 25th meeting. Notably, the student members evaluated the meeting with an overall rating of 3 "Meets Standard" on a scale of 1-4. The meeting adjourned at 9:30 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-11-minutes.txt)
-
 ## 2024-11-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail the approval of several consent agenda items, including a new policy (6221) for direct contracting through a "Small Works Roster" and the receipt of a monitoring report for Operational Expectation 8 concerning communication with the board. Additionally, Resolution 18-2024, which updates Policy 4040R regarding public access to school district records, was adopted. During the sharing portion of the meeting, board members discussed various topics such as the cell phone policy and the process for contract approvals. Director Machado expressed appreciation for staff and teachers, while Director Childs highlighted the need for clearer communication regarding contract timelines. Director Button emphasized the importance of each member's role in advocating for students, and Director Uppiano stressed the value of questioning and presenting diverse viewpoints.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-09-minutes.txt)
-
-## 2024-11-08 - FERNDALE_SCHOOL_DISTRICT (Agenda)
-
-The agenda outlines a regular meeting of the school board on November 28, 2023.  The meeting includes legislative updates from Ms. Uppiano and a sharing session for board members. A key item is the reorganization of the School Board, where nominations and elections will be held for president and vice president, positions to be filled until the December 2024 board meeting. The agenda also indicates that the board will decide on a Bond Committee liaison. Finally, student board members will evaluate the meeting using a provided survey.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-agenda.txt)
 
 ## 2024-11-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 

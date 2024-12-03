@@ -1,0 +1,32 @@
+# Meeting Summaries for BREMERTON_SCHOOL_DISTRICT with Tag: bullying-prevention
+
+## 2024-08-29 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a special meeting on August 29, 2024, where significant discussions centered around the unilateral termination of Superintendent Dr. James Crawford. Board members expressed their concerns regarding the integrity of the investigation leading to this decision, with Director Hurley emphasizing the importance of integrity and transparency in leadership. The board unanimously voted to terminate Dr. Crawford's employment and authorized the release of a public statement regarding his termination, including the findings from the Ganson investigation report. Multiple public comments supported Dr. Crawford, raising concerns about the board's ethics and the handling of public input, particularly regarding the timing of meetings and transparency in communication. The meeting underscored the board’s commitment to maintaining ethical standards and addressing allegations related to bullying and dishonesty within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-08-29-minutes.txt)
+
+## 2024-03-07 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a regular meeting on March 7, 2024, where they recognized March 11-15 as School Support Professionals Week, honoring the contributions of Education Support Professionals. Director Bolton presented Senate Bill 5462, which aims to promote inclusive learning standards and instructional materials in public schools, requiring districts to adopt policies that include the histories and contributions of marginalized or underrepresented groups. Additionally, the board reviewed Policy 3207 on Harassment, Intimidation, and Bullying, which was presented for a second reading with minor changes to align with HB 1207, clarifying that the policy pertains specifically to students. The board also discussed funding for special education transportation and endorsed a resolution for Education Support Professionals Week, emphasizing community engagement and support for the district's staff and students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-03-07-minutes.txt)
+
+## 2024-03-02 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board meeting on March 7, 2024, highlighted various key topics, including the recognition of School Support Professionals Week, which acknowledges the contributions of Education Support Professionals in public schools. Director Bolton presented a resolution (2023/2024-13) to proclaim this week, which was unanimously approved. Additionally, the board discussed Policy 3207 regarding Harassment, Intimidation, and Bullying, which underwent minor changes to align with House Bill 1207, clarifying that harassment, intimidation, and bullying (HIB) pertain specifically to students. The board also shared insights on legislative updates, including funding for special education transportation and support for marginalized groups as part of Senate Bill 5462. Student representatives reported on recent athletic successes and the importance of community engagement, emphasizing the growth and acceptance within Bremerton High School.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-03-02-march-minutes.txt)
+
+## 2024-02-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a regular meeting on February 15, 2024, where several key topics were discussed. The board approved a one-year agreement with the Association of Bremerton Administrators, which includes a 4.2% salary increase retroactive to July 2023. Additionally, they reviewed and approved revisions to Policy 3207 regarding Harassment, Intimidation, and Bullying, which now includes provisions for online bullying as part of the procedures for addressing such issues. The board also conducted a second reading of Policy 2190 on Highly Capable Programs, aligning it with Senate Bill 5072 aimed at increasing equitable access to these programs. Superintendent Crawford expressed excitement about the recent passage of a levy and the nearing completion of a bond, highlighting community engagement and support for educational initiatives. The meeting also featured a report from student representatives, who shared positive updates on school events and the community's involvement.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-02-15-minutes.txt)
+
+## 2024-02-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a regular meeting on February 15, 2024, where they addressed several key topics. The board reviewed and approved the Consent Agenda, which included a Human Resources Report and various contracts related to special services. Notably, the board discussed and approved revisions to Policy 3207, which addresses Harassment, Intimidation, and Bullying, ensuring it includes language related to online bullying and the procedures for investigating such incidents. Additionally, Policy 2190 concerning Highly Capable Programs was presented for a second reading, revised to comply with Senate Bill 5072, aimed at increasing equitable access to these programs. Superintendent Crawford expressed his satisfaction with the recent passage of a Levy and the nearing completion of a Bond, highlighting community engagement in these efforts. Student representatives provided updates on school events and expressed gratitude for community support, particularly in relation to social-emotional learning initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-02-15-febregboardmeeting-minutes.txt)
+

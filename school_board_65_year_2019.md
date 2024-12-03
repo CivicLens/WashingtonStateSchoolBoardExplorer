@@ -12,12 +12,6 @@ The December 5, 2019 meeting of the School Board focused on awarding a construct
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-12-05-minutes.txt)
 
-## 2019-12-05 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 is holding a special meeting on December 5th, 2019 at 6:30 PM in the Main Street Campus Library to discuss construction bids for the Main Street Campus.  The meeting agenda includes a call to order, welcome address, pledge of allegiance, roll call, discussion of the construction bids, and adjournment. The possible action item indicates that a decision may be made regarding the chosen construction bid.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-12-05-agenda.txt)
-
 ## 2019-11-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The November 20, 2019 School Board Meeting minutes detail the discussion regarding bid proposals for the Main Street Campus renovation.  The board decided to hold a special meeting on December 5th to potentially award a construction contract. The meeting was called to order at 6:30 PM and adjourned at 7:30 PM. Student Directors Ruby VanderHaak and Riley Anderson were absent and excused.
@@ -129,12 +123,6 @@ This document details personnel changes within a school district. Several teache
 This document outlines personnel recommendations for the Lynden School District. Several new hires and changes in assignments are proposed for both certificated (teachers) and classified staff.  There is a notable mention of leave replacements and maternity leave, indicating potential staffing challenges. The document also highlights teacher shortages with continued part-time leave replacement for Davis suggesting difficulty finding full-time replacements.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-02-26-minutes.txt)
-
-## 2019-02-26 - LYNDEN_SCHOOL_DISTRICT (Agenda)
-
-The Lynden School District #504 held a work session on February 26, 2019.  The agenda included standard items such as meeting minutes approval and a consent agenda covering personnel actions. A presentation was scheduled regarding the Glenning Street Property. Finance and Operations were to be discussed with a January budget update. Action items included Weather Make Up Days, the School Calendar for 2019-2020, and Resolution No. 04-19, which designated authority to sign real-estate transactions. The meeting was to adjourn into a board work session covering topics such as a Materials Distribution Policy, High School Science Requirements, and Safety Planning.  The agenda also listed "Board Work Session Topics" without further detail.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-02-26-agenda.txt)
 
 ## 2019-02-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

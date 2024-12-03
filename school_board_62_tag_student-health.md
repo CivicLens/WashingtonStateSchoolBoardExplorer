@@ -1,17 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: student-health
 
-## 2024-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Edmonds School District Board of Directors held a special meeting on November 19, 2021, at John Howie Steak in Bellevue, Washington.  The purpose of the meeting was to discuss school district initiatives, issues, and business in an unstructured manner. This was not a regular school board meeting and did not include public comment time. The meeting took place during the Washington State School Directors Association (WSSDA) Annual Conference.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-11-06-agenda.txt)
-
-## 2024-07-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board will hold a Community Linkage Meeting on December 9, 2015, from 7:00 to 8:15 am at the Shuksan Middle School Library. The meeting's purpose is to facilitate discussion between school board members and community health practitioners regarding student health needs.  The agenda includes opening remarks, a presentation explaining the concept of community linkages, and a large group discussion focused on collaboration between the school board and healthcare providers.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-08-agenda.txt)
-
 ## 2023-11-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a meeting at Bellingham High School on November 28, 2023. The purpose of the visit was for the board to learn about various programs offered at the school, including robotics, visual and performing arts, and sports medicine.  The board toured parts of the school, observing the construction progress of tennis courts and outbuildings for concessions, storage, and restrooms.  The meeting adjourned at 8:30 a.m.
@@ -68,12 +56,6 @@ The school board meeting minutes discuss the 2019-2020 school year report, highl
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-01-12-minutes.txt)
 
-## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing consistent updates, particularly during the COVID-19 pandemic. While the evaluation commends the Superintendent's performance overall, it suggests incorporating student and parent voices more explicitly as evidence of compliance with certain policies. The document also mentions a transition to remote learning due to COVID-19 but does not elaborate on the specifics or challenges associated with this shift.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-minutes.txt)
-
 ## 2021-06-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The School Board reviewed the Superintendent's Monitoring Report regarding Executive Limitations Reports and specifically Policy EL-8 on District Calendar.  The report highlighted commendable progress in adapting to the demands of the pandemic, including adjusting the school calendar for staff learning days and providing professional development opportunities to support remote and hybrid learning. Despite challenges, the superintendent was praised for clear communication during a rapidly changing environment and efforts to coordinate services for families' basic and learning needs. The Board specifically recognized the strong connections built with families receiving special education services during this time. No areas for improvement were identified.
@@ -85,12 +67,6 @@ The School Board reviewed the Superintendent's Monitoring Report regarding Execu
 The Bellingham School District Board of Directors held a special meeting on May 26, 2021, via Zoom to conduct a public hearing on the district’s Academic and Student Well-Being Recovery Plan.  The plan was designed to address the impact of COVID-19 on student learning and well-being. No members of the public attended the hearing to offer comment. The Board unanimously approved the recovery plan as part of its consent agenda.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-26-minutes.txt)
-
-## 2021-03-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board will review the updated annual agenda (GP-7.2) for the 2020-21 school year during their March 10th meeting.  Changes from the previous version are highlighted. The board will also receive an informational report on the district's Asset Preservation Program (APP). This program ensures compliance with state regulations and eligibility for future construction funding. The report details the condition of schools built after December 31, 1993, which received state construction assistance.  All assessed facilities met or exceeded OSPI Building Condition Standards.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-03-10-agenda.txt)
 
 ## 2021-01-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -138,12 +114,6 @@ This document details a student roundtable meeting hosted by the Bellingham Scho
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-06-minutes.txt)
 
-## 2019-08-22 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors held a special meeting on August 22, 2019, to address several agenda items.  The board reviewed and approved the minutes from their previous regular meeting held on August 14, 2019. They also voted on an updated version of Policy 6100, which pertains to "Revenues from Local, State and Federal Sources." The specific revisions made to the policy are not detailed in the provided text.  Finally, the board approved a contract extension (#1920-042) with the Whatcom County Health Department for additional Prevention/Intervention Specialist services during the 2019-20 school year.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-08-22-agenda.txt)
-
 ## 2019-05-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District held a Community Linkage Special Meeting to gather student input on "The Bellingham Promise," the district's strategic plan outlining goals for students. Students discussed various aspects of the plan, including mental health, character development, and diversity & inclusion. They expressed appreciation for the inclusion of LGBTQ+ identities but suggested more staff training on these topics.  Students also highlighted the need for increased access to resources like food and clothing, and emphasized the importance of a supportive and inclusive school environment. The meeting aimed to foster community engagement and incorporate student voices in shaping educational policies and practices as part of the district's long-term strategic planning.
@@ -171,12 +141,6 @@ The Bellingham School District Board of Directors visited the Bellingham Family 
 The Bellingham Public School Board met to discuss and approve several policy changes.  A key discussion point was the "Board Response to Monitoring – EL-3 Treatment and Communication with Public, Parents and Students" which was unanimously approved. Additionally, revisions were made to policies EL-1, Expectations of Superintendent, and EL-9.1, Facility Improvement or Development Involving Bond Issuances. The board also held a study session on community health, featuring presentations from representatives of the Whatcom County Health Department and a school nurse. This session focused on student health within the Bellingham Public Schools.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-02-27-minutes.txt)
-
-## 2018-12-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors visited Kulshan Middle School on December 4, 2018. During the visit, school staff and students presented information about various programs offered at the school, including STEM and technology courses, the Launch program (which focuses on project-based learning), and the WEB (Where Everyone Belongs) mentorship program designed to foster a sense of belonging among students. The meeting aimed to provide the school board with insights into the school's initiatives and how they support student well-being and academic growth.  The visit also served as an opportunity for community engagement, allowing parents and staff to interact with school board members.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-04-minutes.txt)
 
 ## 2018-10-02 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -218,12 +182,6 @@ The meeting highlighted ongoing efforts to enhance school safety and student wel
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-09-minutes.txt)
 
-## 2017-08-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This school board agenda includes a consent item regarding a personal services contract for Debbie Roth to serve as a sign language interpreter. The contract outlines her responsibilities, including interpreting at open houses, parent conferences and public events to ensure compliance with the Americans with Disabilities Act.  The agenda also features items related to school board self-assessment and a study session on board self-assessment tools.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-09-agenda.txt)
-
 ## 2017-04-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The text focuses on the need for improved consistency and support for arts education within the Bellingham Public Schools district. Participants discuss the lack of a centralized approach to arts programming, leading to disparities in resources and opportunities across schools.  Kim Lund from the Bellingham Public Schools Foundation suggests creating an arts endowment for sustainable funding. Mike Copland proposes incorporating dance into the school day through an artist-in-residence program. The discussion highlights the importance of teacher support and community engagement in developing a comprehensive K-12 arts model.
@@ -247,12 +205,6 @@ The Bellingham School District Board of Directors met on October 5, 2016 to disc
 The school board meeting focused heavily on student well-being and support systems.  Attendees raised concerns about discipline techniques like taking away recess and advocated for better classroom management training for staff.  The discussion also highlighted the need for increased prevention efforts in substance abuse and suicide, suggesting expansion of peer-to-peer programs. Parents requested guidance on discussing healthy relationships and abuse prevention with their children. The board acknowledged the challenges faced by district staff and discussed self-care opportunities like an Employee Assistance Program and a newly created wellness director position.  The meeting also touched upon connecting students to community resources in a more supportive manner.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-06-14-minutes.txt)
-
-## 2015-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School Board held a meeting focused on strengthening the connection between schools and healthcare practitioners.  The discussion centered around addressing challenges students face related to mental health, self-esteem, autism, and ADHD, and how these issues impact learning. Participants explored potential solutions like on-site clinics and highlighted the importance of community support for families in distress. The district aims to improve communication with medical providers and explore ways to better integrate healthcare services into the educational environment.  The meeting also touched upon The Bellingham Promise, a program designed to provide comprehensive support for students beyond academics, emphasizing the need for individualized interventions and a loving environment for every child.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-12-09-minutes.txt)
 
 ## 2015-10-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

@@ -19,5 +19,3 @@
 - [long-term-strategic-plans](school_board_19_tag_long-term-strategic-plans.md)
 - [policy-changes](school_board_19_tag_policy-changes.md)
 - [community-engagement](school_board_19_tag_community-engagement.md)
-- [diversity-inclusion](school_board_19_tag_diversity-inclusion.md)
-- [lgbtq](school_board_19_tag_lgbtq.md)

@@ -12,17 +12,19 @@ The Northgate School District held a school board meeting to discuss the distric
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
 
-## 2024-10-03 - LYNDEN_SCHOOL_DISTRICT (Agenda)
+## 2024-09-19 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board Meeting agenda focuses on several key topics.  The board will review and potentially approve second readings of Policy 2401 (Financial Education Mastery-Based Learning & Credit) and Policy 3241 (Student Discipline). These policies are undergoing revisions, with the specific changes not detailed in the provided text. The board will also discuss School Improvement Plans for Lynden Academy and Lynden High School, highlighting a commitment to academic standards.  Community engagement is emphasized through an "Information from the Audience" segment, allowing community members to address the board on agenda and non-agenda items.
+The Bremerton School District Board of Directors held a regular meeting on September 19, 2024, where several key topics were discussed, including the first reading of Policy 3241 concerning Student Discipline. This policy aligns with OSPI's emergency rules, which introduce terms like "discretionary discipline" and "nondiscretionary discipline" to provide more flexibility in managing student behavior. The board also addressed the 2024-27 Bremerton Education Association Cooperative Working Agreement, which includes provisions for professional development and stipends for dual language and special education teachers. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-agenda.txt)
+Additionally, the meeting included discussions on community engagement, particularly concerning field rental price increases and their potential impact on local clubs. Concerns about mental health were raised, with a focus on the importance of support systems for students. The board also received updates on summer learning programs that engaged 352 students and highlighted the district's commitment to special education through professional development for new teachers.
 
-## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-19-minutes.txt)
 
-The school board agenda includes a first reading of Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force. This procedure will be reviewed again for approval on July 23, 2024.  The agenda also lists a finance report presentation by the Director of Finance, Daniel Yorton. The report will cover budget updates, enrollment figures compared to the budget and enrollment changes from May to June. Finally, Superintendent Dr. James Everett will deliver a report summarizing district activities.
+## 2024-06-24 - ONALASKA_SCHOOL_DISTRICT (Minutes)
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-agenda.txt)
+The board workshop held on June 24, 2024, included a call to order at 4:37 PM and a review of several financial and policy matters. Key discussions focused on the first reading of several policies, specifically: Policy 2190/2190P regarding Highly Capable Programs, Policy 3205P which addresses the prohibition of sexual harassment of students, Policy 4201/4201P concerning civility, and Policy 5161 about civility in the workplace. The meeting also included discussions on the OHS End of Year Discipline Report for the 2023-2024 school year, indicating a focus on school discipline practices. The workshop concluded with a motion to adjourn at 5:53 PM, which passed with a 4-0 vote, motioned by Tanya Naillon and seconded by Heidi Howard.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-06-24-minutes.txt)
 
 ## 2024-06-24 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
@@ -55,11 +57,17 @@ The school board meeting minutes detail discussions on various topics including 
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
 | [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #07-24- Surplus Personal Property | Resolution #07-24: Surplus Personal Property |
 
-## 2024-04-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
+## 2024-05-09 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
-The School Board Meeting held on April 22, 2024, included discussions on several policy reviews and approvals. Notably, policies were presented for first reading, including 2410 - High School Graduation Requirements, and 5005 - Employment and Volunteers: Disclosures Certification Requirements, Assurances, and Approval. The board also reviewed and adopted policies in their second reading, such as 2255 - Alternative Learning Experience Courses and 2415 - Performance-Based Pathway for High School Graduation, which is a new policy. Additionally, the board approved a one-year contract with GB Manchester, Inc. for district-wide fire alarm inspections, amounting to $71,925, and authorized the purchase of Wireless Access Point devices for $688,453.80, funded by the Technology Levy. The meeting concluded with an executive session focused on property matters.
+The Hood Canal School District Board of Education held a study session on May 9, 2024, where Superintendent Lance Gibbon presented disaggregated attendance and discipline data for Native and non-Native students, highlighting issues related to diversity and inclusion within the school community. Additionally, Gibbon provided updates on the K-5 ELA Curriculum and the draft of the 2024-2025 School Calendar. The board also discussed the implications of RCW 42.30.035, which will take effect on June 30, 2024, regarding the recording of School District Regular Board Meetings. Ms. Robbins noted the closure of 20 elementary schools proposed by Seattle Public Schools by the 2025-26 school year, indicating broader trends in school district management and potential impacts on community engagement and racial equity.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-05-09-draftmtg-minutes.txt)
+
+## 2024-05-09 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
+
+The Hood Canal School District Board of Education held a study session on May 9, 2024, where they reviewed disaggregated attendance and discipline data for Native and non-Native students, highlighting a focus on diversity and inclusion as well as racial equity within the school community. Superintendent Lance Gibbon provided updates on the K-5 ELA Curriculum and a draft copy of the 2024-2025 School Calendar. Additionally, he noted that a new policy, RCW 42.30.035, regarding the recording of school district regular board meetings will take effect on June 30, 2024. The meeting concluded with comments from Board Member Annie Robbins, who acknowledged the proposed closure of 20 elementary schools by Seattle Public Schools and praised the collaboration between Mr. Gibbon and Mr. Tom Strong.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-05-09-minutes.txt)
 
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -73,12 +81,6 @@ This school board meeting minutes focuses on several issues related to governanc
 |--------------|--------------------|---------|
 | [Cliff Freeman](board_member_317.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
 | [Ben Lazarus](board_member_316.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-
-## 2024-01-30 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
-
-The Wahluke School Board held a special meeting on January 30, 2024, where community engagement was emphasized, particularly through presentations from the High School PSO aiming to increase parental involvement and raise funds for scholarships. Reports included updates on discipline and attendance data, with a goal of reducing chronic absenteeism by 15% district-wide. The Superintendent reported a projected $1.4 million budget deficit for the 2023-24 school year, attributing this to declining enrollment and the failure of a local levy. Numerous policies were reviewed and adopted, including Policy 3112 on Social Emotional Climate and Policy 3241 on Student Discipline, which aim to enhance school safety and address student needs. The board also approved several policies related to student privacy, such as Policy 3231 on Student Records and Policy 3220 on Freedom of Expression, indicating a focus on protecting student rights and data.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-01-30-minutes.txt)
 
 ## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -109,12 +111,6 @@ The Lynden School Board meeting minutes detail discussions on various topics, in
 The Blaine School District Board held a meeting where they reviewed and approved several items.  The board discussed the 2021-22 Board Meeting Calendar, noting that a September meeting in Point Roberts was preferred but subject to change due to border uncertainties. They also conducted the first reading of revised Professional Conduct Personnel Policies (5006, 5240, 5280, 5281). These revisions removed language pertaining to processes already regulated by state statute and collective bargaining agreements. The specific policy changes mentioned were: Policy 5006: Certification Revocation, Policy 5240: Evaluation of Staff, Policy 5280: Separation from Employment, and Policy 5281: Disciplinary Action and Discharge.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-05-24-minutes.txt)
-
-## 2020-11-04 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The school board agenda includes two policy readings for discussion and information. Policy 5270: Resolution of Staff Complaints outlines procedures for addressing staff grievances. Policy 5281: Disciplinary Action and Discharge details the process for disciplinary action against staff members, including potential discharge.  The Superintendent will provide a report on district activities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2020/2020-11-04-agenda.txt)
 
 ## 2019-09-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

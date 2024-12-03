@@ -1,28 +1,10 @@
 # Meeting Summaries for Tag: racial-equity
 
-## 2024-11-06 - FERNDALE_SCHOOL_DISTRICT (Agenda)
-
-The Ferndale School District No. 502 held a study session on April 18, 2023, focused on the implementation of a Land Acknowledgment Statement.  The session included presentations from Lummi Tribal members who discussed the history and significance of their ancestral lands. The board also engaged in discussion regarding the process used to develop the statement and its potential incorporation into school curriculum. This initiative reflects the district's commitment to diversity-inclusion and racial equity by recognizing and honoring the Indigenous peoples who originally inhabited the land where the schools are located.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-06-agenda.txt)
-
-## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting agenda includes a discussion on the district's efforts to promote racial equity. Several documents are attached for review, including "DRAFT Discipline Protocols for Discrimination Incidents" and the "2024 Student Justice Conference Program." The session also features a presentation titled "P9 Study Session Slidedeck 10.28.24".  The Board will discuss various resources and initiatives aimed at fostering diversity and inclusion within the school district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
-
 ## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on October 28, 2024, to review information on Superintendent Parameter 9 - Equity.  The meeting was called to order at 5:02 PM and adjourned at 6:42 PM.  Attendees included board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and Amy Cast (President), as well as Superintendent Michael Tolley. The specific content discussed regarding Superintendent Parameter 9 - Equity was not detailed in the provided text.
+The Northshore School District Board of Directors held a study session on October 28, 2024, focusing on Superintendent Parameter 9 - Equity. This discussion likely pertains to policies aimed at promoting racial equity within the district, although specific changes to policies or language were not detailed in the minutes. The session was attended by key district figures, including the Superintendent, Mr. Michael Tolley, and Board President Amy Cast. The meeting concluded with the adjournment at 6:42 PM, indicating an organized effort to engage with equity-related topics in the district's governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
-
-## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Northshore School District Board of Directors will hold a study session on October 28, 2024, to review information and data related to Superintendent Parameter 9 - Equity.  The meeting will include a discussion on the district's efforts to promote racial equity. Supporting documents for the session include slide decks, discipline protocols for discrimination incidents, and materials from the Student Justice Conference. The Board will also review resources such as the Racial and Educational Justice Toolkit and a handbook outlining the district's approach to racial and educational justice.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-28-agenda.txt)
 
 ## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -49,12 +31,6 @@ The school board meeting minutes detail discussions and votes on various positio
 | [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 8- Climate Impact Mitigation A...[truncated, use api for full text] | Director Owsley opposed. |
 | [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and...[truncated, use api for full text] | Director Owsley opposed. |
 
-## 2024-08-19 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
-
-The August 19, 2024 Board Meeting of the Lake Washington Board of Directors included several key resolutions and updates. Notably, the board introduced four student representatives, highlighting a commitment to diversity and inclusion within the school community. The meeting also addressed policy changes, including the adoption of Resolution No. 2380, which officially adopted the 2024-25 budget, and Resolution No. 2384, which approved the closure of the Futures School due to declining enrollment and the availability of alternative support programs at other high schools. Additionally, updates on legislative engagement and sustainability programs were provided, emphasizing ongoing community engagement efforts and strategic planning for the district's future.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-08-19-minutes.txt)
-
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document is a school board monitoring response to a report on the district's progress towards its Ends policies. The board commends the district for its success in several areas, including the Latinos in Action program, principled behavior at Northern Heights High School, and growth in reading scores based on i-Ready data. They also highlight the positive impact of compacted math options and online learning tools.
@@ -63,25 +39,23 @@ The board expresses concern over attendance rates, which they hope will improve 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
 
-## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
+## 2024-06-20 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The school board agenda focuses on several key items related to diversity and inclusion.  The board will discuss monitoring reports for Ends 1 (Strategic Mission and Vision), 2 (Outcomes Focused on Knowledge) and 3 (Outcomes Focused on Character and Action) to determine if the superintendent is in compliance with policy. Additionally, they will review the Annual Affirmative Action Progress Report based on October 2023 data, which was prepared by Human Resources Executive Director Arionda Feeney. This report assesses the progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The agenda also includes a discussion on the performance review of a public employee.
+The Bremerton School District Board of Directors held a regular meeting on June 20, 2024, where they discussed and approved a long-term strategic plan for 2024-2030, emphasizing alignment and diverse perspectives. The plan was facilitated by Performance Fact and involved input from 180 participants over 29 sessions. Key components included a promise statement, a Portrait of a Graduate, and four goals for student success. Additionally, the board approved Policy 2410, which transitions high school credit requirements from .625 to .5 credits per class, aligning with most districts in Washington. The board also addressed issues of racial equity, highlighting the importance of academic data and the need for a holistic approach to support students of color and those in special education. Community engagement was evident during public input, where several individuals expressed support for the strategic plan and its implementation.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-agenda.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-06-20-minutes.txt)
 
-## 2024-06-03 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+## 2024-05-09 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
-The June 3, 2024 Board Meeting of the Lake Washington School District included significant discussions around diversity and inclusion, particularly in the context of Juneteenth recognition. Director Lisa Guthrie presented a statement acknowledging the historical importance of Juneteenth, emphasizing the ongoing struggle for freedom, equality, and justice, which aligns with the district's commitment to fostering an inclusive environment. The meeting also recognized the contributions of outgoing Student Representatives, Shivani Sama and Taran Srinivasan, highlighting community engagement and student involvement in governance. 
+The Hood Canal School District Board of Education held a study session on May 9, 2024, where Superintendent Lance Gibbon presented disaggregated attendance and discipline data for Native and non-Native students, highlighting issues related to diversity and inclusion within the school community. Additionally, Gibbon provided updates on the K-5 ELA Curriculum and the draft of the 2024-2025 School Calendar. The board also discussed the implications of RCW 42.30.035, which will take effect on June 30, 2024, regarding the recording of School District Regular Board Meetings. Ms. Robbins noted the closure of 20 elementary schools proposed by Seattle Public Schools by the 2025-26 school year, indicating broader trends in school district management and potential impacts on community engagement and racial equity.
 
-Additionally, the Board unanimously approved Resolution No. 2375, which authorizes a six-year Construction Levy to address aging facilities and provide permanent classrooms, reflecting the district's long-term strategic plans for improving educational infrastructure. The meeting concluded with updates on the Strategic Plan and Inclusionary Practices, indicating ongoing efforts to enhance inclusive education within the district.
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-05-09-draftmtg-minutes.txt)
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-03-minutes.txt)
+## 2024-05-09 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
-## 2024-05-22 - KENT_SCHOOL_DISTRICT (Minutes)
+The Hood Canal School District Board of Education held a study session on May 9, 2024, where they reviewed disaggregated attendance and discipline data for Native and non-Native students, highlighting a focus on diversity and inclusion as well as racial equity within the school community. Superintendent Lance Gibbon provided updates on the K-5 ELA Curriculum and a draft copy of the 2024-2025 School Calendar. Additionally, he noted that a new policy, RCW 42.30.035, regarding the recording of school district regular board meetings will take effect on June 30, 2024. The meeting concluded with comments from Board Member Annie Robbins, who acknowledged the proposed closure of 20 elementary schools by Seattle Public Schools and praised the collaboration between Mr. Gibbon and Mr. Tom Strong.
 
-The Kent School District No. 415 held a special meeting on May 22, 2024, with a focus on community engagement and diversity inclusion. The meeting included a work session with student leadership and Ms. Simone Hamilton, the Director of Equity and Strategic Engagement. President Meghin Margel called the meeting to order at 4:30 p.m., and the session lasted approximately ninety minutes, emphasizing the district's commitment to fostering a collaborative environment between students and the school board. Director Song arrived later during the meeting, highlighting the importance of student involvement in discussions related to equity and strategic engagement within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-22-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-05-09-minutes.txt)
 
 ## 2024-05-07 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
@@ -89,17 +63,19 @@ The Federal Way Public School District No. 210 held a Work Study Meeting on May 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-05-07-minutes.txt)
 
-## 2024-05-02 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+## 2024-04-25 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The May 2, 2024, Regular Business Meeting of the Board of Directors included significant discussions and decisions regarding policy changes and strategic planning. The Board approved the agenda with an amendment to remove an Executive Session originally scheduled for later in the evening. They unanimously passed two resolutions: Resolution 2024-03, which pertains to the General Fund Extension, and Resolution 2024-04, concerning the Capital Fund Transfer, both receiving unanimous approval. The meeting also addressed long-term strategic planning, specifically the 2024-2029 Strategic Plan, indicating a focus on future goals and objectives for the district. Additionally, the Board approved an amended summer board meeting schedule, reflecting adjustments in their planning and operational strategies.
+The Vashon Island School District No. 402 held a board meeting on April 25, 2024, where significant discussions centered around the proposed staff and program reductions for the 2024-2025 school year. Public comments were made by numerous community members expressing concerns about the impact of these reductions, emphasizing the importance of staff support for students. Superintendent Dr. Slade McSheehy presented a revised Budget Reduction Plan, which included a timeline for budgetary decisions and highlighted the need for further analysis of district staffing levels. The board also reviewed the Equity Policy 3212, which focuses on racial equity and outlines objectives for improvement, indicating the district's commitment to addressing these issues while navigating budgetary constraints. Additionally, the meeting included personnel recommendations and financial reports, indicating ongoing challenges related to teacher and staff shortages. The board's decision to approve international travel for a Costa Rica exchange program was also noted, reflecting continued engagement in educational opportunities despite budgetary challenges.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-05-02-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-04-25-draft-minutes.txt)
 
-## 2024-04-18 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
+## 2024-04-25 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The April 18, 2024 Regular Business Meeting of the Board of Directors included a focus on community engagement and diversity-inclusion, highlighted by a student update and a study session on equity-driven decision making and family engagement. The meeting commenced with the introduction of a student and a land acknowledgment, emphasizing the board's commitment to recognizing diverse community backgrounds. The agenda also featured a unanimous approval of the consent agenda, which included personnel elections and travel approvals, indicating ongoing operational matters. The meeting concluded with discussions aimed at enhancing equity and engagement within the school community, reflecting the board's strategic priorities.
+The school board meeting included significant discussions around proposed staff and program reductions for the 2024-2025 school year, which have raised concerns among community members and students regarding their potential impact on student health and support systems. Public comments were made by numerous individuals, highlighting the importance of maintaining staff who provide essential support to students. The Superintendent, Dr. Slade McSheehy, acknowledged these comments and indicated the need for further dialogue regarding budget reduction plans and potential funding sources. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-04-18-minutes.txt)
+Additionally, a report on the Equity Policy 3212 was presented by Dr. McSheehy and Dr. Stephanie Spencer, which focused on racial equity and included a bi-annual review of policy objectives and areas for improvement. The board directed Dr. McSheehy to conduct a review of the VISD athletic program as part of the budget reduction process. The meeting concluded with a recommendation for the approval of the International Travel - 2024-2025 Costa Rica Exchange, which was passed unanimously.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-04-25-minutes.txt)
 
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -178,23 +154,11 @@ The Ferndale School District held a special meeting on January 30, 2024, to disc
 | [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
 | [Nancy Button](board_member_323.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
 
-## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The Administrative Center Board Room will host a study session on January 22, 2024, at 5:00 PM.  The meeting's primary focus is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps." This goal suggests a commitment to diversity-inclusion and racial-equity within the school system. The Board will review information regarding this goal, including data presented in documents titled "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
-
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which emphasizes Growth for Every Student and the elimination of outcome and opportunity gaps. The discussion was led by Superintendent Mr. Michael Tolley, who provided insights into the district's strategies for achieving these objectives. The session was attended by board members including President Amy Cast and other directors. The Board's commitment to racial equity was evident as they reviewed policies aimed at addressing disparities in educational outcomes. The meeting concluded with an adjournment at 6:49 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
-
-## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
-
-The text outlines an agenda for a study session of the Board of Directors scheduled for January 22, 2024.  The primary focus of the meeting is "Goal 3 - Growth for Every Student, Elimination of Outcome and Opportunity Gaps."  This goal will be reviewed during the discussion portion of the meeting. The board will review information presented in two attached documents: "Goal 3 Slide Deck-AY23-24-Rebranded.pptx.pdf" and "SG3-AY2324-Report-Foster-Draft-All-Final.pdf."  The agenda also includes standard items such as a call to order, list of attendees, and end of meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-22-agenda.txt)
 
 ## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -212,24 +176,6 @@ This text focuses on a school board's review of a report detailing progress towa
 | [Scott Ritchey](board_member_313.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 | [Katie Rose](board_member_314.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 
-## 2024-01-11 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
-
-The minutes from the January 11, 2024, Regular Business Meeting of the Board of Directors included several key actions and updates relevant to policy changes and diversity initiatives. Notably, the board approved the 2024 Multilingual Learner Education Report, which aims to enhance educational strategies for multilingual students, reflecting an emphasis on diversity and inclusion within the curriculum. Additionally, the board approved the 2024 Legislative Priorities, which may influence future policy directions, although specific details were not elaborated in the minutes. The meeting also featured a student update and acknowledgments, highlighting the board's commitment to community engagement and the inclusion of student voices in decision-making processes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-11-minutes.txt)
-
-## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a regular meeting on January 8, 2024, where they approved several key items, including the Consent Agenda, which encompassed various minutes from previous meetings, field trips, payment of bills, a personnel report, and new and revised board policies. Notably, the board adopted New Board Policy No. 4400 regarding Election Activities and revised Board Policy 0001, focusing on Racial and Educational Justice. Superintendent Michael Tolley provided updates on strategic action plans and various meetings, emphasizing community engagement and advocacy efforts. Additionally, Director Elisabeth Sotak proposed offering childcare during meetings to enhance parent involvement, highlighting the importance of community engagement in the board's long-term strategic planning.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
-
-## 2023-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda outlines several discussion points related to policy governance review.  Specifically, the board will be reviewing and discussing B/SR-1 (Board/Superintendent Connection), B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation), and B/SR-3.1.1 (Monitoring Response Document) for potential revisions. The agenda also mentions a monitoring report on EL-10, Race and Equity, received by the board on October 12, 2023. The board will review feedback to determine if the superintendent is in compliance with the policy.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-11-09-agenda.txt)
-
 ## 2023-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The provided text details a school board meeting discussion focused on the district's Equity, Diversity and Inclusion (EDI) policy. Board members commend the district's progress in implementing EDI initiatives, highlighting specific achievements such as increased awareness of the student safety tipline, collaboration with educators of color, bilingual staff support, and culturally responsive curriculum development. The discussion also touches upon the shift away from traditional conference days to a more inclusive model that accommodates families with diverse schedules and backgrounds. While board members express satisfaction with the current progress, they acknowledge that work in this area is ongoing.
@@ -241,12 +187,6 @@ The provided text details a school board meeting discussion focused on the distr
 The Ferndale School District held a study session focused on adopting a Land Acknowledgment Statement. Led by Heather Leighton, Vista Principal and Lummi Tribal Member, the session featured presentations from Lummi Nation leaders and community members who shared perspectives on the history of the land and the importance of recognizing Indigenous presence. The process of developing the statement was described, highlighting its adoption by Lummi Nation resolution and its intended public use. Discussions also touched upon protocol for reciting the acknowledgment and the significance of creating a welcoming environment for Native students.  The session concluded with an invitation from Chairman Hillaire for the school board to attend the First Salmon ceremony.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-04-18-minutes.txt)
-
-## 2022-12-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes discussion items related to monitoring superintendent compliance with policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will review a monitoring report on EL-10, Race and Equity, and determine if the superintendent is in compliance. The board will also discuss whether the superintendent is in compliance with policy EL-5, Communication and Counsel to the Board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-12-14-agenda.txt)
 
 ## 2022-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -288,35 +228,11 @@ This excerpt from school board meeting minutes focuses on student academic perfo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-16-minutes.txt)
 
-## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors will hold a special meeting on February 25, 2022, via Zoom.  The meeting agenda includes reviewing and discussing several policies. Policy EL-9, Asset Maintenance and Protection, and Policy EL-10, Race and Equity, will be reviewed. Additionally, the board will discuss linkages/study sessions/roundtables review, board improvement plan review, board routines, and the superintendent's mid-year report/evaluation. The meeting will not include public comment time.  The specific changes being considered for each policy are not mentioned in the provided text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-agenda.txt)
-
 ## 2022-02-25 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors met on February 25, 2022 to discuss several policy matters.  The board reviewed Policy EL-9 (Asset Maintenance and Protection) and Policy EL-10 (Race and Equity), considering potential changes and future information for monitoring reports. They also discussed the structure of board meetings, dinner meetings, and their involvement with the National School Board Association. The Superintendent's mid-year report was presented, allowing the board to provide feedback on his performance.  The meeting concluded at 2:38 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-02-25-minutes.txt)
-
-## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The December 8, 2021 school board meeting agenda includes discussions on monitoring reports for policies EL-10 (Race and Equity) and EL-5 (Communication and Counsel to the Board).  The board will vote on whether the superintendent is in compliance with these policies. Additionally, the board will review an updated annual board agenda (GP-7.2 - 2021-22 Annual Board Agenda, Revised). The meeting concludes with a board assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-agenda.txt)
-
-## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The May 26, 2021 school board meeting agenda includes several items relevant to diversity and inclusion initiatives.  The Superintendent's Report will include information on district activities, potentially including updates on equity programs. Additionally, the Instructional Materials Committee, presented by Dr. James Everett, Superintendent, will be introduced. This committee is composed of Adrienne Somera (chairman), Todd Torgeson (Administrative Representative), Lisa Buckley (Elementary - Intermediate Representative), and Natalie Eining (Elementary- Primary Representative). The meeting agenda also includes a Finance Report from Daniel Yorton, Director of Business and Finance, which will cover budget and finance updates.  Finally, the Superintendent's Report will include information on COVID-19 related matters, such as shorter quarantine periods.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-agenda.txt)
-
-## 2021-05-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes an informational item reviewing the updated annual board agenda (GP 7.2). This review highlights changes from the previous version.  An action item addresses the Annual Affirmative Action Progress Report. This report, based on October 2020 data, details progress made towards goals outlined in the 2019-2024 Affirmative Action Plan and Administrative Policy 5010. The report was prepared by Human Resources Director JoAn Steiner.  The agenda also includes standard items for board meeting assessment and adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-12-agenda.txt)
 
 ## 2021-04-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -346,41 +262,17 @@ Additionally, the board heard from Peg Zaremba-Born regarding the needs of secon
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-02-25-minutes.txt)
 
-## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda details discussions regarding monitoring reports on two policies: EL-3, Treatment and Communication with Public, Parents and Students, and EL-10, Race and Equity.  The board will review feedback and determine if the superintendent is in compliance with these policies. Additionally, the board will review an updated annual board agenda (GP-7.2 - 2020-21 Annual Board Agenda, Revised) for informational purposes. The agenda notes that changes from the previous version are highlighted.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-agenda.txt)
-
 ## 2021-02-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This school board meeting summary focuses on the district's efforts to address equity and inclusion. The addition of a Director for Equity, Diversity and Inclusion (DEI) and a Mental Health Coordinator are highlighted as key steps.  The report also mentions increased engagement with families, particularly those historically less connected, through the expansion of the Family Engagement Team. The district acknowledges the impact of COVID-19 on student mental health and outlines initiatives to provide support. Concerns about applying an equity lens consistently across district initiatives and a need for more comprehensive support during crises are raised.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-02-10-minutes.txt)
 
-## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
-
-The MSD School Board agenda includes discussion points related to diversity and inclusion. Specifically, Superintendent Dr. James Everett will provide details on establishing the MSD Equity and Access Committee and the MSD Community Involvement Committee. These committees suggest a focus on promoting racial equity and inclusive practices within the school district.  The agenda also features a financial update presented by Daniel Yorton, Director of Business and Finance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-agenda.txt)
-
-## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 Board met on January 13, 2021 via Zoom.  The meeting included a second reading and adoption of Policy and Procedure 2336: Required Observances which mandates observance of Veterans Day, Constitution Day, Temperance and Good Citizenship Day, and Disability History Month. The board also adopted Policy and Procedure 3232: Parent and Student Rights in Administration of Surveys, Analysis or Evaluation and Policy and Procedure 3244: Prohibition of Corporal Punishment Track Changes.  The board reviewed the updated MSD Reopening Plan which addressed the ongoing COVID-19 pandemic. They also discussed the development of two new committees: the MSD Equity and Access Committee and the MSD Community Involvement Committee. The meeting concluded with an executive session.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-minutes.txt)
-
 ## 2020-10-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District held a regular meeting on October 8, 2020 via Zoom.  The agenda included items related to COVID-19, such as a discussion on community school reopening and a draft phased re-entry plan.  The board also discussed racial equity initiatives, including the district's participation in Mount Baker District Equity Training. Other topics covered during the meeting included approval of minutes from previous meetings, consent agenda items such as personnel actions, purchases, accounts payable, payroll, donations, and MOUs, and reports from the Superintendent and Executive Director of Finance & Operations.  The meeting concluded with a review of upcoming meeting dates and an adjournment at 7:15 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-08-minutes.txt)
-
-## 2020-09-17 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
-
-The Deming School District Board has scheduled a work session on September 17, 2020.  The agenda includes "Opening Items" consisting of a call to order, the Pledge of Allegiance, and approval of the agenda. The main focus of the work session is an "Equity Discussion". There are no further details provided regarding the content or scope of this discussion. Following the equity discussion, the meeting concludes with an adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-17-agenda.txt)
 
 ## 2020-09-17 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -420,12 +312,6 @@ The school board meeting minutes highlight discussions on diversity and inclusio
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-17-minutes.txt)
 
-## 2020-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The School Board of Directors will hold a two-day special meeting on February 28th and 29th at the Environmental Learning Center in Rockport, Washington.  The agenda includes discussion items focused on reviewing EL-10, which concerns race and equity; discussing board professional development; conducting the superintendent's mid-year evaluation and contract review; addressing communications and board visibility strategies; completing a WSSDA self-assessment; and providing updates on big picture district initiatives. The meeting will also include time for other topics as determined by the board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-28-agenda.txt)
-
 ## 2020-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes detail discussions on various topics. Notably, the board reviewed a presentation highlighting student work and initiatives related to diversity, equity, and inclusion (EDI).  The board also engaged in a study session focused on sustainability within the district, with presentations from staff members across departments like finance, buildings and grounds, safety, food services, and wellness. 
@@ -434,24 +320,6 @@ Additionally, the minutes mention Ms. Diaz Hackler's attendance at the WSSDA leg
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-02-19-minutes.txt)
 
-## 2020-01-29 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes discussions on monitoring reports for two policies: EL-9, Asset Maintenance and Protection, and EL-10, Race and Equity.  The board will determine if the superintendent is in compliance with these policies following feedback from individual board members.  Additionally, the board will review an updated annual agenda (GP-7.2) highlighting changes from the previous version.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-29-agenda.txt)
-
-## 2020-01-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-This agenda excerpt details two instances of the school board reviewing monitoring reports related to district policies.  The first report concerns EL-9, Asset Maintenance and Protection, while the second focuses on EL-10, Race and Equity. Following standard practice outlined in Policy Governance, the board will assess whether the superintendent is adhering to these policies based on the feedback provided by individual board members. The agenda also includes a review of the updated 2019-20 annual board agenda (GP-7.2) for informational purposes only.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-01-15-agenda.txt)
-
-## 2019-11-20 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The text details a school board meeting agenda for November 20, 2019.  The board will be reviewing and discussing several policies related to the Superintendent's role and responsibilities, including B/SR-1 (Board/Superintendent Connection), B/SR-2 (Delegation to the Superintendent), B/SR-3 (Superintendent Evaluation) and B/SR-3.1.1 (Monitoring Response Document). The board will determine whether the superintendent is in compliance with EL-10, a policy related to Race and Equity.  The agenda does not provide specifics about the content of these policies or any proposed changes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-20-agenda.txt)
-
 ## 2019-11-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes highlight various activities undertaken by board members to promote diversity and inclusion within the school district.  Ms. Mason visited Wade King Elementary School, observing the integration of students from AIMS (Access in Mainstream Setting) and Life Skills programs into mainstream classrooms. Sehome High School's student-led equity work, involving a homecoming event simulation where students experienced perspectives from different backgrounds, was also discussed. This initiative led to changes for future homecoming events. 
@@ -459,12 +327,6 @@ The school board meeting minutes highlight various activities undertaken by boar
 Additionally, the minutes mention Ms. Diaz Hackler's attendance at Maria Salazar's lecture and Sunnyland's Halloween event, further demonstrating community engagement efforts.  Mr. Benjamin attended a WSSDA Region 1 meeting focused on CTE (Career and Technical Education) and learned about WSSDA OnBoard, a professional learning system for school directors. The board meeting also included discussions on student autonomy and mental health support. Ms. Peterson's observation of the State Supreme Court justices at WWU engaging with the campus community suggests an emphasis on legal literacy and civic engagement within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-20-minutes.txt)
-
-## 2019-10-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board meeting agenda includes a monitoring report for EL-10, Race and Equity.  The report is presented as part of the board's Policy Governance framework. Additionally, the agenda lists an informational item reviewing GP-7.2, the 2019-20 annual board agenda, which has been recently updated with changes highlighted for review.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-10-16-agenda.txt)
 
 ## 2019-10-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -484,12 +346,6 @@ The Bellingham School Board meeting minutes detail discussions and actions relat
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-08-14-minutes.txt)
 
-## 2019-07-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The July 24, 2019 school board agenda includes several informational items and discussion topics. Notably, the board will discuss "Equity Policy (EL-10)," which focuses on race and equity.  The agenda also features a discussion on "Student Voice" with a provided toolkit. Additionally, the board will review a "WSSDA Self-Assessment" and "Board Meeting Assessment Data." Finally, there's a scheduled discussion on "Climate Change/Conservation."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-24-agenda.txt)
-
 ## 2019-07-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors met on July 24, 2019, to discuss various agenda items.  A key focus was on policy changes related to diversity and inclusion. The board reviewed a draft Race and Equity policy (EL-10), slated for adoption at the August 14th meeting. Additionally, they discussed revisions to Policies 1210, 1220, and 1225 concerning the selection process for the board's legislative representative.  The board also reviewed the annual calendar for 2019-20, including linkage and study session topics. One planned study session would focus on climate change and conservation. The meeting concluded at 4:17 p.m.
@@ -507,12 +363,6 @@ The Bellingham School District held a Community Linkage Special Meeting to gathe
 The Bellingham School District Board of Directors held a special meeting on January 21, 2019, at Sehome High School.  The meeting focused on informational items and discussions rather than decision-making. Topics included reviewing communication recommendations from a board committee, discussing the superintendent's mid-year report and evaluation, and exploring methods for evaluating the superintendent through EL and Ends reports. The board also engaged in conversations about potential modifications to an existing EL-1 policy, the development of an equity policy, and ways to increase student voice within the district.  The meeting concluded with a tour of the new Sehome High School.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-01-21-minutes.txt)
-
-## 2018-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The school board meeting minutes detail discussions and reports from the WSSDA conference.  Several board members highlighted sessions related to diversity and inclusion, with Ms. Diaz Hackler expressing disappointment in the lack of diversity and inclusion options available at the conference.  Ms. Bashaw attended a Native American curriculum breakout session. Mr. Benjamin shared information about a teacher focusing on strengths-based growth and expressed interest in incorporating more student voice into school practices. Ms. Mason noted interesting conversations on equity during the legislative assembly. The board also discussed the monitoring response document for a policy, though the specific content of the policy is not mentioned.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-05-minutes.txt)
 
 ## 2018-10-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -549,12 +399,6 @@ This document details the Bellevue School District (BSD) Board's monitoring of S
 The Board also highlights BSD's efforts in analyzing student data beyond traditional comparables and exploring diverse ways of examining subgroups. However, they identify areas needing improvement, including ongoing support for special education students and strategies to combat the impact of poverty on graduation rates. The document emphasizes the importance of community partnerships in providing holistic support to families. Notably, the Board acknowledges that district success is not solely measured by graduation rates but encompasses broader student outcomes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-28-minutes.txt)
-
-## 2017-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors visited Columbia Elementary School on December 5, 2017. The meeting focused on discussing the school's outcomes and their connection to the Bellingham Promise.  The board also learned about the work of the Columbia Parent Association in supporting equity and inclusion. Additionally, they observed classroom practices aimed at fostering the social and emotional development of students. No specific policies were mentioned or discussed during the visit.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-minutes.txt)
 
 ## 2017-01-31 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

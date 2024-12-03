@@ -14,13 +14,11 @@
 - [2024](school_board_20_year_2024.md)
 
 ## Summaries by Tag
-- [student-health](school_board_20_tag_student-health.md)
-- [academic-standards](school_board_20_tag_academic-standards.md)
-- [curriculum-transparency](school_board_20_tag_curriculum-transparency.md)
 - [special-education-support](school_board_20_tag_special-education-support.md)
+- [curriculum-transparency](school_board_20_tag_curriculum-transparency.md)
+- [academic-standards](school_board_20_tag_academic-standards.md)
+- [student-health](school_board_20_tag_student-health.md)
 - [inclusive-sex-education](school_board_20_tag_inclusive-sex-education.md)
 - [policy-changes](school_board_20_tag_policy-changes.md)
 - [community-engagement](school_board_20_tag_community-engagement.md)
-- [diversity-inclusion](school_board_20_tag_diversity-inclusion.md)
 - [teacher-staff-shortages](school_board_20_tag_teacher-staff-shortages.md)
-- [lgbtq](school_board_20_tag_lgbtq.md)

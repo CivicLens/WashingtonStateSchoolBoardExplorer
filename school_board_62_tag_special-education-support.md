@@ -1,46 +1,16 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: special-education-support
 
-## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The agenda focuses on approving personal services contracts for individuals providing specialized support to students. Nora Cohoe will provide speech language services for private school students on Individualized Education Programs (IEPs). Debbie Hecht-Reier will offer IEP and teaching support for special education staff. Mark Kelly will deliver additional instruction for 6th-grade beginning band students. These contracts highlight the district's commitment to  special education support and teacher support through external expertise. The agenda also includes an informational item regarding the revised GP-7.2, 2024-25 annual board agenda, which outlines the schedule of meetings and topics for the upcoming school year.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-agenda.txt)
-
-## 2024-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The agenda includes two action items related to personal services contracts. Laura Brown will develop, review, and update service plans for private school students from August 29, 2024, through June 27, 2025. Stefanie Weis will assist payroll with new hire benefit enrollments from September 24, 2024, through August 2025.  The agenda also includes an informational item regarding the updated GP-7.2, 2024-25 annual board agenda, which highlights changes from the previous version.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-09-12-agenda.txt)
-
-## 2024-08-15 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The document outlines consent agenda items for a school board meeting on August 15, 2024.  The primary focus is on approving personal services contracts for individuals providing specialized educational support. Lisa Blas will deliver Title I Literacy Interventions at Assumption Catholic School from August 28, 2024 to June 7, 2025. Christina Carlson will support multilingual student assessments and the pre-referral matrix process for multilingual learners from July 1, 2024 to June 30, 2025. Christina Tan will provide Title I Literacy Interventions at Bellingham Christian School (BCS) during the same period as Blas.  All contracts have been reviewed and approved by the superintendent.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-08-15-agenda.txt)
-
 ## 2024-05-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District held a community linkage meeting to gather feedback on the Bellingham Family Partnership Program (BFPP). Parents and guardians shared their positive experiences with the program, highlighting its sense of community, flexibility, and range of support services. They also expressed a desire for improvements such as high school options and increased capacity.  The meeting served as a platform for parental feedback and demonstrated the district's commitment to engaging families in shaping educational programs. The BFPP appears to be well-regarded by participants who value its individualized approach and supportive environment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-22-minutes.txt)
 
-## 2023-10-12 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The document outlines proposed personal services contracts for three individuals. Nora Cohoe and Alyssa Ellingboe will provide speech-language services to private school students with Individual Service Plans (ISPs) from October 4, 2023, to June 18, 2024. Stefanie Weis will assist with payroll and new hire benefit enrollments in October 2023.  The document also mentions a consent agenda for board approval and the review of an updated annual board agenda (GP-7.2). The meeting includes informational items such as School Board Directors' Reports and concludes with a Board Assessment of the Meeting and Adjournment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-12-agenda.txt)
-
 ## 2023-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail positive community engagement efforts including a successful Community Transitions (CT) open house and parent night at the high school.  Communication channels such as ParentSquare, email, and reader boards were noted as helpful for families. The board also discussed student health and mental well-being. Ms. Rose shared her appreciation for connecting families with community resources through events like the block party. Mr. Benjamin mentioned attending the CT open house with his son, a former CT student, highlighting the program's positive impact. Ms. Diaz Hackler reported on a conversation with Washington State Representative Alex Ramal regarding school funding, mentioning potential changes to the levy lid but not an overhaul of the funding structure.  The meeting concluded with a board assessment rating the session as commendable.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-09-14-minutes.txt)
-
-## 2023-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The document outlines a series of personal services contracts proposed for approval by the Bellingham School District Board.  These contracts cover a range of support services including Title I literacy interventions, human resources assistance, payroll support for new hire benefits enrollment, and orientation and mobility services for students. The contracts specify service durations and are accompanied by individual PDF attachments detailing the terms of each agreement. Notably, the document highlights a potential teacher-staff shortage as evidenced by the need for temporary HR support "as needed during the 2023-24 school year."  The board is also addressing special education needs through contracts with Lisa Blas and Christina Tan to provide Title I Literacy Interventions at Assumption Catholic School and Bellingham Christian School (BCS) respectively.  Andrea Yake's contract focuses on providing Orientation and Mobility services for BSD students, indicating a commitment to supporting students with visual impairments.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-09-14-agenda.txt)
 
 ## 2022-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -100,26 +70,6 @@ The board recognized the hard work of staff in facilitating a smooth transition 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-11-04-minutes.txt)
 
-## 2020-09-16 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School Board is reviewing personal services contracts for two individuals. Mychel Cortese will provide evaluation and test administration assistance to the School Psychologist group in the preschool program from August 30, 2020 to January 29, 2021. Christina Tan will provide Title 1 Literacy Interventions for Bellingham Christian School from September 1, 2020 to June 11, 2021. The board will also review the updated GP-7.2, 2020-21 annual board agenda, with changes from the previous version highlighted. This review is for informational purposes only.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-09-16-agenda.txt)
-
-## 2020-06-24 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The Bellingham School District Board of Directors held a special meeting on June 24, 2020 via Zoom.  The agenda focused primarily on two consent agenda items. The first item involved the award of a bid to Tiger Construction Ltd. for the construction of the Shuksan Middle School Auxiliary Gym. This decision was based on bids received from four general contractors.
-
-The second consent agenda item concerned an interagency training agreement (#1920-166) with the University of Washington Haring Center. The agreement aims to increase opportunities for building inclusionary practices for preschool age students with disabilities, funded by a grant awarded to the district.  Notably, there were no discussions or mentions of LGBTQ+ related topics, transgender issues, critical race theory, or any other potentially controversial themes within the provided agenda text.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-06-24-agenda.txt)
-
-## 2018-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The text details a school board agenda for a meeting on December 5th, 2018.  Two contracts are proposed for approval: one for Daniel Hahn for .20 FTE School Psychologist Leave Replacement and two for Hadassah McGill as Pianist/rehearsal accompanist for Drama Productions and Choir Classes. The agenda also includes a discussion item regarding the monitoring of policy Ends 2.1, Part 1, focusing on student achievement and learning outcomes.  The Board will review a report and data set related to this policy.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-05-agenda.txt)
-
 ## 2018-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes highlight several key topics.  The board discussed positive feedback received from an ELL (English Language Learner) linkage meeting where families shared their experiences. There was also discussion regarding the potential expansion of resources from the AIMS (Access in the Mainstream Setting) program, designed to support students on the autism spectrum, to a wider group of students. The board members expressed appreciation for the Northern Heights school visit, particularly noting the school's jobs program, buddy bench initiative, and welcoming environment.  The minutes also indicate that Ms. Bashaw observed an eighth-grade student translating for their parents at the ELL linkage meeting and is exploring potential online English learning resources for families.
@@ -131,12 +81,6 @@ The school board meeting minutes highlight several key topics.  The board discus
 The Bellingham School District Board of Directors visited Northern Heights Elementary School on November 6, 2018.  The meeting focused on innovative programs at the school, including an approach to teaching students with autism and a new jobs program designed to empower student leadership. The school also showcased Seesaw, a new communication tool for teachers and parents.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-11-06-minutes.txt)
-
-## 2018-06-06 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
-
-The school board agenda includes several items related to personnel and policy.  The board will vote on approval of personal services contracts for individuals providing GLAD (Guided Language Acquisition Design) training and instruction as well as a drum line coach. Additionally, the board will discuss and vote on revisions to Ends 2.1, a policy concerning Student Competence. The specific changes proposed are not detailed in this excerpt but the agenda notes that the directors considered them at a previous meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-06-06-agenda.txt)
 
 ## 2018-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
