@@ -1,14 +1,15 @@
-# Meeting Summaries for QUILCENE_SCHOOL_DISTRICT
+# Meeting Summaries for PENINSULA_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Viviann Kuehl](board_member_108.md) | 2015-2027 |
-| [Shona Davis](board_member_109.md) | 2024-2025 |
-| [Ron Frantz](board_member_110.md) | 2023-2027 |
-| [Jon Cooke](board_member_111.md) | 2021-2025 |
-| [Jim Hodgson](board_member_112.md) | 2023-2027 |
+| [Chuck West](board_member_229.md) | 2021-2027 |
+| [Jennifer Butler](board_member_230.md) | 2021-2025 |
+| [Lori Glover](board_member_231.md) | 2021-2027 |
+| [Natalie Wimberley](board_member_232.md) | 2021-2027 |
+| [David Olson](board_member_233.md) | 2021-2025 |
+| [Noah Thompson](board_member_234.md) | None |
 
 ## Available Years
 

@@ -1,5 +1,19 @@
 # Meeting Summaries for Tag: policy-changes
 
+## 2028-02-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board reviewed a report on student academic performance based on standardized testing data.  The board discussed the adequacy of the Smarter Balanced Assessment (SBA) as a measure of student achievement, suggesting it may not be reliable and proposing further discussion about its use in evaluating Policy E-2.1. Concerns were raised about the inclusion of Bellevue as a comparable district due to significant demographic differences, particularly regarding free/reduced lunch eligibility. The board highlighted the need for increased support for Hispanic students and acknowledged a downward trend in performance among students with Individualized Education Programs (IEPs). They commended the thoroughness of the report and expressed interest in revisiting continuous growth data when available.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2028/2028-02-07-minutes.txt)
+
+## 2025-02-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a special meeting on February 24-25, 2017, to discuss various topics.  The board continued its discussion on board advocacy and roles, initiated in a previous meeting. They also reviewed proposed revisions to Governance Process policies, scheduling further discussion for a future regular meeting. A Board Candidate Informational Meeting was planned for April 19, 2017, to provide information to potential candidates. The Superintendent presented mid-year accomplishments and district initiatives.  
+
+The board engaged in discussions regarding consent agenda practices, responses to monitoring reports, and the scheduling of two additional "linkages" or study sessions: one focused on connecting with Visual and Performing Arts Community Partners and the other on connecting with the LGBTQA Community.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2025/2025-02-24-minutes.txt)
+
 ## 2024-11-21 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The text outlines upcoming events for a school board.  There is a Special Board Meeting scheduled for November 21, 2024 and a Regular Board Meeting will also take place.  The text mentions the board's attendance at the WSSDA Conference in Spokane, WA from November 21-23, 2024. No specific policies or resolutions are mentioned in the provided text.
@@ -126,14 +140,14 @@ The Meridian School District #505 held a special school board meeting on October
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | seconded motion to adopt the agenda | The motion to adopt the agenda was made by Marty Gray and seconded by Jana Haugen. The motion passed 3-0. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | made motion to approve the consent agenda | A motion to approve the consent agenda was made by Michelle Simmons and seconded by Marty Gray. The motion passed 3-0. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
-| [Steve Corwin](board_member_338.md) | called the special meeting to order |  |
-| [Steve Corwin](board_member_338.md) | adjourned the board meeting | There being no further business, the Board meeting was adjourned at 10:02 am by Board President Steve Corwin. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | seconded motion to adopt the agenda | The motion to adopt the agenda was made by Marty Gray and seconded by Jana Haugen. The motion passed 3-0. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | made motion to approve the consent agenda | A motion to approve the consent agenda was made by Michelle Simmons and seconded by Marty Gray. The motion passed 3-0. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
+| [Steve Corwin](board_member_333.md) | called the special meeting to order |  |
+| [Steve Corwin](board_member_333.md) | adjourned the board meeting | There being no further business, the Board meeting was adjourned at 10:02 am by Board President Steve Corwin. |
 
 ## 2024-10-30 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
@@ -207,27 +221,27 @@ The Meridian School District #505 held a regular school board meeting on October
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve consent agenda items A-F |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve consent agenda items A-F |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve consent agenda items A-F |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve consent agenda items A-F |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve the highly capable program, as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the highly capable program, as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve the highly capable program, as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
 
 ## 2024-10-08 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
@@ -280,12 +294,12 @@ The Meridian School District #505 held its regular school board meeting on Septe
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, 2024-25 Fuel Bid Extension,...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, 2024-25 Fuel Bid Extension,...[truncated, use api for full text] |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and approval. Student representative favors appr...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and approval. Student representative favors appr...[truncated, use api for full text] |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and approval. Student representative favors a...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and approval. Student representative favors a...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, 2024-25 Fuel Bid Extension,...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, 2024-25 Fuel Bid Extension,...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and approval. Student representative favors appr...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and approval. Student representative favors appr...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and approval. Student representative favors a...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and approval. Student representative favors a...[truncated, use api for full text] |
 
 ## 2024-09-24 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -297,22 +311,22 @@ The school board meeting minutes detail several policy changes and approvals.  R
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Steve Childs](board_member_327.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
-| [Nancy Button](board_member_328.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Nancy Button](board_member_328.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Nancy Button](board_member_328.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Nancy Button](board_member_328.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Steve Childs](board_member_322.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| [Nancy Button](board_member_323.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Nancy Button](board_member_323.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Nancy Button](board_member_323.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Nancy Button](board_member_323.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
 
 ## 2024-09-23 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
@@ -362,36 +376,36 @@ The meeting minutes detail the approval of a consent agenda covering routine mat
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
-| [Steve Childs](board_member_327.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
-| [Nancy Button](board_member_328.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
-| [Steve Childs](board_member_327.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
-| [Nancy Button](board_member_328.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
-| [Steve Childs](board_member_327.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
-| [Nancy Button](board_member_328.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
-| [Steve Childs](board_member_327.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
-| [Nancy Button](board_member_328.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
-| [Nancy Button](board_member_328.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
-| [Nancy Button](board_member_328.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
+| [Steve Childs](board_member_322.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
+| [Nancy Button](board_member_323.md) | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
+| [Steve Childs](board_member_322.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
+| [Nancy Button](board_member_323.md) | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
+| [Steve Childs](board_member_322.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
+| [Nancy Button](board_member_323.md) | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
+| [Steve Childs](board_member_322.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
+| [Nancy Button](board_member_323.md) | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
+| [Nancy Button](board_member_323.md) | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
+| [Nancy Button](board_member_323.md) | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
 
 ## 2024-08-26 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
@@ -427,17 +441,17 @@ The meeting featured discussions on several new policies and procedures related 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| [Marty Gray](board_member_339.md) | voted no on motion to approve Procedure 2025 | Procedure 2025 was not further described in the meeting minutes provided. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
+| [Marty Gray](board_member_334.md) | voted no on motion to approve Procedure 2025 | Procedure 2025 was not further described in the meeting minutes provided. |
 
 ## 2024-08-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -449,18 +463,18 @@ The meeting minutes detail the Bellingham School Board's approval of several int
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_315.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Camille Diaz Hackler](board_member_317.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Jenn Mason](board_member_316.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Scott Ritchey](board_member_318.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Katie Rose](board_member_319.md) | abstained | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Douglas Benjamin](board_member_315.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_317.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Jenn Mason](board_member_316.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_318.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
-| [Katie Rose](board_member_319.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Jenn Mason](board_member_316.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
-| [Camille Diaz Hackler](board_member_317.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Douglas Benjamin](board_member_310.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Jenn Mason](board_member_311.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Scott Ritchey](board_member_313.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | abstained | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Douglas Benjamin](board_member_310.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Katie Rose](board_member_314.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
 
 ## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -478,10 +492,10 @@ The school board discussed amending Policy 3211/P, which likely pertains to stud
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | Asked board to review consent agenda for General Assembly Handbook proposals they wish to remove | Hickman shared that WSSDA released their final draft of the General Assembly Handbook with 48 proposals to vote on. |
-| [Khush Brar](board_member_333.md) | Supports external cameras on school buses and wants further discussion | Director Brar stated that she supports external cameras on the buses and would like to further discuss this. |
-| [Khush Brar](board_member_333.md) | Wants to appeal city's decision against crosswalk at Vossbeck Elementary | Director Brar asked about the status of the proposed crosswalk at Vossbeck Elementary. Superintendent VanderYacht explai...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | Wants to pursue Impact Fees | Director Brar asked about the status of pursuing Impact Fees. |
+| [Tonya Hickman](board_member_326.md) | Asked board to review consent agenda for General Assembly Handbook proposals they wish to remove | Hickman shared that WSSDA released their final draft of the General Assembly Handbook with 48 proposals to vote on. |
+| [Khush Brar](board_member_328.md) | Supports external cameras on school buses and wants further discussion | Director Brar stated that she supports external cameras on the buses and would like to further discuss this. |
+| [Khush Brar](board_member_328.md) | Wants to appeal city's decision against crosswalk at Vossbeck Elementary | Director Brar asked about the status of the proposed crosswalk at Vossbeck Elementary. Superintendent VanderYacht explai...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | Wants to pursue Impact Fees | Director Brar asked about the status of pursuing Impact Fees. |
 
 ## 2024-08-14 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
@@ -515,10 +529,10 @@ The Meridian School District #505 held a special school board meeting on August 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, payroll, and personnel report. |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, payroll, and personnel report. |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve Grant Applicant Authorization Resolution 09-24 | Grant Applicant Authorization Resolution 09-24 was presented for a second review and approval. |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve Grant Applicant Authorization Resolution 09-24 | Grant Applicant Authorization Resolution 09-24 was presented for a second review and approval. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, payroll, and personnel report. |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, payroll, and personnel report. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve Grant Applicant Authorization Resolution 09-24 | Grant Applicant Authorization Resolution 09-24 was presented for a second review and approval. |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve Grant Applicant Authorization Resolution 09-24 | Grant Applicant Authorization Resolution 09-24 was presented for a second review and approval. |
 
 ## 2024-07-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -530,30 +544,30 @@ The school board meeting addressed several routine matters and policy updates.  
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Steve Childs](board_member_327.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
-| [Steve Childs](board_member_327.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
-| [Steve Childs](board_member_327.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Steve Childs](board_member_322.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
+| [Steve Childs](board_member_322.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Steve Childs](board_member_322.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
 
 ## 2024-07-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -581,22 +595,22 @@ The Meridian School District #505 Board held a regular meeting on July 23, 2024.
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_337.md) | voted no on motion to approve Procedure 2161P - Interscholastic Activities Eligibility | Procedure 2161P outlines rules for student participation in sports and extracurricular activities |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
+| [Jarrod Karuza](board_member_332.md) | voted no on motion to approve Procedure 2161P - Interscholastic Activities Eligibility | Procedure 2161P outlines rules for student participation in sports and extracurricular activities |
 
 ## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -648,22 +662,22 @@ Additionally, they discussed the possibility of joining other districts advocati
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | Motioned to adjourn the meeting | At the end of the meeting |
-| [Ken Owsley](board_member_332.md) | Approved agenda | Made a motion to approve the agenda. |
-| [Ken Owsley](board_member_332.md) | Approved consent agenda | Motioned to approve the consent agenda. |
-| [Ken Owsley](board_member_332.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
-| [Ken Owsley](board_member_332.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Khush Brar](board_member_333.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
-| [Khush Brar](board_member_333.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
-| [Khush Brar](board_member_333.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
-| [Khush Brar](board_member_333.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Jim Verburg](board_member_334.md) | Approved agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved consent agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Northwest Educational Service District Agreement | No context provided |
-| [Danny Martinez](board_member_335.md) | Approved consent agenda | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
+| [Tonya Hickman](board_member_326.md) | Motioned to adjourn the meeting | At the end of the meeting |
+| [Ken Owsley](board_member_327.md) | Approved agenda | Made a motion to approve the agenda. |
+| [Ken Owsley](board_member_327.md) | Approved consent agenda | Motioned to approve the consent agenda. |
+| [Ken Owsley](board_member_327.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
+| [Ken Owsley](board_member_327.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Khush Brar](board_member_328.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
+| [Khush Brar](board_member_328.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
+| [Khush Brar](board_member_328.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
+| [Khush Brar](board_member_328.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Jim Verburg](board_member_329.md) | Approved agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved consent agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Northwest Educational Service District Agreement | No context provided |
+| [Danny Martinez](board_member_330.md) | Approved consent agenda | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
 
 ## 2024-07-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -681,12 +695,12 @@ The Meridian School District #505 held a special school board meeting on July 10
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | The consent agenda included accounts payable. |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt the consent agenda | The consent agenda included accounts payable. |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the 2024-25 MSD Board Meeting Plan of Work Calendar as presented | This was a second review and approval of the calendar. |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt the 2024-25 MSD Board Meeting Plan of Work Calendar as presented | This was a second review and approval of the calendar. |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included accounts payable. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the consent agenda | The consent agenda included accounts payable. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the 2024-25 MSD Board Meeting Plan of Work Calendar as presented | This was a second review and approval of the calendar. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the 2024-25 MSD Board Meeting Plan of Work Calendar as presented | This was a second review and approval of the calendar. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
 
 ## 2024-07-08 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
@@ -742,9 +756,9 @@ The Mountainview Learning Center School Board held a special meeting on June 26,
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
-| [Antonio Machado](board_member_329.md) | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
+| [Antonio Machado](board_member_324.md) | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
 
 ## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
@@ -764,16 +778,16 @@ The meeting also included first readings of several procedures, including Proced
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_339.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_336.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jana Haugen](board_member_336.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Marty Gray](board_member_339.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
+| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the consent agenda |
+| [Marty Gray](board_member_334.md) | voted yes | Motion to adopt the consent agenda |
+| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
+| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
+| [Marty Gray](board_member_334.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
 
 ## 2024-06-25 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -821,16 +835,16 @@ The Lynden School District board meeting minutes detail discussions and votes on
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
 Ext...[truncated, use api for full text] | Director Martinez motioned to approve Resolution #09-24- WIAA for a Fair, Safe and
 Nondiscriminatory Practice in Athleti...[truncated, use api for full text] |
 
@@ -856,11 +870,11 @@ The school board meeting minutes detail discussions on several key topics.  The 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Steve Galbraith](board_member_324.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Erika Creydt](board_member_320.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ben Lazarus](board_member_321.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Cliff Freeman](board_member_322.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ryan Swinburnson](board_member_323.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Steve Galbraith](board_member_319.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Ryan Swinburnson](board_member_318.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
 
 ## 2024-06-13 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -880,21 +894,21 @@ The meeting included updates on the district's budget and financial status.  Dr.
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes | Motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Motion to adopt the consent agenda |
-| [Steve Corwin](board_member_338.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_339.md) | voted yes | Motion to adopt the consent agenda |
-| [Michelle Simmons](board_member_340.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_336.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Steve Corwin](board_member_338.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Marty Gray](board_member_339.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | Motion to approve Policy  as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Motion to approve Policy  as presented |
-| [Steve Corwin](board_member_338.md) | voted yes | Motion to approve Policy  as presented |
-| [Marty Gray](board_member_339.md) | voted yes | Motion to approve Policy  as presented |
-| [Michelle Simmons](board_member_340.md) | voted yes | Motion to approve Policy  as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the consent agenda |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to adopt the consent agenda |
+| [Steve Corwin](board_member_333.md) | voted yes | Motion to adopt the consent agenda |
+| [Marty Gray](board_member_334.md) | voted yes | Motion to adopt the consent agenda |
+| [Michelle Simmons](board_member_335.md) | voted yes | Motion to adopt the consent agenda |
+| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Steve Corwin](board_member_333.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Marty Gray](board_member_334.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Policy  as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Policy  as presented |
+| [Steve Corwin](board_member_333.md) | voted yes | Motion to approve Policy  as presented |
+| [Marty Gray](board_member_334.md) | voted yes | Motion to approve Policy  as presented |
+| [Michelle Simmons](board_member_335.md) | voted yes | Motion to approve Policy  as presented |
 
 ## 2024-06-10 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
@@ -924,16 +938,16 @@ The Lynden School Board meeting minutes detail various agenda items and decision
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Danny Martinez](board_member_335.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
 
 ## 2024-05-28 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
@@ -957,18 +971,18 @@ The school board meeting addressed several policy revisions related to high scho
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive the monitoring report for results policy 3 (r-3) civic engagement | Action (Consent): 10.03 Receive the Monitoring Report for Results Policy 3 (R-3) Civic Engagement |
-| [Peggy Uppiano](board_member_326.md) | voted no on motion to receive the monitoring report for results policy 3 (r-3) civic engagement | Action (Consent): 10.03 Receive the Monitoring Report for Results Policy 3 (R-3) Civic Engagement |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to adopt revised policy 3424 opioid related overdose reversal | Action (Consent): 10.04 Adopt Revised Policy 3424 Opioid Related Overdose Reversal |
-| [Peggy Uppiano](board_member_326.md) | voted no on motion to adopt revised policy 3424 opioid related overdose reversal | Action (Consent): 10.04 Adopt Revised Policy 3424 Opioid Related Overdose Reversal |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive revised policy 2410 high school graduation requirements | Action (Consent): 10.05 Receive Revised Policy 2410 High School Graduation Requirements |
-| [Peggy Uppiano](board_member_326.md) | voted no on motion to receive revised policy 2410 high school graduation requirements | Action (Consent): 10.05 Receive Revised Policy 2410 High School Graduation Requirements |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive revised policy 2418 waiver of high school graduation credits | Action (Consent): 10.06 Receive Revised Policy 2418 Waiver of High School Graduation Credits |
-| [Peggy Uppiano](board_member_326.md) | voted no on motion to receive revised policy 2418 waiver of high school graduation credits | Action (Consent): 10.06 Receive Revised Policy 2418 Waiver of High School Graduation Credits |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to receive revised policy 2255 alternative learning experience courses | Action (Consent): 10.07 Receive Revised Policy 2255 Alternative Learning Experience Courses |
-| [Peggy Uppiano](board_member_326.md) | voted no on motion to receive revised policy 2255 alternative learning experience courses | Action (Consent): 10.07 Receive Revised Policy 2255 Alternative Learning Experience Courses |
-| [Kevin Erickson](board_member_325.md) | voted yes on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
-| [Peggy Uppiano](board_member_326.md) | voted no on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive the monitoring report for results policy 3 (r-3) civic engagement | Action (Consent): 10.03 Receive the Monitoring Report for Results Policy 3 (R-3) Civic Engagement |
+| [Peggy Uppiano](board_member_321.md) | voted no on motion to receive the monitoring report for results policy 3 (r-3) civic engagement | Action (Consent): 10.03 Receive the Monitoring Report for Results Policy 3 (R-3) Civic Engagement |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to adopt revised policy 3424 opioid related overdose reversal | Action (Consent): 10.04 Adopt Revised Policy 3424 Opioid Related Overdose Reversal |
+| [Peggy Uppiano](board_member_321.md) | voted no on motion to adopt revised policy 3424 opioid related overdose reversal | Action (Consent): 10.04 Adopt Revised Policy 3424 Opioid Related Overdose Reversal |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive revised policy 2410 high school graduation requirements | Action (Consent): 10.05 Receive Revised Policy 2410 High School Graduation Requirements |
+| [Peggy Uppiano](board_member_321.md) | voted no on motion to receive revised policy 2410 high school graduation requirements | Action (Consent): 10.05 Receive Revised Policy 2410 High School Graduation Requirements |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive revised policy 2418 waiver of high school graduation credits | Action (Consent): 10.06 Receive Revised Policy 2418 Waiver of High School Graduation Credits |
+| [Peggy Uppiano](board_member_321.md) | voted no on motion to receive revised policy 2418 waiver of high school graduation credits | Action (Consent): 10.06 Receive Revised Policy 2418 Waiver of High School Graduation Credits |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to receive revised policy 2255 alternative learning experience courses | Action (Consent): 10.07 Receive Revised Policy 2255 Alternative Learning Experience Courses |
+| [Peggy Uppiano](board_member_321.md) | voted no on motion to receive revised policy 2255 alternative learning experience courses | Action (Consent): 10.07 Receive Revised Policy 2255 Alternative Learning Experience Courses |
+| [Kevin Erickson](board_member_320.md) | voted yes on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
+| [Peggy Uppiano](board_member_321.md) | voted no on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
 
 ## 2024-05-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
@@ -1016,10 +1030,10 @@ The Bellingham School Board reviewed the superintendent's annual report on the d
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_315.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_317.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_318.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
-| [Katie Rose](board_member_319.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
 
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -1071,17 +1085,17 @@ The Board also approved the Sendan Center Contract which was presented for a sec
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes | motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to adopt the consent agenda |
-| [Marty Gray](board_member_339.md) | voted yes | motion to adopt the consent agenda |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presented |
-| [Marty Gray](board_member_339.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
-| [Marty Gray](board_member_339.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
-| [Jana Haugen](board_member_336.md) | voted yes | motion to approve the Sendan Center Contract as presented |
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to approve the Sendan Center Contract as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to adopt the consent agenda |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to adopt the consent agenda |
+| [Marty Gray](board_member_334.md) | voted yes | motion to adopt the consent agenda |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presented |
+| [Marty Gray](board_member_334.md) | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
+| [Marty Gray](board_member_334.md) | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
+| [Jana Haugen](board_member_331.md) | voted yes | motion to approve the Sendan Center Contract as presented |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the Sendan Center Contract as presented |
 
 ## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -1103,22 +1117,22 @@ The Lynden School Board meeting minutes detail several policy changes and action
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_333.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
 
 ## 2024-04-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -1142,8 +1156,8 @@ The Meridian School District #505 held a special school board meeting on April 3
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the agenda | The motion passed 4-0. |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt the agenda | The motion passed 4-0. |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the agenda | The motion passed 4-0. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the agenda | The motion passed 4-0. |
 
 ## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
@@ -1167,10 +1181,10 @@ The Meridian School District #505 held a regular school board meeting on April 2
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
 
 ## 2024-04-22 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
@@ -1198,11 +1212,11 @@ The Blaine School Board met to discuss several issues, including a proposed redu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ryan Swinburnson](board_member_323.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Erika Creydt](board_member_320.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Cliff Freeman](board_member_322.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Steve Galbraith](board_member_324.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_321.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Ryan Swinburnson](board_member_318.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Erika Creydt](board_member_315.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_317.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Steve Galbraith](board_member_319.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_316.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
 
 ## 2024-04-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
@@ -1226,16 +1240,16 @@ The Lynden School Board meeting minutes detail discussions on academic performan
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
-| [Ken Owsley](board_member_332.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
-| [Ken Owsley](board_member_332.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
-| [Khush Brar](board_member_333.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
-| [Ken Owsley](board_member_332.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
-| [Khush Brar](board_member_333.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
-| [Ken Owsley](board_member_332.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
-| [Khush Brar](board_member_333.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
-| [Danny Martinez](board_member_335.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
-| [Ken Owsley](board_member_332.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
+| [Tonya Hickman](board_member_326.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
+| [Ken Owsley](board_member_327.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
+| [Ken Owsley](board_member_327.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
+| [Khush Brar](board_member_328.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
+| [Ken Owsley](board_member_327.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
+| [Khush Brar](board_member_328.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
+| [Ken Owsley](board_member_327.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
+| [Khush Brar](board_member_328.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
+| [Danny Martinez](board_member_330.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
+| [Ken Owsley](board_member_327.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
 
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -1259,8 +1273,8 @@ The Bellingham School District Board of Directors held a special meeting on Apri
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jenn Mason](board_member_316.md) | voted yes on Resolution 10-24, Modification of 2023-24 School Board Regular Meeting Schedule | Resolution 10-24 modifies the schedule for regular school board meetings |
-| [Katie Rose](board_member_319.md) | voted yes on Resolution 10-24, Modification of 2023-24 School Board Regular Meeting Schedule | Resolution 10-24 modifies the schedule for regular school board meetings |
+| [Jenn Mason](board_member_311.md) | voted yes on Resolution 10-24, Modification of 2023-24 School Board Regular Meeting Schedule | Resolution 10-24 modifies the schedule for regular school board meetings |
+| [Katie Rose](board_member_314.md) | voted yes on Resolution 10-24, Modification of 2023-24 School Board Regular Meeting Schedule | Resolution 10-24 modifies the schedule for regular school board meetings |
 
 ## 2024-04-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -1300,23 +1314,23 @@ The school board meeting minutes detail discussions and votes on several policy 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Khush Brar](board_member_333.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second. Motion not carried. |
-| [Khush Brar](board_member_333.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No second. Motion not ca...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second. Motion not carried. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No second. Motion not ca...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
 
 ## 2024-03-28 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -1356,15 +1370,15 @@ The board reviewed updated academic standards reflected in Policy 5005- Employme
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school district. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school district. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
 
 ## 2024-03-20 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
@@ -1398,12 +1412,12 @@ The Blaine School District held a school board meeting on March 15, 2024. During
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ben Lazarus](board_member_321.md) | voted yes on motion to appoint Ryan Swinburnson to the board position representing Director District 4 until the next ge...[truncated, use api for full text] | Appointment of Director - District 4 |
-| [Erika Creydt](board_member_320.md) | voted yes on motion to appoint Ryan Swinburnson to the board position representing Director District 4 until the next ge...[truncated, use api for full text] | Appointment of Director - District 4 |
-| [Cliff Freeman](board_member_322.md) | voted yes on motion to appoint Ryan Swinburnson to the board position representing Director District 4 until the next ge...[truncated, use api for full text] | Appointment of Director - District 4 |
-| [Erika Creydt](board_member_320.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
-| [Ben Lazarus](board_member_321.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
-| [Cliff Freeman](board_member_322.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
+| [Ben Lazarus](board_member_316.md) | voted yes on motion to appoint Ryan Swinburnson to the board position representing Director District 4 until the next ge...[truncated, use api for full text] | Appointment of Director - District 4 |
+| [Erika Creydt](board_member_315.md) | voted yes on motion to appoint Ryan Swinburnson to the board position representing Director District 4 until the next ge...[truncated, use api for full text] | Appointment of Director - District 4 |
+| [Cliff Freeman](board_member_317.md) | voted yes on motion to appoint Ryan Swinburnson to the board position representing Director District 4 until the next ge...[truncated, use api for full text] | Appointment of Director - District 4 |
+| [Erika Creydt](board_member_315.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
+| [Ben Lazarus](board_member_316.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
+| [Cliff Freeman](board_member_317.md) | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
 
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -1445,15 +1459,15 @@ The school board meeting minutes detail several actions taken regarding student 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Danny Martinez](board_member_335.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
 
 ## 2024-03-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -1479,11 +1493,11 @@ The school board meeting minutes detail the approval of a new Technology Policy 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Kevin Erickson](board_member_325.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
-| [Steve Childs](board_member_327.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
-| [Peggy Uppiano](board_member_326.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
-| [Antonio Machado](board_member_329.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
-| [Nancy Button](board_member_328.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Kevin Erickson](board_member_320.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Steve Childs](board_member_322.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Peggy Uppiano](board_member_321.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Antonio Machado](board_member_324.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
+| [Nancy Button](board_member_323.md) | voted yes | Motion to adjourn the meeting at 9:43pm |
 
 ## 2024-02-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -1497,9 +1511,9 @@ The board discussed agenda items for the next meeting, including high school stu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Erika Creydt](board_member_320.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
-| [Ben Lazarus](board_member_321.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
-| [Cliff Freeman](board_member_322.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
 
 ## 2024-02-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
@@ -1517,9 +1531,9 @@ The Meridian School District #505 held a special session meeting on February 26,
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
 
 ## 2024-02-23 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
@@ -1537,11 +1551,11 @@ The Meridian School District #505 held a special meeting on February 23, 2024 to
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
-| [Marty Gray](board_member_339.md) | abstained from voting on the motion to draft a letter of opposition to ESB 5462 and ESHB 2331 and requested his name not...[truncated, use api for full text] | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
+| [Marty Gray](board_member_334.md) | abstained from voting on the motion to draft a letter of opposition to ESB 5462 and ESHB 2331 and requested his name not...[truncated, use api for full text] | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
 
 ## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -1561,11 +1575,11 @@ The board recommends deleting the first line of section 1 of the EL-9.1 policy, 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_315.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Jenn Mason](board_member_316.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_317.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_318.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Katie Rose](board_member_319.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_312.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
 
 ## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
 
@@ -1591,20 +1605,20 @@ The Meridian School District held a regular school board meeting on February 21,
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
-| [Marty Gray](board_member_339.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
+| [Marty Gray](board_member_334.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
 
 ## 2024-02-20 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -1624,12 +1638,12 @@ The Lynden School District Board of Directors met on February 20, 2024, to discu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
 
 ## 2024-02-15 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
@@ -1647,9 +1661,9 @@ The Blaine School District No. 503 held a special board meeting on February 15, 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_322.md) | voted yes on motion to adjourn | The meeting was adjourned by a unanimous vote at 7:16 p.m. |
-| [Ben Lazarus](board_member_321.md) | voted yes on motion to adjourn | The meeting was adjourned by a unanimous vote at 7:16 p.m. |
-| [Erika Creydt](board_member_320.md) | voted yes on motion to adjourn | The meeting was adjourned by a unanimous vote at 7:16 p.m. |
+| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The meeting was adjourned by a unanimous vote at 7:16 p.m. |
+| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The meeting was adjourned by a unanimous vote at 7:16 p.m. |
+| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The meeting was adjourned by a unanimous vote at 7:16 p.m. |
 
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -1661,8 +1675,8 @@ The school board meeting minutes detail discussions on various topics, including
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
 
 ## 2024-02-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
 
@@ -1714,13 +1728,13 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
 
 ## 2024-01-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
 
@@ -1738,12 +1752,6 @@ The board discussed upcoming school visits and the February 13th levy date. They
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-25-minutes.txt)
 
-## 2024-01-24 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
-
-This document outlines the agenda for a Human Growth and
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-01-24-agenda.txt)
-
 ## 2024-01-24 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
 The school board agenda outlines several policy discussions for their January 24th meeting. A first reading of Policy 5280 - Separation from Employment will be presented, with a second review and approval scheduled for the February 7th meeting. Additionally, Dr. Everett will appoint Board Directors to serve as Legislative Representative and WIAA Representative. The Superintendent will provide a report on district activities, followed by information sharing from Student Board Representatives and Board Directors. Finally, the meeting will conclude with the signing of official documents and adjournment.
@@ -1760,14 +1768,20 @@ The Meridian School District #505 held a regular school board meeting on January
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
+
+## 2024-01-24 - SPOKANE_PUBLIC_SCHOOLS (Agenda)
+
+This document outlines the agenda for a Human Growth and
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-01-24-agenda.txt)
 
 ## 2024-01-22 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
@@ -1803,13 +1817,13 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on approving updated Policy 2090- Program Evaluation | Director Hickman motioned to approve updated Policy 2090- Program Evaluation |
-| [Ken Owsley](board_member_332.md) | voted yes on approving updated Policy 2090- Program Evaluation | Seconded by Director Owsley. Motion carried by voice vote. |
-| [Khush Brar](board_member_333.md) | voted yes on approving all School Improvement Plans as presented | Director Brar motioned to approve all School Improvement Plans as presented. Seconded by Director Verburg. Motion carrie...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
-| [Ken Owsley](board_member_332.md) | voted no on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | voted yes on approving updated Policy 2090- Program Evaluation | Director Hickman motioned to approve updated Policy 2090- Program Evaluation |
+| [Ken Owsley](board_member_327.md) | voted yes on approving updated Policy 2090- Program Evaluation | Seconded by Director Owsley. Motion carried by voice vote. |
+| [Khush Brar](board_member_328.md) | voted yes on approving all School Improvement Plans as presented | Director Brar motioned to approve all School Improvement Plans as presented. Seconded by Director Verburg. Motion carrie...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
+| [Ken Owsley](board_member_327.md) | voted no on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
 
 ## 2024-01-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Agenda)
 
@@ -1845,17 +1859,17 @@ The board reviewed proposed changes to MSD Board Operating Protocols and the Rev
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
-| [Jana Haugen](board_member_336.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Marty Gray](board_member_339.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Jana Haugen](board_member_336.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Marty Gray](board_member_339.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Marty Gray](board_member_334.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Marty Gray](board_member_334.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
 
 ## 2024-01-08 - CAMAS_SCHOOL_DISTRICT (Agenda)
 
@@ -1913,10 +1927,10 @@ The Meridian School District #505 held a special meeting and work session on Jan
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
 
 ## 2023-12-14 - BELLINGHAM_PUBLIC_SCHOOLS (Agenda)
 
@@ -1956,14 +1970,14 @@ The Meridian School District #505 held its regular school board meeting on Decem
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jarrod Karuza](board_member_337.md) | voted yes | motion to adopt the consent agenda |
-| [Steve Corwin](board_member_338.md) | voted yes | motion to adopt the consent agenda |
-| [Marty Gray](board_member_339.md) | voted yes | motion to adopt the consent agenda |
-| [Michelle Simmons](board_member_340.md) | voted yes | motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_337.md) | nominated Steve Corwin for board president | Call for Nominations for Board President |
-| [Michelle Simmons](board_member_340.md) | nominated Jarrod Karuza for vice president | Call for Nominations for Vice President |
-| [Jarrod Karuza](board_member_337.md) | voted yes | Second Review and Approval: Youth Care Services Contract |
-| [Michelle Simmons](board_member_340.md) | voted yes | Second Review and Approval: Youth Care Services Contract |
+| [Jarrod Karuza](board_member_332.md) | voted yes | motion to adopt the consent agenda |
+| [Steve Corwin](board_member_333.md) | voted yes | motion to adopt the consent agenda |
+| [Marty Gray](board_member_334.md) | voted yes | motion to adopt the consent agenda |
+| [Michelle Simmons](board_member_335.md) | voted yes | motion to adopt the consent agenda |
+| [Jarrod Karuza](board_member_332.md) | nominated Steve Corwin for board president | Call for Nominations for Board President |
+| [Michelle Simmons](board_member_335.md) | nominated Jarrod Karuza for vice president | Call for Nominations for Vice President |
+| [Jarrod Karuza](board_member_332.md) | voted yes | Second Review and Approval: Youth Care Services Contract |
+| [Michelle Simmons](board_member_335.md) | voted yes | Second Review and Approval: Youth Care Services Contract |
 
 ## 2023-12-12 - BLAINE_SCHOOL_DISTRICT (Agenda)
 

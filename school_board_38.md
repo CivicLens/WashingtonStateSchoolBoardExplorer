@@ -1,14 +1,14 @@
-# Meeting Summaries for ELMA_SCHOOL_DISTRICT
+# Meeting Summaries for HOOD_CANAL_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Michael Smith](board_member_83.md) |  |
-| [Jamie Bailey](board_member_84.md) |  |
-| [Bernadette Bower](board_member_85.md) |  |
-| [Stephanie Smith](board_member_86.md) |  |
-| [Ryan Cristelli](board_member_87.md) |  |
+| [Edie Reclusado](board_member_188.md) | None |
+| [Kimberly Miller](board_member_189.md) | None |
+| [Paul Thompson](board_member_190.md) | None |
+| [Jimmy Harris](board_member_191.md) | None |
+| [Annie Robbins](board_member_192.md) | None |
 
 ## Available Years
 

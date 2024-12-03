@@ -1,5 +1,19 @@
 # Meeting Summaries for Tag: diversity-inclusion
 
+## 2029-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a special meeting on February 28-29, 2020, to discuss various school district initiatives. One key topic was a review of EL-10, a policy focused on Race and Equity. The board discussed the policy and its monitoring report, considering potential refinements. This discussion will continue at the board's next regular meeting.  The board also engaged in discussions regarding school board professional development, superintendent mid-year evaluation and contract renewal, communications and board visibility strategies, and the possibility of taking the WSSDA self-assessment again in January 2021. Additionally, Superintendent Baker provided updates on "big picture" ideas such as a potential dual-language program, an aquatics center, and a future bond.  No decisions were made on these larger initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2029/2029-02-28-minutes.txt)
+
+## 2025-02-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a special meeting on February 24-25, 2017, to discuss various topics.  The board continued its discussion on board advocacy and roles, initiated in a previous meeting. They also reviewed proposed revisions to Governance Process policies, scheduling further discussion for a future regular meeting. A Board Candidate Informational Meeting was planned for April 19, 2017, to provide information to potential candidates. The Superintendent presented mid-year accomplishments and district initiatives.  
+
+The board engaged in discussions regarding consent agenda practices, responses to monitoring reports, and the scheduling of two additional "linkages" or study sessions: one focused on connecting with Visual and Performing Arts Community Partners and the other on connecting with the LGBTQA Community.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2025/2025-02-24-minutes.txt)
+
 ## 2024-11-06 - FERNDALE_SCHOOL_DISTRICT (Agenda)
 
 The Ferndale School District No. 502 held a study session on April 18, 2023, focused on the implementation of a Land Acknowledgment Statement.  The session included presentations from Lummi Tribal members who discussed the history and significance of their ancestral lands. The board also engaged in discussion regarding the process used to develop the statement and its potential incorporation into school curriculum. This initiative reflects the district's commitment to diversity-inclusion and racial equity by recognizing and honoring the Indigenous peoples who originally inhabited the land where the schools are located.
@@ -94,22 +108,22 @@ Additionally, they discussed the possibility of joining other districts advocati
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | Motioned to adjourn the meeting | At the end of the meeting |
-| [Ken Owsley](board_member_332.md) | Approved agenda | Made a motion to approve the agenda. |
-| [Ken Owsley](board_member_332.md) | Approved consent agenda | Motioned to approve the consent agenda. |
-| [Ken Owsley](board_member_332.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
-| [Ken Owsley](board_member_332.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Khush Brar](board_member_333.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
-| [Khush Brar](board_member_333.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
-| [Khush Brar](board_member_333.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
-| [Khush Brar](board_member_333.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Jim Verburg](board_member_334.md) | Approved agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved consent agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Northwest Educational Service District Agreement | No context provided |
-| [Danny Martinez](board_member_335.md) | Approved consent agenda | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
+| [Tonya Hickman](board_member_326.md) | Motioned to adjourn the meeting | At the end of the meeting |
+| [Ken Owsley](board_member_327.md) | Approved agenda | Made a motion to approve the agenda. |
+| [Ken Owsley](board_member_327.md) | Approved consent agenda | Motioned to approve the consent agenda. |
+| [Ken Owsley](board_member_327.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
+| [Ken Owsley](board_member_327.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Khush Brar](board_member_328.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
+| [Khush Brar](board_member_328.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
+| [Khush Brar](board_member_328.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
+| [Khush Brar](board_member_328.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Jim Verburg](board_member_329.md) | Approved agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved consent agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Northwest Educational Service District Agreement | No context provided |
+| [Danny Martinez](board_member_330.md) | Approved consent agenda | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
 
 ## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
@@ -133,16 +147,16 @@ The Lynden School District board meeting minutes detail discussions and votes on
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
 Ext...[truncated, use api for full text] | Director Martinez motioned to approve Resolution #09-24- WIAA for a Fair, Safe and
 Nondiscriminatory Practice in Athleti...[truncated, use api for full text] |
 
@@ -255,23 +269,23 @@ The school board meeting minutes detail discussions and votes on several policy 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Khush Brar](board_member_333.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second. Motion not carried. |
-| [Khush Brar](board_member_333.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No second. Motion not ca...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second. Motion not carried. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No second. Motion not ca...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
 
 ## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
@@ -351,8 +365,8 @@ The Ferndale School District held a special meeting on January 30, 2024, to disc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
-| [Nancy Button](board_member_328.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Nancy Button](board_member_323.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
 
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 

@@ -60,8 +60,8 @@ The school board discussed potential budget cuts due to the possible failure of 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Erika Creydt](board_member_320.md) | supported proceeding with proposed reductions and passing of the EP&O levy | Ms. Porter closed her presentation by encouraging the board to proceed with the proposed reductions and to support passi...[truncated, use api for full text] |
-| [Erika Creydt](board_member_320.md) | commented on the importance of managing expectations of administrator performance in addition to teacher performance | Director Creydt commented on the importance of managing expectations of administrator performance in addition to teacher...[truncated, use api for full text] |
+| [Erika Creydt](board_member_315.md) | supported proceeding with proposed reductions and passing of the EP&O levy | Ms. Porter closed her presentation by encouraging the board to proceed with the proposed reductions and to support passi...[truncated, use api for full text] |
+| [Erika Creydt](board_member_315.md) | commented on the importance of managing expectations of administrator performance in addition to teacher performance | Director Creydt commented on the importance of managing expectations of administrator performance in addition to teacher...[truncated, use api for full text] |
 
 ## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 

@@ -1,14 +1,14 @@
-# Meeting Summaries for PORT_ANGELES_SCHOOL_DISTRICT
+# Meeting Summaries for GRAND_COULEE_DAM_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Sandy Long, Ph.D.](board_member_18.md) | 12/27 |
-| [Stan Williams](board_member_19.md) | 12/27 |
-| [Sarah Methner](board_member_20.md) | 11/25 |
-| [Mary Hebert](board_member_21.md) | 11/25 |
-| [Kirsten Williams](board_member_22.md) | 12/27 |
+| [Shannon Nicholson](board_member_68.md) | None |
+| [Buffy Nicholson](board_member_69.md) | None |
+| [George LaPlace](board_member_70.md) | None |
+| [Alex Tufts](board_member_71.md) | None |
+| [Rich Black](board_member_72.md) | None |
 
 ## Available Years
 

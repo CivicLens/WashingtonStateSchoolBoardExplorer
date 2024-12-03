@@ -1,14 +1,14 @@
-# Meeting Summaries for KENT_SCHOOL_DISTRICT
+# Meeting Summaries for DARRINGTON_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Meghin Margel](board_member_128.md) | 2022-2027 |
-| [Awale Farah](board_member_129.md) | 2021-2025 |
-| [Tim Clark](board_member_130.md) | 2021-2025 |
-| [Donald Cook](board_member_131.md) | 2023-2027 |
-| [Andy Song](board_member_132.md) | 2023-2027 |
+| [Jennie Requa](board_member_261.md) | None |
+| [Marree Perrault](board_member_262.md) | None |
+| [Maggie Weimer](board_member_263.md) | None |
+| [Randy Hayden](board_member_264.md) | None |
+| [Janet Loyd](board_member_265.md) | None |
 
 ## Available Years
 

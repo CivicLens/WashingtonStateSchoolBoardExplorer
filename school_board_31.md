@@ -1,14 +1,14 @@
-# Meeting Summaries for EPHRATA_SCHOOL_DISTRICT
+# Meeting Summaries for KITTITAS_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Josh Sainsbury](board_member_68.md) | 2023-2027 |
-| [JaMES Adams](board_member_69.md) | 2019-2025 |
-| [Mike fleurkens](board_member_70.md) | 2023-2027 |
-| [MATTHEW TRUSCOTT](board_member_71.md) | 2024-2025 |
-| [Anita Waller](board_member_72.md) | 2018-2025 |
+| [Billy Fekkes](board_member_153.md) | 2021-2027 |
+| [Mark Crowley](board_member_154.md) | 2021-2025 |
+| [Jerry Lael](board_member_155.md) | 2021-2025 |
+| [Carrie Kavanaugh](board_member_156.md) | 2021-2025 |
+| [Erin Tostenson](board_member_157.md) | 2021-2027 |
 
 ## Available Years
 

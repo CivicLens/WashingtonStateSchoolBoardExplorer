@@ -1,15 +1,50 @@
-# Meeting Summaries for PE_ELL_SCHOOL_DISTRICT
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Cecile Baggenstos](board_member_183.md) | None |
-| [Mara McGrath](board_member_184.md) | None |
-| [Chad Burnett](board_member_185.md) | None |
-| [Jason Phelps](board_member_186.md) | None |
-| [Chris Dodd](board_member_187.md) | None |
+No current board members available.
 
 ## Available Years
+- [2117](school_board_73_year_2117.md)
+- [2024](school_board_73_year_2024.md)
 
 ## Summaries by Tag
+- [parental-feedback](school_board_73_tag_parental-feedback.md)
+- [community-engagement](school_board_73_tag_community-engagement.md)
+- [school-funding](school_board_73_tag_school-funding.md)
+- [school-board-ethics](school_board_73_tag_school-board-ethics.md)
+- [long-term-strategic-plans](school_board_73_tag_long-term-strategic-plans.md)
+- [policy-changes](school_board_73_tag_policy-changes.md)
+- [student-health](school_board_73_tag_student-health.md)
+- [school-safety](school_board_73_tag_school-safety.md)
+- [diversity-inclusion](school_board_73_tag_diversity-inclusion.md)
+- [racial-equity](school_board_73_tag_racial-equity.md)
+- [parental-rights](school_board_73_tag_parental-rights.md)
+- [mental-health](school_board_73_tag_mental-health.md)
+- [academic-standards](school_board_73_tag_academic-standards.md)
+- [school-visit](school_board_73_tag_school-visit.md)
+- [relationships-with-students](school_board_73_tag_relationships-with-students.md)
+- [social-emotional-learning](school_board_73_tag_social-emotional-learning.md)
+- [budget](school_board_73_tag_budget.md)
+- [curriculum-transparency](school_board_73_tag_curriculum-transparency.md)
+- [student-data-privacy](school_board_73_tag_student-data-privacy.md)
+- [student-autonomy](school_board_73_tag_student-autonomy.md)
+- [student-privacy](school_board_73_tag_student-privacy.md)
+- [critical-race-theory](school_board_73_tag_critical-race-theory.md)
+- [book-access](school_board_73_tag_book-access.md)
+- [special-education-support](school_board_73_tag_special-education-support.md)
+- [graduation](school_board_73_tag_graduation.md)
+- [here-are-the-tags-that-directly-relate-to-the-topics,-themes,3786.00](school_board_73_tag_here-are-the-tags-that-directly-relate-to-the-topics,-themes,3786.00.md)
+- [project:](school_board_73_tag_project:.md)
+- [project:--installations](school_board_73_tag_project:--installations.md)
+- [contractor:-converge-technology-solutions-inc.](school_board_73_tag_contractor:-converge-technology-solutions-inc..md)
+- [purchase-order:-p2051493](school_board_73_tag_purchase-order:-p2051493.md)
+- [final-contract-amount:-$253,360.00](school_board_73_tag_final-contract-amount:-$253,360.00.md)
+- [location(s):-various-schools](school_board_73_tag_location(s):-various-schools.md)
+- [##-summary:](school_board_73_tag_##-summary:.md)
+- [the-school-board-agenda-includes-information-regarding-completed-projects-under-$1-million.-three-projects-are-highlighted:--ssc-building-improvements,-security-camera-installations,-and-two-playground-improvement-projects-at-cottage-lake-elementary-and-eastridge-elementary.-the-ssc-building-improvements-project,-contracted-to-forma-construction-company-for-a-final-amount-of-$409,663.00,-focused-on-enhancing-safety-measures-at-the-support-service-center.](school_board_73_tag_the-school-board-agenda-includes-information-regarding-completed-projects-under-$1-million.-three-projects-are-highlighted:--ssc-building-improvements,-security-camera-installations,-and-two-playground-improvement-projects-at-cottage-lake-elementary-and-eastridge-elementary.-the-ssc-building-improvements-project,-contracted-to-forma-construction-company-for-a-final-amount-of-$409,663.00,-focused-on-enhancing-safety-measures-at-the-support-service-center..md)
+- [the-security-camera-installations-project,-completed-by-kcda-siemens-industry-inc.,-totaled-$253,360.00-and-involved-installing-security-cameras-across-various-schools.-the-agenda-does-not-provide-details-regarding-the-scope-of-work-or-specific-improvements-made-within-each-project.](school_board_73_tag_the-security-camera-installations-project,-completed-by-kcda-siemens-industry-inc.,-totaled-$253,360.00-and-involved-installing-security-cameras-across-various-schools.-the-agenda-does-not-provide-details-regarding-the-scope-of-work-or-specific-improvements-made-within-each-project..md)
+- [teacher-support](school_board_73_tag_teacher-support.md)
+- [leadership](school_board_73_tag_leadership.md)
+- [school-board-meeting](school_board_73_tag_school-board-meeting.md)
+- [career-technical-education](school_board_73_tag_career-technical-education.md)

@@ -1,14 +1,14 @@
-# Meeting Summaries for OAK_HARBOR_SCHOOL_DISTRICT
+# Meeting Summaries for BETHEL_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Lynn Goebel](board_member_98.md) | 2023-2027 |
-| [Jessica Aws](board_member_99.md) | 2023-2027 |
-| [Josh MacLean](board_member_100.md) | 2023-2027 |
-| [Nicole Tesch](board_member_101.md) | 2023-2025 |
-| [Sharon Jensen](board_member_102.md) | 2023-2025 |
+| [Marcus Young, Sr.](board_member_209.md) | 2018-2025 |
+| [Erasmo Ruiz](board_member_210.md) | 2023-2027 |
+| [Roseanna Camacho](board_member_211.md) | 2018-2025 |
+| [Terrance Mayers, Sr.](board_member_212.md) | 2021-2027 |
+| [Teresa Cosio](board_member_213.md) | 2023-2027 |
 
 ## Available Years
 

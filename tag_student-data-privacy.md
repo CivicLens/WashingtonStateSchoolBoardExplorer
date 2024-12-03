@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: student-data-privacy
 
+## 2028-02-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board reviewed a report on student academic performance based on standardized testing data.  The board discussed the adequacy of the Smarter Balanced Assessment (SBA) as a measure of student achievement, suggesting it may not be reliable and proposing further discussion about its use in evaluating Policy E-2.1. Concerns were raised about the inclusion of Bellevue as a comparable district due to significant demographic differences, particularly regarding free/reduced lunch eligibility. The board highlighted the need for increased support for Hispanic students and acknowledged a downward trend in performance among students with Individualized Education Programs (IEPs). They commended the thoroughness of the report and expressed interest in revisiting continuous growth data when available.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2028/2028-02-07-minutes.txt)
+
 ## 2024-10-22 - TAHOMA_SCHOOL_DISTRICT (Agenda)
 
 This school board agenda outlines a variety of topics for discussion and action.  The board will review and potentially approve several policy revisions, including the retirement of Policy 5314 Tax Deferred Account/Compensation and the revision of Policies 2090 Program Evaluation), 6111 Tuition, and 6605 Student Safety Walking, Biking and Riding Buses to School. The agenda also includes a First Reading for revised policies relating to special education tuition (Policy 611 Meeting Minutes FINAL.pdf (148 KB)
@@ -54,8 +60,8 @@ This school board meeting minutes focuses on several issues related to governanc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_322.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-| [Ben Lazarus](board_member_321.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Cliff Freeman](board_member_317.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Ben Lazarus](board_member_316.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
 
 ## 2024-03-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
@@ -85,17 +91,17 @@ The board reviewed proposed changes to MSD Board Operating Protocols and the Rev
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_336.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
-| [Marty Gray](board_member_339.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
-| [Jana Haugen](board_member_336.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Marty Gray](board_member_339.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Jana Haugen](board_member_336.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Michelle Simmons](board_member_340.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Marty Gray](board_member_339.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
+| [Marty Gray](board_member_334.md) | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
+| [Jana Haugen](board_member_331.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Marty Gray](board_member_334.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Jana Haugen](board_member_331.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Marty Gray](board_member_334.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
 
 ## 2023-05-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

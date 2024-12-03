@@ -1,14 +1,15 @@
-# Meeting Summaries for TUKWILA_SCHOOL_DISTRICT
+# Meeting Summaries for RAINIER_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Carlee Hoover](board_member_148.md) | 2021-2025 |
-| [Kate Kruller](board_member_149.md) | 2021-2025 |
-| [Charley Simpson](board_member_150.md) | 2021-2025 |
-| [Reverend Terrence Proctor](board_member_151.md) | 2027 |
-| [Dave Larson](board_member_152.md) | 2027 |
+| [BRYON BAHR](board_member_289.md) | None |
+| [JOHN BECKMAN](board_member_290.md) | None |
+| [JUSTIN GURNSEY](board_member_291.md) | None |
+| [ROBERT HENRY JR](board_member_292.md) | None |
+| [KRISTIN ROBINSON](board_member_293.md) | None |
+| [RITA WRIGLESWORTH-MELDRUM](board_member_294.md) | None |
 
 ## Available Years
 

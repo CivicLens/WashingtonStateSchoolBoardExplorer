@@ -1,14 +1,14 @@
-# Meeting Summaries for EVERGREEN_PUBLIC_SCHOOLS
+# Meeting Summaries for QUINAULT_LAKE_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Rob Perkins](board_member_28.md) | 2014-2025 |
-| [Jacqueline Weatherspoon](board_member_29.md) | 2022-2025 |
-| [Ginny Gronwoldt](board_member_30.md) | 2017-2025 |
-| [Julie Bocanegra](board_member_31.md) | 2012-2025 |
-| [Gary Wilson](board_member_32.md) | 2023-2025 |
+| [Rita Keene](board_member_88.md) | 2027 |
+| [Chad Lower](board_member_89.md) | 2025 |
+| [Shannon Durfee](board_member_90.md) | 2027 |
+| [Kacey Kiehn](board_member_91.md) | 2025 |
+| [Dayana Ruiz](board_member_92.md) | 2027 |
 
 ## Available Years
 

@@ -1,14 +1,14 @@
-# Meeting Summaries for QUINAULT_LAKE_SCHOOL_DISTRICT
+# Meeting Summaries for NEWPORT_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Rita Keene](board_member_93.md) | 2027 |
-| [Chad Lower](board_member_94.md) | 2025 |
-| [Shannon Durfee](board_member_95.md) | 2027 |
-| [Kacey Kiehn](board_member_96.md) | 2025 |
-| [Dayana Ruiz](board_member_97.md) | 2027 |
+| [April Owen](board_member_204.md) | None |
+| [Connie Moore](board_member_205.md) | None |
+| [Trevor Price](board_member_206.md) | None |
+| [Larry Sauer](board_member_207.md) | None |
+| [Rick Hughes](board_member_208.md) | None |
 
 ## Available Years
 

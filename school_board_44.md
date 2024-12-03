@@ -1,14 +1,14 @@
-# Meeting Summaries for CHIMACUM_SCHOOL_DISTRICT
+# Meeting Summaries for DIERINGER_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Dr. Kristina Mayer](board_member_103.md) | 11/2023 - 11/2027 |
-| [Tami Robocker](board_member_104.md) | 11/2023 - 11/2027 |
-| [Kathryn Lamka](board_member_105.md) | 11/2021 - 11/2025 |
-| [Mike Aman](board_member_106.md) | 11/2021 - 11/2025 |
-| [Dr. Roxanne Hudson](board_member_107.md) | 11/2021 - 11/2025 |
+| [Megan Bearor](board_member_219.md) | 2021-2025 |
+| [Chelsea Steiner](board_member_220.md) | 2021-2027 |
+| [Greg Johnson](board_member_221.md) | 2021-2027 |
+| [Nicole Kent](board_member_222.md) | 2021-2025 |
+| [Devin Craig](board_member_223.md) | 2021-2025 |
 
 ## Available Years
 

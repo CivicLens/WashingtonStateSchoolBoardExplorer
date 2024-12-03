@@ -22,23 +22,23 @@ The Lynden School District Board meeting minutes detail discussions and actions 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Tonya Hickman](board_member_331.md) | Voted yes on the motion to adjourn the meeting | Director Hickman motioned to adjourn the meeting at 9:15pm. |
-| [Ken Owsley](board_member_332.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
+| [Tonya Hickman](board_member_326.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | Voted yes on the motion to adjourn the meeting | Director Hickman motioned to adjourn the meeting at 9:15pm. |
+| [Ken Owsley](board_member_327.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
 Board V...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
+| [Ken Owsley](board_member_327.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
 Board V...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | Voted yes on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
+| [Khush Brar](board_member_328.md) | Voted yes on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
 Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
+| [Jim Verburg](board_member_329.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
 Board V...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | Voted no on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
+| [Jim Verburg](board_member_329.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | Voted no on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
 Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | Voted no on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators ...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | Voted no on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators ...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
 
 ## 2024-08-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -50,10 +50,10 @@ The school board discussed amending Policy 3211/P, which likely pertains to stud
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | Asked board to review consent agenda for General Assembly Handbook proposals they wish to remove | Hickman shared that WSSDA released their final draft of the General Assembly Handbook with 48 proposals to vote on. |
-| [Khush Brar](board_member_333.md) | Supports external cameras on school buses and wants further discussion | Director Brar stated that she supports external cameras on the buses and would like to further discuss this. |
-| [Khush Brar](board_member_333.md) | Wants to appeal city's decision against crosswalk at Vossbeck Elementary | Director Brar asked about the status of the proposed crosswalk at Vossbeck Elementary. Superintendent VanderYacht explai...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | Wants to pursue Impact Fees | Director Brar asked about the status of pursuing Impact Fees. |
+| [Tonya Hickman](board_member_326.md) | Asked board to review consent agenda for General Assembly Handbook proposals they wish to remove | Hickman shared that WSSDA released their final draft of the General Assembly Handbook with 48 proposals to vote on. |
+| [Khush Brar](board_member_328.md) | Supports external cameras on school buses and wants further discussion | Director Brar stated that she supports external cameras on the buses and would like to further discuss this. |
+| [Khush Brar](board_member_328.md) | Wants to appeal city's decision against crosswalk at Vossbeck Elementary | Director Brar asked about the status of the proposed crosswalk at Vossbeck Elementary. Superintendent VanderYacht explai...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | Wants to pursue Impact Fees | Director Brar asked about the status of pursuing Impact Fees. |
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -67,22 +67,22 @@ Additionally, they discussed the possibility of joining other districts advocati
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | Motioned to adjourn the meeting | At the end of the meeting |
-| [Ken Owsley](board_member_332.md) | Approved agenda | Made a motion to approve the agenda. |
-| [Ken Owsley](board_member_332.md) | Approved consent agenda | Motioned to approve the consent agenda. |
-| [Ken Owsley](board_member_332.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
-| [Ken Owsley](board_member_332.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Khush Brar](board_member_333.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
-| [Khush Brar](board_member_333.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
-| [Khush Brar](board_member_333.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
-| [Khush Brar](board_member_333.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Jim Verburg](board_member_334.md) | Approved agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved consent agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Northwest Educational Service District Agreement | No context provided |
-| [Danny Martinez](board_member_335.md) | Approved consent agenda | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
+| [Tonya Hickman](board_member_326.md) | Motioned to adjourn the meeting | At the end of the meeting |
+| [Ken Owsley](board_member_327.md) | Approved agenda | Made a motion to approve the agenda. |
+| [Ken Owsley](board_member_327.md) | Approved consent agenda | Motioned to approve the consent agenda. |
+| [Ken Owsley](board_member_327.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
+| [Ken Owsley](board_member_327.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Khush Brar](board_member_328.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
+| [Khush Brar](board_member_328.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
+| [Khush Brar](board_member_328.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
+| [Khush Brar](board_member_328.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Jim Verburg](board_member_329.md) | Approved agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved consent agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Northwest Educational Service District Agreement | No context provided |
+| [Danny Martinez](board_member_330.md) | Approved consent agenda | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -94,16 +94,16 @@ The Lynden School District board meeting minutes detail discussions and votes on
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
 Ext...[truncated, use api for full text] | Director Martinez motioned to approve Resolution #09-24- WIAA for a Fair, Safe and
 Nondiscriminatory Practice in Athleti...[truncated, use api for full text] |
 

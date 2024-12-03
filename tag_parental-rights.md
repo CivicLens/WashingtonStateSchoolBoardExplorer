@@ -54,22 +54,22 @@ Additionally, they discussed the possibility of joining other districts advocati
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | Motioned to adjourn the meeting | At the end of the meeting |
-| [Ken Owsley](board_member_332.md) | Approved agenda | Made a motion to approve the agenda. |
-| [Ken Owsley](board_member_332.md) | Approved consent agenda | Motioned to approve the consent agenda. |
-| [Ken Owsley](board_member_332.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
-| [Ken Owsley](board_member_332.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Khush Brar](board_member_333.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
-| [Khush Brar](board_member_333.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
-| [Khush Brar](board_member_333.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
-| [Khush Brar](board_member_333.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
-| [Jim Verburg](board_member_334.md) | Approved agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved consent agenda | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
-| [Jim Verburg](board_member_334.md) | Approved Northwest Educational Service District Agreement | No context provided |
-| [Danny Martinez](board_member_335.md) | Approved consent agenda | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
-| [Danny Martinez](board_member_335.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
+| [Tonya Hickman](board_member_326.md) | Motioned to adjourn the meeting | At the end of the meeting |
+| [Ken Owsley](board_member_327.md) | Approved agenda | Made a motion to approve the agenda. |
+| [Ken Owsley](board_member_327.md) | Approved consent agenda | Motioned to approve the consent agenda. |
+| [Ken Owsley](board_member_327.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the Running Start agreement. |
+| [Ken Owsley](board_member_327.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Khush Brar](board_member_328.md) | Approved agenda | Seconded Director Owsley's motion to approve the agenda. |
+| [Khush Brar](board_member_328.md) | Approved consent agenda | Seconded Director Owsley's motion to approve the consent agenda. |
+| [Khush Brar](board_member_328.md) | Approved Running Start agreement with Bellingham Technical College | Asked for a review of board policy regarding board member absences |
+| [Khush Brar](board_member_328.md) | Approved Northwest Educational Service District Agreement | Seconded Director Martinez's motion to approve the agreement. |
+| [Jim Verburg](board_member_329.md) | Approved agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved consent agenda | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Running Start agreement with Bellingham Technical College | No context provided |
+| [Jim Verburg](board_member_329.md) | Approved Northwest Educational Service District Agreement | No context provided |
+| [Danny Martinez](board_member_330.md) | Approved consent agenda | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Running Start agreement with Bellingham Technical College | Motioned to approve the agreement. |
+| [Danny Martinez](board_member_330.md) | Approved Northwest Educational Service District Agreement | Asked about Kennewick’s recent resolution regarding WIAA and Title IX |
 
 ## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Agenda)
 
@@ -111,11 +111,11 @@ The Blaine School Board met to discuss several issues, including a proposed redu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ryan Swinburnson](board_member_323.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Erika Creydt](board_member_320.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Cliff Freeman](board_member_322.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Steve Galbraith](board_member_324.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_321.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Ryan Swinburnson](board_member_318.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Erika Creydt](board_member_315.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Cliff Freeman](board_member_317.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Steve Galbraith](board_member_319.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Ben Lazarus](board_member_316.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
 
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Agenda)
 
@@ -147,15 +147,15 @@ The school board meeting minutes detail several actions taken regarding student 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Danny Martinez](board_member_335.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
 
 ## 2024-02-26 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
@@ -173,9 +173,9 @@ The Meridian School District #505 held a special session meeting on February 26,
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Michelle Simmons](board_member_340.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Jarrod Karuza](board_member_337.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
-| [Steve Corwin](board_member_338.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| [Michelle Simmons](board_member_335.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| [Jarrod Karuza](board_member_332.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
+| [Steve Corwin](board_member_333.md) | voted yes on motion to proceed with signing the letter of opposition to ESB 5462 and ESHB 2331 | The letter expresses opposition to bills ESB 5462 and ESHB 2331. |
 
 ## 2024-02-23 - MERIDIAN_SCHOOL_DISTRICT (Agenda)
 
@@ -193,12 +193,12 @@ The Lynden School District Board of Directors met on February 20, 2024, to discu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
 
 ## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 

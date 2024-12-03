@@ -1,14 +1,14 @@
-# Meeting Summaries for BRIDGEPORT_SCHOOL_DISTRICT
+# Meeting Summaries for KENT_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Kathy Corbin](board_member_48.md) | December 2025 |
-| [Thomas Jenkins](board_member_49.md) | December 2027 |
-| [Paul Ebreo](board_member_50.md) | December 2025 |
-| [Wayne van Zwoll](board_member_51.md) | December 2027 |
-| [Kate McPherson](board_member_52.md) | December 2027 |
+| [Meghin Margel](board_member_123.md) | 2022-2027 |
+| [Awale Farah](board_member_124.md) | 2021-2025 |
+| [Tim Clark](board_member_125.md) | 2021-2025 |
+| [Donald Cook](board_member_126.md) | 2023-2027 |
+| [Andy Song](board_member_127.md) | 2023-2027 |
 
 ## Available Years
 

@@ -1,14 +1,14 @@
-# Meeting Summaries for GRAND_COULEE_DAM_SCHOOL_DISTRICT
+# Meeting Summaries for BICKLETON_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Shannon Nicholson](board_member_73.md) | None |
-| [Buffy Nicholson](board_member_74.md) | None |
-| [George LaPlace](board_member_75.md) | None |
-| [Alex Tufts](board_member_76.md) | None |
-| [Rich Black](board_member_77.md) | None |
+| [Shane Wright](board_member_158.md) |  |
+| [Becky Hess](board_member_159.md) |  |
+| [Mitchell Powers](board_member_160.md) |  |
+| [John Jensen](board_member_161.md) |  |
+| [Tim Mains](board_member_162.md) |  |
 
 ## Available Years
 

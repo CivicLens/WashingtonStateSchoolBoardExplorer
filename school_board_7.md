@@ -1,14 +1,14 @@
-# Meeting Summaries for PROSSER_SCHOOL_DISTRICT
+# Meeting Summaries for HOCKINSON_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Jason Rainer](board_member_7.md) | 2021-2025 |
-| [Elisa Riley](board_member_8.md) | 2021-2025 |
-| [Michelle O'Brien](board_member_9.md) | 2021-2027 |
-| [Brian Weinmann](board_member_10.md) | 2021-2027 |
-| [Frank Vermulm](board_member_11.md) | 2021-2027 |
+| [Teresa VanNatta](board_member_31.md) | 2021-2025 |
+| [Patrick Carter](board_member_32.md) | 2021-2025 |
+| [Anne-Elissa Carter](board_member_33.md) | 2023-2027 |
+| [Kat Stupka](board_member_34.md) | 2023-2027 |
+| [Gordon Smith](board_member_35.md) | 2023-2027 |
 
 ## Available Years
 

@@ -1,14 +1,15 @@
-# Meeting Summaries for FEDERAL_WAY_PUBLIC_SCHOOLS
+# Meeting Summaries for LA_CONNER_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Dr. Jennifer Jones](board_member_123.md) | 2019-2027 |
-| [Luckisha Phillips](board_member_124.md) | 2018-2027 |
-| [Quentin Morris](board_member_125.md) | 2021-2025 |
-| [Trudy Davis](board_member_126.md) | 2018-2025 |
-| [Joan Marie Murphy](board_member_127.md) | 2023-2027 |
+| [Alana Quintasket](board_member_250.md) | 2023-2027 |
+| [John Agen](board_member_251.md) | 2019-2027 |
+| [Jeremy Wilbur](board_member_252.md) | 2020-2025 |
+| [Kim Pedroza](board_member_253.md) | 2023-2027 |
+| [Susie Deyo](board_member_254.md) | 2019-2025 |
+| [David Cram](board_member_255.md) | 2024 |
 
 ## Available Years
 

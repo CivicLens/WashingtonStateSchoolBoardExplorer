@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: racial-equity
 
+## 2029-02-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a special meeting on February 28-29, 2020, to discuss various school district initiatives. One key topic was a review of EL-10, a policy focused on Race and Equity. The board discussed the policy and its monitoring report, considering potential refinements. This discussion will continue at the board's next regular meeting.  The board also engaged in discussions regarding school board professional development, superintendent mid-year evaluation and contract renewal, communications and board visibility strategies, and the possibility of taking the WSSDA self-assessment again in January 2021. Additionally, Superintendent Baker provided updates on "big picture" ideas such as a potential dual-language program, an aquatics center, and a future bond.  No decisions were made on these larger initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2029/2029-02-28-minutes.txt)
+
 ## 2024-11-06 - FERNDALE_SCHOOL_DISTRICT (Agenda)
 
 The Ferndale School District No. 502 held a study session on April 18, 2023, focused on the implementation of a Land Acknowledgment Statement.  The session included presentations from Lummi Tribal members who discussed the history and significance of their ancestral lands. The board also engaged in discussion regarding the process used to develop the statement and its potential incorporation into school curriculum. This initiative reflects the district's commitment to diversity-inclusion and racial equity by recognizing and honoring the Indigenous peoples who originally inhabited the land where the schools are located.
@@ -40,14 +46,14 @@ The school board meeting minutes detail discussions and votes on various positio
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_333.md) | Voted yes on motion to approve the dairy bid submitted by Dairy Valley Distributing | Director Brar seconded Director Owsley's motion to approve the dairy bid. |
-| [Khush Brar](board_member_333.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 21- African American Studies Wo...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Owsley. |
-| [Khush Brar](board_member_333.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and ...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Verburg. |
-| [Khush Brar](board_member_333.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 44- Native American Instruction...[truncated, use api for full text] | Director Owsley motioned to approve the legislative committee’s recommended vote. Seconded by Director Brar. |
-| [Khush Brar](board_member_333.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 48- School Athletics Officials | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Owsley. |
-| [Khush Brar](board_member_333.md) | Abstained from voting on motion to approve the legislative committee’s recommended vote for Position 48- School Athletic...[truncated, use api for full text] | Director Brar abstained. |
-| [Ken Owsley](board_member_332.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 8- Climate Impact Mitigation A...[truncated, use api for full text] | Director Owsley opposed. |
-| [Ken Owsley](board_member_332.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and...[truncated, use api for full text] | Director Owsley opposed. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the dairy bid submitted by Dairy Valley Distributing | Director Brar seconded Director Owsley's motion to approve the dairy bid. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 21- African American Studies Wo...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Owsley. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and ...[truncated, use api for full text] | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Verburg. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 44- Native American Instruction...[truncated, use api for full text] | Director Owsley motioned to approve the legislative committee’s recommended vote. Seconded by Director Brar. |
+| [Khush Brar](board_member_328.md) | Voted yes on motion to approve the legislative committee’s recommended vote for Position 48- School Athletics Officials | Director Brar motioned to approve the legislative committee’s recommended vote. Seconded by Director Owsley. |
+| [Khush Brar](board_member_328.md) | Abstained from voting on motion to approve the legislative committee’s recommended vote for Position 48- School Athletic...[truncated, use api for full text] | Director Brar abstained. |
+| [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 8- Climate Impact Mitigation A...[truncated, use api for full text] | Director Owsley opposed. |
+| [Ken Owsley](board_member_327.md) | Voted against motion to approve the legislative committee’s recommended vote for Position 23- Mental Health Supports and...[truncated, use api for full text] | Director Owsley opposed. |
 
 ## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -79,23 +85,23 @@ The school board meeting minutes detail discussions and votes on several policy 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_331.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Ken Owsley](board_member_332.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Khush Brar](board_member_333.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Khush Brar](board_member_333.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second. Motion not carried. |
-| [Khush Brar](board_member_333.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No second. Motion not ca...[truncated, use api for full text] |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Jim Verburg](board_member_334.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
-| [Danny Martinez](board_member_335.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Ken Owsley](board_member_327.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Khush Brar](board_member_328.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA Equity Statement for submission | Director Brar made a motion to approve the amended WSSDA Equity Statement for submission. No second. Motion not carried. |
+| [Khush Brar](board_member_328.md) | motion not carried on motion to approve amended WSSDA position for diversity for submission | Director Brar made a motion to approve the amended WSSDA position for diversity for submission. No second. Motion not ca...[truncated, use api for full text] |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Jim Verburg](board_member_329.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to approve amended proposed position for submission to WSSDA regarding unfunded mandates | Director Martinez motioned to approve proposed amended new position for submission to WSSDA. Seconded by Director Verbur...[truncated, use api for full text] |
+| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 2415- Performance-Based Pathway for High School Graduation | Director Martinez motioned to adopt Policy 2415- Performance-Based Pathway for High School Graduation. Seconded by Direc...[truncated, use api for full text] |
 
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -115,11 +121,11 @@ The board recommends deleting the first line of section 1 of the EL-9.1 policy, 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_315.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Jenn Mason](board_member_316.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_317.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_318.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Katie Rose](board_member_319.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_312.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
 
 ## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -131,8 +137,8 @@ The Ferndale School District held a special meeting on January 30, 2024, to disc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Peggy Uppiano](board_member_326.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
-| [Nancy Button](board_member_328.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Nancy Button](board_member_323.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
 
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Agenda)
 
@@ -162,11 +168,11 @@ This text focuses on a school board's review of a report detailing progress towa
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_315.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Camille Diaz Hackler](board_member_317.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Jenn Mason](board_member_316.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Scott Ritchey](board_member_318.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Katie Rose](board_member_319.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Scott Ritchey](board_member_313.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Katie Rose](board_member_314.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 
 ## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 

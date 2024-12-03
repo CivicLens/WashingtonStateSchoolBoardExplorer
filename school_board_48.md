@@ -1,14 +1,14 @@
-# Meeting Summaries for BELLEVUE_SCHOOL_DISTRICT
+# Meeting Summaries for TACOMA_PUBLIC_SCHOOLS
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Phil Bloch](board_member_113.md) | December 2023 - November 2027 |
-| [Carolyn Watson](board_member_114.md) | December 2023 - November 2027 |
-| [Cindy Rogan](board_member_115.md) | Appointed February 26th, 2024 - November 2025 |
-| [Monica Webster](board_member_116.md) | December 2023 - November 2027 |
-| [Jane Aras](board_member_117.md) | December 2021 - November 2025 |
+| [Lisa Keating](board_member_240.md) | 2019-2025 |
+| [Enrique Leon](board_member_241.md) | 2019-2027 |
+| [Korey Strozier](board_member_242.md) | 2021-2029 |
+| [Chelsea McElroy](board_member_243.md) | 2021-2027 |
+| [Elizabeth Bonbright](board_member_244.md) | 2019-2029 |
 
 ## Available Years
 

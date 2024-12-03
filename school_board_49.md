@@ -1,14 +1,14 @@
-# Meeting Summaries for ENUMCLAW_SCHOOL_DISTRICT
+# Meeting Summaries for CONCRETE_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Paul Fisher](board_member_118.md) | 2021-2025 |
-| [Julianne DeShayes](board_member_119.md) | 2021-2025 |
-| [Tyson Gamblin](board_member_120.md) | 2019-2027 |
-| [Scott Mason](board_member_121.md) | 2023-2027 |
-| [Ben Stouffer](board_member_122.md) | 2023-2027 |
+| [Arthur Sanchez](board_member_245.md) | None |
+| [Michael Brondi](board_member_246.md) | None |
+| [Janet Culver](board_member_247.md) | None |
+| [Laura Schmidt](board_member_248.md) | None |
+| [Paul Rogge](board_member_249.md) | None |
 
 ## Available Years
 

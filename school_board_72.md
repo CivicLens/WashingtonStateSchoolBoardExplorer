@@ -1,14 +1,14 @@
-# Meeting Summaries for ONALASKA_SCHOOL_DISTRICT
+# Meeting Summaries for WAPATO_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Ms. Tanya Naillon](board_member_178.md) | None |
-| [Ms. Megan Iverson](board_member_179.md) | None |
-| [Mr. Jim Ball](board_member_180.md) | None |
-| [Mr. Steven Legg](board_member_181.md) | None |
-| [Ms. Heidi Howard](board_member_182.md) | None |
+| [Lori Garcia](board_member_360.md) | None |
+| [Sarah Divina](board_member_361.md) | None |
+| [Javier Vela](board_member_362.md) | None |
+| [Lorenzo Alvarado](board_member_363.md) | None |
+| [John Francisco](board_member_364.md) | None |
 
 ## Available Years
 
