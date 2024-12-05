@@ -60,6 +60,14 @@ The Dayton School District held its regular board meeting on October 16, 2024, w
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-16-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Paulson](board_member_40.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Zac Fabian](board_member_37.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Jeffrey McCowen](board_member_39.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+
 ## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District #504 held a board meeting on October 12, 2024, where key discussions centered on long-term strategic plans, specifically focusing on multilingual language proficiency growth as part of the district's strategic priorities. Superintendent David VanderYacht presented an update on the long-range capital facilities plan from June 2023, which included information regarding impact fees. The board also engaged in discussions about effective governance and board development, aiming to enhance their operational efficiency. The meeting concluded with a motion to adjourn made by Director Hickman at 12:55 PM.

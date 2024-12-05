@@ -6,3 +6,11 @@ The Dayton School District held its regular board meeting on October 16, 2024, w
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-16-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Paulson](board_member_40.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Zac Fabian](board_member_37.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Jeffrey McCowen](board_member_39.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+

@@ -6,3 +6,16 @@ The School Board Special Meeting held on June 17, 2024, focused on the review an
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Connie Hennessey](board_member_23.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Corey McEnry](board_member_21.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Tracey Malone](board_member_25.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Connie Hennessey](board_member_23.md) | voted for Matthew McBride as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+| [Bamini Pathmanathan](board_member_24.md) | voted for Matthew McBride as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+| [Tracey Malone](board_member_25.md) | voted for Dena Strong as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+| [Corey McEnry](board_member_21.md) | voted for Matthew McBride as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+

@@ -24,6 +24,14 @@ The Dayton School District held its regular board meeting on October 16, 2024, w
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-16-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Paulson](board_member_40.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Zac Fabian](board_member_37.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Jeffrey McCowen](board_member_39.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+
 ## 2024-10-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on October 9, 2024, during which several policies and agreements were reviewed and approved. Notably, Policy 5409 concerning Unpaid Holidays for Reason of Faith or Conscience and Resolution 11-24 were presented for second review and subsequently approved. Additionally, Policy 5400 regarding Personnel Leave and Policy 3432 on Emergencies were also approved. The board approved the 2024-25 NWESD School Nurse Corps Contract, highlighting a focus on student health and support services. Irene Reither Elementary (IRE) staff recognition was presented, emphasizing family engagement and intervention efforts, showcasing the district's commitment to community engagement. The meeting included no public comments, indicating a lack of community feedback during this session.

@@ -660,6 +660,19 @@ The School Board Special Meeting held on June 17, 2024, focused on the review an
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Connie Hennessey](board_member_23.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Corey McEnry](board_member_21.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Tracey Malone](board_member_25.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on adoption of Strategic Plan | Moved by Erika Cox, seconded by Tracey Malone, to adopt the Strategic Plan as submitted. |
+| [Connie Hennessey](board_member_23.md) | voted for Matthew McBride as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+| [Bamini Pathmanathan](board_member_24.md) | voted for Matthew McBride as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+| [Tracey Malone](board_member_25.md) | voted for Dena Strong as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+| [Corey McEnry](board_member_21.md) | voted for Matthew McBride as new District Director II Board Member | Roll call vote called by Board President Corey McEnry. |
+
 ## 2024-06-17 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a special meeting at Pop Keeney Stadium on June 17, 2024, to attend the North Creek High School Graduation. The meeting commenced at 6:00 PM and was attended by Board members including President Amy Cast and Superintendent Mr. Michael Tolley. The meeting concluded at 7:37 PM and was subsequently approved on July 8, 2024, by Mr. Tolley and Vice President Sandy Hayes. The focus of the meeting was primarily on the graduation event, with no specific policy discussions or changes noted in the minutes.

@@ -521,6 +521,14 @@ The Dayton School District held its regular board meeting on October 16, 2024, w
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-16-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Paulson](board_member_40.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Zac Fabian](board_member_37.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Jeffrey McCowen](board_member_39.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+
 ## 2024-10-16 - TOLEDO_SCHOOL_DISTRICT (Minutes)
 
 The Toledo School District Board of Directors held a regular meeting on October 16, 2024, where various topics were discussed, including updates from board members and school representatives. Notably, the board approved several personnel hires and agreements under the consent agenda, including the hiring of Kassandra Coverdell as a Life Skills Para at TMS and Janice Nef as a Teacher at TES. The meeting also included discussions on the Transportation Report, with Adriana Ward, the Transportation Supervisor, reporting compliance with dropping door-side pick-ups and plans for flood and snow routes by November 4th. 
@@ -1794,6 +1802,31 @@ The School Board Meeting held on July 22, 2024, included discussions and actions
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-07-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Tracey Malone](board_member_25.md) | voted yes on approval of all consent agenda items | Moved by Tracey Malone, seconded by Matthew McBride to approval all consent agenda items as submitted |
+| [Matthew McBride](board_member_22.md) | voted yes on approval of all consent agenda items | Moved by Tracey Malone, seconded by Matthew McBride to approval all consent agenda items as submitted |
+| [Corey McEnry](board_member_21.md) | voted yes on approval of all consent agenda items | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on approval of all consent agenda items | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Tracey Malone](board_member_25.md) | voted yes on approval of Board Resolution 23-07 proposing an extension on the 2023/2024 Budget | Moved by Tracey Malone, seconded by Bamini Pathmanathan, to approve Board Resolution 23-07 proposing an extension on the...[truncated, use api for full text] |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on approval of Board Resolution 23-07 proposing an extension on the 2023/2024 Budget | Moved by Tracey Malone, seconded by Bamini Pathmanathan, to approve Board Resolution 23-07 proposing an extension on the...[truncated, use api for full text] |
+| [Corey McEnry](board_member_21.md) | voted yes on approval of Board Resolution 23-07 proposing an extension on the 2023/2024 Budget | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Matthew McBride](board_member_22.md) | voted yes on approval of Board Resolution 23-07 proposing an extension on the 2023/2024 Budget | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Tracey Malone](board_member_25.md) | voted yes on approval of Professional Services Agreement with MacKay Sposito | Moved by Tracey Malone, seconded by Matthew McBride, to approve a Professional Services Agreement with MacKay Spositor f...[truncated, use api for full text] |
+| [Matthew McBride](board_member_22.md) | voted yes on approval of Professional Services Agreement with MacKay Sposito | Moved by Tracey Malone, seconded by Matthew McBride, to approve a Professional Services Agreement with MacKay Spositor f...[truncated, use api for full text] |
+| [Corey McEnry](board_member_21.md) | voted yes on approval of Professional Services Agreement with MacKay Sposito | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on approval of Professional Services Agreement with MacKay Sposito | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Matthew McBride](board_member_22.md) | voted yes on approval of Facility Use and Management Agreement with USTA | Moved by Matthew McBride, seconded by Tracey Malone, to approve the Facility Use and Management Agreement with USTA as s...[truncated, use api for full text] |
+| [Tracey Malone](board_member_25.md) | voted yes on approval of Facility Use and Management Agreement with USTA | Moved by Matthew McBride, seconded by Tracey Malone, to approve the Facility Use and Management Agreement with USTA as s...[truncated, use api for full text] |
+| [Corey McEnry](board_member_21.md) | voted yes on approval of Facility Use and Management Agreement with USTA | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on approval of Facility Use and Management Agreement with USTA | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on purchase of Mystery Science materials | Moved by Bamini Pathmanathan, seconded by Tracey Malone to approve the purchase of Mystery Science materials for all ele...[truncated, use api for full text] |
+| [Tracey Malone](board_member_25.md) | voted yes on purchase of Mystery Science materials | Moved by Bamini Pathmanathan, seconded by Tracey Malone to approve the purchase of Mystery Science materials for all ele...[truncated, use api for full text] |
+| [Corey McEnry](board_member_21.md) | voted yes on purchase of Mystery Science materials | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+| [Matthew McBride](board_member_22.md) | voted yes on purchase of Mystery Science materials | Final Resolution: Motion Carries Yea: Corey McEnry, Tracey Malone, Bamini Pathmanathan, Matthew McBride |
+
 ## 2024-07-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 held a regular board meeting on July 22, 2024, where several key topics were discussed, including the Superintendent's report on community engagement during the 4th of July booth and the potential impacts of reduced Title I funding on programming. The board approved various items on the consent agenda, including the 2023-2025 Collective Bargaining Agreements with both the Blaine Education Association and SEIU Local 925, as well as updates to Policies 2190 and 5005. A significant point of contention arose regarding Policy 5251, which addresses conflicts of interest for teachers providing for-profit tutoring services to Blaine students; the board ultimately voted 3-2 to retain the existing policy language, despite discussions on potentially adopting WSSDA's model policy. The board also discussed future agenda items, including a public hearing on the 2024-2025 budget and the need for a resolution concerning fairness in competition and student safety related to Title IX regulations.
@@ -2076,6 +2109,31 @@ The Regular Council Meeting held on June 25, 2024, in Pullman included discussio
 The School Board Meeting held on June 24, 2024, included several key actions and resolutions. Notably, the board approved a change to the graduation date for the Camas Connect Academy from June 11, 2025, to June 14, 2025, reflecting a policy change aimed at better accommodating students and families. Additionally, the board accepted the termination of Bradley Vandyne, which was discussed in an executive session, indicating ongoing personnel management and oversight. The meeting also recognized various achievements, including the Mill Town Pride Awards, showcasing community engagement and support for student accomplishments. The board's actions reflect a commitment to transparency and responsiveness to community needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-24-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Corey McEnry](board_member_21.md) | voted yes on approval of consent agenda items | Moved by Tracey Malone, seconded by Bamini Pathmanathan to approve consent agenda items as presented. |
+| [Tracey Malone](board_member_25.md) | voted yes on approval of consent agenda items | Moved by Tracey Malone, seconded by Bamini Pathmanathan to approve consent agenda items as presented. |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on approval of consent agenda items | Moved by Tracey Malone, seconded by Bamini Pathmanathan to approve consent agenda items as presented. |
+| [Matthew McBride](board_member_22.md) | voted yes on approval of consent agenda items | Moved by Tracey Malone, seconded by Bamini Pathmanathan to approve consent agenda items as presented. |
+| [Corey McEnry](board_member_21.md) | voted yes on moving CCA graduation date | Moved by Matthew McBride, seconded by Bamini Pathmanathan to approve the Camas Connect Academy graduation date be moved ...[truncated, use api for full text] |
+| [Tracey Malone](board_member_25.md) | voted yes on moving CCA graduation date | Moved by Matthew McBride, seconded by Bamini Pathmanathan to approve the Camas Connect Academy graduation date be moved ...[truncated, use api for full text] |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on moving CCA graduation date | Moved by Matthew McBride, seconded by Bamini Pathmanathan to approve the Camas Connect Academy graduation date be moved ...[truncated, use api for full text] |
+| [Matthew McBride](board_member_22.md) | voted yes on moving CCA graduation date | Moved by Matthew McBride, seconded by Bamini Pathmanathan to approve the Camas Connect Academy graduation date be moved ...[truncated, use api for full text] |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on approval of Out of Field Teaching Assignment | Moved by Bamini Pathmanathan, seconded by Matthew McBride to approve the request for the Out of Field Teaching Assignmen...[truncated, use api for full text] |
+| [Matthew McBride](board_member_22.md) | voted yes on approval of Out of Field Teaching Assignment | Moved by Bamini Pathmanathan, seconded by Matthew McBride to approve the request for the Out of Field Teaching Assignmen...[truncated, use api for full text] |
+| [Corey McEnry](board_member_21.md) | voted yes on approval of Out of Field Teaching Assignment | Moved by Bamini Pathmanathan, seconded by Matthew McBride to approve the request for the Out of Field Teaching Assignmen...[truncated, use api for full text] |
+| [Tracey Malone](board_member_25.md) | voted yes on approval of Out of Field Teaching Assignment | Moved by Bamini Pathmanathan, seconded by Matthew McBride to approve the request for the Out of Field Teaching Assignmen...[truncated, use api for full text] |
+| [Tracey Malone](board_member_25.md) | voted yes on approval of Superintendent's Contract 2024-2027 | Moved by Tracey Malone, seconded by Matthew McBride to approve the superintendent's contract for 2024 to 2027. |
+| [Matthew McBride](board_member_22.md) | voted yes on approval of Superintendent's Contract 2024-2027 | Moved by Tracey Malone, seconded by Matthew McBride to approve the superintendent's contract for 2024 to 2027. |
+| [Corey McEnry](board_member_21.md) | voted yes on approval of Superintendent's Contract 2024-2027 | Moved by Tracey Malone, seconded by Matthew McBride to approve the superintendent's contract for 2024 to 2027. |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on approval of Superintendent's Contract 2024-2027 | Moved by Tracey Malone, seconded by Matthew McBride to approve the superintendent's contract for 2024 to 2027. |
+| [Corey McEnry](board_member_21.md) | voted yes on termination of Bradley Vandyne | Moved by Matthew McBride, seconded by Bamini Pathmanathan to accept the termination of Bradley Vandyne as of the date su...[truncated, use api for full text] |
+| [Tracey Malone](board_member_25.md) | voted yes on termination of Bradley Vandyne | Moved by Matthew McBride, seconded by Bamini Pathmanathan to accept the termination of Bradley Vandyne as of the date su...[truncated, use api for full text] |
+| [Bamini Pathmanathan](board_member_24.md) | voted yes on termination of Bradley Vandyne | Moved by Matthew McBride, seconded by Bamini Pathmanathan to accept the termination of Bradley Vandyne as of the date su...[truncated, use api for full text] |
+| [Matthew McBride](board_member_22.md) | voted yes on termination of Bradley Vandyne | Moved by Matthew McBride, seconded by Bamini Pathmanathan to accept the termination of Bradley Vandyne as of the date su...[truncated, use api for full text] |
 
 ## 2024-06-24 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
