@@ -1,20 +1,8 @@
 # School Board Meeting Summaries
 
 ## Summaries by County
-### BENTON County
-- [KENNEWICK_SCHOOL_DISTRICT](school_board_1.md)
-- [PROSSER_SCHOOL_DISTRICT](school_board_2.md)
-
-### CHELAN County
-- [CASHMERE_SCHOOL_DISTRICT](school_board_3.md)
-
-### CLALLAM County
-- [PORT_ANGELES_SCHOOL_DISTRICT](school_board_4.md)
-
 ### CLARK County
 - [CAMAS_SCHOOL_DISTRICT](school_board_5.md)
-- [EVERGREEN_PUBLIC_SCHOOLS](school_board_6.md)
-- [HOCKINSON_SCHOOL_DISTRICT](school_board_7.md)
 - [BATTLE_GROUND_SCHOOL_DISTRICT](school_board_73.md)
 
 ### COLUMBIA County
@@ -24,117 +12,60 @@
 - [KALAMA_SCHOOL_DISTRICT](school_board_74.md)
 - [TOUTLE_LAKE_SCHOOL_DISTRICT](school_board_75.md)
 
-### DOUGLAS County
-- [BRIDGEPORT_SCHOOL_DISTRICT](school_board_9.md)
-- [EASTMONT_SCHOOL_DISTRICT](school_board_10.md)
-- [ORONDO_SCHOOL_DISTRICT](school_board_11.md)
-
-### FRANKLIN County
-- [PASCO_SCHOOL_DISTRICT](school_board_12.md)
-
 ### GRANT County
-- [EPHRATA_SCHOOL_DISTRICT](school_board_13.md)
-- [GRAND_COULEE_DAM_SCHOOL_DISTRICT](school_board_14.md)
-- [QUINCY_SCHOOL_DISTRICT](school_board_15.md)
 - [MOSES_LAKE_SCHOOL_DISTRICT](school_board_76.md)
 - [WAHLUKE_SCHOOL_DISTRICT](school_board_77.md)
-
-### GRAYS_HARBOR County
-- [ELMA_SCHOOL_DISTRICT](school_board_16.md)
-- [MONTESANO_SCHOOL_DISTRICT](school_board_17.md)
-- [QUINAULT_LAKE_SCHOOL_DISTRICT](school_board_18.md)
 
 ### ISLAND County
 - [OAK_HARBOR_SCHOOL_DISTRICT](school_board_19.md)
 
 ### JEFFERSON County
 - [CHIMACUM_SCHOOL_DISTRICT](school_board_20.md)
-- [QUILCENE_SCHOOL_DISTRICT](school_board_21.md)
 
 ### KING County
 - [BELLEVUE_SCHOOL_DISTRICT](school_board_22.md)
-- [ENUMCLAW_SCHOOL_DISTRICT](school_board_23.md)
 - [FEDERAL_WAY_PUBLIC_SCHOOLS](school_board_24.md)
 - [KENT_SCHOOL_DISTRICT](school_board_25.md)
 - [LAKE_WASHINGTON_SCHOOL_DISTRICT](school_board_26.md)
-- [SKYKOMISH_SCHOOL_DISTRICT](school_board_27.md)
 - [TAHOMA_SCHOOL_DISTRICT](school_board_28.md)
-- [TUKWILA_SCHOOL_DISTRICT](school_board_29.md)
 - [MERCER_ISLAND_SCHOOL_DISTRICT](school_board_78.md)
 - [NORTHSHORE_SCHOOL_DISTRICT](school_board_79.md)
 - [VASHON_ISLAND_SCHOOL_DISTRICT](school_board_80.md)
 
 ### KITSAP County
-- [NORTH_KITSAP_SCHOOL_DISTRICT](school_board_30.md)
 - [BAINBRIDGE_ISLAND_SCHOOL_DISTRICT](school_board_81.md)
 - [BREMERTON_SCHOOL_DISTRICT](school_board_82.md)
 
 ### KITTITAS County
-- [KITTITAS_SCHOOL_DISTRICT](school_board_31.md)
 - [ELLENSBURG_SCHOOL_DISTRICT](school_board_83.md)
 
 ### KLICKITAT County
-- [BICKLETON_SCHOOL_DISTRICT](school_board_32.md)
-- [LYLE_SCHOOL_DISTRICT](school_board_33.md)
 - [WHITE_SALMON_VALLEY_SCHOOL_DISTRICT](school_board_84.md)
 
 ### LEWIS County
-- [EVALINE_SCHOOL_DISTRICT](school_board_34.md)
 - [ONALASKA_SCHOOL_DISTRICT](school_board_35.md)
-- [PE_ELL_SCHOOL_DISTRICT](school_board_36.md)
 - [TOLEDO_SCHOOL_DISTRICT](school_board_85.md)
 
 ### MASON County
-- [GRAPEVIEW_SCHOOL_DISTRICT](school_board_37.md)
 - [HOOD_CANAL_SCHOOL_DISTRICT](school_board_38.md)
-- [NORTH_MASON_SCHOOL_DISTRICT](school_board_39.md)
-
-### OKANOGAN County
-- [PATEROS_SCHOOL_DISTRICT](school_board_40.md)
-
-### PEND_OREILLE County
-- [NEWPORT_SCHOOL_DISTRICT](school_board_41.md)
-
-### PIERCE County
-- [BETHEL_SCHOOL_DISTRICT](school_board_42.md)
-- [CARBONADO_HISTORICAL_SCHOOL_DISTRICT](school_board_43.md)
-- [DIERINGER_SCHOOL_DISTRICT](school_board_44.md)
-- [EATONVILLE_SCHOOL_DISTRICT](school_board_45.md)
-- [PENINSULA_SCHOOL_DISTRICT](school_board_46.md)
-- [STEILACOOM_HISTORICAL_SCHOOL_DISTRICT](school_board_47.md)
-- [TACOMA_PUBLIC_SCHOOLS](school_board_48.md)
 
 ### SAN_JUAN County
 - [SAN_JUAN_ISLAND_SCHOOL_DISTRICT](school_board_86.md)
 
 ### SKAGIT County
-- [CONCRETE_SCHOOL_DISTRICT](school_board_49.md)
 - [LA_CONNER_SCHOOL_DISTRICT](school_board_50.md)
-- [MOUNT_VERNON_SCHOOL_DISTRICT](school_board_51.md)
 
 ### SNOHOMISH County
-- [DARRINGTON_SCHOOL_DISTRICT](school_board_52.md)
 - [EDMONDS_SCHOOL_DISTRICT](school_board_53.md)
-- [MARYSVILLE_SCHOOL_DISTRICT](school_board_54.md)
 - [NORTHSHORE_SCHOOL_DISTRICT](school_board_87.md)
 - [ARLINGTON_SCHOOL_DISTRICT](school_board_89.md)
 
 ### SPOKANE County
 - [EAST_VALLEY_SCHOOL_DISTRICT](school_board_55.md)
-- [LIBERTY_SCHOOL_DISTRICT](school_board_56.md)
-- [MEAD_SCHOOL_DISTRICT](school_board_57.md)
 - [SPOKANE_PUBLIC_SCHOOLS](school_board_88.md)
 
 ### STEVENS County
 - [COLVILLE_SCHOOL_DISTRICT](school_board_90.md)
-
-### THURSTON County
-- [RAINIER_SCHOOL_DISTRICT](school_board_58.md)
-- [TUMWATER_SCHOOL_DISTRICT](school_board_59.md)
-- [YELM_COMMUNITY_SCHOOLS](school_board_60.md)
-
-### WALLA_WALLA County
-- [COLLEGE_PLACE_SCHOOL_DISTRICT](school_board_61.md)
 
 ### WHATCOM County
 - [BELLINGHAM_PUBLIC_SCHOOLS](school_board_62.md)
@@ -143,13 +74,11 @@
 - [LYNDEN_SCHOOL_DISTRICT](school_board_65.md)
 - [MERIDIAN_SCHOOL_DISTRICT](school_board_66.md)
 - [MOUNT_BAKER_SCHOOL_DISTRICT](school_board_67.md)
-- [NOOKSACK_VALLEY_SCHOOL_DISTRICT](school_board_68.md)
 
 ### WHITMAN County
 - [PULLMAN_SCHOOL_DISTRICT](school_board_91.md)
 
 ### YAKIMA County
-- [HIGHLAND_SCHOOL_DISTRICT](school_board_69.md)
 - [SELAH_SCHOOL_DISTRICT](school_board_70.md)
 - [SUNNYSIDE_SCHOOL_DISTRICT](school_board_71.md)
 - [WAPATO_SCHOOL_DISTRICT](school_board_72.md)
