@@ -6,3 +6,16 @@ The Federal Way Public School District Board of Education held a regular meeting
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-07-23-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Trudy Davis](board_member_121.md) | voted yes on the Required Approvals Agenda | Director Trudy Davis moved that the Board of Education approved the Required Approvals Agenda of July 23, 2024 as submit...[truncated, use api for full text] |
+| [Luckisha Phillips](board_member_119.md) | voted yes on the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
+| [Trudy Davis](board_member_121.md) | voted yes on Resolution 2024-06: FWPS 2025 Capital Facilities Plan | Vice President Luckisha Phillips moved that the Board of Education approve Resolution 2024-06: FWPS 2025 Capital Facilit...[truncated, use api for full text] |
+| [Luckisha Phillips](board_member_119.md) | voted yes on Resolution 2024-06: FWPS 2025 Capital Facilities Plan | Seconded by Director Trudy Davis. |
+| [Trudy Davis](board_member_121.md) | voted yes on Resolution 2024-05: Authorization of Agreement and Special Use Permit | Vice President Luckisha Phillips moved that the Board of Education approve Resolution 2024-05: Authorization of Agreemen...[truncated, use api for full text] |
+| [Luckisha Phillips](board_member_119.md) | voted yes on Resolution 2024-05: Authorization of Agreement and Special Use Permit | Seconded by Director Trudy Davis. |
+| [Trudy Davis](board_member_121.md) | voted yes on Resolution 2024-11: Concerning Termination Agreement | Director Trudy Davis moved that the Board of Education approve Resolution 2024-11: Concerning Termination Agreement as s...[truncated, use api for full text] |
+| [Luckisha Phillips](board_member_119.md) | voted yes on Resolution 2024-11: Concerning Termination Agreement | Seconded by Director Trudy Davis. |
+

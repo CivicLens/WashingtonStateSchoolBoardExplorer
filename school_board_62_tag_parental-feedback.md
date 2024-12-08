@@ -24,6 +24,15 @@ The Bellingham School District Board of Directors held a regular meeting on Marc
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This excerpt from a school board meeting focuses on student perspectives and experiences.  A former student shares positive memories of the Teacher Academy program, highlighting its collaborative nature and impact on personal growth. The student also discusses challenges faced due to allergies and the benefits of remote learning during the COVID pandemic. The meeting emphasizes student voice and its importance in shaping educational policies. Additionally, a current student pursuing Automotive Collision Repair Technology expresses appreciation for the Teacher Academy's influence on their life skills and patience development.  The school board members express gratitude for the students' insights and acknowledge the value of ongoing feedback.

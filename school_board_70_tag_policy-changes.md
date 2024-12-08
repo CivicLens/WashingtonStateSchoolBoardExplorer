@@ -8,11 +8,34 @@ During the meeting, discussions highlighted the importance of parental involveme
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-10-10-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Joe Catron](board_member_354.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Sarah Michael](board_member_351.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Derek Iverson](board_member_350.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+
 ## 2024-09-26 - SELAH_SCHOOL_DISTRICT (Minutes)
 
 The Selah School District Board of Directors meeting on September 26, 2024, included a public comment session where Mary Schuler raised questions regarding curriculum discussions on LGBTQ topics. Specifically, she inquired about the district's plans for teaching LGBTQ history, the notification process for parents regarding such curriculum, and parents' rights to opt out of their students participating in related lessons. The meeting also highlighted community engagement efforts, including a recent forum on safety and mental health, and announced upcoming events such as Homecoming Week and parent conferences. The board approved several policies, including updates to policy 5011 on sex discrimination and harassment, and discussed the need for transparency in curriculum changes and parental notification.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-09-26-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
+| [Sarah Michael](board_member_351.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
+| [Joe Catron](board_member_354.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Joe Catron](board_member_354.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
+| [Derek Iverson](board_member_350.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Derek Iverson](board_member_350.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
 
 ## 2024-08-22 - SELAH_SCHOOL_DISTRICT (Minutes)
 
@@ -20,9 +43,41 @@ The Selah School District No. 119 Board of Directors held a meeting on August 22
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-08-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jamie Morford](board_member_352.md) | voted yes on approval of regular meeting minutes of July 25, 2024 | Motion by Jamie Morford, second by Dan Peters. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of Human Resources Action Sheet | Motion by Dan Peters. Motion passed 4-0-1 (Derek Iverson abstained from the vote). |
+| [Dan Peters](board_member_353.md) | voted yes on approval of Payroll, Goods and Services for August 2024 | Motion by Dan Peters, second by Jamie Morford. Motion carried 5/0. |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of policy updates | Motion by Jamie Morford, second by Dan Peters. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of donation of $500 from Brian and Fran Harris | Motion by Dan Peters, second by Jamie Morford. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of overnight travel request | Motion by Dan Peters, second by Jamie Morford. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of resolutions for Out of Endorsement Assignments | Motion by Dan Peters, second by Derek Iverson. Motion carried 5/0. |
+
 ## 2024-06-27 - SELAH_SCHOOL_DISTRICT (Minutes)
 
 The Selah School District Board of Directors held a meeting on June 27, 2024, where they discussed the adoption of the "Since Time Immemorial" (STI) curriculum, which aims to incorporate Native American history into the educational framework. The board received public comments, with mixed reactions regarding the curriculum's content and its perceived impact on students. Notably, some community members expressed concerns about specific materials, such as "An Indigenous Peoples’ History of the United States," citing inaccuracies and a potential negative portrayal of American history. The board ultimately decided to adopt the STI curriculum, with a motion carried 4-1, highlighting the importance of transparency and community input in the decision-making process. The meeting also addressed policy changes and resolutions, including the approval of various financial and administrative matters, emphasizing the district's commitment to engaging with community feedback and maintaining curriculum transparency.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-06-27-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on adoption of the John McCoy Since Time Immemorial curriculum | Dan expressed satisfaction with the replacement of the controversial book and thanked the Confederated Tribes of the Yak...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on adoption of the John McCoy Since Time Immemorial curriculum | Jamie thanked the teachers for their efforts. |
+| [Joe Catron](board_member_354.md) | voted yes on adoption of the John McCoy Since Time Immemorial curriculum | Joe supported the motion alongside other board members. |
+| [Sarah Michael](board_member_351.md) | voted yes on adoption of the John McCoy Since Time Immemorial curriculum | Sarah supported the motion alongside other board members. |
+| [Derek Iverson](board_member_350.md) | voted no on adoption of the John McCoy Since Time Immemorial curriculum | Derek expressed concerns about the curriculum being divisive and stated he received 56 emails, with 45 against the adopt...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on the consent agenda | Jamie moved to approve the consent agenda. |
+| [Sarah Michael](board_member_351.md) | voted yes on the consent agenda | Sarah seconded the motion to approve the consent agenda. |
+| [Dan Peters](board_member_353.md) | voted yes on the consent agenda | Dan supported the motion to approve the consent agenda. |
+| [Joe Catron](board_member_354.md) | voted yes on the consent agenda | Joe supported the motion to approve the consent agenda. |
+| [Derek Iverson](board_member_350.md) | voted yes on the consent agenda | Derek supported the motion to approve the consent agenda. |
+| [Jamie Morford](board_member_352.md) | voted yes on multiple resolutions regarding financial matters | Jamie moved to approve several resolutions regarding financial matters. |
+| [Derek Iverson](board_member_350.md) | voted yes on multiple resolutions regarding financial matters | Derek seconded the motion to approve several resolutions regarding financial matters. |
+| [Sarah Michael](board_member_351.md) | voted yes on multiple resolutions regarding financial matters | Sarah supported the motion to approve several resolutions regarding financial matters. |
+| [Dan Peters](board_member_353.md) | voted yes on multiple resolutions regarding financial matters | Dan supported the motion to approve several resolutions regarding financial matters. |
+| [Derek Iverson](board_member_350.md) | expressed opposition to the adoption of the STI curriculum | Derek indicated that he disagreed with the lawyer about the necessity of adopting the curriculum. |
 

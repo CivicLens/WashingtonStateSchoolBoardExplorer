@@ -6,3 +6,13 @@ The Special School Board Meeting held on January 4, 2024, resulted in the appoin
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-04-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to appoint Mr. Philip Brockman as Interim Superintendent | Ms. Brenna Reaugh made a motion to appoint Mr. Philip Brockman as our new Interim Superintendent, Mr. Edward Fox seconde...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on motion to appoint Mr. Philip Brockman as Interim Superintendent | Ms. Brenna Reaugh made a motion to appoint Mr. Philip Brockman as our new Interim Superintendent, Mr. Edward Fox seconde...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to appoint Mr. Philip Brockman as Interim Superintendent | Ms. Brenna Reaugh made a motion to appoint Mr. Philip Brockman as our new Interim Superintendent, Mr. Edward Fox seconde...[truncated, use api for full text] |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on motion to appoint Mr. Philip Brockman as Interim Superintendent | Ms. Brenna Reaugh made a motion to appoint Mr. Philip Brockman as our new Interim Superintendent, Mr. Edward Fox seconde...[truncated, use api for full text] |
+| [Jason Bloodgood](board_member_339.md) | voted yes on motion to appoint Mr. Philip Brockman as Interim Superintendent | Ms. Brenna Reaugh made a motion to appoint Mr. Philip Brockman as our new Interim Superintendent, Mr. Edward Fox seconde...[truncated, use api for full text] |
+

@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: student-competence
 
+## 2024-12-05 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a Special Board Meeting on December 5, 2024, primarily focused on the executive session to review the performance of Superintendent Dr. Christopher Granger. The executive session lasted until 9:30 p.m., during which the board discussed the superintendent's performance evaluation. Following the closed session, the board considered taking action on the superintendent's evaluation, which included a proposal to extend Dr. Granger's employment contract through June 30, 2028. However, the board voted to table this action item until the next regular meeting on December 10, 2024, due to concerns about attendance. All directors were present, and the meeting concluded with a unanimous vote to adjourn at 9:28 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-12-05-minutes.txt)
+
 ## 2024-10-28 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
 The regular board meeting held on October 28, 2024, included several significant updates and discussions relevant to community engagement and policy changes. The Yakama Tribal Council Update presented by Elese Washines highlighted the distribution of JOM funds, the modernization act's revised eligibility requirements, and the importance of scheduling Tribal Consultation with the District. Superintendent Kelly Garza reported on various school activities and initiatives, including the implementation of the new RISE UP GEAR UP grant aimed at college preparedness for 6th graders. The board also reviewed and discussed the first reading of Revised Policy No. 2421 regarding Promotion/Retention, indicating a forthcoming second reading and action at the next meeting. Additionally, several policies were reviewed, including Policy No. 2165 concerning Home or Hospital Instruction, which was revised, and Policy No. 2210 on Grade Organization, which was retired. These discussions reflect ongoing efforts to engage with the community and adapt policies to better serve student needs.
@@ -56,17 +62,62 @@ The Regular Board of Directors Meeting held on March 21, 2024, included the appr
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-03-21-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Calendar option 1 | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on approval of Calendar option 1 | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Linda Roberts](board_member_356.md) | voted yes on approval of Calendar option 1 | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on approval of Calendar option 1 | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on consent agenda items including approval of minutes and policies | Motion by Jilliann Patterson, second by Linda Roberts for multiple consent agenda items. |
+| [Stephen Berg](board_member_359.md) | voted yes on consent agenda items including approval of minutes and policies | Motion by Jilliann Patterson, second by Linda Roberts for multiple consent agenda items. |
+| [Linda Roberts](board_member_356.md) | voted yes on consent agenda items including approval of minutes and policies | Motion by Jilliann Patterson, second by Linda Roberts for multiple consent agenda items. |
+| [Jory Anderson](board_member_358.md) | voted yes on consent agenda items including approval of minutes and policies | Motion by Jilliann Patterson, second by Linda Roberts for multiple consent agenda items. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion to enter executive session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on motion to enter executive session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on motion to enter executive session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Linda Roberts](board_member_356.md) | voted yes on motion to enter executive session | Motion by Jilliann Patterson, second by Jory Anderson. |
+
 ## 2024-02-27 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
 
 The Special Board Meeting held on February 27, 2024, included a significant action regarding the resignation of Yasmin Barrios, which was acknowledged by the board. The meeting commenced at 6:04 PM and concluded with adjournment at 6:19 PM. The agenda for the meeting was approved with a motion by Linda Roberts and seconded by Jory Anderson, with the vote reflecting the presence of Stephen Berg, Linda Roberts, and Jory Anderson, while Jilliann Patterson was not present for the vote. The acknowledgment of Barrios's resignation signifies a change in the board's composition, which may have implications for future policy discussions and decisions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-02-27-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Linda Roberts](board_member_356.md) | voted yes on approving the February 27, 2024 Special Board Meeting Agenda | Motion by Linda Roberts, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on approving the February 27, 2024 Special Board Meeting Agenda | Motion by Linda Roberts, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on approving the February 27, 2024 Special Board Meeting Agenda | Motion by Linda Roberts, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | not present at vote on approving the February 27, 2024 Special Board Meeting Agenda | Jilliann Patterson was not present at the vote. |
+| [Linda Roberts](board_member_356.md) | voted yes on acknowledging the resignation of Yasmin Barrios | The Board acknowledged the Resignation of Yasmin Barrios. |
+| [Jory Anderson](board_member_358.md) | voted yes on acknowledging the resignation of Yasmin Barrios | The Board acknowledged the Resignation of Yasmin Barrios. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on adjourning the February 27, 2024 Special Board Meeting | Motion by Linda Roberts, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on adjourning the February 27, 2024 Special Board Meeting | Motion by Linda Roberts, second by Jory Anderson. |
+| [Linda Roberts](board_member_356.md) | voted yes on adjourning the February 27, 2024 Special Board Meeting | Motion by Linda Roberts, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on adjourning the February 27, 2024 Special Board Meeting | Motion by Linda Roberts, second by Jory Anderson. |
+
 ## 2024-01-23 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
 
 The Board Work Session held on January 23, 2024, included presentations by building principals from Harrison Middle School, Sierra Vista Middle School, Sun Valley Elementary, and Sunnyside High School, who provided their State of Schools reports. The meeting was called to order by Director Stephen Berg at 6:31 PM, and the agenda was approved unanimously. Additionally, Director Linda Roberts shared items for the good of the order, reflecting community engagement efforts. The session concluded with the Board adjourning at 9:13 PM, also by unanimous consent. No specific policy changes or controversial content were noted during the discussions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-23-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of the January 23, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Stephen Berg](board_member_359.md) | voted yes on approval of the January 23, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Linda Roberts](board_member_356.md) | voted yes on approval of the January 23, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Jory Anderson](board_member_358.md) | voted yes on approval of the January 23, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on adjournment of the January 23, 2024 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on adjournment of the January 23, 2024 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Linda Roberts](board_member_356.md) | voted yes on adjournment of the January 23, 2024 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on adjournment of the January 23, 2024 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
 
 ## 2016-04-21 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

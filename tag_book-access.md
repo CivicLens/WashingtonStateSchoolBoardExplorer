@@ -8,6 +8,16 @@ During the meeting, discussions highlighted the importance of parental involveme
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-10-10-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Joe Catron](board_member_354.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Sarah Michael](board_member_351.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Derek Iverson](board_member_350.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+
 ## 2024-09-25 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
 
 The Spokane Public Schools Board of Directors convened a Special Meeting on September 25, 2024, to discuss various agenda items, including legislative priorities and community engagement initiatives. The Board reviewed topics for the upcoming legislative session, with priorities due by October 8, 2024. Additionally, they engaged in a discussion regarding the book "The Anxious Generation," focusing on key takeaways and strategies to foster community learning opportunities related to mental health. The meeting included an Executive Session to consider real estate acquisitions and evaluate a candidate for elected office, and it concluded with no formal decisions made on the legislative priorities or community initiatives.

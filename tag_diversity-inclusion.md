@@ -108,6 +108,15 @@ The Bellingham School District Board of Directors held a regular meeting on Octo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jenn Mason](board_member_311.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Ms. Mason thinks the board should adopt a resolution and write a letter to the community. The resolution would satisfy t...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Ms. Rose agrees that the board should do both. The benefit of a letter is that it can be an open call to the community t...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_312.md) | supported drafting a letter to the community regarding funding concerns | She believes we would be remiss in our duties if we don’t do something to share the board’s concerns. |
+| [Douglas Benjamin](board_member_310.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Mr. Benjamin shared that the board has expressed interest in taking some kind of action. |
+
 ## 2024-10-10 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Mercer Island School District Board of Directors held a regular meeting on October 10, 2024, addressing several key topics. Superintendent Fred Rundle reported on the District’s enrollment trends, noting increases in new students and a larger kindergarten class compared to previous years. He emphasized the importance of supporting students with disabilities and English language learners as part of the District's Improvement Plan, which focuses on closing achievement and opportunity gaps, strengthening multi-tiered systems of support (MTSS), and providing targeted professional learning for staff. The Board discussed revisions to Board Policy 3205 regarding Sexual Harassment of Students, with Vice President Dan Glowitz advocating for clearer language on staff reporting obligations. The Board also found the District in compliance with Board Policy 1800 OE-4 concerning Staff Compensation, highlighting a competitive compensation package that contributes to low attrition rates.
@@ -192,6 +201,31 @@ The Regular Board Meeting held on September 10, 2024, included the approval of s
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-09-10-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Approved as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on personnel | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
+| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
+| [Mike Bly](board_member_278.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
+| [Justin Voelker](board_member_276.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
+| [Mike Bly](board_member_278.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
+| [Justin Voelker](board_member_276.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
+| [Justin Voelker](board_member_276.md) | voted to table tunnel use agreement | Motioned to table the tunnel use agreement. |
+| [Mike Bly](board_member_278.md) | voted to table tunnel use agreement | Seconded the motion to table the tunnel use agreement. |
+
 ## 2024-09-10 - PULLMAN_SCHOOL_DISTRICT (Minutes)
 
 The City Council of Pullman confirmed the appointments of Michael Heim, Robert Harris, and Yelonda Wilke to the Diversity, Equity, Inclusion, and Belonging Committee during the Regular Council Meeting held on September 10, 2024. This committee aims to address issues related to diversity and inclusion within the community. Additionally, the Council discussed the establishment of a Hometown Heroes Banner Program, which recognizes residents and their immediate family members who have served in the United States Armed Forces, promoting civic pride and community engagement. The program includes guidelines for the display of banners on designated streetlight poles.
@@ -222,11 +256,44 @@ The La Conner School Board held a regular meeting on August 26, 2024, where they
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [John Agen](board_member_251.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Alana Quintasket](board_member_250.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [John Agen](board_member_251.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Kim Pedroza](board_member_253.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Alana Quintasket](board_member_250.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [John Agen](board_member_251.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+
 ## 2024-08-19 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The August 19, 2024 Board Meeting of the Lake Washington Board of Directors included several key resolutions and updates. Notably, the board introduced four student representatives, highlighting a commitment to diversity and inclusion within the school community. The meeting also addressed policy changes, including the adoption of Resolution No. 2380, which officially adopted the 2024-25 budget, and Resolution No. 2384, which approved the closure of the Futures School due to declining enrollment and the availability of alternative support programs at other high schools. Additionally, updates on legislative engagement and sustainability programs were provided, emphasizing ongoing community engagement efforts and strategic planning for the district's future.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-08-19-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the 2024-25 budget | The Board took formal action to approve the 2024-25 budget. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Leah Choi](board_member_128.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to accept donations | The resolution was to accept the donations as presented. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Leah Choi](board_member_128.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Leah Choi](board_member_128.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
 
 ## 2024-08-19 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -272,6 +339,16 @@ The school board's recent agenda included discussions on policies related to LGB
 The Bellingham School District Board of Directors held a regular meeting on July 18, 2024, where several key resolutions and updates were discussed. Notably, the board approved Resolution 19-24, which involves the transfer of funds from the Capital Projects Fund to the General Fund, and Resolution 20-24, expressing intent to construct a Community Transitions building. The board also addressed concerns raised by community members regarding student safety and staff hiring practices, specifically the need for more district maintenance employees rather than independent contractors. Superintendent Greg Baker provided an update on various summer programs, the authorization of Roosevelt Elementary as an International Baccalaureate school, and ongoing capital projects, including the $2.7 million award for solar arrays at five schools. The board is preparing to adopt the 2024-25 budget at the next meeting and is seeking community feedback on funding models, particularly the full funding of special education, pupil transportation, and Materials, Supplies, and Operating Costs (MSOCs).
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve GP-7.2, Annual Board Agenda for 2024-25 | Ms. Rose made a motion, seconded by Ms. Mason, to approve GP-7.2, Annual Board Agenda for 2024-25. Unanimous approval. |
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -391,6 +468,31 @@ Additionally, the Board unanimously approved Resolution No. 2375, which authoriz
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-03-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Leah Choi](board_member_128.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Leah Choi](board_member_128.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Leah Choi](board_member_128.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Leah Choi](board_member_128.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Leah Choi](board_member_128.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+
 ## 2024-05-28 - TAHOMA_SCHOOL_DISTRICT (Minutes)
 
 The reviewed text outlines discussions from a recent school board meeting that focused on policies related to LGBTQ inclusivity and diversity in education. A significant proposal was introduced to enhance inclusive sex education, which aims to address the needs of LGBTQ students and ensure that the curriculum reflects diverse identities. The board emphasized the importance of diversity and inclusion as central tenets of the educational framework, seeking to create a supportive environment for all students. Additionally, there were mentions of community feedback on these policies, indicating a commitment to engaging with parents and stakeholders in the decision-making process. The board's actions suggest a proactive approach to fostering an inclusive educational atmosphere, although specific controversies regarding the implementation of these policies were not detailed in the text.
@@ -477,6 +579,26 @@ The Kent School District No. 415 Board of Directors meeting held on May 8, 2024,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-08-board-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+
 ## 2024-05-08 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on May 8, 2024, focused on a land acknowledgement work session, highlighting the importance of recognizing the history and contributions of Indigenous peoples in the district's community. The meeting was called to order by President Meghin Margel and included all board members and the Superintendent, Israel Vela. The session lasted approximately 45 minutes, concluding at 5:45 p.m. This gathering reflects the district's commitment to community engagement and diversity-inclusion efforts, aiming to foster a more inclusive environment within the educational framework.
@@ -544,6 +666,13 @@ The Yakima School District #7 Business Board Meeting on April 22, 2024, highligh
 The April 18, 2024 Regular Business Meeting of the Board of Directors included a focus on community engagement and diversity-inclusion, highlighted by a student update and a study session on equity-driven decision making and family engagement. The meeting commenced with the introduction of a student and a land acknowledgment, emphasizing the board's commitment to recognizing diverse community backgrounds. The agenda also featured a unanimous approval of the consent agenda, which included personnel elections and travel approvals, indicating ongoing operational matters. The meeting concluded with discussions aimed at enhancing equity and engagement within the school community, reflecting the board's strategic priorities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-04-18-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Carolyn Watson](board_member_109.md) | voted yes on motion to approve the agenda | The motion was approved by unanimous voice vote at 4:38 pm. |
+| [Phil Bloch](board_member_108.md) | voted yes on motion to approve the consent agenda | The Motion was approved by unanimous voice vote at 4:39 pm. |
 
 ## 2024-04-11 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
@@ -832,6 +961,18 @@ The Lake Washington School District Board of Directors held a meeting on January
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Leah Choi](board_member_128.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Mark Stuart](board_member_132.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+
 ## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors convened a Study Session on January 22, 2024, focused on Goal 3, which emphasizes growth for every student and the elimination of outcome and opportunity gaps. The discussion centered on strategies to enhance educational equity and address disparities among students. The session was attended by board members, including President Amy Cast and Superintendent Mr. Michael Tolley, and concluded with an adjournment at 6:49 PM. The meeting's agenda reflects the district's commitment to improving racial equity and ensuring that all students have access to the resources they need for academic success.
@@ -868,6 +1009,18 @@ The minutes from the January 11, 2024, Regular Business Meeting of the Board of 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-11-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Phil Bloch](board_member_108.md) | voted yes on motion 2024-0111-02 to approve Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Carolyn Watson](board_member_109.md) | voted yes on motion 2024-0111-03 to approve the 2024 Multilingual Learner Education Report | The motion was part of the reports presented during the meeting. |
+| [Carolyn Watson](board_member_109.md) | voted yes on motion 2024-0111-04 to approve the 2024 Legislative Priorities | The motion was discussed under Board Business. |
+| [Monica Webster](board_member_111.md) | voted yes on motion 2024-0111-02 to approve Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0111-02 to approve Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0111-03 to approve the 2024 Multilingual Learner Education Report | The motion was part of the reports presented during the meeting. |
+| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0111-04 to approve the 2024 Legislative Priorities | The motion was discussed under Board Business. |
+
 ## 2024-01-09 - TAHOMA_SCHOOL_DISTRICT (Minutes)
 
 The text discusses recent changes to school board policies regarding diversity and inclusion initiatives. Specifically, a resolution was passed to incorporate more comprehensive diversity training for staff and students, aimed at fostering an inclusive environment. The board emphasized the importance of creating a welcoming atmosphere for all students, particularly those from marginalized communities. Additionally, there were discussions about the removal of outdated terminology in existing policies to better reflect contemporary understandings of diversity. The board members highlighted the need for ongoing community engagement to ensure these changes resonate with the broader school community and address the needs of all students.
@@ -885,6 +1038,33 @@ The School Board Special Meeting held on January 9, 2024, focused on the status 
 The January 8, 2024, Board Meeting of the Lake Washington School District addressed several key topics including community engagement and diversity issues. Public comments highlighted concerns regarding antisemitism within the district and the future of multiculturalism, indicating a need for increased attention to diversity and inclusion. The board also approved various resolutions, including the adoption of instructional materials and updates to monitoring reports related to community stakeholder treatment and the learning environment. Notably, the board temporarily suspended the requirement for meetings to be broadcast due to technical difficulties, demonstrating flexibility in policy adherence under certain circumstances. The meeting included discussions about legislative advocacy efforts, emphasizing the importance of community engagement in shaping district priorities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-08-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on temporarily suspending the requirement in Policy OGP-3 | Motion: Laliberte, Second: Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on temporarily suspending the requirement in Policy OGP-3 | Motion: Laliberte, Second: Yocum. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the vouchers as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the vouchers as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the out-of-endorsement assignments | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the out-of-endorsement assignments | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on accepting the donations as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on accepting the donations as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on adopting the instructional materials | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on adopting the instructional materials | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the updates to the indicators for R-1 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the updates to the indicators for R-1 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the Board Summary for Monitoring Report OE-4 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the Board Summary for Monitoring Report OE-4 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the monitoring report for OE-3 | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on approving the monitoring report for OE-3 | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the Board Summary for OE-10 | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the Board Summary for OE-10 | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the Board Summary for OE-11 | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on approving the Board Summary for OE-11 | Motion by Eric Laliberte, second by Lindsey Yocum. |
 
 ## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
@@ -951,6 +1131,13 @@ The North Central Technical Academy (NCTA) school board meeting minutes detail s
 The Bellingham School District Board of Directors held a regular meeting on October 12, 2023, at Options High School, where they acknowledged the meeting's location on the ancestral lands of the Lummi people and Nooksack tribe. Superintendent Greg Baker provided updates on various district initiatives including the celebration of National Hispanic Heritage Month and Indigenous Peoples Day, emphasizing community engagement and support for diverse student experiences. The board reviewed and approved several resolutions including Resolution 29-23, which pertains to the Replacement Educational Support and Operations Levy, and Resolution 30-23, concerning the Replacement Technology Capital Projects Levy. These levies are crucial for funding staff positions and student activities, as the state does not cover after-school programs. Additionally, the board discussed the EL-1 Monitoring Report on Expectations of the Superintendent and the EL-10 Monitoring Report on Race and Equity, highlighting the district's commitment to racial equity and inclusion within its educational framework.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-12-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_312.md) | supported the formation of a citizens committee against the replacement levy measures | Ms. Diaz Hackler read a statement regarding the formation of a citizens committee against the replacement levy measures. |
 
 ## 2023-10-03 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

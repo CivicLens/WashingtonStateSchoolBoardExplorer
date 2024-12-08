@@ -6,3 +6,15 @@ The Kent School District No. 415 Board of Directors held a meeting on April 24, 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-04-24-board-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | led the meeting and called for the Pledge of Allegiance | President Margel called on Director Song to lead the Pledge of Allegiance. |
+| [Awale Farah](board_member_124.md) | read the Land Acknowledgement | President Margel called on Director Farah to read the Land Acknowledgement. |
+| [Tim Clark](board_member_125.md) | provided a legislative update | Director Clark provided a legislative update. |
+| [Meghin Margel](board_member_123.md) | voted yes on Consent Agenda Item 6.01 | A motion was made to approve Consent Agenda Items 6.01 – 6.16 LESS Items 6.02, 6.14, and 6.15. The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on Consent Agenda Item 6.02 | A motion was made to approve Consent Agenda Item 6.02. The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on Consent Agenda Item 6.14 | A motion was made to approve Consent Agenda Item 6.14. The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on Consent Agenda Item 6.15 | A motion was made to approve Consent Agenda Item 6.15. The motion carried. |
+

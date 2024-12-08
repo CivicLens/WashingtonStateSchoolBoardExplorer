@@ -30,6 +30,16 @@ The Bellingham School District Board of Directors held a regular meeting on July
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve GP-7.2, Annual Board Agenda for 2024-25 | Ms. Rose made a motion, seconded by Ms. Mason, to approve GP-7.2, Annual Board Agenda for 2024-25. Unanimous approval. |
+
 ## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a regular meeting on June 18, 2024, where they discussed several key topics. Superintendent Greg Baker reported on the conclusion of the 2023-24 school year and addressed a recent attack on a middle school student, emphasizing the support provided to the affected student and their family. The board also reviewed and approved multiple resolutions, including Resolution 14-24 for a State Capital Grant for a Health Center at Options High School and Resolution 15-24 delegating authority to the Washington Interscholastic Activities Association (WIAA). 
@@ -37,6 +47,33 @@ The Bellingham School District Board of Directors held a regular meeting on June
 The board responded to monitoring reports related to academic standards and practices (EL-6), district calendar (EL-8), and student competence (Ends 2.1, Part 2), noting commendable progress in various areas, including improved graduation rates and increased participation in dual credit and Career and Technical Education (CTE) programs. They highlighted the need for continued efforts in mental health support and school safety, especially in light of recent events. Additionally, the board recognized the importance of community engagement in developing the district calendar and ensuring it meets the diverse needs of stakeholders. No specific changes to policies were identified during the meeting, indicating a focus on maintaining current standards and practices.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Scott Ritchey](board_member_313.md) | recused himself from voting on item 2.17 | Consent agenda item 2.17, Personnel Recommendations, contains a change in employment status for a family member who is a...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Scott Ritchey](board_member_313.md) | abstained from voting on consent agenda item 2.17 | Mr. Ritchey recused himself from voting on item 2.17 due to a conflict of interest. |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
 
 ## 2024-05-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -88,6 +125,13 @@ This excerpt from a school board meeting focuses on student perspectives and exp
 The Bellingham School District Board of Directors held a regular meeting on October 12, 2023, at Options High School, where they acknowledged the meeting's location on the ancestral lands of the Lummi people and Nooksack tribe. Superintendent Greg Baker provided updates on various district initiatives including the celebration of National Hispanic Heritage Month and Indigenous Peoples Day, emphasizing community engagement and support for diverse student experiences. The board reviewed and approved several resolutions including Resolution 29-23, which pertains to the Replacement Educational Support and Operations Levy, and Resolution 30-23, concerning the Replacement Technology Capital Projects Levy. These levies are crucial for funding staff positions and student activities, as the state does not cover after-school programs. Additionally, the board discussed the EL-1 Monitoring Report on Expectations of the Superintendent and the EL-10 Monitoring Report on Race and Equity, highlighting the district's commitment to racial equity and inclusion within its educational framework.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-12-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_312.md) | supported the formation of a citizens committee against the replacement levy measures | Ms. Diaz Hackler read a statement regarding the formation of a citizens committee against the replacement levy measures. |
 
 ## 2023-09-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

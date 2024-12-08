@@ -48,6 +48,21 @@ The Bellingham School District Board of Directors held a regular meeting on Apri
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 Regular Board Meeting on March 25, 2024, addressed several topics, including recent appointments to the Board of Directors and public comments regarding budget management and staffing impacts. President Cliff Freeman raised concerns about legislative bills SB5462 and HB2331, which mandate specific curriculum topics, including LGBTQ issues, and allow the Office of Superintendent of Public Instruction (OSPI) to withhold funding for noncompliance. He emphasized the potential loss of local control over school district policies. Additionally, the meeting discussed the Initiative 2081 Parents Bill of Rights, which would affirm parental access to information about their children once they turn 13, possibly necessitating a review of Policy 3230, which restricts such access. The board adopted Resolution 2324-06, directing the Superintendent to prepare a reduced educational program for the 2024-2025 school year amid budget considerations.

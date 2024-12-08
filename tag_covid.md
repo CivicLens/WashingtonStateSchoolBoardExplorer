@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: covid
 
+## 2024-11-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 Regular Board Meeting held on November 25, 2024, addressed several key issues, including community engagement and policy changes. Public comments highlighted concerns regarding the district's reputation and the need for positivity, with individuals like Pat Jerns advocating for a name change to Birch Bay Blaine School District. Dr. Christopher Granger, the superintendent, reported on a grassroots effort to set up a townhall meeting with local legislators, indicating an emphasis on community involvement. Additionally, the board conducted a first reading of updated policies to comply with 2024 Title IX regulations, including Policy 3205 on sex discrimination and Policy 5011 on harassment of district staff. The board also discussed the implications of COVID vaccine lawsuits, reflecting ongoing concerns about student health and well-being.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-25-minutes.txt)
+
 ## 2024-11-14 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
 The Hood Canal School District Board of Education held a study session on November 14, 2024, where they discussed various updates, including the involvement of Bassetti Architects in ongoing projects and matters related to EP&O (Educational Programs and Operations) and Capital Projects/Tech Levies. The meeting highlighted the district's response to the COVID-19 pandemic, particularly in relation to the setup of a vaccine clinic, which was praised by Board Member Ms. Robbins for the perseverance of the office staff, Tracy Johnson and Marcia Johnson. The meeting concluded with a discussion of future board meeting dates and a general expression of appreciation for the efforts of staff in managing community health initiatives.
@@ -29,6 +35,35 @@ The Yakima School District #7 Business Board Meeting held on January 29, 2024, i
 The Regular Board of Directors Meeting held on January 25, 2024, included discussions on various community engagement initiatives and acknowledgments for National School Board Month from both the SEA and the Principals Association. Superintendent Maxwell provided an update on the dissemination of levy information to community groups and emphasized the importance of upcoming ballot dates. Additionally, the Board approved Resolution No. 01-2024, which authorized the surplus and scrap of two school buses, indicating a policy change regarding resource management within the district. The meeting concluded with public comments, where community member Vicky Frausto expressed her thoughts, further emphasizing the importance of community involvement in school governance. The Board also recognized the efforts of staff in maintaining school safety during inclement weather conditions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-25-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Stephen Berg](board_member_359.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Jory Anderson](board_member_358.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_359.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_358.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
 
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

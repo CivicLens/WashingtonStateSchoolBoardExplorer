@@ -6,3 +6,16 @@ The La Conner School Board held a regular meeting on August 26, 2024, where they
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [John Agen](board_member_251.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Alana Quintasket](board_member_250.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [John Agen](board_member_251.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Kim Pedroza](board_member_253.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Alana Quintasket](board_member_250.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [John Agen](board_member_251.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+

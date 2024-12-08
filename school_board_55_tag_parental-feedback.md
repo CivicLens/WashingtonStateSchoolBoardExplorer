@@ -8,3 +8,20 @@ Additionally, the board tabled the first reading of Board Policy 3242 - Closed C
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-10-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Mike Bly](board_member_278.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_276.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Mike Bly](board_member_278.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_276.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Mike Bly](board_member_278.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_276.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_277.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+

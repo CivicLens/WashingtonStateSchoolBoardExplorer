@@ -1,4 +1,4 @@
-# Meeting Summaries for Tag: neighborhood-high-school-programming
+# Meeting Summaries for SPOKANE_PUBLIC_SCHOOLS with Tag: neighborhood-high-school-programming
 
 ## 2024-03-06 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
 

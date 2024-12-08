@@ -6,3 +6,12 @@ The Federal Way Public Schools Board of Education convened on September 24, 2024
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-09-24-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Luckisha Phillips](board_member_119.md) | voted yes on approval of Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of September 24...[truncated, use api for full text] |
+| [Trudy Davis](board_member_121.md) | voted yes on approval of Required Approvals Agenda | Seconded by Director Trudy Davis. |
+| [Luckisha Phillips](board_member_119.md) | voted yes on approval of Resolution 2024-13: Authorization of Surplus Disposition | Vice President Luckisha Phillips moved that the Board of Education approve Resolution 2024-13: Authorization of Surplus ...[truncated, use api for full text] |
+| [Quentin Morris](board_member_120.md) | voted yes on approval of Resolution 2024-13: Authorization of Surplus Disposition | Seconded by Director Quentin Morris. |
+

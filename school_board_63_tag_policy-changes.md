@@ -1,5 +1,17 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: policy-changes
 
+## 2024-12-05 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 held a Special Board Meeting on December 5, 2024, primarily focused on the executive session to review the performance of Superintendent Dr. Christopher Granger. The executive session lasted until 9:30 p.m., during which the board discussed the superintendent's performance evaluation. Following the closed session, the board considered taking action on the superintendent's evaluation, which included a proposal to extend Dr. Granger's employment contract through June 30, 2028. However, the board voted to table this action item until the next regular meeting on December 10, 2024, due to concerns about attendance. All directors were present, and the meeting concluded with a unanimous vote to adjourn at 9:28 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-12-05-minutes.txt)
+
+## 2024-11-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 Regular Board Meeting held on November 25, 2024, addressed several key issues, including community engagement and policy changes. Public comments highlighted concerns regarding the district's reputation and the need for positivity, with individuals like Pat Jerns advocating for a name change to Birch Bay Blaine School District. Dr. Christopher Granger, the superintendent, reported on a grassroots effort to set up a townhall meeting with local legislators, indicating an emphasis on community involvement. Additionally, the board conducted a first reading of updated policies to comply with 2024 Title IX regulations, including Policy 3205 on sex discrimination and Policy 5011 on harassment of district staff. The board also discussed the implications of COVID vaccine lawsuits, reflecting ongoing concerns about student health and well-being.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-25-minutes.txt)
+
 ## 2024-11-21 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 held a Special Board Meeting on November 21, 2024, which included an executive session focused on the selection of a site or the acquisition of real estate and the performance review of a public employee. The executive session was initially scheduled for thirty minutes but was extended to last until 6:30 p.m. The meeting concluded with a unanimous vote to adjourn, with the motion carried 4-0, noting that Director Erika Creydt was not present for the vote. The minutes from the meeting were approved on November 25, 2024.

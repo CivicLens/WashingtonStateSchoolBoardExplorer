@@ -20,6 +20,7 @@ No current board members available.
 - [parental-rights](school_board_88_tag_parental-rights.md)
 - [agenda](school_board_88_tag_agenda.md)
 - [parental-feedback](school_board_88_tag_parental-feedback.md)
+- [neighborhood-high-school-programming](school_board_88_tag_neighborhood-high-school-programming.md)
 - [academic-standards](school_board_88_tag_academic-standards.md)
 - [student-autonomy](school_board_88_tag_student-autonomy.md)
 - [diversity-inclusion](school_board_88_tag_diversity-inclusion.md)

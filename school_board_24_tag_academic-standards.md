@@ -6,11 +6,31 @@ The Federal Way Public School District No. 210 Board of Education held a regular
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-27-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Luckisha Phillips](board_member_119.md) | voted yes on approval of the Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of February 27,...[truncated, use api for full text] |
+| [Quentin Morris](board_member_120.md) | voted yes on approval of the Required Approvals Agenda | Seconded by Director Quentin Morris. |
+| [Luckisha Phillips](board_member_119.md) | voted yes on approval of Sub End 2 - A Dream - Academic Achievement is in compliance | Vice President Luckisha Phillips moved that the Board of Education approve that Sub End 2 - A Dream - Academic Achieveme...[truncated, use api for full text] |
+| [Quentin Morris](board_member_120.md) | voted yes on approval of Sub End 2 - A Dream - Academic Achievement is in compliance | Seconded by Director Quentin Morris. |
+
 ## 2024-02-13 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
 The Federal Way Public School District No. 210 held a Board Meeting on February 13, 2024, where several key actions were taken. Notably, the Board approved the adoption of the 3-5 and 6-8 English Language Arts (ELA) Curriculum, which aligns with academic standards and aims to enhance curriculum transparency. Additionally, the Board passed Resolution 2024-02, which authorizes surplus disposition requirements as stipulated by RCW 28A.335.180. Superintendent Dr. Dani Pfeiffer introduced community engagement initiatives and recognized the contributions of community partners, emphasizing the importance of collaboration in education. The meeting also featured reports from scholar representatives, highlighting the involvement of students in school governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-02-13-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Trudy Davis](board_member_121.md) | voted yes on approval of the Required Approvals Agenda | Director Trudy Davis moved that the Board of Education approve the Required Approvals Agenda of February 13, 2024 as sub...[truncated, use api for full text] |
+| [Luckisha Phillips](board_member_119.md) | voted yes on approval of the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
+| [Trudy Davis](board_member_121.md) | voted yes on adoption of the 3-5 and 6-8 ELA Curriculum | Director Trudy Davis moved that the Board of Education approve the adoption of the 3-5 and 6-8 ELA Curriculum as present...[truncated, use api for full text] |
+| [Joan Marie Murphy](board_member_122.md) | voted yes on adoption of the 3-5 and 6-8 ELA Curriculum | Seconded by Director Joan Marie Murphy. |
+| [Luckisha Phillips](board_member_119.md) | voted yes on Resolution 2024-02: Authorization of Surplus Disposition Requirements | Vice President Luckisha Phillips moved that the Board of Education approve Resolution 2024-02 as submitted. |
+| [Trudy Davis](board_member_121.md) | voted yes on Resolution 2024-02: Authorization of Surplus Disposition Requirements | Seconded by Director Trudy Davis. |
 
 ## 2024-02-06 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 

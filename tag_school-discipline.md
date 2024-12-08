@@ -18,6 +18,21 @@ The Board Work Session held on September 24, 2024, focused on several key areas 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-09-24-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Linda Roberts](board_member_356.md) | voted yes on approval of the September 24, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Leticia Zesati. |
+| [Leticia Zesati](board_member_355.md) | voted yes on approval of the September 24, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Leticia Zesati. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of the September 24, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Leticia Zesati. |
+| [Stephen Berg](board_member_359.md) | voted yes on approval of the September 24, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Leticia Zesati. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on adjournment of the September 24, 2024 Board Work Session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_356.md) | voted yes on adjournment of the September 24, 2024 Board Work Session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion to close the meeting to the public for closed session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_356.md) | voted yes on motion to close the meeting to the public for closed session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion to extend closed session | Director Patterson announced a 15 minute extension. |
+| [Stephen Berg](board_member_359.md) | voted yes on motion to extend closed session | Director Berg announced a 15 minute extension. |
+
 ## 2024-09-19 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
 The Bremerton School District Board of Directors held a regular meeting on September 19, 2024, where several key topics were discussed, including the first reading of Policy 3241 concerning Student Discipline. This policy aligns with OSPI's emergency rules, which introduce terms like "discretionary discipline" and "nondiscretionary discipline" to provide more flexibility in managing student behavior. The board also addressed the 2024-27 Bremerton Education Association Cooperative Working Agreement, which includes provisions for professional development and stipends for dual language and special education teachers. 
@@ -111,6 +126,27 @@ The Yakima School District #7 Business Board Meeting on February 26, 2024, highl
 The minutes from the Regular School Board Meeting on February 8, 2024, detail several policy changes approved by the board. Notable among these are the first and final readings of MB Policy 1400, which addresses Meeting Conduct, Order of Business, and Quorum; MB Policy 1611, which concerns Conflicts of Interest for districts with fewer than 2,000 students; and MB Policy 3207, which prohibits Harassment, Intimidation, and Bullying of Students. The board unanimously approved these policies, reflecting a commitment to maintaining order and safety within the school environment. Additionally, the meeting highlighted various community engagements and events, including Black History Month and School Counselors Week, indicating a focus on inclusivity and support for students' social and emotional well-being.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
 
 ## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

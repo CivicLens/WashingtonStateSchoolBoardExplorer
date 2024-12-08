@@ -12,11 +12,35 @@ The Bellingham School District Board of Directors held a regular meeting on Apri
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a regular meeting on March 14, 2024, where they addressed several key issues including the adoption of Resolution #08-24, which authorizes the sale of surplus district-owned property on West Maplewood Avenue. No public testimony was offered during the hearing on this resolution. Superintendent Greg Baker reported on budget developments for the 2024-25 school year, indicating that the state is not heavily investing in PreK-12 public education, although there were increases in special education, supplies, and paraeducator staffing. The board discussed monitoring responses for policies EL-3 (Treatment and Communication with Public, Parents and Students), EL-4 (Staff Treatment, Compensation and Evaluation), and Ends 2.1 (Part 1, Student Competence), with commendations for effective communication and outreach efforts. Challenges related to teacher and staff shortages were noted, particularly in relation to substitute availability. The board emphasized the importance of community engagement and the ongoing need for programs that support special education and academic standards.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
 
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

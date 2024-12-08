@@ -36,6 +36,13 @@ The April 18, 2024 Regular Business Meeting of the Board of Directors included a
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-04-18-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Carolyn Watson](board_member_109.md) | voted yes on motion to approve the agenda | The motion was approved by unanimous voice vote at 4:38 pm. |
+| [Phil Bloch](board_member_108.md) | voted yes on motion to approve the consent agenda | The Motion was approved by unanimous voice vote at 4:39 pm. |
+
 ## 2024-03-07 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The text discusses recent updates to school board policies focusing on inclusivity and diversity, particularly regarding LGBTQ+ students. A new policy was introduced to ensure that all students feel safe and supported in their school environment, emphasizing the importance of representation and acceptance of diverse identities. Furthermore, the board voted to remove outdated terminology from existing policies, reflecting a commitment to modernizing language to be more inclusive. This change aligns with broader efforts to promote diversity and inclusion within the school curriculum and activities. The discussions included input from various stakeholders, highlighting the board's intention to engage the community in these policy changes.
@@ -53,4 +60,16 @@ The school board discussed several policy changes aimed at enhancing diversity a
 The minutes from the January 11, 2024, Regular Business Meeting of the Board of Directors included several key actions and updates relevant to policy changes and diversity initiatives. Notably, the board approved the 2024 Multilingual Learner Education Report, which aims to enhance educational strategies for multilingual students, reflecting an emphasis on diversity and inclusion within the curriculum. Additionally, the board approved the 2024 Legislative Priorities, which may influence future policy directions, although specific details were not elaborated in the minutes. The meeting also featured a student update and acknowledgments, highlighting the board's commitment to community engagement and the inclusion of student voices in decision-making processes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-11-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Phil Bloch](board_member_108.md) | voted yes on motion 2024-0111-02 to approve Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Carolyn Watson](board_member_109.md) | voted yes on motion 2024-0111-03 to approve the 2024 Multilingual Learner Education Report | The motion was part of the reports presented during the meeting. |
+| [Carolyn Watson](board_member_109.md) | voted yes on motion 2024-0111-04 to approve the 2024 Legislative Priorities | The motion was discussed under Board Business. |
+| [Monica Webster](board_member_111.md) | voted yes on motion 2024-0111-02 to approve Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0111-02 to approve Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0111-03 to approve the 2024 Multilingual Learner Education Report | The motion was part of the reports presented during the meeting. |
+| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0111-04 to approve the 2024 Legislative Priorities | The motion was discussed under Board Business. |
 

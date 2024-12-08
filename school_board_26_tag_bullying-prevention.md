@@ -8,3 +8,18 @@ The meeting also featured public comments addressing issues such as Islamophobia
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Leah Choi](board_member_128.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to table the Inclusionary Practices Program Update | The agenda item was tabled to a future meeting. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+

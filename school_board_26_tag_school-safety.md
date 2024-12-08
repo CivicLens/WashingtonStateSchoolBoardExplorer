@@ -6,3 +6,15 @@ The Lake Washington School District Board of Directors held a meeting on January
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Leah Choi](board_member_128.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Mark Stuart](board_member_132.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+

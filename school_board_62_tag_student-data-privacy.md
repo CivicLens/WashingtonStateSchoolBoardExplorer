@@ -6,6 +6,21 @@ The Bellingham School District Board of Directors held a regular meeting on Apri
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The special meeting of the Bellingham School District Board of Directors on February 27, 2024, focused on gathering student perspectives, particularly from members of the GSA (Gender and Sexuality Alliance) Club at Whatcom Middle School. The discussions highlighted the importance of safe spaces for LGBTQ+ students, with participants expressing feelings of fear and the need for supportive adult relationships. Key concerns included the visibility and accessibility of gender-neutral restrooms, which many students found uncomfortable or unsafe. The students emphasized the role of the GSA Club as a refuge, fostering a sense of belonging and community. They also called for greater attention to social and emotional well-being and a desire for inclusive education that includes LGBTQ+ history. The meeting underscored the importance of student voice in shaping school policies and improving the overall middle school experience. School Board President Douglas Benjamin and Executive Director of Communications Jackie Brawley acknowledged the value of these discussions in guiding the district's efforts to create a more inclusive environment.

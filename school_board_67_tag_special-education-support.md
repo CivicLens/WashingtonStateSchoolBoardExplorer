@@ -6,3 +6,14 @@ The regular school board meeting held on April 25, 2024, included significant di
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-04-25-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 2410 High School Graduation Requirements | Ms. Breanna Reaugh made a motion to approve MB Policy 2410 High School Graduation Requirements for first and final readi...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on MB Policy 2410 High School Graduation Requirements | Ms. Breanna Reaugh made a motion to approve MB Policy 2410 High School Graduation Requirements for first and final readi...[truncated, use api for full text] |
+

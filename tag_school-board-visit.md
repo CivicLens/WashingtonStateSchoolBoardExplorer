@@ -1,5 +1,11 @@
 # Meeting Summaries for Tag: school-board-visit
 
+## 2024-11-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 Regular Board Meeting held on November 25, 2024, addressed several key issues, including community engagement and policy changes. Public comments highlighted concerns regarding the district's reputation and the need for positivity, with individuals like Pat Jerns advocating for a name change to Birch Bay Blaine School District. Dr. Christopher Granger, the superintendent, reported on a grassroots effort to set up a townhall meeting with local legislators, indicating an emphasis on community involvement. Additionally, the board conducted a first reading of updated policies to comply with 2024 Title IX regulations, including Policy 3205 on sex discrimination and Policy 5011 on harassment of district staff. The board also discussed the implications of COVID vaccine lawsuits, reflecting ongoing concerns about student health and well-being.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-25-minutes.txt)
+
 ## 2024-10-29 - PULLMAN_SCHOOL_DISTRICT (Minutes)
 
 The City of Pullman held a regular council meeting on October 29, 2024, where key discussions included the proposed 2025-2026 Biennial Budget, which indicates that General Fund expenditures will exceed projected revenues, necessitating a temporary redirection of Business and Occupation Tax Revenue from the Transit Fund to the General Fund. This redirection aims to maintain services in various city departments while meeting a fund reserve threshold goal of 13%. Additionally, the council discussed affordable housing, transportation needs, and childcare options, with specific emphasis on the importance of a freight mobility study and support for a proposed in-town rail project. The council also presented its 2025 Legislative Priorities to local legislators, addressing issues such as healthcare, mental health, and economic development in the community. 
@@ -20,6 +26,19 @@ The Regular Board Meeting held on October 14, 2024, included significant communi
 The Regular Board of Directors Meeting held on September 26, 2024, included discussions on various topics, particularly the Strategic Plan Presentation by Angel and Sandra, which focused on the ongoing work within the district regarding long-term strategic goals. The Board made several policy changes, including the tabling of Policy 2124 and Policy 6702, while also amending Policy 2023. The meeting recognized community engagement with public comments from community members and acknowledgments of staff contributions, including a recognition of Sandra Linde's years of service on the Sunnyside School Board. Additionally, Superintendent Maxwell reported on recent events, including partnerships and upcoming school activities, further emphasizing the Board's commitment to transparency and community involvement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-09-26-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Leticia Zesati](board_member_355.md) | voted yes on approval of the Fee and Fines | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of the Fee and Fines | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_356.md) | voted yes on approval of the Fee and Fines | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Stephen Berg](board_member_359.md) | voted yes on approval of the Fee and Fines | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Leticia Zesati](board_member_355.md) | voted yes on the consent agenda items including payroll and vouchers, budget status, personnel, and enrollment | All motions carried with support from Jilliann Patterson and Linda Roberts. |
+| [Linda Roberts](board_member_356.md) | voted yes on the consent agenda items including payroll and vouchers, budget status, personnel, and enrollment | All motions carried with support from Jilliann Patterson and Leticia Zesati. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on the consent agenda items including payroll and vouchers, budget status, personnel, and enrollment | All motions carried with support from Linda Roberts and Leticia Zesati. |
+| [Stephen Berg](board_member_359.md) | voted yes on the consent agenda items including payroll and vouchers, budget status, personnel, and enrollment | All motions carried with support from Jilliann Patterson and Linda Roberts. |
 
 ## 2024-09-17 - YAKIMA_SCHOOL_DISTRICT (Minutes)
 
@@ -45,6 +64,18 @@ The Selah School District No. 119 Board of Directors held a meeting on August 22
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-08-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jamie Morford](board_member_352.md) | voted yes on approval of regular meeting minutes of July 25, 2024 | Motion by Jamie Morford, second by Dan Peters. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of Human Resources Action Sheet | Motion by Dan Peters. Motion passed 4-0-1 (Derek Iverson abstained from the vote). |
+| [Dan Peters](board_member_353.md) | voted yes on approval of Payroll, Goods and Services for August 2024 | Motion by Dan Peters, second by Jamie Morford. Motion carried 5/0. |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of policy updates | Motion by Jamie Morford, second by Dan Peters. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of donation of $500 from Brian and Fran Harris | Motion by Dan Peters, second by Jamie Morford. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of overnight travel request | Motion by Dan Peters, second by Jamie Morford. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of resolutions for Out of Endorsement Assignments | Motion by Dan Peters, second by Derek Iverson. Motion carried 5/0. |
+
 ## 2024-08-13 - PULLMAN_SCHOOL_DISTRICT (Minutes)
 
 The City Council of Pullman held a regular meeting on August 13, 2024, where various community members urged the passing of a ceasefire resolution. Councilmember Carla De Lira announced a listening session on this topic scheduled for August 19, 2024. The meeting also included presentations on the Dwelling Inspection Program, which provides life-safety inspections for residential rentals at no cost, and financial updates from Finance Director Jeff Elbracht. The Council approved several resolutions, including RESOLUTION NO. R-53-24, which authorized a new Interstate Agreement for the Palouse Basin Aquifer Committee to ensure a long-term water supply, and RESOLUTION NO. R-54-24, which authorized a consultant agreement for pedestrian crossing improvements. The meeting concluded with an Executive Session regarding real estate considerations.
@@ -62,6 +93,19 @@ The Yakima School District #7 Board Meeting held on August 5, 2024, addressed cr
 The Selah School District Board of Directors meeting on July 25, 2024, included a public comment from Mary Schuler, a guardian of children in schools, who raised concerns about a K-12 LGBTQ+ program being introduced in August. She indicated that funding for this program could be lost and stated her intention to provide additional information to the board. The meeting also featured a presentation from graduating senior Indiana Hilmes, recognition of student achievements, and discussions regarding the 2024-25 budget, which is projected to have a $1.3 million deficit while maintaining reserves of $8.9 million. The board approved several resolutions, including Resolution No. 2024-12 for the adoption of the 2024-25 budget and Resolution No. 2024-11 for the designation of auditing officers.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-07-25-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on approval of regular meeting minutes of June 27, 2024 | Motion by Dan Peters, second by Derek Iverson. Motion carried 5/0. |
+| [Derek Iverson](board_member_350.md) | voted yes on approval of regular meeting minutes of June 27, 2024 | Motion by Dan Peters, second by Derek Iverson. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of the consent agenda | That the board approves the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried ...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of the consent agenda | That the board approves the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried ...[truncated, use api for full text] |
+| [Dan Peters](board_member_353.md) | voted yes on adoption of 2024-25 budget | That the board of directors approve Resolution No. 2024-12 Adoption of 2024-25 Budget, as presented. Motion by Dan Peter...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on adoption of 2024-25 budget | That the board of directors approve Resolution No. 2024-12 Adoption of 2024-25 Budget, as presented. Motion by Dan Peter...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of Resolution No. 2024-11 Designation of Auditing Officers | That the board of directors approve Resolution No. 2024-11 Designation of Auditing Officers, Resolution No. 2024-13 Tran...[truncated, use api for full text] |
+| [Sarah Michael](board_member_351.md) | voted yes on approval of Resolution No. 2024-11 Designation of Auditing Officers | That the board of directors approve Resolution No. 2024-11 Designation of Auditing Officers, Resolution No. 2024-13 Tran...[truncated, use api for full text] |
 
 ## 2024-07-09 - YAKIMA_SCHOOL_DISTRICT (Minutes)
 
@@ -81,6 +125,19 @@ The Board Work Session held on June 25, 2024, included a review of the agenda an
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-06-25-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jory Anderson](board_member_358.md) | voted yes on approval of the June 25, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Leticia Zesati. |
+| [Leticia Zesati](board_member_355.md) | voted yes on approval of the June 25, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Leticia Zesati. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on approval of the June 25, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Leticia Zesati. |
+| [Linda Roberts](board_member_356.md) | voted yes on approval of the June 25, 2024 Board Work Session Agenda | Motion by Jory Anderson, second by Leticia Zesati. |
+| [Jory Anderson](board_member_358.md) | voted yes on adjournment of the June 25, 2024 Board Work Session | Motion by Jory Anderson, second by Leticia Zesati. |
+| [Leticia Zesati](board_member_355.md) | voted yes on adjournment of the June 25, 2024 Board Work Session | Motion by Jory Anderson, second by Leticia Zesati. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on adjournment of the June 25, 2024 Board Work Session | Motion by Jory Anderson, second by Leticia Zesati. |
+| [Linda Roberts](board_member_356.md) | voted yes on adjournment of the June 25, 2024 Board Work Session | Motion by Jory Anderson, second by Leticia Zesati. |
+
 ## 2024-06-24 - YAKIMA_SCHOOL_DISTRICT (Minutes)
 
 The Yakima School District #7 Business Board Meeting held on June 24, 2024, addressed several key topics related to academic standards and community engagement. The board recognized the importance of social-emotional learning (SEL) and discussed the implementation of SEL training as part of the curriculum enhancements led by Principal Lucas Jaeger of the Discovery Early Learning Center. Jaeger also presented the 1000.1.0 ENDS Report Goal #1, which included alignment between preschool instruction and YSD standards. The board approved the 0580 Student Voice Policy, which aims to empower students and enhance their involvement in decision-making processes, acknowledging the efforts of students Ezra Rottman, Luanna Huang, and Andrea Cabellos in developing this policy. Additionally, the board addressed budget cuts impacting high school bands and the migrant student population, with 9.2% of YSD students identified as migrant. The meeting also included updates on financial reports and a discussion on the delegation of authority to the Washington Interscholastic Activities Association (WIAA).
@@ -92,6 +149,21 @@ The Yakima School District #7 Business Board Meeting held on June 24, 2024, addr
 The Special Board Meeting held on April 30, 2024, focused on the discussion of the Strategic Plan, which is a long-term strategic initiative for the Board. The meeting included a closed session that addressed collective bargaining sessions and grievance meetings related to labor agreements. The Board members present included Jilliann Patterson, Stephen Berg, Linda Roberts, and Jory Anderson. The meeting was called to order by Director Berg at 5:00 PM, following a motion to approve the meeting agenda which carried unanimously. The Board adjourned the meeting at 9:00 PM after discussing the Strategic Plan and taking various motions that were also passed unanimously.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-30-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion for closed session regarding collective bargaining sessions | The Board went into a closed session for 20 minutes to discuss collective bargaining sessions. |
+| [Stephen Berg](board_member_359.md) | voted yes on motion for closed session regarding collective bargaining sessions | The Board went into a closed session for 20 minutes to discuss collective bargaining sessions. |
+| [Linda Roberts](board_member_356.md) | voted yes on motion for closed session regarding collective bargaining sessions | The Board went into a closed session for 20 minutes to discuss collective bargaining sessions. |
+| [Jory Anderson](board_member_358.md) | voted yes on motion for closed session regarding collective bargaining sessions | The Board went into a closed session for 20 minutes to discuss collective bargaining sessions. |
+| [Linda Roberts](board_member_356.md) | voted yes on motion to approve the agenda | The Board approved the April 30, 2024 Special Board Meeting Agenda. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion to approve the agenda | The Board approved the April 30, 2024 Special Board Meeting Agenda. |
+| [Jory Anderson](board_member_358.md) | voted yes on motion to adjourn the meeting | The Board adjourned the April 30, 2024 Special Board Meeting. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion to adjourn the meeting | The Board adjourned the April 30, 2024 Special Board Meeting. |
+| [Stephen Berg](board_member_359.md) | voted yes on motion to adjourn the meeting | The Board adjourned the April 30, 2024 Special Board Meeting. |
+| [Linda Roberts](board_member_356.md) | voted yes on motion to adjourn the meeting | The Board adjourned the April 30, 2024 Special Board Meeting. |
 
 ## 2024-04-22 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
@@ -107,11 +179,69 @@ The Regular Board of Directors Meeting held on February 29, 2024, included sever
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-02-29-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jilliann Patterson](board_member_357.md) | voted yes on Perkins Grant | Approval of Perkins Grant - Holly O. |
+| [Stephen Berg](board_member_359.md) | voted yes on Perkins Grant | Approval of Perkins Grant - Holly O. |
+| [Linda Roberts](board_member_356.md) | voted yes on Perkins Grant | Approval of Perkins Grant - Holly O. |
+| [Jory Anderson](board_member_358.md) | voted yes on Perkins Grant | Approval of Perkins Grant - Holly O. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on April 26, 2024 Snow Makeup Day | Approval Of April 26, 2024 Snow Makeup Day |
+| [Stephen Berg](board_member_359.md) | voted yes on April 26, 2024 Snow Makeup Day | Approval Of April 26, 2024 Snow Makeup Day |
+| [Linda Roberts](board_member_356.md) | voted yes on April 26, 2024 Snow Makeup Day | Approval Of April 26, 2024 Snow Makeup Day |
+| [Jory Anderson](board_member_358.md) | voted yes on April 26, 2024 Snow Makeup Day | Approval Of April 26, 2024 Snow Makeup Day |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Copier Company | Approval of Copier Company |
+| [Stephen Berg](board_member_359.md) | voted yes on Copier Company | Approval of Copier Company |
+| [Linda Roberts](board_member_356.md) | voted yes on Copier Company | Approval of Copier Company |
+| [Jory Anderson](board_member_358.md) | voted yes on Copier Company | Approval of Copier Company |
+| [Jilliann Patterson](board_member_357.md) | voted yes on January 23, 2024 Board Work Session Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Stephen Berg](board_member_359.md) | voted yes on January 23, 2024 Board Work Session Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Linda Roberts](board_member_356.md) | voted yes on January 23, 2024 Board Work Session Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jory Anderson](board_member_358.md) | voted yes on January 23, 2024 Board Work Session Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on January 25, 2024 Regular Board of Directors Meeting Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Stephen Berg](board_member_359.md) | voted yes on January 25, 2024 Regular Board of Directors Meeting Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Linda Roberts](board_member_356.md) | voted yes on January 25, 2024 Regular Board of Directors Meeting Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jory Anderson](board_member_358.md) | voted yes on January 25, 2024 Regular Board of Directors Meeting Minutes | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Policies - 1st Reading | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Stephen Berg](board_member_359.md) | voted yes on Policies - 1st Reading | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Linda Roberts](board_member_356.md) | voted yes on Policies - 1st Reading | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jory Anderson](board_member_358.md) | voted yes on Policies - 1st Reading | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Payroll and Vouchers | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Stephen Berg](board_member_359.md) | voted yes on Payroll and Vouchers | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Linda Roberts](board_member_356.md) | voted yes on Payroll and Vouchers | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jory Anderson](board_member_358.md) | voted yes on Payroll and Vouchers | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Budget Status | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Stephen Berg](board_member_359.md) | voted yes on Budget Status | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Linda Roberts](board_member_356.md) | voted yes on Budget Status | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jory Anderson](board_member_358.md) | voted yes on Budget Status | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Personnel/Out of Endorsement | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Stephen Berg](board_member_359.md) | voted yes on Personnel/Out of Endorsement | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Linda Roberts](board_member_356.md) | voted yes on Personnel/Out of Endorsement | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jory Anderson](board_member_358.md) | voted yes on Personnel/Out of Endorsement | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on Enrollment | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Stephen Berg](board_member_359.md) | voted yes on Enrollment | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Linda Roberts](board_member_356.md) | voted yes on Enrollment | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+| [Jory Anderson](board_member_358.md) | voted yes on Enrollment | Approval of January 23, 2024 Consent - The Board reviewed Consent items during the February 27, 2024 Board Work Session. |
+
 ## 2024-01-11 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
 
 The Board Work Session held on January 11, 2024, included presentations from Elementary Principals and Vice Principals regarding the implementation of the district's long-term strategic plan within their schools. The Board expressed gratitude for the insights shared during these presentations, indicating a focus on the effectiveness of the strategic initiatives. Additionally, the session included an executive discussion concerning the performance of a public employee, which was extended twice, reflecting a thorough examination of personnel matters. The meeting concluded with a motion to adjourn, which was unanimously supported by all members present.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-11-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion to extend executive session | Jilliann Patterson motioned to extend the executive session for 15 minutes. |
+| [Jory Anderson](board_member_358.md) | voted yes on motion to extend executive session | Jory Anderson seconded the motion to extend the executive session for 15 minutes. |
+| [Stephen Berg](board_member_359.md) | voted yes on motion to extend executive session | Stephen Berg stepped out to announce the need for an extension of time during the executive session. |
+| [Linda Roberts](board_member_356.md) | voted yes on motion to extend executive session | Linda Roberts seconded the motion to extend the executive session for 15 minutes. |
+| [Jilliann Patterson](board_member_357.md) | voted yes on motion to adjourn the meeting | Linda Roberts motioned to adjourn the meeting, and Jilliann Patterson voted in favor. |
+| [Jory Anderson](board_member_358.md) | voted yes on motion to adjourn the meeting | Jory Anderson seconded the motion to adjourn the meeting. |
+| [Stephen Berg](board_member_359.md) | voted yes on motion to adjourn the meeting | Stephen Berg voted in favor of adjourning the meeting. |
+| [Linda Roberts](board_member_356.md) | voted yes on motion to adjourn the meeting | Linda Roberts motioned to adjourn the meeting, and voted in favor. |
 
 ## 2024-01-10 - WAPATO_SCHOOL_DISTRICT (Minutes)
 

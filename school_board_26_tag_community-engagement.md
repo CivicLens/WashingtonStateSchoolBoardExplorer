@@ -12,11 +12,44 @@ The August 19, 2024 Board Meeting of the Lake Washington Board of Directors incl
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-08-19-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the 2024-25 budget | The Board took formal action to approve the 2024-25 budget. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Leah Choi](board_member_128.md) | voted yes on resolution to approve the closure of the Futures School | The Board took formal action to approve the closure of the Futures School. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to accept donations | The resolution was to accept the donations as presented. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Leah Choi](board_member_128.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the Human Resources Report and Salary Schedule | The resolution was to approve the Human Resources Report and Salary Schedule, as presented. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Leah Choi](board_member_128.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the agenda | The resolution was to approve the agenda as presented. |
+
 ## 2024-08-05 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The August 5, 2024 Board Meeting of the Lake Washington School District Board of Directors included several key resolutions and updates. The Board approved multiple consent agenda items, including the Human Resources Report and waivers for out-of-endorsement assignments for teachers. Notably, they authorized the Superintendent to enter into Interdistrict Cooperative Agreements with both the Edmonds School District and Highline College for special education programs for the 2024-2025 school year, emphasizing their commitment to special education support. The meeting also featured a public hearing regarding the adoption of the 2024-25 Budget, with no public comments received. The Board plans to take action on the budget at their next meeting on August 19, 2024. Additionally, Director Yocum reported on legislative engagement efforts, highlighting the district's proactive approach in connecting with local legislators and preparing for the upcoming legislative session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-08-05-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mark Stuart](board_member_132.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 3, Bylaw for Student Reps | The amendment relates to the bylaws for student representatives. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 3, Bylaw for Student Reps | The amendment relates to the bylaws for student representatives. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 8, Capital Facilities and School Construction | The amendment pertains to capital facilities and school construction. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 8, Capital Facilities and School Construction | The amendment pertains to capital facilities and school construction. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
+| [Leah Choi](board_member_128.md) | voted nay on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
 
 ## 2024-06-24 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -26,6 +59,17 @@ Additionally, the board appointed members of the Lake Washington Citizens Levy C
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-24-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Mark Stuart](board_member_132.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Eric Laliberte](board_member_131.md) | voted yes on the motion to adopt Resolution No. 2379 | Motion by Eric Laliberte, second by Lindsey Yocum. Final Resolution: Motion Carries |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the motion to adopt Resolution No. 2379 | Motion by Eric Laliberte, second by Lindsey Yocum. Final Resolution: Motion Carries |
+
 ## 2024-06-03 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The June 3, 2024 Board Meeting of the Lake Washington School District included significant discussions around diversity and inclusion, particularly in the context of Juneteenth recognition. Director Lisa Guthrie presented a statement acknowledging the historical importance of Juneteenth, emphasizing the ongoing struggle for freedom, equality, and justice, which aligns with the district's commitment to fostering an inclusive environment. The meeting also recognized the contributions of outgoing Student Representatives, Shivani Sama and Taran Srinivasan, highlighting community engagement and student involvement in governance. 
@@ -34,11 +78,48 @@ Additionally, the Board unanimously approved Resolution No. 2375, which authoriz
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-03-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Leah Choi](board_member_128.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the election of Board President | Director Yocum nominated Director Choi for the position of President of the LWSD Board of Directors. |
+| [Leah Choi](board_member_128.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the election of Board Vice President | Director Laliberte nominated Director Guthrie for the position of Vice President of the LWSD Board of Directors. |
+| [Leah Choi](board_member_128.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the election of Legislative Representative | Director Guthrie nominated Director Yocum for the position of Legislative Representative. |
+| [Leah Choi](board_member_128.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda | RESOLUTION: Approve the consent agenda as presented. |
+| [Leah Choi](board_member_128.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the Construction Levy | The Board unanimously approved Resolution No. 2375, Construction Levy. |
+
 ## 2024-05-20 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The May 20, 2024 Board Meeting of the Lake Washington School District included several key actions and discussions. The board recognized the 2024 Washington Association of School Administrators (WASA) Region 110 Awards, highlighting student leadership from Redmond High School and community contributions. A significant policy change discussed was the recommendation to close the Futures School, which is set for a formal vote at the August 19, 2024 Board Meeting. This recommendation follows a review of data, community feedback, and consideration of alternative methods to address credit deficiencies. Additionally, the board unanimously approved the OE-9 Sustainability Policy, which establishes operational expectations for sustainability within the district. Superintendent Dr. Holmen provided insights on funding challenges faced by Washington state schools, advocating for legislative support to fully fund special education and operational costs. The meeting concluded with updates on school visits and committee activities, emphasizing ongoing community engagement in educational initiatives.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-20-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the agenda | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the agenda | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Leah Choi](board_member_128.md) | voted yes on approving the consent agenda | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the consent agenda | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on approving the consent agenda | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Eric Laliberte](board_member_131.md) | voted yes on adopting the OE-9 Sustainability Policy | Motion by Eric Laliberte second by Mark Stuart. |
+| [Mark Stuart](board_member_132.md) | voted yes on adopting the OE-9 Sustainability Policy | Motion by Eric Laliberte second by Mark Stuart. |
 
 ## 2024-05-06 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -48,6 +129,21 @@ The meeting also featured public comments addressing issues such as Islamophobia
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Leah Choi](board_member_128.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to table the Inclusionary Practices Program Update | The agenda item was tabled to a future meeting. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+
 ## 2024-04-15 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The April 15, 2024 Board Meeting of the Lake Washington School District addressed several key topics, including student mental health and community engagement. Notably, students Urja Varatkar and Kaeya Joshi presented on the campaign to reduce academic stress, highlighting mental health concerns related to academic pressures. The Board also recognized April as Arts in Education Month and declared the week of April 29-May 3, 2024, as School Nutrition Employee Week. 
@@ -56,11 +152,73 @@ In terms of policy changes, the Board held a first reading of revised policy Ope
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-04-15-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the agenda | Motion by Eric Laliberte, second by Mark Stuart. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the vouchers | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Study Session | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Board Meeting | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to approve the Human Resources Report | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution for out-of-endorsement assignment waiver | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to accept donations | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to adopt instructional materials | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution to adopt OGP-03 as revised | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution No. 2367 for WANIC Long-Range Plan | Final Resolution: Motion Carries. |
+| [Eric Laliberte](board_member_131.md) | voted yes on resolution No. 2365 to redirect 2022 Construction Levy proceeds | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the agenda | Motion by Eric Laliberte, second by Mark Stuart. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the vouchers | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Study Session | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Board Meeting | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to approve the Human Resources Report | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution for out-of-endorsement assignment waiver | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to accept donations | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to adopt instructional materials | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution to adopt OGP-03 as revised | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution No. 2367 for WANIC Long-Range Plan | Final Resolution: Motion Carries. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on resolution No. 2365 to redirect 2022 Construction Levy proceeds | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the agenda | Motion by Eric Laliberte, second by Mark Stuart. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the vouchers | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Study Session | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Board Meeting | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to approve the Human Resources Report | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution for out-of-endorsement assignment waiver | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to accept donations | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to adopt instructional materials | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution to adopt OGP-03 as revised | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution No. 2367 for WANIC Long-Range Plan | Final Resolution: Motion Carries. |
+| [Mark Stuart](board_member_132.md) | voted yes on resolution No. 2365 to redirect 2022 Construction Levy proceeds | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the agenda | Motion by Eric Laliberte, second by Mark Stuart. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the vouchers | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Study Session | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the minutes of the March 25, 2024 Board Meeting | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to approve the Human Resources Report | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution for out-of-endorsement assignment waiver | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to accept donations | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to adopt instructional materials | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution to adopt OGP-03 as revised | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution No. 2367 for WANIC Long-Range Plan | Final Resolution: Motion Carries. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on resolution No. 2365 to redirect 2022 Construction Levy proceeds | Final Resolution: Motion Carries. |
+
 ## 2024-03-25 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The March 25, 2024 Board Meeting of the Lake Washington School District (LWSD) included significant discussions and resolutions regarding community engagement and policy changes. Notably, the board recognized April 2024 as School Library Month and received public comments on various topics, including concerns about LGBTQ+ education and the lack of trust in the Keller administration. The board also discussed revisions to the Washington State School Directors Association (WSSDA) positions, particularly emphasizing literacy as a civil right and the need for evidence-based literacy practices. Additionally, a resolution was passed to adopt a policy update related to graduation requirements, reflecting ongoing efforts to enhance curriculum transparency and inclusivity in education.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-25-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the consent agenda as presented and/or amended | Motion by Mark Stuart, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to adopt the proposed WSSDA positions as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to approve the Board Summary for monitoring report R-1, Mission of the District | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the Board Summary for monitoring report R-2, Academic Content Knowledge and Skills | Motion by Eric Laliberte, second by Mark Stuart. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the Board Summary for OE-3, Treatment of Community Stakeholders | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the Board Summary for OE-5, Financial Planning | Motion by Mark Stuart, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the Board Summary for OE-9, Communication and Engagement with the Community | Motion by Eric Laliberte, second by Lindsey Yocum. |
 
 ## 2024-03-15 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -74,11 +232,50 @@ The March 4, 2024 Board Meeting of the Lake Washington School District included 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-04-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the consent agenda | The consent agenda included various resolutions such as approving vouchers and instructional materials. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on motion to approve the consent agenda | The consent agenda included various resolutions such as approving vouchers and instructional materials. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to table the board summaries for OE-3, OE-5, and OE-9 to the March 25, 2024 board meeting | The board summaries pertained to monitoring reports on treatment of community stakeholders and financial planning. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to table the board summaries for OE-3, OE-5, and OE-9 to the March 25, 2024 board meeting | The board summaries pertained to monitoring reports on treatment of community stakeholders and financial planning. |
+| [Leah Choi](board_member_128.md) | voted yes on motion to approve the human resources report | The human resources report was presented as part of the consent agenda. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to approve the human resources report | The human resources report was presented as part of the consent agenda. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the conditional certificates as presented | The conditional certificates were part of the consent agenda. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the out-of-endorsement assignments for the teachers listed for the 2023-24 school year | The out-of-endorsement assignments were part of the consent agenda. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the donations as presented | The donations were part of the consent agenda. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to adopt the instructional materials for use in Lake Washington School District | The instructional materials were presented for adoption. |
+
 ## 2024-02-05 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The February 5, 2024, Board Meeting of the Lake Washington School District (LWSD) included significant discussions regarding board ethics and policy changes. The Board approved Resolution No. 2364, which involved a censure of Director Mark Stuart for violating Board Policies and the established Code of Conduct, as detailed in an investigative report. This resolution highlights the Board's commitment to maintaining high ethical standards among its members. Additionally, the meeting featured updates on community engagement efforts, including legislative advocacy, with President Leah Choi sharing her experiences from the National School Board Officials conference. The Board also approved several resolutions related to consent agenda items, such as the Human Resources Report and School Improvement Plans, indicating ongoing efforts to enhance operational transparency and accountability within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-02-05-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Leah Choi](board_member_128.md) | voted yes on the consent agenda | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Mark Stuart](board_member_132.md) | voted yes on the consent agenda | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on Resolution No. 2364 for censure | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on Resolution No. 2364 for censure | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Leah Choi](board_member_128.md) | voted yes on Resolution No. 2364 for censure | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Eric Laliberte](board_member_131.md) | voted yes on Resolution No. 2364 for censure | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Mark Stuart](board_member_132.md) | voted no on Resolution No. 2364 for censure | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the motion to amend the agenda to elect a new legislative representative | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the motion to amend the agenda to elect a new legislative representative | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the election of legislative representative | Lindsey Yocum nominated Lisa Guthrie. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the election of legislative representative | Lindsey Yocum nominated Lisa Guthrie. |
+| [Mark Stuart](board_member_132.md) | voted yes on the election of legislative representative | Lindsey Yocum nominated Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the election of legislative representative | Lindsey Yocum nominated Lisa Guthrie. |
+| [Leah Choi](board_member_128.md) | voted yes on the election of legislative representative | Lindsey Yocum nominated Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the monitoring report for R-2 Academic Content Knowledge and Skills | Motion by Eric Laliberte, second by Mark Stuart. |
+| [Mark Stuart](board_member_132.md) | voted yes on the monitoring report for R-2 Academic Content Knowledge and Skills | Motion by Eric Laliberte, second by Mark Stuart. |
 
 ## 2024-01-22 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -86,9 +283,48 @@ The Lake Washington School District Board of Directors held a meeting on January
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Leah Choi](board_member_128.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Mark Stuart](board_member_132.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+
 ## 2024-01-08 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The January 8, 2024, Board Meeting of the Lake Washington School District addressed several key topics including community engagement and diversity issues. Public comments highlighted concerns regarding antisemitism within the district and the future of multiculturalism, indicating a need for increased attention to diversity and inclusion. The board also approved various resolutions, including the adoption of instructional materials and updates to monitoring reports related to community stakeholder treatment and the learning environment. Notably, the board temporarily suspended the requirement for meetings to be broadcast due to technical difficulties, demonstrating flexibility in policy adherence under certain circumstances. The meeting included discussions about legislative advocacy efforts, emphasizing the importance of community engagement in shaping district priorities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-08-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on temporarily suspending the requirement in Policy OGP-3 | Motion: Laliberte, Second: Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on temporarily suspending the requirement in Policy OGP-3 | Motion: Laliberte, Second: Yocum. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the vouchers as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the vouchers as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the out-of-endorsement assignments | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the out-of-endorsement assignments | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on accepting the donations as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on accepting the donations as presented | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on adopting the instructional materials | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on adopting the instructional materials | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the updates to the indicators for R-1 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the updates to the indicators for R-1 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the Board Summary for Monitoring Report OE-4 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the Board Summary for Monitoring Report OE-4 | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the monitoring report for OE-3 | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on approving the monitoring report for OE-3 | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on approving the Board Summary for OE-10 | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the Board Summary for OE-10 | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on approving the Board Summary for OE-11 | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on approving the Board Summary for OE-11 | Motion by Eric Laliberte, second by Lindsey Yocum. |
 

@@ -150,6 +150,19 @@ The La Conner School Board held a regular meeting on August 26, 2024, where they
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [John Agen](board_member_251.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Alana Quintasket](board_member_250.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [John Agen](board_member_251.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Kim Pedroza](board_member_253.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Alana Quintasket](board_member_250.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [John Agen](board_member_251.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+
 ## 2024-08-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 held a Board Work Session on August 26, 2024, where Superintendent Dr. Christopher Granger provided an update on the district's 5-year Strategic Plan, emphasizing the importance of Professional Learning Communities (PLCs) and fiscal responsibility. The district is transitioning from STAR to i-Ready assessments to better align with academic standards and improve student achievement. Campus administrators presented their 2023-2024 End-of-Year Reports and 2024-2025 School Improvement Plans (SIPs), highlighting efforts to ensure high-quality Tier 1 instruction and addressing challenges with the Fountas & Pinnell literacy curriculum. Director Galbraith raised concerns about literacy performance, suggesting the removal of the F&P curriculum from the SIP, while discussions included the need for a balanced approach to reading instruction. The meeting also covered updates on the Blaine High School Virtual Learning program, which aims to support students facing personal challenges. The board plans to take action on the approval of the SIPs at the next regular meeting.
@@ -170,6 +183,16 @@ The Bellingham School District Board of Directors held a regular meeting on July
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve GP-7.2, Annual Board Agenda for 2024-25 | Ms. Rose made a motion, seconded by Ms. Mason, to approve GP-7.2, Annual Board Agenda for 2024-25. Unanimous approval. |
+
 ## 2024-06-21 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors convened a special meeting on June 21, 2024, at the Northshore Concert Hall to attend the graduation ceremony for Innovation Lab High School. The meeting commenced at 7:35 PM and was attended by board members Sandy Hayes, Jacqueline McGourty, Elisabeth Sotak, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The meeting was brief, concluding at 7:45 PM, with no specific policies, resolutions, or changes discussed during this session. The focus remained on the graduation event itself rather than any board governance issues or policy matters. The minutes were later approved on July 8, 2024, by Mr. Michael Tolley and Vice President Sandy Hayes.
@@ -183,6 +206,33 @@ The Bellingham School District Board of Directors held a regular meeting on June
 The board responded to monitoring reports related to academic standards and practices (EL-6), district calendar (EL-8), and student competence (Ends 2.1, Part 2), noting commendable progress in various areas, including improved graduation rates and increased participation in dual credit and Career and Technical Education (CTE) programs. They highlighted the need for continued efforts in mental health support and school safety, especially in light of recent events. Additionally, the board recognized the importance of community engagement in developing the district calendar and ensuring it meets the diverse needs of stakeholders. No specific changes to policies were identified during the meeting, indicating a focus on maintaining current standards and practices.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Scott Ritchey](board_member_313.md) | recused himself from voting on item 2.17 | Consent agenda item 2.17, Personnel Recommendations, contains a change in employment status for a family member who is a...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Scott Ritchey](board_member_313.md) | abstained from voting on consent agenda item 2.17 | Mr. Ritchey recused himself from voting on item 2.17 due to a conflict of interest. |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
 
 ## 2024-06-11 - PULLMAN_SCHOOL_DISTRICT (Minutes)
 
@@ -257,6 +307,19 @@ The Spokane Public Schools Board of Directors convened on May 22, 2024, to discu
 The May 9, 2024, School Board Meeting included the approval of several policies, specifically MB Policy 2004 regarding Performance Improvement Goals, MB Policy 2230 for the Transition to Kindergarten Program, and MB Policy 3142 concerning International Student Exchange, all of which were passed unanimously. Additionally, the board discussed the appointment of an Interim Superintendent for the 2024-25 school year, which also received unanimous approval. Community engagement was evident as audience members, including Theresa Sygitowicz and Holly Koons, expressed their concerns and support regarding the board's decisions and the interim superintendent's role. The meeting also highlighted the importance of teacher support, with acknowledgments of teachers' efforts and the completion of various community projects, emphasizing collaboration with local organizations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-09-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2004 Performance Improvement Goals for 2nd and final reading | Ms. Brenna Reaugh made a motion to approve MB Policy 2004 Performance Improvement Goals for 2nd and final reading. |
+| [Edward Fox](board_member_338.md) | voted yes on motion to approve MB Policy 2004 Performance Improvement Goals for 2nd and final reading | Mr. Edward Fox seconded the motion. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2230 Transition to Kindergarten Program for first and final reading | Ms. Brenna Reaugh made a motion to approve MB Policy 2230 Transition to Kindergarten Program for first and final reading...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2230 Transition to Kindergarten Program for first and final reading | Ms. Danielle Gray seconded the motion. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3142 International Student Exchange for first and final reading | Ms. Brenna Reaugh made a motion to approve MB Policy 3142 International Student Exchange for first and final reading. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3142 International Student Exchange for first and final reading | Ms. Danielle Gray seconded the motion. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the Consideration of Appointment of Interim Superintendent for the 24/25 School Year | Ms. Brenna Reaugh made a motion to approve the Consideration of Appointment of Interim Superintendent for the 24/25 Scho...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Consideration of Appointment of Interim Superintendent for the 24/25 School Year | Ms. Danielle Gray seconded the motion. |
 
 ## 2024-05-08 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -345,6 +408,33 @@ The special meeting of the Bellingham School District Board of Directors on Febr
 The Regular Board Meeting held on February 13, 2024, included significant discussions and approvals related to various board policies. Notably, the board approved revisions to Board Policy 3207, which addresses the Prohibition of Harassment, Intimidation, or Bullying, indicating a commitment to enhancing student safety and well-being. Additionally, Board Policy 3225 concerning School Based Threat Assessment was revised, reflecting the board's ongoing efforts to ensure a secure educational environment. The meeting also featured the first reading of revised Board Policy 5005, which pertains to Disclosures, Certification Requirements, Assurances, and Approval, suggesting a focus on accountability and transparency within the school district. The board's actions demonstrate a proactive approach to policy updates aimed at improving school safety and preventing bullying.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-13-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on the consent agenda | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
+| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
+| [Mike Bly](board_member_278.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
+| [Justin Voelker](board_member_276.md) | voted yes on the consent agenda | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
+| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
+| [Justin Voelker](board_member_276.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
 
 ## 2024-02-12 - WAPATO_SCHOOL_DISTRICT (Minutes)
 

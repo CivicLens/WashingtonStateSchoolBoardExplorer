@@ -8,3 +8,13 @@ During the meeting, discussions highlighted the importance of parental involveme
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-10-10-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Joe Catron](board_member_354.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Sarah Michael](board_member_351.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Derek Iverson](board_member_350.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+

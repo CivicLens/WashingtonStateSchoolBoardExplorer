@@ -57,3 +57,5 @@
 - [bullying-prevention](school_board_63_tag_bullying-prevention.md)
 - [school-funding](school_board_63_tag_school-funding.md)
 - [graduation](school_board_63_tag_graduation.md)
+- [school-board-visit](school_board_63_tag_school-board-visit.md)
+- [student-competence](school_board_63_tag_student-competence.md)

@@ -6,17 +6,56 @@ The regular School Board meeting held on July 25, 2024, included discussions abo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+
 ## 2024-06-13 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Regular School Board Meeting held on June 13, 2024, included discussions on various policy changes, particularly regarding the approval of the MBEA and PSE Contracts, which were added to the Action Items agenda following an executive session. The board made unanimous decisions on multiple resolutions, including MB Resolution 23/24:20 concerning WIAA Membership and the Interim Superintendent's Contract. Additionally, the board received letters from community members, such as Sarah Strachila and Mike Lembo, expressing concerns about class sizes for the upcoming school year. These communications reflect ongoing community engagement and parental feedback regarding educational policies and their implications for students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-06-13-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on adding consideration of the MBEA and PSE Contracts to the Action Items agenda | Ms. Brenna Reaugh made a motion to add consideration of the MBEA and PSE Contracts to the Action Items agenda, Mr. Edwar...[truncated, use api for full text] |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of MB Resolution 23/24:20 WIAA Membership | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:20 WIAA Membership, Mr. Edward Fox seconded; motion carri...[truncated, use api for full text] |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the Interim Superintendent Contract | Ms. Brenna Reaugh made a motion to approve the Interim Superintendent Contract, Mr. Edward Fox seconded; motion carried,...[truncated, use api for full text] |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the MBEA Contract | Ms. Brenna Reaugh made a motion to approve MBEA Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the PSE Contract | Ms. Brenna Reaugh made a motion to approve PSE Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on adding consideration of the MBEA and PSE Contracts to the Action Items agenda | Ms. Brenna Reaugh made a motion to add consideration of the MBEA and PSE Contracts to the Action Items agenda, Mr. Edwar...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of MB Resolution 23/24:20 WIAA Membership | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:20 WIAA Membership, Mr. Edward Fox seconded; motion carri...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the Interim Superintendent Contract | Ms. Brenna Reaugh made a motion to approve the Interim Superintendent Contract, Mr. Edward Fox seconded; motion carried,...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the MBEA Contract | Ms. Brenna Reaugh made a motion to approve MBEA Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the PSE Contract | Ms. Brenna Reaugh made a motion to approve PSE Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
+
 ## 2024-05-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The May 9, 2024, School Board Meeting included the approval of several policies, specifically MB Policy 2004 regarding Performance Improvement Goals, MB Policy 2230 for the Transition to Kindergarten Program, and MB Policy 3142 concerning International Student Exchange, all of which were passed unanimously. Additionally, the board discussed the appointment of an Interim Superintendent for the 2024-25 school year, which also received unanimous approval. Community engagement was evident as audience members, including Theresa Sygitowicz and Holly Koons, expressed their concerns and support regarding the board's decisions and the interim superintendent's role. The meeting also highlighted the importance of teacher support, with acknowledgments of teachers' efforts and the completion of various community projects, emphasizing collaboration with local organizations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-09-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2004 Performance Improvement Goals for 2nd and final reading | Ms. Brenna Reaugh made a motion to approve MB Policy 2004 Performance Improvement Goals for 2nd and final reading. |
+| [Edward Fox](board_member_338.md) | voted yes on motion to approve MB Policy 2004 Performance Improvement Goals for 2nd and final reading | Mr. Edward Fox seconded the motion. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2230 Transition to Kindergarten Program for first and final reading | Ms. Brenna Reaugh made a motion to approve MB Policy 2230 Transition to Kindergarten Program for first and final reading...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2230 Transition to Kindergarten Program for first and final reading | Ms. Danielle Gray seconded the motion. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3142 International Student Exchange for first and final reading | Ms. Brenna Reaugh made a motion to approve MB Policy 3142 International Student Exchange for first and final reading. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3142 International Student Exchange for first and final reading | Ms. Danielle Gray seconded the motion. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the Consideration of Appointment of Interim Superintendent for the 24/25 School Year | Ms. Brenna Reaugh made a motion to approve the Consideration of Appointment of Interim Superintendent for the 24/25 Scho...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Consideration of Appointment of Interim Superintendent for the 24/25 School Year | Ms. Danielle Gray seconded the motion. |
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 

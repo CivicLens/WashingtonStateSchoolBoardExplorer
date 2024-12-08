@@ -6,3 +6,14 @@ The School Board Meeting held on October 24, 2024, included key discussions and 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-24-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to the General Fund | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to ...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to the General Fund | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to ...[truncated, use api for full text] |
+

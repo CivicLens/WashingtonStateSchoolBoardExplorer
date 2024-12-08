@@ -37,6 +37,20 @@ religion
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-10-08-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Approved as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on personnel items | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on personnel items | Approved as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on business items | Approved a donation of $1,000 from Fitzpatrick Media Group. |
+| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved a donation of $1,000 from Fitzpatrick Media Group. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved a donation of $1,000 from Fitzpatrick Media Group. |
+
 ## 2024-09-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a Study Session on September 9, 2024, where they discussed the Teacher and Principal Evaluation Program (TPEP). This program is designed to assess and enhance the performance of educators and administrators within the district. The meeting was attended by board members including President Amy Cast and Superintendent Michael Tolley. The session was called to order at 6:45 PM and concluded with adjournment at 7:45 PM. The focus on TPEP indicates ongoing efforts to support and evaluate teaching staff, which aligns with broader educational policy changes aimed at improving instructional quality.
@@ -92,6 +106,21 @@ The Regular School Board Meeting on June 27, 2024, included several significant 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-06-27-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Board Resolution 23/24:21 Authoring the issuance of a limited general obligation note | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:21 Authoring the issuance of a limited general obli...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Board Resolution 23/24:22 Adoption of 2024/2025 Budget | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:22 Adoption of 2024/2025 Budget, Ms. Danielle Gray ...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on Schedule of Compensation, Benefits, & Other Information between Non-Represented Certificated Staff (Exempt)...[truncated, use api for full text] | Ms. Brenna Reaugh made a motion to approve Schedule of Compensation, Benefits, & Other Information between Non-Represent...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 2255 Alternative Learning Experience Courses | Ms. Brenna Reaugh made a motion to approve MB Policy 2255 Alternative Learning Experience Courses for first and final re...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 23/24:21 Authoring the issuance of a limited general obligation note | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:21 Authoring the issuance of a limited general obli...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 23/24:22 Adoption of 2024/2025 Budget | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:22 Adoption of 2024/2025 Budget, Ms. Danielle Gray ...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on Schedule of Compensation, Benefits, & Other Information between Non-Represented Certificated Staff (Exempt)...[truncated, use api for full text] | Ms. Brenna Reaugh made a motion to approve Schedule of Compensation, Benefits, & Other Information between Non-Represent...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 2255 Alternative Learning Experience Courses | Ms. Brenna Reaugh made a motion to approve MB Policy 2255 Alternative Learning Experience Courses for first and final re...[truncated, use api for full text] |
+
 ## 2024-06-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
 The Northshore School District Board of Directors held a special meeting on June 14, 2024, at the Northshore Performing Arts Center to attend the graduation ceremony for the Secondary Academy for Success. The meeting commenced at 7:00 PM and was attended by board members including President Amy Cast, Superintendent Mr. Michael Tolley, and other directors. The meeting was adjourned at 8:30 PM. The event highlighted the district's commitment to celebrating student achievements, specifically those of the Secondary Academy for Success, which may indicate a focus on alternative educational pathways within the district. The meeting's details were generated by Peggy King and were approved on June 24, 2024, with Mr. Tolley serving as Secretary to the Board.
@@ -103,6 +132,29 @@ The Northshore School District Board of Directors held a special meeting on June
 The Regular Board Meeting held on June 11, 2024, included several key actions and approvals. The board approved the consent agenda, which encompassed the meeting agenda, minutes from the previous meeting, various vouchers for payment of bills, and personnel matters. Notably, the board approved student travel for EVHS and CCS students to events in Idaho, as well as the summer pole vault training camp. A significant discussion point was the tabling of the WIAA Membership until the next meeting due to the absence of the athletic director. Additionally, Superintendent Brian Talbott reported on the recent hiring of Cameron Rippee as the new Trent Principal and Brandon Shryock as the new EVHS Assistant Principal, reflecting ongoing changes in school leadership. The meeting also included recognitions of retiring staff for their years of service, indicating a focus on community engagement and appreciation for long-term employees.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-11-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on agenda items | Approved the consent agenda as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on agenda items | Approved the consent agenda as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on agenda items | Approved the consent agenda as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on approving the minutes of the May 28, 2024 Regular Board Meeting | Approved the minutes of the May 28, 2024 Regular Board Meeting. |
+| [Justin Voelker](board_member_276.md) | voted yes on approving the minutes of the May 28, 2024 Regular Board Meeting | Approved the minutes of the May 28, 2024 Regular Board Meeting. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on approving the minutes of the May 28, 2024 Regular Board Meeting | Approved the minutes of the May 28, 2024 Regular Board Meeting. |
+| [Mike Bly](board_member_278.md) | voted yes on vouchers | Approved various vouchers for payment of May bills. |
+| [Justin Voelker](board_member_276.md) | voted yes on vouchers | Approved various vouchers for payment of May bills. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on vouchers | Approved various vouchers for payment of May bills. |
+| [Mike Bly](board_member_278.md) | voted yes on personnel items | Approved personnel items as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on personnel items | Approved personnel items as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Approved personnel items as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on business items | Approved student travel and summer training camp. |
+| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved student travel and summer training camp. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved student travel and summer training camp. |
+| [Mike Bly](board_member_278.md) | voted yes on consent items | Approved consent items as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on consent items | Approved consent items as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on consent items | Approved consent items as presented. |
 
 ## 2024-04-30 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

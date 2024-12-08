@@ -12,11 +12,86 @@ The Kent School District No. 415 Board of Directors met on March 27, 2024, where
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-27-board-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Andy Song](board_member_127.md) | voted yes on adding 'Reopening of the Vote of Resolution No. 1669' to the agenda | Director Cook requested a roll call vote. |
+| [Donald Cook](board_member_126.md) | voted yes on adding 'Reopening of the Vote of Resolution No. 1669' to the agenda | Director Cook requested a roll call vote. |
+| [Tim Clark](board_member_125.md) | voted no on adding 'Reopening of the Vote of Resolution No. 1669' to the agenda | Director Cook requested a roll call vote. |
+| [Awale Farah](board_member_124.md) | voted yes on adding 'Reopening of the Vote of Resolution No. 1669' to the agenda | Director Cook requested a roll call vote. |
+| [Meghin Margel](board_member_123.md) | voted yes on adding 'Reopening of the Vote of Resolution No. 1669' to the agenda | Director Cook requested a roll call vote. |
+| [Andy Song](board_member_127.md) | voted yes on 'Reopening of the Vote of Resolution No. 1669' | Discussion took place for approximately 80 minutes. |
+| [Donald Cook](board_member_126.md) | voted yes on 'Reopening of the Vote of Resolution No. 1669' | Discussion took place for approximately 80 minutes. |
+| [Tim Clark](board_member_125.md) | voted no on 'Reopening of the Vote of Resolution No. 1669' | President Margel noted that a 2/3 majority vote is required. |
+| [Awale Farah](board_member_124.md) | voted no on 'Reopening of the Vote of Resolution No. 1669' | President Margel noted that a 2/3 majority vote is required. |
+| [Meghin Margel](board_member_123.md) | voted no on 'Reopening of the Vote of Resolution No. 1669' | President Margel noted that a 2/3 majority vote is required. |
+| [Donald Cook](board_member_126.md) | voted yes on Consent Agenda Item 7.04 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on Consent Agenda Item 7.18 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on Consent Agenda Item 7.20 | The motion carried. |
+
 ## 2024-02-28 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on February 28, 2024, where significant topics included student mental health and bullying. Public comments addressed these issues, emphasizing the need for improved support systems. The board approved multiple policies, including the Second Reading and Approval of Policy 2005 on School Improvement Plans and Policy 5011, which prohibits sexual harassment of district staff. Additionally, Resolution No. 1669 was passed, creating a Labor Policy Committee of the Board, which sparked public discussion. The meeting also included a review of potential OPMA matters related to a previous meeting, highlighting ongoing ethical considerations within the board's operations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-board-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.01, Retirement of Policy 3423 Suicide Awareness and Prevention | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.02, 2023 – 2024 School Improvement Plans | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.03, Cedar Heights Middle School Sound System Upgrade | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.04, River Ridge Elementary School Associated Student Body (ASB) Constitution | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.05, Mill Creek Middle School American Disabilities Act (ADA) Operators Install...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.06, Meridian Middle School Door Hardware Replacement Project Bid Acceptance an...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.07, Kent-Meridian High School DECA Travel to Anaheim, CA - Field Trip and Stud...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.08, Kent-Meridian High School Track and Field Travel to Eugene, OR Field Trip ...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.09, Kent-Meridian High School Track and Field Travel to Portland, OR - Field T...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.10, Kent-Meridian High School Yearbook Travel to Kansas City, MO Field Trip an...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.11, Kent-Meridian High School Track and Field Travel to Arcadia, CA Field Trip...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.12, Kent-Meridian High School Employee International Travel Authorization to V...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.13, Resolution No. 1668 - Out of Endorsement Waivers | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.14, Minutes of 14 February 2024 Regular Meeting, Special Meetings Work Session...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.15, Gifts, Donations, and/or Memorials Acceptance | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.16, Vouchers | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.17, Personnel Report | The motion carried. |
 
 ## 2024-02-14 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -29,4 +104,20 @@ On February 14, 2024, the Board of Directors of Kent School District No. 415 con
 The Kent School District No. 415 Board of Directors held a meeting on February 14, 2024, where key topics included school safety, special education support, and the approval of various resolutions and policies. Notably, the board discussed Resolution No. 1665, which pertains to the Capital Projects and Technology Replacement Levy, and held a public hearing where community members expressed concerns regarding student safety while walking to and from school, staffing issues, and conditions in school buildings. The board also addressed the reimbursement of personal legal fees incurred by Director Cook, which was ultimately voted down after a roll call vote. Additionally, the meeting included proclamations for National School Counseling Week, National Black History Month, and Career and Technical Education Month, highlighting a focus on community engagement and recognition of various educational initiatives.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-14-board-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Donald Cook](board_member_126.md) | voted yes on motion to discuss and vote on reimbursement for personal legal fees incurred by him | Director Cook made a motion to discuss and vote on reimbursement for personal legal fees incurred by him over the last t...[truncated, use api for full text] |
+| [Donald Cook](board_member_126.md) | voted yes on motion to table the previously made motion regarding reimbursement of personal legal fees | Director Cook clarified that his motion to table was to afford Director Song the opportunity to make and discuss a separ...[truncated, use api for full text] |
+| [Andy Song](board_member_127.md) | voted yes on motion to waive attorney/client privilege | A motion was made by Director Song to waive attorney/client privilege. |
+| [Tim Clark](board_member_125.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, Director Clark voted Nay. |
+| [Awale Farah](board_member_124.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, Vice President Farah voted Nay. |
+| [Meghin Margel](board_member_123.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, President Margel voted Nay. |
+| [Tim Clark](board_member_125.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
+| [Awale Farah](board_member_124.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
+| [Meghin Margel](board_member_123.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
+| [Meghin Margel](board_member_123.md) | voted yes on Resolution No. 1665 – Capital Projects and Technology Replacement Levy | A motion was made to approve Item 8.01, Resolution No. 1665 – Capital Projects and Technology Replacement Levy. |
+| [Awale Farah](board_member_124.md) | voted yes on Pro/Con Committee Appointment for Resolution No. 1665 | A motion was made to approve Item 9.02, Pro/Con Committee Appointment for Resolution No. 1665. |
 

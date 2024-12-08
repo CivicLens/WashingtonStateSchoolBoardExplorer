@@ -6,3 +6,18 @@ The La Conner School Board held a special meeting on July 29, 2024, to discuss t
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-07-29-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [John Agen](board_member_251.md) | voted yes on the motion to approve the agenda as presented | Director Agen moved, and Director Pedroza seconded to approve the agenda as presented. |
+| [Kim Pedroza](board_member_253.md) | voted yes on the motion to approve the agenda as presented | Director Agen moved, and Director Pedroza seconded to approve the agenda as presented. |
+| [Jeremy Wilbur](board_member_252.md) | voted yes on the motion to approve the Consent Agenda as presented | Director Agen moved, seconded by Director Pedroza, to approve the Consent Agenda as presented. |
+| [John Agen](board_member_251.md) | voted yes on the motion to approve the Consent Agenda as presented | Director Agen moved, seconded by Director Pedroza, to approve the Consent Agenda as presented. |
+| [Kim Pedroza](board_member_253.md) | voted yes on the motion to approve the Consent Agenda as presented | Director Agen moved, seconded by Director Pedroza, to approve the Consent Agenda as presented. |
+| [Alana Quintasket](board_member_250.md) | voted yes on Resolution No 24-17 adopting the proposed budget for the 2024-2025 SY | Director Agen moved, and Director Pedroza seconded to approve Resolution No 24-17, adopting the proposed budget for the ...[truncated, use api for full text] |
+| [John Agen](board_member_251.md) | voted yes on Resolution No 24-17 adopting the proposed budget for the 2024-2025 SY | Director Agen moved, and Director Pedroza seconded to approve Resolution No 24-17, adopting the proposed budget for the ...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on Resolution No 24-17 adopting the proposed budget for the 2024-2025 SY | Director Agen moved, and Director Pedroza seconded to approve Resolution No 24-17, adopting the proposed budget for the ...[truncated, use api for full text] |
+| [Jeremy Wilbur](board_member_252.md) | voted yes on Resolution No 24-17 adopting the proposed budget for the 2024-2025 SY | Director Agen moved, and Director Pedroza seconded to approve Resolution No 24-17, adopting the proposed budget for the ...[truncated, use api for full text] |
+| [Susie Deyo](board_member_254.md) | voted yes on Resolution No 24-17 adopting the proposed budget for the 2024-2025 SY | Director Agen moved, and Director Pedroza seconded to approve Resolution No 24-17, adopting the proposed budget for the ...[truncated, use api for full text] |
+

@@ -6,11 +6,29 @@ The School Board Meeting held on October 24, 2024, included key discussions and 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-24-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to the General Fund | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to ...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to the General Fund | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to ...[truncated, use api for full text] |
+
 ## 2024-10-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The School Board Meeting held on October 10, 2024, included a successful report on the recent Community Connections meeting at Harmony, with the next meeting scheduled for October 17 at the High School Library. This initiative aims to enhance community engagement within the school district. Additionally, there were discussions regarding upcoming Parent/Teacher Conferences and a recognition of Cindy Henninger's contributions to the district, highlighting the board's focus on honoring staff and fostering positive community relations. Concerns were raised by Natalie Chavez regarding the School Based Health Clinic, indicating a need for parental feedback on health services provided to students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-10-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on the approval of the agenda with a change | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on the approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
 
 ## 2024-08-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -18,11 +36,35 @@ The Regular School Board Meeting held on August 22, 2024, included a discussion 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-08-22-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:23 Authorization of Warrant Signature | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:23 Authorization of Warrant Signature, Ms. Danielle Gray ...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:23 Authorization of Warrant Signature | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:23 Authorization of Warrant Signature, Ms. Danielle Gray ...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:24 Authorization to Invest Funds | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:24 Authorization to Invest Fund, Ms. Danielle Gray second...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:24 Authorization to Invest Funds | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:24 Authorization to Invest Fund, Ms. Danielle Gray second...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:25 Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:25 Signatories for Bank Accounts, Ms. Danielle Gray secon...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:25 Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:25 Signatories for Bank Accounts, Ms. Danielle Gray secon...[truncated, use api for full text] |
+
 ## 2024-08-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The August 8, 2024, regular school board meeting included several policy changes, notably the approval of MB Policy 6212 regarding Charge Cards and Procurement Cards, MB Policy 2022 on Electronic Resources and Internet Safety, and MB Policy 2023 focusing on Digital Citizenship and Media Literacy. Each of these policies was approved for first and final reading, indicating a streamlined decision-making process. The meeting also highlighted community engagement efforts, such as the Mount Baker district being selected for donations from the Washington State Risk Pool and the Cherry Point Refinery's Backpack Drive, aimed at supporting student health and well-being. Additionally, concerns were raised by audience member Natalie Chavez regarding the School Based Health Clinic, underscoring ongoing discussions about student health services.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-08-08-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Consent Agenda | Ms. Danielle Gray moved to approve the Consent Agenda, Mr. Jason Bloodgood seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 6212 Charge Cards and Procurement Cards | Ms. Danielle Gray made a motion to approve MB Policy 6212 Charge Cards and Procurement Cards for first and final reading...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2022 Electronic Resources and Internet Safety | Ms. Danielle Gray made a motion to approve MB Policy 2022 Electronic Resources and Internet Safety for first and final r...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2023 Digital Citizenship and Media Literacy | Ms. Danielle Gray made a motion to approve MB Policy 2023 Digital Citizenship and Media Literacy for first and final rea...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve Schedule of Compensation, Benefits, & Other Information between Non-Represented Classifie...[truncated, use api for full text] | Ms. Danielle Gray made a motion to approve Schedule of Compensation, Benefits, & Other Information between Non-Represent...[truncated, use api for full text] |
 
 ## 2024-07-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -30,11 +72,37 @@ The regular School Board meeting held on July 25, 2024, included discussions abo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+
 ## 2024-06-13 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Regular School Board Meeting held on June 13, 2024, included discussions on various policy changes, particularly regarding the approval of the MBEA and PSE Contracts, which were added to the Action Items agenda following an executive session. The board made unanimous decisions on multiple resolutions, including MB Resolution 23/24:20 concerning WIAA Membership and the Interim Superintendent's Contract. Additionally, the board received letters from community members, such as Sarah Strachila and Mike Lembo, expressing concerns about class sizes for the upcoming school year. These communications reflect ongoing community engagement and parental feedback regarding educational policies and their implications for students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-06-13-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on adding consideration of the MBEA and PSE Contracts to the Action Items agenda | Ms. Brenna Reaugh made a motion to add consideration of the MBEA and PSE Contracts to the Action Items agenda, Mr. Edwar...[truncated, use api for full text] |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of MB Resolution 23/24:20 WIAA Membership | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:20 WIAA Membership, Mr. Edward Fox seconded; motion carri...[truncated, use api for full text] |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the Interim Superintendent Contract | Ms. Brenna Reaugh made a motion to approve the Interim Superintendent Contract, Mr. Edward Fox seconded; motion carried,...[truncated, use api for full text] |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the MBEA Contract | Ms. Brenna Reaugh made a motion to approve MBEA Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the PSE Contract | Ms. Brenna Reaugh made a motion to approve PSE Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on adding consideration of the MBEA and PSE Contracts to the Action Items agenda | Ms. Brenna Reaugh made a motion to add consideration of the MBEA and PSE Contracts to the Action Items agenda, Mr. Edwar...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of MB Resolution 23/24:20 WIAA Membership | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:20 WIAA Membership, Mr. Edward Fox seconded; motion carri...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the Interim Superintendent Contract | Ms. Brenna Reaugh made a motion to approve the Interim Superintendent Contract, Mr. Edward Fox seconded; motion carried,...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the MBEA Contract | Ms. Brenna Reaugh made a motion to approve MBEA Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Edward Fox](board_member_338.md) | voted yes on approval of the PSE Contract | Ms. Brenna Reaugh made a motion to approve PSE Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
 
 ## 2024-05-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -42,11 +110,35 @@ The Regular School Board Meeting held on May 23, 2024, included significant disc
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-23-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the 24/25 School Calendar | Ms. Brenna Reaugh made a motion to approve the 24/25 School Calendar, Ms. Danielle Gray seconded; motion carried, 4-1. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the 24/25 School Calendar | Ms. Brenna Reaugh made a motion to approve the 24/25 School Calendar, Ms. Danielle Gray seconded; motion carried, 4-1. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the Health Clinic Agreement | Ms. Brenna Reaugh made a motion to approve the Health Clinic Agreement with the language adjustment, Ms. Danielle Gray s...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Health Clinic Agreement | Ms. Brenna Reaugh made a motion to approve the Health Clinic Agreement with the language adjustment, Ms. Danielle Gray s...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Board Resolution 23/24:19 | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:19 A Resolution Authorizing an Interfund Loan and G...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Board Resolution 23/24:19 | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:19 A Resolution Authorizing an Interfund Loan and G...[truncated, use api for full text] |
+
 ## 2024-03-28 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School Board held a regular meeting on March 28, 2024, during which several key actions were taken. Notably, the board approved multiple resolutions, including MB Board Resolution 23/24:16, which authorizes the transfer of certain state forest land revenues from the District's Debt Service Fund into the Capital Projects Fund, and MB Board Resolution 23/24:17, which adopts a reduced educational program for the 2024-2025 school year. Additionally, the board passed MB Policy 5005, which outlines employment and volunteer disclosure certification requirements, and MB Policy 6220, which details bid or request for proposal requirements. Both policies were approved for first and final readings. The meeting also highlighted community engagement activities, including a family prom and an 8th-grade family night, emphasizing the board's commitment to fostering connections with families and the wider community.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-28-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Danielle Gray moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 23/24:16 | Ms. Danielle Gray made a motion to approve MB Board Resolution 23/24:16 Authorizing and Directing the Treasurer of the D...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 23/24:17 | Ms. Danielle Gray made a motion to approve MB Board Resolution 23/24:17 Adoption of 2024-2025 Reduced Educational Progra...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:18 | Ms. Danielle Gray made a motion to approve MB Resolution 23/24:18 Surplus, Mr. Edward Fox seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 5005 | Ms. Danielle Gray made a motion to approve MB Policy 5005 Employment and Volunteers Disclosures Certification Requiremen...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 2090 | Ms. Danielle Gray made a motion to approve MB Policy 2090 Program Evaluation for second and final reading, Mr. Edward Fo...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6220 | Ms. Danielle Gray made a motion to approve MB Policy 6220 Bid or Request for Proposal Requirements for first and final r...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on Hopewell Grange Acceptance Memorandum | Ms. Danielle Gray made a motion to approve Hopewell Grange Acceptance Memorandum, Mr. Edward Fox seconded; motion carrie...[truncated, use api for full text] |
 
 ## 2024-03-14 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -54,11 +146,35 @@ The regular school board meeting held on March 14, 2024, included discussions an
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-14-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Consent Agenda | Ms. Danielle Gray made a motion to approve the Consent Agenda, Mr. Jason Bloodgood seconded; motion carried, 4-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 6513 Workplace Violence Prevention for 2nd and final reading | Ms. Danielle Gray made a motion to approve MB Policy 6513 Workplace Violence Prevention for 2nd and final reading, Mr. J...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 5271 Reporting Improper Governmental Action (Whistleblower Protection) for 1st ...[truncated, use api for full text] | Ms. Danielle Gray made a motion to approve MB Policy 5271 Reporting Improper Governmental Action (Whistleblower Protecti...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 5280 Separation from Employment for 1st and final reading | Ms. Danielle Gray made a motion to approve MB Policy 5280 Separation from Employment for 1st and final reading, Mr. Jaso...[truncated, use api for full text] |
+
 ## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Regular School Board Meeting held on February 22, 2024, included discussions on several policy changes and community engagement initiatives. Notably, the board approved MB Policy 5010 Nondiscrimination and Affirmative Action, MB Policy 6020 Systems of Funds and Accounts, and MB Policy 6605 Student Safety Walking, Biking, and Riding Buses, all receiving unanimous support. Additionally, MB Policy 2121 Substance Abuse Program was also approved, reflecting a focus on student health and safety. The board addressed concerns raised by community member Jenn Espeland regarding district transparency and website updates, indicating an emphasis on community engagement. The meeting also highlighted upcoming events such as Kindergarten Registration and Latino Family Literacy Night, further demonstrating the board's commitment to fostering community connections.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 5010 Nondiscrimination and Affirmative Action | Ms. Brenna Reaugh made a motion to approve MB Policy 5010 Nondiscrimination and Affirmative Action for first and final r...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6020 Systems of Funds and Accounts | Ms. Brenna Reaugh made a motion to approve MB Policy 6020 Systems of Funds and Accounts for first and final reading, Ms....[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6605 Student Safety Walking, Biking, and Riding Buses | Ms. Brenna Reaugh made a motion to approve MB Policy 6605 Student Safety Walking, Biking, and Riding Buses for first and...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 2121 Substance Abuse Program | Ms. Brenna Reaugh made a motion to approve MB Policy 2121 Substance Abuse Program for first and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 5010 Nondiscrimination and Affirmative Action | Ms. Brenna Reaugh made a motion to approve MB Policy 5010 Nondiscrimination and Affirmative Action for first and final r...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6020 Systems of Funds and Accounts | Ms. Brenna Reaugh made a motion to approve MB Policy 6020 Systems of Funds and Accounts for first and final reading, Ms....[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6605 Student Safety Walking, Biking, and Riding Buses | Ms. Brenna Reaugh made a motion to approve MB Policy 6605 Student Safety Walking, Biking, and Riding Buses for first and...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 2121 Substance Abuse Program | Ms. Brenna Reaugh made a motion to approve MB Policy 2121 Substance Abuse Program for first and final reading, Ms. Danie...[truncated, use api for full text] |
 
 ## 2024-02-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -66,17 +182,63 @@ The minutes from the Regular School Board Meeting on February 8, 2024, detail se
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
+
 ## 2024-01-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The School Board meeting on January 25, 2024, included several policy changes and community engagement discussions. Notably, MB Policy 6550 regarding the Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangements (SBITAS) was approved for its first and final reading, alongside MB Policy 6815 on Advertising on District Property, which was approved for its second and final reading. Additionally, the Board approved an initial plan for making up missed school days due to weather, reflecting their responsiveness to recent weather-related disruptions. Community concerns were voiced by attendees Jenn Espeland and Theresa Sygitowicz regarding the levy and school matters, indicating ongoing community engagement and feedback on educational funding and school operations. The Board also discussed upcoming school visits and the distribution of an information flyer about the levy to the community, emphasizing their commitment to maintaining open lines of communication with stakeholders.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-25-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on approval of Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6550 Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangemen...[truncated, use api for full text] | Ms. Brenna Reaugh made a motion to approve MB Policy 6550 for 1st and final reading, Ms. Danielle Gray seconded; motion ...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6815 Advertising on District Property | Ms. Brenna Reaugh made a motion to approve MB Policy 6815 for second and final reading, Ms. Danielle Gray seconded; moti...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on Initial Plan for Making Up Missed School Days Due to Weather | Ms. Brenna Reaugh made a motion to approve calendar changes as proposed, Ms. Danielle Gray seconded; motion carried, 5-0...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:15 - Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:15, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on approval of Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6550 Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangemen...[truncated, use api for full text] | Ms. Brenna Reaugh made a motion to approve MB Policy 6550 for 1st and final reading, Ms. Danielle Gray seconded; motion ...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6815 Advertising on District Property | Ms. Brenna Reaugh made a motion to approve MB Policy 6815 for second and final reading, Ms. Danielle Gray seconded; moti...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on Initial Plan for Making Up Missed School Days Due to Weather | Ms. Brenna Reaugh made a motion to approve calendar changes as proposed, Ms. Danielle Gray seconded; motion carried, 5-0...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:15 - Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:15, Ms. Danielle Gray seconded; motion carried, 5-0. |
+
 ## 2024-01-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The regular school board meeting on January 11, 2024, included significant discussions and actions regarding school safety and policy changes. Notably, the board approved the MB Policy 4210 Regulation of Dangerous Weapons on School Premises for first and final reading, emphasizing a commitment to ensuring a safe environment for students and staff. Additionally, the board reviewed and approved the MB Policy 5161 Civility in the Workplace for its second and final reading, which aims to foster a respectful and professional atmosphere within the district. The meeting also highlighted community engagement efforts, including a "Vote Yes" committee event aimed at sharing information on an upcoming levy, indicating a proactive approach to involving the community in district decisions. The board's unanimous votes on these policies reflect a collective agreement on the importance of safety and civility within the educational environment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-11-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 4210 Regulation of Dangerous Weapons on School Premises | Ms. Brenna Reaugh made a motion to approve MB Policy 4210 Regulation of Dangerous Weapons on School Premises for first a...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 5161 Civility in the Workplace | Ms. Brenna Reaugh made a motion to approve MB Policy 5161 Civility in the Workplace for 2nd and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve Timber Revenue Letter for Whatcom County Council | Ms. Brenna Reaugh made a motion to approve Timber Revenue Letter for Whatcom County Council with one change, Mr. Edward ...[truncated, use api for full text] |
+| [Edward Fox](board_member_338.md) | voted yes on motion to approve Interim Superintendent Contract | Mr. Edward Fox made a motion to approve Interim Superintendent Contract with one change, Ms. Danielle Gray seconded, mot...[truncated, use api for full text] |
 
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 

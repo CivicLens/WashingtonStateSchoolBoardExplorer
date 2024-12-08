@@ -42,6 +42,13 @@ The Bellingham School District Board of Directors held a regular meeting on Octo
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2023/2023-10-12-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_312.md) | supported the formation of a citizens committee against the replacement levy measures | Ms. Diaz Hackler read a statement regarding the formation of a citizens committee against the replacement levy measures. |
+
 ## 2023-10-03 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Shuksan Middle School on October 3, 2023.  The visit focused on learning about the Family Resource Center (FRC) and the services it provides to families. Additionally, multilingual learner (MLL) staff presented information regarding the support services offered to students. The meeting was attended by Board President Camille Diaz Hackler, Directors Douglas Benjamin, Jenn Mason, and Superintendent Greg Baker.

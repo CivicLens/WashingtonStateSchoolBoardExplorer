@@ -6,3 +6,13 @@ The Regular Board Meeting held on April 9, 2024, included discussions on curricu
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-04-09-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on Trentwood Roof bid | Approved the Trentwood Roof bid. |
+| [Justin Voelker](board_member_276.md) | voted yes on Trentwood Roof bid | Approved the Trentwood Roof bid. |
+| [Mike Bly](board_member_278.md) | voted yes on Electric Vehicle Curriculum bid | Approved the Electric Vehicle Curriculum bid. |
+

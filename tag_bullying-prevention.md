@@ -20,6 +20,18 @@ The Kent School District No. 415 Board of Directors held a meeting on October 9,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-board-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve agenda | A motion was made to approve the agenda as written. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Item 7.02 | A motion was made to approve Item 7.02. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.03 | A motion was made to approve Item 7.03. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.04 | A motion was made to approve Item 7.04. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.05 | A motion was made to approve Item 7.05. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Item 7.06 | A motion was made to approve Item 7.06. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.06 | A motion was made to approve Consent Agenda Items 8.01 – 8.06. |
+
 ## 2024-09-26 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Mercer Island School District Board of Directors held a regular meeting on September 26, 2024, where significant updates were discussed regarding Board Policy 3205, which addresses sexual harassment of students. This policy is being revised to comply with updated Title IX regulations, including changes to definitions of sex discrimination and hostile environments. Additionally, the Board reviewed the Long Range Facilities Plan, with an emphasis on preparing for a potential April 2025 bond. Executive Director Erin Battersby presented updates on staff evaluation practices under Board Policy 1800 OE-5, focusing on the adoption of the revised 2022 Danielson Framework. The Board also recognized various accomplishments related to sports and awareness months, including National Bullying Prevention Month, highlighting the district's commitment to fostering a safe and inclusive environment.
@@ -37,6 +49,41 @@ The Blaine School District No. 503 board meeting on September 23, 2024, included
 The Kent School District No. 415 Board of Directors held a meeting on September 11, 2024, where various topics were discussed, including the Superintendent's Contract and legislative priorities for the 2024-2025 school year. The board recognized National Hispanic Heritage Month and September Attendance Awareness Month. A motion to approve the Superintendent's Contract was tabled after extensive discussion and public comments, reflecting concerns about leadership stability and support. The board ultimately approved the Superintendent's Contract after several failed motions to end the discussion. Additionally, the board addressed bullying prevention through public comments, indicating community engagement on the topic. The meeting lasted over seven hours, concluding with the approval of gifts and donations acceptance and the consent agenda items, which included minutes from previous meetings and a personnel report.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-11-board-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Andy Song](board_member_127.md) | voted aye on motion to approve the agenda | Director Song voted in favor of the agenda as written. |
+| [Donald Cook](board_member_126.md) | voted nay on motion to approve the agenda | Director Cook opposed the approval of the agenda. |
+| [Tim Clark](board_member_125.md) | voted aye on motion to approve the agenda | Director Clark supported the motion to approve the agenda. |
+| [Awale Farah](board_member_124.md) | voted aye on motion to approve the agenda | Vice President Farah voted in favor of the agenda. |
+| [Meghin Margel](board_member_123.md) | voted aye on motion to approve the agenda | President Margel supported the approval of the agenda. |
+| [Andy Song](board_member_127.md) | voted aye on motion to approve 2024-2025 Legislative Priorities | Director Song supported the motion to approve the legislative priorities. |
+| [Donald Cook](board_member_126.md) | voted aye on motion to approve 2024-2025 Legislative Priorities | Director Cook supported the approval of the legislative priorities. |
+| [Tim Clark](board_member_125.md) | voted nay on motion to table the Superintendent's Contract | Director Clark opposed the motion to table the contract. |
+| [Awale Farah](board_member_124.md) | voted nay on motion to table the Superintendent's Contract | Vice President Farah opposed the tabling of the contract. |
+| [Meghin Margel](board_member_123.md) | voted nay on motion to table the Superintendent's Contract | President Margel opposed the motion to table the contract. |
+| [Andy Song](board_member_127.md) | voted nay on motion to call for the question to end the discussion | Director Song opposed the motion to end the discussion. |
+| [Donald Cook](board_member_126.md) | voted nay on motion to call for the question to end the discussion | Director Cook opposed the motion to end the discussion. |
+| [Tim Clark](board_member_125.md) | voted aye on motion to call for the question to end the discussion | Director Clark supported the motion to end the discussion. |
+| [Awale Farah](board_member_124.md) | voted aye on motion to call for the question to end the discussion | Vice President Farah supported the motion to end the discussion. |
+| [Meghin Margel](board_member_123.md) | voted aye on motion to call for the question to end the discussion | President Margel supported the motion to end the discussion. |
+| [Andy Song](board_member_127.md) | voted aye on motion to approve Superintendent's Contract | Director Song supported the approval of the Superintendent's Contract. |
+| [Donald Cook](board_member_126.md) | abstained on motion to approve Superintendent's Contract | Director Cook chose to abstain from voting on the contract. |
+| [Tim Clark](board_member_125.md) | voted aye on motion to approve Superintendent's Contract | Director Clark supported the approval of the Superintendent's Contract. |
+| [Awale Farah](board_member_124.md) | voted aye on motion to approve Superintendent's Contract | Vice President Farah supported the approval of the Superintendent's Contract. |
+| [Meghin Margel](board_member_123.md) | voted aye on motion to approve Superintendent's Contract | President Margel supported the approval of the Superintendent's Contract. |
+| [Andy Song](board_member_127.md) | voted aye on motion to approve Gifts, Donations, and/or Memorials Acceptance | Director Song supported the motion to approve the gifts and donations. |
+| [Donald Cook](board_member_126.md) | voted aye on motion to approve Gifts, Donations, and/or Memorials Acceptance | Director Cook supported the motion to approve the gifts and donations. |
+| [Tim Clark](board_member_125.md) | voted aye on motion to approve Gifts, Donations, and/or Memorials Acceptance | Director Clark supported the motion to approve the gifts and donations. |
+| [Awale Farah](board_member_124.md) | voted aye on motion to approve Gifts, Donations, and/or Memorials Acceptance | Vice President Farah supported the motion to approve the gifts and donations. |
+| [Meghin Margel](board_member_123.md) | voted aye on motion to approve Gifts, Donations, and/or Memorials Acceptance | President Margel supported the motion to approve the gifts and donations. |
+| [Andy Song](board_member_127.md) | voted aye on motion to approve Consent Agenda Items 7.01 – 7.04 | Director Song supported the approval of the consent agenda. |
+| [Donald Cook](board_member_126.md) | voted aye on motion to approve Consent Agenda Items 7.01 – 7.04 | Director Cook supported the approval of the consent agenda. |
+| [Tim Clark](board_member_125.md) | voted aye on motion to approve Consent Agenda Items 7.01 – 7.04 | Director Clark supported the approval of the consent agenda. |
+| [Awale Farah](board_member_124.md) | voted aye on motion to approve Consent Agenda Items 7.01 – 7.04 | Vice President Farah supported the approval of the consent agenda. |
+| [Meghin Margel](board_member_123.md) | voted aye on motion to approve Consent Agenda Items 7.01 – 7.04 | President Margel supported the approval of the consent agenda. |
 
 ## 2024-08-29 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
@@ -62,6 +109,19 @@ The La Conner School Board held a regular meeting on August 26, 2024, where they
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [John Agen](board_member_251.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Alana Quintasket](board_member_250.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [John Agen](board_member_251.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Kim Pedroza](board_member_253.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Alana Quintasket](board_member_250.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [John Agen](board_member_251.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+
 ## 2024-05-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting held on May 16, 2024, focused on two primary topics: harassment, intimidation, and bullying, as well as the school board budget for the upcoming year. A panel consisting of Dr. Chris Cochran, Director of Behavioral Health, and several school administrators discussed the importance of addressing bullying in schools, highlighting the need for effective prevention strategies. The discussion aimed to enhance school safety and promote mental health among students. Additionally, Holly Graham, the Finance Manager, reported on the collaborative efforts of the Directors to develop the budget for the 2024-25 school year, indicating a strategic approach to resource allocation in support of these initiatives. The meeting underscored the board's commitment to creating a safe and supportive learning environment for all students.
@@ -82,6 +142,21 @@ The meeting also featured public comments addressing issues such as Islamophobia
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Leah Choi](board_member_128.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Lindsey Yocum](board_member_130.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to table the Inclusionary Practices Program Update | The agenda item was tabled to a future meeting. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+
 ## 2024-04-22 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
 The Regular Board Meeting held on April 22, 2024, included several key reports and actions relevant to policy changes and community engagement. Superintendent Kelly Garza reported on various initiatives, including the CTE Fair at Wapato Middle School and the Drama Club's upcoming performance, encouraging community participation. The Board discussed the Seal of Biliteracy requirements, which may change starting in the 2025-26 school year, highlighting Wapato as a model school. Additionally, the Board reviewed and tabled the 2nd Reading of Revised Policies No. 5050 (Contracts) and No. 5280 (Separation from Employment) for further discussion, indicating ongoing policy refinement. The meeting also focused on bullying prevention with the 2nd Reading of Revised Policy No. 3207, aimed at prohibiting harassment, intimidation, and bullying of students.
@@ -95,6 +170,19 @@ The La Conner School Board held a special study meeting on March 11, 2024, where
 The board also reviewed multiple policies, with a specific focus on Policy 1450, which is proposed to be revised to reduce the number of consecutive meeting absences required for board members from four to three. Concerns regarding school safety and bullying were raised, along with a request to reintroduce security personnel on campus. The meeting emphasized community engagement, particularly in understanding why families choose to transfer their students out of the district, with 55 to 60 students reported to have done so. The board plans to follow up with families to gather more insights.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-03-11-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [John Agen](board_member_251.md) | voted yes on accounts payable and payroll | Agen moved, and Director Quintasket seconded to approve accounts payable and payroll as submitted. |
+| [Alana Quintasket](board_member_250.md) | voted yes on accounts payable and payroll | Agen moved, and Director Quintasket seconded to approve accounts payable and payroll as submitted. |
+| [Kim Pedroza](board_member_253.md) | voted yes on accounts payable and payroll | Agen moved, and Director Quintasket seconded to approve accounts payable and payroll as submitted. |
+| [Susie Deyo](board_member_254.md) | voted yes on accounts payable and payroll | Agen moved, and Director Quintasket seconded to approve accounts payable and payroll as submitted. |
+| [John Agen](board_member_251.md) | voted yes on personnel actions | Director Agen moved, and Director Pedroza seconded to approve personnel actions dated March 11, 2024, as submitted. |
+| [Kim Pedroza](board_member_253.md) | voted yes on personnel actions | Director Agen moved, and Director Pedroza seconded to approve personnel actions dated March 11, 2024, as submitted. |
+| [Alana Quintasket](board_member_250.md) | voted yes on personnel actions | Director Agen moved, and Director Pedroza seconded to approve personnel actions dated March 11, 2024, as submitted. |
+| [Susie Deyo](board_member_254.md) | voted yes on personnel actions | Director Agen moved, and Director Pedroza seconded to approve personnel actions dated March 11, 2024, as submitted. |
 
 ## 2024-03-07 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
@@ -113,6 +201,63 @@ The Bremerton School District Board meeting on March 7, 2024, highlighted variou
 The Kent School District No. 415 Board of Directors held a meeting on February 28, 2024, where significant topics included student mental health and bullying. Public comments addressed these issues, emphasizing the need for improved support systems. The board approved multiple policies, including the Second Reading and Approval of Policy 2005 on School Improvement Plans and Policy 5011, which prohibits sexual harassment of district staff. Additionally, Resolution No. 1669 was passed, creating a Labor Policy Committee of the Board, which sparked public discussion. The meeting also included a review of potential OPMA matters related to a previous meeting, highlighting ongoing ethical considerations within the board's operations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-board-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.01, Second Reading and Approval of Policy 2005 School Improvement Plans | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.02, Second Reading and Approval of Policy 2106 Program Compliance | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.03, Second Reading and Approval of Policy 3122 Excused and Unexcused Absences | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.04, Second Reading and Approval of Policy 5011 Sexual Harassment of District S...[truncated, use api for full text] | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.05, Third Reading and Approval of Policy 5161 Civility in the Workplace | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.06, Resolution No. 1667 – Endorsement of Capital Projects and Technology Repla...[truncated, use api for full text] | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on the motion to approve Item 5.07, Resolution No. 1669 | Following approximately two hours of public comment and board discussion, the motion previously made to approve Item 5.0...[truncated, use api for full text] |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.01, Retirement of Policy 3423 Suicide Awareness and Prevention | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.02, 2023 – 2024 School Improvement Plans | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.03, Cedar Heights Middle School Sound System Upgrade | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.04, River Ridge Elementary School Associated Student Body (ASB) Constitution | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.05, Mill Creek Middle School American Disabilities Act (ADA) Operators Install...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.06, Meridian Middle School Door Hardware Replacement Project Bid Acceptance an...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.07, Kent-Meridian High School DECA Travel to Anaheim, CA - Field Trip and Stud...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.08, Kent-Meridian High School Track and Field Travel to Eugene, OR Field Trip ...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.09, Kent-Meridian High School Track and Field Travel to Portland, OR - Field T...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.10, Kent-Meridian High School Yearbook Travel to Kansas City, MO Field Trip an...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.11, Kent-Meridian High School Track and Field Travel to Arcadia, CA Field Trip...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.12, Kent-Meridian High School Employee International Travel Authorization to V...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.13, Resolution No. 1668 - Out of Endorsement Waivers | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.14, Minutes of 14 February 2024 Regular Meeting, Special Meetings Work Session...[truncated, use api for full text] | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.15, Gifts, Donations, and/or Memorials Acceptance | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.16, Vouchers | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on the motion to approve Item 6.17, Personnel Report | The motion carried. |
 
 ## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -160,11 +305,59 @@ The Regular Board Meeting held on February 13, 2024, included significant discus
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-13-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on the consent agenda | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
+| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
+| [Mike Bly](board_member_278.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
+| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
+| [Justin Voelker](board_member_276.md) | voted yes on the consent agenda | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
+| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
+| [Justin Voelker](board_member_276.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
+| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
+
 ## 2024-02-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The minutes from the Regular School Board Meeting on February 8, 2024, detail several policy changes approved by the board. Notable among these are the first and final readings of MB Policy 1400, which addresses Meeting Conduct, Order of Business, and Quorum; MB Policy 1611, which concerns Conflicts of Interest for districts with fewer than 2,000 students; and MB Policy 3207, which prohibits Harassment, Intimidation, and Bullying of Students. The board unanimously approved these policies, reflecting a commitment to maintaining order and safety within the school environment. Additionally, the meeting highlighted various community engagements and events, including Black History Month and School Counselors Week, indicating a focus on inclusivity and support for students' social and emotional well-being.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
+| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
 
 ## 2024-02-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
@@ -177,6 +370,17 @@ The regular meeting of the Board of Education for the White Salmon Valley School
 The Regular Board Meeting held on January 23, 2024, included discussions on several policy changes, notably the first readings for revisions to Board Policy 3207, which prohibits harassment, intimidation, or bullying; Board Policy 3225, which pertains to school-based threat assessment; and Board Policy 3421, addressing child abuse and neglect prevention. These revisions reflect ongoing efforts to enhance school safety and student well-being. Additionally, public comment was made by parent Christie Fields, who raised concerns regarding health issues in the district, specifically related to vaping and smoking, indicating a community engagement focus on student health. The meeting also featured presentations on attendance data and i-Ready data, emphasizing the board's commitment to monitoring academic standards and student performance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-23-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Justin Voelker](board_member_276.md) | voted yes on agenda approval | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on approval of minutes from January 9, 2024 meeting | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on vouchers approval | Approved ACH Numbers 232400606 through 232400680 in the amount of $505,223.93 for payment of January bills. |
+| [Justin Voelker](board_member_276.md) | voted yes on personnel approval | Approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on business items approval | Approved EVHS student travel to Bellevue, WA on February 29, 2024, through March 2, 2024, for the DECA State Competition...[truncated, use api for full text] |
+| [Justin Voelker](board_member_276.md) | voted yes on consideration and approval of consent items | Approved as presented. |
 
 ## 2024-01-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 

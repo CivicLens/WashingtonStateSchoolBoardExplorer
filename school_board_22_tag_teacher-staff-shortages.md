@@ -8,3 +8,12 @@ The meeting also involved the approval of administrative changes to Policy 1810,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-11-07-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Phil Bloch](board_member_108.md) | voted yes on adoption of Resolution 2024-17: Educational Programs and Operations Levy Certification | Motion 2024-1107-03 was made by Director Bloch to approve the adoption of Resolution 2024-17, which was approved by unan...[truncated, use api for full text] |
+| [Phil Bloch](board_member_108.md) | voted yes on letter to the City of Bellevue | Motion 2024-1107-04 was made by Director Bloch to approve the letter to the City of Bellevue, which was approved by unan...[truncated, use api for full text] |
+| [Phil Bloch](board_member_108.md) | voted yes on administrative changes to Policy 1810, Policy 0150 and Procedure 0150P | Motion 2024-1107-05 was made by Director Bloch to approve administrative changes to Policy 1810, Policy 0150 and Procedu...[truncated, use api for full text] |
+| [Phil Bloch](board_member_108.md) | voted yes on updates to 2024-2025 Policy Schedule | Motion 2024-1107-06 was made by Director Bloch to approve updates to the 2024-2025 Policy Schedule, which was approved b...[truncated, use api for full text] |
+

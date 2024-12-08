@@ -52,6 +52,18 @@ The Kent School District No. 415 Board of Directors held a meeting on October 9,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-board-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve agenda | A motion was made to approve the agenda as written. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Item 7.02 | A motion was made to approve Item 7.02. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.03 | A motion was made to approve Item 7.03. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.04 | A motion was made to approve Item 7.04. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.05 | A motion was made to approve Item 7.05. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Item 7.06 | A motion was made to approve Item 7.06. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.06 | A motion was made to approve Consent Agenda Items 8.01 – 8.06. |
+
 ## 2024-10-08 - TAHOMA_SCHOOL_DISTRICT (Minutes)
 
 The Tahoma School District No. 409 held a work study session on October 8, 2024, where the Board discussed the implications of displaying flags, including the Pride Flag, in Washington State, alongside the practices of other school districts and government agencies. The discussion reflects ongoing considerations of inclusivity and representation within the district. Additionally, the Board reviewed Policy 5010, which addresses nondiscrimination and affirmative action, ensuring that there are adequate policies to support staff who feel discriminated against. The meeting concluded with the acknowledgment of the importance of these policies in fostering a supportive and inclusive environment within the school district.
@@ -75,6 +87,19 @@ The Lynden School District Board Meeting held on October 3, 2024, included signi
 The Selah School District Board of Directors meeting on September 26, 2024, included a public comment session where Mary Schuler raised questions regarding curriculum discussions on LGBTQ topics. Specifically, she inquired about the district's plans for teaching LGBTQ history, the notification process for parents regarding such curriculum, and parents' rights to opt out of their students participating in related lessons. The meeting also highlighted community engagement efforts, including a recent forum on safety and mental health, and announced upcoming events such as Homecoming Week and parent conferences. The board approved several policies, including updates to policy 5011 on sex discrimination and harassment, and discussed the need for transparency in curriculum changes and parental notification.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-09-26-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
+| [Sarah Michael](board_member_351.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
+| [Joe Catron](board_member_354.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Joe Catron](board_member_354.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
+| [Derek Iverson](board_member_350.md) | voted yes on approval of regular meeting minutes of August 22, 2024 and September 12, 2024 | Motion by Dan Peters, second by Sarah Michael. Motion carried 5/0. |
+| [Derek Iverson](board_member_350.md) | voted yes on approval of consent agenda | That the board approve the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried 5...[truncated, use api for full text] |
 
 ## 2024-09-24 - TAHOMA_SCHOOL_DISTRICT (Minutes)
 
@@ -141,6 +166,19 @@ The La Conner School Board held a regular meeting on August 26, 2024, where they
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [John Agen](board_member_251.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the appointment of Emmalin Goodman and Kellie Cayou-Lockrem as Student Representatives for the 2024-2025 SY | Director Agen moved and Director Pedroza seconded to appoint Emmalin Goodman and Kellie Cayou-Lockrem to serve as Studen...[truncated, use api for full text] |
+| [Alana Quintasket](board_member_250.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [John Agen](board_member_251.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Kim Pedroza](board_member_253.md) | voted yes on the consent agenda | Director Agen moved, and Director Quintasket seconded to approve the Consent Agenda as presented. |
+| [Alana Quintasket](board_member_250.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [John Agen](board_member_251.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+| [Kim Pedroza](board_member_253.md) | voted yes on the proposed 2024-2025 fine and fee schedule | Director Agen moved and Director Pedroza seconded, to approve the proposed 2024-2025 fine and fee schedule as submitted ...[truncated, use api for full text] |
+
 ## 2024-08-15 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
 The school board's recent agenda included discussions on the implementation of inclusive sex education policies aimed at promoting diversity and inclusion within the curriculum. The board reviewed the proposed changes to existing policies, specifically focusing on language that acknowledges and supports LGBTQ students. The revisions to the policy were intended to create a more welcoming environment for all students, ensuring that educational materials reflect diverse identities. Additionally, the board highlighted the importance of community engagement in the development of these policies, emphasizing the need for parental feedback to inform future decisions. The board's commitment to fostering an inclusive educational environment was evident in their discussions surrounding the necessity of updating curriculum standards to better represent the experiences of marginalized groups.
@@ -179,6 +217,19 @@ The school board's recent agenda included discussions on policies related to LGB
 The Selah School District Board of Directors meeting on July 25, 2024, included a public comment from Mary Schuler, a guardian of children in schools, who raised concerns about a K-12 LGBTQ+ program being introduced in August. She indicated that funding for this program could be lost and stated her intention to provide additional information to the board. The meeting also featured a presentation from graduating senior Indiana Hilmes, recognition of student achievements, and discussions regarding the 2024-25 budget, which is projected to have a $1.3 million deficit while maintaining reserves of $8.9 million. The board approved several resolutions, including Resolution No. 2024-12 for the adoption of the 2024-25 budget and Resolution No. 2024-11 for the designation of auditing officers.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-07-25-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Dan Peters](board_member_353.md) | voted yes on approval of regular meeting minutes of June 27, 2024 | Motion by Dan Peters, second by Derek Iverson. Motion carried 5/0. |
+| [Derek Iverson](board_member_350.md) | voted yes on approval of regular meeting minutes of June 27, 2024 | Motion by Dan Peters, second by Derek Iverson. Motion carried 5/0. |
+| [Dan Peters](board_member_353.md) | voted yes on approval of the consent agenda | That the board approves the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried ...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of the consent agenda | That the board approves the consent agenda, as presented. Motion by Dan Peters, second by Jamie Morford. Motion carried ...[truncated, use api for full text] |
+| [Dan Peters](board_member_353.md) | voted yes on adoption of 2024-25 budget | That the board of directors approve Resolution No. 2024-12 Adoption of 2024-25 Budget, as presented. Motion by Dan Peter...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on adoption of 2024-25 budget | That the board of directors approve Resolution No. 2024-12 Adoption of 2024-25 Budget, as presented. Motion by Dan Peter...[truncated, use api for full text] |
+| [Jamie Morford](board_member_352.md) | voted yes on approval of Resolution No. 2024-11 Designation of Auditing Officers | That the board of directors approve Resolution No. 2024-11 Designation of Auditing Officers, Resolution No. 2024-13 Tran...[truncated, use api for full text] |
+| [Sarah Michael](board_member_351.md) | voted yes on approval of Resolution No. 2024-11 Designation of Auditing Officers | That the board of directors approve Resolution No. 2024-11 Designation of Auditing Officers, Resolution No. 2024-13 Tran...[truncated, use api for full text] |
 
 ## 2024-07-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -235,6 +286,25 @@ Nondiscriminatory Practice in Athleti...[truncated, use api for full text] |
 The Kent School District No. 415 Board Meeting held on June 12, 2024, included significant recognitions such as proclamations for Pride Month and Juneteenth, highlighting the district's commitment to diversity and inclusion. Superintendent Vela presented a report addressing community concerns regarding school safety, specifically issues related to drug use in high school bathrooms. The board discussed mental health partnerships, emphasizing the importance of mental health support for students. Additionally, the board approved several resolutions including Resolution No. 1677 for Special Education Out of Endorsement Reporting and Resolution No. 1678 for Out of Endorsement Waivers, which aim to enhance support for special education. The meeting also saw a motion fail regarding the iGrad Building Upgrades Project, indicating potential challenges in project approvals. Overall, the meeting reflected ongoing efforts to address community needs and improve educational support systems.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-12-board-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | voted yes on motion to add Supplemental Personnel Report as Consent Agenda Item 8.25 | A motion was made to add a Supplemental Personnel Report as Consent Agenda Item 8.25. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Items 8.03 – 8.25 LESS Items 8.04, 8.11, 8.12, 8.13, 8.14, 8.16, 8.20, 8.2...[truncated, use api for full text] | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.01 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.02 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.04 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.11 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.12 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.13 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.14 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.16 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.20 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.23 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.24 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted no on motion to approve Item 7.01, iGrad Building Upgrades Project Bid Acceptance and Award of Contract to Westmar...[truncated, use api for full text] | The motion failed. |
 
 ## 2024-06-11 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
@@ -295,6 +365,26 @@ policy-changes
 The Regular Board Meeting held on May 28, 2024, included a public comment segment where Todd Gropp expressed concerns regarding fairness in relation to transgender athletes. This topic aligns with ongoing discussions about inclusivity and equity in school sports. The board also approved revisions to Board Policy 4060 - Distribution of Information, indicating a commitment to updating policies related to information dissemination. Additionally, Tammy Campbell from The Scholar First unveiled the 2024-2030 Strategic Plan, reflecting the district's long-term strategic planning efforts aimed at improving educational outcomes and addressing community needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-28-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
+| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
+| [Mike Bly](board_member_278.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
+| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
+| [Mike Bly](board_member_278.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
+| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
+| [Mike Bly](board_member_278.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
+| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
+| [Mike Bly](board_member_278.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
+| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
+| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
 
 ## 2024-05-14 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
@@ -371,6 +461,19 @@ summary: The Pullman City Council held a regular meeting on March 26, 2024, wher
 The March 25, 2024 Board Meeting of the Lake Washington School District (LWSD) included significant discussions and resolutions regarding community engagement and policy changes. Notably, the board recognized April 2024 as School Library Month and received public comments on various topics, including concerns about LGBTQ+ education and the lack of trust in the Keller administration. The board also discussed revisions to the Washington State School Directors Association (WSSDA) positions, particularly emphasizing literacy as a civil right and the need for evidence-based literacy practices. Additionally, a resolution was passed to adopt a policy update related to graduation requirements, reflecting ongoing efforts to enhance curriculum transparency and inclusivity in education.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-25-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the consent agenda as presented and/or amended | Motion by Mark Stuart, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to adopt the proposed WSSDA positions as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_129.md) | voted yes on motion to approve the Board Summary for monitoring report R-1, Mission of the District | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the Board Summary for monitoring report R-2, Academic Content Knowledge and Skills | Motion by Eric Laliberte, second by Mark Stuart. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the Board Summary for OE-3, Treatment of Community Stakeholders | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Mark Stuart](board_member_132.md) | voted yes on motion to approve the Board Summary for OE-5, Financial Planning | Motion by Mark Stuart, second by Lisa Guthrie. |
+| [Eric Laliberte](board_member_131.md) | voted yes on motion to approve the Board Summary for OE-9, Communication and Engagement with the Community | Motion by Eric Laliberte, second by Lindsey Yocum. |
 
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

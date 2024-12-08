@@ -6,3 +6,23 @@ The Kent School District No. 415 Board of Directors meeting held on May 8, 2024,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-08-board-minutes.txt)
 
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Awale Farah](board_member_124.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on motion to approve Consent Agenda Items 6.01 – 6.13 | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on motion to approve Consent Agenda Item 6.14 | The motion carried. |
+| [Andy Song](board_member_127.md) | voted yes on motion to approve Consent Agenda Item 6.15 | The motion carried. |
+
