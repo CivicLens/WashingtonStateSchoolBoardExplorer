@@ -6,7 +6,7 @@ The Lynden School District #504 Board Meeting held on April 4, 2024, included si
 
 In the action items, the board approved several proposed amendments for submission to the Washington State School Directors' Association (WSSDA), including positions on Local Board Adoption of Core Instructional Materials, Local Control, and Unfunded Mandates. Notably, a motion to approve an amended WSSDA Equity Statement and position on Diversity did not carry, indicating possible contention around these issues. The board also adopted Policy 2415 regarding a Performance-Based Pathway for High School Graduation, while no action was taken on Policy 3421 concerning Child Abuse & Neglect.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-04-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-04-04-minutes.txt)
 
 ### Board Member Actions
 
@@ -36,7 +36,7 @@ The Lynden School Board meeting minutes detail discussions on several key topics
 
 Additionally, the board heard from Peg Zaremba-Born regarding the needs of secondary students returning to full-time learning, highlighting a concern for student autonomy in their educational experience.  The minutes also mention that Superintendent Jim Frey provided an update on the mental health and well-being of students, including information about a forthcoming vaccination clinic for school staff. Finally, the board engaged with Kevin Burke, Facilities and Maintenance Supervisor, regarding the Asset Preservation Program (APP) for Fisher Elementary and Lynden Middle School, demonstrating their commitment to community engagement in maintaining school facilities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-02-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/processed/2021-02-25-minutes.txt)
 
 ## 2020-07-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -46,5 +46,5 @@ Financial updates were provided, outlining the June budget summary and projectio
 
 Board Director CJ Costanti shared a revised statement about equity for all students, which would be communicated to the community after final review by the Board of Directors. This indicates a proactive effort towards addressing racial equity within the school system.  The meeting also included an executive session to discuss the Superintendent's evaluation and subsequent approval of an updated Superintendent Contract.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/processed/2020-07-23-minutes.txt)
 

@@ -1,18 +1,54 @@
 # Meeting Summaries for Tag: bullying-prevention
 
+## 2024-12-02 - PATERSON_SCHOOL_DISTRICT (Minutes)
+
+The Paterson School District Board of Directors holds monthly meetings, typically on the fourth Monday, with the next scheduled meeting on October 23, 2023. The agendas for the 2023-2024 school year include discussions on the adoption of the 23-24 SY Budget and various work sessions aimed at addressing school governance and policy changes. Notably, the district emphasizes its commitment to non-discrimination in its programs and activities, designating specific employees to handle complaints regarding alleged discrimination, including Joe West, the Superintendent, as the Civil Rights Coordinator. Additionally, the district has policies in place for bullying prevention and special education support, reinforcing its focus on creating a safe and inclusive environment for all students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/paterson_school_district/2024/processed/2024-12-02-minutes.txt)
+
+## 2024-12-02 - PROSSER_SCHOOL_DISTRICT (Minutes)
+
+The Prosser School Board is a local governing body established by the Washington State Legislature, consisting of five elected members representing distinct geographical areas within the Prosser School District. The board's core mission is to develop and assess policies governing the district's operations, with legal responsibilities that include adopting the annual operating budget and keeping the public informed about educational needs and progress. Community engagement is emphasized, as the board holds open meetings and encourages participation, accommodating individuals with disabilities as needed. Recent policy changes include the implementation of House Bill 1207 (2023) in the 2024-25 Student Handbook, which may address bullying prevention among other educational policies. The board's commitment to transparency and collaboration is reflected in its regular meeting schedule and the availability of meeting materials online.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/prosser_school_district/2024/processed/2024-12-02-minutes.txt)
+
+## 2024-12-02 - CASCADE_SCHOOL_DISTRICT (Minutes)
+
+The Cascade School District's webpage outlines various policies and initiatives aimed at ensuring student safety and well-being. Notably, there is a focus on bullying prevention, with resources and information provided to address harassment, intimidation, and bullying within the school environment. The district emphasizes compliance with federal and state regulations, particularly concerning non-discrimination based on various factors, including race, religion, and disability. Additionally, the webpage mentions the importance of mental health resources and support systems for students, indicating a commitment to fostering a safe and inclusive educational environment. The district's Title IX Coordinator and Civil Rights Coordinator are named for inquiries regarding compliance and grievance procedures, highlighting an organized approach to addressing potential issues related to safety and discrimination.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/chelan/school_boards/cascade_school_district/2024/processed/2024-12-02-minutes.txt)
+
+## 2024-12-02 - EVERGREEN_PUBLIC_SCHOOLS (Minutes)
+
+The Evergreen Public Schools Board of Directors emphasizes community engagement by welcoming public participation during meetings, allowing community members to address the Board on agenda items and other concerns. Public testimony protocols are in place to ensure respectful communication, with speakers allotted three minutes to present their views. The Board is also focused on mental health, with resources available for behavioral health and suicide prevention. Additionally, the district is committed to bullying prevention and supports special education services, ensuring that all students receive the necessary resources and accommodations. The Board's commitment to equity is reflected in its policies and initiatives, aimed at fostering an inclusive environment for all students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/evergreen_public_schools/2024/processed/2024-12-02-minutes.txt)
+
+## 2024-12-02 - CASTLE_ROCK_SCHOOL_DISTRICT (Minutes)
+
+The text outlines an upcoming School Board Meeting for the Castle Rock School District scheduled for December 18, 2024, from 6:00 PM to 7:30 PM. Key topics for discussion include the district's commitment to addressing harassment, intimidation, and bullying (HIB), which is part of the broader bullying prevention strategy. The district emphasizes its adherence to safety and security protocols as part of its operational policies. Additionally, the text highlights the importance of community engagement and transparency in school governance, suggesting that the board is open to parental feedback on these critical issues. The focus on bullying prevention reflects ongoing efforts to create a safe educational environment for all students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/castle_rock_school_district/2024/processed/2024-12-02-minutes.txt)
+
+## 2024-12-02 - EASTMONT_SCHOOL_DISTRICT (Minutes)
+
+The text provides an overview of the Eastmont School Board, detailing the members and their respective districts, along with their election dates and terms. Key members include Lauren Miehe, Whitney Smith, Jason Heinz, Jacob Burkhart, and Meaghan Vibbert. The document emphasizes the importance of various policies, including the Harassment, Intimidation, and Bullying (HIB) policy, which aims to prevent and address incidents of bullying within the school district. Additionally, it mentions the district's commitment to non-discrimination and outlines the boundaries for director districts, which are crucial for ensuring fair representation within the board. The structure and responsibilities of the school board are highlighted, reflecting a focus on governance and ethical conduct within the educational framework.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/douglas/school_boards/eastmont_school_district/2024/processed/2024-12-02-minutes.txt)
+
 ## 2024-10-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 held a Regular Board Meeting on October 28, 2024, where several key topics were discussed, including the recognition of National Bullying Prevention Month. Tricia Johnson from the Technology Department presented activities promoting a safe and supportive environment, encouraging participation in signing a unity pledge banner. Public comments included concerns from Michelle Schulz about inclusion for the deaf and hard of hearing, advocating for ASL interpreters at events, and Natalie Chavez’s apprehension about school-based health clinics potentially pushing medications without parental consent. 
 
 The board approved various items on the Consent Agenda, including the adoption of changes to Policy 3241 Student Discipline. Additionally, the board tabled the "First Reading" of sex-based discrimination policies to allow for further discussion and legal counsel input regarding the intersection of Title IX and HIPAA protections. The meeting also highlighted the need for community engagement and transparency in policies affecting student health and well-being.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-10-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/processed/2024-10-28-minutes.txt)
 
 ## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on October 9, 2024, where several proclamations were made, including recognition of LGBT History Month and National Bullying Prevention Month, emphasizing the district's commitment to inclusivity and safety in schools. The board addressed school safety concerns raised during public comments, specifically regarding school lockdowns. Additionally, the board discussed and approved several policy changes, including the adoption of Policy 2415, which pertains to a performance-based pathway for high school graduation, and Policy 2418, which allows for waivers of high school graduation credits. A significant motion to repeal Resolution No. 1669, which established a Labor Policy Committee, was also carried after public commentary.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-09-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -26,17 +62,23 @@ The Kent School District No. 415 Board of Directors held a meeting on October 9,
 | [Tim Clark](board_member_132.md) | voted yes on motion to approve Item 7.06 | A motion was made to approve Item 7.06. |
 | [Donald Cook](board_member_133.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.06 | A motion was made to approve Consent Agenda Items 8.01 – 8.06. |
 
+## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on October 9, 2024, where several proclamations were made, including recognition of National Bullying Prevention Month and LGBT History Month. The board also discussed and approved several policy changes, notably the Second Reading and Adoption of Policy 2418, which addresses the Waiver of High School Graduation Credits, and Policy 2415, which introduces a Performance-Based Pathway for High School Graduation. Additionally, the board voted to repeal Resolution No. 1669, related to the creation of a Labor Policy Committee. The meeting emphasized the importance of community engagement and the board's commitment to creating equitable systems within the educational environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-09-regular-meeting-pm-minutes.txt)
+
 ## 2024-09-26 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Mercer Island School District Board of Directors held a regular meeting on September 26, 2024, where several key updates and discussions took place. Superintendent Fred Rundle reported on the recommendation to dissolve the Center for Collaborative Support (CCS), a nonprofit corporation, which all directors supported except for one abstention. This change reflects ongoing questions about the organization's purpose and financial sustainability. The board also reviewed updates to Board Policy 3205, which addresses sexual harassment of students, aimed at ensuring compliance with revised Title IX regulations. This includes updated definitions and staff reporting requirements. Additionally, the board recognized various accomplishments related to student activities and events, and noted ongoing initiatives for bullying prevention and support for special education. The meeting concluded with discussions on recruitment for the naming policy committee and concerns regarding the timing of the homecoming dance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-09-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/processed/2024-09-26-minutes.txt)
 
 ## 2024-09-26 - SELAH_SCHOOL_DISTRICT (Minutes)
 
 The Selah School District No. 119 board meeting on September 26, 2024, included discussions on curriculum transparency concerning LGBTQ topics, prompted by audience member Mary Schuler's questions regarding the district's plans for teaching LGBTQ history and parental notification about opt-out rights for students. The board also highlighted community engagement through a recent forum that addressed safety, bullying, and mental health supports, indicating a focus on student health and well-being. Additionally, the meeting covered various administrative matters, including the approval of payroll and consent agenda items, and noted a decline in student enrollment, which was reported as being 43 under projection.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-09-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-09-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -55,13 +97,21 @@ The Selah School District No. 119 board meeting on September 26, 2024, included 
 
 The Blaine School District No. 503's Regular Board Meeting on September 23, 2024, addressed several key issues, including the adoption of policies related to bullying prevention and special education support. The board approved the second reading and adoption of policies 3207 (Prohibition of Harassment, Intimidation, and Bullying of Students) and 5010 (Nondiscrimination and Affirmative Action) as part of their ongoing commitment to creating a safe educational environment. Additionally, the board discussed the Family Service Center's efforts to support families, including providing school supplies and food programs, indicating a focus on community engagement and support for students' well-being. The meeting also included discussions about the Transition Bilingual Instruction Program (TBIP) grant and updates on enrollment, emphasizing the district's commitment to special education and bilingual support.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-09-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/processed/2024-09-23-minutes.txt)
+
+## 2024-09-17 - HIGHLAND_SCHOOL_DISTRICT (Minutes)
+
+The Highland School District #203 held a Regular Board Meeting on September 17, 2024, where several important topics were discussed, including the approval of new and revised policies. Notable new policies introduced included 2124 Physical Education and Health Class, 2195 Policy-Academic Acceleration, and 3206 Pregnant and Parenting Students. Revised policies included 3205 Sex Discrimination and Sex-based Harassment of Students Prohibited and 3207 Prohibition of Harassment, Intimidation, and Bullying. The board was directed to contact the district office for any concerns regarding these policies. 
+
+Additionally, Superintendent Mark Anderson presented the TBIP Grant for the 2024-2025 school year, which supports the bilingual program and future dual language initiatives. The board approved the grant application, emphasizing the need for board validation to utilize the funds effectively. The meeting also included a budget status report indicating a decline in overall student enrollment, with a first headcount of 989, the lowest in recent history, which may impact future planning. The board discussed personnel changes, including the hiring of a third 4th-grade teacher to address class size concerns, and the approval of various bills related to the district's financial operations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/highland_school_district/2024/processed/2024-09-17-regularboardmeeting-minutes.txt)
 
 ## 2024-09-11 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on September 11, 2024, where they discussed several key topics, including the Superintendent's Contract and legislative priorities for the 2024-2025 school year. The board recognized National Hispanic Heritage Month and September Attendance Awareness Month. During the meeting, public comments addressed issues such as the Superintendent's contract and student harassment, emphasizing the need for stable leadership and support for bullying prevention measures. A motion to approve the Superintendent's Contract was tabled initially but ultimately carried after extensive discussion. The board also approved gifts, donations, and memorials acceptance, and the consent agenda, which included minutes from previous meetings. The meeting concluded with board reports and no final audience comments, highlighting the importance of community engagement in school governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-11-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-11-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -102,19 +152,19 @@ The Kent School District No. 415 Board of Directors held a meeting on September 
 
 The Bremerton School District Board of Directors held a special meeting on August 29, 2024, where significant discussions centered around the unilateral termination of Superintendent Dr. James Crawford. The board members expressed their concerns regarding the ethical implications of the situation, with Director Hurley emphasizing the integrity of the investigation process and the need for transparency. The board unanimously passed a motion to terminate Dr. Crawford's employment effective immediately, alongside a motion to release a public statement and the Ganson investigation report. Public input during the meeting highlighted community concerns about the handling of the situation, with multiple speakers expressing support for Dr. Crawford and questioning the board's communication and decision-making processes. The board's actions reflect ongoing challenges in maintaining ethical standards and community engagement amidst controversial decisions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-08-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/processed/2024-08-29-minutes.txt)
 
 ## 2024-08-27 - TAHOMA_SCHOOL_DISTRICT (Minutes)
 
 The Tahoma School District No. 409 held a regular board meeting on August 27, 2024, where key actions included the first readings of revised policies 3207 (Prohibition of Harassment, Intimidation and Bullying) and 5010 (Nondiscrimination and Affirmative Action) by Director of Human Resources Scott Mitchell. These revisions aim to enhance the district's commitment to bullying prevention and ensure compliance with nondiscrimination standards. Additionally, the board approved the ThoughtExchange Community Engagement Platform, reflecting a focus on fostering community engagement in district decision-making. The meeting also included updates on various operational reports, including transportation and safety, as well as the approval of personnel reports and financial summaries.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/2024-08-27-meetingbmfinal-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/tahoma_school_district/2024/processed/2024-08-27-meetingbmfinal-minutes.txt)
 
 ## 2024-08-26 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
 
 The La Conner School Board held a regular meeting on August 26, 2024, where key actions included the appointment of student representatives, Emmalin Goodman and Kellie Cayou-Lockrem, for the 2024-2025 school year. The board emphasized the importance of student autonomy by encouraging the representatives to report on topics of their choice, with the first report focusing on the cell phone policy. The board adopted a revised fines and fees schedule for the upcoming school year, which included a reduction in yearbook costs and the introduction of a replacement cost for Yondr pouches. The meeting also addressed the implementation of a cell phone-free policy aimed at reducing distractions and bullying, with specific accommodations for students with health concerns. Feedback from a community survey indicated mixed sentiments regarding the policy, highlighting both positive responses about reduced distractions and concerns about communication issues. The board is committed to engaging with the community and addressing feedback as they move forward with these initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-08-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -133,19 +183,19 @@ The La Conner School Board held a regular meeting on August 26, 2024, where key 
 
 The Blaine School District No. 503 Regular Board Meeting held on August 26, 2024, included discussions on various policy changes and community concerns. Director Galbraith raised issues regarding the NWESD UDL contract, emphasizing its role in meeting state professional learning requirements. The board unanimously approved several resolutions, including Resolution 2324-14 for the adoption of the 2024-2025 budget, and policies related to bullying prevention and student health. Additionally, Superintendent Dr. Granger highlighted the importance of addressing bullying and student discipline through community engagement initiatives, including the recent Supper with the Superintendent event, which focused on these significant concerns. The board also discussed the installation of vape detectors in schools to enhance safety, though concerns about privacy were noted.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-08-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/processed/2024-08-26-minutes.txt)
 
 ## 2024-05-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The meeting focused on the issues of harassment, intimidation, and bullying within the school district, featuring a panel that included Dr. Chris Cochran, Director of Behavioral Health, and various school administrators. The discussion emphasized the importance of addressing bullying and fostering a safe environment for students. Additionally, Holly Graham, the Finance Manager, reported on the collaborative efforts of the Directors in developing the school board budget for the 2024-25 academic year. The meeting concluded with an adjournment at 7:35 PM after addressing these key topics.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-05-16-minutes.txt)
 
 ## 2024-05-08 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
 
 The Spokane Public Schools Board of Directors held a Regular Meeting on May 8, 2024, where community engagement was emphasized, particularly in response to a public comment from Cherie Hemlick regarding bullying. The Board discussed the budget development process for the 2024-2025 school year, focusing on middle school transportation, technology device models, and athletics programming. A notable proposal was the pilot program for middle school tackle football, supported by high school coaches and community members, highlighting its potential benefits for student development and community building. The Board also agreed on a check-out/opt-in model for middle school technology, indicating a shift in policy towards more accessible educational technology. Additionally, Dr. Swinyard reported on his presentation regarding AI at the WSSDA Superintendent Conference, underscoring the district's commitment to integrating advanced technology in educational practices.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-05-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/processed/2024-05-08-minutes.txt)
 
 ## 2024-05-06 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
@@ -153,7 +203,7 @@ The May 6, 2024 Board Meeting of the Lake Washington School District (LWSD) incl
 
 Additionally, the board approved several resolutions, including the adoption of Policy 2415 regarding a Performance-Based Pathway for High School Graduation, which provides guidance for implementing this new graduation option. The board also tabled the Inclusionary Practices Program Update for future discussion, indicating an ongoing focus on policy changes that support inclusive educational practices. The meeting concluded with a discussion on upcoming school visits and committee updates, reinforcing the board's engagement with community feedback and safety initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-05-06-minutes.txt)
 
 ### Board Member Actions
 
@@ -174,13 +224,13 @@ Additionally, the board approved several resolutions, including the adoption of 
 
 The Wapato School District Board of Directors held a regular meeting on April 22, 2024, where they discussed various reports and actions. Key items included the approval of the 2023-24 Resolution No. 9, which delegated the authority for the sale of bonds, and the adoption of several new policies related to student safety and well-being. Notably, the Board engaged in discussions surrounding revised Policy No. 3207, which addresses the prohibition of harassment, intimidation, and bullying of students, emphasizing the importance of creating a safe educational environment. The meeting also highlighted community engagement efforts, such as the recognition of Wapato High School's CTE Fair and the Drama Club's upcoming performance. The Board received updates on legislative changes impacting the Yakama Tribal Council's educational initiatives, indicating a proactive approach to adapting to new requirements and funding opportunities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-04-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/processed/2024-04-22-minutes.txt)
 
 ## 2024-03-11 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
 
 The La Conner School Board of Directors held a special study meeting on March 11, 2024, where several key topics were discussed, including student attendance issues, extracurricular activity requests, and curriculum engagement, particularly regarding the IReady Math program. The board approved personnel actions and accounts payable, with a focus on enhancing student attendance through incentives and providing more academic support. Notably, the board discussed the Interlocal Agreement for the First Peoples’ Language, Culture, and Oral Tribal Traditions Program, raising questions about certification requirements and annual training for Swinomish certificated teachers. Additionally, there was a proposal to revise Policy 1450 to reduce consecutive meeting absences from four to three. Concerns regarding bullying and the need for security personnel were also highlighted, reflecting a commitment to improving school safety and student well-being.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-03-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-03-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -199,7 +249,7 @@ The La Conner School Board of Directors held a special study meeting on March 11
 
 The Kent School District No. 415 Board of Directors held a meeting on February 28, 2024, where they addressed several significant topics, including student mental health and bullying prevention. The board discussed the approval of various policies, including the Second Reading and Approval of Policy 5011, which prohibits sexual harassment of district staff, and Policy 3122, which pertains to excused and unexcused absences. Additionally, they approved Resolution No. 1669, creating a Labor Policy Committee of the Board, which sparked public comment regarding its implications. The meeting featured extensive public engagement, with community members voicing concerns about mental health, bullying, and the district's educational programs. The board's decisions reflect ongoing efforts to enhance student well-being and uphold ethical standards within school governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-28-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -264,7 +314,7 @@ The regular meeting of the school board on February 27, 2024, included discussio
 
 The meeting also addressed community engagement, with student representatives reporting on events such as the DECCA State Career Development and the musical "Anastasia." Furthermore, legislative updates were provided, including a proposed resolution opposing HB2331 and SB5462, which prompted a discussion on the board's influence on state legislation and the need for further understanding of its implications for the district. Dr. Dominguez will seek legal guidance regarding these legislative matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-02-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-02-27-minutes.txt)
 
 ### Board Member Actions
 
@@ -280,25 +330,31 @@ The meeting also addressed community engagement, with student representatives re
 
 The Toutle Lake School District Board of Directors convened on February 26, 2024, to address various agenda items, including the first reading of multiple policies and procedures. Among these were Policy 3241/P on Student Discipline and Policy 3246P regarding Restraint, Isolation, and Other Uses of Reasonable Force, which may influence the district's approach to student behavior and safety. The board also discussed the establishment of a Student Engagement Committee, aimed at fostering community engagement and addressing bullying, as highlighted by students Mason Grose and Blake Chrisler. Additionally, the board approved several motions, including a donation of 836 pairs of Bomba socks valued at $10,036 from Savior Socks, emphasizing the district's commitment to community support. The meeting included updates from various school departments and concluded with an executive session for personnel and legal advice.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/toutle_lake_school_district/2024/2024-02-26-february-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/toutle_lake_school_district/2024/processed/2024-02-26-february-minutes.txt)
 
 ## 2024-02-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
 The Bremerton School District Board of Directors held a regular meeting on February 15, 2024, where several key actions and reports were presented. Notably, the Board approved the revised Policy 3207 on Harassment, Intimidation, and Bullying, which includes updated language to address online bullying and clarifies that the policy pertains specifically to student issues. Additionally, the Board discussed the revision of Policy 2190, aimed at increasing equitable access to highly capable programs, in response to Senate Bill 5072. The meeting also highlighted the importance of social-emotional learning, with Board members expressing enthusiasm about recent initiatives and community engagement efforts. Furthermore, the Board approved a resolution for an addendum to a contract with Procare/Blazerworks for special education support, emphasizing the district's commitment to enhancing services for students with special needs.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-02-15-febregboardmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/processed/2024-02-15-febregboardmeeting-minutes.txt)
 
 ## 2024-02-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
 The Bremerton School District Board of Directors held a regular meeting on February 15, 2024, where they discussed and approved several key policies and agreements. Notably, they reviewed and approved a revision to Policy 3207, which addresses harassment, intimidation, and bullying, ensuring it includes language on online bullying as part of the procedures for investigation and district action. Additionally, Policy 2190 regarding Highly Capable programs was revised based on Senate Bill 5072, which aims to enhance equitable access to these programs. The board also approved a one-year agreement with the Association of Bremerton Administrators that includes a retroactive 4.2% salary increase. The meeting highlighted the importance of community engagement, with student representatives expressing gratitude for the district's support and initiatives, particularly in relation to social-emotional learning efforts.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-02-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/processed/2024-02-15-minutes.txt)
+
+## 2024-02-13 - CHIMACUM_SCHOOL_DISTRICT (Minutes)
+
+The Chimacum Board Meeting held on February 13, 2024, focused on various aspects of student support and community engagement. Superintendent Scott Mauk recognized National School Counselor’s Week and acknowledged the contributions of school counselors in promoting mental health and social-emotional learning among students. Counselors presented their work on identifying feelings, self-regulation, and conflict resolution, highlighting concerns regarding student behavior, anxiety, and academics. The board discussed CEE data, which revealed concerns about bullying in schools and the need for improved community involvement and communication. The meeting also included the acceptance of gift donations aimed at supporting educational resources, demonstrating a commitment to enhancing student learning environments.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/jefferson/school_boards/chimacum_school_district/2024/processed/2024-02-13-board-meeting-minutes.txt)
 
 ## 2024-02-13 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
 
 The Regular Board Meeting held on February 13, 2024, involved discussions and approvals of several revised policies aimed at enhancing school safety and addressing bullying. Notably, the board approved the revised Board Policy 3207, which prohibits harassment, intimidation, or bullying, and the revised Board Policy 3225, which focuses on school-based threat assessment, both of which underwent a second reading. Additionally, Board Policy 3421 concerning child abuse and neglect prevention was also approved. These policy changes reflect the board's commitment to fostering a safe educational environment. Furthermore, the meeting included a presentation on the Trentwood roof by Drew Wright, highlighting ongoing facilities concerns. The board also discussed the need for a facilities committee to prioritize district bond projects, indicating a proactive approach to school infrastructure and safety.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-02-13-minutes.txt)
 
 ### Board Member Actions
 
@@ -331,7 +387,7 @@ The Regular Board Meeting held on February 13, 2024, involved discussions and ap
 
 The Regular School Board Meeting on February 8, 2024, included several policy changes aimed at enhancing school governance and student welfare. Notably, the board approved MB Policy 3207, which focuses on the prohibition of harassment, intimidation, and bullying of students, emphasizing the district's commitment to creating a safe educational environment. Additionally, MB Policy 1611 concerning conflicts of interest for districts with fewer than 2,000 students was approved, which could help ensure transparency and ethical decision-making within the school board. The meeting also featured discussions on various programs, including Black History Month and Love the Bus Month, reflecting the board's engagement with community initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-02-08-minutes.txt)
 
 ### Board Member Actions
 
@@ -358,7 +414,7 @@ The Regular School Board Meeting on February 8, 2024, included several policy ch
 
 The Regular Board Meeting held on January 23, 2024, included several key actions and discussions relevant to school policies and community engagement. Notably, the board conducted a first reading of revisions to three policies: Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying; Board Policy 3225 - School Based Threat Assessment; and Board Policy 3421 - Child Abuse and Neglect Prevention. These revisions reflect ongoing efforts to enhance student safety and well-being. Additionally, the meeting featured a public comment from parent Christie Fields, who raised concerns about health issues in the district, specifically related to vaping and smoking, indicating a need for community engagement on student health matters. The board also recognized contributions from students and staff, highlighting the importance of appreciation within the community.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-01-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -375,31 +431,37 @@ The Regular Board Meeting held on January 23, 2024, included several key actions
 
 The Bainbridge Island School District No. 303 held a regular school board meeting on January 11, 2024, where several key actions and policy changes were discussed. Notably, the board approved the deletion of Policy 5015, which addressed the Prohibition of Harassment, Intimidation, and Bullying. This motion was presented by Board Director Sanjay Pal and Board Vice President Kelly Cancialosi, and it passed unanimously. Additionally, the board approved Resolution 06-23-24, which pertains to a contract to provide services to BISD students, again with unanimous support. The meeting also included discussions on school improvement plans for the 2023-2024 academic year, which received a mixed vote, highlighting some dissent among board members regarding the approval process.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-01-11-draft-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/processed/2024-01-11-draft-minutes.txt)
 
 ## 2024-01-11 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
 The Bainbridge Island School District No. 303 held a regular school board meeting on January 11, 2024, where several key actions were taken. Notably, the board approved the deletion of Policy 5015, which addressed the prohibition of harassment, intimidation, and bullying. This change may reflect a shift in the district's approach to bullying prevention, although no specific reasoning for the deletion was provided during the meeting. Additionally, the board unanimously approved Resolution 06-23-24, which pertains to a contract for providing services to BISD students, and the second reading of Policy 6815 regarding advertising on district property. These actions indicate ongoing efforts to refine district policies and ensure appropriate services for students.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-01-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/processed/2024-01-11-minutes.txt)
+
+## 2024-01-03 - DAYTON_SCHOOL_DISTRICT (Minutes)
+
+The Dayton School District's Board of Directors meets regularly on the first and third Wednesday of each month to review and adopt policies, including modifications related to bullying prevention and community engagement initiatives. The board emphasizes the importance of inclusivity and support for students with disabilities, as seen in their commitment to make accommodations for individuals needing modifications to participate in meetings. The district's mission statement reflects a focus on promoting academic excellence and active citizenship, underscoring the importance of community involvement in educational processes. Furthermore, the board has designated specific representatives for various roles, including legislative representation and negotiations, which highlights their structured approach to governance and policy changes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/processed/2024-01-03-02bodresponse-minutes.txt)
 
 ## 2023-12-21 - TOUTLE_LAKE_SCHOOL_DISTRICT (Minutes)
 
 The Toutle Lake School District #130 board meeting on December 21, 2023, included significant discussions on policy changes and updates related to special education and bullying prevention. The board unanimously approved the revised policies and procedures, which included 2162P – Education of Students with Disabilities Procedure, aimed at enhancing support for students with disabilities, and 3207/P – Prohibition of Harassment, Intimidation, and Bullying of Students & Procedure, focused on preventing bullying within the school environment. Additionally, the board tabled policy 3122 – Excused and Unexcused Absences for further discussion in January. The meeting also featured a presentation by Jennifer Halleck regarding the modernization grant process, which the board agreed to pursue, reflecting ongoing efforts to improve school facilities and resources.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/toutle_lake_school_district/2023/2023-12-21-december-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/toutle_lake_school_district/2023/processed/2023-12-21-december-minutes.txt)
 
 ## 2023-10-18 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on October 18, 2023.  The board reviewed and approved a consent agenda that included items such as meeting minutes, accounts payable, personnel reports, student travel, adult meal pricing, and a PT interlocal agreement. A key focus of the meeting was the first reading of several new or revised policies: Policy and Procedure 3207 – Prohibition of Harassment, Intimidation, and Bullying of Students; Policy 3210 - Nondiscrimination and Equity; Policy and Procedure 6240 – Meals with Meetings; and Procedure 3421F – Child Abuse, Neglect and Exploitation Prevention. These policies will be brought back for a second reading and approval at the November 1, 2023 meeting. The board also received reports on school data and district activities from administrators.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-10-18-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/processed/2023-10-18-minutes.txt)
 
 ## 2022-01-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting minutes reveal a contentious atmosphere regarding COVID-19 safety protocols. Several community members voiced concerns about mask mandates, vaccine requirements, and the impact of these policies on student well-being and autonomy. They argued that the board was not upholding constitutional rights and expressed frustration with perceived bullying and shaming of unvaccinated students. The board addressed snow make-up days, stating their intention to utilize built-in days in June and potentially seek a waiver if necessary. Remote learning options would be reserved for COVID-19 related circumstances.  The superintendent also highlighted potential funding opportunities from the Governor's budget for Social Emotional Learning (SEL) and school nurses, with possible extensions for nutrition, SPED, and outdoor education programs.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-01-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/processed/2022-01-13-minutes.txt)
 
 ## 2020-03-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -407,7 +469,7 @@ The Bellingham School District Board of Directors held a Student Roundtable meet
 
 Students expressed excitement about aspects of middle and high school, including having laptops, getting driver's licenses, and tackling more challenging math. They also voiced their desire for changes like a new building, chocolate milk in the cafeteria, better equipment, and more recess time. The meeting provided valuable insights into student needs and priorities, allowing the school board and district to consider these perspectives when making decisions about school policies and programs.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-03-04-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/processed/2020-03-04-minutes.txt)
 
 ## 2013-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -415,5 +477,5 @@ This transcript details a school board meeting focused on family engagement and 
 
 The transcript highlights the need for improved communication and support systems for families facing language barriers. Parents specifically requested translated materials, interpreter services, and assistance with navigating the school system and understanding homework expectations. Concerns about bullying prevention and the availability of extracurricular activities were also raised. The superintendent's closing remarks affirmed the district's dedication to addressing these concerns and fostering a more inclusive environment.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-10-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/processed/2013-10-24-minutes.txt)
 

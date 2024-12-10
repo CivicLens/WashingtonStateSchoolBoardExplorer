@@ -6,7 +6,7 @@ The Meridian School District #505 held a regular school board meeting on July 23
 
 In terms of educational technology, the Director of Technology, Joe O’Brien, presented the 2024-25 Technology Plan of Work, which included an overview of staff, support ticket reviews, and major technology projects for the upcoming school year. The board also received a finance report from Director of Finance Daniel Yorton, detailing budget strategies and projections, indicating ongoing financial management efforts within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/processed/2024-07-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -35,13 +35,13 @@ The Meridian School District #505 held a regular school board meeting on July 23
 
 In terms of technology, Joe O’Brien, the Director of Technology, presented the 2024-25 Technology Plan of Work, which included a review of past projects and future scheduled technology initiatives. The board also reviewed a budget update presented by Director of Finance Daniel Yorton, focusing on strategies to address program shortfalls and upcoming capital project financial updates. A first review of Grant Applicant Authorization Resolution 09-24 was introduced and will be revisited for approval at the next board meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-23-julyboardmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/processed/2024-07-23-julyboardmeeting-minutes.txt)
 
 ## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a meeting on February 21, 2024, where several key items were discussed, including the opposition to state legislation HB 5462 and ESHB 2331. The Board decided to seek further information from local legislators regarding these bills and scheduled a special session for February 23, 2024, to continue the discussion. Additionally, Assistant Superintendent Kurt Harvill presented three policies for first reading: Policy and Procedure 5271 on Reporting Improper Governmental Action, Policy and Procedure 5282 on Civility, and Policy 6111 on Tuition, all of which will return for second review and approval at the next regular meeting. Dr. Everett also introduced a partnership opportunity with the University of Washington focused on using generative AI to improve mathematics instruction, highlighting the district's commitment to integrating educational technology into its curriculum.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/processed/2024-02-21-minutes.txt)
 
 ### Board Member Actions
 
@@ -68,13 +68,13 @@ The Meridian School District #505 held a regular board meeting on February 21, 2
 
 The board also discussed their opposition to state legislation HB 5462 and ESHB 2331, deciding to gather more information from local legislators, with a Special Session Meeting scheduled for February 23, 2024, to continue this discussion. Furthermore, Dr. Everett introduced a Partnership Opportunity with the University of Washington focused on leveraging generative AI to enhance mathematics instruction, highlighting the district's commitment to educational technology and community engagement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-feb-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/processed/2024-02-21-feb-minutes.txt)
 
 ## 2024-01-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 held a regular school board meeting on January 24, 2024, where significant policy changes were discussed and approved. The MSD Board Operating Protocols and the Revised 2023-24 Plan of Work were both presented for a second review and subsequently adopted with unanimous support. The meeting also included a presentation by the Director of Special Services, Aaron Jacoby, regarding the Special Services Intervention Programs, which highlighted health services, family services, and special education, emphasizing celebrations and future goals. Additionally, Assistant Superintendent Kurt Harvill introduced several policies for first reading, including Policy and Procedure 4260F concerning the use of school facilities, Policy 5005 regarding employment and volunteer disclosures, and Policy 5280 focused on separation from employment, which will be revisited in the next meeting. Dr. Everett also mentioned a partnership opportunity with UW AmplifyLearn.AI, showcasing the district's commitment to integrating educational technology.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/processed/2024-01-24-minutes.txt)
 
 ### Board Member Actions
 
@@ -93,5 +93,5 @@ The Meridian School District #505 held a regular school board meeting on January
 
 The Meridian School District #505 held a regular board meeting on January 24, 2024, where several key actions were taken. The board adopted the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work, both receiving unanimous approval. Additionally, three policies were introduced for first readings: Policy and Procedure 4260F - Use of School Facilities, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment, all scheduled for second review and approval at the February 7, 2024, meeting. Director of Special Services, Aaron Jacoby, presented a report highlighting the district's health services, family services, and special education, emphasizing future goals and recent successes. Dr. Everett also discussed a partnership opportunity with UW AmplifyLearn.AI, indicating the district's focus on educational technology.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-jan-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/processed/2024-01-24-jan-minutes.txt)
 

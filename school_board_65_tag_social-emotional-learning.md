@@ -4,25 +4,25 @@
 
 The Lynden School Board meeting minutes detail the recognition of Tim Metz, Executive Director of Special Programs, as the Lynden/Ferndale Masonic Lodge Educator of the Year. Metz was lauded for his work in facilitating a return to in-person learning and overseeing Social Emotional Learning (SEL) programs focused on student wellness and creating a culturally responsive environment. The Board also received a budget report for the 2022-2023 school year from Ben Thomas, Director of Finance and Operations.  The report covered WA State funding history, enrollment projections, revenue and expenditure forecasts, and fund balances. The Board intends to approve the budget at a future meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-07-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/processed/2022-07-14-minutes.txt)
 
 ## 2022-03-24 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting on March 24, 2022, focused on several key areas.  The board approved a consent agenda that included various financial warrants and personnel action items. During the reports section, Elementary Principals and the Director of Teaching and Learning presented updates on the Elementary School Improvement Plan (SIP), highlighting efforts to meet learning targets, close learning gaps through interventions, and adopt new materials for K-5 learners. They also discussed the continued use of Character Strong and Safe and Civil learning programs across elementary schools to promote safe emotional learning.  Superintendent Mike Stromme provided information on the 2022 Legislative Consensus budget. The board then approved a Whatcom Discovery Interlocal Agreement.  The meeting concluded at 8:35 PM.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-03-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/processed/2022-03-24-minutes.txt)
 
 ## 2020-11-19 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting focused on several key topics.  Firstly, they reviewed and approved Policy #3122 regarding Excused and Unexcused Absences and Policy #6512 concerning the Infection Control Program. Secondly, a significant portion of the meeting was dedicated to discussing the reopening plan for grades 6-12, including recent statewide recommendations from Governor Inslee and their impact on performing arts, athletics, and other extracurricular activities.  The board also received updates on technology support for students and staff, as well as the implementation of social-emotional learning programs like Safe and Civil Schools and Character Strong in elementary schools. Finally, they reviewed and confirmed the schedule for future board meetings.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/2020-11-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2020/processed/2020-11-19-minutes.txt)
 
 ## 2019-04-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board held a meeting on April 25, 2019, to discuss various school matters.  The board reviewed the budget for March and approved several personnel action items, including new hires and change in assignments for both certificated and classified staff. Notably, the board discussed recommendations from the District's Planning Committee regarding long-term strategic plans. These plans included a focus on enhancing school safety measures and incorporating social-emotional learning into the curriculum. The meeting also highlighted the importance of community engagement and teacher support as key components in achieving the district's educational goals.  The board approved a leave of absence for Julia Russell, a paraeducator at the preschool.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-04-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/processed/2019-04-25-minutes.txt)
 
 ## 2017-10-26 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -32,7 +32,7 @@ The meeting also addressed long-term strategic planning for the district, specif
 
 Finally, the personnel recommendations section detailed new hires, changes in assignments, leaves of absence, resignations, and retirements for both certificated and classified staff. Notably, there was a focus on special education support with Tim Metz discussing challenges related to preschool funding and special education needs growth within Early Learning programs.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-10-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/processed/2017-10-26-minutes.txt)
 
 ## 2017-03-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -42,5 +42,5 @@ Updates were also provided on academic progress, including course mapping aligne
 
 Finally, the board engaged in **community engagement** by discussing feedback from a recent community meeting regarding school climate and safety. They also reviewed applications for open positions, underscoring potential **teacher-staff shortages**.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/2017-03-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2017/processed/2017-03-23-minutes.txt)
 

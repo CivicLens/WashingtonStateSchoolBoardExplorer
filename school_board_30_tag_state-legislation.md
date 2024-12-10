@@ -1,2 +1,26 @@
 # Meeting Summaries for OAK_HARBOR_SCHOOL_DISTRICT with Tag: state-legislation
 
+## 2024-02-26 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+
+The Oak Harbor Public Schools Board of Directors held a meeting on February 26, 2024, where they adopted the agenda and approved a consent agenda that included the minutes from the previous meeting and several personnel changes, such as a leave of absence for a teacher, resignations, and a retirement. Notably, the board discussed updates to several policies, including the 6210P Purchasing Authorization and Control Policy, which aims to support ongoing construction projects. Additionally, there were updates to policies related to highly capable services, high school graduation requirements, and equivalency credit for career and technical education courses. The board also received a legislative update indicating that the 2-year budget was unveiled and legislation is being considered to increase funding for Materials, Supplies, and Operating Costs (MSOCs). Community engagement was highlighted through student reports on fundraising events and a community recreational center proposal.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/processed/2024-02-26-minutes.txt)
+
+## 2024-02-12 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+
+The Oak Harbor Public Schools Board of Directors held a meeting on February 12, 2024, where they adopted the agenda and approved the consent agenda, which included the minutes from the previous meeting, a personnel report, and financial warrants. Key personnel changes included a leave of absence for Alyssa Fisher and resignations from several paraeducators and food service workers. The board recognized the kindergarten and transition to kindergarten teams for their dedication. Superintendent Michelle Kuss-Cybula provided updates on strategic planning, budget advisory work, and school construction projects. Notably, Director Nicole Tesch discussed ongoing legislative conversations regarding Materials, Supplies, and Operating Costs (MSOCs), highlighting the discrepancy between state funding allocations and actual costs. The board also conducted a first reading of updates to board policies recommended by the Washington State School Directors Association (WSSDA). Upcoming meetings were announced, including a study session on the budget following the next regular meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/processed/2024-02-12-minutes.txt)
+
+## 2024-01-29 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+
+The Oak Harbor Public Schools Board of Directors held a meeting on January 29, 2024, where they adopted the agenda and approved the consent agenda, which included personnel changes and financial reports. Notably, Maribeth Wunderly was recommended for employment as a Special Education Resource Room teacher at Crescent Harbor Elementary School, while Hannah Szilagyi resigned as a School Counselor at Oak Harbor High School. The board also discussed legislative updates, including House Bill 1960 related to the prototypical funding model, highlighting the ongoing engagement with state legislation affecting the district. Superintendent Michelle Kuss-Cybula recognized the board's dedication and acknowledged student-created artwork displayed at the meeting. The board is scheduled for upcoming meetings to further discuss the budget and other district matters.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/processed/2024-01-29-minutes.txt)
+
+## 2024-01-08 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+
+The Oak Harbor Public Schools Board of Directors held a meeting on January 8, 2024, where they discussed several key topics. Superintendent Michelle Kuss-Cybula highlighted the successful implementation of a front door intercom system at Olympic View Elementary School, emphasizing the district's commitment to school safety. The board also received updates on special education initiatives, including a report on the McKinney Vento Program, which supports homeless students. Additionally, Director Tesch provided a legislative update, noting the commencement of the Legislative Session and the focus on special services and free meals for students, indicating ongoing community engagement efforts. The meeting concluded with the unanimous approval of the Collective Bargaining Agreement between Oak Harbor School District (OHSD) and the Public School Employees (PSE) for 2023-2026, reflecting the board's commitment to supporting staff and fostering a collaborative environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/processed/2024-01-08-minutes.txt)
+

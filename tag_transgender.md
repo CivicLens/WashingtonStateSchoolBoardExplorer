@@ -4,7 +4,7 @@
 
 The Lynden School District Board meeting on October 3, 2024, included discussions on the participation of transgender athletes in girls’ sports, with multiple community members expressing opposition to this policy. Director Hickman addressed recent social media posts related to the board's work on this topic. The board also reviewed and approved several policies, including the adoption of Policy 2401 regarding Financial Education Mastery-Based Learning & Credit, and updates to Policy 3241 on Student Discipline. The board's workshop focused on prioritizing positions for submission to the Washington State School Directors' Association (WSSDA), emphasizing advocacy for fully funded basic education and support for special education. The meeting highlighted community engagement on sensitive topics, particularly around inclusivity and sports participation.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-10-03-minutes.txt)
 
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -12,7 +12,7 @@ The Lynden School District Board meeting on September 5, 2024, included discussi
 
 Additionally, a community member raised concerns about school safety following the failure of a bond measure, emphasizing the need for security officers on all campuses. This highlighted a broader concern about school safety and funding priorities. The board also moved several policies to a second reading, including Policy 2125 on Sexual Health Education and Policy 3211/P on Gender Inclusive Schools, reflecting ongoing policy changes aimed at inclusivity and addressing community feedback.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-09-05-minutes.txt)
 
 ### Board Member Actions
 
@@ -40,7 +40,7 @@ Directors Brar. Motion carried b...[truncated, use api for full text] |
 
 The Lynden School District Board Meeting held on August 15, 2024, included discussions on various policies, notably Policy 3211/P regarding Gender Inclusive Schools. Superintendent David VanderYacht reported ongoing consultations with legal counsel to amend this policy, aiming to align with recent developments in WIAA (Washington Interscholastic Activities Association) participation policies, which allow students to compete in sports corresponding to their gender identity. The board discussed community feedback received concerning the participation of transgender athletes in girls' sports, emphasizing the importance of fair competition and the rights of female athletes. Community members expressed concerns through written comments about the implications of these policies on female athletics. Additionally, the meeting addressed the 24/25 Budget adoption (Resolution #10-24) and included a presentation on graduation pathways by Lynden High School Principal Ian Freeman, highlighting the district's focus on personalized education for students.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-08-15-minutes.txt)
 
 ### Board Member Actions
 
@@ -55,7 +55,7 @@ The Lynden School District Board Meeting held on August 15, 2024, included discu
 
 The Regular Board Meeting held on July 23, 2024, included discussions on updates regarding the WIAA's transgender policy, specifically raised by Mr. Bly. Additionally, Mr. Talbott presented new language for drug and alcohol violations for East Valley student-athletes, highlighting a focus on student health and safety. The meeting also addressed financial matters, including the approval of various vouchers for bills and payroll for June and July, and the approval of the East Valley Extracurricular Employees Organization Contract. The board discussed the delay in the Trentwood roof replacement project, which incurred an additional cost of $32,414.36 due to drain failures on the EVHS roof.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-07-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -90,13 +90,19 @@ The Regular Board Meeting held on July 23, 2024, included discussions on updates
 | [Justin Voelker](board_member_283.md) | voted yes on the motion to approve the East Valley Extracurricular Employees Organization Contract | Approved the East Valley Extracurricular Employees Organization Contract. |
 | [Justin Voelker](board_member_283.md) | voted yes on the motion to approve the weeded book lists | Approved the CCS, Trent, Trentwood, East Farms, Otis Orchards, and EVMS weeded book lists. |
 
+## 2024-06-27 - MEAD_SCHOOL_DISTRICT (Minutes)
+
+The June 27, 2024 Board Retreat included discussions on various topics, notably the district's approach to transgender athletic participation, which was identified as an area of concern. The board also reviewed the Intra-District Transfer process (Policy/Procedure 3131), discussing possible changes to make the process less restrictive. Additionally, the meeting featured discussions on expanding the partnership with CHAS, focusing on community engagement through tools like ThoughtExchange and Stakeholder Panels. Superintendent Travis Hanson announced plans to draft a new Strategic Plan as the current one sunsets at the end of the school year. The board also considered the budget allocation for educational technology, specifically Chromebooks, indicating a careful review of investments in technology for the upcoming school year.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/mead_school_district/2024/processed/2024-06-27-boardretreat-minutes.txt)
+
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School District Board meeting on June 20, 2024, addressed several significant topics, including the participation of transgender athletes in sports. Community members voiced their opposition to allowing biological males to compete in female sports, raising concerns about Title IX implications and the potential impact on girls' sports. In response to these concerns, the board discussed a proposed resolution (Resolution #09-24) advocating for fair, safe, and nondiscriminatory practices in athletic and extracurricular activities, which was amended to remove specific references to "including transgender athletes." Additionally, the board expressed interest in revising their Gender Inclusive Policy (3211) to align with practices observed in other districts, indicating a desire to engage with legal counsel on this matter.
 
 The board also reviewed the Alternative Learning Experience (ALE) Program and approved it for the 2024/2025 school year. Discussions included a report from the Safety & Security Task Force aimed at improving safety protocols within district facilities. The meeting concluded with members reflecting on personal milestones, including graduations, showcasing community engagement and support for educational pathways within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-06-20-minutes.txt)
 
 ### Board Member Actions
 
@@ -119,7 +125,7 @@ Nondiscriminatory Practice in Athleti...[truncated, use api for full text] |
 
 The Regular Board Meeting on May 28, 2024, included a public comment from Todd Gropp regarding concerns about fairness related to transgender athletes. The board also approved revisions to Board Policy 4060 - Distribution of Information, with no specific details provided about the nature of the changes. Additionally, the meeting featured a strategic plan unveiling by Tammy Campbell from The Scholar First for the years 2024-2030, indicating a focus on future educational goals and community engagement. The meeting concluded with an executive session to review the performance of a public employee, reflecting ongoing governance and oversight responsibilities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-05-28-minutes.txt)
 
 ### Board Member Actions
 
@@ -145,13 +151,13 @@ The Regular Board Meeting on May 28, 2024, included a public comment from Todd G
 
 The Meridian School District Board held a meeting on April 27th, 2022, to discuss various agenda items. Notably, they conducted a second reading and approved Policy & Procedure 3211—Gender Inclusive Schools with a vote of 3-2. This policy aims to create a welcoming and inclusive environment for all students, regardless of their gender identity.  The board also reviewed and approved several other policies, including those related to medication at school (Policy & Procedure 3416), opioid overdose reversal (Policy & Procedure 3424), and parent access to a safe and orderly learning environment (Policy & Procedure 4200). These policy changes reflect the district's commitment to student well-being and creating a supportive educational experience for all.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/processed/2022-04-27-minutes.txt)
 
 ## 2022-04-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail several first readings of new policies and updates to existing ones. Notably, Policy & Procedure 3211 underwent a revision focusing on "Gender Inclusive Schools." While the specific content of the revisions isn't mentioned, the title suggests an emphasis on inclusivity for transgender and gender non-conforming students.  The board also reviewed a first reading of Policy & Procedure 3424 concerning "Opioid-Related Overdose Reversal," indicating a potential focus on student health and safety. The minutes also document a hiring update and spring break maintenance updates provided by Superintendent Dr. James Everett.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-04-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/processed/2022-04-13-minutes.txt)
 
 ## 2022-02-10 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -162,13 +168,13 @@ The meeting also included a discussion on potential policy changes driven by par
 
 Further, the minutes document requests from students for greater autonomy regarding mask-wearing and highlight concerns about the impact of masks on breathing.  The meeting also included discussion about lunch times and recess rules at elementary schools and Lynden Middle School (LMS).
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/processed/2022-02-10-minutes.txt)
 
 ## 2020-01-13 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District held a special board meeting on January 13, 2020, to discuss and approve the first reading of several new policies. Policy 3211, "Gender-Inclusive Schools," was introduced in response to Senate Bill 5689 which required the district to adopt such a policy by January 31, 2020. During discussion, two sentences regarding communication with parents were slated for removal from the updated procedural language. Concerns about locker room privacy and how similar gender issues are handled in lower grades were also raised. The board unanimously approved the first reading of Policy 3211.  Policies 3143 "District Notification of Juvenile Offenders," 3144 "Release of Information Concerning Student Sexual and Kidnapping Offenders" and 3145 "Sex Offender Access to District Property" were also introduced for their first reading. These policies, developed in collaboration with law enforcement, aim to establish a common protocol for addressing sexual offenders' access to school property. Discussions centered around the public availability of related information and the limited access granted to adult offenders who have children attending Blaine Schools. The board unanimously approved the first reading of all three policies.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/2020-01-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/processed/2020-01-13-minutes.txt)
 
 ## 2019-06-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -176,11 +182,11 @@ The Bellingham School Board meeting minutes highlight student perspectives on di
 
 One student noted taking an African American history class and suggested it should be required for all students. The meeting included a report from Ms. Diaz Hackler about her interactions with students at a linkage meeting, where she learned about the disconnect between the language used in "The Bellingham Promise" and the students' lived experiences.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-06-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/processed/2019-06-05-minutes.txt)
 
 ## 2017-11-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail revisions made to the district's "Ends" policies.  Specifically, Item 3 was amended to change the pronoun used for the Superintendent from "he/she" to "they." This alteration reflects a shift towards more inclusive language. No further explanation or rationale for this change is provided in the minutes. The meeting also included updates on visits by local political representatives to Options High School and discussions regarding upcoming WSSDA regional and annual conferences.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-11-01-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/processed/2017-11-01-minutes.txt)
 

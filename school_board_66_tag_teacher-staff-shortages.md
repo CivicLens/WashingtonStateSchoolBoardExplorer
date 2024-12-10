@@ -8,7 +8,7 @@ Presentations focused on bus safety and the Highly Capable Learning program. The
 
 The district also faces teacher and staff shortages, which was mentioned during the meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/processed/2022-10-19-minutes.txt)
 
 ## 2022-09-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -16,5 +16,5 @@ The Meridian School District #505 held a regular school board meeting on Septemb
 
 The text also mentions teacher-staff shortages.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-07-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/processed/2022-09-07-minutes.txt)
 

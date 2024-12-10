@@ -4,7 +4,7 @@
 
 The Regular School Board Meeting on February 8, 2024, included several policy changes aimed at enhancing school governance and student welfare. Notably, the board approved MB Policy 3207, which focuses on the prohibition of harassment, intimidation, and bullying of students, emphasizing the district's commitment to creating a safe educational environment. Additionally, MB Policy 1611 concerning conflicts of interest for districts with fewer than 2,000 students was approved, which could help ensure transparency and ethical decision-making within the school board. The meeting also featured discussions on various programs, including Black History Month and Love the Bus Month, reflecting the board's engagement with community initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-02-08-minutes.txt)
 
 ### Board Member Actions
 

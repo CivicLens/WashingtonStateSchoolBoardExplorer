@@ -4,7 +4,7 @@
 
 The Selah School District No. 119 board meeting on September 26, 2024, included discussions on curriculum transparency concerning LGBTQ topics, prompted by audience member Mary Schuler's questions regarding the district's plans for teaching LGBTQ history and parental notification about opt-out rights for students. The board also highlighted community engagement through a recent forum that addressed safety, bullying, and mental health supports, indicating a focus on student health and well-being. Additionally, the meeting covered various administrative matters, including the approval of payroll and consent agenda items, and noted a decline in student enrollment, which was reported as being 43 under projection.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-09-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-09-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -23,7 +23,7 @@ The Selah School District No. 119 board meeting on September 26, 2024, included 
 
 The minutes from the Selah School District No. 119 Board of Directors meeting on July 25, 2024, include a public comment regarding the introduction of a K-12 LGBTQ+ program, which is set to be implemented in August. Mary Schuler, a guardian of children in the schools, expressed concerns about potential funding loss associated with this program and indicated that she would provide additional information to the board. The meeting also addressed the 2024-25 budget, which is projected to have a $1.3 million deficit while maintaining reserves of $8.9 million, and included discussions on staffing changes, with a reduction of 8 FTE in certified staffing and an increase of 2.19 FTE in classified staffing. The board approved several resolutions, including Resolution No. 2024-12 for the adoption of the 2024-25 budget and Resolution No. 2024-11 for the designation of auditing officers.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-07-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-07-25-minutes.txt)
 
 ### Board Member Actions
 

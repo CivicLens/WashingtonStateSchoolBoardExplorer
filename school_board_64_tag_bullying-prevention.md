@@ -4,7 +4,7 @@
 
 The meeting focused on the issues of harassment, intimidation, and bullying within the school district, featuring a panel that included Dr. Chris Cochran, Director of Behavioral Health, and various school administrators. The discussion emphasized the importance of addressing bullying and fostering a safe environment for students. Additionally, Holly Graham, the Finance Manager, reported on the collaborative efforts of the Directors in developing the school board budget for the 2024-25 academic year. The meeting concluded with an adjournment at 7:35 PM after addressing these key topics.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-05-16-minutes.txt)
 
 ## 2024-02-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -12,7 +12,7 @@ The regular meeting of the school board on February 27, 2024, included discussio
 
 The meeting also addressed community engagement, with student representatives reporting on events such as the DECCA State Career Development and the musical "Anastasia." Furthermore, legislative updates were provided, including a proposed resolution opposing HB2331 and SB5462, which prompted a discussion on the board's influence on state legislation and the need for further understanding of its implications for the district. Dr. Dominguez will seek legal guidance regarding these legislative matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-02-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-02-27-minutes.txt)
 
 ### Board Member Actions
 

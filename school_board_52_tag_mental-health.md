@@ -4,7 +4,7 @@
 
 The La Conner School Board of Directors held a special meeting on September 9, 2024, where they approved several action items including the adoption of a Memorandum of Understanding (MOU) for a Title 1 Migrant Mental Health Therapist, which aims to provide mental health services to approximately 15 non-native K-12 students at no cost to the district. This aligns with the district's mandate to support non-English speaking students lacking other forms of assistance. Additionally, the board discussed the upcoming EPO replacement levy set to begin in 2026, emphasizing the importance of community engagement in the process, which includes drafting a resolution and holding community meetings. The board also adopted various interlocal agreements and MOUs related to educational services and programs, including a bike education program and truancy court system, reflecting a commitment to enhancing student support and involvement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-09-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-09-09-minutes.txt)
 
 ### Board Member Actions
 
@@ -33,7 +33,7 @@ The La Conner School Board of Directors held a special meeting on August 12, 202
 
 In addition, the board discussed a significant policy change regarding cell phone use in schools. Starting in the 2024-2025 school year, the district plans to implement a cell phone-free environment to enhance student engagement and mental health by reducing distractions. This initiative follows unsuccessful attempts over the past two years to limit cell phone use and aligns with practices adopted by nearby districts. The board expressed support for the policy, which aims to foster better social interactions and academic focus among students. The implementation will involve using Yondr pouches for high school students and locked cases for middle school students to store their devices during school hours. The board is seeking community feedback to facilitate a smooth transition to this new policy.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-08-12-minutes.txt)
 
 ### Board Member Actions
 
@@ -62,7 +62,7 @@ In addition, the board discussed a significant policy change regarding cell phon
 
 The La Conner School Board held a special meeting on July 29, 2024, to discuss and adopt the 2024-2025 budget, highlighted by Superintendent David Cram's presentation of budgetary constraints and staffing reductions due to declining enrollment. The board approved Resolution No 24-17, which adopts the proposed budget, and acknowledged the need for ongoing community engagement to address concerns regarding financial contributions from the Swinomish Tribe, particularly in light of a significant Native American student population. The meeting also included discussions on the impact of the McCleary Act on salary increases for staff and the necessity for the district to reach a 10% reserve fund to comply with policy. No public comments were made during the session.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-07-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-07-29-minutes.txt)
 
 ### Board Member Actions
 
@@ -83,7 +83,7 @@ The La Conner School Board held a special meeting on July 29, 2024, to discuss a
 
 The La Conner School Board meeting on March 25, 2024, included significant discussions around community engagement, particularly with the Swinomish Tribe. Tribal Chairperson Steve Edwards emphasized the importance of unity and collaboration between the school district and the tribe, advocating for improved relationships to benefit students. The board expressed commitment to fostering a sense of inclusion and belonging for all students. Additionally, the meeting addressed several policy changes, including the approval of multiple revised policies such as Policy 1450 on Board Member Absences and Policy 2415 regarding Performance-Based Pathway for High School Graduation. The board also discussed mental health initiatives, highlighting the need for social-emotional learning and proactive behavior responses to support students facing disengagement or mental health challenges.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-03-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-03-25-minutes.txt)
 
 ### Board Member Actions
 

@@ -4,7 +4,7 @@
 
 The Selah School District No. 119 Board of Directors meeting on October 10, 2024, included an appeal hearing regarding the reconsideration of library books, specifically addressing concerns raised by Daylene Ackerman about several titles. The Instructional Materials Committee (IMC) reviewed six books and ultimately decided to retain them, citing the importance of reading entire texts to understand their context and moral consequences. The IMC's decision can be appealed to the Superintendent, but any resolution cannot be revisited for three years, as outlined in Procedure 2021. The discussion highlighted the need for greater parental involvement and community engagement in the review process, with board members expressing a desire for a more diverse representation of parental opinions. The meeting concluded without public comment and adjourned at 7:48 a.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-10-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-10-10-minutes.txt)
 
 ### Board Member Actions
 
@@ -20,7 +20,7 @@ The Selah School District No. 119 Board of Directors meeting on October 10, 2024
 
 The Selah School District Board of Directors meeting on August 22, 2024, covered several key topics, including the approval of various policy updates. Notably, the board adopted updates to policies related to Digital Citizenship and Media Literacy, Physical Education and Health, Nutrition, and Wellness, among others. These changes reflect ongoing efforts to enhance educational standards and promote student health. The board also discussed community engagement strategies, such as the introduction of a superintendent Q&A session to facilitate open dialogue with the public. Furthermore, the meeting highlighted achievements of district staff and students, including awards received by individuals like Maggie Uceny and Chris Harris, showcasing the district's commitment to recognizing excellence in education.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-08-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-08-22-minutes.txt)
 
 ### Board Member Actions
 
@@ -38,7 +38,7 @@ The Selah School District Board of Directors meeting on August 22, 2024, covered
 
 The minutes from the Selah School District No. 119 Board of Directors meeting on July 25, 2024, include a public comment regarding the introduction of a K-12 LGBTQ+ program, which is set to be implemented in August. Mary Schuler, a guardian of children in the schools, expressed concerns about potential funding loss associated with this program and indicated that she would provide additional information to the board. The meeting also addressed the 2024-25 budget, which is projected to have a $1.3 million deficit while maintaining reserves of $8.9 million, and included discussions on staffing changes, with a reduction of 8 FTE in certified staffing and an increase of 2.19 FTE in classified staffing. The board approved several resolutions, including Resolution No. 2024-12 for the adoption of the 2024-25 budget and Resolution No. 2024-11 for the designation of auditing officers.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-07-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-07-25-minutes.txt)
 
 ### Board Member Actions
 
@@ -57,7 +57,7 @@ The minutes from the Selah School District No. 119 Board of Directors meeting on
 
 The Selah School District Board of Directors held a meeting on June 27, 2024, where the primary focus was the adoption of the "Since Time Immemorial" (STI) curriculum, which aims to incorporate Native American history and perspectives into the educational framework. Alicia Jacob provided updates on the curriculum development process, emphasizing community engagement and transparency, detailing how feedback led to significant changes, including the replacement of the book "Indigenous Peoples of the United States" with a Virginia Beavert autobiography. The board faced divided opinions during public comments, with some community members expressing support for the curriculum's inclusive approach to history, while others raised concerns about perceived inaccuracies and divisive language in the proposed materials. Notably, the board approved the curriculum with a vote of 4-1, despite significant public opposition, highlighting a contentious debate over educational content and historical representation. The meeting also included discussions on various resolutions, including the authorization of warrant signatures and contracts for administrative positions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-06-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-06-27-minutes.txt)
 
 ### Board Member Actions
 

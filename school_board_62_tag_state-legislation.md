@@ -6,5 +6,5 @@ The Bellingham School District Board of Directors met on July 6, 2017, to discus
 
 The board reviewed and approved several consent agenda items, including minutes from previous meetings, investments, and expenditures. Notably, the board addressed the monitoring report on EL-6, Academic Standards and Practices, and made changes to the policy to emphasize the involvement of stakeholder groups and the review of academic content and curriculum. The revisions included a new monitoring frequency of annually in March and a motion to remove specific month references in monitoring frequencies across all EL policies. Additionally, board member Camille Diaz Hackler reported her observations of the free lunch distribution process at the Sportsplex, demonstrating community engagement in district programs.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/processed/2024-07-06-minutes.txt)
 

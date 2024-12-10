@@ -6,7 +6,7 @@ The January 8, 2024 Board Meeting of the Lake Washington School District focused
 
 Significantly, Superintendent Holmen shared insights into Washington state's celebration of Chinese American History Month and Senate Bill 5000, which was signed into law with the involvement of student Emily Shi. Additionally, the board discussed the use of AI in education following meetings with legislators, emphasizing the integration of educational technology. The board is scheduled to advocate for legislative priorities during the upcoming "LWSD Day on the Hill" event on January 24, 2024.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-01-08-minutes.txt)
 
 ### Board Member Actions
 

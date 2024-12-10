@@ -2,9 +2,15 @@
 
 ## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a regular meeting on October 9, 2024, where several proclamations were made, including recognition of National Bullying Prevention Month and LGBT History Month. The board also discussed and approved several policy changes, notably the Second Reading and Adoption of Policy 2418, which addresses the Waiver of High School Graduation Credits, and Policy 2415, which introduces a Performance-Based Pathway for High School Graduation. Additionally, the board voted to repeal Resolution No. 1669, related to the creation of a Labor Policy Committee. The meeting emphasized the importance of community engagement and the board's commitment to creating equitable systems within the educational environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-09-regular-meeting-pm-minutes.txt)
+
+## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 Board of Directors held a meeting on October 9, 2024, where several proclamations were made, including recognition of LGBT History Month and National Bullying Prevention Month, emphasizing the district's commitment to inclusivity and safety in schools. The board addressed school safety concerns raised during public comments, specifically regarding school lockdowns. Additionally, the board discussed and approved several policy changes, including the adoption of Policy 2415, which pertains to a performance-based pathway for high school graduation, and Policy 2418, which allows for waivers of high school graduation credits. A significant motion to repeal Resolution No. 1669, which established a Labor Policy Committee, was also carried after public commentary.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-09-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -22,7 +28,7 @@ The Kent School District No. 415 Board of Directors held a meeting on October 9,
 
 The Kent School District No. 415 Board of Directors held a meeting on September 11, 2024, where they discussed several key topics, including the Superintendent's Contract and legislative priorities for the 2024-2025 school year. The board recognized National Hispanic Heritage Month and September Attendance Awareness Month. During the meeting, public comments addressed issues such as the Superintendent's contract and student harassment, emphasizing the need for stable leadership and support for bullying prevention measures. A motion to approve the Superintendent's Contract was tabled initially but ultimately carried after extensive discussion. The board also approved gifts, donations, and memorials acceptance, and the consent agenda, which included minutes from previous meetings. The meeting concluded with board reports and no final audience comments, highlighting the importance of community engagement in school governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-11-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-11-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -63,7 +69,7 @@ The Kent School District No. 415 Board of Directors held a meeting on September 
 
 The Kent School District No. 415 Board of Directors held a meeting on February 28, 2024, where they addressed several significant topics, including student mental health and bullying prevention. The board discussed the approval of various policies, including the Second Reading and Approval of Policy 5011, which prohibits sexual harassment of district staff, and Policy 3122, which pertains to excused and unexcused absences. Additionally, they approved Resolution No. 1669, creating a Labor Policy Committee of the Board, which sparked public comment regarding its implications. The meeting featured extensive public engagement, with community members voicing concerns about mental health, bullying, and the district's educational programs. The board's decisions reflect ongoing efforts to enhance student well-being and uphold ethical standards within school governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-28-board-minutes.txt)
 
 ### Board Member Actions
 

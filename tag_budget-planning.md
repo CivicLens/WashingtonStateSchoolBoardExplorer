@@ -6,7 +6,7 @@ The Blaine School District No. 503 held a special board meeting on January 11, 2
 
 Porter emphasized the importance of compliance with state law regarding budget projections and outlined the district's policy to end the year with a fund balance of at least 6% of expenditures. The meeting also addressed the implications of federal ESSER funds on the district's financial health and staffing expenses. Additionally, there were discussions about the impact of legislative changes on funding and the district's approach to special education support, highlighting the challenges faced due to declining enrollment and increased staffing costs. The board was encouraged to engage with district leadership for ongoing communication regarding budget considerations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/processed/2024-01-11-minutes.txt)
 
 ### Board Member Actions
 

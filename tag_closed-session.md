@@ -4,7 +4,7 @@
 
 The Board Work Session held on April 23, 2024, included interviews for the Director District 1 position with candidates Leticia Zesati and Betty Cis Kennard. Following the interviews, the Board entered an executive session at 7:15 PM to discuss the qualifications of candidates for appointment to elective office, extending the session to 7:56 PM. The meeting concluded with a closed session at 8:00 PM regarding collective bargaining sessions and grievance meetings, which lasted until 8:45 PM. The Board's decisions during these sessions were unanimously supported by all present members: Jilliann Patterson, Stephen Berg, Linda Roberts, and Jory Anderson.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-04-23-minutes.txt)
 
 ### Board Member Actions
 

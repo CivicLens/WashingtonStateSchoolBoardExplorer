@@ -4,7 +4,7 @@
 
 The School Board meeting held on October 24, 2024, included discussions on various topics such as the approval of the agenda, personnel actions, and financial matters. A significant action was the unanimous approval of MB Board Resolution 24/25:1, which authorized the transfer of funds from the Capital Projects Fund to the General Fund. Additionally, Natalie Chavez expressed concerns regarding the School Based Health Clinic, highlighting community engagement and student health as important issues for the board. The meeting also included a review of the consent agenda, which encompassed donations, agreements for consulting services, and staffing arrangements.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-10-24-minutes.txt)
 
 ### Board Member Actions
 
@@ -21,7 +21,7 @@ The School Board meeting held on October 24, 2024, included discussions on vario
 
 The regular school board meeting held on August 8, 2024, included various policy changes and updates relevant to educational technology and student health. Notable actions included the approval of MB Policy 6212 regarding Charge Cards and Procurement Cards, MB Policy 2022 on Electronic Resources and Internet Safety, and MB Policy 2023 on Digital Citizenship and Media Literacy, all receiving unanimous support from board members. These policies emphasize the importance of safe digital practices and responsible use of technology in schools. Additionally, the board discussed the integration of AI in schools, encouraging further dialogue among members. Community engagement was highlighted through initiatives such as the Mount Baker Athletics and Academics Weekend and the school-based health clinic, addressing local student health concerns.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-08-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-08-08-minutes.txt)
 
 ### Board Member Actions
 
@@ -37,13 +37,13 @@ The regular school board meeting held on August 8, 2024, included various policy
 
 The Special School Board Meeting held on July 29, 2020, focused on the reopening of schools amid the COVID-19 pandemic. A significant action item was the approval of MB Resolution 19/20:19, which requests a waiver for the minimum 180-day school year for grades K-12 for the 2020-2021, 2021-2022, and 2022-2023 school years. This resolution was moved by Mr. Pfeiﬀer-Hoyt and seconded by Ms. Elder, passing with a vote of 4-0. The meeting was conducted via Zoom, reflecting the adaptations made during the pandemic, and emphasized the ongoing discussions regarding the safe reopening of schools.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-07-29-minutes.txt)
 
 ## 2024-07-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District Board meeting on July 11, 2024, included discussions on various policies and community engagement initiatives. The Board approved the 2023-2028 CTE District Wide Plan and the 2023-2024 Carl Perkins Application, both of which aim to enhance career and technical education within the district. Notably, Natalie Chavez voiced concerns regarding the School Based Health Clinic, highlighting the importance of student health services and community feedback in shaping school policies. The meeting also featured a donation of $2,500 from Susan Kelley to Kendall Elementary, illustrating community support for local educational initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-07-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -60,13 +60,13 @@ The Mount Baker School District Board meeting on July 11, 2024, included discuss
 
 The minutes from the School Board meeting held on July 9, 2020, detail several key actions and discussions relevant to the district's budget and safety measures during the COVID-19 pandemic. The board approved two resolutions: MB Resolution 19/20:17 for the 2019-2020 Budget Extension and MB Resolution 19/20:16 for the 2020-2021 Budget, both motions carried unanimously. The meeting also included a presentation by Ben Thomas, Executive Director of Finance & Operations, discussing funding sources for schools in Washington, enrollment, staffing, and the four-year outlook for the district's finances. Additionally, the board addressed COVID-19 planning updates and discussed various safety measures in light of the ongoing pandemic. The meeting emphasized community engagement with no public comments recorded during the public hearing segment regarding the budget extensions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-07-09-minutes.txt)
 
 ## 2024-06-27 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The regular school board meeting held on June 27, 2024, included several key resolutions and policy approvals. Notably, the board approved MB Board Resolution 23/24:21, which authorizes the issuance of a limited general obligation note, as well as MB Board Resolution 23/24:22, which adopts the 2024/2025 budget. Additionally, they approved the Schedule of Compensation, Benefits, & Other Information for Non-Represented Certificated Staff (Exempt). The meeting also featured the approval of MB Policy 2255 regarding Alternative Learning Experience Courses for first and final reading, indicating a potential shift in educational offerings. The board recognized Kendall Elementary for its achievements in closing the gap in educational outcomes, reflecting a commitment to improving student performance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-06-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-06-27-minutes.txt)
 
 ### Board Member Actions
 
@@ -87,7 +87,7 @@ The regular school board meeting held on June 27, 2024, included several key res
 
 The regular school board meeting held on June 13, 2024, included discussions on various policy changes and community engagement initiatives. Notably, the board approved the MBEA Contract and the PSE Contract, both of which were added to the agenda after an executive session. The meeting also featured a letter from Sarah Strachila and Mike Lembo addressing concerns regarding class sizes for the 2024-25 school year, highlighting community feedback on educational standards. Additionally, the board discussed the implications of the MB Resolution 23/24:20, which pertains to WIAA Membership, indicating ongoing engagement with athletic governance. The meeting concluded with scheduled future meetings to continue addressing these and other educational matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-06-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-06-13-minutes.txt)
 
 ### Board Member Actions
 
@@ -112,7 +112,7 @@ The regular school board meeting held on June 13, 2024, included discussions on 
 
 The Regular School Board Meeting held on May 23, 2024, included significant actions regarding policy changes. The board approved the 24/25 School Calendar with a vote of 4-1. Additionally, they approved a Health Clinic Agreement with language adjustments, which was seconded by Ms. Danielle Gray and passed unanimously. The meeting also included the approval of MB Board Resolution 23/24:19, which authorizes an interfund loan and grants authority to the Superintendent to manage it, also passing unanimously. These actions reflect ongoing efforts to manage district operations effectively and address financial planning for the upcoming school year.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-05-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -129,7 +129,7 @@ The Regular School Board Meeting held on May 23, 2024, included significant acti
 
 The Regular School Board Meeting on May 9, 2024, included significant discussions and decisions regarding various policies and community engagement efforts. Notably, the board approved several policies during the meeting: MB Policy 2004 on Performance Improvement Goals for its second reading, MB Policy 2230 on the Transition to Kindergarten Program for its first and final reading, and MB Policy 3142 on International Student Exchange also for its first and final reading. Additionally, a motion was passed to consider the appointment of an Interim Superintendent for the 2024-2025 school year. Community engagement was highlighted through audience participation, where Theresa Sygitowicz expressed concerns about upcoming board decisions, while Holly Koons expressed her support for the Interim Superintendent. The meeting also featured discussions on various programs and initiatives, including CTE scholarships and the Harmony EOM Assembly.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-05-09-minutes.txt)
 
 ### Board Member Actions
 
@@ -148,7 +148,7 @@ The Regular School Board Meeting on May 9, 2024, included significant discussion
 
 The regular School Board meeting held on April 25, 2024, included the approval of MB Policy 2410, which outlines High School Graduation Requirements, with a motion made by Ms. Brenna Reaugh and seconded by Mr. Edward Fox, resulting in a unanimous vote. Additionally, MB Policy 2004 regarding Performance Improvement Goals was accepted for first reading, indicating that it may undergo further discussion or amendments in future meetings. The meeting also featured updates regarding various educational programs and events, such as the Green House Plant Sale and the upcoming retirement social on May 23rd. The meeting concluded with an Executive Session focused on personnel and bargaining updates.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-04-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-04-25-minutes.txt)
 
 ### Board Member Actions
 
@@ -165,7 +165,7 @@ The regular School Board meeting held on April 25, 2024, included the approval o
 
 The Regular School Board Meeting held on April 11, 2024, included discussions and approvals of several policy changes. Notably, MB Policy 6530 regarding Insurance and MB Policy 5310 concerning Compensation were approved for first and final readings, both receiving unanimous support from the board members. Additionally, MB Policy 5005, which addresses Employment and Volunteers Disclosures Certification Requirements, was approved for its second and final reading. The meeting also featured a presentation on the "Roots of Empathy" program, highlighting community engagement in educational initiatives. Concerns were raised by audience member Leslie Chala regarding K-6 Physical Education, indicating active participation from the community in school matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-04-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-04-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -184,7 +184,7 @@ The Regular School Board Meeting held on April 11, 2024, included discussions an
 
 The Regular School Board Meeting held on March 14, 2024, addressed several key topics, including updates on school policies and community events. Notably, the board approved MB Policy 6513 Workplace Violence Prevention on its second reading, indicating a commitment to ensuring a safe school environment. Additionally, MB Policy 5271 Reporting Improper Governmental Action (Whistleblower Protection) was approved on its first and final reading, suggesting a focus on accountability and transparency within the district. The board also reviewed upcoming community engagement activities, such as the 8th grade Family Night and elementary conferences, emphasizing the importance of parent and community involvement in school affairs. The meeting concluded with discussions on future legislative meetings and regional engagements, reflecting an ongoing commitment to school governance and ethics.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-03-14-minutes.txt)
 
 ### Board Member Actions
 
@@ -199,7 +199,7 @@ The Regular School Board Meeting held on March 14, 2024, addressed several key t
 
 The Regular School Board Meeting held on February 22, 2024, included significant policy changes, particularly the approval of MB Policy 5010 Nondiscrimination and Affirmative Action, MB Policy 6020 Systems of Funds and Accounts, MB Policy 6605 Student Safety Walking, Biking, and Riding Buses, and MB Policy 2121 Substance Abuse Program, all passed unanimously for first and final readings. Additionally, MB Policy 5050 Contracts was tabled for further discussion. The meeting emphasized community engagement with discussions on transparency and website updates raised by audience member Jenn Espeland. The Board also expressed gratitude to voters for passing a recent levy, highlighting their commitment to community involvement and school improvement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-02-22-minutes.txt)
 
 ### Board Member Actions
 
@@ -220,7 +220,7 @@ The Regular School Board Meeting held on February 22, 2024, included significant
 
 The Regular School Board Meeting on February 8, 2024, included several policy changes aimed at enhancing school governance and student welfare. Notably, the board approved MB Policy 3207, which focuses on the prohibition of harassment, intimidation, and bullying of students, emphasizing the district's commitment to creating a safe educational environment. Additionally, MB Policy 1611 concerning conflicts of interest for districts with fewer than 2,000 students was approved, which could help ensure transparency and ethical decision-making within the school board. The meeting also featured discussions on various programs, including Black History Month and Love the Bus Month, reflecting the board's engagement with community initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-02-08-minutes.txt)
 
 ### Board Member Actions
 
@@ -247,7 +247,7 @@ The Regular School Board Meeting on February 8, 2024, included several policy ch
 
 The Regular School Board Meeting on January 25, 2024, included several key policy changes and community engagement initiatives. Notable actions included the approval of MB Policy 6550, which establishes a Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangements (SBITAS), and MB Policy 6815, which addresses Advertising on District Property. Both policies were approved for their first and second readings, respectively, with unanimous support from board members. Additionally, the board discussed the initial plan for making up missed school days due to weather, which was also approved. The meeting highlighted concerns from community members regarding the upcoming levy, indicating active community engagement in district matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-01-25-minutes.txt)
 
 ### Board Member Actions
 
@@ -268,7 +268,7 @@ The Regular School Board Meeting on January 25, 2024, included several key polic
 
 The Regular School Board Meeting on January 11, 2024, included significant policy changes and community engagement efforts. Notably, the board approved MB Policy 4210, which regulates dangerous weapons on school premises, and MB Policy 5161, addressing civility in the workplace, both passing unanimously. Additionally, the board discussed the Timber Revenue Letter for Whatcom County Council, which was approved with one amendment, and the Interim Superintendent Contract, also approved with a change. The meeting highlighted community engagement initiatives, including a "Vote Yes" Committee event aimed at informing the public about an upcoming levy and a legislative update. Concerns regarding district transparency were raised by community member Jenn Espeland, reflecting ongoing discussions about school safety and governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-01-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -286,13 +286,13 @@ The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoo
 
 Policy discussions centered around MB Policy/Procedure 6100, which underwent its annual review. Reports were presented by the Executive Director of Finance & Operations regarding COVID-19's financial impact and by the Superintendent on elementary and secondary attendance, engagement, secondary master schedule considerations, and Continua (likely a program or initiative). The meeting concluded with scheduling details for future meetings and the absence of an executive session.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-12-10-minutes.txt)
 
 ## 2020-11-20 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The text details a special meeting of the School Board held on November 20, 2020.  The board approved MB Resolution 2021-5, which pertains to the Certification of 2021 Excess Property Taxes. This resolution was passed unanimously by the three present board members.  The meeting commenced at 4:32 p.m. and concluded at 4:38 p.m., taking place virtually via Zoom.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-11-20-minutes.txt)
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -302,11 +302,11 @@ The board also received reports on the Executive Director of Finance & Operation
 
 Parents provided feedback on remote learning experiences during the "Good of the Order" and "Information from the Audience" portions of the meeting. The board also discussed and approved MB Policy 6100 Revenues from Local, State, and Federal Sources following first, second, and final review.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-10-22-minutes.txt)
 
 ## 2020-09-24 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School District held a regular meeting on September 24, 2020, via Zoom.  The board approved the minutes from March 26, 2020, and addressed several action items. These included Resolution 20/21:2 for the final acceptance of construction completion at MB Baker and a Sub Recipient Agreement between Whatcom County & Mount Baker School District. The meeting also featured reports from the Executive Director of Finance & Operations (Financial Report) and the Superintendent (Reopening Items), suggesting that discussions related to COVID-19 and school reopening procedures were likely part of the agenda. The board reviewed and approved a consent agenda containing personnel actions, purchases over $7,500, accounts payable for September 30th, 2020, and donations.  The next regular meeting was scheduled for October 22nd, 2020 at 8:30 AM via Zoom.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-09-24-minutes.txt)
 

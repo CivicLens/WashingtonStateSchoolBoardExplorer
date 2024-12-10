@@ -6,7 +6,7 @@ The March 4, 2024 Board Meeting of the Lake Washington School District included 
 
 The board also reviewed several resolutions under the consent agenda, including the acceptance of donations, approval of instructional materials for the district, and a report on the Building Condition Assessment for 2023-24. Notably, the board discussed legislative advocacy efforts, specifically the stalled proposals regarding Limited General Obligation Bonds for capital construction levies, which were sponsored by state legislators but faced challenges due to fiscal note discrepancies. The meeting concluded with plans for future business and an executive session addressing legal matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-04-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-03-04-minutes.txt)
 
 ### Board Member Actions
 

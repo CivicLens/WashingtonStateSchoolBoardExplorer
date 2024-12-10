@@ -4,7 +4,7 @@
 
 The Lynden School District Board meeting held on February 20, 2024, addressed significant community engagement concerning the recent failure of a general obligations bond in the February election. Community members expressed their support for reintroducing the bond for an April vote, emphasizing its importance for improving educational facilities. However, the board ultimately decided against placing the bond on the April ballot, as evidenced by the failed motion (2-3) led by Director Martinez. The board did pass a resolution (Resolution #02-24) opposing House Bill 2331 and Senate Bill 5462, indicating a stance on state legislation affecting the district. The discussions highlighted the need for better communication with the community regarding the bond process, reflecting the board's recognition of the importance of community input in decision-making.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-02-20-minutes.txt)
 
 ### Board Member Actions
 
@@ -21,7 +21,7 @@ The Lynden School District Board meeting held on February 20, 2024, addressed si
 
 The Lynden School District Board meeting held on February 15, 2024, addressed significant community concerns regarding a bond that failed to pass during the February 13 election, receiving only 50.98% approval, which is below the required 60% + 1. Community members advocated for the board's active involvement in reintroducing the bond to voters, emphasizing the pressing need for improved safety and security measures in schools. Superintendent David VanderYacht acknowledged the community's support for an operations levy, which passed with 57.1% approval, and highlighted the importance of discussing the bond's future. Additionally, the board discussed updates to student health services, including the role of school nurses and the need for policy revisions related to health protocols. The meeting also included legislative updates, with board members encouraged to engage with local legislators regarding bills affecting school funding and local control.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-02-15-minutes.txt)
 
 ### Board Member Actions
 
@@ -36,7 +36,7 @@ The Lynden School District Board held a special meeting on February 3, 2024, add
 
 Additionally, the board discussed the current legislative session, highlighting the importance of advocating for local control over educational policies. They also reviewed district priorities related to standards, measures, and strategic planning processes. No specific policy changes were noted in the minutes, but the discussions indicate a proactive approach to governance and responsiveness to both internal and external stakeholders.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-02-03-minutes.txt)
 
 ## 2024-01-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -44,7 +44,7 @@ The Lynden School District Board Meeting on January 25, 2024, addressed several 
 
 Policy changes included the approval of updated Policy 5010 on Nondiscrimination and Policy 5161 on Civility in the Workplace. Additionally, Policy 1400 regarding Meeting Conduct was amended to change the meeting start time from 6:00pm to 6:30pm. Director Martinez expressed interest in legislative matters, particularly House Bill 2458 and its potential impact on the district. Furthermore, student representatives reported on efforts to reestablish a Student Advisory Group, aiming to enhance student engagement. The meeting concluded with discussions on the need for improved facilities, particularly a new high school, as noted by Director Owsley.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-01-25-minutes.txt)
 
 ### Board Member Actions
 

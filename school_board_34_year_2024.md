@@ -1,22 +1,34 @@
 # Meeting Summaries for KENT_SCHOOL_DISTRICT in 2024
 
+## 2024-11-13 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on November 13, 2024, where several significant policy changes and recognitions were discussed. Notably, the board approved the second reading and adoption of multiple policies including Policy 2004 on Performance Improvement Goals, Policy 2413 on Equivalency Credit Opportunities, Policy 3206 on Pregnant and Parenting Students, and Policy 3424 on Opioid-Related Overdose Reversal. These policies aim to enhance educational equity and support for diverse student needs. The board also recognized November as Native American Heritage Month, American Education Week, and National School Psychology Week, emphasizing community engagement and cultural acknowledgment. The meeting included public comment opportunities and a report on various grants, reflecting the district's commitment to transparency and community involvement in educational matters.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-11-13-regular-meeting-pm-minutes.txt)
+
 ## 2024-11-06 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors convened a special meeting on November 6, 2024, to discuss two main topics: the use of cell phones in secondary schools and updates regarding transportation. The meeting was chaired by Vice President Farah due to the absence of President Margel. During the session, Director Cook briefly left and returned, indicating active participation among board members. The meeting adjourned at 6:56 p.m., following discussions that likely revolved around the implications of cell phone policies and transportation logistics within the district. Specific details on proposed changes or decisions made regarding these issues were not provided in the meeting summary.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-11-06-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-11-06-boardspecialmeeting-minutes.txt)
 
 ## 2024-10-30 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a special meeting on October 30, 2024, primarily to discuss updates on the Strategic Plan and the Multilingual Education Program. The meeting was called to order by Director Clark at 5:04 p.m. and included a roll call, where it was noted that Vice President Farah was absent but excused. President Margel arrived shortly thereafter. The meeting concluded at 6:56 p.m. This session represents an effort by the board to engage the community in discussions surrounding educational strategies and programming, indicating a focus on ongoing policy changes related to the district's strategic objectives and multilingual education initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-30-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-30-boardspecialmeeting-minutes.txt)
+
+## 2024-10-23 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a Regular Meeting on October 23, 2024, where several key agenda items were discussed, including public comment procedures and various resolutions. The board emphasized the importance of community engagement by allowing public comments through in-person, online video, and written submissions, adhering to Policy 1420. Notably, the board approved multiple consent agenda items, including the acceptance of gifts and donations per Policy 6114, and the certification of 2025 excess property taxes through Resolution No. 1685. Additionally, changes were made to the Student Travel policy, renaming it from Policy 2152 to Policy 2320 to align with state standards, reflecting a broader effort to update and standardize district policies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-23-regular-meeting-pm-minutes.txt)
 
 ## 2024-10-23 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a special meeting on October 23, 2024, primarily focused on a policy work session led by Policy Coordinator Ms. Pam Hawley. The meeting commenced at 5:00 p.m. and lasted approximately 39 minutes, concluding at 5:39 p.m. During this session, the Board discussed potential changes to existing policies, although specific policies under review were not detailed in the provided text. The meeting was attended by President Margel, Directors Clark and Cook (the latter virtually), while Vice President Farah and Director Song were excused. The presence of Superintendent Vela and the Board Secretary indicates administrative involvement, but no explicit policy changes or resolutions were noted in the summary of the meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-23-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-23-boardspecialmeeting-minutes.txt)
 
 ## 2024-10-23 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -24,7 +36,7 @@ The Kent School District No. 415 board meeting on October 23, 2024, addressed si
 
 Additionally, the board approved various resolutions and consent agenda items, including Resolution No. 1685, which pertains to the certification of 2025 Excess Property Taxes, and Resolution No. 1686, which involves the cancellation of warrants. The approval of these items reflects ongoing policy changes and operational adjustments aimed at improving the district's infrastructure and educational technology, such as the purchase of Microsoft Surface laptops for teachers and support staff.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-23-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-23-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -36,15 +48,21 @@ Additionally, the board approved various resolutions and consent agenda items, i
 
 ## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a regular meeting on October 9, 2024, where several proclamations were made, including recognition of National Bullying Prevention Month and LGBT History Month. The board also discussed and approved several policy changes, notably the Second Reading and Adoption of Policy 2418, which addresses the Waiver of High School Graduation Credits, and Policy 2415, which introduces a Performance-Based Pathway for High School Graduation. Additionally, the board voted to repeal Resolution No. 1669, related to the creation of a Labor Policy Committee. The meeting emphasized the importance of community engagement and the board's commitment to creating equitable systems within the educational environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-09-regular-meeting-pm-minutes.txt)
+
+## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 held a special meeting on October 9, 2024, primarily focused on a Finance and Human Resources update for the 2024-2025 academic year. The meeting was led by Mr. Daman Hunter, Associate Superintendent of Human Resources, and Mr. Raul Parungao, Executive Director of Finance. Due to a lack of quorum, the meeting commenced at 5:10 p.m. after the arrival of Director Cook. The meeting concluded at 6:00 p.m. with President Meghin Margel presiding, and the meeting was attended by Board Secretary, Superintendent Israel Vela, among others. The agenda did not include any specific policy changes or controversial topics, focusing instead on the updates from the finance and human resources departments.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-09-boardspecialmeeting-minutes.txt)
 
 ## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on October 9, 2024, where several proclamations were made, including recognition of LGBT History Month and National Bullying Prevention Month, emphasizing the district's commitment to inclusivity and safety in schools. The board addressed school safety concerns raised during public comments, specifically regarding school lockdowns. Additionally, the board discussed and approved several policy changes, including the adoption of Policy 2415, which pertains to a performance-based pathway for high school graduation, and Policy 2418, which allows for waivers of high school graduation credits. A significant motion to repeal Resolution No. 1669, which established a Labor Policy Committee, was also carried after public commentary.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-10-09-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -60,15 +78,21 @@ The Kent School District No. 415 Board of Directors held a meeting on October 9,
 
 ## 2024-09-25 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a regular meeting on September 25, 2024, where several key items were discussed and actions taken. Public comments were accepted through various formats, including in-person, online video, and written submissions, in accordance with Policy 1420 and Procedure 1420P. The board approved the acceptance of gifts, donations, and memorials per Policy 6114, which mandates board approval for contributions exceeding $500. Additionally, the board accepted a federal grant from the American Rescue Plan Act (ARPA) amounting to $460,000, aimed at enhancing STEM/CTE learning opportunities, aligning with the district's strategic goal of preparing students to be global citizens. The meeting also included discussions on budget implications related to fire sprinkler system deficiencies and water damage claims, ensuring compliance and safety in district facilities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-25-regular-meeting-pm-minutes.txt)
+
+## 2024-09-25 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 Board of Directors held a special meeting on September 25, 2024, to discuss board policies with Policy Coordinator Pam Hawley. The meeting, chaired by President Meghin Margel, included a roll call where Vice President Farah was noted as absent/excused. The meeting lasted approximately 60 minutes and concluded with President Margel adjourning the session at 6:01 p.m. The specific policies discussed were not detailed in the minutes, but the focus on policy changes suggests potential revisions or updates to existing regulations within the district. The presence of Superintendent Israel Vela indicates administrative involvement in the policy discussions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-25-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-25-boardspecialmeeting-minutes.txt)
 
 ## 2024-09-25 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on September 25, 2024, where various topics were discussed, including concerns for safety at Scenic Hill Elementary. This highlights ongoing discussions around school safety within the district. The board also addressed Policy 5060, which involves the consideration of using non-legal names on staff badges, indicating a potential change in how staff identification may be managed. This reflects an effort to enhance community engagement and inclusivity. Additionally, Superintendent Vela provided a report, and Director Clark delivered a legislative update, underscoring the board's commitment to staying informed on state legislation affecting the district. The meeting concluded with several motions being carried, including the acceptance of gifts and donations, and approval of various consent agenda items.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-25-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-25-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -81,15 +105,21 @@ The Kent School District No. 415 Board of Directors held a meeting on September 
 
 ## 2024-09-11 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a regular meeting on September 11, 2024, where several important items were addressed, including the approval of the top five legislative priorities for the Washington State School Directors' Association General Assembly. These priorities include full funding for the prototypical school model, a requirement for a simple majority, universal preschool, expanding basic education, and artificial intelligence, reflecting a focus on educational equity and innovation. The board also recognized September as Attendance Awareness Month and National Hispanic Heritage Month, emphasizing community engagement and the importance of student attendance for academic success. Additionally, the board discussed a three-year contract with Granite Communications to replace outdated Plain Old Telephone System (POTS) lines with more reliable EPIK lines, showcasing a commitment to upgrading technology infrastructure to ensure effective communication across school sites. The meeting included a motion to approve the Superintendent's Contract, which was passed with one abstention, indicating ongoing governance and administrative oversight.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-11-regular-meeting-pm-minutes.txt)
+
+## 2024-09-11 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 Board of Directors convened a special meeting on September 11, 2024, primarily to discuss the Open Public Meetings Act (OPMA) and the Public Records Act (PRA) with legal counsel, Mr. Curtis Leonard. The meeting, lasting approximately 60 minutes, was called to order by President Meghin Margel at 5:00 p.m. and included a roll call where Vice President Farah attended virtually, while Director Clark was noted as absent/excused. The meeting concluded with President Margel adjourning at 5:59 p.m. The focus on the OPMA and PRA suggests a commitment to transparency and adherence to legal standards concerning public meetings and records.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-11-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-11-boardspecialmeeting-minutes.txt)
 
 ## 2024-09-11 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on September 11, 2024, where they discussed several key topics, including the Superintendent's Contract and legislative priorities for the 2024-2025 school year. The board recognized National Hispanic Heritage Month and September Attendance Awareness Month. During the meeting, public comments addressed issues such as the Superintendent's contract and student harassment, emphasizing the need for stable leadership and support for bullying prevention measures. A motion to approve the Superintendent's Contract was tabled initially but ultimately carried after extensive discussion. The board also approved gifts, donations, and memorials acceptance, and the consent agenda, which included minutes from previous meetings. The meeting concluded with board reports and no final audience comments, highlighting the importance of community engagement in school governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-11-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-11-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -130,19 +160,25 @@ The Kent School District No. 415 Board of Directors held a meeting on September 
 
 The Kent School District No. 415 held a special meeting on September 4, 2024, to discuss the 2024-2025 Legislative Priorities. The meeting was called to order by President Meghin Margel and included a roll call of the Board of Directors, with all members present except Director Song, who arrived shortly after the meeting began. The session lasted approximately two hours and concluded with the adjournment at 5:49 p.m. The primary focus of this meeting was to identify and discuss legislative priorities that may influence policy changes within the district for the upcoming school year. No specific policies or changes were detailed in the provided text.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-04-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-04-boardspecialmeeting-minutes.txt)
+
+## 2024-08-28 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on August 28, 2024, where they recognized the contributions of the maintenance, facilities, and custodial staff in preparing schools for the new term. The meeting included protocols for public comments, emphasizing the importance of community engagement and adherence to Policy 1420 regarding public participation. The board discussed and selected Director Tim Clark as the 2024 - 2025 Washington State School Directors' Association (WSSDA) Voting Delegate. Additionally, the board approved several consent agenda items, including a change order for the Kentridge High School Performing Arts Center and Gym Lobby remodel project, which was funded from the project's contingency budget. The meeting highlighted the district's commitment to diversity and inclusion through its policies and community interactions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-08-28-regular-meeting-pm-minutes.txt)
 
 ## 2024-08-28 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on August 28, 2024, to discuss the 2024-2025 Calendar and Agenda. The meeting, which lasted approximately 60 minutes, was called to order by President Meghin Margel. All Board Directors were present, with Directors Cook and Song attending virtually. The meeting included discussions aimed at enhancing community engagement through the planning of the upcoming academic calendar. President Margel adjourned the meeting at 6:00 p.m. The session reflects the district's ongoing efforts to involve stakeholders in the decision-making process regarding school scheduling and operations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-08-28-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-08-28-boardspecialmeeting-minutes.txt)
 
 ## 2024-08-28 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on August 28, 2024, where they addressed several key topics including the recognition of maintenance and custodial staff and the need for additional space at Canyon Ridge Middle School. A significant action taken was the appointment of Director Clark as the 2024-2025 Washington State School Directors’ Association (WSSDA) voting delegate, which was approved through a roll call vote. The board also approved multiple consent agenda items, including the Kentridge High School Performing Arts Center and Gym Lobby Remodel Project Change Order No. 1, and the Meadow Ridge Elementary School Fire Alarm Replacement and Award of Contract to Brink Electric. The meeting concluded with no final comments from the audience and was adjourned by President Meghin Margel.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-08-28-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-08-28-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -158,9 +194,15 @@ The Kent School District No. 415 Board of Directors held a meeting on August 28,
 
 ## 2024-08-21 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a special meeting on August 21, 2024, to conduct a work session and public hearing regarding the proposed budget for the fiscal year 2024-2025. The meeting included the final presentation of the budget, which supports the district's strategic goals, including preparing students to be global citizens, expanding community partnerships, building equitable systems, and investing in a diverse workforce. The Board adopted Resolution No. 1682, which establishes expenditure limits for various funds, including a General Fund limit of $537,557,336. The meeting also included a land acknowledgment recognizing the ancestral lands of the Muckleshoot Indian Tribe, emphasizing the district's commitment to diversity and inclusion. Public notices for the hearing were published in August 2024, complying with state law requirements for budget adoption.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-08-21-special-meeting-work-session-public-hearing-and-final-adoption-fy-25-proposed-budget-pm-minutes.txt)
+
+## 2024-08-21 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 held a Special Meeting on August 21, 2024, to discuss and finalize the 2024-2025 budget. During the meeting, the Board of Directors conducted the fourth and final budget work session, which included a public hearing for the proposed annual district budget. No comments were received during the public hearing, leading to the closure of the session. Subsequently, the Board approved Resolution No. 1682, which pertains to the adoption of the 2024-2025 District Budget. The meeting concluded with President Meghin Margel adjourning the session at 5:54 p.m. The process reflects the district's commitment to community engagement by allowing public input on budgetary matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-08-21-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-08-21-boardspecialmeeting-minutes.txt)
 
 ### Board Member Actions
 
@@ -176,7 +218,7 @@ The Kent School District No. 415 held a Special Meeting on August 21, 2024, to d
 
 The Kent School District No. 415 Board of Directors held a Special Meeting on August 14, 2024, where they approved several consent agenda items, including Resolution No. 1683 concerning Conditional Certification, which may pertain to personnel or program qualifications. The meeting also included the approval of meeting minutes from a previous special meeting held on July 24, 2024, along with personnel reports and financial vouchers. The June 2024 Financial Report was presented as an informational item. The meeting was adjourned shortly after the consent agenda was approved, indicating a brief session focused primarily on administrative matters without any controversial issues raised during the proceedings.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-08-14-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-08-14-boardspecialmeeting-minutes.txt)
 
 ### Board Member Actions
 
@@ -197,7 +239,7 @@ The Kent School District No. 415 Board of Directors held a Special Meeting on Au
 
 The Kent School District No. 415 held a Special Meeting on July 24, 2024, where the Board of Directors approved several consent agenda items. Notable approvals included additional funding for the Daniel Elementary School Extruded Curb Replacement and the final acceptance of the Kentwood High School Annex Small Boiler Installation Project. The Board also ratified the Kent Education Association (KEA) Contract and passed Resolution No. 1681 concerning Conditional Certification. These actions reflect ongoing administrative adjustments and funding allocations within the district, addressing infrastructure needs and contractual agreements with educational associations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-07-24-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-07-24-boardspecialmeeting-minutes.txt)
 
 ### Board Member Actions
 
@@ -213,7 +255,7 @@ The Kent School District No. 415 held a Special Meeting on July 24, 2024, where 
 
 The Kent School District No. 415 held a Special Meeting on July 10, 2024, where several resolutions and policy updates were discussed and approved. Notably, Resolution No. 1680 regarding the 2024 Capital Projects and Technology Replacement Levy was passed, with Director Cook voting against it. Additionally, the board approved Resolution No. 1679 endorsing the same levy, with Director Cook abstaining from the vote. The meeting included discussions on the extension of agreements for School Safety Services and the School Resource Officer Agreement with the Kent Police Department for the upcoming school year. This reflects the district's focus on enhancing school safety and educational technology through capital projects. The meeting concluded with the approval of various consent agenda items, indicating a collaborative approach to governance among board members.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-07-10-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-07-10-boardspecialmeeting-minutes.txt)
 
 ### Board Member Actions
 
@@ -234,15 +276,21 @@ The Kent School District No. 415 held a Special Meeting on July 10, 2024, where 
 
 ## 2024-06-26 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a regular meeting on June 26, 2024, where several key agenda items were discussed, including the approval of a $300,000 Professional Services Agreement with Hazel Health to provide mental health and physical health services across all schools. This contract aims to enhance mental health accessibility, particularly in light of increased needs due to the COVID-19 pandemic. Additionally, the board acknowledged the importance of educational technology by approving the purchase of 248 iPads to support inclusive education for students with adapted needs, with a budget of $118,381.24. The meeting also included a recognition segment for National Board Certified Teachers, emphasizing the district's commitment to supporting a diverse and effective teaching workforce. The board's actions reflect ongoing efforts to improve student health, educational resources, and community engagement within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-26-regular-meeting-pm-update-the-public-hearing-noticed-in-the-kent-reporter-for-this-meeting-will-now-take-place-on-july-10-minutes.txt)
+
+## 2024-06-26 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 held a special meeting on June 26, 2024, at 4:30 p.m. to conduct work session #3 of 4 regarding the 2024-2025 Budget and to discuss the 2024 Capital Projects and Technology Replacement Levy. The meeting was attended by President Meghin Margel, Director Clark, Director Cook, and Director Song, while Vice President Farah was absent. The session lasted approximately ninety minutes, focusing on budgetary considerations and capital improvements for the upcoming school year. The meeting was adjourned by President Margel at 6:00 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-26-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-26-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-06-26 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on June 26, 2024, where they made several significant decisions. A key change was the removal of Item 7.02, which pertained to the acceptance of the City of Kent American Rescue Plan Act Federal Grant Fund for 2024-2026, due to pending updates in language and anticipated funding increases. This item is expected to be revisited in a future meeting. Additionally, the board approved a range of consent agenda items, including the Professional Services Agreement with Hazel Health and the Outdoor Schools Washington Grant Award. The meeting also featured a Child Nutrition Program update and a recognition of the 2023 National Board Certified Teachers, reflecting the district's commitment to community engagement and educational excellence.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-26-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-26-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -283,9 +331,15 @@ The Kent School District No. 415 Board of Directors held a meeting on June 26, 2
 
 ## 2024-06-12 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a regular meeting on June 12, 2024, where several key agenda items were discussed and voted on. Significant policy changes included the approval of Resolution No. 1677 regarding Special Education Out-of-Endorsement Reporting, which mandates annual reporting of employees teaching out-of-endorsement to the Office of the Superintendent of Public Instruction (OSPI). This resolution aims to ensure that students are assigned to teachers with the proper endorsements. The board also discussed the renewal of professional service agreements with Valley Cities Counseling and Consultation and Kent Youth and Family Services, aimed at providing mental health services and behavioral health support, respectively. These contracts are part of the district's commitment to enhance mental health resources for students, reflecting a focus on mental health and community engagement. Additionally, the board reviewed and accepted gifts and donations, highlighting the importance of community support in enhancing educational programs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-12-regular-meeting-pm-minutes.txt)
+
+## 2024-06-12 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 Board of Directors convened on June 12, 2024, where several significant topics were addressed, including proclamations for Pride Month and Juneteenth, highlighting the district's commitment to diversity and inclusion. Superintendent Vela provided a report emphasizing mental health partnerships, reflecting the district's focus on student well-being. The board discussed and approved several resolutions, including Resolution No. 1677 regarding Special Education Out of Endorsement Reporting and Resolution No. 1678 concerning Out of Endorsement Waivers, aimed at supporting special education compliance. A notable discussion centered around school safety, specifically concerning drug-related issues in high school bathrooms, indicating ongoing community engagement and concern for student health. The meeting concluded with a failed motion regarding the iGrad Building Upgrades Project, showcasing the complexities of contract approvals within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-12-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-12-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -310,19 +364,25 @@ The Kent School District No. 415 Board of Directors convened on June 12, 2024, w
 
 The special meeting of the Kent School District No. 415 Board of Directors on May 29, 2024, focused on the Board/Superintendent Annual Evaluation for the 2023-2024 period, specifically discussing goal progress and outcomes. The meeting was called to order by Vice President Farah at 5:00 p.m. and included all board members present, with President Margel joining virtually shortly after. The meeting concluded at 6:05 p.m. No specific policy changes or resolutions were mentioned in the provided text, indicating the meeting's primary focus was on evaluation rather than legislative action.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-29-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-29-boardspecialmeeting-minutes.txt)
+
+## 2024-05-22 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on May 22, 2024, where various policies and proposals were discussed and approved. Notably, the board approved the second reading and adoption of Policy 3422, which addresses student sports concerning concussion, head injury, and sudden cardiac arrest, emphasizing safety protocols for student athletes. Additionally, the board approved the second reading of Policy 4200, which outlines guidelines for parent access, visitors, and maintaining a safe and orderly learning environment. This policy replaces the former Procedure 4311P Visitors, indicating a consolidation of safety measures and access protocols under a new framework. The board also authorized several construction and safety projects, including the installation of access control locks at Kent-Meridian and Kentlake High Schools, aimed at enhancing school safety. The meeting included a public comment session, reinforcing the district's commitment to community engagement in decision-making processes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-22-regular-meeting-pm-minutes.txt)
 
 ## 2024-05-22 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on May 22, 2024, focused on a work session that included student leadership and Ms. Simone Hamilton, the Director of Equity and Strategic Engagement. The meeting, led by President Meghin Margel, aimed to foster community engagement and address issues related to diversity and inclusion within the district. During the session, discussions likely revolved around strategies to enhance equity and support for all students, although specific policies or resolutions were not detailed in the minutes. The meeting concluded at 6:02 p.m., with the attendance of key board members and the Superintendent, Israel Vela, serving as the Secretary to the Board.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-22-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-22-boardspecialmeeting-minutes.txt)
 
 ## 2024-05-22 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on May 22, 2024, where several policy changes were discussed and voted on. Notably, the board approved multiple policies related to school safety, including Policy 3422 on Student Sports - Concussion, Head Injury, and Sudden Cardiac Arrest, and Policy 4200 regarding Parent Access, Visitors, and Safe and Orderly Learning Environment. However, a motion to approve Policy 1620, which outlines the Board-Superintendent Relationship and the Superintendent's Duties, failed. The meeting also included the addition of a Supplemental Personnel Report to the consent agenda and a variety of other consent agenda items, such as the retirement of Policy 4311 on Visitors and Policy 4313 on School Resource Officers. The board's actions reflect ongoing adjustments to ensure safety and operational efficiency within the district's schools.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-22-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-22-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -351,27 +411,39 @@ The Kent School District No. 415 Board of Directors held a meeting on May 22, 20
 
 ## 2024-05-21 - KENT_SCHOOL_DISTRICT (Minutes)
 
+A special meeting of the Kent School District Board of Directors is scheduled for May 21, 2024, at 3:30 p.m. to discuss the Washington State Auditor's Exit Conference related to the 2021-22 Fiscal Accountability Audit. The agenda includes an opening section with protocol guidelines, a call to order, and a roll call, followed by a review and discussion of the audit findings. The meeting will last approximately 30 minutes and will focus on the outcomes of the audit, which may impact future policies and operational practices within the district. Additionally, Policy 1450 outlines the protocol for board member absences, indicating that a majority can excuse absences and detailing the consequences of consecutive unexcused absences. The policy is designed to maintain a quorum and ensure effective governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-21-special-meeting-washington-state-auditor-exit-conference-fiscal-accountability-audit-pm-minutes.txt)
+
+## 2024-05-21 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 Board of Directors held a special meeting on May 21, 2024, primarily to discuss the Washington State Auditor's 2021-22 Fiscal Accountability Exit Conference. The meeting was called to order by President Meghin Margel and included all board members present, along with Board Secretary and Superintendent Israel Vela. The meeting lasted approximately thirty minutes, concluding with an adjournment at 3:40 p.m. This gathering indicates ongoing oversight and accountability measures in place for the district's fiscal operations, as highlighted by the involvement of the Washington State Auditor's Office.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-21-boardspecialmeetingsaoexitconference-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-21-boardspecialmeetingsaoexitconference-minutes.txt)
 
 ## 2024-05-21 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a special meeting on May 21, 2024, primarily to discuss iGrad, an educational technology initiative aimed at enhancing student learning. President Meghin Margel led the meeting, which included a roll call of board members and the presence of Board Secretary and Superintendent Israel Vela. Notably, Director Cook left the meeting early at 5:45 p.m. The meeting concluded with an adjournment at 6:46 p.m. While specific policies or resolutions regarding iGrad were not detailed in the minutes, the focus on this initiative suggests a potential shift or enhancement in the district's approach to educational technology.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-21-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-21-boardspecialmeeting-minutes.txt)
+
+## 2024-05-08 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on May 8, 2024, where they emphasized the importance of community engagement and inclusivity. A land acknowledgment was made recognizing the Muckleshoot Indian Tribe, reflecting the district's commitment to diversity and inclusion. The board discussed various proclamations, including Asian Pacific American Heritage Month and National School Nurse Day, as part of their recognition efforts. The meeting included public comment opportunities, adhering to Policy 1420 and Procedure 1420P, which govern public engagement and comment protocols. The board also reviewed and approved several items on the consent agenda, including curriculum adoptions that support diverse learning needs and the acceptance of gifts and donations, which are subject to Policy 6114. The meeting highlighted ongoing improvements in school safety, including a camera expansion project at Scenic Hill Elementary, aimed at enhancing security for students and staff.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-08-regular-meeting-pm-minutes.txt)
 
 ## 2024-05-08 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on May 8, 2024, focused on a land acknowledgment work session. The meeting, which lasted approximately 60 minutes, was called to order by President Meghin Margel at 5:00 p.m. and included all board members present, as well as Superintendent Israel Vela and the Board Secretary. The meeting was adjourned at 5:45 p.m. This session reflects the district's engagement with community and cultural recognition initiatives, although specific policies or resolutions regarding land acknowledgment were not detailed in the minutes.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-08-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-08-boardspecialmeeting-minutes.txt)
 
 ## 2024-05-08 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on May 8, 2024, where several proclamations were made, including recognition of Asian Pacific Heritage Month, National School Nurse Day, and Teacher Appreciation Week, reflecting the district's commitment to diversity and inclusion. The meeting included public comments on various topics such as student lunches and labor issues, indicating community engagement and concern for student health. The board approved multiple consent agenda items related to instructional materials and various construction projects, including parking lot improvements at multiple schools, which may indicate ongoing infrastructure policy changes. The board's actions suggest a focus on enhancing educational resources and facilities within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-08-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-08-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -397,19 +469,25 @@ The Kent School District No. 415 Board of Directors held a meeting on May 8, 202
 
 The Kent School District No. 415 Board of Directors held a special meeting on May 1, 2024, focused on a policy work session. The meeting was called to order by President Meghin Margel at 4:30 p.m. and included a roll call of board members, with Director Cook joining virtually at 5:55 p.m. The session lasted approximately three hours, concluding with adjournment at 7:07 p.m. Specific details regarding any policy changes discussed during the session were not provided in the text, indicating that further information may be needed to understand the outcomes of this meeting. The presence of Superintendent Vela suggests administrative involvement in the discussions, although no explicit policy proposals or changes were mentioned in the provided minutes.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-01-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-01-boardspecialmeeting-minutes.txt)
+
+## 2024-04-24 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on April 24, 2024, where various agenda items were discussed, including several resolutions and policy changes. The board recognized the importance of community engagement, accepting public comments through various channels, including in-person and online submissions. A significant policy change discussed was Procedure 2161P, which outlines special education and related services for eligible students, emphasizing the district's commitment to ensuring equitable access to education. Additionally, the board approved a technology contract with Apptegy for a communication platform that enhances family engagement through translation services in 130 languages, reflecting a focus on improving communication and accessibility for non-English speaking families. The meeting also included discussions on various construction projects and upgrades aimed at enhancing school facilities and infrastructure.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-04-24-regular-meeting-pm-minutes.txt)
 
 ## 2024-04-24 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors convened a special meeting on April 24, 2024, primarily focused on the 2024-2025 Budget Work Session, which is the second of four planned sessions. The meeting was called to order by President Meghin Margel and included a roll call confirming the presence of the board members, except for Director Song, who was excused. The meeting concluded at 6:01 p.m. with no specific policy changes or resolutions mentioned in the minutes. The context suggests ongoing discussions regarding the district's budget, which may involve policy changes in future sessions, although details on specific policies were not provided in this meeting's summary.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-04-24-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-04-24-boardspecialmeeting-minutes.txt)
 
 ## 2024-04-24 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on April 24, 2024, where several proclamations were made, including National Student Leadership Week and Administrative Professionals Week. The board approved several consent agenda items, including a contract for construction administration services for a network data cabling improvement project and a resolution concerning out of endorsement waivers. Superintendent Vela provided a report, and Director Clark gave a legislative update, indicating ongoing engagement with state legislation relevant to the district. Additionally, procedures related to special education and enrollment were discussed, highlighting the district's commitment to supporting eligible students through special education services.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-04-24-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-04-24-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -427,19 +505,25 @@ The Kent School District No. 415 Board of Directors held a meeting on April 24, 
 
 The Kent School District No. 415 held a special meeting on April 17, 2024, focused on the Board/Superintendent Governance Team retreat. Key topics of discussion included the roles and responsibilities of the board, communication protocols, and the importance of confidentiality and fiduciary duties. The meeting featured presentations from legal counsel Curtis Leonard and WSSDA retreat facilitator Amy Cast, emphasizing the need for effective governance to positively impact student outcomes. The board also explored the concept of "working smarter, not harder," which involved researching best practices for governance. The meeting concluded with a discussion on what the governance team requires for success, highlighting the board's commitment to effective community engagement and ethical governance practices. President Meghin Margel led the meeting, which was attended by other board members and Superintendent Vela.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-04-17-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-04-17-boardspecialmeeting-minutes.txt)
+
+## 2024-03-27 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on March 27, 2024, focusing on several key agenda items, including resolutions and proposals that address school safety and community engagement. The board discussed the issuance of contracts for certificated employees (Resolutions No. 1671 and 1672) and approved various consent agenda items aimed at enhancing educational experiences, such as the Outdoor Schools Washington Grant Application and the Virginia Mason Franciscan Health Violence Prevention Grant Application. These initiatives reflect the district's commitment to diversity and inclusion, as evidenced by the recognition of National Public School Volunteer Week and Autism Awareness Month. Additionally, the board addressed the need for improvements in facilities, including the approval of changes to the River Ridge Elementary School Military Road South Sidewalk Project, which underscores a focus on creating equitable systems within the school environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-27-regular-meeting-pm-minutes.txt)
 
 ## 2024-03-27 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on March 27, 2024, focusing on a presentation and discussion regarding Capital Planning Update. The meeting, attended by the Board of Directors including President Meghin Margel and Superintendent Israel Vela, emphasized the district's ongoing efforts in capital planning, which may involve discussions on infrastructure, funding, and resource allocation. The meeting was called to order at 5:00 p.m. and adjourned at 6:01 p.m., indicating a structured approach to governance and community engagement in school district planning processes. No specific policy changes or controversial content were noted in the minutes provided.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-27-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-27-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-03-27 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on March 27, 2024, where significant discussions took place regarding Resolution No. 1669, which pertains to school board proceedings and the creation of a Labor Policy Committee. A motion to reopen the vote on this resolution was proposed but ultimately failed, requiring a 2/3 majority to pass. This resolution had previously been voted on during the February 28, 2024 meeting. There were also proclamations recognizing National Public School Volunteer Week, Autism Awareness Month, and Occupational Therapy Month. Public comments addressed various topics, including school board decorum and technology levies, reflecting community engagement in district affairs. Additionally, the meeting included a review of consent agenda items, several of which were approved, while others were discussed or tabled, demonstrating the board's ongoing commitment to governance and policy changes.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-27-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-27-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -463,31 +547,43 @@ The Kent School District No. 415 Board of Directors held a meeting on March 27, 
 
 The Kent School District No. 415 held a special meeting on March 26, 2024, which involved a joint session with the Kent City Council. The meeting, attended by Board President Meghin Margel and other Board members, focused on fostering collaboration and communication between the school district and the city council. The meeting was called to order at 6:00 p.m. and adjourned at 8:46 p.m., highlighting the district's commitment to community engagement. Superintendent Vela was also present, indicating the administrative support for this collaborative effort.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-26-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-26-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-03-20 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on March 20, 2024, at 6:00 p.m., which lasted approximately two hours. This meeting was a joint session with the Covington City Council, emphasizing community engagement between local governance and educational leadership. In attendance were President Meghin Margel, Board Directors Awale Farah, Tim Clark, Andy Song, and Donald Cook, along with Deputy Superintendent Dr. Wade Barringer serving as the designee for Superintendent Israel Vela. The meeting was called to order by President Margel and subsequently adjourned at 8:00 p.m. The collaborative nature of this meeting indicates an effort to strengthen ties and communication between the school district and the city council.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-20-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-20-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-03-20 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on March 20, 2024, primarily to conduct an Audit Entrance Conference with representatives from the Washington State Auditor’s Office. The meeting was attended by Vice President Awale Farah, Tim Clark, and Donald Cook, while President Israel Vela and Director Song were absent. The Deputy Superintendent, Dr. Wade Barringer, represented Superintendent Vela at the meeting. The meeting was called to order at 4:17 p.m. and adjourned at 4:32 p.m., lasting approximately thirty minutes. This meeting reflects the district's commitment to transparency and accountability in its financial practices, as indicated by the involvement of the state auditor.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-20-boardspecialmeetingsaoentranceconference-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-20-boardspecialmeetingsaoentranceconference-minutes.txt)
+
+## 2024-03-13 - KENT_SCHOOL_DISTRICT (Minutes)
+
+A special meeting of the Kent School District Board of Directors is scheduled for March 13, 2024, from 6:00 p.m. to 6:30 p.m. in the Suite A 200 Conference Room at the Administration Center in Kent, Washington. The executive session will focus on discussing the performance of a public employee, potential litigation, and the legal or financial risks associated with certain courses of action. The meeting will last approximately 30 minutes and includes a specific meeting ID and dial-in information for remote participation. The agenda includes protocol guidelines and a call to order, indicating a structured approach to the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-13-special-meeting-executive-session-pm-pm-minutes.txt)
+
+## 2024-03-13 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on March 13, 2024, where they discussed various agenda items including public comment submission processes, which are subject to Chapter 42.56 RCW: Public Records Act. The board emphasized the importance of community engagement by allowing public comments in person, via video, or in writing, with specific guidelines on time limits and submission deadlines. Additionally, several technology contracts were approved, including a Managed Internal Broadband Services contract with Ednetics for $470,436.39, anticipated to be discounted by 80% through the Federal E-Rate program. The board also approved a proposal for added Internet capacity from King County I-Net at a total cost of $180,000 over five years, which is also expected to receive an 80% discount. These actions reflect the district's commitment to enhancing its technological infrastructure while involving the community in decision-making processes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-13-regular-meeting-pm-minutes.txt)
 
 ## 2024-03-13 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a special meeting on March 13, 2024, to conduct a work session focused on the Budget Work Session #1 of 4 for the FY 2025 Budget Cycle. The meeting was attended by President Meghin Margel, Directors Awale Farah, Tim Clark, Andy Song, and Donald Cook, along with Superintendent Israel Vela. The meeting began at 5:00 p.m. and was adjourned at 5:58 p.m., with Director Cook arriving shortly after the meeting commenced. The session emphasized the importance of community engagement in the budgeting process, indicating potential policy changes that may arise from these discussions as the district prepares for the upcoming fiscal year.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-13-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-13-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-03-13 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board Meeting on March 13, 2024, included several significant agenda items and actions. Notably, the board approved multiple technology contracts, including the award of contracts for Managed Internal Broadband Services to Ednetics, and for Added Internet Capacity and Fiber Wide Area Network to King County I-Net. These contracts reflect the district's focus on enhancing its technological infrastructure. Additionally, the board discussed legislative updates, emphasizing the importance of community engagement and the support for an upcoming levy, which aims to bolster district resources. Resolution No. 1670 was also passed, indicating a conditional certification related to district policies. The meeting included public comments on various topics, including the role of board student representatives and multi-lingual programs, showcasing the district's commitment to community feedback and involvement in educational matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-13-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-13-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -543,7 +639,13 @@ The Kent School District No. 415 Board Meeting on March 13, 2024, included sever
 
 The Kent School District No. 415 Board of Directors convened for a special meeting on March 6, 2024, primarily focused on a work session regarding Student Data and Street Data. The meeting, led by President Meghin Margel, included discussions on the implications of student data privacy as it pertains to the district's policies and practices. Superintendent Israel Vela was also present to provide insights during the session. The meeting was called to order at 5:05 p.m. and included a break before resuming discussions, with the meeting concluding at 7:00 p.m. Director Donald Cook left the meeting early at 6:45 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-06-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-06-boardspecialmeetingworksession-minutes.txt)
+
+## 2024-02-28 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on February 28, 2024, where several significant policies and resolutions were discussed and approved. Notably, the board approved the second readings of Policy 2005 on School Improvement Plans, Policy 2106 on Program Compliance, Policy 3122 on Excused and Unexcused Absences, and Policy 5011 on Sexual Harassment of District Staff Prohibited. Each of these policies had undergone a first reading on February 7, 2024, and were presented for approval to enhance the district's educational framework and compliance with legal standards. Additionally, the board endorsed Resolution No. 1667, which supports the Capital Projects and Technology Replacement Levy, and Resolution No. 1669, creating a Labor Policy Committee to manage collective bargaining processes. These actions reflect the board's commitment to improving organizational effectiveness and responding to community needs. The meeting also included a public comment section, emphasizing the importance of community engagement in district decisions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-28-regular-meeting-pm-minutes.txt)
 
 ## 2024-02-28 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -552,13 +654,13 @@ tag_b
 tag_c
 summary: The Kent School District No. 415 held a special meeting on February 28, 2024, focusing on a work session regarding the Strategic Plan Progress Update. The meeting was attended by President Meghin Margel, Directors Awale Farah, Tim Clark, Donald Cook, and Andy Song (virtually), along with Superintendent Israel Vela. The meeting commenced at 5:30 p.m. and was adjourned at 6:17 p.m., following discussions on the district's strategic initiatives. No specific policy changes or resolutions were noted in the minutes, indicating that the focus was primarily on updates and discussions rather than formal decisions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-28-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-02-28 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on February 28, 2024, where they addressed several significant topics, including student mental health and bullying prevention. The board discussed the approval of various policies, including the Second Reading and Approval of Policy 5011, which prohibits sexual harassment of district staff, and Policy 3122, which pertains to excused and unexcused absences. Additionally, they approved Resolution No. 1669, creating a Labor Policy Committee of the Board, which sparked public comment regarding its implications. The meeting featured extensive public engagement, with community members voicing concerns about mental health, bullying, and the district's educational programs. The board's decisions reflect ongoing efforts to enhance student well-being and uphold ethical standards within school governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-28-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -619,9 +721,15 @@ The Kent School District No. 415 Board of Directors held a meeting on February 2
 
 ## 2024-02-14 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a regular meeting on February 14, 2024, where several key resolutions and policies were discussed. Notably, the board approved Resolution No. 1665, which authorizes a Capital Projects and Technology Replacement Levy to be placed on the April 23, 2024 ballot, aimed at funding district facilities and technology needs. The board also discussed the appointment of Pro/Con Committees related to this resolution, ensuring diverse community engagement in the upcoming vote. Additionally, updates were provided on the district's safety initiatives, including the expansion of camera systems at Cedar Heights and Northwood Middle Schools to enhance school safety. The board reviewed various technology contracts, including a significant network cabling capacity improvement project to support over 60,000 connected devices, reflecting the district's commitment to educational technology and infrastructure upgrades. Furthermore, the board acknowledged the need for ongoing monitoring and support of the network systems, emphasizing the importance of these updates for maintaining a safe and effective learning environment.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-14-regular-meeting-pm-minutes.txt)
+
+## 2024-02-14 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 held a special meeting on February 14, 2024, at 4:30 p.m. to discuss School Improvement Plans. The meeting was attended by President Meghin Margel, Directors Awale Farah and Tim Clark, with Directors Donald Cook and Andy Song absent. Superintendent Israel Vela was also present. The meeting lasted approximately one hour and concluded at 5:33 p.m. The focus on School Improvement Plans indicates a potential policy change aimed at enhancing educational outcomes within the district. The meeting serves as an example of community engagement in educational governance, allowing for discussion on critical improvements in the school system.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-14-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-14-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-02-14 - KENT_SCHOOL_DISTRICT (Minutes)
 
@@ -629,7 +737,7 @@ The Kent School District No. 415 Board of Directors held a meeting on February 1
 
 A key agenda item was Resolution No. 1665, related to Capital Projects and Technology Replacement Levy, which received public comments during a hearing. Additionally, a controversial discussion arose regarding the reimbursement of personal legal fees incurred by Director Cook, which ultimately failed after a roll call vote. The board also approved various consent agenda items, including educational initiative grants and specific school projects, while engaging in discussions about policy changes and community engagement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-14-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-14-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -651,25 +759,31 @@ A key agenda item was Resolution No. 1665, related to Capital Projects and Techn
 
 The Kent School District No. 415 held a special meeting on February 7, 2024, focused on a policy work session led by Pam Hawley, the Policy Coordinator. The meeting was attended by several board members, including President Meghin Margel and Superintendent Israel Vela, and lasted approximately one hour. The details of the specific policies discussed during the session were not outlined in the provided text, but the meeting's purpose was explicitly stated as being centered on policy work. There were no controversial topics or unusual content mentioned in the summary of the meeting, and the meeting was adjourned by President Margel at 5:09 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-07-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-07-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-01-31 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a special meeting on January 31, 2024, where they focused on two main areas: the Winter Quarterly Progress Review and discussions surrounding the Capital Projects and Technology Replacement Levy. The meeting included contributions from Dr. Larry Nyland regarding the progress review and Dr. Wade Barringer concerning the technology replacement initiatives. Superintendent Israel Vela was also present, serving as the Secretary to the Board. The meeting commenced at 4:00 p.m., included a brief recess, and concluded at 6:02 p.m. The discussions may indicate ongoing policy changes related to educational technology and capital projects, though specific changes or proposals were not detailed in the minutes.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-01-31-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-31-boardspecialmeetingworksession-minutes.txt)
+
+## 2024-01-24 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on January 24, 2024, which included several notable agenda items and policy discussions. A key focus was on Resolution No. 1663, which proposed a reduction in educational programs affecting central office non-represented administrative staff due to financial necessity, effective July 1, 2024. This resolution was approved with an amendment clarifying its applicability for the 2024-2025 school year and to specific staff categories. Additionally, the board reviewed the Washington State Capital Civic Engagement Grant Application, aimed at enhancing civic engagement among fourth-grade students. The board emphasized the importance of public comment and community engagement, allowing multiple avenues for public feedback, including in-person, online video, and written submissions, all subject to existing public records laws. The meeting also included discussions on various consent agenda items related to student travel, project budgets, and personnel reports, all aimed at maintaining transparency and accountability in school operations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-24-regular-meeting-pm-minutes.txt)
 
 ## 2024-01-24 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 held a special meeting on January 24, 2024, primarily to discuss a Financial Status Update presented by Mr. Ben Rarick, the Associate Superintendent of Finance. Additionally, the meeting included a training session on the Open Public Meetings Act (OPMA) led by General Counsel Mr. Paul Brachvogel. The meeting was attended by key board members, including President Margel and Superintendent Israel Vela. During the session, the board emphasized the importance of transparency and ethics in school board operations, aligning with community engagement initiatives. The meeting was called to order at 4:01 p.m., included a brief recess, and was adjourned at 5:51 p.m. There were no specific policy changes or controversial topics reported during this session.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-01-24-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-24-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-01-24 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors convened on January 24, 2024, where they addressed several key issues, including the approval of Resolution No. 1663 concerning the Reduction in Educational Program. This resolution is specifically applicable to the 2024-2025 school year and pertains only to the central office non-represented administrative staff. The Board also recognized January as School Board Recognition Month and facilitated communication from the audience regarding the resolution. The meeting included a series of motions related to the resolution, including an amendment that clarified its applicability, which passed successfully. The Board also approved a consent agenda that included various items such as field trip authorizations and project bids, ensuring ongoing community engagement in educational activities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-01-24-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-24-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -683,15 +797,21 @@ The Kent School District No. 415 Board of Directors convened on January 24, 2024
 
 ## 2024-01-10 - KENT_SCHOOL_DISTRICT (Minutes)
 
+The Kent School District Board of Directors held a Regular Meeting on January 10, 2024, where several significant agenda items were discussed, including the retirement of Policy 3422 School Patrol, which has been moved to Policy 6605 Student Safety Walking to School, Riding Buses, and School Patrol. This change reflects a consolidation of safety procedures aimed at enhancing school safety. Additionally, the board approved the establishment of a Custodial Fund for the JUUL Labs Litigation Settlement Proceeds, which amounts to $351,237.88, intended to address issues related to youth vaping and nicotine addiction within the district. The board emphasized the importance of community engagement in these initiatives, recognizing the need for input and involvement from district families and the wider community in shaping effective responses to these challenges.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-10-regular-meeting-pm-minutes.txt)
+
+## 2024-01-10 - KENT_SCHOOL_DISTRICT (Minutes)
+
 The Kent School District No. 415 held a special meeting on January 10, 2024, to discuss updates on the Strategic Plan Implementation. The meeting was presided over by Board President Meghin Margel and included Superintendent Israel Vela. The primary focus of the meeting was to review the progress and accountability measures related to the district's strategic initiatives, led by Ms. Joelle Bejarano, the Director of Strategic Initiatives & Program Operations Accountability & Strategy. The meeting was called to order at 4:30 p.m. and adjourned at 5:32 p.m., lasting approximately 1.5 hours. The details of any specific policy changes or new proposals were not mentioned in the text provided.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-01-10-boardspecialmeetingworksession-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-10-boardspecialmeetingworksession-minutes.txt)
 
 ## 2024-01-10 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors held a meeting on January 10, 2024, where several key actions were taken. Notably, the Board approved the retirement of Policy 3422 regarding School Patrol, indicating a significant policy change. The meeting also included the approval of various consent agenda items, such as the Transportation Bus Lot Camera Expansion, the Seattle Urban Area Security Initiative Bleeding Control Program, and the Kent-Meridian High School Baseball Field Lighting Upgrade. Furthermore, the Board recognized January as National Mentoring Month and School Board Recognition Month, demonstrating a focus on community engagement and appreciation for board members' contributions. The meeting concluded with no final comments from the audience and was adjourned at 7:14 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-01-10-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-10-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -722,4 +842,10 @@ The Kent School District No. 415 Board of Directors held a meeting on January 10
 | [Andy Song](board_member_134.md) | voted yes on motion to approve Consent Agenda Item 6.03 | A motion was made to approve Consent Agenda Item 6.03. |
 | [Andy Song](board_member_134.md) | voted yes on motion to approve Consent Agenda Item 6.04 | A motion was made to approve Consent Agenda Item 6.04. |
 | [Andy Song](board_member_134.md) | voted yes on motion to approve Consent Agenda Item 6.09 | A motion was made to approve Consent Agenda Item 6.09. |
+
+## 2024-01-03 - KENT_SCHOOL_DISTRICT (Minutes)
+
+A special meeting of the Kent School District Board of Directors is scheduled for January 3, 2024, from 4:30 p.m. to 8:00 p.m. in the Boardroom of the Administration Center. The meeting is designated as a Board/Superintendent Governance Team Retreat, which aims to foster collaboration and governance practices between the board and the superintendent. The retreat will not be live-streamed, but the boardroom will be open for public attendance, indicating a commitment to community engagement. The agenda includes protocol guidelines and a call to order, followed by discussions on the governance team's operations. The meeting highlights the district's focus on enhancing governance structures and practices within the school board.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-01-03-special-meeting-board-superintendent-governance-team-retreat-pm-pm-minutes.txt)
 

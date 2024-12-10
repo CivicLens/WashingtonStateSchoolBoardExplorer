@@ -6,7 +6,7 @@ The Blaine School District No. 503 Board Work Session held on February 26, 2024,
 
 Interim High School Principal Beth Eide emphasized the integration of core subjects across disciplines and the role of STAR assessments in preparing students for SBAC testing. Discussions also included the impact of artificial intelligence on literacy education, highlighting the ongoing adaptation of curriculum to meet evolving educational standards. The meeting concluded with a review of the feedback provided by the Board of Directors, addressing questions and concerns raised during the presentations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/processed/2024-02-26-minutes.txt)
 
 ### Board Member Actions
 

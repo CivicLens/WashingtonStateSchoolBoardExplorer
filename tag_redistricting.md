@@ -8,5 +8,5 @@ The board discussed the benefits of the alternate plan, which included more comp
 
 The alternate plan was ultimately supported by both the board and the Birch Bay community, with residents expressing appreciation for the district's willingness to listen to their concerns and address them in a constructive manner. The board agreed to further discuss the redistricting plan at their December 14 meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-12-07-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/processed/2021-12-07-minutes.txt)
 

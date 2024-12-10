@@ -4,7 +4,7 @@
 
 The Board of Directors meeting on April 25, 2024, included the approval of the PK - 5 ELA Curriculum, reflecting a policy change aimed at enhancing academic standards in early education. The motion was made by Jilliann Patterson and seconded by Linda Roberts, with all members present voting in favor. The meeting also featured discussions on community engagement, notably recognizing Harrison Middle School TSA and Science Fair students, as well as Administrative Professionals and the Empowering Future Families program. Additionally, the Board addressed school safety, with Joey Glossen presenting updates on safety training and security measures, highlighting the importance of ensuring a secure environment for students and staff.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-04-25-minutes.txt)
 
 ### Board Member Actions
 
@@ -35,7 +35,7 @@ The Board of Directors meeting on April 25, 2024, included the approval of the P
 
 The Regular Board of Directors Meeting held on January 25, 2024, included discussions on school safety and community engagement, particularly in light of recent inclement weather conditions. The Board expressed gratitude to the principals for their presentations during the January Board Work Sessions and acknowledged the staff's efforts to ensure student safety. Additionally, the Board approved Resolution No. 01-2024, which pertains to the surplus and scrapping of two school buses, indicating a policy change related to asset management. The meeting also recognized the Sunnyside School Board for National School Board Month, highlighting the importance of community engagement in educational governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-01-25-minutes.txt)
 
 ### Board Member Actions
 

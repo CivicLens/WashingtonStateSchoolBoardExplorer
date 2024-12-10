@@ -6,5 +6,5 @@ The special session of the school board, held on October 3, 2024, focused on sev
 
 The board also reviewed the Ferndale School Board Social Contract, deciding to remove specific phrases that emphasized emotional engagement and encouragement. This decision reflects a shift towards a more straightforward communication style. Furthermore, the board discussed the potential for additional meetings focused on community linkages and school visits, aiming to enhance engagement with various stakeholders, including PTO groups and students with special education plans. The meeting concluded with plans for further discussions at the upcoming WSSDA Conference.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-10-03-minutes.txt)
 

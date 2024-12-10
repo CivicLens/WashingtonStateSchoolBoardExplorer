@@ -4,7 +4,7 @@
 
 The Kent School District No. 415 Board of Directors held a meeting on May 8, 2024, where several proclamations were made, including recognition of Asian Pacific Heritage Month, National School Nurse Day, and Teacher Appreciation Week, reflecting the district's commitment to diversity and inclusion. The meeting included public comments on various topics such as student lunches and labor issues, indicating community engagement and concern for student health. The board approved multiple consent agenda items related to instructional materials and various construction projects, including parking lot improvements at multiple schools, which may indicate ongoing infrastructure policy changes. The board's actions suggest a focus on enhancing educational resources and facilities within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-08-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-05-08-board-minutes.txt)
 
 ### Board Member Actions
 

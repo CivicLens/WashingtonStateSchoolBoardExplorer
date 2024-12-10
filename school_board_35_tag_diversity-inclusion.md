@@ -4,7 +4,7 @@
 
 The June 3, 2024 Board Meeting of the Lake Washington School District included significant recognitions and resolutions that reflect a commitment to diversity and inclusion. Director Lisa Guthrie read a statement recognizing Juneteenth, emphasizing its historical and cultural significance and the ongoing struggle for racial equality. The meeting also highlighted the PTSA Scholarships awarded to graduating seniors, showcasing achievements in community service and academic excellence, thereby fostering community engagement. Additionally, the board unanimously approved Resolution No. 2375, which authorizes a six-year Construction Levy to address aging facilities and reduce reliance on portables, indicating a proactive approach to policy changes in facility planning to enhance educational environments.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-06-03-minutes.txt)
 
 ### Board Member Actions
 
@@ -37,7 +37,7 @@ The May 6, 2024 Board Meeting of the Lake Washington School District (LWSD) incl
 
 Additionally, the board approved several resolutions, including the adoption of Policy 2415 regarding a Performance-Based Pathway for High School Graduation, which provides guidance for implementing this new graduation option. The board also tabled the Inclusionary Practices Program Update for future discussion, indicating an ongoing focus on policy changes that support inclusive educational practices. The meeting concluded with a discussion on upcoming school visits and committee updates, reinforcing the board's engagement with community feedback and safety initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-05-06-minutes.txt)
 
 ### Board Member Actions
 
@@ -60,7 +60,7 @@ The January 22, 2024 Board Meeting of the Lake Washington School District (LWSD)
 
 The Board approved multiple resolutions, including those related to vouchers and human resources reports. Notably, the Board accepted donations and adopted instructional materials for the district. Additionally, the meeting included a legislative update, emphasizing the district's involvement in ongoing discussions regarding state legislation, with staff testifying on multiple bills. The session concluded with an executive session focused on evaluating complaints against public officers and discussing potential litigation, underscoring the Board's commitment to transparency and ethical governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-01-22-minutes.txt)
 
 ### Board Member Actions
 
@@ -80,7 +80,7 @@ The January 8, 2024 Board Meeting of the Lake Washington School District focused
 
 Significantly, Superintendent Holmen shared insights into Washington state's celebration of Chinese American History Month and Senate Bill 5000, which was signed into law with the involvement of student Emily Shi. Additionally, the board discussed the use of AI in education following meetings with legislators, emphasizing the integration of educational technology. The board is scheduled to advocate for legislative priorities during the upcoming "LWSD Day on the Hill" event on January 24, 2024.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-01-08-minutes.txt)
 
 ### Board Member Actions
 

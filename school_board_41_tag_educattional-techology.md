@@ -6,5 +6,5 @@ The Bremerton School District Board of Directors held their regular meeting on S
 
 Additionally, the board addressed community concerns about increased field rental prices, which could affect local clubs, and discussed the importance of ensuring that costs do not become a barrier for families. The meeting included updates on the Mind Over Mobile campaign aimed at reducing cell phone usage among students, which has reportedly had a positive academic impact. Interim Superintendent Donna Colosky also presented a Cyber Security update, emphasizing the need for a structured IT security framework and the implementation of Multi-Factor Authentication to enhance school safety and reduce risks associated with technology use.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/processed/2024-09-19-minutes.txt)
 

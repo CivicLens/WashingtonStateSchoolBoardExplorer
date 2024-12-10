@@ -4,7 +4,7 @@
 
 The La Conner School Board held a special study session on June 10, 2024, addressing several key action items and curriculum recommendations. Notably, the board approved the appointment of student representatives for the 2024-2025 school year, emphasizing the importance of student voices in decision-making. The board also adopted the 2024-2026 NWESD Stronger Connections Data Sharing Agreement and extended an existing contract with the Washington State Department of Commerce for a solar project aimed at enhancing community resilience. In terms of curriculum, the board discussed recommendations for K-12 science and K-5 physical education, with plans to adopt the proposed curricula at the upcoming June 24 meeting. The discussions highlighted the need for transparency in curriculum choices and the incorporation of educational technology, as well as securing community engagement through partnerships with local organizations, such as the Swinomish Tribe, which committed substantial financial support to the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-06-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-06-10-minutes.txt)
 
 ### Board Member Actions
 
@@ -30,7 +30,7 @@ The La Conner School Board conducted its regular meeting on May 20, 2024, where 
 
 The board also discussed and approved the adoption of a new math curriculum, which will cost the district $1,000, with 80% funded by a CTE grant. This decision reflects an emphasis on curriculum transparency and community engagement, as teachers reviewed and supported the adoption. Additionally, the board recognized retirees and volunteers, highlighting the importance of community involvement in the district. Plans for upcoming events, such as the 8th Grade Promotion and High School Graduation, were also shared, emphasizing the district's commitment to celebrating student achievements.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-05-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-05-20-minutes.txt)
 
 ### Board Member Actions
 

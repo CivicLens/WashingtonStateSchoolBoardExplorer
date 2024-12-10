@@ -4,7 +4,7 @@
 
 The school board meeting held on August 27, 2024, included discussions on several policy changes and updates relevant to mental health and community engagement. Notably, the board adopted Revised Policy 2140, which pertains to the Comprehensive School Counseling Program, aimed at enhancing mental health support for students. Additionally, Revised Policy 2145 on Suicide Prevention was adopted, reflecting a commitment to addressing mental health concerns within the student population. The board also ratified contracts with employee groups, including the Ferndale Association of Administrative Assistants (FAAA) and the Ferndale Principals' Association (FPA), indicating a focus on community engagement and collaboration with educational staff. Furthermore, the board discussed the importance of strategic collaboration through an interlocal agreement with the City of Ferndale to enhance advocacy efforts, particularly in grant writing.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-08-minutes.txt)
 
 ## 2024-12-02 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -12,7 +12,7 @@ The Ferndale School Board held a regular meeting on October 29, 2024, where seve
 
 The board emphasized mental health and student health services through the renewal of various Memoranda of Understanding (MOUs) with organizations like the Lummi Indian Business Council and Whatcom County Health & Community Services to facilitate behavioral health services for students. The meeting also highlighted community engagement initiatives, such as the attendance updates and partnerships discussed by Superintendent Bobby Olsen, which included the Latinos in Action Founder's visit and the National P3 Institute.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-02-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-02-minutes.txt)
 
 ## 2024-12-01 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -20,7 +20,7 @@ The Ferndale School Board meeting on October 29, 2024, addressed several key pol
 
 The meeting also highlighted mental health initiatives, including the renewal of multiple Memorandums of Understanding (MOU) aimed at enhancing behavioral health services for students, such as the agreement with the Lummi Indian Business Council. Community engagement was emphasized through reports on various school activities, including updates from student representatives on fall sports and upcoming events like the Veteran's Day assembly. Furthermore, discussions on school safety included proposals for a new policy on School Safety and Security Services, reflecting the board's ongoing commitment to improving student safety and well-being.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-01-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-01-minutes.txt)
 
 ## 2024-11-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -28,25 +28,25 @@ The Ferndale School Board meeting on October 29, 2024, included significant disc
 
 Additionally, the board approved several memorandums of understanding (MOUs) related to mental health services, including partnerships with the Lummi Indian Business Council and Whatcom County Health & Community Services. These initiatives are aimed at enhancing behavioral health support for students. The meeting also highlighted community engagement through updates on attendance, partnerships, and upcoming events like the Veteran's Day assembly, as shared by student representatives. Furthermore, discussions on the need for improved communication between the board and the community were initiated, emphasizing the importance of transparency and connection.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-30-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-11-30-minutes.txt)
 
 ## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School District No. 502 held a special meeting on July 27, during which the school board conducted a public hearing regarding the proposed 2021-2022 district budget. The meeting was called to order by Mr. Andrew McLaurin at 6:47 PM, with a reminder to attendees about the ongoing requirement for face masks due to rising COVID-19 case counts. No public comments were received regarding the budget, and Mr. Mark Deebach provided an overview of the budget documents, noting that new explanations had been posted on the district's website to enhance clarity for readers. The meeting concluded with Mr. McLaurin adjourning the public hearing at 7:02 PM and directing Zoom viewers to switch links for the upcoming regular board meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-11-07-minutes.txt)
 
 ## 2024-11-05 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The regular meeting of the school board, held on May 28, 2024, included several key actions and recognitions. Dr. Dominguez presented Laura Friend, a science teacher at Vista Middle School, with the Masonic Educator of the Year award, accompanied by a $1500 check. The board adopted the Monitoring Report for Result Policy (R-5) focusing on Early Childhood Readiness, indicating a commitment to early education standards. Additionally, the meeting addressed several policy changes, including the adoption of Revised Policy 3424 regarding Opioid Related Overdose Reversal, reflecting a focus on student health and safety. The board also received revised policies concerning high school graduation requirements and waivers, emphasizing curriculum transparency and academic standards. There was a discussion on the importance of community engagement, highlighted by public comments and student board member reports.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-11-05-minutes.txt)
 
 ## 2024-11-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School District No. 502 School Board held a regular meeting on March 28, 2023, where several significant topics were discussed. Dr. Dominguez highlighted countywide efforts regarding mental health, indicating a focus on the well-being of students. In terms of policy changes, the board revised Operational Expectations Policy 8 (OE-8) to emphasize community input and student voice in all committees, reflecting a commitment to enhancing community engagement. Additionally, Results Policy 2.3 (R-2.3) regarding Academic Achievement in Science was discussed, with plans to consolidate academic reports for core subjects into one annual report rather than biannual, which may improve the frequency of reviews. The board also adopted Resolution 4-2023 concerning participation in a multi-district litigation suit related to Juul, indicating ongoing concerns about student health and safety.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-11-03-minutes.txt)
 
 ## 2024-10-29 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -54,13 +54,13 @@ The Ferndale School Board meeting held on October 29, 2024, included significant
 
 The meeting also addressed mental health initiatives, including the renewal of several Memoranda of Understanding (MOUs) with local organizations for behavioral health services, such as the Lummi Indian Business Council and Whatcom County Health & Community Services. Furthermore, community engagement was emphasized through updates on student activities and partnerships, including a report from student representatives on fall sports and upcoming events like the Veteran's Day assembly. The board's focus on these areas reflects ongoing efforts to enhance educational support and community involvement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-10-29-minutes.txt)
 
 ## 2024-08-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The regular meeting of the school board on August 27, 2024, included significant discussions and actions regarding various policy changes. Among these, the board adopted Revised Policy 2140, which pertains to the Comprehensive School Counseling Program, and Revised Policy 2145 on Suicide Prevention, highlighting a focus on mental health resources for students. Additionally, the board approved Revised Policy 3245 concerning Students and Telecommunication Devices, emphasizing the need to assess the impact of technology on student behavior and engagement through surveys. The meeting also featured community engagement elements, with public comments from individuals such as David Spring and Natalie Chavez, and updates from student board members on back-to-school events. The board's actions reflect a commitment to addressing both mental health and the integration of technology in educational settings.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-08-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-08-27-minutes.txt)
 
 ### Board Member Actions
 
@@ -101,7 +101,7 @@ The regular meeting of the school board on August 27, 2024, included significant
 
 The regular meeting of the school board held on May 28, 2024, included significant discussions and actions regarding various policies and community engagement initiatives. Notably, the board adopted several revised policies, including Policy 3424 on Opioid Related Overdose Reversal, highlighting a focus on mental health and safety within the school environment. The board also recognized the service of student board member Kwabena Ledbetter and presented Laura Friend with the Masonic Educator of the Year award, reflecting community engagement and support for educators. Additionally, the board discussed the upcoming graduation on June 7 and various updates on maintenance and facilities, underscoring ongoing efforts to enhance the educational environment. The meeting concluded with a motion to adjourn at 9:34 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-05-28-minutes.txt)
 
 ### Board Member Actions
 
@@ -124,7 +124,7 @@ The regular meeting of the school board held on May 28, 2024, included significa
 
 The meeting focused on the issues of harassment, intimidation, and bullying within the school district, featuring a panel that included Dr. Chris Cochran, Director of Behavioral Health, and various school administrators. The discussion emphasized the importance of addressing bullying and fostering a safe environment for students. Additionally, Holly Graham, the Finance Manager, reported on the collaborative efforts of the Directors in developing the school board budget for the 2024-25 academic year. The meeting concluded with an adjournment at 7:35 PM after addressing these key topics.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-05-16-minutes.txt)
 
 ## 2023-03-28 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -132,5 +132,5 @@ The school board meeting focused on routine matters such as approving personnel 
 
 Board members shared experiences from their community engagement activities, including school visits and parent-teacher conferences. Concerns were raised regarding the impact of recent years on student learning capacity and the need to prioritize agenda items that support positive student outcomes. This discussion highlighted a recognition of challenges students are facing in adapting to post-pandemic educational environments.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-03-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/processed/2023-03-28-minutes.txt)
 

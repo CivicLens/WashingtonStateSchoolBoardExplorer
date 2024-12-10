@@ -4,7 +4,7 @@
 
 The Lynden School District Board meeting on September 19, 2024, included discussions and approvals of several policies with implications for inclusivity and sexual health education. Notably, Policy 2125 regarding Sexual Health Education was updated to state that the district will provide instruction consistent with state law. Additionally, Policy 3211 on Gender Inclusive Schools was approved with amendments to language regarding communication about names and pronouns, emphasizing the importance of recognizing potential challenges from parents or guardians regarding a student’s transition. The board also discussed legislative positions, including several that were recommended by the Board Legislative Committee, which ultimately did not pass, such as those related to climate impact and ample funded staffing levels. Director Brar raised concerns about fairness in girls' sports and the implications of Initiative 2081.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-09-19-minutes.txt)
 
 ### Board Member Actions
 

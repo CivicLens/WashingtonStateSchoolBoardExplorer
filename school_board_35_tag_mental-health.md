@@ -6,7 +6,7 @@ The April 15, 2024, Board Meeting of the Lake Washington School District focused
 
 The Board also discussed policy changes, particularly the first reading of revised policy Operational Expectation (OE) – 03, which is now titled "Community Engagement and Experience." This consolidation of policies aims to enhance the treatment of community stakeholders and will be formally acted upon in the May 6 meeting. Furthermore, the Board adopted Resolution No. 2365, which redirects 2022 Construction Levy proceeds and matching funds to provide classroom and core space additions at Eastlake and Redmond High Schools, reflecting a commitment to addressing infrastructure needs within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-04-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-04-15-minutes.txt)
 
 ### Board Member Actions
 
@@ -63,7 +63,7 @@ The March 4, 2024 Board Meeting of the Lake Washington School District included 
 
 The board also reviewed several resolutions under the consent agenda, including the acceptance of donations, approval of instructional materials for the district, and a report on the Building Condition Assessment for 2023-24. Notably, the board discussed legislative advocacy efforts, specifically the stalled proposals regarding Limited General Obligation Bonds for capital construction levies, which were sponsored by state legislators but faced challenges due to fiscal note discrepancies. The meeting concluded with plans for future business and an executive session addressing legal matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-04-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-03-04-minutes.txt)
 
 ### Board Member Actions
 
@@ -86,7 +86,7 @@ The January 22, 2024 Board Meeting of the Lake Washington School District (LWSD)
 
 The Board approved multiple resolutions, including those related to vouchers and human resources reports. Notably, the Board accepted donations and adopted instructional materials for the district. Additionally, the meeting included a legislative update, emphasizing the district's involvement in ongoing discussions regarding state legislation, with staff testifying on multiple bills. The session concluded with an executive session focused on evaluating complaints against public officers and discussing potential litigation, underscoring the Board's commitment to transparency and ethical governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-01-22-minutes.txt)
 
 ### Board Member Actions
 

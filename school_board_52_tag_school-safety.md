@@ -4,7 +4,7 @@
 
 The La Conner School Board of Directors held its annual retreat on June 24, 2024, where key discussions focused on enhancing community engagement, improving school safety protocols, and reviewing academic standards. The board emphasized the need for increased outreach to families and the community, proposing regular family potlucks and quarterly meetings to foster relationships and address issues such as bullying. In terms of safety, the board discussed the establishment of a fully operational emergency plan and ensured staff training for potential threats, including active shooter scenarios. Additionally, the board reviewed the strategic plan and decided to remove the June 2024 deadline from a goal, extending it to June 2025, and discussed the implications of the state’s upcoming revisions to academic standards in math, science, and English. The meeting included a finance update, with a public hearing scheduled for July 29 regarding the proposed 2024-2025 budget.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-06-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-06-24-minutes.txt)
 
 ### Board Member Actions
 

@@ -4,19 +4,19 @@
 
 The regular meeting held on September 24, 2024, included discussions and actions on several key policies and initiatives. Notably, the board voted to adopt the Monitoring Report for Results 6 (R-6) focused on Career Readiness and for Results 2.4 (R 2.4) related to Technology, both deemed to meet expectations. The board also confirmed the scheduling of a retreat on October 3rd to discuss changes to monitoring report indicators, particularly concerning the High School and Beyond Plan. A significant topic of discussion was the Interlocal Agreement between the Ferndale School District and the City of Ferndale establishing a District Resource Officer Program, which was initially removed from the consent agenda for further discussion, reflecting concerns about the timing of the agreement's approval. The meeting highlighted the implementation of a new cell phone policy, which received positive feedback from student representatives, noting an increase in school connectivity and a welcoming environment.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-09-minutes.txt)
 
 ## 2024-12-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting held on March 26, 2024, included discussions on various policy changes and community engagement initiatives. Notably, the board adopted a new Technology Policy (Policy 5225), which aims to address the integration and use of technology within the district. The board also reviewed a draft mission statement to refine the district's focus, with feedback collected from previous meetings. Additionally, the Superintendent provided updates on community engagement efforts, including a ribbon-cutting ceremony for the high school and a planned barbeque to connect with local residents. The meeting highlighted the board's commitment to transparency and collaboration with the community, as well as ongoing discussions regarding public records requests and the purpose of board committees.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-03-minutes.txt)
 
 ## 2024-11-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School District No. 502 School Board held a regular meeting on September 28, 2021, where key discussions included the ongoing COVID-19 policies, particularly regarding face mask mandates for public comments during meetings. Mr. McLaurin emphasized that only in-person comments from individuals willing to wear masks would be accepted, while allowing remote comments via Zoom for those who cannot attend. Additionally, the board approved a revised superintendent search calendar, which included recommendations for community focus groups, indicating a focus on community engagement in the search process. The meeting also highlighted concerns regarding poor internet access in schools and a shortage of tablets, which reflect ongoing challenges in educational technology and student health. Lastly, the board discussed a proposal for a two-year replacement levy of $1.50 per $1,000 of assessed value, set to be voted on in February 2022, showcasing potential policy changes in funding for the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-11-09-minutes.txt)
 
 ## 2024-09-24 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -24,7 +24,7 @@ The regular meeting of the school board held on September 24, 2024, addressed se
 
 Additionally, the board adopted Monitoring Reports for Results 6 (R-6) Career Readiness and Results 2.4 (R 2.4) Technology, both meeting expectations, with plans to shift the technology report to the CTE report during the retreat. The meeting also included public comments and updates on legislative matters, emphasizing a commitment to transparency and community engagement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-09-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-09-24-minutes.txt)
 
 ### Board Member Actions
 
@@ -51,7 +51,7 @@ Additionally, the board adopted Monitoring Reports for Results 6 (R-6) Career Re
 
 The regular meeting of the school board held on March 26, 2024, included discussions on various topics including the Multicultural Night and the first home track meet in 11 years, highlighting a commitment to diversity and community engagement. The board reviewed three draft mission statements to refine their mission, indicating a focus on inclusivity and representation. Additionally, the board adopted Policy 5225 - Technology Policy, which addresses the use of educational technology, reflecting an adaptation to current technological needs in education. There were also updates on public records requests and the establishment of an Audit Committee, suggesting ongoing policy changes aimed at improving oversight and transparency within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-03-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-03-26-minutes.txt)
 
 ### Board Member Actions
 

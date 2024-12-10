@@ -6,7 +6,7 @@ The May 6, 2024 Board Meeting of the Lake Washington School District (LWSD) incl
 
 Additionally, the board approved several resolutions, including the adoption of Policy 2415 regarding a Performance-Based Pathway for High School Graduation, which provides guidance for implementing this new graduation option. The board also tabled the Inclusionary Practices Program Update for future discussion, indicating an ongoing focus on policy changes that support inclusive educational practices. The meeting concluded with a discussion on upcoming school visits and committee updates, reinforcing the board's engagement with community feedback and safety initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-05-06-minutes.txt)
 
 ### Board Member Actions
 

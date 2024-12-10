@@ -4,7 +4,7 @@
 
 The August 5, 2024 Board Meeting of the Lake Washington School District (LWSD) included significant discussions on policy changes and community engagement. The board approved several resolutions, including the Interdistrict Cooperative Agreement with Edmonds School District to provide educational programs for students with disabilities for the 2024-2025 school year, and an agreement with Highline College for a post-secondary transition program for special needs children. Additionally, the board discussed legislative engagement, noting that they have connected with 10 local legislators and are preparing for the upcoming 2025 legislative session. The board also held a public hearing regarding the adoption of the 2024-25 budget, with plans to take action on Resolution No. 2380 at the next meeting, emphasizing the importance of transparency and public feedback in the budgeting process.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-08-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-08-05-minutes.txt)
 
 ### Board Member Actions
 
@@ -25,7 +25,7 @@ The June 24, 2024 Board Meeting of the Lake Washington School District featured 
 
 Community engagement was emphasized through audience participation, where parents raised concerns about class sizes and cell phone policies in schools. The board also shared updates on partnerships with local entities, such as the Kirkland City Council, discussing potential collaboration opportunities related to facilities and affordable housing for staff. Overall, the meeting highlighted ongoing efforts to address funding challenges while fostering community involvement in educational matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-06-24-minutes.txt)
 
 ### Board Member Actions
 
@@ -42,7 +42,7 @@ Community engagement was emphasized through audience participation, where parent
 
 The May 20, 2024 Board Meeting of the Lake Washington School District included a discussion on significant policy changes, notably the proposed closure of the Futures School, which is aimed at addressing credit deficiencies for students. The Superintendent's recommendation for this closure will be formally acted upon at the August 19, 2024 Board Meeting. Additionally, the board unanimously approved the Operational Expectation-9 Sustainability Policy, which outlines reasonable interpretations and indicators related to sustainability efforts within the district. This policy was developed through extensive community engagement, including multiple meetings with students, staff, and parents to gather input. The meeting also featured a report on the need for increased support for special education funding, as highlighted by Dr. Holmen, who discussed ongoing challenges in school funding in Washington state.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/processed/2024-05-20-minutes.txt)
 
 ### Board Member Actions
 

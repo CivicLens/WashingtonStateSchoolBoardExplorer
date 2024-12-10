@@ -6,5 +6,5 @@ The City Council of Pullman held a regular meeting on February 27, 2024, where s
 
 The meeting also featured a presentation by Welch Comer Representatives regarding the communication plan for the Downtown Pullman Project, emphasizing community engagement through upcoming open houses. The Council discussed the importance of maintaining access to businesses during construction and proposed the creation of an ad hoc parking committee to address potential parking issues arising from the project. The committee would include the Mayor, Police Chief, Fire Marshal, and City Engineer to ensure effective transportation and traffic management throughout the construction period.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-02-27-council-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/processed/2024-02-27-council-minutes.txt)
 

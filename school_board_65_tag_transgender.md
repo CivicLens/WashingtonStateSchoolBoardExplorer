@@ -4,7 +4,7 @@
 
 The Lynden School District Board meeting on October 3, 2024, included discussions on the participation of transgender athletes in girls’ sports, with multiple community members expressing opposition to this policy. Director Hickman addressed recent social media posts related to the board's work on this topic. The board also reviewed and approved several policies, including the adoption of Policy 2401 regarding Financial Education Mastery-Based Learning & Credit, and updates to Policy 3241 on Student Discipline. The board's workshop focused on prioritizing positions for submission to the Washington State School Directors' Association (WSSDA), emphasizing advocacy for fully funded basic education and support for special education. The meeting highlighted community engagement on sensitive topics, particularly around inclusivity and sports participation.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-10-03-minutes.txt)
 
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
@@ -12,7 +12,7 @@ The Lynden School District Board meeting on September 5, 2024, included discussi
 
 Additionally, a community member raised concerns about school safety following the failure of a bond measure, emphasizing the need for security officers on all campuses. This highlighted a broader concern about school safety and funding priorities. The board also moved several policies to a second reading, including Policy 2125 on Sexual Health Education and Policy 3211/P on Gender Inclusive Schools, reflecting ongoing policy changes aimed at inclusivity and addressing community feedback.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-09-05-minutes.txt)
 
 ### Board Member Actions
 
@@ -40,7 +40,7 @@ Directors Brar. Motion carried b...[truncated, use api for full text] |
 
 The Lynden School District Board Meeting held on August 15, 2024, included discussions on various policies, notably Policy 3211/P regarding Gender Inclusive Schools. Superintendent David VanderYacht reported ongoing consultations with legal counsel to amend this policy, aiming to align with recent developments in WIAA (Washington Interscholastic Activities Association) participation policies, which allow students to compete in sports corresponding to their gender identity. The board discussed community feedback received concerning the participation of transgender athletes in girls' sports, emphasizing the importance of fair competition and the rights of female athletes. Community members expressed concerns through written comments about the implications of these policies on female athletics. Additionally, the meeting addressed the 24/25 Budget adoption (Resolution #10-24) and included a presentation on graduation pathways by Lynden High School Principal Ian Freeman, highlighting the district's focus on personalized education for students.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-08-15-minutes.txt)
 
 ### Board Member Actions
 
@@ -57,7 +57,7 @@ The Lynden School District Board meeting on June 20, 2024, addressed several sig
 
 The board also reviewed the Alternative Learning Experience (ALE) Program and approved it for the 2024/2025 school year. Discussions included a report from the Safety & Security Task Force aimed at improving safety protocols within district facilities. The meeting concluded with members reflecting on personal milestones, including graduations, showcasing community engagement and support for educational pathways within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-06-20-minutes.txt)
 
 ### Board Member Actions
 
@@ -85,5 +85,5 @@ The meeting also included a discussion on potential policy changes driven by par
 
 Further, the minutes document requests from students for greater autonomy regarding mask-wearing and highlight concerns about the impact of masks on breathing.  The meeting also included discussion about lunch times and recess rules at elementary schools and Lynden Middle School (LMS).
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-02-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/processed/2022-02-10-minutes.txt)
 

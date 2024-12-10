@@ -4,7 +4,7 @@
 
 The Regular Board Meeting held on July 23, 2024, included discussions on updates regarding the WIAA's transgender policy, specifically raised by Mr. Bly. Additionally, Mr. Talbott presented new language for drug and alcohol violations for East Valley student-athletes, highlighting a focus on student health and safety. The meeting also addressed financial matters, including the approval of various vouchers for bills and payroll for June and July, and the approval of the East Valley Extracurricular Employees Organization Contract. The board discussed the delay in the Trentwood roof replacement project, which incurred an additional cost of $32,414.36 due to drain failures on the EVHS roof.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-07-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-07-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -43,7 +43,7 @@ The Regular Board Meeting held on July 23, 2024, included discussions on updates
 
 The Regular Board Meeting on May 28, 2024, included a public comment from Todd Gropp regarding concerns about fairness related to transgender athletes. The board also approved revisions to Board Policy 4060 - Distribution of Information, with no specific details provided about the nature of the changes. Additionally, the meeting featured a strategic plan unveiling by Tammy Campbell from The Scholar First for the years 2024-2030, indicating a focus on future educational goals and community engagement. The meeting concluded with an executive session to review the performance of a public employee, reflecting ongoing governance and oversight responsibilities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-05-28-minutes.txt)
 
 ### Board Member Actions
 

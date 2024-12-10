@@ -6,5 +6,5 @@ The Kalama School District No. 402 Board Meeting held on September 23, 2024, inc
 
 The meeting also featured a report on the Natural Resources Learning Facility, emphasizing educational technology advancements. Recognitions included the September Student of the Month award to Shade Garrido and the Kalama School District Family Award presented to Police Chief Ralph Herrera. The board discussed the importance of community engagement, as highlighted by public comments from several patrons, and addressed special education support through a proposal for better funding and resources.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/2024-09-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/processed/2024-09-23-minutes.txt)
 

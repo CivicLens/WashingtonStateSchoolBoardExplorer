@@ -4,7 +4,7 @@
 
 The Kent School District No. 415 Board of Directors held a meeting on April 24, 2024, where several proclamations were made, including National Student Leadership Week and Administrative Professionals Week. The board approved several consent agenda items, including a contract for construction administration services for a network data cabling improvement project and a resolution concerning out of endorsement waivers. Superintendent Vela provided a report, and Director Clark gave a legislative update, indicating ongoing engagement with state legislation relevant to the district. Additionally, procedures related to special education and enrollment were discussed, highlighting the district's commitment to supporting eligible students through special education services.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-04-24-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-04-24-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -22,7 +22,7 @@ The Kent School District No. 415 Board of Directors held a meeting on April 24, 
 
 The Kent School District No. 415 Board Meeting on March 13, 2024, included several significant agenda items and actions. Notably, the board approved multiple technology contracts, including the award of contracts for Managed Internal Broadband Services to Ednetics, and for Added Internet Capacity and Fiber Wide Area Network to King County I-Net. These contracts reflect the district's focus on enhancing its technological infrastructure. Additionally, the board discussed legislative updates, emphasizing the importance of community engagement and the support for an upcoming levy, which aims to bolster district resources. Resolution No. 1670 was also passed, indicating a conditional certification related to district policies. The meeting included public comments on various topics, including the role of board student representatives and multi-lingual programs, showcasing the district's commitment to community feedback and involvement in educational matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-03-13-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-03-13-board-minutes.txt)
 
 ### Board Member Actions
 

@@ -8,5 +8,5 @@ The meeting also featured a presentation on social-emotional learning (SEL) from
 
 Finally, the minutes mention discussions regarding racial equity, though specific details about these conversations are not provided. This could indicate an ongoing effort by the school board to address systemic inequities within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-09-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-09-10-minutes.txt)
 

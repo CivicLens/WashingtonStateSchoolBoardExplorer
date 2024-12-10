@@ -4,7 +4,7 @@
 
 The Regular Board Meeting held on December 12, 2023, included several key actions regarding policy changes and community engagement. The board approved a donation of $1,754.83 from the East Valley Booster Club for cheer uniforms, reflecting community support for school activities. Additionally, the board nominated Carolyn Peterson as the chair for the "For" Committee in preparation for the February 2024 election, indicating a proactive approach to community involvement in school governance. The meeting also addressed financial matters, including the approval of various vouchers for payments totaling over $1 million, which highlights the board's commitment to fiscal responsibility. Furthermore, Superintendent Brian Talbott reported on a social media lawsuit that will be discussed in January, indicating ongoing legal matters that could impact the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2023/2023-12-12-draft-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2023/processed/2023-12-12-draft-minutes.txt)
 
 ### Board Member Actions
 

@@ -1,10 +1,28 @@
 # Meeting Summaries for KENT_SCHOOL_DISTRICT with Tag: mental-health
 
+## 2024-09-11 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on September 11, 2024, where several important items were addressed, including the approval of the top five legislative priorities for the Washington State School Directors' Association General Assembly. These priorities include full funding for the prototypical school model, a requirement for a simple majority, universal preschool, expanding basic education, and artificial intelligence, reflecting a focus on educational equity and innovation. The board also recognized September as Attendance Awareness Month and National Hispanic Heritage Month, emphasizing community engagement and the importance of student attendance for academic success. Additionally, the board discussed a three-year contract with Granite Communications to replace outdated Plain Old Telephone System (POTS) lines with more reliable EPIK lines, showcasing a commitment to upgrading technology infrastructure to ensure effective communication across school sites. The meeting included a motion to approve the Superintendent's Contract, which was passed with one abstention, indicating ongoing governance and administrative oversight.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-09-11-regular-meeting-pm-minutes.txt)
+
+## 2024-06-26 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on June 26, 2024, where several key agenda items were discussed, including the approval of a $300,000 Professional Services Agreement with Hazel Health to provide mental health and physical health services across all schools. This contract aims to enhance mental health accessibility, particularly in light of increased needs due to the COVID-19 pandemic. Additionally, the board acknowledged the importance of educational technology by approving the purchase of 248 iPads to support inclusive education for students with adapted needs, with a budget of $118,381.24. The meeting also included a recognition segment for National Board Certified Teachers, emphasizing the district's commitment to supporting a diverse and effective teaching workforce. The board's actions reflect ongoing efforts to improve student health, educational resources, and community engagement within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-26-regular-meeting-pm-update-the-public-hearing-noticed-in-the-kent-reporter-for-this-meeting-will-now-take-place-on-july-10-minutes.txt)
+
+## 2024-06-12 - KENT_SCHOOL_DISTRICT (Minutes)
+
+The Kent School District Board of Directors held a regular meeting on June 12, 2024, where several key agenda items were discussed and voted on. Significant policy changes included the approval of Resolution No. 1677 regarding Special Education Out-of-Endorsement Reporting, which mandates annual reporting of employees teaching out-of-endorsement to the Office of the Superintendent of Public Instruction (OSPI). This resolution aims to ensure that students are assigned to teachers with the proper endorsements. The board also discussed the renewal of professional service agreements with Valley Cities Counseling and Consultation and Kent Youth and Family Services, aimed at providing mental health services and behavioral health support, respectively. These contracts are part of the district's commitment to enhance mental health resources for students, reflecting a focus on mental health and community engagement. Additionally, the board reviewed and accepted gifts and donations, highlighting the importance of community support in enhancing educational programs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-12-regular-meeting-pm-minutes.txt)
+
 ## 2024-06-12 - KENT_SCHOOL_DISTRICT (Minutes)
 
 The Kent School District No. 415 Board of Directors convened on June 12, 2024, where several significant topics were addressed, including proclamations for Pride Month and Juneteenth, highlighting the district's commitment to diversity and inclusion. Superintendent Vela provided a report emphasizing mental health partnerships, reflecting the district's focus on student well-being. The board discussed and approved several resolutions, including Resolution No. 1677 regarding Special Education Out of Endorsement Reporting and Resolution No. 1678 concerning Out of Endorsement Waivers, aimed at supporting special education compliance. A notable discussion centered around school safety, specifically concerning drug-related issues in high school bathrooms, indicating ongoing community engagement and concern for student health. The meeting concluded with a failed motion regarding the iGrad Building Upgrades Project, showcasing the complexities of contract approvals within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-12-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-06-12-board-minutes.txt)
 
 ### Board Member Actions
 
@@ -29,7 +47,7 @@ The Kent School District No. 415 Board of Directors convened on June 12, 2024, w
 
 The Kent School District No. 415 Board of Directors held a meeting on February 28, 2024, where they addressed several significant topics, including student mental health and bullying prevention. The board discussed the approval of various policies, including the Second Reading and Approval of Policy 5011, which prohibits sexual harassment of district staff, and Policy 3122, which pertains to excused and unexcused absences. Additionally, they approved Resolution No. 1669, creating a Labor Policy Committee of the Board, which sparked public comment regarding its implications. The meeting featured extensive public engagement, with community members voicing concerns about mental health, bullying, and the district's educational programs. The board's decisions reflect ongoing efforts to enhance student well-being and uphold ethical standards within school governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-28-board-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-02-28-board-minutes.txt)
 
 ### Board Member Actions
 

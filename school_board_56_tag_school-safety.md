@@ -6,7 +6,7 @@ The Regular Board Meeting held on October 22, 2024, included several key agenda 
 
 The board also tabled the first reading of Board Policy 3242 - Closed Campus, which indicates a potential shift in school policy regarding campus access. The decision to postpone further discussion until the next meeting suggests that the board is taking a cautious approach to any changes that could affect student autonomy and school safety. Overall, the meeting underscored the board's commitment to engaging with community needs while navigating policy adjustments.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-10-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-10-22-minutes.txt)
 
 ### Board Member Actions
 
@@ -29,7 +29,7 @@ The board also tabled the first reading of Board Policy 3242 - Closed Campus, wh
 
 The Regular Board Meeting held on August 27, 2024, included the adoption of several important resolutions and policies. Notably, the board approved Resolution 2822, which pertains to the 24/25 Budget, and both the 24/25 PSE and EVEA Contracts, indicating a commitment to financial planning and employee agreements for the upcoming school year. Additionally, there was a first reading of revisions to Board Policy 5011, addressing sex discrimination and sex-based harassment of district staff, reflecting the board's focus on maintaining a safe and equitable environment within schools. The meeting also featured updates on school construction, specifically the roof work at Trentwood Elementary and the leasing interest from ParaSport for Mountain View Middle School, which ties into broader school safety and facility management discussions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-08-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-08-27-minutes.txt)
 
 ### Board Member Actions
 
@@ -60,7 +60,7 @@ The Regular Board Meeting held on June 25, 2024, addressed several key issues re
 
 The board approved various business items, including a donation from the EVHS Booster Club and the East Farms weeded book list, demonstrating an effort to enhance community involvement and support for school programs. The meeting concluded with a decision to renew the superintendent's contract, following an executive session dedicated to reviewing the performance of a public employee.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-06-25-minutes.txt)
 
 ### Board Member Actions
 
@@ -81,7 +81,7 @@ The board approved various business items, including a donation from the EVHS Bo
 
 The Regular Board Meeting held on February 27, 2024, included several key actions and discussions. The board approved revisions to Board Policy 6950, which addresses Contractor Assurances, Surety Bonds, Insurance, and Change Orders, and Board Policy 6220, which pertains to Bid or Request for Proposal Requirements. These revisions aim to ensure compliance and improve operational efficiency in school contracting processes. Additionally, the meeting featured discussions on school safety, particularly regarding vaping issues at EVHS, with Mr. Horsley highlighting his conversations with Principal Ryan Arnold about addressing this concern. The board also received presentations from students involved in the FFA and FBLA clubs, emphasizing community engagement and the importance of career and technical education. Overall, the meeting underscored the board's commitment to policy improvements and student welfare.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-02-27-minutes.txt)
 
 ### Board Member Actions
 
@@ -106,7 +106,7 @@ The Regular Board Meeting held on February 27, 2024, included several key action
 
 The Regular Board Meeting held on February 13, 2024, involved discussions and approvals of several revised policies aimed at enhancing school safety and addressing bullying. Notably, the board approved the revised Board Policy 3207, which prohibits harassment, intimidation, or bullying, and the revised Board Policy 3225, which focuses on school-based threat assessment, both of which underwent a second reading. Additionally, Board Policy 3421 concerning child abuse and neglect prevention was also approved. These policy changes reflect the board's commitment to fostering a safe educational environment. Furthermore, the meeting included a presentation on the Trentwood roof by Drew Wright, highlighting ongoing facilities concerns. The board also discussed the need for a facilities committee to prioritize district bond projects, indicating a proactive approach to school infrastructure and safety.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-02-13-minutes.txt)
 
 ### Board Member Actions
 

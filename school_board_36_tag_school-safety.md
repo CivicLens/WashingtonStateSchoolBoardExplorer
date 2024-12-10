@@ -6,5 +6,5 @@ The Mercer Island School District Board of Directors held a regular meeting on O
 
 Additionally, the Board approved revisions to Board Policy 3205 regarding the prohibition of sexual harassment of students, aligning the language with statutory requirements. Discussions on the SIPs included addressing barriers faced by special education students and the use of restorative justice practices to promote positive relationships. The meeting also featured public comments advocating against the repeal of the Climate Commitment Act, reflecting community engagement on environmental issues.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-10-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/processed/2024-10-24-minutes.txt)
 

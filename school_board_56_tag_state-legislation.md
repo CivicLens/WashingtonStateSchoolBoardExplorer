@@ -4,7 +4,7 @@
 
 The Regular Board Meeting held on April 23, 2024, included several key actions and discussions. The board approved the resignation of Cari Roderick, Assistant Director of Technology and Assessment, as part of the personnel report. Additionally, the board discussed the passage of HB2494, which will increase state funding for school operating costs, effective June 6, 2024. This legislative change is expected to impact the financial resources available for the district's operations. The meeting also featured discussions on student travel approvals and the potential purchase of an 8-passenger van to reduce transportation costs. The session concluded with an executive session to review the performance of a public employee, indicating ongoing oversight and evaluation within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-04-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-04-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -27,7 +27,7 @@ The Regular Board Meeting held on March 26, 2024, included discussions on severa
 
 In terms of legislative matters, Ms. Theresa Noack reported on the recent passage of a special education enrollment funding cap by the House, which is currently pending in the Senate. Additionally, she mentioned House Bill 2494, aimed at increasing state funding for school operating costs. These discussions reflect ongoing efforts to address special education support and the impact of state legislation on school funding and operations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-03-26-minutes.txt)
 
 ### Board Member Actions
 

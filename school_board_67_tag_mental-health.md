@@ -4,7 +4,7 @@
 
 The School Board meeting held on October 10, 2024, highlighted community engagement initiatives, including a successful first Community Connections meeting at Harmony and an upcoming meeting scheduled for October 17 at the High School Library. The board discussed the importance of mental health, as indicated by Natalie Chavez's concerns regarding the School Based Health Clinic. Additionally, the meeting included updates on various programs, such as the FFA's participation in the Puget Sound Livestock show and the upcoming High School Evening Conferences on October 17. The board also recognized the contributions of staff and expressed appreciation for their efforts at the start of the school year.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/processed/2024-10-10-minutes.txt)
 
 ### Board Member Actions
 
@@ -19,7 +19,7 @@ The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoo
 
 Policy discussions centered around MB Policy/Procedure 6100, which underwent its annual review. Reports were presented by the Executive Director of Finance & Operations regarding COVID-19's financial impact and by the Superintendent on elementary and secondary attendance, engagement, secondary master schedule considerations, and Continua (likely a program or initiative). The meeting concluded with scheduling details for future meetings and the absence of an executive session.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-12-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-12-10-minutes.txt)
 
 ## 2020-11-12 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -29,7 +29,7 @@ The board also discussed mental health resources for students, highlighting part
 
 Additionally, the meeting included updates on school safety procedures and the implementation of hybrid learning models in response to COVID-19.  The board received reports from the Executive Director of Finance & Operations regarding the 2019-2020 Year End Report and the 2020-2021 Monthly Report. The Superintendent also provided updates on the district's hybrid launch and various partner programs aimed at supporting student learning and well-being.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-11-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-11-12-minutes.txt)
 
 ## 2020-10-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
@@ -39,5 +39,5 @@ The board also received reports on the Executive Director of Finance & Operation
 
 Parents provided feedback on remote learning experiences during the "Good of the Order" and "Information from the Audience" portions of the meeting. The board also discussed and approved MB Policy 6100 Revenues from Local, State, and Federal Sources following first, second, and final review.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-10-22-minutes.txt)
 

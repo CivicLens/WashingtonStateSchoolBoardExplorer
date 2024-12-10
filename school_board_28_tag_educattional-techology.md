@@ -6,7 +6,7 @@ The Wahluke School District held a Special Board Meeting on October 23, 2024, wh
 
 Additionally, the board approved several personnel actions, including new hires for special education paraprofessionals and food service assistants, as well as coaching positions. The meeting concluded with the board approving the participation of 6th-8th graders in high school golf practices and a motion to potentially run a levy in February to fund HVAC system improvements. The next special board meeting is scheduled for November 25, 2024.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-10-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/processed/2024-10-23-minutes.txt)
 
 ## 2024-02-20 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
 
@@ -14,5 +14,5 @@ The Wahluke School District held a Special Board Meeting on February 20, 2024, w
 
 Several actions were taken regarding policy changes, including the approval of Resolution 02-2024 and a motion to retire Policy 3240. The board also discussed various policies, such as Policy 3245 on students and telecommunication devices, and Policy 5403 on sick leave, with the latter being approved without changes. The meeting concluded with a motion to approve the 2024-2025 school calendar and various field trips, reflecting ongoing community engagement and support for student activities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-02-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/processed/2024-02-20-minutes.txt)
 

@@ -4,7 +4,7 @@
 
 The School Board Meeting held on August 26, 2024, addressed several key items, including the approval of technology contracts. A two-year renewal agreement for Zoom meeting and webinar software was approved, costing $5,672.83 annually plus applicable sales tax. The Board also approved the final acceptance of various projects, including the Camas High School Cardon Field Turf Replacement Project and the District-wide Wireless Access Point (WAP) Project. The meeting included discussions on the 2024/2025 Budget, which was unanimously approved, as well as consent agenda items related to human resources and accounts payable. The meeting concluded with an executive session on property matters before adjournment.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-08-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-08-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -38,7 +38,7 @@ The School Board Meeting held on August 26, 2024, addressed several key items, i
 
 The School Board Meeting held on July 22, 2024, included several key agenda items relevant to technology and facility management. A Professional Services Agreement with MacKay Sposito was approved for design, engineering, and project management services for a covered tennis court project, with funding not to exceed $153,000 from Capital Projects. Additionally, the board approved a Facility Use and Management Agreement with the United States Tennis Association (USTA) and the purchase of Mystery Science materials for all elementary schools, totaling $64,128.93. These actions reflect ongoing efforts to enhance educational resources and facilities within the school district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-07-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-07-22-minutes.txt)
 
 ### Board Member Actions
 
@@ -71,7 +71,7 @@ The School Board Meeting held on April 22, 2024, included several key discussion
 
 The meeting also featured a policy review, including a first reading of several policies such as 2410 - High School Graduation Requirements, and 5005 - Employment and Volunteers: Disclosures Certification Requirements, among others. The board passed a second reading and adoption of policies including 2255 - Alternative Learning Experience Courses and 2415 - Performance-Based Pathway for High School Graduation, indicating ongoing efforts to update and refine educational standards and requirements.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-04-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-04-22-minutes.txt)
 
 ### Board Member Actions
 
@@ -98,7 +98,7 @@ The meeting also featured a policy review, including a first reading of several 
 
 The School Board meeting held on March 25, 2024, involved several key actions, including the approval of revisions to the Camas High School Associated Student Body Constitution and the adoption of a new Middle School English Language Arts Curriculum, which is part of the board's focus on academic standards. Policies reviewed included a first reading of several new and revised policies such as 2415 - Performance-Based Pathway for High School Graduation and 5254 - Staff Expression. The board also approved a placement of a student at New Focus Academy, emphasizing their commitment to special education support, with a total cost not to exceed $147,690. Additionally, the board approved multiple technology contracts, including a router replacement project for $285,919.86 and a copier lease renewal with Pacific Office Automation, reflecting ongoing investments in educational technology within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-03-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-03-25-minutes.txt)
 
 ### Board Member Actions
 

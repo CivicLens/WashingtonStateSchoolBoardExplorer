@@ -4,7 +4,7 @@
 
 The La Conner School Board held a special meeting on July 29, 2024, to discuss and adopt the 2024-2025 budget, highlighted by Superintendent David Cram's presentation of budgetary constraints and staffing reductions due to declining enrollment. The board approved Resolution No 24-17, which adopts the proposed budget, and acknowledged the need for ongoing community engagement to address concerns regarding financial contributions from the Swinomish Tribe, particularly in light of a significant Native American student population. The meeting also included discussions on the impact of the McCleary Act on salary increases for staff and the necessity for the district to reach a 10% reserve fund to comply with policy. No public comments were made during the session.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-07-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-07-29-minutes.txt)
 
 ### Board Member Actions
 

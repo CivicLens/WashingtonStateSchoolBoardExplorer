@@ -4,7 +4,7 @@
 
 The Selah School District Board of Directors held a meeting on June 27, 2024, where the primary focus was the adoption of the "Since Time Immemorial" (STI) curriculum, which aims to incorporate Native American history and perspectives into the educational framework. Alicia Jacob provided updates on the curriculum development process, emphasizing community engagement and transparency, detailing how feedback led to significant changes, including the replacement of the book "Indigenous Peoples of the United States" with a Virginia Beavert autobiography. The board faced divided opinions during public comments, with some community members expressing support for the curriculum's inclusive approach to history, while others raised concerns about perceived inaccuracies and divisive language in the proposed materials. Notably, the board approved the curriculum with a vote of 4-1, despite significant public opposition, highlighting a contentious debate over educational content and historical representation. The meeting also included discussions on various resolutions, including the authorization of warrant signatures and contracts for administrative positions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-06-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-06-27-minutes.txt)
 
 ### Board Member Actions
 

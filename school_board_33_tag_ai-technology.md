@@ -2,9 +2,15 @@
 
 ## 2024-11-12 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
 
+The Federal Way School Board held a special meeting on November 12, 2024, beginning with an Executive Session at 5:30 p.m., followed by a Regular Board Meeting at 6:00 p.m. Key agenda items included updates on the Multi-tiered Systems of Support (MTSS) and Social-Emotional Learning (SEL), presented by Dr. Dani Pfeiffer, Superintendent, highlighting the district's focus on providing comprehensive support for student well-being. Additionally, a presentation on Artificial Intelligence was scheduled, reflecting the district's engagement with emerging educational technologies. The meeting also addressed policy changes, specifically regarding a memo to withdraw Policy 3248 and Procedure 3248P related to tobacco, alcohol, illicit drugs, and mind-altering substances, indicating a potential shift in the district's approach to substance use policies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/processed/2024-11-12-special-board-meeting-executive-session-starting-at-pm-and-regular-board-meeting-pm-minutes.txt)
+
+## 2024-11-12 - FEDERAL_WAY_PUBLIC_SCHOOLS (Minutes)
+
 The Federal Way Public School District No. 210 held a Special Board Meeting on November 12, 2024, where several key actions and discussions took place. The Board approved Resolution 2024-17, which pertains to the Superintendent's Signing Authority, allowing the Superintendent to execute specific documents on behalf of the Board. Additionally, policy updates were made to GP-1 and GP-2, though the specific changes were not detailed in the minutes. A significant focus of the meeting was on social-emotional learning (SEL), with Superintendent Dr. Dani Pfeiffer introducing an update on Multi-tiered Systems of Support (MTSS) and SEL, presented by various district leaders. The Board also discussed the implications of artificial intelligence in education, with a presentation led by Dr. Melissa Spencer and other technology officials. Community engagement was highlighted through recognition of local partners and the presentation of school highlights by Principal Ra'Jeanna Conerly.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/2024-11-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/federal_way_public_schools/2024/processed/2024-11-12-minutes.txt)
 
 ### Board Member Actions
 

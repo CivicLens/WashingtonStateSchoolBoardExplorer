@@ -6,7 +6,7 @@ The Regular Board Meeting held on March 26, 2024, included discussions on severa
 
 In terms of legislative matters, Ms. Theresa Noack reported on the recent passage of a special education enrollment funding cap by the House, which is currently pending in the Senate. Additionally, she mentioned House Bill 2494, aimed at increasing state funding for school operating costs. These discussions reflect ongoing efforts to address special education support and the impact of state legislation on school funding and operations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-03-26-minutes.txt)
 
 ### Board Member Actions
 

@@ -1,10 +1,16 @@
 # Meeting Summaries for CAMAS_SCHOOL_DISTRICT with Tag: special-education-support
 
+## 2024-12-02 - CAMAS_SCHOOL_DISTRICT (Minutes)
+
+The Camas School District's Board of Education, comprising five elected members, engages in various educational policies and community initiatives. Recent discussions include a focus on special education support, particularly in ensuring equitable access to resources for all students. The board emphasizes community engagement, encouraging feedback from parents and residents, as seen in the appointment of new members who bring diverse backgrounds and experiences to the table. For instance, Bamini Pathmanathan, a newly elected board member, has a background in nutrition and has actively participated in community service roles, advocating for high-quality education and collaboration among stakeholders. The board's commitment to policy changes reflects a response to evolving educational needs and legislative requirements, with a regular review of district progress and strategic planning for future priorities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-12-02-minutes.txt)
+
 ## 2024-09-23 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting held on September 23, 2024, included discussions and approvals related to special education placements. The board approved a student placement at SPERO Center for $326,000 and another at Florens Academy for $600,000 for the 24/25 school year, with motions moved by board members Connie Hennessey and Tracey Malone, respectively. Additionally, the board approved an Out-of-Endorsement Assignment Request for Adam Mathieson, indicating the board's commitment to supporting special education needs. The meeting also featured public comments and student reports, showcasing community engagement and the importance of student voices in board decisions. The board unanimously carried all motions presented.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-09-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -35,7 +41,7 @@ The school board meeting held on September 23, 2024, included discussions and ap
 
 The School Board meeting held on March 25, 2024, involved several key actions, including the approval of revisions to the Camas High School Associated Student Body Constitution and the adoption of a new Middle School English Language Arts Curriculum, which is part of the board's focus on academic standards. Policies reviewed included a first reading of several new and revised policies such as 2415 - Performance-Based Pathway for High School Graduation and 5254 - Staff Expression. The board also approved a placement of a student at New Focus Academy, emphasizing their commitment to special education support, with a total cost not to exceed $147,690. Additionally, the board approved multiple technology contracts, including a router replacement project for $285,919.86 and a copier lease renewal with Pacific Office Automation, reflecting ongoing investments in educational technology within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-03-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-03-25-minutes.txt)
 
 ### Board Member Actions
 

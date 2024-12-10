@@ -4,7 +4,7 @@
 
 The La Conner School Board held a regular meeting on August 26, 2024, where key actions included the appointment of student representatives, Emmalin Goodman and Kellie Cayou-Lockrem, for the 2024-2025 school year. The board emphasized the importance of student autonomy by encouraging the representatives to report on topics of their choice, with the first report focusing on the cell phone policy. The board adopted a revised fines and fees schedule for the upcoming school year, which included a reduction in yearbook costs and the introduction of a replacement cost for Yondr pouches. The meeting also addressed the implementation of a cell phone-free policy aimed at reducing distractions and bullying, with specific accommodations for students with health concerns. Feedback from a community survey indicated mixed sentiments regarding the policy, highlighting both positive responses about reduced distractions and concerns about communication issues. The board is committed to engaging with the community and addressing feedback as they move forward with these initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-08-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -25,7 +25,7 @@ The La Conner School Board of Directors held a special meeting on August 12, 202
 
 In addition, the board discussed a significant policy change regarding cell phone use in schools. Starting in the 2024-2025 school year, the district plans to implement a cell phone-free environment to enhance student engagement and mental health by reducing distractions. This initiative follows unsuccessful attempts over the past two years to limit cell phone use and aligns with practices adopted by nearby districts. The board expressed support for the policy, which aims to foster better social interactions and academic focus among students. The implementation will involve using Yondr pouches for high school students and locked cases for middle school students to store their devices during school hours. The board is seeking community feedback to facilitate a smooth transition to this new policy.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-12-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-08-12-minutes.txt)
 
 ### Board Member Actions
 

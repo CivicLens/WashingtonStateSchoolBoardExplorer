@@ -4,7 +4,7 @@
 
 The Kent School District No. 415 held a Special Meeting on July 10, 2024, where several resolutions and policy updates were discussed and approved. Notably, Resolution No. 1680 regarding the 2024 Capital Projects and Technology Replacement Levy was passed, with Director Cook voting against it. Additionally, the board approved Resolution No. 1679 endorsing the same levy, with Director Cook abstaining from the vote. The meeting included discussions on the extension of agreements for School Safety Services and the School Resource Officer Agreement with the Kent Police Department for the upcoming school year. This reflects the district's focus on enhancing school safety and educational technology through capital projects. The meeting concluded with the approval of various consent agenda items, indicating a collaborative approach to governance among board members.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-07-10-boardspecialmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/processed/2024-07-10-boardspecialmeeting-minutes.txt)
 
 ### Board Member Actions
 

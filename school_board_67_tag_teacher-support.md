@@ -8,5 +8,5 @@ The board also received reports on the Executive Director of Finance & Operation
 
 Parents provided feedback on remote learning experiences during the "Good of the Order" and "Information from the Audience" portions of the meeting. The board also discussed and approved MB Policy 6100 Revenues from Local, State, and Federal Sources following first, second, and final review.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/2020-10-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2020/processed/2020-10-22-minutes.txt)
 

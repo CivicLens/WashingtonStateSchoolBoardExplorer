@@ -1,10 +1,16 @@
 # Meeting Summaries for CAMAS_SCHOOL_DISTRICT with Tag: community-engagement
 
+## 2024-12-02 - CAMAS_SCHOOL_DISTRICT (Minutes)
+
+The Camas School District's Board of Education, comprising five elected members, engages in various educational policies and community initiatives. Recent discussions include a focus on special education support, particularly in ensuring equitable access to resources for all students. The board emphasizes community engagement, encouraging feedback from parents and residents, as seen in the appointment of new members who bring diverse backgrounds and experiences to the table. For instance, Bamini Pathmanathan, a newly elected board member, has a background in nutrition and has actively participated in community service roles, advocating for high-quality education and collaboration among stakeholders. The board's commitment to policy changes reflects a response to evolving educational needs and legislative requirements, with a regular review of district progress and strategic planning for future priorities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-12-02-minutes.txt)
+
 ## 2024-09-23 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting held on September 23, 2024, included discussions and approvals related to special education placements. The board approved a student placement at SPERO Center for $326,000 and another at Florens Academy for $600,000 for the 24/25 school year, with motions moved by board members Connie Hennessey and Tracey Malone, respectively. Additionally, the board approved an Out-of-Endorsement Assignment Request for Adam Mathieson, indicating the board's commitment to supporting special education needs. The meeting also featured public comments and student reports, showcasing community engagement and the importance of student voices in board decisions. The board unanimously carried all motions presented.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-09-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-09-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -35,7 +41,7 @@ The school board meeting held on September 23, 2024, included discussions and ap
 
 The School Board Meeting held on June 24, 2024, included several significant actions and discussions relevant to policy changes and community engagement. Notably, the board approved the change of the Camas Connect Academy graduation date from June 11, 2025, to June 14, 2025, as moved by Matthew McBride and seconded by Bamini Pathmanathan. Additionally, the board approved a request for an Out of Field Teaching Assignment and the Superintendent's contract for the period of 2024 to 2027, both motions receiving unanimous support from the members present. The meeting also recognized various achievements, including awards for students and teams, highlighting the board's commitment to community engagement and celebrating local successes.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-06-24-minutes.txt)
 
 ### Board Member Actions
 
@@ -66,7 +72,7 @@ The School Board Meeting held on June 24, 2024, included several significant act
 
 The School Board held a special meeting on June 17, 2024, where significant agenda items included a review and adoption of the Strategic Plan aimed at enhancing academic, social, and lifelong learning standards. The plan was adopted following a motion by Erika Cox, seconded by Tracey Malone, with unanimous support from the board members present. Additionally, the meeting included interviews for the Director District II Board Member position, culminating in the appointment of Matthew McBride to replace Erika Cox after a roll call vote. The meeting also featured a recess for an executive session, indicating a focus on confidential discussions before resuming regular business. The overall proceedings reflect a commitment to community engagement and adherence to established academic standards through strategic planning and board member appointments.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-06-17-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-06-17-minutes.txt)
 
 ### Board Member Actions
 
@@ -85,7 +91,7 @@ The School Board held a special meeting on June 17, 2024, where significant agen
 
 The School Board Meeting held on January 22, 2024, included several key agenda items, notably the approval of multiple club requests and the Tipton Professional Learning Legacy Scholarship Awards. The board engaged in a policy review, with a first reading of several policies, including 1400 - Meeting Conduct, Order of Business, and Quorum, and 4040 - Public Access to District Records. A motion by Connie Hennessey to approve these policies for first reading was seconded by Bamini Pathmanathan and carried. Additionally, the board approved a student placement at Viewpoint Center for a cost not to exceed $98,000, with a motion made by Erika Cox and seconded by Bamini Pathmanathan. The meeting also featured public comments, including written submissions from Inka Byman and in-person comments from Matthew McBride and Inka Byman, reflecting community engagement in school board activities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/2024-01-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-01-22-minutes.txt)
 
 ### Board Member Actions
 

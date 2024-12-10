@@ -4,7 +4,7 @@
 
 The Board Work Session held on March 14, 2024, included discussions focused on the adoption of the Amplify ELA curriculum for Pre-K to 5th grade, presented by Angel Carrizales. This discussion emphasizes the importance of academic standards and curriculum transparency as the board evaluates new educational materials. Additionally, the board addressed public comments regarding concerns raised by the community, indicating a commitment to community engagement. The session concluded with the decision to cancel the upcoming Board Work Session scheduled for March 18, 2024, reflecting a responsive approach to scheduling and board workload.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-03-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-03-14-minutes.txt)
 
 ### Board Member Actions
 

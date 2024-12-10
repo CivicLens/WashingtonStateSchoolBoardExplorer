@@ -4,7 +4,7 @@
 
 The Lynden School District Board meeting on September 19, 2024, included discussions and approvals of several policies with implications for inclusivity and sexual health education. Notably, Policy 2125 regarding Sexual Health Education was updated to state that the district will provide instruction consistent with state law. Additionally, Policy 3211 on Gender Inclusive Schools was approved with amendments to language regarding communication about names and pronouns, emphasizing the importance of recognizing potential challenges from parents or guardians regarding a student’s transition. The board also discussed legislative positions, including several that were recommended by the Board Legislative Committee, which ultimately did not pass, such as those related to climate impact and ample funded staffing levels. Director Brar raised concerns about fairness in girls' sports and the implications of Initiative 2081.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-09-19-minutes.txt)
 
 ### Board Member Actions
 
@@ -23,7 +23,7 @@ The Lynden School District Board meeting on September 19, 2024, included discuss
 
 The Lynden School District Board Meeting held on August 15, 2024, included discussions on various policies, notably Policy 3211/P regarding Gender Inclusive Schools. Superintendent David VanderYacht reported ongoing consultations with legal counsel to amend this policy, aiming to align with recent developments in WIAA (Washington Interscholastic Activities Association) participation policies, which allow students to compete in sports corresponding to their gender identity. The board discussed community feedback received concerning the participation of transgender athletes in girls' sports, emphasizing the importance of fair competition and the rights of female athletes. Community members expressed concerns through written comments about the implications of these policies on female athletics. Additionally, the meeting addressed the 24/25 Budget adoption (Resolution #10-24) and included a presentation on graduation pathways by Lynden High School Principal Ian Freeman, highlighting the district's focus on personalized education for students.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-08-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-08-15-minutes.txt)
 
 ### Board Member Actions
 
@@ -38,7 +38,7 @@ The Lynden School District Board Meeting held on August 15, 2024, included discu
 
 The Lynden School District Board meeting on July 11, 2024, included a workshop discussion on gender-inclusive schools, where the board considered updating the district’s Policy 3211/3211P. The board requested communication with Woodland School District regarding their correspondence with the Office of Superintendent of Public Instruction (OSPI) and directed Superintendent David VanderYacht to consult legal counsel about the process of requesting OSPI and the Washington State School Directors' Association (WSSDA) to revisit the language in their model policy 3211/3211P. Additionally, the board aimed to explore collaboration with other districts in Washington State advocating for a more parent-friendly model policy. The meeting also covered various action items, including agreements with Bellingham Technical College and Nooksack Valley School District regarding educational programs.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/processed/2024-07-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -67,11 +67,11 @@ The Lynden School Board meeting minutes detail various achievements and activiti
 
 The board also reviewed feedback from the District Planning Committee regarding Impact Fees, Maintenance & Operations Levy, Technology & Facilities Levy, Capital Bond, and crowding in schools. Additionally, they discussed a tentative schedule for selling surplus property (the old Lynden Middle School ball field area) and held a public hearing for community input on May 23rd.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/2019-05-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2019/processed/2019-05-09-minutes.txt)
 
 ## 2018-06-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 This document appears to be a portion of school board meeting minutes or an agenda. It details the employment information for an individual listed as "Asst Coach Track" with an effective date of 5/24/18.  The individual's work schedule seems to primarily consist of summer school sessions from 6/18/18 - 7/18/18. There is a note indicating a resignation retraction. The document also includes information about a "Supplemental Resignation" for an individual named Victor, Kent, who was located at LMS. The reason for resignation is simply listed as "Resignation." A standard disclaimer regarding employment being subject to criminal background checks and RCW 28A.400 requirements is included.  The document does not explicitly mention any policies or resolutions by name. There are no mentions of topics such as lgbtq, transgender issues, critical race theory, or other potentially controversial subjects.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/2018-06-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2018/processed/2018-06-14-minutes.txt)
 

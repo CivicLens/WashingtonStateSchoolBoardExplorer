@@ -4,7 +4,7 @@
 
 The Kalama School District No. 402 Board Meeting on October 28, 2024, included discussions on several key topics, particularly focusing on policy changes and community engagement. A notable concern raised during the public comment period was regarding changes to elementary recess, highlighted by comments from community members Ashley and Emily Lowry. Additionally, the board recognized October as National Principals Month and presented the Kalama Family Award to Envision Kalama, showcasing community involvement. The meeting also addressed special education support, with reports from district counselors who discussed the services provided to students. The board approved multiple consent agenda items, including supplemental contracts for coaching positions and personnel changes, which reflect ongoing adjustments to staffing and support within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/2024-10-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/processed/2024-10-28-minutes.txt)
 
 ## 2024-09-23 - KALAMA_SCHOOL_DISTRICT (Minutes)
 
@@ -12,5 +12,5 @@ The Kalama School District No. 402 Board Meeting held on September 23, 2024, inc
 
 The meeting also featured a report on the Natural Resources Learning Facility, emphasizing educational technology advancements. Recognitions included the September Student of the Month award to Shade Garrido and the Kalama School District Family Award presented to Police Chief Ralph Herrera. The board discussed the importance of community engagement, as highlighted by public comments from several patrons, and addressed special education support through a proposal for better funding and resources.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/2024-09-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/processed/2024-09-23-minutes.txt)
 

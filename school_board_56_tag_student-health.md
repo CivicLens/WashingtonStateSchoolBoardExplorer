@@ -4,7 +4,7 @@
 
 The Regular Board Meeting held on January 23, 2024, included several key actions and discussions relevant to school policies and community engagement. Notably, the board conducted a first reading of revisions to three policies: Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying; Board Policy 3225 - School Based Threat Assessment; and Board Policy 3421 - Child Abuse and Neglect Prevention. These revisions reflect ongoing efforts to enhance student safety and well-being. Additionally, the meeting featured a public comment from parent Christie Fields, who raised concerns about health issues in the district, specifically related to vaping and smoking, indicating a need for community engagement on student health matters. The board also recognized contributions from students and staff, highlighting the importance of appreciation within the community.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-01-23-minutes.txt)
 
 ### Board Member Actions
 

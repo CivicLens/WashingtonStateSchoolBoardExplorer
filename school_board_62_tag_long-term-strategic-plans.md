@@ -4,7 +4,7 @@
 
 The school board meeting minutes detail several policy updates and approvals.  Specifically, Policy 3200 and Policy 3241 were updated, though the nature of these changes is not specified in the provided text.  The board also approved a number of interagency agreements including those with VECA Electric & Technologies, the Washington Student Achievement Council, and Whatcom Community College. Additionally, they approved an agreement with the Opportunity Council for Early Learning and Family Services. The meeting included informational items such as school board director reports. Mr. Benjamin discussed the ad hoc committee's work on applying for the WSSDA's Board of Distinction award and shared information about WSSDA's strategic plan overhaul. Ms. Rose expressed appreciation for the preparation of the 2022-23 budget book.  The meeting concluded with a board assessment and adjournment.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-08-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/processed/2022-08-10-minutes.txt)
 
 ## 2022-03-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -12,25 +12,25 @@ The Bellingham School District Board of Directors held a Student Roundtable meet
 
 Discussions centered around student well-being, highlighting subjects like recess and preferred learning styles. The new Alderwood Elementary School building was praised by students. Concerns regarding playground safety compared to the previous location were raised.  The meeting provided a platform for students to voice their opinions on school life and contribute to the district's long-term strategic planning efforts embodied in "The Bellingham Promise."
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-03-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/processed/2022-03-20-minutes.txt)
 
 ## 2019-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This document details a student roundtable meeting hosted by the Bellingham School District Board of Directors. The purpose of the meeting was to gather student feedback on "The Bellingham Promise," a long-term strategic plan outlining goals for students.  Discussions centered around the transition from elementary to middle school, extracurricular activities, academic workload, and technology use. Students highlighted the benefits of the WEB (Where Everybody Belongs) program in easing the transition to middle school. They also expressed opinions on homework policies, food quality, and transportation systems. The meeting emphasized the importance of student voice in shaping educational policies and practices.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-11-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/processed/2019-11-06-minutes.txt)
 
 ## 2019-07-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a regular meeting on July 10, 2019.  The board discussed and approved several consent items including resolutions, contracts, and agreements related to school operations, facilities, and partnerships. Notably, the board addressed a potential conflict of interest regarding item 2.2 (approval of expenditures and payroll), leading to a separate vote on this matter. Director Quenby Peterson raised the topic of changing the timeline for naming a legislative representative, suggesting it be moved from the December organizational meeting to the summer. This proposal, which may involve policy adjustments, will be added to the agenda for the upcoming summer retreat. The board also reviewed Superintendent Greg Baker's announcements and report on the 2019-20 budget, highlighting key aspects and accomplishments.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-07-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/processed/2019-07-10-minutes.txt)
 
 ## 2019-05-29 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District held a Community Linkage Special Meeting to gather student input on "The Bellingham Promise," the district's strategic plan outlining goals for students. Students discussed various aspects of the plan, including mental health, character development, and diversity & inclusion. They expressed appreciation for the inclusion of LGBTQ+ identities but suggested more staff training on these topics.  Students also highlighted the need for increased access to resources like food and clothing, and emphasized the importance of a supportive and inclusive school environment. The meeting aimed to foster community engagement and incorporate student voices in shaping educational policies and practices as part of the district's long-term strategic planning.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-05-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/processed/2019-05-29-minutes.txt)
 
 ## 2018-03-20 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -38,25 +38,25 @@ The school board meeting focused on several key topics.  Community engagement wa
 
 The discussion also touched upon academic standards and curriculum transparency, aiming to ensure that students are well-prepared for their future endeavors.  Parental feedback was emphasized as crucial for shaping educational policies and practices. The board highlighted the importance of long-term strategic plans to guide the school district's development and address evolving needs. Additionally, concerns regarding student autonomy and mental health were raised, prompting a conversation about creating supportive environments that empower students and prioritize their well-being.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-03-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/processed/2018-03-20-minutes.txt)
 
 ## 2017-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board minutes detail a regular meeting on December 6, 2017. Two resolutions were unanimously approved: Resolution 32-17 and Resolution 33-17, relating to the sale of real estate parcel 380316504243.  The meeting also included informational items from school board directors regarding their attendance at the WSSDA Annual Conference. Ms. Diaz Hackler discussed a potential presentation on the district's 4x8 schedule and requested a discussion on Boards of Distinction be added to a future retreat agenda. Other updates included Ms. Peterson addressing parental questions about course selection under the new 4x8 schedule and Ms. Bashaw sharing insights from her visit with Squalicum High School GRADS students. The meeting concluded with an assessment by Ms. Diaz Hackler and an adjournment time of 6:47 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/processed/2017-12-06-minutes.txt)
 
 ## 2017-08-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a special meeting on August 16, 2017, at Happy Valley Elementary School.  The board discussed several topics, including the creation of a committee to further develop the "Bellingham Promise" vision. They also reviewed the draft annual board calendar for the 2017-18 school year and discussed utilizing the WSSDA Board Self-Assessment Model. Additionally, the board considered its role in initiating school bonds under the policy governance model and planned to revise the board handbook at a future meeting. Other discussion items included board adoptions of schools, responsibilities related to the WSSDA Legislative Representative position, and an update from Superintendent Baker on the 2017-18 budget, facilities, and labor negotiations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-08-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/processed/2017-08-16-minutes.txt)
 
 ## 2016-09-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board held a regular meeting on September 15, 2016.  The board entered executive session to discuss potential litigation. They unanimously approved a settlement agreement with the former owner of land near Bellingham High School and the district's former warehouse. The board also discussed their application for the Washington State School Directors’ Association (WSSDA) Boards of Distinction program.  Further discussion centered around a book study by the district leadership team on "Our Kids" by Robert D. Putnam, and the possibility of the board participating. Finally, the board reviewed questions for interviews with other school boards and organizations operating under a policy governance model as part of a planned study session on Board-Superintendent Relationships and Board Advocacy.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-09-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/processed/2016-09-15-minutes.txt)
 
 ## 2016-02-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -64,13 +64,13 @@ The Bellingham School District Board of Directors held a retreat on February 19,
 
 Community communication strategies were a significant focus. The board explored protocols for responding to concerns raised through channels like the Listening Post and considered ways to communicate their long-term vision to the public.  They also deliberated on appropriate responses to potential inappropriate comments from attendees in community forums.  Finally, the board received an informal mid-year update and evaluation from Superintendent Greg Baker and discussed the frequency of reviewing budget reports.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-02-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/processed/2016-02-19-minutes.txt)
 
 ## 2015-03-19 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board met on March 19, 2015, to discuss various topics related to school governance and policy. A key agenda item was the review of the superintendent's progress towards achieving goals outlined in a specific policy (Ends 2.1, part 2).  The board found the superintendent to be making "reasonable progress" and slightly exceeding expectations in certain areas. The meeting also included reports from various board committees, covering topics such as linkage with city council liaisons, the superintendent's performance review, and a planned retreat focused on Policy Governance enhancements. Additionally, the board announced an orientation meeting for prospective school board candidates running in the fall election.  Finally, the meeting concluded with a positive assessment from Mr. Benjamin and adjournment at 8:02 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-03-19-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/processed/2015-03-19-minutes.txt)
 
 ## 2013-08-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -78,13 +78,13 @@ The Bellingham School Board met in a special session on August 8, 2013, to discu
 
 Further demonstrating a commitment to community engagement, the board discussed ways to enhance technology at board meetings for better communication with attendees and reviewed preferred methods of receiving routine and urgent messages. They also deliberated on the Superintendent's evaluation, incorporating specific strategic initiatives into the process.  Finally, the board addressed policy changes related to communications and calendaring (GP 8.1.3) and considered continuing with BoardDocs Pro for document management in the 2013-14 school year.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-08-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/processed/2013-08-08-minutes.txt)
 
 ## 2013-05-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes highlight several key areas of focus.  The board discussed the growth and inclusivity of Advanced Placement programs at Squalicum High School, receiving positive feedback from both visiting teachers and student tour guides. Additionally, Scott Stockburger reported on his visit to Sehome High School, praising innovative efforts like anchor homerooms and student mentorship programs. Superintendent Greg Baker provided updates on statewide testing, ongoing staffing processes for the 2013-14 school year, and the district's budget process, noting positive community feedback.  Discussions regarding facilities planning for Parkview Elementary School and the potential inclusion of the Gordon Carter Environmental Site in an upcoming bond were also mentioned. The board emphasized the importance of community engagement and parental feedback throughout these processes.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-05-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/processed/2013-05-23-minutes.txt)
 
 ## 2013-01-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -94,25 +94,25 @@ The discussion also focused on strengthening ties between the district and city,
 
 Finally, the meeting touched upon the District Facilities Planning Task Force's work in assessing facility needs for the next decade. This task force, comprising approximately 40 individuals, has engaged in community meetings and online surveys to gather input and develop recommendations for the superintendent.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-01-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/processed/2013-01-24-minutes.txt)
 
 ## 2013-01-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board of Directors met on January 17, 2013 to discuss several key topics.  The meeting focused on the "Bellingham Promise Priorities for Progress" which likely outlines long-term strategic plans for the district.  They also reviewed the 2012–2013 budget and began planning for the 2013–2014 budget. Additionally, they discussed a facilities update and reviewed governance policies related to executive limitations. The board members shared insights from their attendance at the Washington State School Directors Association Annual Conference.  The discussion of racial equity is implied within the context of "The Bellingham Promise Priorities for Progress".
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-01-17-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/processed/2013-01-17-minutes.txt)
 
 ## 2012-10-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board reviewed a report on student progress towards the district's strategic plan, "The Bellingham Promise."  The report focused on academic achievement and student competence, using data to inform the Department of Teaching and Learning's work. Board members requested additional data points, such as ELL student proficiency rates and AP exam performance, highlighting their interest in curriculum transparency and a deeper understanding of student outcomes. The board also discussed revising governance policies and extending the time allotted for community linkages to encourage greater parental feedback and participation.  Finally, the board reviewed upcoming events, including a linkage with the Cordata Neighborhood Association and visits to Sehome High School.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-10-18-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/processed/2012-10-18-minutes.txt)
 
 ## 2012-09-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes detail several policy changes and discussions regarding long-term strategic plans.  The board unanimously accepted revisions to Policy Governance policies Ends 2.1 (Student Competence) and Ends 3 (Skills and Attributes), as well as Governance Policy 1 (Governance Commitment and Beliefs). These revisions were discussed at a previous study session on August 27, 2012. The meeting also included a monitoring report on Ends 1, Strategic Vision and Mission, which was found to be in compliance.  The board set a tentative schedule for future Linkages, community engagement events focused on specific topics like Highly Capable Learners, Neighborhood Association Leaders, Home School, and Special Needs. These Linkages are intended to foster dialogue and collaboration between the school board and various community stakeholders.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-09-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/processed/2012-09-13-minutes.txt)
 
 ## 2012-05-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -120,23 +120,23 @@ The Bellingham School Board meeting minutes detail discussions on aligning "The 
 
 The board is actively working on long-term strategic planning by aligning "The Bellingham Promise" with existing Ends policies. This suggests a focus on developing a cohesive vision for student success that encompasses both academic and personal development. The discussion about revising Executive Limitations points to ongoing efforts to refine governance structures and ensure efficient policy implementation.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-05-24-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/processed/2012-05-24-minutes.txt)
 
 ## 2012-03-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board meeting minutes detail discussions on curriculum alignment and the approval of a monitoring report for the district calendar.  The board acknowledged that curriculum alignment, while progressing well in some areas, requires further work and expressed interest in future in-depth discussions on the topic. Dr. Baker noted the challenges of achieving curriculum alignment within the current economic climate. The board also approved the Monitoring Report for EL-16, District Calendar, finding it compliant.  The meeting included a discussion on a special meeting scheduled to consider Resolution 4–12, Adoption of 2012–13 Reduced Education Program, a legal process requiring board approval. Additionally, the board reviewed The Bellingham Promise, the district's strategic plan, during a study session.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-03-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/processed/2012-03-22-minutes.txt)
 
 ## 2012-02-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board of Directors met on February 16, 2012, to discuss several key topics.  The meeting included updates on facilities and the budget process. The board also discussed possible topics for future linkages and study sessions, indicating a focus on long-term strategic planning. Additionally, they reviewed Governance Policies and conducted the Superintendent's mid-year review, highlighting their commitment to school board ethics and ongoing policy evaluation.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-02-16-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/processed/2012-02-16-minutes.txt)
 
 ## 2011-07-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School Board of Directors held a special meeting on July 14, 2011, to discuss several key topics.  The board toured Whatcom Middle School, scheduled to open for the 2011-12 school year. During the public portion of the meeting, they focused on possible community linkages and work priorities for the upcoming school year. Additionally, they discussed policy governance professional development and preparations for the November 2011 election. The meeting adjourned at 9:15 p.m.  No specific policies were mentioned by name, but the discussion points suggest a focus on community engagement and strategic planning for the district's future.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-07-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/processed/2011-07-14-minutes.txt)
 

@@ -6,7 +6,7 @@ The special joint meeting of the Lakewood and Arlington School Districts, held o
 
 Additionally, the boards discussed future joint meetings, agreeing that Arlington School District would host the next meeting on January 22, 2025. The meeting concluded with the announcement of upcoming sessions for both districts, including a study session for Lakewood on the same day and a regular meeting scheduled for November 6, 2024. The meeting was adjourned at 6:24 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-10-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/processed/2024-10-21-minutes.txt)
 
 ## 2024-10-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -14,5 +14,5 @@ The special session of the school board, held on October 3, 2024, focused on sev
 
 The board also reviewed the Ferndale School Board Social Contract, deciding to remove specific phrases that emphasized emotional engagement and encouragement. This decision reflects a shift towards a more straightforward communication style. Furthermore, the board discussed the potential for additional meetings focused on community linkages and school visits, aiming to enhance engagement with various stakeholders, including PTO groups and students with special education plans. The meeting concluded with plans for further discussions at the upcoming WSSDA Conference.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-10-03-minutes.txt)
 

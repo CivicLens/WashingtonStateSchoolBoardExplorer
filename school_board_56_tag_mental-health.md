@@ -6,7 +6,7 @@ The Regular Board Meeting held on June 25, 2024, addressed several key issues re
 
 The board approved various business items, including a donation from the EVHS Booster Club and the East Farms weeded book list, demonstrating an effort to enhance community involvement and support for school programs. The meeting concluded with a decision to renew the superintendent's contract, following an executive session dedicated to reviewing the performance of a public employee.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-06-25-minutes.txt)
 
 ### Board Member Actions
 

@@ -4,7 +4,7 @@
 
 The Regular Board Meeting held on February 13, 2024, involved discussions and approvals of several revised policies aimed at enhancing school safety and addressing bullying. Notably, the board approved the revised Board Policy 3207, which prohibits harassment, intimidation, or bullying, and the revised Board Policy 3225, which focuses on school-based threat assessment, both of which underwent a second reading. Additionally, Board Policy 3421 concerning child abuse and neglect prevention was also approved. These policy changes reflect the board's commitment to fostering a safe educational environment. Furthermore, the meeting included a presentation on the Trentwood roof by Drew Wright, highlighting ongoing facilities concerns. The board also discussed the need for a facilities committee to prioritize district bond projects, indicating a proactive approach to school infrastructure and safety.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-13-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-02-13-minutes.txt)
 
 ### Board Member Actions
 
@@ -37,7 +37,7 @@ The Regular Board Meeting held on February 13, 2024, involved discussions and ap
 
 The Regular Board Meeting held on January 23, 2024, included several key actions and discussions relevant to school policies and community engagement. Notably, the board conducted a first reading of revisions to three policies: Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying; Board Policy 3225 - School Based Threat Assessment; and Board Policy 3421 - Child Abuse and Neglect Prevention. These revisions reflect ongoing efforts to enhance student safety and well-being. Additionally, the meeting featured a public comment from parent Christie Fields, who raised concerns about health issues in the district, specifically related to vaping and smoking, indicating a need for community engagement on student health matters. The board also recognized contributions from students and staff, highlighting the importance of appreciation within the community.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/processed/2024-01-23-minutes.txt)
 
 ### Board Member Actions
 

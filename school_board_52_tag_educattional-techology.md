@@ -4,7 +4,7 @@
 
 The La Conner School Board held a special study session on June 10, 2024, addressing several key action items and curriculum recommendations. Notably, the board approved the appointment of student representatives for the 2024-2025 school year, emphasizing the importance of student voices in decision-making. The board also adopted the 2024-2026 NWESD Stronger Connections Data Sharing Agreement and extended an existing contract with the Washington State Department of Commerce for a solar project aimed at enhancing community resilience. In terms of curriculum, the board discussed recommendations for K-12 science and K-5 physical education, with plans to adopt the proposed curricula at the upcoming June 24 meeting. The discussions highlighted the need for transparency in curriculum choices and the incorporation of educational technology, as well as securing community engagement through partnerships with local organizations, such as the Swinomish Tribe, which committed substantial financial support to the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-06-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-06-10-minutes.txt)
 
 ### Board Member Actions
 
@@ -28,7 +28,7 @@ The La Conner School Board held a special study session on June 10, 2024, addres
 
 The La Conner School Board held a regular meeting on April 22, 2024, where key actions included the adoption of the 2023-2024 Highly Capable Annual Plan, which supports over 30 students across various grades, and the approval of an Interlocal Agreement with Orcas Island School District for assessments. The board also adopted Resolution No. 24-05 for the Reduction in Force (RIF) for the 2024-25 educational program due to declining enrollment, resulting in the necessary reduction of elementary staff. In terms of technology, the board approved the FMX Software Sales Order for $5,625, which will replace the current SchoolDude software, enhancing the district's facility reservation process and future transportation scheduling capabilities. Additionally, the board adopted the 2024-26 District Calendar, which includes a provision for an optional snow day, and removed Native American Day from the calendar as requested by Director Quintasket. These decisions reflect the board's ongoing efforts to enhance educational programming and community engagement while addressing operational needs.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-04-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-04-22-minutes.txt)
 
 ### Board Member Actions
 

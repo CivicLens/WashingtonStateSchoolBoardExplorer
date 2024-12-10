@@ -4,7 +4,7 @@
 
 The June 6, 2024 Regular Business Meeting of the Board of Directors included a comprehensive review of the 2024-2025 instructional materials, particularly focusing on social-emotional learning and academic standards. Specific curriculum approvals included the K-5 Literacy Curriculum, 4th Grade Social Studies Curriculum, and Middle School Social Emotional Learning Curriculum, all of which were unanimously approved by the Board. The meeting also featured a report on the Annual Plan Progress for Communications, indicating a commitment to curriculum transparency and community engagement. Additionally, the Board discussed the importance of mental health in the context of the educational environment, reflecting a broader focus on student health and well-being.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-06-06-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/processed/2024-06-06-minutes.txt)
 
 ### Board Member Actions
 

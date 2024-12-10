@@ -4,7 +4,7 @@
 
 The Regular Board of Directors Meeting held on October 29, 2024, included significant actions related to policy changes and community engagement. The Board approved Resolution 07-2024, which certifies the 2025 Excess Property Taxes, and Resolution 08-2024, which adopts a new Districting Plan. Additionally, the Board approved Title I Plans, reflecting ongoing efforts to enhance educational support for students. Superintendent Maxwell provided a report emphasizing the progress of the Dual Language program and reminded attendees of the upcoming WSSDA Conference scheduled for November 21st. Community members participated by providing public comments, highlighting the Board's commitment to community engagement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-10-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-10-29-minutes.txt)
 
 ### Board Member Actions
 
@@ -41,7 +41,7 @@ The Regular Board of Directors Meeting held on October 29, 2024, included signif
 
 The Regular Board of Directors Meeting held on September 26, 2024, included several key discussions and actions. The Board approved the agenda, which saw the removal of an action item regarding the highly capable grant and the addition of a Strategic Plan Presentation. Notable recognitions included Sandra Linde for her years of service on the Sunnyside School Board and the SVE Apple of Distinction award presented by Zach from Apple. The Board also passed multiple consent agenda items, including the approval of minutes from previous meetings and policies, specifically tabling Policy 2124 and 6702 while amending Policy 2023. Superintendent Maxwell provided updates on district events and partnerships, emphasizing community engagement and the importance of upcoming Homecoming events. The meeting concluded with public comments from community members and acknowledgments from Board members, including Director Berg's request to thank school staff.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-09-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-09-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -60,7 +60,7 @@ The Regular Board of Directors Meeting held on September 26, 2024, included seve
 
 The Board Work Session held on August 27, 2024, included discussions on various topics relevant to school governance. Superintendent Maxwell provided an update on the parent center, indicating an effort to enhance community engagement. Additionally, Ivy Weets presented information regarding the 24/25 budget, which is crucial for planning future educational initiatives. The Board reviewed policies for adoption, although specific changes or policies were not detailed in the summary. The session concluded with a review of consent items and general discussions on items for the good of the order, emphasizing the Board's commitment to ongoing dialogue and collaboration. The meeting was adjourned at 8:59 PM after a unanimous vote.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-08-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-08-27-minutes.txt)
 
 ### Board Member Actions
 
@@ -81,7 +81,7 @@ The Board Work Session held on August 27, 2024, included discussions on various 
 
 The Regular Board of Directors Meeting held on July 11, 2024, included discussions on several key topics, notably the Superintendent's report on the conclusion of summer school and ongoing maintenance updates across the district. The board unanimously approved the agenda, which included a series of consent items reviewed during a prior work session on July 9, 2024. These consent items encompassed the approval of previous meeting minutes, policies, a contract list ratification, payroll and vouchers, budget status, personnel matters, and the Superintendent's contract. Each item received a motion from Linda Roberts and a second from Leticia Zesati, illustrating a cohesive approach to governance. Additionally, community engagement was fostered through public comments, allowing members of the community to voice their opinions during the meeting. The meeting concluded with a motion to adjourn, also passed unanimously.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-07-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-07-11-minutes.txt)
 
 ### Board Member Actions
 
@@ -128,7 +128,7 @@ The Regular Board of Directors Meeting held on July 11, 2024, included discussio
 
 The Board Work Session held on July 9, 2024, included several key discussions and actions. Notably, the agenda was approved unanimously by all present members, including Jilliann Patterson, Stephen Berg, Linda Roberts, Jory Anderson, and Leticia Zesati. A significant part of the meeting featured a presentation by Clair Sheehan, an 11th grader at Sunnyside High School, who showcased her science fair project, highlighting community engagement with students. Additionally, Director Linda Roberts proposed a budget session to be held before the upcoming Budget Hearing, indicating a proactive approach to financial planning. The session concluded with the board adjourning at 7:30 PM, also with unanimous approval.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-07-09-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-07-09-minutes.txt)
 
 ### Board Member Actions
 
@@ -149,7 +149,7 @@ The Board Work Session held on July 9, 2024, included several key discussions an
 
 The Regular Board of Directors Meeting held on June 27, 2024, included several key discussions and actions focused on policy changes and community engagement. The Board reviewed policies 1400 and 1822, although specific changes to these policies were not detailed in the minutes. The meeting recognized community contributions, including the retirement of Kevin Chase and achievements of Sunnyside High School's Boys Golf and Track teams. Additionally, Superintendent Maxwell acknowledged the Sunnyside Fire Department's involvement in schools and reported on the Summer Feeding Program and Outlook Elementary's recognition by OSPI for closing educational gaps. The Board approved multiple resolutions, including Resolution No. 03-2024 for the appointment of investing officers and Resolution No. 04-2024 for signatories on financial transactions, demonstrating ongoing governance and financial oversight. Public comments were also solicited, reflecting an effort to engage with the community.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-06-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-06-27-minutes.txt)
 
 ### Board Member Actions
 
@@ -210,7 +210,7 @@ The Regular Board of Directors Meeting held on June 27, 2024, included several k
 
 The Regular Board of Directors Meeting held on May 30, 2024, included several important recognitions and discussions pertinent to the Sunnyside School District. The Board recognized multiple groups, including the SHS Boys Soccer team and the Sunnyside High School Science Fair students. Notably, the Board discussed updates to Policy 1800 and finalized plans for a Board newsletter aimed at enhancing community engagement. Several actions were taken, including the approval of the Superintendent's Contract Extension in accordance with Policy 1630, and the adoption of Resolution No. 02-2024 regarding a 180-day waiver. The meeting also addressed the 2023-2024 Highly Capable Plan, ensuring that educational standards are maintained and improved.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-05-30-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-05-30-minutes.txt)
 
 ### Board Member Actions
 
@@ -296,7 +296,7 @@ The Regular Board of Directors Meeting held on May 30, 2024, included several im
 
 The Board Work Session on May 28, 2024, included the appointment and swearing-in of Leticia Zesati as Director for District 1, which was a significant policy change for the Board's composition. The meeting featured a budget presentation by Jeff Loe and Ivy Weets, providing an update on the financial status of the district. During the discussion segment, Director Patterson welcomed Director Zesati, and Director Roberts requested the addition of several items for future agendas, including a report on the Board Retreat and recognition for SHS Soccer. The Board also entered executive sessions to discuss the performance of a public employee and current or potential litigation, indicating ongoing legal and administrative matters that may impact district operations. The session concluded with the Board adjourning at 9:10 PM.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-05-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-05-28-minutes.txt)
 
 ### Board Member Actions
 
@@ -327,7 +327,7 @@ The Board Work Session on May 28, 2024, included the appointment and swearing-in
 
 The Board of Directors meeting on April 25, 2024, included the approval of the PK - 5 ELA Curriculum, reflecting a policy change aimed at enhancing academic standards in early education. The motion was made by Jilliann Patterson and seconded by Linda Roberts, with all members present voting in favor. The meeting also featured discussions on community engagement, notably recognizing Harrison Middle School TSA and Science Fair students, as well as Administrative Professionals and the Empowering Future Families program. Additionally, the Board addressed school safety, with Joey Glossen presenting updates on safety training and security measures, highlighting the importance of ensuring a secure environment for students and staff.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-04-25-minutes.txt)
 
 ### Board Member Actions
 
@@ -358,7 +358,7 @@ The Board of Directors meeting on April 25, 2024, included the approval of the P
 
 The Regular Board of Directors Meeting held on March 21, 2024, included significant discussions and actions regarding various policies and community engagement. The Board recognized Sunnyside High School TSA students and approved the 24-25 Calendar option 1. A series of consent agenda items were reviewed and approved, including minutes from previous meetings, policies, contract list ratification, payroll and vouchers, budget status, personnel, enrollment, and surplus. Notably, the Board decided to open applications for Director 1 until March 31st, indicating a commitment to community engagement and transparency in governance. Additionally, the meeting included an executive session addressing complaints or charges against a public officer or employee and the performance of a public employee, reflecting ongoing oversight and accountability measures within the Board.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-03-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-03-21-minutes.txt)
 
 ### Board Member Actions
 
@@ -381,7 +381,7 @@ The Regular Board of Directors Meeting held on March 21, 2024, included signific
 
 The Board Work Session held on March 14, 2024, included discussions focused on the adoption of the Amplify ELA curriculum for Pre-K to 5th grade, presented by Angel Carrizales. This discussion emphasizes the importance of academic standards and curriculum transparency as the board evaluates new educational materials. Additionally, the board addressed public comments regarding concerns raised by the community, indicating a commitment to community engagement. The session concluded with the decision to cancel the upcoming Board Work Session scheduled for March 18, 2024, reflecting a responsive approach to scheduling and board workload.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-03-14-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-03-14-minutes.txt)
 
 ### Board Member Actions
 
@@ -400,7 +400,7 @@ The Board Work Session held on March 14, 2024, included discussions focused on t
 
 The Regular Board of Directors Meeting held on February 29, 2024, included several key actions and recognitions. The Board approved the Perkins Grant proposed by Holly O. and designated April 26, 2024, as a snow makeup day. Additionally, the Board approved a new copier company. The meeting also featured recognitions for the Sunnyside High School Boys and Girls Wrestling teams and the Cheer team. The Superintendent provided updates on district events aligning with the Sunnyside School District's Strategic Plan. The meeting concluded with community members sharing public comments, reflecting community engagement in school board activities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-02-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-02-29-minutes.txt)
 
 ### Board Member Actions
 
@@ -451,7 +451,7 @@ The Regular Board of Directors Meeting held on February 29, 2024, included sever
 
 The Regular Board of Directors Meeting held on January 25, 2024, included discussions on school safety and community engagement, particularly in light of recent inclement weather conditions. The Board expressed gratitude to the principals for their presentations during the January Board Work Sessions and acknowledged the staff's efforts to ensure student safety. Additionally, the Board approved Resolution No. 01-2024, which pertains to the surplus and scrapping of two school buses, indicating a policy change related to asset management. The meeting also recognized the Sunnyside School Board for National School Board Month, highlighting the importance of community engagement in educational governance.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-01-25-minutes.txt)
 
 ### Board Member Actions
 
@@ -486,7 +486,7 @@ The Regular Board of Directors Meeting held on January 25, 2024, included discus
 
 The Board Work Session held on January 23, 2024, included presentations from building principals of Harrison Middle School, Sierra Vista Middle School, Sun Valley Elementary, and Sunnyside High School regarding their State of Schools report. This indicates an emphasis on community engagement as principals shared insights about their schools with the Board. The agenda included a review of January consent items, although specific details of these items were not disclosed in the minutes. The meeting was called to order at 6:30 PM and adjourned at 9:13 PM, with motions made by Jory Anderson and Jilliann Patterson receiving unanimous approval from the Board members present.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-23-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-01-23-minutes.txt)
 
 ### Board Member Actions
 
@@ -505,7 +505,7 @@ The Board Work Session held on January 23, 2024, included presentations from bui
 
 The Board Work Session held on January 11, 2024, included a presentation by elementary principals and vice principals regarding the implementation of the district's strategic plan within their schools. The Board expressed gratitude for the updates provided by the principals, indicating a focus on community engagement and collaboration between the administration and the Board. The session also featured an executive discussion on the performance of a public employee, which extended beyond the initially scheduled time, highlighting the Board's commitment to thorough evaluation processes. The meeting concluded with the Board's adjournment at 9:27 PM following a motion by Linda Roberts and a second by Jory Anderson, both of which carried unanimously.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/processed/2024-01-11-minutes.txt)
 
 ### Board Member Actions
 

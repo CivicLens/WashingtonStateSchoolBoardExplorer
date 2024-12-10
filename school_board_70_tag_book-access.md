@@ -4,7 +4,7 @@
 
 The Selah School District No. 119 Board of Directors meeting on October 10, 2024, included an appeal hearing regarding the reconsideration of library books, specifically addressing concerns raised by Daylene Ackerman about several titles. The Instructional Materials Committee (IMC) reviewed six books and ultimately decided to retain them, citing the importance of reading entire texts to understand their context and moral consequences. The IMC's decision can be appealed to the Superintendent, but any resolution cannot be revisited for three years, as outlined in Procedure 2021. The discussion highlighted the need for greater parental involvement and community engagement in the review process, with board members expressing a desire for a more diverse representation of parental opinions. The meeting concluded without public comment and adjourned at 7:48 a.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-10-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/processed/2024-10-10-minutes.txt)
 
 ### Board Member Actions
 

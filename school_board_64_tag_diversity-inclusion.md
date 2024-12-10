@@ -4,7 +4,7 @@
 
 The regular meeting of the school board held on March 26, 2024, included discussions on various topics including the Multicultural Night and the first home track meet in 11 years, highlighting a commitment to diversity and community engagement. The board reviewed three draft mission statements to refine their mission, indicating a focus on inclusivity and representation. Additionally, the board adopted Policy 5225 - Technology Policy, which addresses the use of educational technology, reflecting an adaptation to current technological needs in education. There were also updates on public records requests and the establishment of an Audit Committee, suggesting ongoing policy changes aimed at improving oversight and transparency within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-03-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-03-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -40,7 +40,7 @@ The regular meeting of the school board held on March 26, 2024, included discuss
 
 The special meeting held on January 30, 2024, focused on updates regarding Native student achievement and participation in programs, emphasizing diversity and inclusion within the educational framework. Dr. Dominguez introduced various staff members and noted the presence of the Lummi Nation Education Board, highlighting community engagement in educational matters. Mr. Bobby Olsen shared data differentiating race and ethnicity as categorized by the government, which is pertinent to discussions of racial equity. The meeting also included a review and approval of the Lummi Nation Education and Ferndale School District Joint Policies & Procedures Rubric, indicating potential policy changes aimed at improving educational outcomes for Native students. The meeting concluded with an adjournment at 5:30 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-30-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-01-30-minutes.txt)
 
 ### Board Member Actions
 
@@ -55,17 +55,17 @@ The Ferndale School District Board meeting on June 27th, 2023 covered a variety 
 
 The board also reviewed a Monitoring Report for Operational Expectations Policy 9 (OE-9) Learning Environment.  Student input was incorporated through the Student Advisory Vote on the Board consent agenda. The meeting concluded with a School Board Evaluation of the Meeting conducted by student representative Ms. Lenssen.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-06-27-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/processed/2023-06-27-minutes.txt)
 
 ## 2023-04-18 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School District held a study session focused on adopting a Land Acknowledgment Statement. Led by Heather Leighton, Vista Principal and Lummi Tribal Member, the session featured presentations from Lummi Nation leaders and community members who shared perspectives on the history of the land and the importance of recognizing Indigenous presence. The process of developing the statement was described, highlighting its adoption by Lummi Nation resolution and its intended public use. Discussions also touched upon protocol for reciting the acknowledgment and the significance of creating a welcoming environment for Native students.  The session concluded with an invitation from Chairman Hillaire for the school board to attend the First Salmon ceremony.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-04-18-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/processed/2023-04-18-minutes.txt)
 
 ## 2023-03-15 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
 The Ferndale School District Board held a study session on March 15, 2023, to discuss the budget development process. Assistant Superintendent Mark Deebach and Managing Director of Business Services Holly Graham provided an overview of the general education budgeting process, focusing on staffing and enrollment projections. Executive Directors Trina Hall and Kellie Larrabee updated the board on the progress of the Early Learning Task Force, which is developing recommendations for early childhood education. The task force aims to create a 3-5 year plan to allow for proactive budgeting in this area.  The board also discussed scheduling future study sessions, with the next meeting planned for April 18th at Vista Middle School to focus on a Land Acknowledgement Statement.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-03-15-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/processed/2023-03-15-minutes.txt)
 

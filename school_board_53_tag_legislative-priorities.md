@@ -6,5 +6,5 @@ The special joint meeting of the Lakewood and Arlington School Districts, held o
 
 Additionally, the boards discussed future joint meetings, agreeing that Arlington School District would host the next meeting on January 22, 2025. The meeting concluded with the announcement of upcoming sessions for both districts, including a study session for Lakewood on the same day and a regular meeting scheduled for November 6, 2024. The meeting was adjourned at 6:24 p.m.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-10-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/processed/2024-10-21-minutes.txt)
 

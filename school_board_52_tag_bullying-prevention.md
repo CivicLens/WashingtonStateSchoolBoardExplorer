@@ -4,7 +4,7 @@
 
 The La Conner School Board held a regular meeting on August 26, 2024, where key actions included the appointment of student representatives, Emmalin Goodman and Kellie Cayou-Lockrem, for the 2024-2025 school year. The board emphasized the importance of student autonomy by encouraging the representatives to report on topics of their choice, with the first report focusing on the cell phone policy. The board adopted a revised fines and fees schedule for the upcoming school year, which included a reduction in yearbook costs and the introduction of a replacement cost for Yondr pouches. The meeting also addressed the implementation of a cell phone-free policy aimed at reducing distractions and bullying, with specific accommodations for students with health concerns. Feedback from a community survey indicated mixed sentiments regarding the policy, highlighting both positive responses about reduced distractions and concerns about communication issues. The board is committed to engaging with the community and addressing feedback as they move forward with these initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-08-26-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-08-26-minutes.txt)
 
 ### Board Member Actions
 
@@ -23,7 +23,7 @@ The La Conner School Board held a regular meeting on August 26, 2024, where key 
 
 The La Conner School Board of Directors held a special study meeting on March 11, 2024, where several key topics were discussed, including student attendance issues, extracurricular activity requests, and curriculum engagement, particularly regarding the IReady Math program. The board approved personnel actions and accounts payable, with a focus on enhancing student attendance through incentives and providing more academic support. Notably, the board discussed the Interlocal Agreement for the First Peoples’ Language, Culture, and Oral Tribal Traditions Program, raising questions about certification requirements and annual training for Swinomish certificated teachers. Additionally, there was a proposal to revise Policy 1450 to reduce consecutive meeting absences from four to three. Concerns regarding bullying and the need for security personnel were also highlighted, reflecting a commitment to improving school safety and student well-being.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-03-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/processed/2024-03-11-minutes.txt)
 
 ### Board Member Actions
 
