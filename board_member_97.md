@@ -1,6 +1,6 @@
-# Positions Supported by Sharon Jensen (OAK_HARBOR_SCHOOL_DISTRICT, Term: 2023-2025)
+# Positions Supported by Shannon Durfee (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Sharon Jensen | OAK_HARBOR_SCHOOL_DISTRICT | 2023-2025 |
+| Shannon Durfee | QUINAULT_LAKE_SCHOOL_DISTRICT | 2027 |
 

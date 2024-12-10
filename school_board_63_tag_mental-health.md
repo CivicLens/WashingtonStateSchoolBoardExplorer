@@ -1,26 +1,12 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: mental-health
 
-## 2024-11-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-10-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 Regular Board Meeting held on November 25, 2024, addressed several key issues, including community engagement and policy changes. Public comments highlighted concerns regarding the district's reputation and the need for positivity, with individuals like Pat Jerns advocating for a name change to Birch Bay Blaine School District. Dr. Christopher Granger, the superintendent, reported on a grassroots effort to set up a townhall meeting with local legislators, indicating an emphasis on community involvement. Additionally, the board conducted a first reading of updated policies to comply with 2024 Title IX regulations, including Policy 3205 on sex discrimination and Policy 5011 on harassment of district staff. The board also discussed the implications of COVID vaccine lawsuits, reflecting ongoing concerns about student health and well-being.
+The Blaine School District No. 503 held a Regular Board Meeting on October 28, 2024, where several key topics were discussed, including the recognition of National Bullying Prevention Month. Tricia Johnson from the Technology Department presented activities promoting a safe and supportive environment, encouraging participation in signing a unity pledge banner. Public comments included concerns from Michelle Schulz about inclusion for the deaf and hard of hearing, advocating for ASL interpreters at events, and Natalie Chavez’s apprehension about school-based health clinics potentially pushing medications without parental consent. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-25-minutes.txt)
+The board approved various items on the Consent Agenda, including the adoption of changes to Policy 3241 Student Discipline. Additionally, the board tabled the "First Reading" of sex-based discrimination policies to allow for further discussion and legal counsel input regarding the intersection of Title IX and HIPAA protections. The meeting also highlighted the need for community engagement and transparency in policies affecting student health and well-being.
 
-## 2024-02-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 Board Meeting on February 26, 2024, addressed several key topics, including community engagement and support for educators. Superintendent Dr. Christopher Granger highlighted the upcoming Education Support Professionals Week (March 11-15) and School Retirees Appreciation Week (March 18-24), expressing gratitude for the contributions of support personnel and retired educators to the school community. Public comments included advocacy for local control of public schools and updates from the Peace Arch Education Foundation on initiatives to bolster financial resources for Blaine schools. Mental health initiatives were also discussed, with Mindi Caldwell of the Whatcom NAMI Affiliate emphasizing educational programs aimed at increasing mental health awareness in schools.
-
-The board accepted the resignations of Director Ryan Ford and President Don Leu, leading to the election of Cliff Freeman as the new board president. Discussions around policy included the need for clarity in financial matters and the importance of proper inquiry protocols as outlined in Policy 1620/1620P. The board also considered a $2.5 million budget reduction and discussed the potential engagement of a recruiting service for a new Chief Financial Officer after a recent candidate declined the position.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-26-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-10-28-minutes.txt)
 
 ## 2021-07-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

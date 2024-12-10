@@ -1,6 +1,6 @@
-# Positions Supported by JaMES Adams (EPHRATA_SCHOOL_DISTRICT, Term: 2019-2025)
+# Positions Supported by BOBBI PARKER (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| JaMES Adams | EPHRATA_SCHOOL_DISTRICT | 2019-2025 |
+| BOBBI PARKER | ORONDO_SCHOOL_DISTRICT | None |
 

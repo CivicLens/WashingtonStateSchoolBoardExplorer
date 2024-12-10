@@ -1,15 +1,11 @@
-# Meeting Summaries for ORONDO_SCHOOL_DISTRICT
+# Meeting Summaries for ENTIAT_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [CHELSIE MILLER](board_member_53.md) | None |
-| [SALLY LANCASTER](board_member_54.md) | None |
-| [ARMANDO DAVILA](board_member_55.md) | None |
-| [LINDA PERI](board_member_56.md) | None |
-| [BOBBI PARKER](board_member_57.md) | None |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_11_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_11_tag_policy-changes.md)

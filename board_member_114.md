@@ -1,6 +1,6 @@
-# Positions Supported by Julianne DeShayes (ENUMCLAW_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Jim Hodgson (QUILCENE_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Julianne DeShayes | ENUMCLAW_SCHOOL_DISTRICT | 2021-2025 |
+| Jim Hodgson | QUILCENE_SCHOOL_DISTRICT | 2023-2027 |
 

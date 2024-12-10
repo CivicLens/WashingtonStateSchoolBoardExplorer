@@ -1,6 +1,6 @@
-# Positions Supported by ARMANDO DAVILA (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Lauren Miehe (EASTMONT_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| ARMANDO DAVILA | ORONDO_SCHOOL_DISTRICT | None |
+| Lauren Miehe | EASTMONT_SCHOOL_DISTRICT | 2023-2027 |
 

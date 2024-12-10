@@ -1,6 +1,6 @@
-# Positions Supported by Tom Anderson (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Mr. Steven Legg (ONALASKA_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tom Anderson | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Mr. Steven Legg | ONALASKA_SCHOOL_DISTRICT | None |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Chad Lower (QUINCY_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Anita Waller (EPHRATA_SCHOOL_DISTRICT, Term: 2018-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chad Lower | QUINCY_SCHOOL_DISTRICT | 2025 |
+| Anita Waller | EPHRATA_SCHOOL_DISTRICT | 2018-2025 |
 

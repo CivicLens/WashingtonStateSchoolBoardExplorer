@@ -1,15 +1,14 @@
-# Meeting Summaries for CASHMERE_SCHOOL_DISTRICT
+# Meeting Summaries for CLARKSTON_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Aaron Bessonette](board_member_11.md) | 11/27 |
-| [Sara Pipkin](board_member_12.md) | 11/27 |
-| [Nick Wood](board_member_13.md) | 11/27 |
-| [Roger Perleberg](board_member_14.md) | 11/25 |
-| [Paul Nelson](board_member_15.md) | 11/25 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_3_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_3_tag_policy-changes.md)
+- [community-engagement](school_board_3_tag_community-engagement.md)
+- [special-education-support](school_board_3_tag_special-education-support.md)
+- [academic-standards](school_board_3_tag_academic-standards.md)

@@ -4,11 +4,11 @@
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Tonya Hickman](board_member_326.md) | 2025 |
-| [Ken Owsley](board_member_327.md) | 2025 |
-| [Khush Brar](board_member_328.md) | 2027 |
-| [Jim Verburg](board_member_329.md) | 2027 |
-| [Danny Martinez](board_member_330.md) | 2027 |
+| [Tonya Hickman](board_member_333.md) | 2025 |
+| [Ken Owsley](board_member_334.md) | 2025 |
+| [Khush Brar](board_member_335.md) | 2027 |
+| [Jim Verburg](board_member_336.md) | 2027 |
+| [Danny Martinez](board_member_337.md) | 2027 |
 
 ## Available Years
 - [2024](school_board_65_year_2024.md)
@@ -29,8 +29,8 @@
 - [teacher-support](school_board_65_tag_teacher-support.md)
 - [student-autonomy](school_board_65_tag_student-autonomy.md)
 - [community-engagement](school_board_65_tag_community-engagement.md)
-- [curriculum-transparency](school_board_65_tag_curriculum-transparency.md)
 - [academic-standards](school_board_65_tag_academic-standards.md)
+- [curriculum-transparency](school_board_65_tag_curriculum-transparency.md)
 - [retirement](school_board_65_tag_retirement.md)
 - [school-board-ethics](school_board_65_tag_school-board-ethics.md)
 - [long-term-strategic-plans](school_board_65_tag_long-term-strategic-plans.md)
@@ -50,10 +50,14 @@
 - [supplemental-assignments](school_board_65_tag_supplemental-assignments.md)
 - [bullying-prevention](school_board_65_tag_bullying-prevention.md)
 - [free-speech](school_board_65_tag_free-speech.md)
+- [critical-race-theory](school_board_65_tag_critical-race-theory.md)
 - [book-access](school_board_65_tag_book-access.md)
 - [transgender](school_board_65_tag_transgender.md)
-- [critical-race-theory](school_board_65_tag_critical-race-theory.md)
 - [special-education-funding](school_board_65_tag_special-education-funding.md)
 - [covid](school_board_65_tag_covid.md)
+- [state-legislation](school_board_65_tag_state-legislation.md)
 - [lgbtq](school_board_65_tag_lgbtq.md)
 - [inclusive-sex-education](school_board_65_tag_inclusive-sex-education.md)
+- [capital-facilities](school_board_65_tag_capital-facilities.md)
+- [strategic-priorities](school_board_65_tag_strategic-priorities.md)
+- [key-performance-indicators](school_board_65_tag_key-performance-indicators.md)

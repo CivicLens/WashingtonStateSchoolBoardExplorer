@@ -1,16 +1,24 @@
-# Meeting Summaries for NORTH_MASON_SCHOOL_DISTRICT
+# Meeting Summaries for VASHON_ISLAND_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Erik Youngberg](board_member_193.md) | None |
-| [Leanna Krotzer](board_member_194.md) | None |
-| [Arla Shephard Bull](board_member_195.md) | None |
-| [Nicole Gonzalez Timmons](board_member_196.md) | None |
-| [Nicholas Thomas](board_member_197.md) | None |
-| [Dana Rosenbach](board_member_198.md) | None |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_39_year_2024.md)
+- [2023](school_board_39_year_2023.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_39_tag_policy-changes.md)
+- [community-engagement](school_board_39_tag_community-engagement.md)
+- [special-education-support](school_board_39_tag_special-education-support.md)
+- [school-safety](school_board_39_tag_school-safety.md)
+- [racial-equity](school_board_39_tag_racial-equity.md)
+- [mental-health](school_board_39_tag_mental-health.md)
+- [diversity-inclusion](school_board_39_tag_diversity-inclusion.md)
+- [school-board-ethics](school_board_39_tag_school-board-ethics.md)
+- [inclusive-sex-education](school_board_39_tag_inclusive-sex-education.md)
+- [lgbtq](school_board_39_tag_lgbtq.md)
+- [student-health](school_board_39_tag_student-health.md)
+- [parental-feedback](school_board_39_tag_parental-feedback.md)
+- [technology-contract](school_board_39_tag_technology-contract.md)

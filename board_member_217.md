@@ -1,6 +1,6 @@
-# Positions Supported by Julie Sandin (CARBONADO_HISTORICAL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Erasmo Ruiz (BETHEL_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Julie Sandin | CARBONADO_HISTORICAL_SCHOOL_DISTRICT | None |
+| Erasmo Ruiz | BETHEL_SCHOOL_DISTRICT | 2023-2027 |
 

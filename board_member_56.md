@@ -1,6 +1,6 @@
-# Positions Supported by LINDA PERI (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Whitney Smith (EASTMONT_SCHOOL_DISTRICT, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| LINDA PERI | ORONDO_SCHOOL_DISTRICT | None |
+| Whitney Smith | EASTMONT_SCHOOL_DISTRICT | 2019-2027 |
 

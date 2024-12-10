@@ -1,15 +1,18 @@
-# Meeting Summaries for TACOMA_PUBLIC_SCHOOLS
+# Meeting Summaries for OKANOGAN_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Lisa Keating](board_member_240.md) | 2019-2025 |
-| [Enrique Leon](board_member_241.md) | 2019-2027 |
-| [Korey Strozier](board_member_242.md) | 2021-2029 |
-| [Chelsea McElroy](board_member_243.md) | 2021-2027 |
-| [Elizabeth Bonbright](board_member_244.md) | 2019-2029 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_48_year_2024.md)
 
 ## Summaries by Tag
+- [diversity-inclusion](school_board_48_tag_diversity-inclusion.md)
+- [state-legislation](school_board_48_tag_state-legislation.md)
+- [impact-aid](school_board_48_tag_impact-aid.md)
+- [policy-changes](school_board_48_tag_policy-changes.md)
+- [community-engagement](school_board_48_tag_community-engagement.md)
+- [special-education-support](school_board_48_tag_special-education-support.md)
+- [mental-health](school_board_48_tag_mental-health.md)
+- [school-board-ethics](school_board_48_tag_school-board-ethics.md)

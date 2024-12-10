@@ -1,6 +1,6 @@
-# Positions Supported by SALLY LANCASTER (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Kate McPherson (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| SALLY LANCASTER | ORONDO_SCHOOL_DISTRICT | None |
+| Kate McPherson | BRIDGEPORT_SCHOOL_DISTRICT | December 2027 |
 

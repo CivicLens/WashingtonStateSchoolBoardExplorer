@@ -1,19 +1,15 @@
-# Meeting Summaries for MOSES_LAKE_SCHOOL_DISTRICT
+# Meeting Summaries for BRIDGEPORT_SCHOOL_DISTRICT
 
 ## Board Members
 
-No current board members available.
+| Board Member       | Term           |
+|--------------------|----------------|
+| [Kathy Corbin](board_member_50.md) | December 2025 |
+| [Thomas Jenkins](board_member_51.md) | December 2027 |
+| [Paul Ebreo](board_member_52.md) | December 2025 |
+| [Wayne van Zwoll](board_member_53.md) | December 2027 |
+| [Kate McPherson](board_member_54.md) | December 2027 |
 
 ## Available Years
-- [2024](school_board_76_year_2024.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_76_tag_policy-changes.md)
-- [community-engagement](school_board_76_tag_community-engagement.md)
-- [special-education-support](school_board_76_tag_special-education-support.md)
-- [long-term-strategic-plans](school_board_76_tag_long-term-strategic-plans.md)
-- [academic-standards](school_board_76_tag_academic-standards.md)
-- [budget-discussion](school_board_76_tag_budget-discussion.md)
-- [teacher-staff-shortages](school_board_76_tag_teacher-staff-shortages.md)
-- [financial-audit](school_board_76_tag_financial-audit.md)
-- [school-safety](school_board_76_tag_school-safety.md)

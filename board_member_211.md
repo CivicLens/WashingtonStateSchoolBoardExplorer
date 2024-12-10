@@ -1,6 +1,6 @@
-# Positions Supported by Roseanna Camacho (BETHEL_SCHOOL_DISTRICT, Term: 2018-2025)
+# Positions Supported by April Owen (NEWPORT_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Roseanna Camacho | BETHEL_SCHOOL_DISTRICT | 2018-2025 |
+| April Owen | NEWPORT_SCHOOL_DISTRICT | None |
 

@@ -2,162 +2,87 @@
 
 ## 2024-12-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the Ferndale School Board took place on September 24, 2024, where several significant actions were taken regarding school policies and safety measures. The board adopted the Monitoring Report for Results 6 (R-6) Career Readiness and the Monitoring Report for Results 2.4 (R 2.4) Technology, both meeting expectations. Additionally, the board discussed the Interlocal Agreement between the Ferndale School District and the City of Ferndale, which establishes a District Resource Officer Program. There were concerns expressed about the agreement being signed before board review, leading to its discussion being postponed to the October meeting. The board also confirmed a retreat scheduled for October 3rd to address various monitoring report indicators and to discuss policy changes, including the review of revised Policies 1240 and GC-5 related to board committees. Community engagement was highlighted through student representatives' positive feedback on the new cell phone policy, indicating a more connected school environment.
+The regular meeting held on September 24, 2024, included discussions and actions on several key policies and initiatives. Notably, the board voted to adopt the Monitoring Report for Results 6 (R-6) focused on Career Readiness and for Results 2.4 (R 2.4) related to Technology, both deemed to meet expectations. The board also confirmed the scheduling of a retreat on October 3rd to discuss changes to monitoring report indicators, particularly concerning the High School and Beyond Plan. A significant topic of discussion was the Interlocal Agreement between the Ferndale School District and the City of Ferndale establishing a District Resource Officer Program, which was initially removed from the consent agenda for further discussion, reflecting concerns about the timing of the agreement's approval. The meeting highlighted the implementation of a new cell phone policy, which received positive feedback from student representatives, noting an increase in school connectivity and a welcoming environment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-09-minutes.txt)
 
-## 2024-12-08 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The regular school board meeting held on August 27, 2024, focused on several key policy changes and strategic plans. The board adopted revised policies, including Policy 2140, which pertains to the Comprehensive School Counseling Program, and Policy 2145, which addresses Suicide Prevention, both emphasizing the district's commitment to student health. Additionally, Policy 3245 was adopted, which governs students and telecommunication devices, highlighting the need for a shift in attitude regarding technology use among students. The board also discussed the Interlocal Agreement with the City of Ferndale to enhance collaboration on grant writing and advocacy efforts, indicating a long-term strategic plan for community engagement and resource sharing. The meeting included various action items and public comments, underscoring the board's focus on transparency and responsiveness to community needs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-08-minutes.txt)
-
-## 2024-12-06 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The school board meeting held on June 25, 2024, included significant discussions and decisions on various policy changes and community engagement efforts. Notably, the board revised the Governance Culture Policy 6-E Annual Work Plan, which was adopted unanimously. The board also approved several revised policies related to academic standards, including Policy 2410 on High School Graduation Requirements and Policy 2418 regarding Waiver of High School Graduation Credits, both of which were adopted to ensure alignment with current educational standards. Additionally, the board recognized local businesses for their contributions to student opportunities, emphasizing community engagement. The meeting also featured discussions on cellphone use in schools, where the board supported a request for a revised policy to be presented at the next meeting, indicating an ongoing commitment to addressing student health and safety.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-06-minutes.txt)
-
-## 2024-12-05 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The special meeting held on May 28, 2024, focused on interviewing candidates for the Student Representative position on the School Board, highlighting the importance of student participation and representation in school governance. Eight candidates were interviewed, with Harleen Malli ultimately appointed to a two-year term as the Student Representative. The Board members present were Kevin Erickson, Steve Childs, Peggy Uppiano, Antonio Machado, and Nancy Button, who unanimously supported the appointment. This meeting underscores the Board's commitment to fostering student autonomy and ensuring that student voices are included in decision-making processes. Ms. Malli is scheduled to be sworn in at the upcoming June 25th meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-05-minutes.txt)
-
 ## 2024-12-04 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The Bremerton School District held a special board meeting at Naval Avenue Elementary on April 15, 2024, focusing on various school issues and community engagement. Principal Kimberly Powell reported ongoing challenges with staffing, specifically in special education para-educator positions, which has led to adjustments in lunch and recess schedules. The school currently requires additional staff, including two preschool, two general education, and two special education paras. 
-
-The meeting also addressed safety concerns, particularly regarding traffic at a nearby intersection, with suggestions made for improved visibility and safety measures, such as flashing lights and speed bumps. Additionally, community members expressed a desire for more parental engagement and the establishment of a parent-teacher organization. Discussions included the implementation of a garden program aimed at promoting health and nutrition among students. Curriculum transparency was highlighted, with inquiries regarding updates to math and reading materials, as well as the alignment of these with essential standards.
+The Bremerton School District Board of Directors held a special meeting at Naval Avenue Elementary on April 15, 2024, to discuss various issues affecting the school. Principal Kimberly Powell reported staffing challenges, particularly in special education paraprofessional positions, which have led to adjustments in lunch and recess schedules. The board emphasized the need for community engagement, as parents expressed concerns about safety at nearby intersections and the absence of a parent-teacher organization. Additionally, discussions included the impact of COVID-19 on student attendance, with parents keeping children home more frequently. The school is also working on enhancing academic standards, with inquiries about new curriculum materials for math and reading. Concerns were raised about the school garden initiative and its community partnerships, highlighting the importance of collaboration in fostering educational development.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-12-04-minutes.txt)
 
-## 2024-12-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The regular meeting of the school board on March 26, 2024, involved several significant actions and discussions. A new policy, Policy 5225, regarding technology was reviewed and adopted. The board also discussed the compensation structure for board members attending various meetings and proposed updating the policy to clarify that members may receive $50 per day for their services, not exceeding $4,800 per year. Additionally, the board reviewed and adopted the Monitoring Report for Result Policy (R-1) Mission, indicating that reasonable progress is being made towards goals. Community engagement was highlighted through reports from student representatives about events like the Multicultural Night and the first home track meet in 11 years, as well as updates from the City Council Liaison regarding local projects, including the Metal Works Skate Park. The meeting concluded with positive evaluations from board members, emphasizing ongoing support for teachers and community involvement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-03-minutes.txt)
-
 ## 2024-12-02 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Ferndale School Board meeting held on October 29, 2024, included several significant actions and discussions. A key policy change was the approval of revisions to the GC-7 Ferndale School Board Social Contract, which removed the phrases "Listening with our eyes and hearts as well as with our brains and ears" and "Encouraging one another's hearts." Additionally, the board adopted revised Policy 6220 regarding Bid or Request for Proposal Requirements, despite concerns raised by Director Peggy Uppiano about needing more time for review. The meeting also featured discussions on mental health initiatives, including the approval of multiple Memoranda of Understanding (MOUs) related to behavioral health services, emphasizing the district's commitment to student mental health and community engagement. Furthermore, the board addressed school safety by receiving a new policy 4311 on School Safety and Security Services Program, indicating a proactive approach to ensuring a safe learning environment.
+The Ferndale School Board held a regular meeting on October 29, 2024, where several key actions and discussions took place. Notably, revisions to the GC-7 Ferndale School Board Social Contract were approved, which involved the removal of phrases related to emotional engagement and encouragement among board members. The board also adopted revised Policy 6220, concerning Bid or Request for Proposal Requirements, despite concerns raised by Director Peggy Uppiano regarding typographical errors. Additionally, new policies were introduced, including Policy 6221 on Small Works Roster - Direct Contracting Rotation. 
+
+The board emphasized mental health and student health services through the renewal of various Memoranda of Understanding (MOUs) with organizations like the Lummi Indian Business Council and Whatcom County Health & Community Services to facilitate behavioral health services for students. The meeting also highlighted community engagement initiatives, such as the attendance updates and partnerships discussed by Superintendent Bobby Olsen, which included the Latinos in Action Founder's visit and the National P3 Institute.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-02-minutes.txt)
 
 ## 2024-12-01 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Ferndale School Board held a regular meeting on October 29, 2024, where several significant actions were taken regarding policy changes and community engagement. Notably, revisions to GC-7 Ferndale School Board Social Contract included the removal of phrases like "Listening with our eyes and hearts as well as with our brains and ears," which reflects a shift towards more streamlined communication guidelines. The board also adopted revised Policy 6220 regarding Bid or Request for Proposal Requirements despite concerns raised by Director Peggy Uppiano about typographical errors and the need for further review. 
+The Ferndale School Board meeting on October 29, 2024, addressed several key policy changes and updates. Notably, revisions to the GC-7 Ferndale School Board Social Contract were approved, removing phrases like "Listening with our eyes and hearts as well as with our brains and ears" and "Encouraging one another's hearts." Additionally, the board adopted new policies including Policy 6221 concerning the Small Works Roster - Direct Contracting Rotation and Policy 6220 regarding Bid or Request for Proposal Requirements, despite concerns raised by Director Peggy Uppiano about typographical errors. 
 
-Additionally, the board approved multiple memorandums of understanding (MOUs) aimed at enhancing mental health services for students, including collaborations with the Lummi Indian Business Council and Whatcom County Health & Community Services, indicating a focus on mental health support within the community. The meeting also included discussions on school safety, highlighted by the adoption of new policies related to safety and security services. Overall, the board's actions reflect an ongoing commitment to policy refinement, community partnerships, and student well-being.
+The meeting also highlighted mental health initiatives, including the renewal of multiple Memorandums of Understanding (MOU) aimed at enhancing behavioral health services for students, such as the agreement with the Lummi Indian Business Council. Community engagement was emphasized through reports on various school activities, including updates from student representatives on fall sports and upcoming events like the Veteran's Day assembly. Furthermore, discussions on school safety included proposals for a new policy on School Safety and Security Services, reflecting the board's ongoing commitment to improving student safety and well-being.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-12-01-minutes.txt)
 
 ## 2024-11-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Ferndale School Board held a regular meeting on October 29, 2024, where several key actions and discussions took place. Notably, the board approved revisions to the GC-7 Ferndale School Board Social Contract, specifically removing the phrases "Listening with our eyes and hearts as well as with our brains and ears" and "Encouraging one another's hearts." The board also adopted revised Policy 6220 regarding Bid or Request for Proposal Requirements, despite concerns raised by Director Peggy Uppiano, who wished to postpone the decision for further review. Additionally, new Policy 6221 was adopted, establishing a Small Works Roster for Direct Contracting Rotation.
+The Ferndale School Board meeting on October 29, 2024, included significant discussions and actions regarding various policies and community initiatives. Notably, revisions to the GC-7 Ferndale School Board Social Contract were approved, which involved the removal of specific phrases aimed at fostering empathy and encouragement among board members. The board also adopted Policy 6221, which establishes a Small Works Roster for Direct Contracting Rotation, and Policy 6220 regarding Bid or Request for Proposal Requirements. Concerns about the latter policy led to a failed motion to postpone its adoption for further review. 
 
-The meeting included updates on community engagement and mental health initiatives, such as the approval of multiple Memorandums of Understanding (MOUs) for behavioral health services, including collaborations with the Lummi Indian Business Council and Whatcom County Health & Community Services. These efforts reflect the board's focus on enhancing student health and safety through strategic partnerships. The board also discussed the proposal for a second monthly meeting to facilitate open conversations, indicating an interest in improving communication and engagement within the community.
+Additionally, the board approved several memorandums of understanding (MOUs) related to mental health services, including partnerships with the Lummi Indian Business Council and Whatcom County Health & Community Services. These initiatives are aimed at enhancing behavioral health support for students. The meeting also highlighted community engagement through updates on attendance, partnerships, and upcoming events like the Veteran's Day assembly, as shared by student representatives. Furthermore, discussions on the need for improved communication between the board and the community were initiated, emphasizing the importance of transparency and connection.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-30-minutes.txt)
 
-## 2024-11-21 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 held a Special Board Meeting on November 21, 2024, which included an executive session focused on the selection of a site or the acquisition of real estate and the performance review of a public employee. The executive session was initially scheduled for thirty minutes but was extended to last until 6:30 p.m. The meeting concluded with a unanimous vote to adjourn, with the motion carried 4-0, noting that Director Erika Creydt was not present for the vote. The minutes from the meeting were approved on November 25, 2024.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-21-minutes.txt)
-
-## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a study session on November 12, 2024, focusing on budget development for the 2025-2026 school year. The meeting was attended by board members and the superintendent, Mr. Michael Tolley. The session included discussions on potential policy changes and long-term strategic plans related to the district's financial management and resource allocation for the upcoming school year. The study session concluded with the adjournment at 7:37 PM, and the minutes were generated by Peggy King.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-12-minutes.txt)
-
-## 2024-11-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The regular meeting of the Ferndale School Board took place on September 24, 2024, where significant discussions and actions were centered around various policies and community engagement initiatives. Notably, the board moved to adopt the Monitoring Report for Results 6 (R-6) on Career Readiness and the Monitoring Report for Results 2.4 (R 2.4) on Technology, both of which were deemed to meet expectations. The board discussed the Interlocal Agreement establishing a District Resource Officer Program with the City of Ferndale; concerns were raised regarding the timing of the agreement's signing before board review, leading to its postponement for further discussion in the October meeting. 
-
-Additionally, the board confirmed plans for a retreat to further discuss policy changes and monitoring report indicators, emphasizing the importance of community engagement and collaboration in shaping school safety and operational policies. The meeting also featured student representatives who reported positively on the new cell phone policy, indicating improved school connectivity and a welcoming environment. The board's actions reflect a commitment to addressing community needs while ensuring the safety and readiness of students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-09-minutes.txt)
-
 ## 2024-11-08 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The meeting on August 27, 2024, involved several key actions and discussions regarding policy changes and community engagement. Notably, the board adopted revised policies including Policy 2140, which pertains to the Comprehensive School Counseling Program, and Policy 2145, focusing on Suicide Prevention. Additionally, Policy 3245, addressing Students and Telecommunication Devices, was also adopted, with a discussion surrounding the need to gauge student perspectives on its implementation. The board ratified contracts with the Ferndale Association of Administrative Assistants (FAAA) and the Ferndale Principals' Association (FPA), reflecting a commitment to support staff. Furthermore, the meeting included public comments and updates on the strategic plan, emphasizing the importance of community involvement and transparency in school governance.
+The Ferndale School District No. 502 Board meeting on January 31, 2023, addressed several key issues, including ongoing investigations into board member conduct and adherence to the district's Code of Conduct. Dr. Erickson emphasized the importance of respectful dialogue during public comments, which included a formal ethics complaint and requests for censure against board member Ms. Cool. The board adopted changes to Operational Expectations Policy 8 (OE-8) to ensure student representation on committees, highlighting the district's commitment to community engagement and student voice. Additionally, revisions to Policy 1400 regarding meeting conduct were proposed to be added to the consent agenda for the following meeting, indicating a proactive approach to governance and transparency. Discussions also included the importance of safety within the district, as articulated by various community members during public comment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-08-minutes.txt)
 
 ## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the school board, held on July 30, 2024, included discussions on various topics impacting the district and its educational policies. A significant focus was on the adoption and postponement of revised policies, specifically Policy 1240 regarding Committees and Policy GC-5 concerning Board Committees, both of which were agreed to be postponed for further revisions. The board also ratified the contract between the District and the Ferndale Education Association, despite a failed motion to delay this ratification. Dr. Dominguez provided updates on the Strategic Plan, emphasizing the importance of community engagement and support for teachers, which reflects ongoing efforts to enhance educational standards and teacher support within the district. Additionally, student representatives reported on positive experiences from a recent volleyball leadership camp, highlighting student engagement in extracurricular activities.
+The Ferndale School District No. 502 held a special meeting on July 27, during which the school board conducted a public hearing regarding the proposed 2021-2022 district budget. The meeting was called to order by Mr. Andrew McLaurin at 6:47 PM, with a reminder to attendees about the ongoing requirement for face masks due to rising COVID-19 case counts. No public comments were received regarding the budget, and Mr. Mark Deebach provided an overview of the budget documents, noting that new explanations had been posted on the district's website to enhance clarity for readers. The meeting concluded with Mr. McLaurin adjourning the public hearing at 7:02 PM and directing Zoom viewers to switch links for the upcoming regular board meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
 
-## 2024-11-04 - PULLMAN_SCHOOL_DISTRICT (Minutes)
-
-The special meeting of the Pullman City Council on November 4, 2024, focused on the second budget workshop for the 2025-2026 Budget process. Various department heads presented their respective budgets, including Finance Director Jeff Elbracht, who covered multiple funds such as the Firefighters Relief and Pension Fund, Civic Improvement Fund, and the Transportation Benefit District. Other presentations included budgets from the Human Resources Department, IT Department, Communications Department, and Community Development, among others. The meeting concluded with a motion to adjourn, which was unanimously carried by the council members present.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-11-04-council-minutes.txt)
-
-## 2024-11-01 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
-
-The Spokane Public Schools Board of Directors held a Special Meeting on November 1, 2024, where they addressed the appointment of a new school board member to fill the vacancy left by Melissa Bedford's resignation. Hilary Kozel nominated Luke Tolley, but that motion failed without a second. Jenny Slagle then nominated Nicole Bishop, which was seconded by Mike Wiser. A roll call vote resulted in the motion carrying with support from President Nikki Lockwood, Vice President Slagle, and Director Wiser, while Director Kozel opposed. This meeting reflects ongoing governance and ethical considerations within the board regarding member appointments.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-11-01-minutes.txt)
-
 ## 2024-10-29 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Ferndale School Board meeting held on October 29, 2024, included several significant actions and discussions. Notably, revisions to the GC-7 Ferndale School Board Social Contract were approved, removing phrases such as "Listening with our eyes and hearts as well as with our brains and ears" and "Encouraging one another's hearts." Additionally, the Board adopted revised Policy 6220 regarding Bid or Request for Proposal Requirements despite concerns raised by Director Peggy Uppiano about typographical errors and the need for further review. The Board also approved new Policy 6221, which establishes a Small Works Roster for direct contracting rotation. 
+The Ferndale School Board meeting held on October 29, 2024, included significant policy changes and discussions on various educational matters. Notably, the board approved revisions to GC-7, the Ferndale School Board Social Contract, which involved the removal of certain phrases aimed at promoting emotional engagement and support among members. Additionally, the board adopted new Policy 6221 regarding a Small Works Roster for Direct Contracting Rotation and revised Policy 6220 concerning Bid or Request for Proposal Requirements, despite concerns from Director Peggy Uppiano about needing more time for review.
 
-The meeting featured updates on mental health initiatives, including the renewal of multiple Memorandums of Understanding (MOUs) for behavioral health services with local organizations, emphasizing community engagement in supporting student mental health. The Board discussed the importance of enhancing communication with the community and proposed establishing a second monthly meeting to facilitate more open discussions. Director Machado suggested a linguistic preference for "latinos" and "latinas" over "latinx," indicating a focus on cultural accuracy in representation.
+The meeting also addressed mental health initiatives, including the renewal of several Memoranda of Understanding (MOUs) with local organizations for behavioral health services, such as the Lummi Indian Business Council and Whatcom County Health & Community Services. Furthermore, community engagement was emphasized through updates on student activities and partnerships, including a report from student representatives on fall sports and upcoming events like the Veteran's Day assembly. The board's focus on these areas reflects ongoing efforts to enhance educational support and community involvement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-10-29-minutes.txt)
 
-## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+## 2024-10-28 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a study session on October 28, 2024, focusing on Superintendent Parameter 9 - Equity. This session included discussions on the district's policies and practices related to racial equity. The meeting was attended by board members including Amy Cast, the President, and Michael Tolley, the Superintendent, who also served as the Secretary to the Board. The session concluded with an adjournment at 6:42 PM, and the minutes were approved on November 12, 2024. The emphasis on equity suggests ongoing efforts to address and improve racial equity within the district's educational framework.
+The Battle Ground Public Schools Board of Directors held a regular meeting on October 28, 2024, addressing several key topics including school safety and mental health. Superintendent Denny Waters reported on potential chickenpox outbreaks at River HomeLink and Maple Grove Primary campuses, indicating that the Clark County Department of Health is closely monitoring the situation, which could lead to exclusion of unvaccinated individuals for 21 days if necessary. Additionally, the meeting highlighted the importance of social-emotional learning, with updates on the SEL Curriculum committee process led by Director Johnson, who acknowledged the significant effort involved in its development.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
+The board also discussed curriculum transparency, particularly regarding library information and technology programs. Deputy Superintendent Shelly Whitten outlined changes to the Instructional Materials Committee (IMC) and the process for selecting books, emphasizing the inclusion of parent resources for reviewing book content. The meeting included recognition of River HomeLink for its inclusive environment, receiving the “School on the Rise” Award, which reflects community engagement and support. Furthermore, the board approved the Consent Agenda, which included various operational items and a grant for Career and Technical Education programs, indicating ongoing support for special education initiatives and community involvement in educational activities.
 
-## 2024-10-28 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
-
-The Arlington Public Schools Board of Directors held a study session and regular meeting on October 28, 2024, where they discussed various school improvement plans from high schools, middle schools, and elementary schools for the 2024-25 school year. Superintendent Sweeting presented a new interlocal agreement with Public Hospital District No. 3 aimed at educating students and their parents about youth substance abuse, which reflects a commitment to mental health and community engagement. Additionally, the Board approved changes to Board Policy 3432 regarding Emergency Preparedness and Response, indicating a focus on school safety. The meeting included various motions that were unanimously carried, highlighting the collaborative efforts of the Board and school leaders in addressing educational and safety needs within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-10-28-minutes.txt)
-
-## 2024-10-24 - ONALASKA_SCHOOL_DISTRICT (Minutes)
-
-The Board Workshop held on October 24, 2024, included discussions on various proposals and updates relevant to school operations. A significant topic was the School Safety and Security Update, highlighting the ongoing efforts to enhance safety measures within the school environment. The agenda also included discussions on financials, personnel, and specific proposals such as the Robotics Trip Proposal and the Aquaculture Proposal, indicating a focus on both educational enrichment and operational management. The meeting concluded with a call for adjournment of the regular session, reflecting a structured approach to community engagement and decision-making within the school board framework.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-10-24-minutes.txt)
-
-## 2024-10-24 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The School Board Meeting held on October 24, 2024, included key discussions and actions related to policy changes and community engagement. Notably, the board unanimously approved MB Board Resolution 24/25:1, which involves transferring funds from the Capital Projects Fund to the General Fund, indicating a strategic financial adjustment. The meeting also featured a study session focused on Strategic Plan Goal 2, which addresses finance, facilities, and operations, emphasizing the board's long-term planning efforts. Additionally, audience member Natalie Chavez raised concerns regarding the School Based Health Clinic, highlighting the importance of community feedback in school operations. The meeting concluded with the scheduling of future regular meetings and special events, reinforcing the board's commitment to ongoing community engagement and transparency.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-24-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 4-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 4-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to the General Fund | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to ...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 4-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 4-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to the General Fund | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 24/25:1 Transfer Funds from the Capital Projects Fund to ...[truncated, use api for full text] |
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-10-28-minutes.txt)
 
 ## 2024-10-24 - MERCER_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The Mercer Island School District Board of Directors held a regular meeting on October 24, 2024, where they discussed various topics including the Instructional Program and School Improvement Plans (SIPs) for both Islander Middle School (IMS) and Mercer Island High School (MIHS). The 2024-2025 SIP for IMS emphasizes enhancing belonging, belief, and equitable practices, with specific goals to improve reading skills and address curriculum challenges. Discussions highlighted the importance of fostering a sense of belonging and the need for improved communication with families. The Board also reviewed long-range facility planning, focusing on proposed renovations at IMS and MIHS to enhance safety and learning environments. Notably, there was a request for further information regarding the use of mass timber in construction and its educational benefits. 
+The Mercer Island School District Board of Directors held a regular meeting on October 24, 2024, where they discussed various topics including the Instructional Program and School Improvement Plans (SIPs) for Islander Middle School (IMS) and Mercer Island High School (MIHS). Co-Principals Miller and Budzius presented the 2023-2024 IMS SIP, which emphasized fostering belonging and equity, while the 2024-2025 SIP will focus on enhancing reading skills, ensuring inclusive education, and improving the transition from 8th to 9th grade. The Board also explored the need for renovations at IMS and MIHS to improve safety, learning environments, and address community needs, highlighting the importance of community engagement in the planning process.
 
-Additionally, the Board approved revisions to Board Policy 3205 regarding sexual harassment of students, ensuring alignment with statutory language. The meeting included public input advocating against the repeal of the Climate Commitment Act, which some students argued impacts public school funding. The Board's discussions around facility improvements and educational strategies reflect ongoing efforts to address diversity and inclusion within the student population while ensuring safe and effective learning environments.
+Additionally, the Board approved revisions to Board Policy 3205 regarding the prohibition of sexual harassment of students, aligning the language with statutory requirements. Discussions on the SIPs included addressing barriers faced by special education students and the use of restorative justice practices to promote positive relationships. The meeting also featured public comments advocating against the repeal of the Climate Commitment Act, reflecting community engagement on environmental issues.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/mercer_island_school_district/2024/2024-10-24-minutes.txt)
 
+## 2024-10-24 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+
+The board workshop held on October 24, 2024, included a significant update on school safety and security, indicating a focus on enhancing protective measures within the educational environment. Additionally, the agenda featured several discussions that could imply potential policy changes, including a proposal related to robotics field trips and an aquaculture initiative. The board also reviewed financials and personnel matters, which are essential for maintaining transparency and accountability in school governance. The session concluded with plans for an executive session, although specific details regarding the discussions held therein were not disclosed.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-10-24-minutes.txt)
+
 ## 2024-10-23 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board of Directors held a meeting on October 23, 2024, where school safety was a prominent topic during both student public comments and communication from the audience. Concerns raised included issues such as school vandalism, the presence of guns in schools, and vaping in student bathrooms. The meeting also addressed staffing issues, reflecting ongoing challenges related to teacher and staff shortages. The board approved several items, including the acceptance of gifts and donations, as well as a series of field trip authorizations for Kentwood High School and Meridian Middle School. Notably, the board passed Resolution No. 1685, which certified the 2025 Excess Property Taxes, and Resolution No. 1686, which involved the cancellation of warrants. The meeting concluded with no final comments from the audience, highlighting a focus on administrative and safety matters within the district.
+The Kent School District No. 415 board meeting on October 23, 2024, addressed significant concerns regarding school safety, with public comments highlighting issues such as staffing, vandalism, and the presence of guns and vaping in schools. The board engaged the community by allowing public comment on these pressing topics and welcomed input from students during the meeting. Superintendent Vela provided a report, and Director Clark delivered a legislative update, emphasizing the board's commitment to addressing safety and operational issues within the district. 
+
+Additionally, the board approved various resolutions and consent agenda items, including Resolution No. 1685, which pertains to the certification of 2025 Excess Property Taxes, and Resolution No. 1686, which involves the cancellation of warrants. The approval of these items reflects ongoing policy changes and operational adjustments aimed at improving the district's infrastructure and educational technology, such as the purchase of Microsoft Surface laptops for teachers and support staff.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-23-board-minutes.txt)
 
@@ -165,23 +90,23 @@ The Kent School District No. 415 Board of Directors held a meeting on October 23
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve the agenda as written | A motion was made to approve the agenda as written. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.01 | A motion was made to approve Item 7.01. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.13 | A motion was made to approve Consent Agenda Items 8.01 – 8.13. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve the agenda as written | A motion was made to approve the agenda as written. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.01 | A motion was made to approve Item 7.01. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.13 | A motion was made to approve Consent Agenda Items 8.01 – 8.13. |
 
 ## 2024-10-23 - COLVILLE_SCHOOL_DISTRICT (Minutes)
 
-The Colville School District Board of Directors held a regular meeting on October 23, 2024, where several policies were discussed and approved. Notably, Policy 2410 regarding High School Graduation Requirements and Policy 3246 concerning Restraint, Isolation and Other Uses of Reasonable Force were approved after their second reading. The board also approved several resolutions including Resolution No. 24/25-1 and Resolution No. 24/25-2 for the transfer of funds from the General Fund to the Debt Service Fund, and Resolution No. 24/25-5 for an Emergency Repair Grant. 
+The Colville School District Board of Directors held a regular meeting on October 23, 2024, where several key policies and resolutions were reviewed and approved. Notably, the board approved Policy 2410 regarding High School Graduation Requirements and Policy 3246 concerning Restraint, Isolation, and Other Uses of Reasonable Force, both revised for clarity and compliance. The board also passed multiple resolutions related to financial management, including Resolution No. 24/25-1 and 24/25-2 for the transfer of funds to the Debt Service Fund, and Resolution No. 24/25-5 for an Emergency Repair Grant. 
 
-In terms of school safety, the report highlighted various incidents and security measures taken, including a threat assessment review and the implementation of video intercoms at schools for enhanced security. The board discussed ongoing challenges in finding substitute teachers and paraeducators, reflecting a broader issue of teacher-staff shortages. Community engagement was evident through public comments and recognition of student achievements, such as the Hofstetter ASB's T-Shirt design contest winners and the approval of the CHS Interact Club's trip to Sandpoint, Idaho for a community service project.
+The meeting included community engagement elements, such as public comments from parents regarding school programs, and recognition of Hofstetter ASB students for their achievements. Additionally, the school safety report highlighted ongoing efforts to manage threats and enhance security measures, including the implementation of video intercom systems for better visitor vetting. The board acknowledged the importance of these measures in maintaining a safe educational environment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-10-23-octoberregularboardmeeting-minutes.txt)
 
 ## 2024-10-22 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board Meeting held on October 22, 2024, included various agenda items focused on community engagement and school safety. Notably, the board approved multiple student travel requests for events such as the AWSL Middle Level Retreat and various wrestling tournaments, indicating an emphasis on student participation in extracurricular activities. A significant discussion point was the pertussis outbreak notification at EVHS, highlighting ongoing health and safety concerns within the school community. 
+The Regular Board Meeting held on October 22, 2024, included several key agenda items focused on community engagement and policy changes. Notably, the board approved various student travel plans and fundraising events, which reflect ongoing community involvement, including an EVMS fundraiser and multiple athletic events. Additionally, the meeting addressed school safety concerns, particularly highlighted by Mr. Voelker's mention of a pertussis outbreak at EVHS. 
 
-Additionally, the board tabled the first reading of Board Policy 3242 - Closed Campus until the next meeting, suggesting a potential change in campus access regulations. The meeting also featured updates from Superintendent Brian Talbott regarding outdoor lighting adjustments at EVMS and ongoing facilities improvement efforts. These actions reflect the board's commitment to enhancing the school environment and responding to community needs.
+The board also tabled the first reading of Board Policy 3242 - Closed Campus, which indicates a potential shift in school policy regarding campus access. The decision to postpone further discussion until the next meeting suggests that the board is taking a cautious approach to any changes that could affect student autonomy and school safety. Overall, the meeting underscored the board's commitment to engaging with community needs while navigating policy adjustments.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-10-22-minutes.txt)
 
@@ -189,59 +114,22 @@ Additionally, the board tabled the first reading of Board Policy 3242 - Closed C
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-
-## 2024-10-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors convened a special meeting on October 15, 2024, at North Creek High School to participate in the i2109 Capital Gains Initiative Town Hall. The meeting commenced at 6:00 PM and concluded at 8:00 PM, during which the board members, including President Amy Cast, Jacqueline McGourty, and Sandy Hayes, engaged in discussions related to the initiative. The i2109 Capital Gains Initiative is presumably a policy or program aimed at addressing financial or economic aspects affecting the district, though specific details regarding its content or implications were not provided in the minutes. The meeting highlights the board's commitment to community engagement by discussing initiatives that likely impact the district's financial planning or resource allocation. The minutes were generated by Peggy King and approved on October 28, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-15-minutes.txt)
-
-## 2024-10-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The School Board Meeting held on October 10, 2024, included a successful report on the recent Community Connections meeting at Harmony, with the next meeting scheduled for October 17 at the High School Library. This initiative aims to enhance community engagement within the school district. Additionally, there were discussions regarding upcoming Parent/Teacher Conferences and a recognition of Cindy Henninger's contributions to the district, highlighting the board's focus on honoring staff and fostering positive community relations. Concerns were raised by Natalie Chavez regarding the School Based Health Clinic, indicating a need for parental feedback on health services provided to students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-10-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on the approval of the agenda with a change | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on the approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-
-## 2024-10-10 - SELAH_SCHOOL_DISTRICT (Minutes)
-
-The Selah School District No. 119 Board of Directors held a meeting on October 10, 2024, where the main agenda item was an appeal hearing regarding the reconsideration of library books. Daylene Ackerman addressed the board, advocating for the removal of certain books based on her concerns about their content, which she argued was inappropriate and aligned with Marxist ideals. The Instructional Materials Committee (IMC) had previously reviewed six books and decided to retain them, a decision that can only be reconsidered in three years, as per Procedure 2021. The board, led by President Dan Peters, affirmed that the IMC followed the correct criteria in their decision-making process.
-
-During the meeting, discussions highlighted the importance of parental involvement and community engagement in the review of educational materials. Derek Iverson expressed a desire for increased parental participation in the IMC, emphasizing the need for diverse community opinions. The board's decision to uphold the IMC's recommendation reflects ongoing tensions between parental rights and book access in school libraries, as well as the challenges of balancing community standards with educational content.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/selah_school_district/2024/2024-10-10-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Dan Peters](board_member_353.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
-| [Jamie Morford](board_member_352.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
-| [Joe Catron](board_member_354.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
-| [Sarah Michael](board_member_351.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
-| [Derek Iverson](board_member_350.md) | voted yes on the decision of the Instructional Materials Committee | The Board of Directors determined that the Instructional Materials Committee applied the correct criteria and followed t...[truncated, use api for full text] |
+| [Mike Bly](board_member_285.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_283.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_284.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Mike Bly](board_member_285.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_283.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_284.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Mike Bly](board_member_285.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_283.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_284.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Mike Bly](board_member_285.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Justin Voelker](board_member_283.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
+| [Jonathan Horsley](board_member_284.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
 
 ## 2024-10-09 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board of Directors held a meeting on October 9, 2024, where several proclamations were made, including those for LGBT History Month and National Bullying Prevention Month, highlighting the district's commitment to inclusivity and safety. The board discussed various policy changes, notably the second reading and adoption of Policy 2415 regarding Performance-Based Pathway for High School Graduation, and Policy 2418 concerning Waiver of High School Graduation Credits, both of which focus on academic standards and student autonomy. Additionally, a resolution (No. 1684) was passed regarding the waiver of high school graduation credits, reflecting ongoing adjustments to graduation requirements. The meeting also included a public comment regarding school lockdowns, emphasizing school safety concerns.
+The Kent School District No. 415 Board of Directors held a meeting on October 9, 2024, where several proclamations were made, including recognition of LGBT History Month and National Bullying Prevention Month, emphasizing the district's commitment to inclusivity and safety in schools. The board addressed school safety concerns raised during public comments, specifically regarding school lockdowns. Additionally, the board discussed and approved several policy changes, including the adoption of Policy 2415, which pertains to a performance-based pathway for high school graduation, and Policy 2418, which allows for waivers of high school graduation credits. A significant motion to repeal Resolution No. 1669, which established a Labor Policy Committee, was also carried after public commentary.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-10-09-board-minutes.txt)
 
@@ -249,67 +137,31 @@ The Kent School District No. 415 Board of Directors held a meeting on October 9,
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve agenda | A motion was made to approve the agenda as written. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Item 7.02 | A motion was made to approve Item 7.02. |
-| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.03 | A motion was made to approve Item 7.03. |
-| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.04 | A motion was made to approve Item 7.04. |
-| [Donald Cook](board_member_126.md) | voted yes on motion to approve Item 7.05 | A motion was made to approve Item 7.05. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Item 7.06 | A motion was made to approve Item 7.06. |
-| [Donald Cook](board_member_126.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.06 | A motion was made to approve Consent Agenda Items 8.01 – 8.06. |
-
-## 2024-10-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on October 9, 2024, during which several policies and agreements were reviewed and approved. Notably, Policy 5409 concerning Unpaid Holidays for Reason of Faith or Conscience and Resolution 11-24 were presented for second review and subsequently approved. Additionally, Policy 5400 regarding Personnel Leave and Policy 3432 on Emergencies were also approved. The board approved the 2024-25 NWESD School Nurse Corps Contract, highlighting a focus on student health and support services. Irene Reither Elementary (IRE) staff recognition was presented, emphasizing family engagement and intervention efforts, showcasing the district's commitment to community engagement. The meeting included no public comments, indicating a lack of community feedback during this session.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-10-09-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve consent agenda items A-F |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-
-## 2024-10-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special meeting on October 8, 2024, to attend the Kenmore Elementary Groundbreaking Ceremony. The meeting commenced at 5:00 PM and was attended by board members including President Amy Cast and Deputy Superintendent JoLynn Berge. The event marked a significant milestone for the district, emphasizing community engagement and support for educational infrastructure. The meeting concluded at 6:00 PM, and the minutes were generated by Peggy King on October 9, 2024. The meeting was formally approved later with signatures from Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-08-minutes.txt)
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve agenda | A motion was made to approve the agenda as written. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Item 7.02 | A motion was made to approve Item 7.02. |
+| [Donald Cook](board_member_133.md) | voted yes on motion to approve Item 7.03 | A motion was made to approve Item 7.03. |
+| [Donald Cook](board_member_133.md) | voted yes on motion to approve Item 7.04 | A motion was made to approve Item 7.04. |
+| [Donald Cook](board_member_133.md) | voted yes on motion to approve Item 7.05 | A motion was made to approve Item 7.05. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Item 7.06 | A motion was made to approve Item 7.06. |
+| [Donald Cook](board_member_133.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.06 | A motion was made to approve Consent Agenda Items 8.01 – 8.06. |
 
 ## 2024-10-03 - MOSES_LAKE_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the school board on October 3, 2024, addressed various topics, including significant concerns regarding school safety and staff shortages. Ms. Lewis recognized the Nutrition Services and Custodial departments for their continued efforts despite budget cuts, highlighting the importance of maintaining a safe and clean environment for students. The board discussed ten lobbying priorities for the district, emphasizing fiscal nonrenewal dates, support for special education programs, and comprehensive school safety. Mr. Coulston raised concerns about the district's finance audit process and the need for transparency regarding large purchases, indicating a potential policy change in procurement practices. Additionally, the board addressed ongoing issues related to transportation staffing shortages, which are affecting service delivery but are not attributed to budget constraints. The meeting concluded with a motion to request an external investigation into potential criminal acts involving Mr. Meek, indicating serious governance and ethical considerations within the district.
+The regular meeting of the school board on October 3, 2024, included significant discussions on various topics, notably the recognition of the Nutrition Services and Custodial departments for their resilience amid budget cuts. The board reviewed and approved minutes from previous meetings and adopted the agenda. A key focus was on the top ten lobbying priorities for the Moses Lake School District (MLSD), which included fiscal nonrenewal dates, support for special education programs, and comprehensive school safety. The board also addressed ongoing financial audit discussions, with Mr. Coulston highlighting the need for detailed explanations regarding audit processes. Additionally, Ms. Lewis introduced a new community engagement initiative called "Sup's On," aimed at enhancing communication with community members. The meeting concluded with a motion regarding the investigation of potential criminal acts by Mr. Meek, requesting the Moses Lake Police Department to forward the matter to another agency for review, reflecting ongoing concerns about school safety and governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/moses_lake_school_district/2024/2024-10-03-minutes.txt)
 
-## 2024-10-03 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+## 2024-10-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a special meeting on October 3, 2024, to attend the Career and Technical Education (CTE) Fall Kickoff Event. The meeting commenced at 5:00 PM and was attended by board members Hân Trần, Jacqueline McGourty, and Amy Cast, the President, along with Superintendent Mr. Michael Tolley. The event focused on engaging the community in career and technical education initiatives. The meeting concluded at 6:30 PM, and the minutes were generated by Peggy King on October 8, 2024. The minutes were approved on October 14, 2024, with Mr. Michael Tolley serving as Secretary to the Board and Amy Cast as President.
+The regular meeting of the White Salmon Valley School District Board of Education on October 24, 2024, included significant updates from Superintendent Rich Polkinghorn regarding enrollment and budget, facilities planning, and emergency operations. Notably, there was a decrease in Full-Time Equivalents (FTEs) compared to the previous month; however, enrollment still exceeded projections. The board discussed the ongoing facilities planning process led by the Construction Services Group, which aims to address the district's needs over the next 18 months. Additionally, the emergency operations committee is developing a reunification plan and coordinating with local agencies for school lockdown drills. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-03-minutes.txt)
+The board also reviewed several policies for first reading, including updates to policy 2410 on High School Graduation Requirements and new policies such as 3206 on Pregnant and Parenting Students and 6702 on Wellness Policy. These changes reflect updates in state laws and address various needs within the district. The meeting concluded with the approval of the Superintendent and Board Goals, as well as the Classified Union Contract, demonstrating a commitment to community engagement and the safety and well-being of students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-10-02-octoberdraftboard-minutes.txt)
 
 ## 2024-09-25 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board of Directors met on September 25, 2024, to discuss various topics, including school safety concerns raised by the community regarding Scenic Hill Elementary. The board received comments on administration accountability and the proposed changes to Policy 5060, which pertains to the inclusion of non-legal names on staff badges. The meeting also featured discussions on the Fall 2024 levy and Policy 1400, which addresses expressions at board meetings. Superintendent Vela provided an update, and the board approved several agenda items, including the acceptance of gifts and donations, as well as the consent agenda covering beverage and bread purchases, and federal grant acceptance for the City of Kent's American Rescue Plan Act (ARPA) from 2024 to 2026.
+The Kent School District No. 415 Board of Directors held a meeting on September 25, 2024, where various topics were discussed, including concerns for safety at Scenic Hill Elementary. This highlights ongoing discussions around school safety within the district. The board also addressed Policy 5060, which involves the consideration of using non-legal names on staff badges, indicating a potential change in how staff identification may be managed. This reflects an effort to enhance community engagement and inclusivity. Additionally, Superintendent Vela provided a report, and Director Clark delivered a legislative update, underscoring the board's commitment to staying informed on state legislation affecting the district. The meeting concluded with several motions being carried, including the acceptance of gifts and donations, and approval of various consent agenda items.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-09-25-board-minutes.txt)
 
@@ -317,34 +169,30 @@ The Kent School District No. 415 Board of Directors met on September 25, 2024, t
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Gifts, Donations, and/or Memorials Acceptance | A motion was made to approve Gifts, Donations, and/or Memorials Acceptance. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Items 7.01, 7.04, and 7.05 | A motion was made to approve Consent Agenda Items 7.01, 7.04, and 7.05. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Items 7.02 | A motion was made to approve Consent Agenda Items 7.02. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Items 7.03 | A motion was made to approve Consent Agenda Items 7.03. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Gifts, Donations, and/or Memorials Acceptance | A motion was made to approve Gifts, Donations, and/or Memorials Acceptance. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Consent Agenda Items 7.01, 7.04, and 7.05 | A motion was made to approve Consent Agenda Items 7.01, 7.04, and 7.05. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Consent Agenda Items 7.02 | A motion was made to approve Consent Agenda Items 7.02. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Consent Agenda Items 7.03 | A motion was made to approve Consent Agenda Items 7.03. |
 
 ## 2024-09-25 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
-The Wapato School District Board of Directors held a regular meeting on September 25, 2024, focusing on several key areas, including school safety and community engagement. Superintendent Kelly Garza reported on safety and security procedures, highlighting the District's training in physical, emotional, and behavioral safety. This discussion engaged the Board in exploring the effectiveness of current safety measures. Additionally, the Board reviewed Policy No. 2410 regarding High School Graduation Requirements and Revised Procedure No. 3211P concerning Gender-Inclusive Schools, indicating a commitment to policy updates and community feedback. The meeting also included the approval of a collective bargaining agreement for WPPA 2024-2027, emphasizing the Board's focus on collaborative agreements with staff.
+The Regular Board Meeting held on September 25, 2024, included discussions on school safety and community engagement, particularly through the Superintendent's report by Kelly Garza. He emphasized the importance of advocating for legislative action to secure funding for Impact Aid, which has not been fully funded since 1936. The meeting also covered the District’s safety procedures presented by Assistant Superintendent Tavis Peterson, focusing on physical, emotional, and behavioral safety. The Board engaged in discussions about these safety measures. Additionally, the Board reviewed and discussed various policies, including Policy No. 2410 regarding High School Graduation Requirements and revised Procedure No. 3211P on Gender-Inclusive Schools, indicating a commitment to policy changes that reflect current educational needs and community feedback.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-09-25-minutes.txt)
 
 ## 2024-09-25 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board Meeting, held on September 25, 2024, covered several key topics, including safety and security protocols in Wapato Public Schools, presented by Assistant Superintendent Tavis Peterson. The discussion focused on the district's procedures regarding physical, emotional, and behavioral safety. Additionally, Superintendent Kelly Garza reported on the 2024 NAFIS Fall Conference, emphasizing advocacy for Impact Aid funding, which has not been fully funded since 1936, and currently stands at 40% for Wapato SD. The Board also reviewed Policy No. 2410 concerning High School Graduation Requirements and Revised Procedure No. 3211P on Gender-Inclusive Schools, indicating ongoing policy changes. Furthermore, the Board discussed the implications of cellphone use in schools, as referenced in a WSSDA publication, highlighting community engagement in addressing school safety and student behavior.
+The regular board meeting held on September 25, 2024, included discussions on various topics relevant to school safety and community engagement. Superintendent Kelly Garza reported on the 2024 NAFIS Fall Conference, emphasizing the need for increased funding for Impact Aid, which has not been fully funded since 1936, affecting Wapato School District's current funding at 40%. The meeting also highlighted the establishment of a PACE Design Team aimed at developing educational specifications for a new PACE High School, with input from staff, students, and community members being actively sought. Additionally, Tavis Peterson, Assistant Superintendent, presented on the district's safety procedures, engaging the board in discussions about physical, emotional, and behavioral safety measures.
+
+The board reviewed several policies, including Policy No. 2410 regarding high school graduation requirements and Revised Procedure No. 3211P on Gender-Inclusive Schools. They also conducted a first reading of Revised Policy No. 4040 and Procedure No. 4040P concerning Public Access to District Records, which will be addressed in the next meeting. The meeting concluded with a discussion on cellphone use in schools, prompted by a publication from WSSDA, indicating the board's interest in reviewing current policies on this matter.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-09-25-septregularmeeting-minutes.txt)
 
-## 2024-09-25 - COLVILLE_SCHOOL_DISTRICT (Minutes)
-
-The Colville School District Board of Directors held a regular meeting on September 25, 2024, where several policies were proposed for first reading. Among these were Policy 2410, which outlines High School Graduation Requirements, and Policy 3246, which addresses Restraint, Isolation, and Other Uses of Reasonable Force, both of which were approved for first reading unanimously. The meeting also featured a presentation by students from the Fish Hatchery program, highlighting their involvement in the Sherman Creek Fish Hatchery’s annual Water Festival, which emphasizes community engagement and experiential learning.
-
-Additionally, the report included updates on various educational programs, including the Developmental Preschool program, which provides early intervention support for children with significant developmental delays. The emphasis on safety was noted, particularly regarding a recent evacuation drill conducted at Colville Junior High School. The meeting concluded with the approval of the consent agenda, which included financial reports and personnel changes, indicating ongoing efforts to ensure effective management and support for special education needs within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-09-25-septemberregularboardmeeting-minutes.txt)
-
 ## 2024-09-24 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the school board held on September 24, 2024, included significant discussions regarding policy changes and school safety initiatives. Notably, the board decided to move the agenda item concerning the Interlocal Agreement between the Ferndale School District and the City of Ferndale, which establishes a District Resource Officer Program, to the October meeting for further discussion due to concerns about the agreement being signed prior to board review. Additionally, the board adopted the Monitoring Report for Results 6 (R-6) Career Readiness and Results 2.4 (R 2.4) Technology, both of which met expectations, while also planning to discuss changes to the indicators during their upcoming retreat. Community engagement was emphasized through presentations from student representatives, who shared positive feedback about the new cell phone policy and its impact on school culture, highlighting a sense of connection and welcome among students.
+The regular meeting of the school board held on September 24, 2024, addressed several key topics, including the adoption of various policies and resolutions. Notably, the board discussed the Interlocal Agreement with the City of Ferndale to establish a District Resource Officer Program, which was moved for further discussion to the next meeting due to concerns regarding the agreement being signed before board review. The board confirmed the date for their annual retreat on October 3rd, focusing on monitoring report indicators and discussed the success of the new cell phone policy, which has reportedly enhanced the school environment's connectivity and welcoming nature. 
+
+Additionally, the board adopted Monitoring Reports for Results 6 (R-6) Career Readiness and Results 2.4 (R 2.4) Technology, both meeting expectations, with plans to shift the technology report to the CTE report during the retreat. The meeting also included public comments and updates on legislative matters, emphasizing a commitment to transparency and community engagement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-09-24-minutes.txt)
 
@@ -352,38 +200,40 @@ The regular meeting of the school board held on September 24, 2024, included sig
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Peggy Uppiano](board_member_321.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
-| [Antonio Machado](board_member_324.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Antonio Machado](board_member_324.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Antonio Machado](board_member_324.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Antonio Machado](board_member_324.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
-| [Steve Childs](board_member_322.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Steve Childs](board_member_322.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Steve Childs](board_member_322.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Steve Childs](board_member_322.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
-| [Nancy Button](board_member_323.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
-| [Nancy Button](board_member_323.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
-| [Nancy Button](board_member_323.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
-| [Nancy Button](board_member_323.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
-
-## 2024-09-23 - ONALASKA_SCHOOL_DISTRICT (Minutes)
-
-The Onalaska School Board meeting held on September 23, 2024, included the swearing in of a new student board representative and recognized community members Brenda Elliott and Pam Kinsman for their support of the schools. Superintendent Brenda Padgett reported that initial OSPI diagnostic assessments indicate students are meeting expected benchmarks, and the school year has started smoothly with manageable traffic around the school. The meeting highlighted the importance of social-emotional learning (SEL), particularly in elementary grades, with programs like "What Would Kelso Do?" being implemented to help students self-regulate their behavior. Challenges in special education were acknowledged, with efforts being made to improve the situation following a productive meeting. Additionally, the board approved various consent agenda items, including the adoption of policies related to high school graduation requirements and updates to the high school handbook. Notably, policy 3211P regarding Gender Inclusive Schools was tabled until further information is available.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-09-23-minutes.txt)
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| [Steve Childs](board_member_329.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Steve Childs](board_member_329.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Steve Childs](board_member_329.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Steve Childs](board_member_329.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| [Nancy Button](board_member_330.md) | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| [Nancy Button](board_member_330.md) | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| [Nancy Button](board_member_330.md) | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| [Nancy Button](board_member_330.md) | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
 
 ## 2024-09-23 - KALAMA_SCHOOL_DISTRICT (Minutes)
 
-The Kalama School District No. 402 Board Meeting on September 23, 2024, included a review of several policy changes and updates. Notably, the board approved updates to Policy 3432 regarding emergencies, Policy 4130 concerning Title I Parent and Family Engagement, and Policy 5011 which addresses sex discrimination and harassment of district staff. Additionally, the board renamed the Student Safety Advisory Committee to the Committee for the Safety and Dignity of our Students, reflecting a focus on both safety and inclusivity. The meeting also recognized significant grants aimed at enhancing school resources, including a $660,000 Solar Grant and a $30,000 Cybersecurity Grant, emphasizing the district's commitment to improving school safety and educational facilities. Community engagement was highlighted through public comments, and the recognition of local officials, including Police Chief Ralph Herrera, underscored the collaborative efforts between the school district and the community.
+The Kalama School District No. 402 Board Meeting held on September 23, 2024, included key discussions and actions regarding various policies and recognitions. Notably, the board approved updates to several policies, including Policy 3432 on Emergencies, Policy 4130 on Title I Parent and Family Engagement, Policy 5011 addressing Sex Discrimination and Harassment of District Staff, Policy 6220 on Bid or Request for Proposal Requirements, and Policy 2410 regarding High School Graduation Requirements. Additionally, the board established the "Committee for the Safety and Dignity of our Students," reflecting a focus on enhancing school safety and student welfare. 
+
+The meeting also featured a report on the Natural Resources Learning Facility, emphasizing educational technology advancements. Recognitions included the September Student of the Month award to Shade Garrido and the Kalama School District Family Award presented to Police Chief Ralph Herrera. The board discussed the importance of community engagement, as highlighted by public comments from several patrons, and addressed special education support through a proposal for better funding and resources.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/kalama_school_district/2024/2024-09-23-minutes.txt)
 
+## 2024-09-23 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+
+The Onalaska School Board meeting held on September 23, 2024, included various significant discussions and actions. The board recognized community members Brenda Elliott and Pam Kinsman for their contributions to the schools. Superintendent Brenda Padgett reported on initial OSPI diagnostic assessments indicating that students are meeting expected benchmarks, and highlighted a focus on social-emotional learning (SEL) in elementary grades, where Heather Jacoby is teaching self-regulation strategies through the "What Would Kelso Do?" program. Additionally, the board addressed challenges within the special education cooperative, noting the efforts of staff member Kerri in making progress despite ongoing frustrations. The meeting concluded with a financial report indicating a positive general fund balance and higher-than-expected student enrollment, which will benefit financial planning for the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-09-23-minutes.txt)
+
 ## 2024-09-19 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
-The September 19, 2024 Regular Business Meeting of the Board of Directors included discussions on school safety, highlighted by a study session focused on this topic. The meeting commenced with standard opening items and the approval of the agenda, followed by a superintendent update which included a presentation of the PSESD High School Accreditation Plaque and matters of operational excellence. Under board business, several motions were passed unanimously, including the approval of the 2024-2025 Disciplinary Appeal Council (DAC) Appointments, a change order for Newport High School, and Resolution 2024-16, which involved the final acceptance of the Puesta del Sol Project. These actions reflect ongoing efforts to maintain operational efficiency and uphold safety standards within the district.
+The September 19, 2024 Regular Business Meeting of the Board of Directors included several key agenda items related to school safety and policy changes. The meeting commenced with a presentation of the PSESD High School Accreditation Plaque and continued with discussions on operational excellence. Notably, the Board approved the 2024-2025 Disciplinary Appeal Council (DAC) appointments, which are critical for overseeing disciplinary actions within the district. Additionally, the Board approved a change order for Newport High School and the final acceptance of the Puesta del Sol Project through Resolution 2024-16, indicating completion and adherence to project standards. The meeting concluded with a study session focused on school board safety, highlighting the ongoing commitment to enhancing safety measures within the school district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-09-19-minutes.txt)
 
@@ -391,57 +241,63 @@ The September 19, 2024 Regular Business Meeting of the Board of Directors includ
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Carolyn Watson](board_member_109.md) | voted yes on motion to approve the 2024-2025 DAC Appointments | Motion 2024-0919-03 was moved by President Watson and approved by unanimous voice vote. |
-| [Phil Bloch](board_member_108.md) | voted yes on motion to approve the Newport High School Change Order | Motion 2024-0919-04 was moved by Director Bloch and approved by unanimous voice vote. |
-| [Carolyn Watson](board_member_109.md) | voted yes on motion to approve Resolution 2024-16: Final Acceptance of the Puesta del Sol Project | Motion 2024-0919-05 was moved by President Watson and approved by unanimous voice vote. |
+| [Carolyn Watson](board_member_116.md) | voted yes on motion to approve the 2024-2025 DAC Appointments | Motion 2024-0919-03 was moved by President Watson and approved by unanimous voice vote. |
+| [Phil Bloch](board_member_115.md) | voted yes on motion to approve the Newport High School Change Order | Motion 2024-0919-04 was moved by Director Bloch and approved by unanimous voice vote. |
+| [Carolyn Watson](board_member_116.md) | voted yes on motion to approve Resolution 2024-16: Final Acceptance of the Puesta del Sol Project | Motion 2024-0919-05 was moved by President Watson and approved by unanimous voice vote. |
+
+## 2024-09-19 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held their regular meeting on September 19, 2024, where they discussed various topics including significant policy changes. Assistant Superintendent Iva Scott presented Policy 3241 regarding Student Discipline, which aligns with OSPI’s emergency rules that introduced terms such as "discretionary discipline" and "nondiscretionary discipline," and removed the requirement for "other forms of discipline" before classroom exclusions. Concerns were raised regarding the impact of these changes on student behavior and academic performance. The board also approved the 2024-27 Bremerton Education Association Cooperative Working Agreement, which includes provisions for professional development and incentives for hiring and retaining special education and dual language teachers. 
+
+Additionally, the board addressed community concerns about increased field rental prices, which could affect local clubs, and discussed the importance of ensuring that costs do not become a barrier for families. The meeting included updates on the Mind Over Mobile campaign aimed at reducing cell phone usage among students, which has reportedly had a positive academic impact. Interim Superintendent Donna Colosky also presented a Cyber Security update, emphasizing the need for a structured IT security framework and the implementation of Multi-Factor Authentication to enhance school safety and reduce risks associated with technology use.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-19-minutes.txt)
 
 ## 2024-09-19 - TOLEDO_SCHOOL_DISTRICT (Minutes)
 
-The Toledo School District Board of Directors held a regular meeting on September 19, 2024, where several key issues were discussed, particularly regarding school safety following a recent threat. Community member Teddy Holmes raised concerns about the delay in communication regarding the incident, prompting Mr. Bailey to clarify that notifications were sent out promptly. The board expressed its commitment to effective communication with families, considering options such as robocalls. Additionally, the board recognized significant donations from the PTO and Cheese Day Committee for playground improvements and accessibility features, amounting to $49,000. 
+The Toledo School District Board of Directors held their regular meeting on September 19, 2024, addressing several key issues including school safety and community engagement. A concern was raised by Teddy Holmes regarding the delay in communication about a recent school threat, to which Mr. Bailey responded that notifications were sent out promptly via multiple platforms. The board also presented certificates of appreciation for significant donations toward school projects, emphasizing community support, with approximately $300,000 raised for Toledo Elementary School (TES) outside of taxpayer dollars. 
 
-Policy updates included a report on compliance with various educational programs, such as the Highly Capable Programs, where the board is awaiting the state’s SmartSheet to proceed. The board also reviewed the use of reasonable force policy, confirming no staff are authorized to use chemical restraints and that training on de-escalation strategies is provided. A motion was passed to reschedule the November meeting due to a scheduling conflict with the WSSDA Annual Conference. Furthermore, the board discussed the ongoing need for special education support and approved several interdistrict agreements related to educational services.
+In terms of policy, the board reviewed various agreements, including the approval of Agreement 2024-25-08 with the Lewis County Special Education Cooperative for special education services, and Contract 2024-25-12 with Sodexo for food services. The superintendent reported on compliance with several program requirements, including the Highly Capable Programs and the use of reasonable force policy, noting that no staff members are trained to use chemical or mechanical restraints. The meeting concluded with a motion to reschedule the November meeting due to a conflict with the WSSDA Annual Conference.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/toledo_school_district/2024/2024-09-19-regularmeetingfinal-minutes.txt)
 
-## 2024-09-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on September 12, 2024, where various community members raised concerns about diversity and inclusion within the district. Yeye Ugas emphasized the need for data on the implementation of the Since Time Immemorial curriculum and better tracking of bias incidents, while Marni Saling Mayer expressed worries regarding Title IX compliance. The board approved several policy updates, including Policy 2410 on High School Graduation Requirements and Policy 3205, which prohibits sex discrimination and harassment of students. Mental health support was also highlighted through a contract with Northwest Educational Service District 189. Additionally, the meeting featured discussions on community engagement efforts, exemplified by the successful block party that welcomed families back to school.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-09-12-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Katie Rose](board_member_314.md) | voted yes on motion | Unanimous affirmative vote. |
-
-## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on September 11, 2024, where several policies were reviewed and approved. Notably, Procedure 2151P – Interscholastic Activities, and multiple Mastery-Based Credit policies (2402 for English Language Arts, 2403 for Math, 2404 for Science, and 2405 for Social Studies) were approved after their respective reviews, indicating a focus on enhancing academic standards and curriculum transparency. Additionally, the meeting included presentations on staffing and strategic plans, highlighting the district's commitment to community engagement and special education support, particularly through the recognition of the SLPC team at MP3. The board also discussed upcoming activities related to the NCTA Open Doors initiative and a November bond election, emphasizing long-term strategic planning.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
-
 ## 2024-09-11 - ELLENSBURG_SCHOOL_DISTRICT (Minutes)
 
-The ESD Board Study Session held on September 11, 2024, included discussions on mental health support for students, with presentations from Rhonda Schmidt, Melissa Wayman, and Tyler Douglass detailing available resources. The board also discussed a potential pilot program involving Yondr pouches to address cell phone policy, following a statement from Tosha Woods regarding a recent school shooting, which elicited strong opinions. Additionally, Superintendent Tornow provided an update on the strategic planning process, indicating the need for participant recruitment from all stakeholder groups, with meetings scheduled to start in October. The board passed a revised policy, Policy 3205, addressing sex discrimination and harassment of students, while also conducting a first reading of Policy 5011, which prohibits sex discrimination and harassment of district staff.
+The ESD Board Study Session held on September 11, 2024, included discussions on mental health support for students, with Rhonda Schmidt, Melissa Wayman, and Tyler Douglass presenting available resources. The board also discussed a potential pilot program for updating the cell phone policy using Yondr pouches, prompted by concerns over school safety, particularly in light of recent school shootings. Additionally, the board approved a revision of Policy 3205, which prohibits sex discrimination and sex-based harassment of students. The board is planning to recruit participants for a strategic planning process to involve all stakeholder groups, with meetings scheduled to begin in October.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kittitas/school_boards/ellensburg_school_district/2024/2024-09-11-minutes.txt)
 
-## 2024-09-09 - WAPATO_SCHOOL_DISTRICT (Minutes)
-
-The regular board meeting of the Wapato School District on September 9, 2024, included discussions on school safety and community engagement. Superintendent Kelly Garza reported on safety and security as high priorities, with plans for further information to be shared by Tavis Peterson at the next meeting. Additionally, the meeting featured a public comment from Vanessa Tahkeal regarding the absence of the Roots to Wings Program in Wapato Schools, prompting a discussion among board members and a commitment to revisit the topic in future meetings. The board also approved various consent action items, including personnel recommendations and the ratification of the WEA/WSD CBA Reopeners Agreement, indicating ongoing policy changes within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-09-09-minutes.txt)
-
 ## 2024-09-09 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-The Battle Ground Public Schools Board of Directors held a regular meeting on September 9, 2024, where they recognized the contributions of School Resource Officers to school safety. The board discussed various updates, including the importance of social-emotional learning (SEL) and mental health initiatives, as highlighted by multiple citizens' comments advocating for such programs. Additionally, the board approved the retirement of Policy 5521 - Teacher Assistance Program, noting that the regulation directing the program has been repealed and that current statutes do not include specific provisions for it. This change reflects a shift in policy focus. Community engagement was evident, with citizens voicing concerns on topics such as student privacy, SEL, and the importance of crossing guards and extracurricular activities.
+The Battle Ground Public Schools Board of Directors held a regular meeting on September 9, 2024, where they recognized the contributions of School Resource Officers, highlighting the importance of school safety. The board received updates from student representatives regarding their experiences in school, emphasizing community engagement and student voice. A significant policy change discussed was the retirement of Policy and Procedure 5521, which governed the Teacher Assistance Program, due to a lack of incorporation into current statutes and regulations. This reflects a shift in focus towards aligning educational support with updated legislative frameworks. Additionally, various citizens commented on topics such as mental health awareness, particularly in relation to September being Suicide Awareness Month, and the importance of social-emotional learning programs in schools.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-09-09-minutes.txt)
 
+## 2024-09-09 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The regular board meeting of the Wapato School District, held on September 9, 2024, included discussions on school safety and community engagement. Superintendent Kelly Garza emphasized the importance of safety and security, noting that Tavis Peterson would provide more information on this topic at the next meeting. The board also discussed the absence of the Roots to Wings Program in Wapato Schools, which prompted further engagement from board members, indicating a commitment to community feedback. Additionally, the board approved several consent action items, including the ratification of the (2022-2025) WEA/WSD Collective Bargaining Agreement Reopeners, reflecting ongoing policy changes within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-09-09-minutes.txt)
+
+## 2024-09-05 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a regular meeting on September 5, 2024, where several significant policies and resolutions were discussed and approved. Notably, Resolution 2024/2024-01 was passed, which allows the district to waive four school days for student-led conferences while still meeting hourly requirements. This decision underscores the district's commitment to enhancing student autonomy and engagement through direct communication with parents about their children's learning progress. Additionally, Resolution 2024/2025-02 was adopted, proclaiming September as Attendance Awareness Month, emphasizing the importance of student attendance in academic performance. 
+
+The meeting also highlighted community engagement efforts, including updates from Interim Superintendent Donna Dearin-Colosky on the Mountain View Middle School Athletics Complex and recognition of Crownhill and Armin Jahr Elementary for their achievements in the Washington School Recognition Program. The board's discussions reflected a focus on school safety and academic standards, with ongoing projects like the 2024 Capital Bond Program aimed at improving facilities and resources for students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-05-minutes.txt)
+
+## 2024-09-05 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a regular meeting on September 5, 2024, where several key updates and resolutions were discussed. Interim Superintendent Donna Colosky provided a report highlighting the successful start of the school year and the recognition of Crownhill and Armin Jahr Elementary Schools for their academic achievements. The board approved several policies, including Policy 2410 on High School Requirements and Policy 2170 on Career and Technical Education, as part of the Consent Agenda. Additionally, Resolution 2024/2024-01 was passed, allowing the district to waive four days from the required 180-day school calendar for student-led conferences, while still meeting hourly requirements. The board also proclaimed September as Attendance Awareness Month through Resolution 2024/2025-02, emphasizing the importance of student attendance for academic performance. The meeting underscored the district's commitment to academic standards and community engagement, particularly in relation to the new Mountain View Middle School Athletics Complex and ongoing bond projects.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-05-septboard-minutes.txt)
+
 ## 2024-09-05 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting on September 5, 2024, included discussions on various policies and community concerns. A community member raised issues regarding the recent bond failure, emphasizing the need for enhanced safety and security on campuses, including funding for security officers. In terms of policy, several were moved to second readings, including Policy 2125 on Sexual Health Education and Policy 3211/P on Gender Inclusive Schools. Additionally, the board approved a letter to local legislators addressing transgender athlete participation, which included a contentious amendment to strike the bullet point on 'Education and Awareness.' This letter reflects the board's interest in advocating for changes in sports policies for transgender athletes, highlighting ongoing community engagement on LGBTQ issues.
+The Lynden School District Board meeting on September 5, 2024, included discussions on various policies and community concerns. A significant topic was the board's response to the participation of transgender athletes in sports, leading to the approval of a letter to local legislators advocating for change in girls' sports regarding the inclusion of transgender athletes assigned male at birth. Notably, the board voted to remove a bullet point on 'Education and Awareness' from the letter, indicating a contentious debate on this issue, with Directors Hickman and Martinez opposing the final motion. 
+
+Additionally, a community member raised concerns about school safety following the failure of a bond measure, emphasizing the need for security officers on all campuses. This highlighted a broader concern about school safety and funding priorities. The board also moved several policies to a second reading, including Policy 2125 on Sexual Health Education and Policy 3211/P on Gender Inclusive Schools, reflecting ongoing policy changes aimed at inclusivity and addressing community feedback.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-09-05-minutes.txt)
 
@@ -449,85 +305,80 @@ The Lynden School District Board meeting on September 5, 2024, included discussi
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Tonya Hickman](board_member_326.md) | Voted yes on the motion to adjourn the meeting | Director Hickman motioned to adjourn the meeting at 9:15pm. |
-| [Ken Owsley](board_member_327.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
+| [Tonya Hickman](board_member_333.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_333.md) | Voted yes on the motion to adjourn the meeting | Director Hickman motioned to adjourn the meeting at 9:15pm. |
+| [Ken Owsley](board_member_334.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
 Board V...[truncated, use api for full text] |
-| [Ken Owsley](board_member_327.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
-| [Ken Owsley](board_member_327.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Khush Brar](board_member_328.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
+| [Ken Owsley](board_member_334.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
+| [Ken Owsley](board_member_334.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by Directors Brar. Motion carried b...[truncated, use api for full text] |
+| [Khush Brar](board_member_335.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
 Board V...[truncated, use api for full text] |
-| [Khush Brar](board_member_328.md) | Voted yes on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
-| [Khush Brar](board_member_328.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
+| [Khush Brar](board_member_335.md) | Voted yes on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
+| [Khush Brar](board_member_335.md) | Voted yes on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
 Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Jim Verburg](board_member_329.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
+| [Jim Verburg](board_member_336.md) | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
 Board V...[truncated, use api for full text] |
-| [Jim Verburg](board_member_329.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
-| [Danny Martinez](board_member_330.md) | Voted no on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
+| [Jim Verburg](board_member_336.md) | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
+| [Danny Martinez](board_member_337.md) | Voted no on the motion to approve the amended letter to legislators regarding transgender athlete participation | Director Martinez motioned to approve the letter to legislators as amended. Seconded by
 Directors Brar. Motion carried b...[truncated, use api for full text] |
-| [Danny Martinez](board_member_330.md) | Voted no on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators ...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
-
-## 2024-09-05 - BREMERTON_SCHOOL_DISTRICT (Minutes)
-
-The Bremerton School District Board of Directors held a regular meeting on September 5, 2024, where several significant updates and resolutions were discussed. Interim Superintendent Donna Dearin-Colosky presented the Superintendent's Report, highlighting the Summer Institute and the first day of school, as well as recognizing Crownhill Elementary and Armin Jahr Elementary for their achievements in the Washington School Recognition Program. The board approved several policies, including Policy 2410 concerning High School Requirements and Policy 2170 regarding Career and Technical Education. A notable resolution passed was Resolution 2024/2024-01, which allows the district to waive four days of the 180-day school calendar for conferences while still meeting hourly requirements, reflecting a commitment to student-led conferences.
-
-Additionally, the board proclaimed September as Attendance Awareness Month through Resolution 2024/2025-02, emphasizing the importance of student attendance in academic performance. The meeting also included a report on the 2024 Capital Bond Program, where updates on the selection process for design teams for new elementary schools were provided. There was no public input at this meeting, but the board reflected on various topics, including the importance of community engagement and the impact of new facilities on student experiences.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-05-minutes.txt)
-
-## 2024-09-05 - BREMERTON_SCHOOL_DISTRICT (Minutes)
-
-The Bremerton School District Board of Directors held a regular meeting on September 5, 2024, where they discussed various policies and resolutions, including the approval of the Consent Agenda, which encompassed multiple policies such as Policy 2410 on High School Requirements and Policy 2170 on Career and Technical Education. A significant resolution passed was Resolution 2024/2024-01, which sought a waiver of four days from the mandated 180-day school calendar to facilitate student-led conferences, reflecting a commitment to student autonomy and engagement. Additionally, Resolution 2024/2025-02 proclaimed September as Attendance Awareness Month, emphasizing the importance of student attendance for academic success. The meeting also highlighted updates on the Mountain View Middle School Athletics Complex and recognized the academic achievements of Crownhill and Armin Jahr Elementary Schools. Administrators presented reports on ongoing projects, including the selection of design teams for upcoming elementary school developments, indicating a focus on long-term strategic planning and community engagement in educational improvements.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-09-05-septboard-minutes.txt)
+| [Danny Martinez](board_member_337.md) | Voted no on the motion to strike the third bullet point titled ‘Education and Awareness’ from the letter to legislators ...[truncated, use api for full text] | Director Owsley made a motion to strike the third bullet point titled ‘Education and Awareness’. Seconded by Director Br...[truncated, use api for full text] |
 
 ## 2024-08-29 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The Bainbridge Island School District No. 303 held a regular school board meeting on August 29, 2024, where several key actions were taken. The board unanimously approved the 2024-2025 Final Budget through Resolution 08-23-24, which outlines the district's financial plan for the upcoming academic year. Additionally, the board renewed the Interlocal Agreement with the South Kitsap School District, which facilitates collaboration between the two districts. A second reading of Policy 3520, concerning Student Fees, Fines, and Charges, was also approved unanimously, indicating a potential adjustment in how the district manages fees associated with student services. The meeting included reports on safety, capital projects, technology, and finance, highlighting ongoing efforts to ensure school safety and effective resource management.
+The Bainbridge Island School District No. 303 held a regular school board meeting on August 29, 2024, where key actions included the adoption of the 2024-2025 Final Budget through Resolution 08-23-24, which was unanimously approved. The board also renewed the Interlocal Agreement with the South Kitsap School District, indicating ongoing collaboration between districts. Additionally, the board conducted a second reading and approved Policy 3520 regarding Student Fees, Fines, and Charges, although specific changes to the policy language were not detailed in the minutes. Reports were provided on various aspects of district operations, including capital projects and technology, highlighting a focus on educational technology and school safety. No public comments were recorded during the meeting, suggesting a lack of community engagement on this occasion.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-08-29-draft-minutes.txt)
 
+## 2024-08-29 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Bainbridge Island School District No. 303 held a regular school board meeting on August 29, 2024, where significant actions included the adoption of the 2024-2025 Final Budget through Resolution 08-23-24. The board unanimously approved this resolution, indicating a commitment to the district's financial planning for the upcoming school year. Additionally, the board renewed an Interlocal Agreement with the South Kitsap School District, which likely aims to enhance cooperative educational efforts and resource sharing between the districts. The meeting also featured reports on capital projects, technology, and finance, reflecting ongoing discussions about school safety and the integration of educational technology into the district's operations. Notably, there was no public comment during the meeting, which may suggest a lack of community engagement or interest in the proceedings.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-08-29-minutes.txt)
+
 ## 2024-08-27 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
-The School Board Regular Business Meeting held on August 27, 2024, included discussions on school safety, particularly regarding the reinstatement of school resource officers, as advocated by community members Jason Moore and Catherine Ward. They expressed concerns about student safety in restrooms and urged the board to reconsider the presence of resource officers. The board also approved an agreement with the Northwest School for Deaf and Hard-of-Hearing Children for special education services, highlighting their commitment to support diverse learning needs. Additionally, the board adopted the 2024-2029 Capital Facilities Plan, which includes resolutions for the replacement of College Place Elementary and Middle Schools, ensuring that attendance policies will not create or aggravate racial imbalance. The meeting also featured public comments emphasizing community engagement and the importance of addressing inequalities in educational opportunities.
+The School Board Regular Business Meeting held on August 27, 2024, included discussions on various topics affecting the district, highlighting community engagement and safety concerns. Public comments from community members Jason Moore and Catherine Ward emphasized the need to reinstate school resource officers due to safety concerns for students. The board also addressed the renewal of the district's agreement with i-Ready, a technology contract that has faced scrutiny regarding its effectiveness and cost, leading to a decision to continue the program for another year while evaluating its impact on academic performance. Additionally, the board approved several resolutions related to special education support, including an agreement with the Northwest School for Deaf and Hard-of-Hearing Children, and the adoption of the 2024-2029 Capital Facilities Plan, which outlines future infrastructure needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-08-27-minutes.txt)
 
-## 2024-08-26 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
+## 2024-08-27 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The Arlington Public Schools Board of Directors held a regular meeting on August 26, 2024, where several key items were discussed and approved. Notably, the Board adopted revisions to Board Policy 2090 Program Evaluation and Board Policy 5411 Staff Vacations, with both revisions receiving support from student advisors Nathan Nichols and Deja Reed. Superintendent Sweeting reported on the District's compliance with program requirements outlined in Policy 2106 and provided highlights on mental health initiatives and student well-being, emphasizing the importance of addressing anxiety and the impact of vaping among students. The meeting also included discussions on the upcoming professional development for staff, focusing on culturally responsive practices and fostering a sense of belonging, which aligns with the district's goals for mental health and student health.
+The Regular Board Meeting held on August 27, 2024, included the adoption of several important resolutions and policies. Notably, the board approved Resolution 2822, which pertains to the 24/25 Budget, and both the 24/25 PSE and EVEA Contracts, indicating a commitment to financial planning and employee agreements for the upcoming school year. Additionally, there was a first reading of revisions to Board Policy 5011, addressing sex discrimination and sex-based harassment of district staff, reflecting the board's focus on maintaining a safe and equitable environment within schools. The meeting also featured updates on school construction, specifically the roof work at Trentwood Elementary and the leasing interest from ParaSport for Mountain View Middle School, which ties into broader school safety and facility management discussions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-08-26-minutes.txt)
-
-## 2024-08-25 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors convened a special meeting on August 25, 2024, at various school locations for a Community Serve Day. The meeting, which began at 9:00 AM and adjourned at 1:00 PM, included attendance from Board members Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast, who serves as President. The primary focus of the meeting was the Board's participation in community service activities, reflecting an emphasis on community engagement within the district. No specific policy changes or resolutions were discussed during this meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-25-minutes.txt)
-
-## 2024-08-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The Regular School Board Meeting held on August 22, 2024, included a discussion on various topics pertinent to school operations and community engagement. Notably, an email from a parent raised concerns regarding early release Wednesdays, highlighting the importance of parental feedback in decision-making processes. The board approved several resolutions, including MB Resolution 23/24:23, which authorizes warrant signatures, MB Resolution 23/24:24, which allows for the investment of funds, and MB Resolution 23/24:25, which designates signatories for bank accounts. These actions reflect ongoing policy changes aimed at improving financial oversight and accountability within the district. The meeting also provided updates on community activities, such as student involvement at the Lynden Fair and the Van Zandt Summerfest, indicating an emphasis on community engagement and student participation in local events.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-08-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-08-27-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:23 Authorization of Warrant Signature | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:23 Authorization of Warrant Signature, Ms. Danielle Gray ...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:23 Authorization of Warrant Signature | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:23 Authorization of Warrant Signature, Ms. Danielle Gray ...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:24 Authorization to Invest Funds | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:24 Authorization to Invest Fund, Ms. Danielle Gray second...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:24 Authorization to Invest Funds | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:24 Authorization to Invest Fund, Ms. Danielle Gray second...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:25 Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:25 Signatories for Bank Accounts, Ms. Danielle Gray secon...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:25 Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:25 Signatories for Bank Accounts, Ms. Danielle Gray secon...[truncated, use api for full text] |
+| [Mike Bly](board_member_285.md) | voted yes on consent agenda items | Motion by Theresa Noack, second by Laura Gates. |
+| [Justin Voelker](board_member_283.md) | voted yes on consent agenda items | Motion by Theresa Noack, second by Laura Gates. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on consent agenda items | Motion by Theresa Noack, second by Laura Gates. |
+| [Mike Bly](board_member_285.md) | voted yes on donation from Ironman Foundation | Approved a donation of $1,050 from the Ironman Foundation for Boys Cross Country at EVHS. |
+| [Justin Voelker](board_member_283.md) | voted yes on donation from Ironman Foundation | Approved a donation of $1,050 from the Ironman Foundation for Boys Cross Country at EVHS. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on donation from Ironman Foundation | Approved a donation of $1,050 from the Ironman Foundation for Boys Cross Country at EVHS. |
+| [Mike Bly](board_member_285.md) | voted yes on swimming and diving co-op agreement | Approved the Cheney Co-Op Agreement for swimming and diving. |
+| [Justin Voelker](board_member_283.md) | voted yes on swimming and diving co-op agreement | Approved the Cheney Co-Op Agreement for swimming and diving. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on swimming and diving co-op agreement | Approved the Cheney Co-Op Agreement for swimming and diving. |
+| [Mike Bly](board_member_285.md) | voted yes on 24/25 budget adoption | Approved Resolution 2822 - 24/25 Budget. |
+| [Justin Voelker](board_member_283.md) | voted yes on 24/25 budget adoption | Approved Resolution 2822 - 24/25 Budget. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on 24/25 budget adoption | Approved Resolution 2822 - 24/25 Budget. |
+| [Mike Bly](board_member_285.md) | voted yes on 24/25 PSE contract | Approved the 24/25 PSE Contract. |
+| [Justin Voelker](board_member_283.md) | voted yes on 24/25 PSE contract | Approved the 24/25 PSE Contract. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on 24/25 PSE contract | Approved the 24/25 PSE Contract. |
+| [Mike Bly](board_member_285.md) | voted yes on 24/25 EVEA contract | Approved the 24/25 EVEA Contract. |
+| [Justin Voelker](board_member_283.md) | voted yes on 24/25 EVEA contract | Approved the 24/25 EVEA Contract. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on 24/25 EVEA contract | Approved the 24/25 EVEA Contract. |
+
+## 2024-08-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
+
+The Blaine School District No. 503 Regular Board Meeting held on August 26, 2024, included discussions on various policy changes and community concerns. Director Galbraith raised issues regarding the NWESD UDL contract, emphasizing its role in meeting state professional learning requirements. The board unanimously approved several resolutions, including Resolution 2324-14 for the adoption of the 2024-2025 budget, and policies related to bullying prevention and student health. Additionally, Superintendent Dr. Granger highlighted the importance of addressing bullying and student discipline through community engagement initiatives, including the recent Supper with the Superintendent event, which focused on these significant concerns. The board also discussed the installation of vape detectors in schools to enhance safety, though concerns about privacy were noted.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-08-26-minutes.txt)
 
 ## 2024-08-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a regular meeting on August 15, 2024, which included a public hearing on the adoption of the 2024-25 budget. During the meeting, Mr. Benjamin acknowledged the ancestral lands of the Lummi people and Nooksack tribe. A parent raised concerns about student safety in light of a lawsuit filed against the district. Superintendent Greg Baker discussed the impact of inflation on school funding and presented data on district revenue and expenditures, emphasizing the need for legislative changes to better fund education. The board approved several resolutions, including Resolution 22-24 for the adoption of the 2024-25 budget and Resolution 23-24 for the transfer of funds from the Capital Projects Fund to the General Fund. Additionally, the board made individual motions to address potential conflicts of interest regarding contracts with the Opportunity Council and personnel recommendations.
+The Bellingham School District Board of Directors held a regular meeting on August 15, 2024, where they addressed the adoption of the 2024-25 budget, which was impacted by inflation and rising utility and insurance costs. Superintendent Greg Baker highlighted the need for state budget changes to fully fund education. During the public hearing, community engagement was evident as Monika Reynolds, a parent, voiced concerns about student safety in light of a lawsuit against the district. The board also approved several resolutions, including Resolution 22-24 for the adoption of the 2024-25 budget and updates to various policies such as Policy 4260 regarding the use of school facilities and Policy 6000 on program planning and budget preparation. Additionally, board members discussed the importance of the Family Handbook as a resource for families and noted the upcoming All-Staff Kickoff event.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-08-15-minutes.txt)
 
@@ -535,104 +386,66 @@ The Bellingham School District Board of Directors held a regular meeting on Augu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Jenn Mason](board_member_311.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Scott Ritchey](board_member_313.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | abstained | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
-| [Douglas Benjamin](board_member_310.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
-| [Katie Rose](board_member_314.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Douglas Benjamin](board_member_317.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Jenn Mason](board_member_318.md) | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Scott Ritchey](board_member_320.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Katie Rose](board_member_321.md) | abstained | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| [Douglas Benjamin](board_member_317.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Jenn Mason](board_member_318.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_320.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Katie Rose](board_member_321.md) | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| [Jenn Mason](board_member_318.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
 
 ## 2024-08-12 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-The Battle Ground Public Schools Board of Directors held a regular meeting on August 12, 2024, where several key actions and discussions took place. Notably, the board approved the revisions to Policy 3245 regarding Students and Telecommunication Devices, although the specific changes were not detailed in the minutes. Additionally, the board approved a Memorandum of Understanding with the City of Battle Ground for the provision of school resource officers for the 2024-2025 school year, emphasizing a commitment to school safety. The meeting also included community engagement, as citizens voiced their opinions both for and against Policy 2121, highlighting differing perspectives on the policy's implications. Various committee reports and updates on upcoming community events were discussed, indicating active participation from board members and the community in school-related matters.
+The Battle Ground Public Schools Board of Directors held a regular meeting on August 12, 2024, where various updates and proposals were discussed. Notably, the board approved the revisions to Policy 3245 regarding Students and Telecommunication Devices, which may reflect changing norms around technology use in schools. Additionally, the board approved a Memorandum of Understanding with the City of Battle Ground for school resource officers for the upcoming 2024-2025 school year, emphasizing a commitment to school safety. Community engagement was highlighted through updates on events like "Stuff the Bus" and discussions surrounding Policy 2121, which saw both support and opposition from citizens, indicating active involvement from the community in school policy matters.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-08-12-minutes.txt)
 
-## 2024-08-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-08-02 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The August 8, 2024, regular school board meeting included several policy changes, notably the approval of MB Policy 6212 regarding Charge Cards and Procurement Cards, MB Policy 2022 on Electronic Resources and Internet Safety, and MB Policy 2023 focusing on Digital Citizenship and Media Literacy. Each of these policies was approved for first and final reading, indicating a streamlined decision-making process. The meeting also highlighted community engagement efforts, such as the Mount Baker district being selected for donations from the Washington State Risk Pool and the Cherry Point Refinery's Backpack Drive, aimed at supporting student health and well-being. Additionally, concerns were raised by audience member Natalie Chavez regarding the School Based Health Clinic, underscoring ongoing discussions about student health services.
+The Bremerton School District Board of Directors held a regular meeting on August 1, 2024, where several key topics were discussed, including financial reports and policy changes. Dr. Garth Steedman presented the General Fund Status, indicating that the district had spent approximately 83% of its budget, with a projected loss of $2.6 million for the 2024-25 fiscal year, largely due to the loss of ESSER funds. The board also reviewed and approved new policies, including Policy 6217 on Electronic Funds Transfers and Policy 6225 concerning the Use of Electronic Signatures, both designed to streamline financial processes in the district. Additionally, the board discussed the Bond Update, emphasizing the focus on elementary school projects and community involvement through advisory and project review committees. Concerns regarding transparency and leadership were expressed by community members during public input, highlighting the ongoing engagement between the board and the public.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-08-08-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-08-02-aug-minutes.txt)
 
-### Board Member Actions
+## 2024-08-01 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Consent Agenda | Ms. Danielle Gray moved to approve the Consent Agenda, Mr. Jason Bloodgood seconded; motion carried, 4-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 6212 Charge Cards and Procurement Cards | Ms. Danielle Gray made a motion to approve MB Policy 6212 Charge Cards and Procurement Cards for first and final reading...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2022 Electronic Resources and Internet Safety | Ms. Danielle Gray made a motion to approve MB Policy 2022 Electronic Resources and Internet Safety for first and final r...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2023 Digital Citizenship and Media Literacy | Ms. Danielle Gray made a motion to approve MB Policy 2023 Digital Citizenship and Media Literacy for first and final rea...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve Schedule of Compensation, Benefits, & Other Information between Non-Represented Classifie...[truncated, use api for full text] | Ms. Danielle Gray made a motion to approve Schedule of Compensation, Benefits, & Other Information between Non-Represent...[truncated, use api for full text] |
+The Bremerton School District Board of Directors held a regular meeting on August 1, 2024, where significant discussions included the approval of new policies regarding electronic funds transfers (Policy 6217) and the use of electronic signatures (Policy 6225). Both policies were based on WSSDA's model policies and aim to modernize the district's operations. Additionally, a revised Policy 1400 regarding meeting conduct was presented, which now mandates audio recording of meetings where final actions are taken or public testimony is accepted, reflecting a commitment to transparency. The board also addressed the current General Fund status, indicating challenges due to increased special education needs and a projected loss of $2.6 million for the 2024-25 fiscal year, largely attributed to the loss of ESSER funds. Community engagement was highlighted through public comments supporting Dr. Crawford's leadership and calls for increased transparency. A bond update was provided, focusing on prioritizing elementary school projects and aligning schedules with the City of Bremerton's Safe Schools project.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-08-01-minutes.txt)
 
 ## 2024-07-30 - YAKIMA_SCHOOL_DISTRICT (Minutes)
 
-The Yakima School District #7 held a business board meeting on July 30, 2024, where a preliminary budget for the 2024-25 school year was discussed. The budget presented by Jake Kuper indicated a $3 million deficit, prompting concerns among board members regarding its approval before the state deadline of August 31. The board plans to revisit a balanced budget at the August 20 meeting. K.C. Mitchell, Executive Director of Special Education, provided a report detailing services for 2,431 students with diverse abilities and emphasized compliance with Least Restrictive Environment (LRE) standards for the upcoming school year. The board also discussed initiatives for training teachers on behavior management and inclusive practices, highlighting a commitment to special education support. Superintendent Trevor Greene reported on safety initiatives and a partnership with the Teacher Access Foundation to enhance leadership at no cost to the district. Additionally, the board approved several items including the PSE Agreement and the purchase of diesel school buses, while there were no public comments on agenda items.
+The Yakima School District #7 held a Business Board Meeting on July 30, 2024, where a preliminary budget for the 2024-25 school year was discussed, revealing a projected deficit of $3 million. Jake Kuper, the Assistant Superintendent of Finance, indicated that a balanced budget would be presented at the next meeting on August 20. K.C. Mitchell, the Executive Director of Special Education, provided a report highlighting the district's commitment to improving special education services, particularly focusing on compliance with the Least Restrictive Environment (LRE) guidelines and enhancing inclusion in general education settings. The board emphasized initiatives for teacher training in behavior management and inclusive practices. Additionally, Superintendent Trevor Greene mentioned ongoing efforts to address funding compliance and highlighted a partnership with the Teacher Access Foundation to support leadership development at no cost to the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-07-30-minutes.txt)
 
-## 2024-07-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The regular School Board meeting held on July 25, 2024, included discussions about ongoing programs such as the extended school year and the upcoming Mount Baker Athletic & Academic Weekend at Deming Speedway. The Board approved a series of personnel actions, financial transactions, and contracts, including a consulting agreement with the Washington Center for Deaf and Hard of Hearing Youth and a contract with ESD 189 for student behavior services. Notably, the Superintendent reported on Title IX regulation changes, indicating a potential shift in policy that may affect gender equity in educational programs. The meeting concluded with the scheduling of future meetings and a Board retreat, emphasizing the Board's commitment to community engagement and transparency in decision-making processes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-25-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-
-## 2024-07-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on July 23, 2024, where several key policies were reviewed and approved. The board approved the MESP Contract for the period of September 1, 2024, through August 31, 2026, and Procedure 2161P, which covers Special Education and Related Services for Eligible Students, ensuring continued support for students with special needs. Additionally, Procedure 3246P regarding Restraint, Isolation, and Other Uses of Reasonable Force was also approved. However, the board faced a setback with Procedure 2151P on Interscholastic Activities, which failed to pass after a lengthy discussion, receiving zero votes in favor, four opposed, and one abstention. The meeting also included a first review of Grant Applicant Authorization Resolution 09-24, which will be revisited for approval at the next meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-07-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jarrod Karuza](board_member_332.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Marty Gray](board_member_334.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Steve Corwin](board_member_333.md) | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| [Jana Haugen](board_member_331.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| [Marty Gray](board_member_334.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jana Haugen](board_member_331.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Jarrod Karuza](board_member_332.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| [Marty Gray](board_member_334.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jana Haugen](board_member_331.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_332.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Michelle Simmons](board_member_335.md) | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| [Jarrod Karuza](board_member_332.md) | voted no on motion to approve Procedure 2161P - Interscholastic Activities Eligibility | Procedure 2161P outlines rules for student participation in sports and extracurricular activities |
-
 ## 2024-07-17 - ELLENSBURG_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the school board on July 17, 2024, included several key actions and discussions. The board approved multiple resignations, including those of Samantha O'Brion, Dawn Grening, and Shannon Selzler, as well as the approval of a prime candidate, Loi Lutes. Significant policy changes were made, including the approval of Policy 3520, which addresses student fees, fines, or charges, and Policy 3207, which prohibits harassment, intimidation, and bullying of students. The board discussed community engagement efforts, highlighting visits to the Ellensburg Farmers Market, where board members gathered public feedback on issues such as cell phone use in classrooms, safety concerns, and mental health support. The board is compiling a list of these community concerns for future reference.
+The regular meeting of the school board held on July 17, 2024, included several key actions and discussions. Notably, the board approved multiple resignations and a prime candidate for a position, with all motions passing unanimously. The board also made changes to Policy 3520 regarding Student Fees, Fines, or Charges, and Policy 3207, which prohibits Harassment, Intimidation, and Bullying of Students. The changes to Policy 3520 involved altering language to better reflect the roles of parents and guardians. 
+
+During the meeting, members reported on their community engagement efforts, including visits to the Ellensburg Farmers Market, where they gathered feedback on various concerns such as the use of cell phones in class, mental health supports, and academic rigor. The board is actively compiling these community concerns as part of their ongoing efforts to enhance school safety and mental health resources. Additionally, the board is preparing to discuss legislative priorities based on a handbook from the Washington State School Directors' Association (WSSDA) in an upcoming study session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kittitas/school_boards/ellensburg_school_district/2024/2024-07-17-minutes.txt)
 
 ## 2024-07-11 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The Bremerton School District Board of Directors held a regular meeting on July 11, 2024, where several key topics were discussed. A significant focus was on the implementation of the Strategic Plan for the 2024/2025 school year, with President Alyson L. Rotter emphasizing the importance of community engagement and thanking board members for their involvement. The board also approved the revised Policy 4260 regarding the Use of School Facilities, indicating ongoing policy changes aimed at improving district operations. Additionally, a report was presented on the Washington State Community Decarbonization Grant, which will fund the installation of solar panels at Bremerton High School, highlighting the district's commitment to sustainability and student involvement in environmental initiatives. The meeting also addressed the integration of social-emotional learning (SEL) into the school day, reflecting the district's approach to supporting both academic and emotional well-being for students.
+The Bremerton School District Board of Directors held a regular meeting on July 11, 2024, where various topics were discussed, including the approval of the Consent Agenda, which encompassed minutes from previous meetings and revised Policy 4260 regarding the Use of School Facilities. The board acknowledged the importance of community engagement and the Land Acknowledgement read by Director Bolton. A significant focus was placed on the implementation of social-emotional learning (SEL) within the district, highlighted by President Rotter's remarks on past initiatives and the integration of SEL into the school day. The board also discussed the successful application for the Limitless Grant aimed at enhancing postsecondary enrollment strategies, emphasizing the importance of financial aid completion for lower-income students. Additionally, the district received a Washington State Community Decarbonization Grant to install solar panels at Bremerton High School, which aligns with the district's commitment to environmental awareness and school safety.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-07-11-julymeeting-minutes.txt)
+
+## 2024-07-11 - BREMERTON_SCHOOL_DISTRICT (Minutes)
+
+The Bremerton School District Board of Directors held a regular meeting on July 11, 2024, where several key topics were discussed. Notably, the board approved a revised policy (Policy 4260) concerning the Use of School Facilities, indicating a change in language or terms, though specifics were not detailed in the minutes. The board also discussed the importance of social-emotional learning (SEL), highlighting the integration of SEL into the school day as a response to the challenges students face when they are hungry or stressed. This approach aims to support both academic and emotional needs. Additionally, the meeting featured a presentation on a Washington State Community Decarbonization Grant, which will fund the installation of solar panels at Bremerton High School, reflecting a commitment to sustainability and community engagement. The board members expressed enthusiasm for these initiatives, emphasizing their importance for student well-being and environmental awareness.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-07-11-minutes.txt)
 
 ## 2024-07-10 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 held a Special Meeting on July 10, 2024, focusing on the 2024-2025 Budget and the 2024 Capital Projects and Technology Replacement Levy. A significant aspect of the meeting was the approval of Resolution No. 1680 regarding the Capital Projects and Technology Replacement Levy, which passed with a majority vote despite one dissenting vote from Director Cook. Additionally, the board approved Resolution No. 1679, endorsing the same levy, with Director Cook abstaining from the vote. The meeting also included the appointment of Pro and Con Committees to provide perspectives on the levy, demonstrating community engagement in the decision-making process.
-
-The board addressed school safety by extending agreements with the Kent Police Department for the 2024-2025 school year, which included a School Safety Services Liaison Agreement and a School Resource Officer Agreement. This indicates a continued commitment to ensuring safety within the district's schools. The meeting concluded with a May 2024 Financial Report and was adjourned at 7:55 p.m.
+The Kent School District No. 415 held a Special Meeting on July 10, 2024, where several resolutions and policy updates were discussed and approved. Notably, Resolution No. 1680 regarding the 2024 Capital Projects and Technology Replacement Levy was passed, with Director Cook voting against it. Additionally, the board approved Resolution No. 1679 endorsing the same levy, with Director Cook abstaining from the vote. The meeting included discussions on the extension of agreements for School Safety Services and the School Resource Officer Agreement with the Kent Police Department for the upcoming school year. This reflects the district's focus on enhancing school safety and educational technology through capital projects. The meeting concluded with the approval of various consent agenda items, indicating a collaborative approach to governance among board members.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-07-10-boardspecialmeeting-minutes.txt)
 
@@ -640,77 +453,66 @@ The board addressed school safety by extending agreements with the Kent Police D
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Donald Cook](board_member_126.md) | voted no on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | Director Cook voted nay during the roll call vote for the approval of Resolution No. 1680. |
-| [Donald Cook](board_member_126.md) | abstained on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | Director Cook abstained during the roll call vote for the approval of Resolution No. 1679. |
-| [Donald Cook](board_member_126.md) | abstained on the proposed Con Committee for Resolution No. 1680 | Director Cook abstained during the roll call vote for the approval of the proposed Con Committee. |
-| [Tim Clark](board_member_125.md) | voted yes on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | Director Clark voted aye during the roll call vote for the approval of Resolution No. 1680. |
-| [Tim Clark](board_member_125.md) | voted yes on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | Director Clark voted aye during the roll call vote for the approval of Resolution No. 1679. |
-| [Tim Clark](board_member_125.md) | voted yes on the proposed Con Committee for Resolution No. 1680 | Director Clark voted aye during the roll call vote for the approval of the proposed Con Committee. |
-| [Awale Farah](board_member_124.md) | voted yes on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | Vice President Farah voted aye during the roll call vote for the approval of Resolution No. 1680. |
-| [Awale Farah](board_member_124.md) | voted yes on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | Vice President Farah voted aye during the roll call vote for the approval of Resolution No. 1679. |
-| [Awale Farah](board_member_124.md) | voted yes on the proposed Con Committee for Resolution No. 1680 | Vice President Farah voted aye during the roll call vote for the approval of the proposed Con Committee. |
-| [Meghin Margel](board_member_123.md) | voted yes on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | President Margel voted aye during the roll call vote for the approval of Resolution No. 1680. |
-| [Meghin Margel](board_member_123.md) | voted yes on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | President Margel voted aye during the roll call vote for the approval of Resolution No. 1679. |
-| [Meghin Margel](board_member_123.md) | voted yes on the proposed Con Committee for Resolution No. 1680 | President Margel voted aye during the roll call vote for the approval of the proposed Con Committee. |
+| [Donald Cook](board_member_133.md) | voted no on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | Director Cook voted nay during the roll call vote for the approval of Resolution No. 1680. |
+| [Donald Cook](board_member_133.md) | abstained on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | Director Cook abstained during the roll call vote for the approval of Resolution No. 1679. |
+| [Donald Cook](board_member_133.md) | abstained on the proposed Con Committee for Resolution No. 1680 | Director Cook abstained during the roll call vote for the approval of the proposed Con Committee. |
+| [Tim Clark](board_member_132.md) | voted yes on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | Director Clark voted aye during the roll call vote for the approval of Resolution No. 1680. |
+| [Tim Clark](board_member_132.md) | voted yes on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | Director Clark voted aye during the roll call vote for the approval of Resolution No. 1679. |
+| [Tim Clark](board_member_132.md) | voted yes on the proposed Con Committee for Resolution No. 1680 | Director Clark voted aye during the roll call vote for the approval of the proposed Con Committee. |
+| [Awale Farah](board_member_131.md) | voted yes on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | Vice President Farah voted aye during the roll call vote for the approval of Resolution No. 1680. |
+| [Awale Farah](board_member_131.md) | voted yes on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | Vice President Farah voted aye during the roll call vote for the approval of Resolution No. 1679. |
+| [Awale Farah](board_member_131.md) | voted yes on the proposed Con Committee for Resolution No. 1680 | Vice President Farah voted aye during the roll call vote for the approval of the proposed Con Committee. |
+| [Meghin Margel](board_member_130.md) | voted yes on Resolution No. 1680 – 2024 Capital Projects and Technology Replacement Levy | President Margel voted aye during the roll call vote for the approval of Resolution No. 1680. |
+| [Meghin Margel](board_member_130.md) | voted yes on Resolution No. 1679 Endorsement of 2024 Capital Projects and Technology Replacement Levy | President Margel voted aye during the roll call vote for the approval of Resolution No. 1679. |
+| [Meghin Margel](board_member_130.md) | voted yes on the proposed Con Committee for Resolution No. 1680 | President Margel voted aye during the roll call vote for the approval of the proposed Con Committee. |
+
+## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+
+The minutes from the School Board meeting held on July 9, 2020, detail several key actions and discussions relevant to the district's budget and safety measures during the COVID-19 pandemic. The board approved two resolutions: MB Resolution 19/20:17 for the 2019-2020 Budget Extension and MB Resolution 19/20:16 for the 2020-2021 Budget, both motions carried unanimously. The meeting also included a presentation by Ben Thomas, Executive Director of Finance & Operations, discussing funding sources for schools in Washington, enrollment, staffing, and the four-year outlook for the district's finances. Additionally, the board addressed COVID-19 planning updates and discussed various safety measures in light of the ongoing pandemic. The meeting emphasized community engagement with no public comments recorded during the public hearing segment regarding the budget extensions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
 
 ## 2024-07-08 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
 
-The Arlington Public Schools Board of Directors held a study session and regular meeting on July 8, 2024, addressing various topics, including school safety and community engagement. Superintendent Sweeting reported on the district's emergency response drills and readiness, in accordance with Board Policy 3432, which mandates such drills to ensure preparedness for emergency events. The board also reviewed the City of Arlington School Resource Officer (SRO) Services Interlocal Agreement for the 2024-25 school year, which has been in place since 1999. The agreement is set to begin on September 1, 2024, and end on June 30, 2025, and was approved unanimously by the board.
-
-Additionally, the board appointed Nicole Watts to the vacant position of School Board Director for Director District No. 3, with her term running until the next election in November 2025. This appointment followed interviews with four candidates, highlighting the board's commitment to community engagement and participation in school governance. The board also discussed various policy updates, including the 2024-25 Student Fee Schedule and the need for an interfund loan due to projected cash shortfalls, reflecting ongoing financial management efforts within the district.
+The Arlington Public Schools Board of Directors held a study session and regular meeting on July 8, 2024, focusing on various reports and policies relevant to school operations. Superintendent Chrys Sweeting provided updates on the Public Information Program and the annual Withdrawal Prior to Graduation report, which complies with Board Policy 3123. The Board also reviewed the Emergency Response Drills and Emergency Readiness report, highlighting the district's preparedness in line with Board Policy 3432. In new business, the Board approved the City of Arlington for School Resource Officer (SRO) Services Interlocal Agreement for the 2024-25 school year, continuing a partnership that has existed since 1999. Additionally, the Board appointed Nicole Watts as the School Board Director for Director District No. 3, filling a vacancy until the next election in November 2025.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-07-08-minutes.txt)
 
 ## 2024-06-28 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
-The special meeting of the Board of Directors, held on June 28, 2024, focused on establishing priorities for the 2024-2025 school year across various departments, including safety and security, equity, and community engagement. Tavis Peterson, the Assistant Superintendent, emphasized the importance of safety and security measures, while discussions also highlighted the need for ongoing community engagement and the promotion of racial equity within the district. Superintendent Kelly Garza presented goals aimed at enhancing student achievement and operational management, with a specific emphasis on expanding Career and Technical Education (CTE) programs. The board decided to postpone the evaluation of their governance and goal-setting until a future meeting for further review of the WSSDA Self-Assessment results. No significant policy changes were noted during the meeting, but the focus on long-term strategic planning indicates an intent to address critical areas of concern within the school district.
+The special meeting of the Board of Directors on June 28, 2024, focused on the 2024-2025 priorities, emphasizing safety and security, equity, and community engagement. Assistant Superintendent Tavis Peterson presented on safety and security measures, while discussions also included topics such as academic achievement and employee recruitment and retention. The Board reviewed the WSSDA Self-Assessment results but postponed the evaluation and goal-setting process for future meetings. Superintendent Kelly Garza outlined goals for student achievement, safety, equity, and technology, specifically noting an expansion of Career and Technical Education (CTE) initiatives. The Board also requested an update on the Superintendent Voice Matters Group, indicating a commitment to community engagement in the upcoming school year.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-28-junespecialmeeting-minutes.txt)
 
 ## 2024-06-28 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
-The special meeting of the Board of Directors, held on June 28, 2024, focused on establishing priorities for the 2024-2025 school year, with significant emphasis on safety and security, community engagement, and racial equity. Tavis Peterson, the Assistant Superintendent, presented on safety and security measures, while discussions also highlighted the importance of equity and student success. The Board reviewed the WSSDA Self-Assessment results but postponed the evaluation and goal-setting process for a future meeting. Superintendent Kelly Garza outlined goals for student achievement and operations, including a directive to expand Career and Technical Education (CTE) programs. The meeting concluded with the Board's consensus on the Superintendent's goals, reflecting a commitment to long-term strategic planning in these areas.
+The special meeting of the Board of Directors, held on June 28, 2024, focused on key priorities for the 2024-2025 school year, emphasizing safety and security, equity, and community engagement. Tavis Peterson, Assistant Superintendent, highlighted safety protocols and equity initiatives. The Board discussed various topics, including technology in education, with Maria Batarao presenting on technology and assessment strategies. Superintendent Kelly Garza proposed goals centered on student achievement and operations management, with an emphasis on expanding Career and Technical Education (CTE). The Board's consensus approved these goals, indicating a commitment to enhancing educational technology and community involvement. The meeting concluded without any closing remarks, and the Board adjourned at 3:35 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-28-minutes.txt)
 
-## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on June 26, 2024, where several key resolutions and policy reviews were addressed. The board adopted the 2024-25 Budget (Resolution 08-24) and approved the naming of the North Gym at Meridian High School as Diane Axelson Court. Additionally, the board reviewed and approved the Reduction in Force Resolution 07-24 and the MAT Furlough MOU. Significant first reviews included the MESP Contract for September 1, 2024, through August 31, 2026, and Procedure 2161P, which pertains to Special Education and Related Services for Eligible Students. The latter will be brought back for a second review and approval at the next board meeting, highlighting the district's ongoing commitment to special education support.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-
-## 2024-06-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on June 26, 2024, included key discussions and approvals related to the District's long-term strategic plans, particularly the 2024-2028 Equitable Continuous Growth Plan, which outlines the District's focus areas for the next four years. Superintendent Kelly Garza presented this plan, emphasizing the importance of community engagement in gathering input and data for its development. The Board also approved the 2023-24 Resolution No. 13, which pertains to the Capital Projects Fund Budget Extension, allowing for the inclusion of revenue from the sale of WHS bonds.
-
-Additionally, the District's recommendation to purchase handheld radio infrastructure was discussed, aimed at improving communication across schools and ensuring safety, particularly for transportation needs. This project is to be funded through ESSER resources. The meeting concluded with a positive report on the Transportation department's performance, having passed fleet inspections for two consecutive years, highlighting the District's commitment to school safety.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-26-minutes.txt)
-
 ## 2024-06-26 - COLVILLE_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the Colville School District Board of Directors on June 26, 2024, included discussions on school safety, highlighted by the implementation of the Intrado Emergency Management System, which allows local law enforcement to receive immediate notifications during emergencies. The board reviewed and unanimously passed Policy 5001, which pertains to the hiring of retired school employees, marking a policy change aimed at enhancing staffing flexibility. Community engagement was emphasized through public comments, allowing citizens to voice their opinions during meetings, with procedures established for both in-person and remote participation. Additionally, the board approved various personnel appointments and contracts for the upcoming school year, including hiring new staff for special education support and other roles, reflecting ongoing efforts to address staffing needs within the district.
+The Colville School District Board of Directors held a regular meeting on June 26, 2024, where key topics included the first reading of Policy 5001, which pertains to the hiring of retired school employees, receiving unanimous approval from the directors. The meeting also highlighted significant updates on school safety initiatives, including the implementation of the Intrado Emergency Management System and the completion of various emergency drills, demonstrating the district's commitment to school safety. Additionally, the board recognized the importance of community engagement by encouraging public comments during meetings and noted the successful promotion and activities for the 8th-grade students, which fostered community involvement. Special attention was given to new hires in special education roles, showing the district's focus on enhancing support for students with special needs.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-06-26-juneregularboardmeeting-minutes.txt)
 
+## 2024-06-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on June 26, 2024, addressed several key topics including the approval of the 2023-2024 Capital Projects Budget Extension, which was presented by Sylvia Bazan, Director of Fiscal Services. This extension accounts for revenue from the sale of WHS bonds and outlines various expenditures. The Superintendent, Kelly Garza, reported on the Equitable Continuous Growth Plan, emphasizing the district's focus areas for the next four years, and announced that summer school would begin shortly with 425 students registered. A significant recommendation was made to purchase handheld radio infrastructure to enhance communication across the district, funded by ESSER. The board engaged in discussions on these topics, reflecting community engagement and a focus on school safety through improved communication systems. Additionally, the board reviewed and approved multiple resolutions, including the 2023-24 Resolution No. 13 for the Capital Projects Fund Budget Extension and the 2024-2028 Equitable Continuous Growth Plan.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-26-juneregularmeeting-minutes.txt)
+
+## 2024-06-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
+
+The Regular Board Meeting held on June 26, 2024, included the approval of various resolutions and policies, notably the 2023-24 Resolution No. 13 for a Capital Projects Fund Budget Extension, aimed at managing financial resources effectively. The Board also discussed the recommendation to purchase handheld radio infrastructure, intended to enhance communication across the district for safety and operational efficiency, funded through ESSER. Superintendent Kelly Garza presented updates on the Equitable Continuous Growth Plan, which outlines the district’s focus areas for the next four years, emphasizing community engagement in the planning process. Additionally, a construction update was provided regarding collaboration with ASPECT Engineering and the Yakama Nation for a new well at Wapato High School, highlighting the importance of community partnerships in addressing infrastructure needs.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-06-26-minutes.txt)
+
 ## 2024-06-25 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board Meeting held on June 25, 2024, included discussions on various topics significant to the school district. Notably, Superintendent Brian Talbott reported on vandalism at Trentwood Elementary, which resulted in the closure of the playground, highlighting ongoing concerns related to school safety. Additionally, the board received updates on the Initiative for Student Wellness (ISW), which aims to improve mental health among students, as presented by Amanda Kirkpatrick, Hannah Hirshfield, and Chrystal Gaunt. The board also addressed policy changes, including the approval of the 26/27 CCS calendar and the renewal of the WIAA Membership, which underscores the district's commitment to maintaining community engagement through sports and extracurricular activities. Furthermore, the board discussed the new student handbook language from OSPI regarding harassment, intimidation, and bullying (HIB), indicating a focus on enhancing policies related to student welfare and safety.
+The Regular Board Meeting held on June 25, 2024, addressed several key issues related to school safety and student wellness. Superintendent Brian Talbott reported on vandalism at Trentwood Elementary, which resulted in the closure of the playground, highlighting ongoing concerns about school safety. Additionally, Amanda Kirkpatrick, Hannah Hirshfield, and Chrystal Gaunt presented data from the Initiative for Student Wellness (ISW) screener, which was administered to the 23/24 junior class, indicating a focus on mental health and wellness initiatives within the school community. The meeting also included discussions about community engagement, such as a neighborhood meeting planned to discuss future plans for Mountain View Middle School and its field use by Liberty Lake Little League. 
+
+The board approved various business items, including a donation from the EVHS Booster Club and the East Farms weeded book list, demonstrating an effort to enhance community involvement and support for school programs. The meeting concluded with a decision to renew the superintendent's contract, following an executive session dedicated to reviewing the performance of a public employee.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-25-minutes.txt)
 
@@ -718,22 +520,20 @@ The Regular Board Meeting held on June 25, 2024, included discussions on various
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
-| [Mike Bly](board_member_278.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
+| [Mike Bly](board_member_285.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
+| [Mike Bly](board_member_285.md) | voted yes on personnel items | Approved personnel items as presented. |
+| [Mike Bly](board_member_285.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
+| [Mike Bly](board_member_285.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
+| [Mike Bly](board_member_285.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
+| [Jonathan Horsley](board_member_284.md) | voted yes on personnel items | Approved personnel items as presented. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
+| [Jonathan Horsley](board_member_284.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
 
 ## 2024-06-24 - LA_CONNER_SCHOOL_DISTRICT (Minutes)
 
-The La Conner School Board of Directors convened for their annual retreat on June 24, 2024, to discuss several key issues. The board reviewed their strategic plan, emphasizing the importance of student engagement and the need to improve community outreach to increase student enrollment. Discussions included the necessity of establishing a fully operational emergency plan to address potential threats, such as active shooter situations or natural disasters, highlighting concerns regarding school safety. Additionally, the board discussed the revision of academic standards, particularly in math, science, and English, pending state updates expected in January. 
-
-The board also addressed the roles and responsibilities of the school board and superintendent, reiterating the importance of following the chain of command. They reviewed the WSSDA Self-Assessment Survey results, with a commitment to continuous improvement in governance. Notably, the board plans to adopt the same operating principles for the 2024-2025 school year, with no changes made. They also discussed the need for increased family engagement through community events and proposed strategies for promoting job opportunities among tribal and minority communities.
+The La Conner School Board of Directors held its annual retreat on June 24, 2024, where key discussions focused on enhancing community engagement, improving school safety protocols, and reviewing academic standards. The board emphasized the need for increased outreach to families and the community, proposing regular family potlucks and quarterly meetings to foster relationships and address issues such as bullying. In terms of safety, the board discussed the establishment of a fully operational emergency plan and ensured staff training for potential threats, including active shooter scenarios. Additionally, the board reviewed the strategic plan and decided to remove the June 2024 deadline from a goal, extending it to June 2025, and discussed the implications of the state’s upcoming revisions to academic standards in math, science, and English. The meeting included a finance update, with a public hearing scheduled for July 29 regarding the proposed 2024-2025 budget.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/skagit/school_boards/la_conner_school_district/2024/2024-06-24-minutes.txt)
 
@@ -741,26 +541,22 @@ The board also addressed the roles and responsibilities of the school board and 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Susie Deyo](board_member_254.md) | supported the agenda as presented | Director Agen moved, and Director Wilbur seconded to approve the agenda as presented. Motion carried 4-0. |
-| [Jeremy Wilbur](board_member_252.md) | supported the agenda as presented | Director Agen moved, and Director Wilbur seconded to approve the agenda as presented. Motion carried 4-0. |
-| [John Agen](board_member_251.md) | supported the agenda as presented | Director Agen moved, and Director Wilbur seconded to approve the agenda as presented. Motion carried 4-0. |
-| [Alana Quintasket](board_member_250.md) | joined the meeting after the agenda approval | Board Director Alana Quintasket was present at 12:20 pm. |
-| [Susie Deyo](board_member_254.md) | advocated for expanding family engagement | Director Quintasket advocated for expanding family engagement beyond traditional school events. |
-| [John Agen](board_member_251.md) | advocated for improving community engagement and participation | Director Agen stated we need to improve community engagement and participation and would like to hold quarterly meetings...[truncated, use api for full text] |
-| [Susie Deyo](board_member_254.md) | supported the continuation of quarterly engagement listening sessions with staff | President Deyo proposed continuing quarterly engagement listening sessions with staff. |
-| [Kim Pedroza](board_member_253.md) | supported working with Food Services Director regarding food availability | Director Pedroza will work with Food Services Director Kelly Kjarstad, OSPI, and Friday Harbor School District. |
-| [Susie Deyo](board_member_254.md) | committed to attending the WSSDA conference | President Deyo, Directors Agen, and Pedroza committed to attending the WSSDA conference. |
-| [Alana Quintasket](board_member_250.md) | committed to attending the WSSDA conference | Board Director Alan Quintasket confirmed her attendance at the WSSDA conference. |
-
-## 2024-06-24 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a Closed Executive Session on June 24, 2024, to discuss the potential transfer of a district employee, in accordance with RCW 28A.405.230. The session was initially scheduled for an hour but was extended by President Amy Cast for an additional fifteen minutes. No action was taken by the board during this meeting. The session reflects ongoing administrative considerations within the district, although specific details regarding the employee transfer were not disclosed in the minutes. The meeting was attended by various board members, including Superintendent Michael Tolley, indicating collaborative governance in addressing personnel matters.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-24-minutes.txt)
+| [Susie Deyo](board_member_261.md) | supported the agenda as presented | Director Agen moved, and Director Wilbur seconded to approve the agenda as presented. Motion carried 4-0. |
+| [Jeremy Wilbur](board_member_259.md) | supported the agenda as presented | Director Agen moved, and Director Wilbur seconded to approve the agenda as presented. Motion carried 4-0. |
+| [John Agen](board_member_258.md) | supported the agenda as presented | Director Agen moved, and Director Wilbur seconded to approve the agenda as presented. Motion carried 4-0. |
+| [Alana Quintasket](board_member_257.md) | joined the meeting after the agenda approval | Board Director Alana Quintasket was present at 12:20 pm. |
+| [Susie Deyo](board_member_261.md) | advocated for expanding family engagement | Director Quintasket advocated for expanding family engagement beyond traditional school events. |
+| [John Agen](board_member_258.md) | advocated for improving community engagement and participation | Director Agen stated we need to improve community engagement and participation and would like to hold quarterly meetings...[truncated, use api for full text] |
+| [Susie Deyo](board_member_261.md) | supported the continuation of quarterly engagement listening sessions with staff | President Deyo proposed continuing quarterly engagement listening sessions with staff. |
+| [Kim Pedroza](board_member_260.md) | supported working with Food Services Director regarding food availability | Director Pedroza will work with Food Services Director Kelly Kjarstad, OSPI, and Friday Harbor School District. |
+| [Susie Deyo](board_member_261.md) | committed to attending the WSSDA conference | President Deyo, Directors Agen, and Pedroza committed to attending the WSSDA conference. |
+| [Alana Quintasket](board_member_257.md) | committed to attending the WSSDA conference | Board Director Alan Quintasket confirmed her attendance at the WSSDA conference. |
 
 ## 2024-06-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board Meeting on June 20, 2024, included discussions and actions regarding various policies and community concerns, particularly around LGBTQ+ issues and school safety. Community members expressed opposition to transgender males participating in female sports and raised concerns about Title IX implications. The board reviewed and approved the Resolution #09-24, which advocates for fair, safe, and nondiscriminatory practices in athletics, with amendments to remove references to transgender athletes and to include the term "equality" in discussions of equity. Additionally, the board discussed the need to revise the district's Gender Inclusive Policy (3211), noting that other districts have adopted different policies, indicating a potential shift in the district's approach to inclusivity. The meeting also addressed the importance of safety protocols and the ongoing work of the Safety & Security Task Force.
+The Lynden School District Board meeting on June 20, 2024, addressed several significant topics, including the participation of transgender athletes in sports. Community members voiced their opposition to allowing biological males to compete in female sports, raising concerns about Title IX implications and the potential impact on girls' sports. In response to these concerns, the board discussed a proposed resolution (Resolution #09-24) advocating for fair, safe, and nondiscriminatory practices in athletic and extracurricular activities, which was amended to remove specific references to "including transgender athletes." Additionally, the board expressed interest in revising their Gender Inclusive Policy (3211) to align with practices observed in other districts, indicating a desire to engage with legal counsel on this matter.
+
+The board also reviewed the Alternative Learning Experience (ALE) Program and approved it for the 2024/2025 school year. Discussions included a report from the Safety & Security Task Force aimed at improving safety protocols within district facilities. The meeting concluded with members reflecting on personal milestones, including graduations, showcasing community engagement and support for educational pathways within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-20-minutes.txt)
 
@@ -768,24 +564,22 @@ The Lynden School District Board Meeting on June 20, 2024, included discussions 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
-| [Khush Brar](board_member_328.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
+| [Tonya Hickman](board_member_333.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Hickman motioned to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic...[truncated, use api for full text] |
+| [Tonya Hickman](board_member_333.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph from the...[truncated, use api for full text] | Director Hickman motioned to amend the resolution by taking out “including transgender athletes” in the 3rd paragraph fr...[truncated, use api for full text] |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve the Alternative Learning Experience (ALE) Program for 2024/2025 | Director Owsley motioned to approve the Alternative Learning Experience Program for 2024/2025. Seconded by Director Brar...[truncated, use api for full text] |
+| [Khush Brar](board_member_335.md) | voted yes on motion to amend the resolution to add the word “equality” after the word “equity” in the last paragraph of ...[truncated, use api for full text] | Director Brar motioned to amend the resolution to add the word “equality” after the word “equity” in the last paragraph ...[truncated, use api for full text] |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve the resolution as amended. | Director Martinez motioned to approve the resolution as amended. Seconded by Director Brar. Motion carried by voice vote...[truncated, use api for full text] |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve Resolution #09-24- WIAA for a Fair, Safe and Nondiscriminatory Practice in Athletic &
 Ext...[truncated, use api for full text] | Director Martinez motioned to approve Resolution #09-24- WIAA for a Fair, Safe and
 Nondiscriminatory Practice in Athleti...[truncated, use api for full text] |
 
 ## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a regular meeting on June 18, 2024, where they discussed several key topics. Superintendent Greg Baker reported on the conclusion of the 2023-24 school year and addressed a recent attack on a middle school student, emphasizing the support provided to the affected student and their family. The board also reviewed and approved multiple resolutions, including Resolution 14-24 for a State Capital Grant for a Health Center at Options High School and Resolution 15-24 delegating authority to the Washington Interscholastic Activities Association (WIAA). 
-
-The board responded to monitoring reports related to academic standards and practices (EL-6), district calendar (EL-8), and student competence (Ends 2.1, Part 2), noting commendable progress in various areas, including improved graduation rates and increased participation in dual credit and Career and Technical Education (CTE) programs. They highlighted the need for continued efforts in mental health support and school safety, especially in light of recent events. Additionally, the board recognized the importance of community engagement in developing the district calendar and ensuring it meets the diverse needs of stakeholders. No specific changes to policies were identified during the meeting, indicating a focus on maintaining current standards and practices.
+The Bellingham School District Board of Directors held a regular meeting on June 18, 2024, addressing several key topics. Superintendent Greg Baker reported on the conclusion of the 2023-24 school year, highlighting community support for a middle school student who experienced an attack, emphasizing the importance of school safety and mental health. The board discussed budget challenges for the upcoming 2024-25 school year, particularly in relation to special education and other critical areas, with a formal budget recommendation expected in August. Several resolutions were approved, including Resolution 14-24 for a State Capital Grant for a Health Center at Options High School, and updates to Policy 1400 regarding meeting conduct and order of business. The board also acknowledged the new definition of inclusion developed in alignment with academic standards, reinforcing their commitment to diversity and special education support. Additionally, the Community Transitions Educational Specifications/Design Advisory Committee held a community night to discuss future educational facilities, reflecting the board's focus on community engagement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
 
@@ -793,85 +587,32 @@ The board responded to monitoring reports related to academic standards and prac
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Scott Ritchey](board_member_313.md) | recused himself from voting on item 2.17 | Consent agenda item 2.17, Personnel Recommendations, contains a change in employment status for a family member who is a...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Scott Ritchey](board_member_313.md) | abstained from voting on consent agenda item 2.17 | Mr. Ritchey recused himself from voting on item 2.17 due to a conflict of interest. |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-
-## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 Board Meeting held on June 17, 2024, included multiple significant actions and discussions. The board approved several policies, including a minor update to Policy 2255 regarding Alternative Learning Experience Courses and the adoption of new Policy 2401 on Financial Education Mastery-Based Learning and Credit. The board also adopted new curricula, including "Mystery Science" for K-5, "OpenSciEd" for middle school science, and "The Washington Journey" for 7th Grade Washington State History. Furthermore, the board voted to approve Resolution 2324-09, which authorizes a $70,000,000 Bond Initiative to be submitted to voters for the November 5, 2024 General Election, emphasizing the need for community engagement and support for the district's initiatives. Discussions also highlighted concerns regarding Title IX requirements related to sports and the implications of OSPI's guidance on medical privacy for students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-06-17-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Steve Galbraith](board_member_319.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ryan Swinburnson](board_member_318.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-
-## 2024-06-13 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The Regular School Board Meeting held on June 13, 2024, included discussions on various policy changes, particularly regarding the approval of the MBEA and PSE Contracts, which were added to the Action Items agenda following an executive session. The board made unanimous decisions on multiple resolutions, including MB Resolution 23/24:20 concerning WIAA Membership and the Interim Superintendent's Contract. Additionally, the board received letters from community members, such as Sarah Strachila and Mike Lembo, expressing concerns about class sizes for the upcoming school year. These communications reflect ongoing community engagement and parental feedback regarding educational policies and their implications for students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-06-13-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on adding consideration of the MBEA and PSE Contracts to the Action Items agenda | Ms. Brenna Reaugh made a motion to add consideration of the MBEA and PSE Contracts to the Action Items agenda, Mr. Edwar...[truncated, use api for full text] |
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of MB Resolution 23/24:20 WIAA Membership | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:20 WIAA Membership, Mr. Edward Fox seconded; motion carri...[truncated, use api for full text] |
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the Interim Superintendent Contract | Ms. Brenna Reaugh made a motion to approve the Interim Superintendent Contract, Mr. Edward Fox seconded; motion carried,...[truncated, use api for full text] |
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the MBEA Contract | Ms. Brenna Reaugh made a motion to approve MBEA Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Russ Pfeiffer-Hoyt](board_member_336.md) | voted yes on approval of the PSE Contract | Ms. Brenna Reaugh made a motion to approve PSE Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Edward Fox](board_member_338.md) | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Edward Fox](board_member_338.md) | voted yes on adding consideration of the MBEA and PSE Contracts to the Action Items agenda | Ms. Brenna Reaugh made a motion to add consideration of the MBEA and PSE Contracts to the Action Items agenda, Mr. Edwar...[truncated, use api for full text] |
-| [Edward Fox](board_member_338.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Edward Fox](board_member_338.md) | voted yes on approval of MB Resolution 23/24:20 WIAA Membership | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:20 WIAA Membership, Mr. Edward Fox seconded; motion carri...[truncated, use api for full text] |
-| [Edward Fox](board_member_338.md) | voted yes on approval of the Interim Superintendent Contract | Ms. Brenna Reaugh made a motion to approve the Interim Superintendent Contract, Mr. Edward Fox seconded; motion carried,...[truncated, use api for full text] |
-| [Edward Fox](board_member_338.md) | voted yes on approval of the MBEA Contract | Ms. Brenna Reaugh made a motion to approve MBEA Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Edward Fox](board_member_338.md) | voted yes on approval of the PSE Contract | Ms. Brenna Reaugh made a motion to approve PSE Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
-
-## 2024-06-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special meeting on June 13, 2024, at 4:30 PM, primarily to attend the Northshore Retiree Event. Present at the meeting were board members Sandy Hayes, Jacqueline McGourty, and Amy Cast, who serves as the President, along with Superintendent Mr. Michael Tolley. The meeting concluded at 6:35 PM. There were no discussions or decisions regarding specific policies, resolutions, or organizational changes noted in the minutes. The meeting was adjourned without any controversial content or unusual actions reported. The minutes were generated by Peggy King and approved on June 24, 2024, with signatures from Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-13-minutes.txt)
-
-## 2024-06-13 - YAKIMA_SCHOOL_DISTRICT (Minutes)
-
-The Yakima School District #7 board members attended the Stanton Academy Graduation on June 13, 2024, at Davis Auditorium. Present were members Martha Rice, Ryan Beckett, and Graciela Villanueva, while Norm Walker and Raymond Navarro, Jr. were excused. It was noted that no district business was conducted during the event, indicating a focus on community engagement rather than formal board actions. The attendance of three board members suggests a commitment to supporting local events, although the absence of any policy discussions or decisions may reflect a prioritization of ceremonial participation over governance during this occasion.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-06-13-minutes.txt)
+| [Scott Ritchey](board_member_320.md) | recused himself from voting on item 2.17 | Consent agenda item 2.17, Personnel Recommendations, contains a change in employment status for a family member who is a...[truncated, use api for full text] |
+| [Jenn Mason](board_member_318.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Katie Rose](board_member_321.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Douglas Benjamin](board_member_317.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| [Jenn Mason](board_member_318.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Katie Rose](board_member_321.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Douglas Benjamin](board_member_317.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| [Scott Ritchey](board_member_320.md) | abstained from voting on consent agenda item 2.17 | Mr. Ritchey recused himself from voting on item 2.17 due to a conflict of interest. |
+| [Jenn Mason](board_member_318.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_320.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Katie Rose](board_member_321.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_317.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Jenn Mason](board_member_318.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_320.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Katie Rose](board_member_321.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_317.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| [Jenn Mason](board_member_318.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_320.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Katie Rose](board_member_321.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_317.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
 
 ## 2024-06-12 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board Meeting held on June 12, 2024, included significant recognitions such as proclamations for Pride Month and Juneteenth, highlighting the district's commitment to diversity and inclusion. Superintendent Vela presented a report addressing community concerns regarding school safety, specifically issues related to drug use in high school bathrooms. The board discussed mental health partnerships, emphasizing the importance of mental health support for students. Additionally, the board approved several resolutions including Resolution No. 1677 for Special Education Out of Endorsement Reporting and Resolution No. 1678 for Out of Endorsement Waivers, which aim to enhance support for special education. The meeting also saw a motion fail regarding the iGrad Building Upgrades Project, indicating potential challenges in project approvals. Overall, the meeting reflected ongoing efforts to address community needs and improve educational support systems.
+The Kent School District No. 415 Board of Directors convened on June 12, 2024, where several significant topics were addressed, including proclamations for Pride Month and Juneteenth, highlighting the district's commitment to diversity and inclusion. Superintendent Vela provided a report emphasizing mental health partnerships, reflecting the district's focus on student well-being. The board discussed and approved several resolutions, including Resolution No. 1677 regarding Special Education Out of Endorsement Reporting and Resolution No. 1678 concerning Out of Endorsement Waivers, aimed at supporting special education compliance. A notable discussion centered around school safety, specifically concerning drug-related issues in high school bathrooms, indicating ongoing community engagement and concern for student health. The meeting concluded with a failed motion regarding the iGrad Building Upgrades Project, showcasing the complexities of contract approvals within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-06-12-board-minutes.txt)
 
@@ -879,30 +620,30 @@ The Kent School District No. 415 Board Meeting held on June 12, 2024, included s
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Meghin Margel](board_member_123.md) | voted yes on motion to add Supplemental Personnel Report as Consent Agenda Item 8.25 | A motion was made to add a Supplemental Personnel Report as Consent Agenda Item 8.25. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Items 8.03 – 8.25 LESS Items 8.04, 8.11, 8.12, 8.13, 8.14, 8.16, 8.20, 8.2...[truncated, use api for full text] | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.01 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.02 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.04 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.11 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.12 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.13 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.14 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.16 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.20 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.23 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted yes on motion to approve Consent Agenda Item 8.24 | The motion carried. |
-| [Tim Clark](board_member_125.md) | voted no on motion to approve Item 7.01, iGrad Building Upgrades Project Bid Acceptance and Award of Contract to Westmar...[truncated, use api for full text] | The motion failed. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to add Supplemental Personnel Report as Consent Agenda Item 8.25 | A motion was made to add a Supplemental Personnel Report as Consent Agenda Item 8.25. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Items 8.03 – 8.25 LESS Items 8.04, 8.11, 8.12, 8.13, 8.14, 8.16, 8.20, 8.2...[truncated, use api for full text] | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.01 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.02 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.04 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.11 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.12 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.13 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.14 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.16 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.20 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.23 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted yes on motion to approve Consent Agenda Item 8.24 | The motion carried. |
+| [Tim Clark](board_member_132.md) | voted no on motion to approve Item 7.01, iGrad Building Upgrades Project Bid Acceptance and Award of Contract to Westmar...[truncated, use api for full text] | The motion failed. |
 
 ## 2024-06-12 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on June 12, 2024, where several key policies were reviewed and approved. Among them, Policy 4500 - Unmanned Aircraft System (Drones), Policy and Procedure 6700 - Nutrition, and Policy and Procedure 6702 - Wellness were all approved unanimously. Additionally, a first reading was conducted for Policy and Procedure 6703 - Recess and Physical Activity. The board also discussed a $75 million bond proposal to be presented to voters in November 2024, aimed at supporting various educational projects. Public comments included recognition of the MMS band director and students for their respect shown during a Veterans Day assembly. The meeting emphasized community engagement through the introduction of new student board representatives and discussions on mental health support via contracts for professionals in the upcoming school year.
+The Meridian School District #505 held a regular school board meeting on June 12, 2024, where several key policies and agreements were reviewed and approved. Notably, Policy 4500 concerning Unmanned Aircraft Systems (Drones), Policy and Procedure 6700 on Nutrition, and Policy and Procedure 6702 on Wellness were all approved unanimously. Additionally, the board discussed the 2024-25 Mental Health Professional Contract, emphasizing the district's commitment to mental health support for students. The Meridian Citizens for Education Committee recommended a $75 million bond for projects to be presented to voters in November 2024, highlighting the district's focus on community engagement and support for educational initiatives. The meeting also included updates on upcoming events such as kindergarten graduations and eighth-grade promotions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-12-juneboardmeeting-minutes.txt)
 
 ## 2024-06-12 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on June 12, 2024, where several policies were reviewed and approved. Notably, Policy 4500 regarding Unmanned Aircraft Systems (Drones), Policy and Procedure 6700 on Nutrition, and Policy and Procedure 6702 concerning Wellness were all approved unanimously. Additionally, the board reviewed Policy and Procedure 6703 on Recess and Physical Activity for the first time, indicating a focus on student health and well-being. The meeting also included discussions about a $75 million bond proposal for educational projects to be presented to voters in November 2024, emphasizing community engagement in funding local education initiatives. The board recognized the contributions of students and staff, including a commendation for the MMS band director and students for their professionalism during a Veterans Day assembly.
+The Meridian School District #505 held a regular board meeting on June 12, 2024, where various policies were reviewed and approved, including Policy 4500 on Unmanned Aircraft Systems (Drones), Policy and Procedure 6700 on Nutrition, and Policy and Procedure 6702 on Wellness, all of which received unanimous approval from the board. Additionally, the board discussed the Meridian Citizens for Education Committee's recommendation for a $75 million bond to be presented to voters in the November 2024 ballot, highlighting community engagement in educational funding. The meeting also included discussions on mental health support through the 2024-25 Mental Health Professional Contract and the introduction of new student board representatives for the upcoming school year. Further reviews of resolutions related to facility naming, general obligation bonds, and a reduction in force were scheduled for the next meeting, indicating ongoing policy changes and administrative adjustments.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-12-minutes.txt)
 
@@ -910,104 +651,31 @@ The Meridian School District #505 held a regular school board meeting on June 12
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to adopt the consent agenda |
-| [Steve Corwin](board_member_333.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to adopt the consent agenda |
-| [Michelle Simmons](board_member_335.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Steve Corwin](board_member_333.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Policy  as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Policy  as presented |
-| [Steve Corwin](board_member_333.md) | voted yes | Motion to approve Policy  as presented |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to approve Policy  as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | Motion to approve Policy  as presented |
+| [Jana Haugen](board_member_338.md) | voted yes | Motion to adopt the consent agenda |
+| [Jarrod Karuza](board_member_339.md) | voted yes | Motion to adopt the consent agenda |
+| [Steve Corwin](board_member_340.md) | voted yes | Motion to adopt the consent agenda |
+| [Marty Gray](board_member_341.md) | voted yes | Motion to adopt the consent agenda |
+| [Michelle Simmons](board_member_342.md) | voted yes | Motion to adopt the consent agenda |
+| [Jana Haugen](board_member_338.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Jarrod Karuza](board_member_339.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Steve Corwin](board_member_340.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Marty Gray](board_member_341.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Michelle Simmons](board_member_342.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
+| [Jana Haugen](board_member_338.md) | voted yes | Motion to approve Policy  as presented |
+| [Jarrod Karuza](board_member_339.md) | voted yes | Motion to approve Policy  as presented |
+| [Steve Corwin](board_member_340.md) | voted yes | Motion to approve Policy  as presented |
+| [Marty Gray](board_member_341.md) | voted yes | Motion to approve Policy  as presented |
+| [Michelle Simmons](board_member_342.md) | voted yes | Motion to approve Policy  as presented |
 
 ## 2024-06-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The meeting focused on the District 2024 Budget, presented by Mr. Deebach and Finance Director Holly Graham, emphasizing its alignment with the new Strategic Plan's Focuses and Foundations. The Focuses include Safety and Belonging, Early Learning (Birth - Grade 3), Mastery of Standards, and Future Ready initiatives, while the Foundations encompass Engaging and Effective Teaching and Learning Systems, Authentic and Meaningful Engagement with Students, Families, and Community, and Dynamic Systems for Hiring and Retention. Additionally, an executive session was held to discuss a real estate matter, indicating ongoing strategic planning and resource management efforts within the district.
+The study session held on June 11, 2024, at the Mountainview Learning Center focused on the District 2024 Budget, presented by Mr. Deebach and Finance Director Holly Graham. The budget aligns with the new Strategic Plan, emphasizing areas such as Safety and Belonging, Early Learning, Mastery of Standards, and Future Ready initiatives. The strategic foundations include effective teaching and learning systems, engagement with students and families, and resource management. An executive session was held to discuss a real estate matter, underscoring the board's commitment to operational transparency. The meeting concluded with the adjournment at 6:22 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-11-minutes.txt)
 
-## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special meeting on June 10, 2024, at North Creek High School to attend the Adults Transitioning to Independence Graduation. The meeting was called to order at 6:00 PM and adjourned at 7:00 PM. In attendance were board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, Amy Cast (President), and Mr. Michael Tolley (Superintendent). The focus of the meeting was the graduation event, which highlights the district's commitment to supporting adults transitioning to independence, a key aspect of their special education support initiatives. The minutes were generated by Peggy King and were approved on June 24, 2024, with Mr. Michael Tolley serving as the Secretary to the Board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-10-minutes.txt)
-
-## 2024-06-06 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special meeting on June 6, 2024, starting at 5:00 PM, to attend the CTE Spring Recognition event. The meeting was attended by board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The meeting concluded at 6:30 PM, and the minutes were approved on June 10, 2024, with Mr. Tolley serving as the Secretary to the Board. The focus of the meeting was on recognizing achievements within the Career and Technical Education (CTE) program, although specific discussions or recognitions were not detailed in the minutes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-06-minutes.txt)
-
-## 2024-06-05 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
-
-The Spokane Public Schools Board of Directors convened on June 5, 2024, to discuss various updates and initiatives. Notably, the Board addressed the Spokane Public Language Immersion's request for a name and mascot change, indicating a willingness to support the school community's involvement in this process. Additionally, Kristina Baker provided an update on special education support, focusing on equity through inclusion and highlighting successful practices at Jefferson Elementary. The meeting also included a discussion led by Dr. Oscar Harris about the Parent Education Model, emphasizing collaboration with community members. Furthermore, the Board agreed to publish a letter from President Lockwood addressing community concerns regarding a recent stadium decision, aiming to acknowledge and address lingering negative sentiments.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-06-05-minutes.txt)
-
-## 2024-06-03 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special joint meeting with the Bothell City Council on June 3, 2024, to discuss topics of mutual interest. The meeting was called to order at 6:00 PM and included attendance from board members, including President Amy Cast and Superintendent Michael Tolley. The session focused on enhancing community engagement between the school district and the city council, although specific topics of discussion were not detailed in the minutes. The meeting concluded with adjournment at 7:32 PM, and the minutes were approved on June 10, 2024, by Michael Tolley and Amy Cast.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-03-minutes.txt)
-
-## 2024-05-28 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on May 28, 2024, included a public comment segment where Todd Gropp expressed concerns regarding fairness in relation to transgender athletes. This topic aligns with ongoing discussions about inclusivity and equity in school sports. The board also approved revisions to Board Policy 4060 - Distribution of Information, indicating a commitment to updating policies related to information dissemination. Additionally, Tammy Campbell from The Scholar First unveiled the 2024-2030 Strategic Plan, reflecting the district's long-term strategic planning efforts aimed at improving educational outcomes and addressing community needs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-28-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-
-## 2024-05-28 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
-
-The Arlington Public Schools Board of Directors held a study session and regular meeting on May 28, 2024, where various topics were discussed, including mental health initiatives and community engagement. The Student Advisory Council presented their focus on mental health awareness, detailing workshops for fifth graders and resource accessibility for students. The Board recognized the contributions of parents and community members, highlighting their support for the district. Additionally, the meeting included the approval of Resolution 24-04, which proposed a capital levy for constructing a new Post Middle School, serving as an alternative to bond financing. The Board also acknowledged the resignation of Director Michael Kingman and honored his contributions through Resolution 24-06.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-05-28-minutes.txt)
-
-## 2024-05-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The Regular School Board Meeting held on May 23, 2024, included significant discussions and actions regarding the school calendar and health clinic agreements. Ms. Brenna Reaugh moved to approve the 24/25 School Calendar, which passed with a vote of 4-1. Additionally, a motion to approve the Health Clinic Agreement was made by Ms. Reaugh, which included language adjustments and was unanimously approved with a 5-0 vote. The meeting also covered the MB Board Resolution 23/24:19, which authorized an interfund loan and granted authority for the Superintendent to manage it, passing with a 5-0 vote. The agenda featured various updates and celebrations, including upcoming graduations and state competitions, as well as a letter from the audience regarding unspecified concerns. The meeting concluded with an executive session to discuss personnel and bargaining updates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-05-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the 24/25 School Calendar | Ms. Brenna Reaugh made a motion to approve the 24/25 School Calendar, Ms. Danielle Gray seconded; motion carried, 4-1. |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the 24/25 School Calendar | Ms. Brenna Reaugh made a motion to approve the 24/25 School Calendar, Ms. Danielle Gray seconded; motion carried, 4-1. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the Health Clinic Agreement | Ms. Brenna Reaugh made a motion to approve the Health Clinic Agreement with the language adjustment, Ms. Danielle Gray s...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Health Clinic Agreement | Ms. Brenna Reaugh made a motion to approve the Health Clinic Agreement with the language adjustment, Ms. Danielle Gray s...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Board Resolution 23/24:19 | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:19 A Resolution Authorizing an Interfund Loan and G...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Board Resolution 23/24:19 | Ms. Brenna Reaugh made a motion to approve MB Board Resolution 23/24:19 A Resolution Authorizing an Interfund Loan and G...[truncated, use api for full text] |
-
 ## 2024-05-22 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board of Directors held a meeting on May 22, 2024, where several policy changes were discussed and approved. Notably, Policy 4311 regarding Visitors was retired, indicating a shift in the district's approach to school access. The board also approved multiple policies related to school safety, including Policy 3422 on Student Sports - Concussion, Head Injury, and Sudden Cardiac Arrest, and Policy 4200 on Parent Access, Visitors, and Safe and Orderly Learning Environment. The meeting included recognition of Employees of the Year and a discussion on community engagement, as evidenced by comments from the audience about labor issues. Additionally, several infrastructure projects were approved, reflecting ongoing efforts to enhance school facilities.
+The Kent School District No. 415 Board of Directors held a meeting on May 22, 2024, where several policy changes were discussed and voted on. Notably, the board approved multiple policies related to school safety, including Policy 3422 on Student Sports - Concussion, Head Injury, and Sudden Cardiac Arrest, and Policy 4200 regarding Parent Access, Visitors, and Safe and Orderly Learning Environment. However, a motion to approve Policy 1620, which outlines the Board-Superintendent Relationship and the Superintendent's Duties, failed. The meeting also included the addition of a Supplemental Personnel Report to the consent agenda and a variety of other consent agenda items, such as the retirement of Policy 4311 on Visitors and Policy 4313 on School Resource Officers. The board's actions reflect ongoing adjustments to ensure safety and operational efficiency within the district's schools.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-05-22-board-minutes.txt)
 
@@ -1015,48 +683,36 @@ The Kent School District No. 415 Board of Directors held a meeting on May 22, 20
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.01, Uncollectible Non Tax Revenue | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.02, Central Office Boardroom Audio Video Upgrade | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted no on motion to approve Item 7.03, Policy 1620 The Board-Superintendent Relationship and The Superintendent's Duti...[truncated, use api for full text] | The motion failed. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.04, Policy 2021 Library Information and Technology Programs | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.05, Policy 3422 Student Sports - Concussion, Head Injury, and Sudden Cardiac Arres...[truncated, use api for full text] | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.06, Policy 4200 Parent Access, Visitors, and Safe and Orderly Learning Environment | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.07, Policy 4210 Regulation of Dangerous Weapons on School Premises | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.08, Policy 4311 School Safety and Security Services Program | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.09, Policy 5201 Drug-Free Schools, Community, and Workplace | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.10, Policy 6216 Reimbursement for Goods and Services: Warrants & Unclaimed or Reis...[truncated, use api for full text] | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.11, Policy 6217 Electronic Funds Transfer | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.12, Policy 6511 Staff Safety | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.13, Policy 6570 Property and Data Management | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.14, Policy 6600 Transportation | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.15, Policy 6605 Student Safety, Walking, Biking, Riding Buses, and School Patrol | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.16, Policy 6801 Capital Assets/Theft-Sensitive Assets | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Item 7.17, Policy 6895 Pesticide Notification, Posting, and Recordkeeping | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.22 LESS Items 8.19 and 8.20 | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Item 8.19 | The motion carried. |
-| [Meghin Margel](board_member_123.md) | voted yes on motion to approve Consent Agenda Item 8.20 | The motion carried. |
-
-## 2024-05-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors convened a Closed Executive Session on May 22, 2024, primarily to review the performance of a public employee, as permitted under RCW 42.30.100(g). The session lasted for two hours, concluding at 7:30 PM. The meeting was attended by several board members, including President Amy Cast and Superintendent Mr. Michael Tolley. The session's focus on employee performance indicates a potential emphasis on accountability and evaluation within the district's administrative framework. No specific policy changes or resolutions were discussed during this session, nor were any controversial topics raised that might suggest a shift in the district's operational policies.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-22-minutes.txt)
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.01, Uncollectible Non Tax Revenue | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.02, Central Office Boardroom Audio Video Upgrade | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted no on motion to approve Item 7.03, Policy 1620 The Board-Superintendent Relationship and The Superintendent's Duti...[truncated, use api for full text] | The motion failed. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.04, Policy 2021 Library Information and Technology Programs | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.05, Policy 3422 Student Sports - Concussion, Head Injury, and Sudden Cardiac Arres...[truncated, use api for full text] | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.06, Policy 4200 Parent Access, Visitors, and Safe and Orderly Learning Environment | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.07, Policy 4210 Regulation of Dangerous Weapons on School Premises | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.08, Policy 4311 School Safety and Security Services Program | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.09, Policy 5201 Drug-Free Schools, Community, and Workplace | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.10, Policy 6216 Reimbursement for Goods and Services: Warrants & Unclaimed or Reis...[truncated, use api for full text] | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.11, Policy 6217 Electronic Funds Transfer | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.12, Policy 6511 Staff Safety | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.13, Policy 6570 Property and Data Management | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.14, Policy 6600 Transportation | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.15, Policy 6605 Student Safety, Walking, Biking, Riding Buses, and School Patrol | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.16, Policy 6801 Capital Assets/Theft-Sensitive Assets | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Item 7.17, Policy 6895 Pesticide Notification, Posting, and Recordkeeping | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Consent Agenda Items 8.01 – 8.22 LESS Items 8.19 and 8.20 | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Consent Agenda Item 8.19 | The motion carried. |
+| [Meghin Margel](board_member_130.md) | voted yes on motion to approve Consent Agenda Item 8.20 | The motion carried. |
 
 ## 2024-05-22 - COLVILLE_SCHOOL_DISTRICT (Minutes)
 
-The Colville School District Board of Directors held a regular meeting on May 22, 2024, where several key actions and updates were discussed. Notably, Policy 3421, concerning Child Abuse, Neglect, and Exploitation Prevention, was approved during its second reading, reflecting the Board's commitment to enhancing student safety. Additionally, the Board passed Resolution No. 23/24-10, which delegates authority to the Washington Interscholastic Activities Association (WIAA) to oversee interschool activities. Superintendent Kevin Knight reported on significant teacher and staff shortages, highlighting 71 instances where paraeducator substitutes were unavailable, leading to canceled intervention groups. The meeting also featured community engagement through public comments and recognition of student achievements, including Colville High School students' participation in SkillsUSA and a presentation on the district's summer food program, which has already seen over 200 sign-ups.
+The Colville School Board meeting on May 22, 2024, included significant discussions on school safety and community engagement. The board approved Policy 3421, Child Abuse, Neglect, and Exploitation Prevention, during its second reading, emphasizing the importance of safeguarding students. Additionally, the board recognized the achievements of students in SkillsUSA and welding competitions, highlighting the value of community involvement in educational activities. Superintendent Kevin Knight reported on various district initiatives, including the implementation of a 24/7 crisis hotline for teens, HearMeWA, aimed at enhancing student mental health and safety. The meeting also addressed ongoing challenges in special education support, particularly regarding staffing shortages and the need for substitutes, which has affected the delivery of educational services.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-05-22-mayregularboardmeeting-minutes.txt)
 
-## 2024-05-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The school board meeting held on May 16, 2024, focused on two primary topics: harassment, intimidation, and bullying, as well as the school board budget for the upcoming year. A panel consisting of Dr. Chris Cochran, Director of Behavioral Health, and several school administrators discussed the importance of addressing bullying in schools, highlighting the need for effective prevention strategies. The discussion aimed to enhance school safety and promote mental health among students. Additionally, Holly Graham, the Finance Manager, reported on the collaborative efforts of the Directors to develop the budget for the 2024-25 school year, indicating a strategic approach to resource allocation in support of these initiatives. The meeting underscored the board's commitment to creating a safe and supportive learning environment for all students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-05-16-minutes.txt)
-
 ## 2024-05-16 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board Meeting on May 16, 2024, included discussions on school safety, particularly concerning traffic and pedestrian issues at Bernice Vossbeck Elementary, raised by a community member. The board also addressed mental health support through the approval of an Interlocal Agreement with Whatcom County for Behavioral Health Services Support for the 2024/2025 school year. Additionally, the board approved Resolution #07-24, which pertains to Surplus Personal Property. The board's actions reflect ongoing community engagement and responsiveness to safety and mental health needs within the district. Furthermore, updates on school improvement plans were presented by principals from Lynden Academy and Lynden Middle School, highlighting goals related to Universal Design for Learning (UDL) and behavioral interventions.
+The Lynden School District Board Meeting on May 16, 2024, included discussions on safety concerns raised by community members regarding traffic, buses, and pedestrians at Bernice Vossbeck Elementary. Additionally, the board approved several significant resolutions and agreements, including Resolution #07-24 regarding Surplus Personal Property and Interlocal Agreements for Behavioral Health Services and Whatcom Discovery for the 2024/2025 school year. The meeting highlighted the importance of mental health support, as indicated by the approval of the Interlocal Agreement with Whatcom County for Behavioral Health Services. The board also recognized the achievements of students in various programs, reflecting community engagement and support for educational opportunities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-16-minutes.txt)
 
@@ -1064,90 +720,73 @@ The Lynden School District Board Meeting on May 16, 2024, included discussions o
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #07-24- Surplus Personal Property | Resolution #07-24: Surplus Personal Property |
-
-## 2024-05-14 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on May 14, 2024, included several key approvals and recognitions. The board approved multiple student travel initiatives, including trips to Silverwood in Idaho and the FBLA National Competition in Orlando, Florida, demonstrating community engagement through student activities. Additionally, the board recognized The Hub as the East Valley's 2024 Community Partner for their partnership with the East Valley School District (EVSD). Significant donations were approved for educational resources, including $52,195.03 from the CCS PTSA for playground equipment, and $1,200 from Challenger Pipe and Steel LLC for library books at Trent Elementary. The meeting also featured a first reading of a revised Board Policy 4060 regarding the Distribution of Information, indicating a potential change in how information is disseminated within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the vouchers | Approved ACH Numbers 232401159 through 232401259 in the amount of $179,121.50 for payment of May bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve business items | Approved Trent student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve consent items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the vouchers | Approved ACH Numbers 232401159 through 232401259 in the amount of $179,121.50 for payment of May bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve business items | Approved Trent student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve consent items | Approved as presented. |
-
-## 2024-05-14 - PULLMAN_SCHOOL_DISTRICT (Minutes)
-
-The Lodging Tax Advisory Commission (LTAC) meeting held on May 14, 2024, in Pullman, WA, focused on various grant applications and funding allocations aimed at promoting local tourism and supporting community events. City Administrator Mike Urban provided an overview of the Lodging Tax fund, its regulations, and the relationship between LTAC and the City Council. The Commission approved several grant applications, including $49,735 for the Palouse Summer Series, $12,000 for a Promotional Video Series with Cougs First!, $8,887 for the Three Forks River and Arts Festival, and $3,000 for Promote Pullman LLC's Summertime Shop the Savor. The discussions highlighted the importance of timely applications and partnerships with local organizations to avoid duplication of efforts. The meeting concluded with a motion to adjourn at 4:03 p.m.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-05-14-ltacdraft-minutes.txt)
+| [Tonya Hickman](board_member_333.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom Discovery for 2024/2025 | Interlocal Agreement- Whatcom Discovery- 24/25 |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve Resolution #07-24- Surplus Personal Property | Resolution #07-24: Surplus Personal Property |
 
 ## 2024-05-09 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The Bainbridge Island School District No. 303 held a regular school board meeting on May 9, 2024, where several key actions and reports were discussed. The board unanimously approved the Consent Agenda, which included field trips, donations, minutes, vouchers, and personnel actions. Notably, a presentation on Long-Range Strategic Facilities Planning was provided, indicating a focus on future infrastructure needs. The board also addressed Certificated Staffing Reduction in Force (RIF) Reporting Requirements, approving a motion that confirmed no staffing reductions would occur. Additionally, Policy 1250 regarding School Board Student Members was approved for first reading, and Policy 6513 on Workplace Violence Prevention was approved for its second reading, reflecting ongoing efforts to enhance school safety. The meeting also included an update on Social, Emotional, Behavior Multi-Tiered Systems of Support (MTSS) for the 2024-25 school year, emphasizing the district's commitment to social-emotional learning initiatives.
+The Bainbridge Island School District No. 303 held a regular school board meeting on May 9, 2024, where several key actions and reports were discussed. The board approved the consent agenda, which included field trips, donations, minutes, vouchers, and personnel actions. Notably, the board addressed the Certificated Staffing Reduction in Force (RIF) Reporting Requirements, confirming there would be no reductions and unanimously approving the requirements as presented. Additionally, the board discussed the Rotary Bus Shuttle, which was also unanimously approved. 
+
+The meeting included a presentation on the Social, Emotional, Behavior Multi-Tiered System of Supports (MTSS) for the 2024-25 school year, highlighting the district's focus on mental health and well-being. The board also conducted a first reading of Policy 1250 regarding School Board Student Members, indicating an effort to enhance community engagement by potentially involving students in governance. Furthermore, Policy 6513 concerning Workplace Violence Prevention was reviewed and approved in its second reading, reflecting ongoing concerns about school safety.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-05-09-draft-minutes.txt)
 
-## 2024-05-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+## 2024-05-09 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a special meeting on May 4, 2024, to attend the Northshore Family Symposium, emphasizing the importance of community engagement within the district. The meeting commenced at 9:00 AM and was attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley. The symposium served as a platform for discussing various aspects of family involvement in education, although specific policies or resolutions were not detailed in the minutes. The meeting concluded at 1:00 PM, highlighting a commitment to fostering relationships between the school district and families.
+The Bainbridge Island School District No. 303 held a regular school board meeting on May 9, 2024, where several key actions were taken. The board unanimously approved the Consent Agenda, which included field trips, donations, minutes, vouchers, and personnel actions. Notably, the board discussed and approved Policy 1250 regarding School Board Student Members during its first reading, as well as Policy 6513 focused on Workplace Violence Prevention during its second reading. The latter addresses safety concerns within school environments. Additionally, an update on Social, Emotional, Behavior Multi-Tiered System of Supports (MTSS) for the 2024-2025 school year was presented, indicating a commitment to enhancing mental health and social-emotional learning frameworks within the district. The meeting concluded without any public comments or executive sessions.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-04-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-05-09-minutes.txt)
 
-## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2024-05-06 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board Meeting held on May 2, 2024, included significant discussions and actions related to academic standards and policy changes. The board approved several updated policies, including Policy 6700 on Nutrition, Policy 6701 on Recess & Physical Activity, Policy 6702 on Wellness, and Policy 2124 on Physical Education & Health Class, all of which were motioned by Director Owsley and seconded by Director Brar. Additionally, Policy 2413 regarding Equivalency Credit Opportunities was amended to include language about available credits within the school district or at a skill center, and to remove a phrase regarding ensuring cultural responsiveness and equity in awarding mastery-based credits. 
+The May 6, 2024 Board Meeting of the Lake Washington School District (LWSD) included significant recognitions such as the proclamation of May 8 as National School Nurse Day and May 6-10 as Teacher Appreciation Week. During audience participation, concerns regarding Islamophobia, antisemitism, and bullying were raised by several parents, highlighting the importance of diversity and inclusion within the district. The board addressed these issues, emphasizing their commitment to creating a safe learning environment for all students. 
 
-The meeting also featured updates from school principals on their School Improvement Plans, highlighting targets for student proficiency and attendance. Tim Doering, Principal of Isom Elementary, reported that the goal for 75% of students to be proficient in reading fluency was progressing, while Ian Freeman, Principal of Lynden High School, discussed efforts to enhance teacher understanding of Universal Design for Learning (UDL) and systems of academic support aimed at reducing D and F grades. The board's engagement with these educational updates reflects its commitment to improving academic standards and student outcomes within the district.
+Additionally, the board approved several resolutions, including the adoption of Policy 2415 regarding a Performance-Based Pathway for High School Graduation, which provides guidance for implementing this new graduation option. The board also tabled the Inclusionary Practices Program Update for future discussion, indicating an ongoing focus on policy changes that support inclusive educational practices. The meeting concluded with a discussion on upcoming school visits and committee updates, reinforcing the board's engagement with community feedback and safety initiatives.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-02-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_328.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Leah Choi](board_member_135.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to table the Inclusionary Practices Program Update | The agenda item was tabled to a future meeting. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+
+## 2024-04-25 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Bainbridge Island School District No. 303 held a regular school board meeting on April 25, 2024, where several key policies were reviewed and approved. Notably, the board passed the first reading of Policy 6513 Workplace Violence Prevention, emphasizing the district's commitment to ensuring a safe environment for students and staff. Additionally, the board approved the second readings of Policy 63415 Accommodating Students with Diabetes and Policy 3420 Anaphylaxis Prevention and Response, which are designed to support student health by providing necessary accommodations for students with specific medical conditions. Each policy received unanimous approval from the board members present, highlighting a collective agreement on the importance of these health and safety measures within the school district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-04-25-draft-minutes.txt)
+
+## 2024-04-25 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Bainbridge Island School District No. 303 held a regular school board meeting on April 25, 2024, where several significant policy changes were discussed and approved. Notably, the board approved the first reading of Policy 6513 Workplace Violence Prevention, aimed at enhancing safety within the school environment. Additionally, the board approved the second readings of two policies: Policy 63415 Accommodating Students with Diabetes, which addresses health management for diabetic students, and Policy 3420 Anaphylaxis Prevention and Response, which outlines procedures for managing severe allergic reactions. These policies reflect the district's commitment to student health and safety. The meeting concluded without any public comment or executive session, indicating a straightforward agenda focused on procedural matters and policy approvals.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-04-25-minutes.txt)
 
 ## 2024-04-25 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
 
-The Board of Directors Meeting held on April 25, 2024, included discussions on various topics such as school safety and community engagement initiatives. Notably, the Board recognized Harrison Middle School TSA and Science Fair students, as well as the Empowering Future Families program for completing their sessions, highlighting the importance of community involvement in educational initiatives. The meeting also included the approval of the PK - 5 ELA Curriculum, which reflects a focus on curriculum transparency and academic standards. Additionally, updates on safety and security training were provided by Joey Glossen, emphasizing ongoing efforts to enhance school safety. The Board also addressed consent agenda items, including minutes from previous meetings and contract ratifications, indicating a structured approach to governance and policy adherence.
+The Board of Directors meeting on April 25, 2024, included the approval of the PK - 5 ELA Curriculum, reflecting a policy change aimed at enhancing academic standards in early education. The motion was made by Jilliann Patterson and seconded by Linda Roberts, with all members present voting in favor. The meeting also featured discussions on community engagement, notably recognizing Harrison Middle School TSA and Science Fair students, as well as Administrative Professionals and the Empowering Future Families program. Additionally, the Board addressed school safety, with Joey Glossen presenting updates on safety training and security measures, highlighting the importance of ensuring a secure environment for students and staff.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-25-minutes.txt)
 
@@ -1155,253 +794,88 @@ The Board of Directors Meeting held on April 25, 2024, included discussions on v
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Linda Roberts](board_member_356.md) | voted yes on approval of PK - 5 ELA Curriculum | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of PK - 5 ELA Curriculum | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on approval of Minutes March 14, 2024 Board Work Session | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes March 14, 2024 Board Work Session | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on approval of Minutes March 21, 2024 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes March 21, 2024 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on Contract List Ratification | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Contract List Ratification | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on performance of a public employee in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on performance of a public employee in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Linda Roberts](board_member_356.md) | voted yes on current or potential litigation with legal counsel in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on current or potential litigation with legal counsel in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
-
-## 2024-04-25 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
-
-The Bainbridge Island School District No. 303 held a regular school board meeting on April 25, 2024, where several policy changes were discussed and approved. Notably, the board approved Policy 6513, Workplace Violence Prevention, during its first reading, which aims to enhance school safety. Additionally, the board reviewed and approved Policy 63415, Accommodating Students with Diabetes, in its second reading, which focuses on ensuring the health and safety of students managing diabetes. Another policy, Policy 3420, Anaphylaxis Prevention and Response, was also approved in its second reading, emphasizing the district's commitment to student health and safety regarding severe allergic reactions. The meeting included reports on various school programs and updates from the District Budget Advisory Committee, but there were no public comments or executive sessions.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-04-25-draft-minutes.txt)
-
-## 2024-04-25 - BAINBRIDGE_ISLAND_SCHOOL_DISTRICT (Minutes)
-
-The Bainbridge Island School District No. 303 held a regular school board meeting on April 25, 2024, where several key policies were discussed and approved. Notably, the board approved the first reading of Policy 6513 Workplace Violence Prevention, aimed at enhancing safety measures within the school environment. Additionally, the second readings of Policy 63415 Accommodating Students with Diabetes and Policy 3420 Anaphylaxis Prevention and Response were also approved, reflecting the district's commitment to student health and safety. These policies are designed to ensure that students with specific health needs receive appropriate support and protection while at school. The meeting concluded with a unanimous vote on these policies, indicating strong support from the board members present.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bainbridge_island_school_district/2024/2024-04-25-minutes.txt)
-
-## 2024-04-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular board meeting on April 24, 2024, where several policies were introduced for first reading. Assistant Superintendent Kurt Harvill presented Policy and Procedure 4001 - Public Information Program, Policy and Procedure 4040 - Public Access to District Records, and Policy and Procedure 4060 - Distribution of Information, all of which will be reviewed again for approval at the May 8 regular board meeting. Additionally, the Sendan Center Contract was also presented for first review, with plans for a second review and approval at the same upcoming meeting. The meeting included updates from the Director of Finance, Daniel Yorton, on the budget process for the 2024-25 school year, but there were no public comments or shared information from student representatives or board directors.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-24-aprilregularboardmeeting-minutes.txt)
+| [Linda Roberts](board_member_363.md) | voted yes on approval of PK - 5 ELA Curriculum | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on approval of PK - 5 ELA Curriculum | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on approval of Minutes March 14, 2024 Board Work Session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on approval of Minutes March 14, 2024 Board Work Session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on approval of Minutes March 21, 2024 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on approval of Minutes March 21, 2024 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on Contract List Ratification | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Contract List Ratification | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on performance of a public employee in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on performance of a public employee in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Linda Roberts](board_member_363.md) | voted yes on current or potential litigation with legal counsel in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on current or potential litigation with legal counsel in executive session | Motion by Jilliann Patterson, second by Linda Roberts. |
 
 ## 2024-04-24 - COLVILLE_SCHOOL_DISTRICT (Minutes)
 
-The Colville School District Board of Directors held a regular meeting on April 24, 2024, where several key actions and updates were discussed. The board unanimously approved the first reading of Policy 3421, which focuses on Child Abuse, Neglect, and Exploitation Prevention. Additionally, they approved the second reading of Policies 3231 (Student Records) and 3520 (Student Fees, Fines, or Charges). The board also approved the Comprehensive Emergency Operations Plan, emphasizing school safety. Updates included the introduction of new CEA officers and recognition of second-grade students who graduated from the Read Well curriculum, highlighting community engagement in educational achievements. Furthermore, the board addressed the hiring of new staff for the upcoming school year, including special education support positions.
+The Colville School District Board of Directors held a regular meeting on April 24, 2024, where several key actions were taken regarding policies and programs. Notably, Policy 3421 concerning Child Abuse, Neglect, and Exploitation Prevention was presented for a first reading, while Policies 3231 (Student Records) and 3520 (Student Fees, Fines, or Charges) were approved during their second reading. The Board also approved the Comprehensive Emergency Operations Plan, emphasizing school safety. Additionally, the meeting recognized the graduation of 35 second-grade students from the Read Well program, underscoring the district's commitment to special education support. The Board encouraged community engagement by inviting public comments and recognizing the contributions of educators and students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-04-24-aprilregularboardmeeting-minutes.txt)
 
-## 2024-04-24 - COLVILLE_SCHOOL_DISTRICT (Minutes)
-
-The special meeting of the Colville School District Board of Directors on April 24, 2024, focused on the 2023-2024 Capital Projects Fund Budget Extension. Superintendent Kevin Knight and Executive Director of Business and Operations Heather Judd presented a PowerPoint on the budget extension, followed by a hearing which received no public comment. The board unanimously adopted Resolution No. 23/24-9, which pertains to the budget extension for the Capital Projects Fund, with a motion moved by Director Dave Naff and seconded by Director Kim Gallo. The meeting concluded with a unanimous vote to adjourn.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-04-24-aprilspecialboardmeeting-minutes.txt)
-
-## 2024-04-23 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on April 23, 2024, included significant discussions and approvals regarding personnel changes and student travel. The board unanimously approved the resignation of Cari Roderick, Assistant Director of Technology and Assessment, as part of the consent agenda. Additionally, the board approved student travel plans for various schools, including EVMS and EVHS, to attend events in Silverwood and Renton, WA. Ms. Noack reported on legislative changes, noting that HB2494 has passed, which will increase state funding for school operating costs effective June 6, 2024. The board also discussed the potential collaboration with the Spokane County Sheriff's Department to access East Valley's exterior cameras, aimed at enhancing school safety and real-time response capabilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-04-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Justin Voelker](board_member_276.md) | voted yes on amending the personnel report to include the resignation of Cari Roderick | With a motion by Laura Gates, second by Theresa Noack all were in favor of amending the personnel report to include the ...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on amending the personnel report to include the resignation of Cari Roderick | With a motion by Laura Gates, second by Theresa Noack all were in favor of amending the personnel report to include the ...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Silverwood | Approved EVMS student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Silverwood | Approved EVMS student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Renton for a track meet | Approved EVHS student travel to Renton, WA, May 3 - May 4, 2024, for a track meet. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Renton for a track meet | Approved EVHS student travel to Renton, WA, May 3 - May 4, 2024, for a track meet. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Post Falls | Approved EVHS student travel to Post Falls, ID on May 3, 2024, for the construction career day. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Post Falls | Approved EVHS student travel to Post Falls, ID on May 3, 2024, for the construction career day. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving consent agenda items | Recommend approval of presented consent agenda items. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving consent agenda items | Recommend approval of presented consent agenda items. |
-
-## 2024-04-23 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
-
-The April 23, 2024 Board Work Session was conducted to interview candidates for the Director District 1 position, specifically Leticia Zesati and Betty Cis Kennard. The meeting included an executive session focused on the qualifications of candidates for appointment to elective office, which lasted from 7:15 PM to 7:56 PM, with an initial duration of 15 minutes extended by an additional 30 minutes. The session concluded with a motion that carried unanimously among the board members present. Following the executive session, the board entered a closed session at 8:00 PM for collective bargaining sessions, which lasted 45 minutes. All actions taken during the meeting, including the motions for both the executive and closed sessions, received unanimous approval from the board members: Jilliann Patterson, Stephen Berg, Linda Roberts, and Jory Anderson.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Linda Roberts](board_member_356.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
-| [Stephen Berg](board_member_359.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
-| [Jory Anderson](board_member_358.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
-| [Stephen Berg](board_member_359.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
-| [Linda Roberts](board_member_356.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
-| [Jory Anderson](board_member_358.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
-| [Stephen Berg](board_member_359.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
-| [Linda Roberts](board_member_356.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
-| [Jory Anderson](board_member_358.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
-
-## 2024-04-23 - PULLMAN_SCHOOL_DISTRICT (Minutes)
-
-The Regular Council Meeting held on April 23, 2024, included significant updates and resolutions from various organizations impacting the Pullman community. Notably, the Council approved several resolutions accepting public easements from Washington State University, including RESOLUTION No. R-25-24 for a public water line easement and RESOLUTION No. R-26-24 for a public transportation and public access easement. These actions reflect ongoing collaboration between the city and the university to enhance public infrastructure. Additionally, the Council authorized the increase of transit staffing levels to support a service expansion to the Pullman-Moscow Regional Airport, which is set to coincide with the airport's new terminal opening in mid-May 2024. This expansion is grant-funded through June 2025, highlighting the city's commitment to improving transportation access in the area.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-04-23-council-minutes.txt)
-
-## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting on April 18, 2024, focused on several key topics, including community engagement regarding an upcoming bond election. A district parent expressed the importance of educating the community about the bond's necessity, while another community member highlighted the need for better communication about school funding. The board also discussed various policies, including a first reading of several policies related to student health and wellness, with no action taken on those. However, an updated Policy 3421 on Child Abuse & Neglect was approved, reflecting a commitment to safeguarding students. Additionally, the board approved several action items, including Resolution #05-24 concerning the Asset Preservation Program and the interlocal agreement with Bellingham School District for Title 1 services.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-18-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
-| [Ken Owsley](board_member_327.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
-| [Ken Owsley](board_member_327.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
-| [Khush Brar](board_member_328.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
-| [Ken Owsley](board_member_327.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
-| [Khush Brar](board_member_328.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
-| [Ken Owsley](board_member_327.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
-| [Khush Brar](board_member_328.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
-| [Danny Martinez](board_member_330.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
-| [Ken Owsley](board_member_327.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
-
 ## 2024-04-16 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
-The School Board Special Meeting held on April 16, 2024, addressed critical issues regarding budget cuts and their impact on educational programs. Superintendent Dr. Rebecca Miner emphasized the importance of community engagement in the budget process and the ongoing advocacy for adequate funding from legislators. Public comments highlighted concerns about staffing ratios, the reduction of world language classes, and the potential cuts to music programs, with various stakeholders, including teachers and students, expressing their support for maintaining these programs. The board discussed Resolution #24-09, which proposes a reduced educational program for the 2024-2025 school year, indicating that a second reading and vote will take place in the upcoming regular business meeting. The discussions also touched on the importance of paraeducators, teacher burnout, and the need for equitable funding, reflecting the board's commitment to addressing these challenges through policy changes and community collaboration.
+The School Board Special Meeting held on April 16, 2024, focused on budgetary concerns and potential reductions in educational programs. Superintendent Dr. Miner emphasized the importance of community engagement in the budget process and thanked participants of the Balancing Act survey. Public comments highlighted concerns regarding staffing ratios, the impact of budget cuts on elective classes, and the value of paraeducators. The board discussed Resolution #24-09, which pertains to a proposed reduced educational program, indicating that a second reading and vote will occur at the next regular meeting. Board members expressed their understanding of the challenges faced by educators and the community while advocating for adequate funding from state legislators. The meeting concluded with a commitment to continue discussions on these critical issues.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-04-16-minutes.txt)
 
-## 2024-04-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The minutes from the Bellingham School District Board of Directors' visit to Squalicum High School on April 16, 2024, highlight the Board's engagement with school administration and student leaders. During the meeting, which started at 7:30 a.m. and was attended by Board President Douglas Benjamin and other directors, discussions centered on leadership opportunities and student activities at Squalicum. Students shared positive experiences regarding the school's culture, emphasizing the community's involvement and support. The meeting concluded at 8:30 a.m., with the minutes being approved by Douglas Benjamin and attested by Superintendent Greg Baker.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-16-minutes.txt)
-
-## 2024-04-16 - ARLINGTON_SCHOOL_DISTRICT (Minutes)
-
-The Arlington Public Schools Board of Directors held a special meeting on April 16, 2024, focusing on several key issues regarding school operations and financial management. The Board approved a contract for envelope improvements at Pioneer Elementary School, which includes significant renovations such as roofing, siding, window replacements, and masonry work, with Woodridge Construction LLC awarded the lowest bid of $1,351,050. Additionally, the Board discussed a draft proposal for a Reduced Educational Program for the 2024-25 fiscal year due to insufficient financial resources and the need for budgetary adjustments. Superintendent Sweeting also presented a revised 2023-24 District Calendar, changing the last school day to June 17, 2024, to compensate for lost instructional hours caused by inclement weather. The meeting concluded with reminders about the upcoming study session and regular meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/arlington_school_district/2024/2024-04-16-minutes.txt)
-
 ## 2024-04-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The Bremerton School District Board of Directors held a special meeting at Naval Avenue Elementary School on April 15, 2024. A significant focus was on school safety, with discussions surrounding traffic issues near the school and the need for measures such as flashing lights and speed bumps. Parents expressed concerns about the lack of a parent-teacher organization and the need for more community engagement. Principal Kimberly Powell reported challenges in staffing, particularly with special education paraprofessionals, which has led to disruptions in scheduling and coverage. The board also addressed parental feedback regarding curriculum, specifically the desire for updated materials that align with essential standards in reading and math, and the need for more resources in the school garden initiative.
+The Bremerton School District Board of Directors held a special meeting at Naval Avenue Elementary on April 15, 2024, focusing on various school initiatives and community concerns. During the meeting, Principal Kimberly Powell addressed staffing challenges, particularly in special education paraprofessional positions, which have affected lunch and recess schedules. The board discussed the importance of community engagement, with parents expressing a desire for a parent-teacher organization and concerns about safety at nearby intersections. Parents suggested solutions such as using cones to prevent illegal parking and improving visibility for students crossing the street. 
+
+Additionally, the school is working on a garden project in collaboration with SNAP ED, aiming to integrate garden produce into the cafeteria. Concerns were raised regarding the curriculum, specifically the need for updated math and reading materials that align with essential standards, indicating a push for curriculum transparency. The meeting also highlighted the importance of mental health and social-emotional learning, as the school implements conscious discipline and family assemblies to foster a supportive environment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-04-15-minutes.txt)
 
 ## 2024-04-11 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The Bremerton School District Board of Directors held a regular meeting on April 11, 2024, where they recognized the Month of the Military Child and Volunteer Appreciation Month, emphasizing the importance of community engagement and support for military-connected families. The board approved several resolutions, including Resolution 2023/2024-16, which honors military children, and Resolution 2023/2024-17, proclaiming April 2024 as Volunteer Appreciation Month. Additionally, the board discussed the importance of creating a welcoming environment for all students, particularly those from diverse backgrounds, as highlighted by Director Bolton's personal reflections on her experiences as a student of color. The meeting also included updates on the Mountain View Middle School Sports Complex project, which is currently on track for completion by August 16, 2024, and discussions on the district's financial health, including a general fund balance of just under $10 million. The board's commitment to special education support and parental rights was evident in discussions surrounding legislative proposals and community feedback.
+The Bremerton School District Board of Directors held a regular meeting on April 11, 2024, where they recognized the Month of the Military Child and Volunteer Appreciation Month, highlighting the importance of community engagement and support for military-connected families. The board approved several resolutions, including Resolution 2023/2024-16, which honors military-connected children, and Resolution 2023/2024-17, proclaiming April 2024 as Volunteer Appreciation Month. Director Bolton discussed Initiative 2181 on Parental Rights, noting that the decision to bring it in-house was made because much of its content was already being implemented. The board also received updates on the Mountain View Middle School Sports Complex Project, which is on track for completion in August 2024, and the status of the district's general fund, which is currently under $10 million but expected to improve with upcoming levy funds. Additionally, the board addressed the importance of safety in schools, with discussions on the role of volunteers in creating welcoming environments for students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-04-11-minutes.txt)
 
 ## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held an executive session and regular board meeting on April 10, 2024, where several significant policy changes were reviewed and approved. The board adopted the Eureka Math² and Adíos Textbook curriculum materials, emphasizing the need for updated educational resources. Additionally, Policy and Procedure 2121 regarding the Substance Abuse Program, Policy 3116 concerning Students in Foster Care, and Policy 3225 on School Based Threat Assessment were all presented for a second review and subsequently adopted, indicating a focus on student well-being and safety. 
-
-Dr. Everett presented the Migrant Nurse Consortium Data Sharing MOU, which was approved to enhance access to health services for migrant students, reflecting a commitment to student health. The board also discussed the Emergency Repair Resolution 02-24 and Resolution 03-24, which involved emergency declarations and waiving bid laws to expedite necessary repairs, highlighting the district's proactive approach to maintaining school facilities. These actions demonstrate the board's ongoing efforts to ensure a safe and supportive environment for students while improving educational standards.
+The Meridian School District #505 held a meeting on April 10, 2024, where several policy changes were discussed and approved. The Board adopted the Eureka Math² and Adíos Textbook curriculum materials, emphasizing the importance of curriculum transparency. Additionally, Policy and Procedure 2121, which pertains to the Substance Abuse Program, Policy and Procedure 3116 concerning Students in Foster Care, and Policy and Procedure 3225 regarding School Based Threat Assessment were all reviewed and approved, reflecting the Board's commitment to school safety and support for vulnerable student populations. A significant resolution, Emergency Repair Resolution 02-24, was also approved, indicating ongoing maintenance and safety concerns within the district. The meeting included presentations from various teams focusing on literacy and language skills, showcasing the district's efforts in academic standards and student performance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-aprilboardmeeting-minutes.txt)
 
 ## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 Board held its regular meeting on April 10, 2024, where several key policy changes were discussed and adopted. The Board reviewed and adopted the Eureka Math² and Adíos Textbook curriculum materials, emphasizing the importance of curriculum transparency and academic standards. Additionally, they approved Policy and Procedure 2121 regarding the Substance Abuse Program, Policy and Procedure 3116 for Students in Foster Care, and Policy and Procedure 3225 concerning School Based Threat Assessment, all of which are aimed at enhancing student health and safety. 
-
-The meeting also included reports from various teams, including the Literacy team and the Spanish team, focusing on student performance and progress monitoring. Notably, the Board addressed the Migrant Nurse Consortium Data Sharing MOU and the Emergency Repair Resolution 02-24, which highlights the district's commitment to addressing immediate needs and ensuring student well-being. The Superintendent, Dr. Everett, provided updates on budget work and maintenance items, reflecting ongoing efforts to support the district's long-term strategic plans.
+The Meridian School District #505 held an executive session followed by a regular board meeting on April 10, 2024. During the meeting, the board reviewed and adopted several policies and curriculum materials. Notably, the board approved the adoption of the Eureka Math² and Adíos Textbook curriculum materials, as well as Policy and Procedure 2121 regarding the Substance Abuse Program, Policy and Procedure 3116 concerning Students in Foster Care, and Policy and Procedure 3225 focused on School-Based Threat Assessment. These approvals indicate a commitment to enhancing academic standards and ensuring student safety. Additionally, the Migrant Nurse Consortium Data Sharing MOU and Emergency Repair Resolution 02-24 were expedited for approval, reflecting ongoing efforts to address health and safety needs within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-minutes.txt)
 
-## 2024-04-09 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on April 9, 2024, included discussions on curriculum-related issues, specifically highlighted by Laura Gates, who referenced an article about curriculum challenges in a Texas district and the trend of parents opting to home-school. This indicates a growing concern regarding curriculum transparency and parental rights in educational decisions. Additionally, the board approved the Electric Vehicle Curriculum bid, which reflects a commitment to modernizing the curriculum and potentially engaging students in current technological advancements. The meeting also noted the importance of filing F1 forms, suggesting ongoing compliance and transparency in board operations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-04-09-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on Trentwood Roof bid | Approved the Trentwood Roof bid. |
-| [Justin Voelker](board_member_276.md) | voted yes on Trentwood Roof bid | Approved the Trentwood Roof bid. |
-| [Mike Bly](board_member_278.md) | voted yes on Electric Vehicle Curriculum bid | Approved the Electric Vehicle Curriculum bid. |
-
 ## 2024-04-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the White Salmon Valley School District Board of Education on April 25, 2024, included a range of updates and discussions relevant to the district's operations and policies. Superintendent Rich Polkinghorn reported on the successful waiver of two excess snow closure days and the pilot implementation of a Flexi-Schedule at Columbia High School. The board reviewed several updated policies, including 2022 on Electronic Resources and Internet Safety, and new policies like 2124 on Physical Education and Health Class. Additionally, the board addressed the Standard Response Protocols, which outline emergency operations and provide a uniform approach to safety across the district. The meeting also highlighted community engagement efforts, such as the upcoming Health and Wellness Fair and Art Walk, scheduled for May 18, 2024. The board adopted a number of policy changes, including the retirement of policy 4000 and the introduction of new policies aimed at improving district communication and operations.
+The White Salmon Valley School District Board of Education held a meeting on April 25, 2024, where various updates and reports were presented. Superintendent Rich Polkinghorn reported on the approval of a request to waive two excess snow closure days by OSPI and discussed the implementation of a Flexi-Schedule at Columbia High School as a pilot program. The Board also reviewed several updated policies in their first reading, including Policy 2022 on Electronic Resources and Internet Safety, and new policies such as Policy 6701 on Recess and Physical Activity. The second reading of policies included the approval of several updated policies, such as Policy 4001 on Public Information Program, which replaces the previous Policy 4000. Additionally, the meeting featured discussions on the Standard Response Protocols aimed at enhancing school safety, as well as an invitation from Student Representatives for the Board to tour schools to observe ongoing activities. The meeting concluded with a motion to retire Policy 4000, reflecting changes in communication protocols within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-04-02-aprildraftboard-minutes.txt)
 
-## 2024-03-28 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The Mount Baker School Board held a regular meeting on March 28, 2024, during which several key actions were taken. Notably, the board approved multiple resolutions, including MB Board Resolution 23/24:16, which authorizes the transfer of certain state forest land revenues from the District's Debt Service Fund into the Capital Projects Fund, and MB Board Resolution 23/24:17, which adopts a reduced educational program for the 2024-2025 school year. Additionally, the board passed MB Policy 5005, which outlines employment and volunteer disclosure certification requirements, and MB Policy 6220, which details bid or request for proposal requirements. Both policies were approved for first and final readings. The meeting also highlighted community engagement activities, including a family prom and an 8th-grade family night, emphasizing the board's commitment to fostering connections with families and the wider community.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-28-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Danielle Gray moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 23/24:16 | Ms. Danielle Gray made a motion to approve MB Board Resolution 23/24:16 Authorizing and Directing the Treasurer of the D...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Board Resolution 23/24:17 | Ms. Danielle Gray made a motion to approve MB Board Resolution 23/24:17 Adoption of 2024-2025 Reduced Educational Progra...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:18 | Ms. Danielle Gray made a motion to approve MB Resolution 23/24:18 Surplus, Mr. Edward Fox seconded; motion carried, 4-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 5005 | Ms. Danielle Gray made a motion to approve MB Policy 5005 Employment and Volunteers Disclosures Certification Requiremen...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 2090 | Ms. Danielle Gray made a motion to approve MB Policy 2090 Program Evaluation for second and final reading, Mr. Edward Fo...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6220 | Ms. Danielle Gray made a motion to approve MB Policy 6220 Bid or Request for Proposal Requirements for first and final r...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on Hopewell Grange Acceptance Memorandum | Ms. Danielle Gray made a motion to approve Hopewell Grange Acceptance Memorandum, Mr. Edward Fox seconded; motion carrie...[truncated, use api for full text] |
-
 ## 2024-03-27 - COLVILLE_SCHOOL_DISTRICT (Minutes)
 
-The Colville School District Board of Directors held a regular meeting on March 27, 2024, where several key actions were taken. The Board approved the first reading of revised policies including Policy 3231 on Student Records and Policy 3520 on Student Fees, Fines, or Charges. Additionally, the 2023-2024 Highly Capable Program Plan was approved to identify and serve highly capable learners across grades K-12. The meeting also included a presentation from Junior High School art students showcasing their pottery work, emphasizing community engagement and recognition of student achievements. 
+The Colville School Board held a meeting on March 27, 2024, where they approved several policy changes, including the first readings of Policy 3231 regarding Student Records and Policy 3520 concerning Student Fees, Fines, or Charges. The board also approved the 2023-2024 Highly Capable Program Plan, which outlines the district's approach to identifying and serving highly capable learners. Additionally, the board discussed community engagement initiatives, including a trip for the CHS Interact Club to Spain that incorporates community service, and a planned 8th-grade trip to Silverwood Theme Park, both of which received unanimous approval. 
 
-The Board discussed various safety measures, including the implementation of "Stop the Bleed" kits and Narcan availability in classrooms, highlighting ongoing efforts to enhance school safety. Furthermore, updates on personnel changes were provided, including new hires for special education positions and the resignation of several staff members. The meeting concluded with the approval of consent agenda items, which included financial reports and inter-governmental agreements aimed at improving collaboration between the City of Colville and the School District.
+Safety measures were highlighted as well, with updates on LANCE training for lockdown protocols and the introduction of "Stop the Bleed" kits in classrooms. The meeting included presentations from students, recognizing their achievements in art and attendance, which supports the district's focus on community engagement and student health. The board also addressed special education support through personnel changes and new hires, emphasizing the ongoing commitment to enhancing educational services for all students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-03-27-marchregularboardmeeting-minutes.txt)
 
 ## 2024-03-26 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
-The School Board Regular Business Meeting held on March 26, 2024, included discussions on various topics, notably school safety and community engagement. Public comments highlighted concerns about maintaining safety and security roles within schools, emphasizing the importance of the Dean of Students position. Several speakers advocated for the retention of the 5th and 6th grade band and orchestra programs despite budget constraints, reflecting community engagement in educational offerings. The board approved multiple resolutions, including Resolution #24-05 for the sale of $200,000,000 in Unlimited Tax General Obligation Bonds, and various waivers regarding staff schedules and procedures at Meadowdale Middle School. These actions indicate ongoing policy changes aimed at addressing financial and operational needs within the school district.
+The School Board Regular Business Meeting held on March 26, 2024, included various presentations and discussions on school safety and community engagement. Notably, public comments highlighted concerns regarding the importance of the Dean of Students role in ensuring student safety, as expressed by Natalie Smith, an ESD custodian. Additionally, several parents advocated for maintaining the 5th and 6th grade band and orchestra programs amid budget shortfalls, emphasizing the value of music education in fostering a sense of belonging. The board approved multiple resolutions, including Resolution #24-05, which authorized the sale of $200,000,000 in Unlimited Tax General Obligation Bonds, and various contracts for playground equipment replacement and Wi-Fi installation, indicating ongoing policy changes to enhance educational infrastructure and resources.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-03-26-minutes.txt)
 
-## 2024-03-26 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on March 26, 2024, included several key actions and discussions. The board approved the personnel report, which notably included the removal of a request for a leave of absence by Brianna Kramm, a Health and Fitness Teacher at Otis Orchards Elementary, effective from April 9, 2024, through June 14, 2024. Additionally, Ms. Noack reported on legislative matters, specifically addressing a recent special education enrollment funding cap passed by the house, which is currently awaiting senate approval. The board also discussed HB2494, a bill aimed at increasing state funding for school operating costs. These discussions reflect ongoing policy changes that may impact funding and support for special education within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-26-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Mike Bly](board_member_278.md) | voted no on the motion to approve the extended leave of absence for Brianna Kramm | The board denied the request for extended leave of absence for the 24/25 SY for Brianna Kramm. |
-| [Jonathan Horsley](board_member_277.md) | voted no on the motion to approve the extended leave of absence for Brianna Kramm | The board denied the request for extended leave of absence for the 24/25 SY for Brianna Kramm. |
-
 ## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors convened on March 21, 2024, where they addressed several key issues including mental health support and school safety. Tim Metz, Director of Student Services, and Jordan Feigel, Mental Health Coordinator, provided an update on mental health initiatives, including insights from a recent healthy youth survey. The board also discussed safety concerns related to the high number of entry points at Lynden High School, emphasizing the urgency of addressing these issues in relation to a potential bond resolution. 
-
-The board reviewed and approved Policy 5005 regarding Employment and Volunteers, indicating a change in the district's approach to staffing and volunteer management. Additionally, they engaged in discussions around long-term facilities planning, including the potential for a bond vote and the need to modify project scopes based on updated financial analyses. The board intends to further discuss these matters in a workshop scheduled for April 4, 2024, with a goal of voting on a bond resolution on April 18, 2024.
+The Lynden School District Board Meeting on March 21, 2024, included discussions on mental health initiatives, particularly an update from Director of Student Services Tim Metz and Mental Health Coordinator Jordan Feigel regarding the mental health coordinator role and the results of a recent healthy youth survey. This highlights the district's focus on student mental health and well-being. Additionally, a community member raised concerns about safety issues related to the 70+ points of entry at Lynden High School, emphasizing the ongoing discussions about school safety. The board also approved updates to Policy 5005 concerning Employment and Volunteers, reflecting changes in district policy. Furthermore, community engagement was evident as members from Citizens for Lynden Schools provided updates on their efforts to promote a bond resolution, indicating active participation from the community in district matters.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
 
@@ -1409,37 +883,33 @@ The board reviewed and approved Policy 5005 regarding Employment and Volunteers,
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school district. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school district. |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
 
 ## 2024-03-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular board meeting on March 20, 2024, where several key topics were discussed, including curriculum materials and new policies. Director of Teaching and Learning, Adrienne Somera, presented a proposal for the adoption of Eureka Math² and Adíos Textbook curriculum materials, which will undergo a second review and approval at the next meeting on April 10, 2024. Additionally, Assistant Superintendent Kurt Harvill introduced multiple policies for first reading, including Policy and Procedure 2121 – Substance Abuse Program, Policy and Procedure 3116 - Students in Foster Care, and Policy and Procedure 3225 - School Based Threat Assessment, all set for second review and approval at the upcoming board meeting. The board also received updates on the district's financial status, including enrollment comparisons and audit results, as presented by Director of Finance, Daniel Yorton. Community engagement was highlighted through a reminder from Dr. Everett to submit nominations for the annual MSD Thrive Awards.
+The Meridian School District #505 held a regular school board meeting on March 20, 2024, where several important topics were addressed. The Board discussed a Curriculum Materials Proposal presented by Director of Teaching and Learning, Adrienne Somera, which introduced Eureka Math² and Adíos Textbook for first review. This proposal will be revisited for a second review and possible approval at the April 10, 2024, meeting, emphasizing the district's commitment to curriculum transparency. Additionally, Assistant Superintendent Kurt Harvill presented several policies for first reading, including Policy and Procedure 2121 – Substance Abuse Program, Policy and Procedure 3116 - Students in Foster Care, and Policy and Procedure 3225 - School Based Threat Assessment, all of which will be brought back for further review and approval at the next meeting. These policies highlight the district's focus on school safety and support for vulnerable student populations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-mar-minutes.txt)
 
 ## 2024-03-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on March 20, 2024, where several significant items were discussed. The meeting included a first review of curriculum materials, specifically the Eureka Math² and Adíos Textbook, which are part of the core curriculum adoption process. This proposal is set for a second review and potential approval at the April 10, 2024, meeting, highlighting a focus on curriculum transparency. Additionally, Assistant Superintendent Kurt Harvill presented multiple policies for first reading, including Policy and Procedure 2121 – Substance Abuse Program, Policy and Procedure 3116 - Students in Foster Care, and Policy and Procedure 3225 - School Based Threat Assessment, all of which will also return for further review and approval in April, indicating ongoing attention to school safety and student well-being. The board encouraged community engagement by seeking suggestions for naming the north gym and reminded attendees to submit nominations for the annual MSD Thrive Awards.
+The Meridian School District #505 held a regular school board meeting on March 20, 2024, where key topics included a first review of new curriculum materials, specifically the Eureka Math² and Adíos Textbook curriculum, which will be revisited for approval at the April 10, 2024 meeting. Additionally, several policies were presented for first reading: Policy and Procedure 2121 concerning the Substance Abuse Program, Policy and Procedure 3116 regarding Students in Foster Care, and Policy and Procedure 3225 related to School Based Threat Assessment. Each of these policies will also be brought back for second review and approval at the upcoming meeting. The board discussed the importance of community engagement in the naming of the north gym and received a report on the recent legislative session's limited funding increases for K-12 education, highlighting the ongoing challenges in securing adequate financial support for educational initiatives.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-minutes.txt)
 
-## 2024-03-20 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
-
-The Spokane Public Schools Board of Directors held a Regular Meeting on March 20, 2024, where various topics were discussed, including updates on the Balanced Calendar and the adoption of a new secondary world history curriculum, impacting grades 6, 7, and 10. The Board supported co-sponsoring several legislative proposals, including those related to mental health supports and counseling access, literacy, and the African American Studies Workgroup, while not supporting co-sponsorship for tax revenue for schools until further clarification is provided. Community engagement was highlighted through public comments, including concerns raised by Louise Chadez regarding an incident at Wilson Elementary. The meeting also emphasized the importance of diversity and inclusion, as noted by Vice President Slagle's report on low family engagement in the Native Education program and the desire for more culturally specific clubs in the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-03-20-minutes.txt)
-
 ## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a regular meeting on March 14, 2024, where they addressed several key issues including the adoption of Resolution #08-24, which authorizes the sale of surplus district-owned property on West Maplewood Avenue. No public testimony was offered during the hearing on this resolution. Superintendent Greg Baker reported on budget developments for the 2024-25 school year, indicating that the state is not heavily investing in PreK-12 public education, although there were increases in special education, supplies, and paraeducator staffing. The board discussed monitoring responses for policies EL-3 (Treatment and Communication with Public, Parents and Students), EL-4 (Staff Treatment, Compensation and Evaluation), and Ends 2.1 (Part 1, Student Competence), with commendations for effective communication and outreach efforts. Challenges related to teacher and staff shortages were noted, particularly in relation to substitute availability. The board emphasized the importance of community engagement and the ongoing need for programs that support special education and academic standards.
+The Bellingham School District Board of Directors held a meeting on March 14, 2018, where significant discussions centered around school safety and the opposition to arming teachers. Multiple community members, including students and local advocates, expressed their concerns about gun control and requested the board to implement a clear policy against arming staff. The board unanimously agreed to document their opposition to such measures. Additionally, Superintendent Greg Baker reported on student participation in the National School Walkout, honoring victims of gun violence, which highlighted the community's engagement on this pressing issue. 
+
+The meeting also addressed diversity and mental health, with community members urging for more diversity training for educators and better support for marginalized students. Exquisite Erika, a social worker, emphasized the importance of recognizing the voices of black students and the need for suicide assessments for at-risk students. The board discussed a proposed revision to Policy 1420 and formed a committee to draft a student safety resolution, reflecting the board's commitment to addressing these community concerns.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
 
@@ -1447,108 +917,26 @@ The Bellingham School District Board of Directors held a regular meeting on Marc
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-
-## 2024-03-14 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The regular school board meeting held on March 14, 2024, included discussions and actions on several policies, notably the approval of MB Policy 6513 on Workplace Violence Prevention, which was passed unanimously during its second reading. Additionally, MB Policy 2090 on Program Evaluation and MB Policies 5271 on Reporting Improper Governmental Action (Whistleblower Protection) and 5280 on Separation from Employment were introduced for their first readings. The board emphasized community engagement through announcements of upcoming events such as Family Nights, spring sports, and fundraisers, indicating a focus on strengthening ties with families and the community. The meeting also featured a segment on school safety, with the board discussing executive session topics related to bargaining updates, although no decisions were made during this time.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-03-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the Consent Agenda | Ms. Danielle Gray made a motion to approve the Consent Agenda, Mr. Jason Bloodgood seconded; motion carried, 4-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 6513 Workplace Violence Prevention for 2nd and final reading | Ms. Danielle Gray made a motion to approve MB Policy 6513 Workplace Violence Prevention for 2nd and final reading, Mr. J...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 5271 Reporting Improper Governmental Action (Whistleblower Protection) for 1st ...[truncated, use api for full text] | Ms. Danielle Gray made a motion to approve MB Policy 5271 Reporting Improper Governmental Action (Whistleblower Protecti...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 5280 Separation from Employment for 1st and final reading | Ms. Danielle Gray made a motion to approve MB Policy 5280 Separation from Employment for 1st and final reading, Mr. Jaso...[truncated, use api for full text] |
-
-## 2024-03-12 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on March 12, 2024, included discussions on several key topics, notably the personnel report which featured a certificated resignation of Rebeccah Baker, a K-12 Multilingual educator, effective August 31, 2024, after nine years of service. Additionally, the board approved multiple student travel plans for events including the FFA Meat Evaluation Clinic and the Washington State FFA Convention. Superintendent Brian Talbott reported on the potential collaboration with the Spokane Valley/Liberty Lake Little League regarding the use of Mountainview Middle School's quadplex ballfields, indicating ongoing discussions with local neighbors to gauge community sentiment. The meeting concluded with no public comments and was adjourned at 8:22 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-12-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Mike Bly](board_member_278.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Justin Voelker](board_member_276.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Mike Bly](board_member_278.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Justin Voelker](board_member_276.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Mike Bly](board_member_278.md) | voted yes on consent items | Approved consent items. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent items | Approved consent items. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent items | Approved consent items. |
+| [Douglas Benjamin](board_member_317.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Jenn Mason](board_member_318.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| [Scott Ritchey](board_member_320.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
 
 ## 2024-03-12 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
 
-The Wahluke School Board meeting on March 12, 2024, included discussions on several key reports and policy changes. Notably, John McPherson and Alex Zesati presented updates on school safety, addressing traffic flow, behavior improvements, and ongoing concerns regarding vaping and gang activity. They highlighted the implementation of new traffic plans and monthly Safety Committee meetings to coordinate safety efforts across all buildings. The board approved several policies, including Policy 3245 on Students and Telecommunication Devices, Policy 3423 regarding Parental Administration of Marijuana for Medical Purposes, and Policy 5404 on Family, Medical, and Maternity Leave, all of which underwent a second reading before adoption. These discussions and approvals reflect the board's commitment to enhancing student safety and adapting policies to current needs. Additionally, the meeting engaged community members through presentations on various student activities, fostering community engagement.
+The Wahluke School Board meeting on March 12, 2024, addressed several key topics, including a report on school safety and security presented by John McPherson and Alex Zesati. They discussed current traffic management around school premises and ongoing safety initiatives, such as anti-drug and vaping presentations for students. The board also reviewed various upcoming trips and educational programs, which included a proposal for the CORE Plus Curriculum aimed at enhancing student engagement through hands-on learning experiences. Significant policy changes were made, including the decision to move regular board meetings to once a month, specifically on the fourth Tuesday, and the adoption of several policies related to student health and parental rights regarding medical marijuana administration, sick leave, and family leave. The meeting emphasized community engagement by welcoming public comments and including various staff presentations.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-03-12-minutes.txt)
 
-## 2024-03-11 - YAKIMA_SCHOOL_DISTRICT (Minutes)
-
-The Yakima School District #7 Board Retreat on March 11, 2024, included discussions on various topics, notably special education and parental rights. K.C. Mitchell presented the top ten ambitious goals for Special Education for the upcoming school year, emphasizing the district's commitment to enhancing support for students with special needs. Additionally, Superintendent Trevor Greene and Assistant Superintendent of Finance Jake Kuper addressed legislative impacts, including Initiative 2081, known as the Parents Bill of Rights, which aims to outline and protect parental rights in education. The board also reviewed over 1100 policies, with planned edits to be approved in a future meeting, indicating ongoing policy changes that could affect governance and operations within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-03-11-minutes.txt)
-
-## 2024-03-07 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board meeting on March 7, 2024, included discussions on special education programs led by Director of Special Education, Rebecca Morgan, who outlined the services provided and the challenges faced, including space and hiring issues. The board adopted Policy 3411, which accommodates students with seizure disorders or epilepsy, reflecting a commitment to special education support. Community engagement was highlighted when a representative from Citizens for Lynden Schools urged the board to reconsider placing a bond for a new high school on the August ballot, following their decision not to run it in April. The board also discussed upcoming actions related to the school calendar and food services, indicating ongoing efforts to enhance educational operations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-07-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
-
-## 2024-03-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a meeting on March 6, 2024, where several policies were reviewed and approved. Notable policies included Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, and Policy 6111 - Tuition, all of which received unanimous support from the Board and student representatives. Additionally, the Board approved the 2024-2027 School Year Calendars and Resolution 01-24: OSPI 180 Day Waiver, which also had student backing. The meeting involved various presentations, including reports from art teachers and updates on the CTE program, highlighting the district's focus on educational development and community partnerships.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-06-marchboardmeeting-minutes.txt)
-
-## 2024-03-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a meeting on March 6, 2024, where several policies and resolutions were reviewed and approved. Notable policy changes included the adoption of Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, and Policy 6111 - Tuition, all passing with a unanimous vote of 5-0. Additionally, the board approved the 2024-2027 School Year Calendars and Resolution 01-24: OSPI 180 Day Waiver, which supports the waiver request from the Office of Superintendent of Public Instruction. The meeting included presentations from various educational teams, including art teachers and the IRE First Grade team, emphasizing ongoing curriculum development and student progress. MHS Principal Derek Forbes also recognized the Food Service Staff for their contributions to the school environment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-06-minutes.txt)
-
 ## 2024-02-28 - COLVILLE_SCHOOL_DISTRICT (Minutes)
 
-The Colville School District Board of Directors held a regular meeting on February 28, 2024, where they approved several policy changes, including the second reading of Policy 5410 regarding Holidays and Policy 6020 concerning the System of Funds and Accounts. The board also passed Resolution No. 23/24-8, which expresses opposition to ESB 5462 and HB 2331. During the meeting, the board emphasized the importance of public engagement, allowing citizens to provide comments, and recognized the recent activities of the Fort Colville ASB. Additionally, the board discussed school safety measures, including installation of new access control keypads and the completion of monthly safety drills. The meeting concluded with the approval of the 2024-2025 Student School Calendar and other administrative updates.
+The Colville School District Board of Directors held a regular meeting on February 28, 2024, where several significant actions were taken. The board approved the second reading of two policies: Policy 5410 regarding Holidays and Policy 6020 concerning the System of Funds and Accounts, both of which were revised to reflect updated practices. Additionally, the board unanimously passed Resolution No. 23/24-8, which expresses opposition to state legislation ESB 5462 and HB 2331, indicating a stance on legislative matters affecting education. The meeting also featured updates from various schools, emphasizing community engagement through student activities and recognition of achievements, such as the success of the Colville Junior High School's E-Sports teams. School safety was highlighted with the completion of new access control installations and the successful execution of a lockdown drill.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-02-28-februaryregularboardmeeting-minutes.txt)
 
-## 2024-02-27 - EDMONDS_SCHOOL_DISTRICT (Minutes)
-
-The School Board held a special meeting on February 27, 2024, focused on updates regarding the Special Education Review. Presentations were made by Dr. Miner, Sandra Goveia from the Washington Education Association (WEA), and Assistant Superintendent Dana Geaslen, detailing the progress made based on recommendations from a special education review conducted the previous year. The meeting was called to order by Director Katims at 5:00 PM and adjourned at 6:04 PM, with all board members present, including Director Smith who attended via Zoom. The discussions highlighted ongoing efforts to enhance special education services in the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-02-27-minutes.txt)
-
 ## 2024-02-27 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board Meeting held on February 27, 2024, included several key actions and discussions pertinent to policy changes and school safety. The board approved revisions to Board Policy 6950, which pertains to Contractor Assurances, Surety Bonds, Insurance, and Change Orders, and Board Policy 6220, which outlines Bid or Request for Proposal Requirements. These revisions were approved unanimously, indicating a streamlined approach to contractor management and procurement processes. Additionally, the meeting featured discussions on school safety, particularly regarding vaping issues at EVHS, as highlighted by Mr. Horsley, who reported on his conversations with Principal Ryan Arnold about addressing this concern. The board also received updates on various student activities and financial reports, emphasizing community engagement and the importance of student health and safety.
+The Regular Board Meeting held on February 27, 2024, included several key actions and discussions. The board approved revisions to Board Policy 6950, which addresses Contractor Assurances, Surety Bonds, Insurance, and Change Orders, and Board Policy 6220, which pertains to Bid or Request for Proposal Requirements. These revisions aim to ensure compliance and improve operational efficiency in school contracting processes. Additionally, the meeting featured discussions on school safety, particularly regarding vaping issues at EVHS, with Mr. Horsley highlighting his conversations with Principal Ryan Arnold about addressing this concern. The board also received presentations from students involved in the FFA and FBLA clubs, emphasizing community engagement and the importance of career and technical education. Overall, the meeting underscored the board's commitment to policy improvements and student welfare.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-27-minutes.txt)
 
@@ -1556,119 +944,54 @@ The Regular Board Meeting held on February 27, 2024, included several key action
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
-
-## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The special meeting of the Bellingham School District Board of Directors on February 27, 2024, focused on gathering student perspectives, particularly from members of the GSA (Gender and Sexuality Alliance) Club at Whatcom Middle School. The discussions highlighted the importance of safe spaces for LGBTQ+ students, with participants expressing feelings of fear and the need for supportive adult relationships. Key concerns included the visibility and accessibility of gender-neutral restrooms, which many students found uncomfortable or unsafe. The students emphasized the role of the GSA Club as a refuge, fostering a sense of belonging and community. They also called for greater attention to social and emotional well-being and a desire for inclusive education that includes LGBTQ+ history. The meeting underscored the importance of student voice in shaping school policies and improving the overall middle school experience. School Board President Douglas Benjamin and Executive Director of Communications Jackie Brawley acknowledged the value of these discussions in guiding the district's efforts to create a more inclusive environment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
-
-## 2024-02-26 - ONALASKA_SCHOOL_DISTRICT (Minutes)
-
-The Regular School Board Meeting held on February 26, 2024, included a recognition of the Onalaska PTO for their contributions to the schools and a series of consent agenda items that were approved, including the hiring of new personnel and the authorization of payroll payments. A notable discussion included the focus on safety within the district, highlighted by the first safety committee meeting, which considered updates and additions to safety measures, including the placement of AEDs. Additionally, the board approved several policy readings, including updates to high school graduation requirements and employment disclosures, indicating ongoing attention to policy changes that affect school operations and student welfare. The meeting concluded with a public comment regarding collaborative efforts among schools for a solo contest, demonstrating community engagement in school activities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-02-26-minutes.txt)
-
-## 2024-02-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a special session meeting on February 26, 2024, where the Board discussed and took action on letters of opposition to two pieces of legislation: ESB 5462 and ESHB 2331. Board President Steve Corwin led the meeting, where Board Directors present included Jarrod Karuza, Michelle Simmons, and Jana Haugen (via Zoom). The Board unanimously adopted the agenda and subsequently voted 4-0 to sign the letter opposing the aforementioned bills after a brief discussion that yielded no questions or comments. The meeting concluded shortly thereafter, with no additional business addressed.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-26-feb-minutes.txt)
-
-## 2024-02-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
-
-The Wapato School District Board of Directors held a work session on February 26, 2024, to discuss the 2024 Capital Projects. Executive Director Kevin Hill presented a detailed overview of completed, projected, and other capital projects, focusing on their locations, estimated costs, and service needs categorized as major, minor, athletic, deferred maintenance, or safety. The Board engaged in discussions regarding the selection process for contractors, emphasizing that all major projects exceeding $45,000 require three bids, with the lowest bid selected. Concerns were raised about the limited use of local companies, to which Mr. Hill responded that not all companies meet state requirements for working on school grounds, including passing background checks.
-
-The Board reviewed Hill's recommendations for 12 priority capital projects for 2024 and requested the addition of partitions for the Middle School. Mr. Garza and Mr. Hill were tasked with revising the priority list to incorporate this feedback for presentation at the next school board meeting for final approval. The meeting concluded at 5:30 PM, reinforcing the Board's commitment to community engagement and school safety through the careful planning of capital projects.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-02-26-februaryworksession-minutes.txt)
-
-## 2024-02-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
-
-The Wapato School District Board of Directors held a public meeting on February 26, 2024, at 4:30 PM, focusing on a work session regarding the 2024 Capital Projects. Executive Director Kevin Hill presented a detailed overview of completed and projected capital projects, including their estimated costs and identified service needs such as major, minor, athletic, deferred maintenance, and safety. The Board engaged in discussions about the selection process for companies to undertake these projects, emphasizing that all major projects over $45,000 require three bids, with the lowest bid being selected. Concerns were raised regarding the limited use of local companies, which Mr. Hill attributed to state requirements that companies must meet, including sex offender checks and necessary permits.
-
-The Board reviewed Hill's recommendations for prioritizing 12 capital projects for 2024 and requested the addition of Partitions for the Middle School to the list. Mr. Hill and Mr. Garza will revise the priority projects based on the Board's feedback and present the final recommendations for approval at the next school board meeting. The work session concluded at 5:30 PM, with the meeting adjourned by Board President John Francisco.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-02-26-minutes.txt)
+| [Mike Bly](board_member_285.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
+| [Mike Bly](board_member_285.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
+| [Mike Bly](board_member_285.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
+| [Mike Bly](board_member_285.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
+| [Justin Voelker](board_member_283.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
+| [Justin Voelker](board_member_283.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
+| [Justin Voelker](board_member_283.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
+| [Justin Voelker](board_member_283.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
+| [Justin Voelker](board_member_283.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
+| [Jonathan Horsley](board_member_284.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
 
 ## 2024-02-26 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-The Battle Ground Public Schools Board of Directors held a regular meeting on February 26, 2024, where significant topics included community concerns regarding book access and the presence of sexual materials in high school libraries. Patrons expressed their views on the banning of books, highlighting the importance of access to diverse reading materials. Additionally, the board approved several policy changes, including the revision of Policy 5005 regarding Employment and Volunteers, which now mandates background checks for volunteers through the Washington State Patrol and FBI, reflecting a change in how these checks are conducted. The board also revised Policy 5410 to include Juneteenth as a recognized holiday. Community engagement was evident as students from local schools presented their experiences, and the board acknowledged various staff members for their contributions to the district.
+The Battle Ground Public Schools Board of Directors held a regular meeting on February 26, 2024, where various topics were discussed, including concerns raised by community members regarding book access and the presence of sexual materials in high school libraries. Citizens Lori Rodriguez and Jeffery Lyles expressed concerns about the banning of books, while others, including Gretchen Verpoorten and Randall Rathbun, voiced their worries about specific materials in the libraries. Additionally, the board approved several policy revisions, including Policy 5005 regarding Employment and Volunteers, which now requires background checks for volunteers through the Washington State Patrol and FBI, and Policy 5410, which adds Juneteenth as a recognized holiday. The meeting also highlighted community engagement through student presentations and recognition of staff members for their contributions.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-26-minutes.txt)
 
 ## 2024-02-26 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-The Battle Ground Public Schools Board of Directors held a regular meeting on February 26, 2024, where several key actions and discussions took place. Notably, the board approved the second reading and adoption of Policy 6815 regarding Advertising on District Property, which formalizes existing practices while ensuring compliance with non-discrimination and freedom of speech principles. The board also reviewed and approved curriculum proposals for Advanced Placement (AP) Social Studies and Science courses, highlighting the district's commitment to high-quality education and transparency in the curriculum adoption process. Additionally, the board approved the Career and Technical Education Plan presented by Cindy Arnold, which reflects the district's ongoing efforts to enhance educational opportunities for students. The meeting included updates on various projects, including the award of a contract for a Public Safety Distributed Antenna System to improve security in schools, funded by a federal grant.
+The Battle Ground Public Schools Board of Directors held a regular meeting on February 26, 2024, where several key actions were taken. Notably, the board approved the second reading and adoption of Policy 6815 regarding advertising on district property, which formalizes existing practices while ensuring compliance with non-discrimination and freedom of speech principles. The board also approved significant curriculum proposals for high school Advanced Placement (AP) courses in Social Studies and Science, following a review process that met Board Policy 2020 requirements. Additionally, the board awarded a contract for the Public Safety Distributed Antenna System (DAS) to McKinstry Essention, funded by a federal grant aimed at enhancing school security. The meeting included various reports highlighting student achievements and staff recognitions, promoting community engagement within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-26-regularboardmeeting-minutes.txt)
 
-## 2024-02-23 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2024-02-26 - ONALASKA_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a special session meeting on February 23, 2024, where the Board, led by President Steve Corwin, discussed their opposition to proposed legislation ESB 5462 and ESHB 2331. Following a presentation from Dr. Everett regarding insights from Representative Timmons, the Board opted to draft a letter of opposition to be sent to Senator Shewmake and Representatives Timmons and Rule, rather than moving forward with a formal resolution. A follow-up special session is scheduled for February 26, 2024, to further discuss the matter. Director Marty Gray expressed his intention to abstain from the upcoming meeting and requested that his name not be included in the letter of opposition. The meeting concluded with no further business at 4:12 p.m.
+The Regular School Board Meeting on February 26, 2024, included a community recognition segment where Brittany Locklin accepted a Certificate of Recognition for the Onalaska PTO, acknowledging their contributions to local schools. The meeting also highlighted a focus on school safety, with a new safety committee established to address various safety concerns, including the need for AEDs. Additionally, the board discussed several policy changes, including the first reading of multiple policies related to graduation requirements, employment disclosures, and student harassment. The board noted ongoing state legislation, specifically mentioning the passage of ESB 5462 in committee, which could provide funding beneficial to the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-23-feb-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-02-26-minutes.txt)
 
-## 2024-02-22 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-02-26 - WAPATO_SCHOOL_DISTRICT (Minutes)
 
-The Regular School Board Meeting held on February 22, 2024, included discussions on several policy changes and community engagement initiatives. Notably, the board approved MB Policy 5010 Nondiscrimination and Affirmative Action, MB Policy 6020 Systems of Funds and Accounts, and MB Policy 6605 Student Safety Walking, Biking, and Riding Buses, all receiving unanimous support. Additionally, MB Policy 2121 Substance Abuse Program was also approved, reflecting a focus on student health and safety. The board addressed concerns raised by community member Jenn Espeland regarding district transparency and website updates, indicating an emphasis on community engagement. The meeting also highlighted upcoming events such as Kindergarten Registration and Latino Family Literacy Night, further demonstrating the board's commitment to fostering community connections.
+The Wapato School District Board of Directors held a public meeting on February 26, 2024, where they reviewed the 2024 Capital Projects. Executive Director Kevin Hill presented a comprehensive overview of completed and projected capital projects, emphasizing the funding sources and service needs categorized as major, minor, athletic, deferred maintenance, or safety. The discussion highlighted the formal bidding process for projects exceeding $45,000, which requires three bids, with the lowest bid selected. The Board expressed concerns about the limited use of local companies for projects, to which Mr. Hill explained the stringent requirements set by the State, including sex offender checks and necessary permits. The Board requested the addition of Middle School partitions to the priority list, which Mr. Garza and Mr. Hill will revise for final approval at the next meeting. The work session concluded with an emphasis on community engagement and transparency in the capital project selection process.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-22-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 5010 Nondiscrimination and Affirmative Action | Ms. Brenna Reaugh made a motion to approve MB Policy 5010 Nondiscrimination and Affirmative Action for first and final r...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6020 Systems of Funds and Accounts | Ms. Brenna Reaugh made a motion to approve MB Policy 6020 Systems of Funds and Accounts for first and final reading, Ms....[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6605 Student Safety Walking, Biking, and Riding Buses | Ms. Brenna Reaugh made a motion to approve MB Policy 6605 Student Safety Walking, Biking, and Riding Buses for first and...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 2121 Substance Abuse Program | Ms. Brenna Reaugh made a motion to approve MB Policy 2121 Substance Abuse Program for first and final reading, Ms. Danie...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 5010 Nondiscrimination and Affirmative Action | Ms. Brenna Reaugh made a motion to approve MB Policy 5010 Nondiscrimination and Affirmative Action for first and final r...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6020 Systems of Funds and Accounts | Ms. Brenna Reaugh made a motion to approve MB Policy 6020 Systems of Funds and Accounts for first and final reading, Ms....[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6605 Student Safety Walking, Biking, and Riding Buses | Ms. Brenna Reaugh made a motion to approve MB Policy 6605 Student Safety Walking, Biking, and Riding Buses for first and...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 2121 Substance Abuse Program | Ms. Brenna Reaugh made a motion to approve MB Policy 2121 Substance Abuse Program for first and final reading, Ms. Danie...[truncated, use api for full text] |
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/2024-02-26-februaryworksession-minutes.txt)
 
 ## 2024-02-21 - ONALASKA_SCHOOL_DISTRICT (Minutes)
 
-The Board Workshop held on February 21, 2024, involved discussions regarding various policy changes, including the first reading of several significant policies. The policies under review included 2190/2190P on Highly Capable Programs, 3205P addressing Sexual Harassment of Students, 4201/4201P focused on Civility, and 5161 regarding Civility in the Workplace. These policies aim to enhance school safety and ensure respectful interactions within the educational environment. Additionally, the workshop included discussions on student threat assessments, personnel matters, financials, annual contracts, proclamations, and surplus items, indicating a comprehensive approach to governance and operational oversight. The meeting concluded with an adjournment at 6:32 PM.
+The Board Workshop held on February 21, 2024, included discussions on several policy changes and reviews. Among the policies recommended for approval during the first reading were: 2190/2190P on Highly Capable Programs, which addresses the educational needs of gifted students; 3205P on Sexual Harassment of Students Prohibited, aimed at ensuring a safe learning environment; 4201/4201P on Civility, promoting respectful behavior within the school community; and 5161 on Civility in the Workplace, which outlines expectations for professional conduct among staff. Additionally, the workshop included discussions on student threat assessment, which is crucial for maintaining school safety, as well as a review of personnel matters and financials. The meeting concluded with a recommendation to adjourn at 6:32 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-02-21-minutes.txt)
 
-## 2024-02-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a meeting on February 21, 2024, where several important topics were discussed, including policy changes and community engagement initiatives. The board reviewed Policy and Procedure 5271 – Reporting Improper Governmental Action, Policy and Procedure 5282 - Civility, and Policy 6111 - Tuition, all of which are set for a second review at the March 6, 2024, Regular Board meeting. Additionally, the board reviewed the 2024-2027 School Year Calendars and Resolution 01-24: OSPI 180 Day Waiver, both also scheduled for further discussion in March. 
-
-A significant discussion centered around opposition to HB 5462 and ESHB 2331, where the board decided to seek additional information from local legislators. The board scheduled a Special Session Meeting for February 23, 2024, to continue this discussion. The meeting also featured reports from various directors, including a Public Relations Update and a Curriculum Report, highlighting the district's commitment to improving communication and instructional materials.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-21-feb-minutes.txt)
-
-## 2024-02-21 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
-
-The Spokane Public Schools Board of Directors convened on February 21, 2024, to discuss various agenda items, including proposed policy revisions to the 4000 Series, which involves eight policies and/or procedures. Board members provided feedback on these changes, with a focus on enhancing community engagement. Additionally, Heather Bybee and Cindy Coleman reported on the Pride Prep Charter School's progress, recommending its charter renewal based on metrics such as academic performance and social-emotional learning. Nicole Rosenkrantz presented a new District Listening Session model aimed at facilitating comprehensive feedback from the community. The meeting also included updates from board members on their recent activities and engagements, emphasizing the importance of community involvement in educational initiatives.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-21-minutes.txt)
-
 ## 2024-02-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a Special Board Meeting on February 20, 2024, to gather stakeholder feedback on budget planning for the 2024-2025 school year. The meeting, attended by board members and approximately thirty community members, focused on soliciting input regarding the district's priorities and areas needing additional resources. President Don Leu highlighted the importance of community engagement and transparency in the budget process, noting that feedback indicating a desire for "more" would be treated as a priority. Concerns were raised about the district's ongoing need for budget reductions and the potential impact on school programs, with Director Ryan Ford emphasizing the importance of advocating for adequate state funding.
-
-During the meeting, participants were divided into groups to discuss specific questions related to the district's strengths and areas for improvement. The feedback collected will inform the district's administration as they consider necessary budget reductions. President Leu acknowledged the likelihood of program cuts while encouraging the community to unite in their advocacy for educational funding. The meeting concluded with a unanimous vote to adjourn, and the minutes were approved on February 26, 2024.
+The Blaine School District No. 503 held a Special Board Meeting on February 20, 2024, to gather stakeholder feedback on budget planning for the 2024-2025 school year. The meeting was attended by all board directors and approximately thirty community members. The purpose was to collect input to inform potential budget reductions and prioritize programs for reinstatement. Participants engaged in group discussions on various topics, including strengths of the district, areas needing additional resources, and essential programs for student and staff success. President Don Leu emphasized the importance of community feedback and the need for unity in advocating for educational funding to state legislators, while also acknowledging the likelihood of necessary budget reductions. The meeting concluded with discussions on the board's next steps and methods for ongoing community communication regarding budget priorities. The feedback process ended at 7:37 p.m., with the meeting adjourned unanimously.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-20-minutes.txt)
 
@@ -1676,30 +999,25 @@ During the meeting, participants were divided into groups to discuss specific qu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
-| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
+| [Cliff Freeman](board_member_324.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
+| [Erika Creydt](board_member_322.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
+| [Ben Lazarus](board_member_323.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
 
-## 2024-02-20 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2024-02-15 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board of Directors held a meeting on February 20, 2024, where significant discussions centered around the failed general obligations bond from the February election and the potential for a new bond measure to be placed on the April ballot. The board received public input advocating for the bond, emphasizing its importance for creating impactful educational facilities. However, during the board workshop, concerns were raised about the tight timeline for community engagement and the need for better communication regarding the bond process. Ultimately, a motion to place Resolution #01-24, which pertains to the General Obligations Bond, on the April ballot was not carried, with a vote of 2-3 against. Additionally, the board unanimously approved a letter opposing House Bill 2331 and Senate Bill 5462, indicating a clear stance on these legislative matters.
+The Vashon Island School District (VISD) board meeting included a report by Tara Vanselow on the VISD Counseling/Mental Health Services, which introduced counseling staff and their daily responsibilities, indicating a focus on mental health support for students. Dr. Slade McSheehy discussed the successful passing of the 2024 levy, which will fund various safety and technology upgrades across the district, including improvements to the Chautauqua playground and fire alarm systems, highlighting school safety as a priority. Additionally, Juniper Rogneby reported on the Racial Equity Group's activities, specifically the planning of the Black Lives Matter in Schools event, which was influenced by student feedback, underscoring the district's commitment to community engagement and racial equity. The meeting also addressed potential policy changes regarding budget planning and a resolution (Resolution 813) concerning a possible reduction in force due to anticipated funding shortfalls, emphasizing the financial challenges facing the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-02-15-minutes.txt)
 
-### Board Member Actions
+## 2024-02-15 - TOLEDO_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the February 15, 2024 board meeting minutes | Motion carried by voice vote. Board Vote: 5-0. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to move forward with placing Resolution #01-24, General Obligations Bond on the ballot for the April...[truncated, use api for full text] | Motion not carried. Board Vote: 2-3 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve a letter from the Board of Directors stating opposition to House Bill 2331 and Senate Bil...[truncated, use api for full text] | Motion carried by voice vote. Board Vote 5-0 |
+The Toledo School District Board of Directors held a regular meeting on February 15, 2024, where they discussed various topics including the introduction of a School Resource Officer (SRO) position by Toledo Police Chief Duane Garvais-Lawrence. The goal is to have Bill Lynn serve as a certified police officer to foster a friendly presence within the school community, emphasizing the importance of extensive training for the SRO role. The board also approved Resolution 2023-24-06 for a Budget Extension to expend playground grant funds for Toledo Elementary School. Additionally, the board made several changes to the district calendar, including a revised 2023-24 District Calendar to accommodate missed school days due to weather, and approved new calendars for the 2024-25 and 2025-26 school years that will begin before Labor Day.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/toledo_school_district/2024/2024-02-15-regularmeetingdraft-minutes.txt)
 
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 board meeting on February 15, 2024, addressed significant community concerns regarding a bond proposal for school safety and infrastructure that failed to pass in the recent election, receiving only 50.98% approval. Community members emphasized the urgent need for the bond to be presented again, highlighting safety and security as critical deficiencies in education. Superintendent David VanderYacht acknowledged the results and encouraged the board to develop a plan for potentially resubmitting the bond with adjustments. The meeting also included discussions on nursing services within the district, focusing on the responsibilities of school nurses and the mental health aspects of their roles, with plans for policy updates. The board scheduled a special meeting for February 20, 2024, to further discuss the bond issue and include public comments.
+The Lynden School District Board meeting held on February 15, 2024, addressed significant community concerns regarding a bond that failed to pass during the February 13 election, receiving only 50.98% approval, which is below the required 60% + 1. Community members advocated for the board's active involvement in reintroducing the bond to voters, emphasizing the pressing need for improved safety and security measures in schools. Superintendent David VanderYacht acknowledged the community's support for an operations levy, which passed with 57.1% approval, and highlighted the importance of discussing the bond's future. Additionally, the board discussed updates to student health services, including the role of school nurses and the need for policy revisions related to health protocols. The meeting also included legislative updates, with board members encouraged to engage with local legislators regarding bills affecting school funding and local control.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
 
@@ -1707,36 +1025,14 @@ The Lynden School District #504 board meeting on February 15, 2024, addressed si
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-
-## 2024-02-15 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
-
-The Vashon Island School District (VISD) board meeting included a significant update on school safety, with Dr. Slade McSheehy expressing gratitude for the community's support in passing the 2024 levy aimed at enhancing safety and technology across the district. This includes projects like improvements to the Chautauqua playground, fire alarm systems, and HVAC upgrades. Additionally, the board discussed the VISD Counseling/Mental Health Services, with Tara Vanselow highlighting the counseling staff's roles and opening the floor for board questions. The meeting also addressed Resolution 813, which authorizes the Superintendent to plan for a potential reduction in force due to anticipated funding shortfalls, reflecting the board's proactive approach to budget management amidst fluctuating enrollment numbers.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-02-15-minutes.txt)
-
-## 2024-02-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
-
-The Bremerton School District Board of Directors held a regular meeting on February 15, 2024, where they addressed several key topics. The board reviewed and approved the Consent Agenda, which included a Human Resources Report and various contracts related to special services. Notably, the board discussed and approved revisions to Policy 3207, which addresses Harassment, Intimidation, and Bullying, ensuring it includes language related to online bullying and the procedures for investigating such incidents. Additionally, Policy 2190 concerning Highly Capable Programs was presented for a second reading, revised to comply with Senate Bill 5072, aimed at increasing equitable access to these programs. Superintendent Crawford expressed his satisfaction with the recent passage of a Levy and the nearing completion of a Bond, highlighting community engagement in these efforts. Student representatives provided updates on school events and expressed gratitude for community support, particularly in relation to social-emotional learning initiatives.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-02-15-febregboardmeeting-minutes.txt)
-
-## 2024-02-15 - BREMERTON_SCHOOL_DISTRICT (Minutes)
-
-The Bremerton School District Board of Directors held a regular meeting on February 15, 2024, where several key topics were discussed. The board approved a one-year agreement with the Association of Bremerton Administrators, which includes a 4.2% salary increase retroactive to July 2023. Additionally, they reviewed and approved revisions to Policy 3207 regarding Harassment, Intimidation, and Bullying, which now includes provisions for online bullying as part of the procedures for addressing such issues. The board also conducted a second reading of Policy 2190 on Highly Capable Programs, aligning it with Senate Bill 5072 aimed at increasing equitable access to these programs. Superintendent Crawford expressed excitement about the recent passage of a levy and the nearing completion of a bond, highlighting community engagement and support for educational initiatives. The meeting also featured a report from student representatives, who shared positive updates on school events and the community's involvement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-02-15-minutes.txt)
-
-## 2024-02-15 - TOLEDO_SCHOOL_DISTRICT (Minutes)
-
-The Toledo School District Board of Directors held a regular meeting on February 15, 2024, where they addressed several key items including the approval of the SRO MOU, which aims to enhance school safety by bringing in a certified police officer, Bill Lynn, to act as a positive presence for students. The Board also discussed the Resolution 2023-24-06 Budget Extension to utilize playground grant funds for Toledo Elementary School, which had no public testimony during the hearing. Other notable actions included the approval of the revised 2023-24 District Calendar, which accounts for missed school days due to weather, and the acceptance of a $30,000 PTO donation for the playground project. The board also approved the 2024-25 and 2025-26 District Calendars to start before Labor Day, reflecting a shift in scheduling practices.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/toledo_school_district/2024/2024-02-15-regularmeetingdraft-minutes.txt)
+| [Tonya Hickman](board_member_333.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
 
 ## 2024-02-14 - KENT_SCHOOL_DISTRICT (Minutes)
 
-The Kent School District No. 415 Board of Directors held a meeting on February 14, 2024, where key topics included school safety, special education support, and the approval of various resolutions and policies. Notably, the board discussed Resolution No. 1665, which pertains to the Capital Projects and Technology Replacement Levy, and held a public hearing where community members expressed concerns regarding student safety while walking to and from school, staffing issues, and conditions in school buildings. The board also addressed the reimbursement of personal legal fees incurred by Director Cook, which was ultimately voted down after a roll call vote. Additionally, the meeting included proclamations for National School Counseling Week, National Black History Month, and Career and Technical Education Month, highlighting a focus on community engagement and recognition of various educational initiatives.
+The Kent School District No. 415 Board of Directors held a meeting on February 14, 2024, addressing several significant issues, including student safety and special education support. Public comments highlighted concerns regarding student safety while walking to and from school, staffing, and school building safety conditions. Superintendent Vela provided a report, and Director Clark offered a legislative update relevant to these issues. The board presented several proclamations, including National School Counseling Week and National Black History Month. 
+
+A key agenda item was Resolution No. 1665, related to Capital Projects and Technology Replacement Levy, which received public comments during a hearing. Additionally, a controversial discussion arose regarding the reimbursement of personal legal fees incurred by Director Cook, which ultimately failed after a roll call vote. The board also approved various consent agenda items, including educational initiative grants and specific school projects, while engaging in discussions about policy changes and community engagement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/kent_school_district/2024/2024-02-14-board-minutes.txt)
 
@@ -1744,21 +1040,21 @@ The Kent School District No. 415 Board of Directors held a meeting on February 1
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Donald Cook](board_member_126.md) | voted yes on motion to discuss and vote on reimbursement for personal legal fees incurred by him | Director Cook made a motion to discuss and vote on reimbursement for personal legal fees incurred by him over the last t...[truncated, use api for full text] |
-| [Donald Cook](board_member_126.md) | voted yes on motion to table the previously made motion regarding reimbursement of personal legal fees | Director Cook clarified that his motion to table was to afford Director Song the opportunity to make and discuss a separ...[truncated, use api for full text] |
-| [Andy Song](board_member_127.md) | voted yes on motion to waive attorney/client privilege | A motion was made by Director Song to waive attorney/client privilege. |
-| [Tim Clark](board_member_125.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, Director Clark voted Nay. |
-| [Awale Farah](board_member_124.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, Vice President Farah voted Nay. |
-| [Meghin Margel](board_member_123.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, President Margel voted Nay. |
-| [Tim Clark](board_member_125.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
-| [Awale Farah](board_member_124.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
-| [Meghin Margel](board_member_123.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
-| [Meghin Margel](board_member_123.md) | voted yes on Resolution No. 1665 – Capital Projects and Technology Replacement Levy | A motion was made to approve Item 8.01, Resolution No. 1665 – Capital Projects and Technology Replacement Levy. |
-| [Awale Farah](board_member_124.md) | voted yes on Pro/Con Committee Appointment for Resolution No. 1665 | A motion was made to approve Item 9.02, Pro/Con Committee Appointment for Resolution No. 1665. |
+| [Donald Cook](board_member_133.md) | voted yes on motion to discuss and vote on reimbursement for personal legal fees incurred by him | Director Cook made a motion to discuss and vote on reimbursement for personal legal fees incurred by him over the last t...[truncated, use api for full text] |
+| [Donald Cook](board_member_133.md) | voted yes on motion to table the previously made motion regarding reimbursement of personal legal fees | Director Cook clarified that his motion to table was to afford Director Song the opportunity to make and discuss a separ...[truncated, use api for full text] |
+| [Andy Song](board_member_134.md) | voted yes on motion to waive attorney/client privilege | A motion was made by Director Song to waive attorney/client privilege. |
+| [Tim Clark](board_member_132.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, Director Clark voted Nay. |
+| [Awale Farah](board_member_131.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, Vice President Farah voted Nay. |
+| [Meghin Margel](board_member_130.md) | voted nay on reimbursement of personal legal fees incurred by Director Cook | During the roll call vote for reimbursement of personal legal fees, President Margel voted Nay. |
+| [Tim Clark](board_member_132.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
+| [Awale Farah](board_member_131.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
+| [Meghin Margel](board_member_130.md) | voted nay on motion to waive attorney/client privilege | The motion to waive attorney/client privilege failed. |
+| [Meghin Margel](board_member_130.md) | voted yes on Resolution No. 1665 – Capital Projects and Technology Replacement Levy | A motion was made to approve Item 8.01, Resolution No. 1665 – Capital Projects and Technology Replacement Levy. |
+| [Awale Farah](board_member_131.md) | voted yes on Pro/Con Committee Appointment for Resolution No. 1665 | A motion was made to approve Item 9.02, Pro/Con Committee Appointment for Resolution No. 1665. |
 
 ## 2024-02-13 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board Meeting held on February 13, 2024, included significant discussions and approvals related to various board policies. Notably, the board approved revisions to Board Policy 3207, which addresses the Prohibition of Harassment, Intimidation, or Bullying, indicating a commitment to enhancing student safety and well-being. Additionally, Board Policy 3225 concerning School Based Threat Assessment was revised, reflecting the board's ongoing efforts to ensure a secure educational environment. The meeting also featured the first reading of revised Board Policy 5005, which pertains to Disclosures, Certification Requirements, Assurances, and Approval, suggesting a focus on accountability and transparency within the school district. The board's actions demonstrate a proactive approach to policy updates aimed at improving school safety and preventing bullying.
+The Regular Board Meeting held on February 13, 2024, involved discussions and approvals of several revised policies aimed at enhancing school safety and addressing bullying. Notably, the board approved the revised Board Policy 3207, which prohibits harassment, intimidation, or bullying, and the revised Board Policy 3225, which focuses on school-based threat assessment, both of which underwent a second reading. Additionally, Board Policy 3421 concerning child abuse and neglect prevention was also approved. These policy changes reflect the board's commitment to fostering a safe educational environment. Furthermore, the meeting included a presentation on the Trentwood roof by Drew Wright, highlighting ongoing facilities concerns. The board also discussed the need for a facilities committee to prioritize district bond projects, indicating a proactive approach to school infrastructure and safety.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-13-minutes.txt)
 
@@ -1766,34 +1062,32 @@ The Regular Board Meeting held on February 13, 2024, included significant discus
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the consent agenda | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
-| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
-| [Mike Bly](board_member_278.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
-| [Justin Voelker](board_member_276.md) | voted yes on the consent agenda | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
+| [Mike Bly](board_member_285.md) | voted yes on the consent agenda | Approved as presented. |
+| [Mike Bly](board_member_285.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
+| [Mike Bly](board_member_285.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
+| [Mike Bly](board_member_285.md) | voted yes on personnel | Approved as presented. |
+| [Mike Bly](board_member_285.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
+| [Mike Bly](board_member_285.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
+| [Mike Bly](board_member_285.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
+| [Mike Bly](board_member_285.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
+| [Mike Bly](board_member_285.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
+| [Mike Bly](board_member_285.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
+| [Mike Bly](board_member_285.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
+| [Justin Voelker](board_member_283.md) | voted yes on the consent agenda | Approved as presented. |
+| [Justin Voelker](board_member_283.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
+| [Justin Voelker](board_member_283.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
+| [Justin Voelker](board_member_283.md) | voted yes on personnel | Approved as presented. |
+| [Justin Voelker](board_member_283.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
+| [Justin Voelker](board_member_283.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
+| [Justin Voelker](board_member_283.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
+| [Justin Voelker](board_member_283.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
+| [Justin Voelker](board_member_283.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
+| [Justin Voelker](board_member_283.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
+| [Justin Voelker](board_member_283.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
 
 ## 2024-02-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 board meeting held on February 8, 2024, focused on several key areas, including long-term strategic planning for district facilities and school safety. Superintendent David VanderYacht provided updates on the district's facilities planning committees and the bond and levy funding initiatives set for the upcoming special election on February 13. He also discussed capacity and projected enrollment, emphasizing the need for future projects to accommodate increased student numbers due to local developments, such as the construction of 1,400-1,600 homes in the Pepin Creek area. 
-
-The meeting included discussions on the district's partnership with Inspire Development Center, which plans to build a new facility at Isom Elementary, and the ongoing efforts to improve safety protocols through the "I Love You Guys" emergency planning program. Additionally, city personnel engaged in discussions about community projects, including the development of Benson Park and other infrastructure improvements, highlighting the importance of collaboration between the school district and city officials to address the needs of early learners, senior citizens, and homeless students in the community.
+The Lynden School District Board of Directors held a meeting on February 8, 2024, where they discussed various community and safety initiatives. Superintendent David VanderYacht reported on the district's Safety & Security Task Force, which is reviewing emergency planning and response protocols in collaboration with local law enforcement, implementing the "I Love You Guys" emergency planning program across districts county-wide. The board also engaged with city officials, including Mayor Scott Korthuis, discussing future developments like the construction of a new building for the Inspire Development Center and the need for traffic solutions near the high school. The meeting emphasized community engagement, with plans for annual meetings between the school board and city personnel. Additionally, discussions included the development of Benson Park and associated infrastructure improvements, which reflect ongoing policy changes aimed at enhancing community resources and safety measures.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-08-minutes.txt)
 
@@ -1801,95 +1095,30 @@ The meeting included discussions on the district's partnership with Inspire Deve
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-
-## 2024-02-08 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The minutes from the Regular School Board Meeting on February 8, 2024, detail several policy changes approved by the board. Notable among these are the first and final readings of MB Policy 1400, which addresses Meeting Conduct, Order of Business, and Quorum; MB Policy 1611, which concerns Conflicts of Interest for districts with fewer than 2,000 students; and MB Policy 3207, which prohibits Harassment, Intimidation, and Bullying of Students. The board unanimously approved these policies, reflecting a commitment to maintaining order and safety within the school environment. Additionally, the meeting highlighted various community engagements and events, including Black History Month and School Counselors Week, indicating a focus on inclusivity and support for students' social and emotional well-being.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-02-08-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve the consent agenda | Ms. Brenna Reaugh made a motion to approve the consent agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum | Ms. Brenna Reaugh made a motion to approve MB Policy 1400 Meeting Conduct, Order of Business, and Quorum for first and f...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Students) | Ms. Brenna Reaugh made a motion to approve MB Policy 1611 Conflicts of Interest (Districts with Fewer than 2,000 Student...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 2190 Highly Capable Programs | Ms. Brenna Reaugh made a motion to approve MB Policy 2190 Highly Capable Programs for first and final reading, Ms. Danie...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Students | Ms. Brenna Reaugh made a motion to approve MB Policy 3207 Prohibition of Harassment, Intimidation and Bullying of Studen...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3231 Student Records | Ms. Brenna Reaugh made a motion to approve MB Policy 3231 Student Records for first and final reading, Ms. Danielle Gray...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 3520 Student Fees, Fines, or Charges | Ms. Brenna Reaugh made a motion to approve MB Policy 3520 Student Fees, Fines, or Charges for first and final reading, M...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on motion to approve MB Policy 4001 Public Information Program | Ms. Brenna Reaugh made a motion to approve MB Policy 4001 Public Information Program for first and final reading, Ms. Da...[truncated, use api for full text] |
-
-## 2024-02-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held its regular school board meeting on February 7, 2024, where several policies were reviewed and approved. Notably, Policy and Procedure 4260 - Use of School Facilities was adopted, which governs the use of school facilities. Additionally, Policy 5005 - Employment and Volunteers: Disclosures, Certification Requirements, Assurances and Approval, and Policy 5280 - Separation from Employment were also approved, indicating a focus on employment practices and volunteer management within the district. The student board representative expressed support for these policies, highlighting student involvement in governance.
-
-Community engagement was emphasized during the public comment section, where students expressed gratitude for the district's Career and Technical Education (CTE) programs and transportation services. The meeting also included presentations from various school teams on academic standards, showcasing efforts in improving student progress in areas such as phonics, math, and biology through data-driven strategies. These presentations reflect ongoing initiatives to enhance academic standards and student achievement within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-07-feb-minutes.txt)
-
-## 2024-02-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on February 7, 2024, where several key policies were reviewed and approved. Among them were Policy and Procedure 4260F regarding the Use of School Facilities, Policy 5005 concerning Employment and Volunteers, and Policy 5280 on Separation from Employment. All policies were presented by Assistant Superintendent Kurt Harvill and received favorable votes from the Board, indicating a consensus on their importance. Additionally, the meeting highlighted community engagement efforts, particularly through student representatives who expressed appreciation for Career and Technical Education (CTE) programs and the transportation provided to students. The meeting also included presentations from various school teams focusing on academic standards, specifically in areas such as phonics, math, and biology, showcasing the district's commitment to improving student progress and performance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-02-07-minutes.txt)
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
+| [Tonya Hickman](board_member_333.md) | voted yes on motion to approve the January 25, 2024, board meeting minutes | Motion to approve the January 25, 2024, board meeting minutes |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
+| [Tonya Hickman](board_member_333.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
 
 ## 2024-02-07 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
 
-The Spokane Public Schools Board of Directors held a Regular Meeting on February 7, 2024, focusing on various issues including student safety, transportation, and community engagement. During the meeting, community members, including Feliciano Castilliano and Alicia Hegie, expressed concerns about student safety and transportation policies, particularly regarding bussing radius and safety. Dr. Adam Swinyard, the superintendent, emphasized the district's ongoing efforts to provide optimal scenarios for students and mentioned that the transportation team is reviewing different models. Director Kozel acknowledged the advocacy of parents for student safety. Additionally, updates were provided on special education support, with Director Kozel highlighting her attendance at the Human Growth and Development Citizens Advisory Committee and conversations about the inclusion of differently-abled students. Mental health was also a topic of discussion, particularly in relation to legislative support for mental health initiatives in schools.
+The Spokane Public Schools Board of Directors held a regular meeting on February 7, 2024, focusing on various topics including student safety, transportation, and technology in education. Community members, including Feliciano Castilliano and Alicia Hegie, raised concerns about student safety and transportation policies, particularly regarding the bussing radius. Dr. Adam Swinyard emphasized the district's commitment to reviewing transportation models to enhance student safety. Additionally, updates on educational technology were presented by Heather Bybee and Stephanie Kerwien, who discussed strategies for integrating technology and media literacy into learning experiences, including addressing issues related to Generative AI. The meeting also highlighted community engagement efforts, with board members sharing their involvement in local events and legislative sessions, reflecting ongoing dialogue between the district and the community.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-02-07-minutes.txt)
 
-## 2024-02-06 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+## 2024-02-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The School Board Special Meeting, held on February 6, 2024, focused on the budgeting process for the 2024-2025 school year. Lydia Sellie, the Executive Director of Business & Finance, provided updates regarding the budget, indicating ongoing discussions and planning for financial allocations. The meeting, which was called to order by Director Nancy Katims at 5:00 PM and adjourned at 6:09 PM, is part of the board's long-term strategic planning efforts to ensure fiscal responsibility and transparency. The meeting minutes will be presented for approval on February 27, 2024.
+The regular meeting of the White Salmon Valley School District Board of Education included significant updates and discussions on various topics. Superintendent Rich Polkinghorn provided a report on community engagement efforts through strategic planning input meetings, emphasizing the importance of prioritizing K-12 education funding in state legislation. The Board reviewed several updated policies, including 3207 on the prohibition of harassment, intimidation, and bullying of students, and 3421 concerning child abuse and neglect. The Board also approved the CTE (Career and Technical Education) Four-Year Plan, which aims to enhance student health and safety through hands-on learning experiences in various vocational programs. Additionally, a resolution regarding the final acceptance of the WSVSD 405 Parking Area Reconstruction was approved, indicating ongoing improvements to school facilities.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-02-06-minutes.txt)
-
-## 2024-02-01 - EDMONDS_SCHOOL_DISTRICT (Minutes)
-
-The School Board Special Meeting held on February 1, 2024, focused on key governance topics, including the role of the school board, board norms and protocols, and the public comment process. The meeting also addressed the meeting schedule for the 2024-2025 school year, indicating a commitment to long-term strategic planning. The board engaged in discussions aimed at enhancing community engagement and improving board operations. Additionally, an executive session was conducted to evaluate the performance of a public employee, reflecting the board's adherence to school board ethics and performance evaluation practices. The meeting was called to order by Director Nancy Katims and concluded with adjournment at 8:21 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-02-01-minutes.txt)
-
-## 2024-01-30 - WAHLUKE_SCHOOL_DISTRICT (Minutes)
-
-The Wahluke School Board held a special meeting on January 30, 2024, where community engagement was emphasized, particularly through presentations from the High School PSO aiming to increase parental involvement and raise funds for scholarships. Reports included updates on discipline and attendance data, with a goal of reducing chronic absenteeism by 15% district-wide. The Superintendent reported a projected $1.4 million budget deficit for the 2023-24 school year, attributing this to declining enrollment and the failure of a local levy. Numerous policies were reviewed and adopted, including Policy 3112 on Social Emotional Climate and Policy 3241 on Student Discipline, which aim to enhance school safety and address student needs. The board also approved several policies related to student privacy, such as Policy 3231 on Student Records and Policy 3220 on Freedom of Expression, indicating a focus on protecting student rights and data.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/grant/school_boards/wahluke_school_district/2024/2024-01-30-minutes.txt)
-
-## 2024-01-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors convened a special meeting on January 30, 2024, for a strategic action plan school visit at Bothell High School. The meeting, which commenced at 9:00 AM and concluded at 11:00 AM, included attendance from board members Elisabeth Sotak, Hân Trần, and President Amy Cast, alongside Superintendent Mr. Michael Tolley. The primary focus of the meeting was the strategic action plan, indicating an emphasis on long-term planning and community engagement within the school district. The meeting minutes were generated by Peggy King and approved on February 12, 2024, with Mr. Michael Tolley serving as Secretary to the Board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-30-minutes.txt)
-
-## 2024-01-29 - YAKIMA_SCHOOL_DISTRICT (Minutes)
-
-The Yakima School District #7 Business Board Meeting held on January 29, 2024, included discussions on significant growth in alternative education programs, particularly Yakima Online (YOL) and Open Doors, which have expanded from 153 to 687 students over five years. Principal Lois Menard emphasized the importance of creating supportive, non-traditional learning environments, reflecting a commitment to student autonomy and academic standards. The board approved several policy changes, specifically Policies 1000.3.4 through 1000.3.9, which outline the roles and conduct of board members, governance costs, and processes for addressing violations. The board also addressed community engagement by acknowledging support from local services and discussing potential improvements for educational pathways. Additionally, Superintendent Greene provided updates on legislative advocacy efforts and student health initiatives, including a recent clothing donation to elementary students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-01-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-02-02-februarydraftboard-minutes.txt)
 
 ## 2024-01-25 - BELLEVUE_SCHOOL_DISTRICT (Minutes)
 
-The minutes from the January 25, 2024, Regular Business Meeting of the Board of Directors detail several key actions and discussions. The Board approved the agenda and the consent agenda, which included the approval of meeting minutes from the January 11, 2024, meeting, personnel changes, and various travel approvals. A significant motion was made to award a contract to Mahlum Architects for the Big Picture School, reflecting a commitment to school safety and infrastructure development. Additionally, the Board reviewed annual plans related to equitable access to programs and safety and security measures. A policy schedule update was also approved, indicating ongoing efforts to maintain and adapt policies in response to community needs. The meeting included opportunities for public comment, highlighting the Board's focus on community engagement.
+The January 25, 2024 Regular Business Meeting of the Board of Directors included key discussions and decisions related to school safety and community engagement. The Board approved several motions, including the Award of Contract for Mahlum Architects for the Big Picture School, which may impact future educational facilities. Additionally, the meeting featured updates on the Annual Plan for Equitable Access to Programs and Safety and Security, emphasizing the Board's commitment to ensuring safe educational environments. The updated 2023-24 Policy Schedule was also approved, signaling ongoing policy changes aimed at enhancing operational effectiveness within the district. The meeting was attended by several key figures, including Board President Carolyn Watson and Superintendent Dr. Kelly Aramaki, who contributed to the discussions and decisions made.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/bellevue_school_district/2024/2024-01-25-minutes.txt)
 
@@ -1897,24 +1126,30 @@ The minutes from the January 25, 2024, Regular Business Meeting of the Board of 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Phil Bloch](board_member_108.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
-| [Carolyn Watson](board_member_109.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
-| [Monica Webster](board_member_111.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
-| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
-| [Phil Bloch](board_member_108.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
-| [Carolyn Watson](board_member_109.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
-| [Monica Webster](board_member_111.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
-| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
-| [Phil Bloch](board_member_108.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
-| [Carolyn Watson](board_member_109.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
-| [Monica Webster](board_member_111.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
-| [Jane Aras](board_member_112.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
+| [Phil Bloch](board_member_115.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Carolyn Watson](board_member_116.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Monica Webster](board_member_118.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Jane Aras](board_member_119.md) | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| [Phil Bloch](board_member_115.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
+| [Carolyn Watson](board_member_116.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
+| [Monica Webster](board_member_118.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
+| [Jane Aras](board_member_119.md) | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
+| [Phil Bloch](board_member_115.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
+| [Carolyn Watson](board_member_116.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
+| [Monica Webster](board_member_118.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
+| [Jane Aras](board_member_119.md) | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
+
+## 2024-01-25 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 board meeting on January 25, 2024, included discussions on several significant topics, including updates to policies related to racial equity and community engagement. Dr. Stephanie Spencer presented on Black Lives Matter in Schools Week, which will take place from February 5-9, marking the district's fourth year of participation. Additionally, updates to Policy 3424 regarding Narcan administration were discussed, as current policy only allows adults to administer the opioid overdose prevention medication, which may require a revision if students are to carry or administer it. The board also addressed the importance of community involvement, with Lucia Armenta encouraging community members to engage with board members and participate in upcoming events, such as the Levy Community Forum scheduled for February 1. The board expressed gratitude for the Vashon Schools Foundation's contribution of $152,000 and acknowledged the efforts of the facilities team in addressing weather-related issues in school buildings.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-01-25-draft-minutes.txt)
 
 ## 2024-01-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board Meeting held on January 25, 2024, included discussions on several key topics, notably school safety and community engagement. Superintendent David VanderYacht provided an overview of the district's Capital Facilities Planning, focusing on upcoming levy and bond funding initiatives, which aim to enhance community resources and address local property tax impacts. Additionally, Director of Finance & Operations, Ben Thomas, presented details on the district’s emergency management and safety procedures, including the implementation of the I Love You Guys program for reunification protocols, and the Standard Response Protocol (SRP) used county-wide. 
+The Lynden School District Board Meeting on January 25, 2024, addressed several key topics including school safety and funding initiatives. Superintendent David VanderYacht provided insights into the district’s Capital Facilities Planning, discussing upcoming levy and bond funding initiatives and their implications for local property taxes. The board also reviewed emergency management and safety procedures, highlighting the use of the I Love You Guys program for reunification protocols and the Standard Response Protocol (SRP) utilized countywide. 
 
-Policy changes were also a significant part of the meeting, with the board approving updated Policy 5010 on Nondiscrimination and Policy 5161 on Civility in the Workplace. Furthermore, they discussed an updated Nondiscrimination in Hiring Plan, which was also approved. Director Martinez motioned against joining a class action lawsuit regarding social media's impact on youth mental health, indicating a focus on mental health issues within the community. The meeting concluded with discussions about advocating for legislative bills, indicating a commitment to community engagement and active participation in local governance.
+Policy changes included the approval of updated Policy 5010 on Nondiscrimination and Policy 5161 on Civility in the Workplace. Additionally, Policy 1400 regarding Meeting Conduct was amended to change the meeting start time from 6:00pm to 6:30pm. Director Martinez expressed interest in legislative matters, particularly House Bill 2458 and its potential impact on the district. Furthermore, student representatives reported on efforts to reestablish a Student Advisory Group, aiming to enhance student engagement. The meeting concluded with discussions on the need for improved facilities, particularly a new high school, as noted by Director Owsley.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-minutes.txt)
 
@@ -1922,38 +1157,17 @@ Policy changes were also a significant part of the meeting, with the board appro
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
-
-## 2024-01-25 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
-
-The School Board meeting on January 25, 2024, included several policy changes and community engagement discussions. Notably, MB Policy 6550 regarding the Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangements (SBITAS) was approved for its first and final reading, alongside MB Policy 6815 on Advertising on District Property, which was approved for its second and final reading. Additionally, the Board approved an initial plan for making up missed school days due to weather, reflecting their responsiveness to recent weather-related disruptions. Community concerns were voiced by attendees Jenn Espeland and Theresa Sygitowicz regarding the levy and school matters, indicating ongoing community engagement and feedback on educational funding and school operations. The Board also discussed upcoming school visits and the distribution of an information flyer about the levy to the community, emphasizing their commitment to maintaining open lines of communication with stakeholders.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-25-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6550 Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangemen...[truncated, use api for full text] | Ms. Brenna Reaugh made a motion to approve MB Policy 6550 for 1st and final reading, Ms. Danielle Gray seconded; motion ...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Policy 6815 Advertising on District Property | Ms. Brenna Reaugh made a motion to approve MB Policy 6815 for second and final reading, Ms. Danielle Gray seconded; moti...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on Initial Plan for Making Up Missed School Days Due to Weather | Ms. Brenna Reaugh made a motion to approve calendar changes as proposed, Ms. Danielle Gray seconded; motion carried, 5-0...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on MB Resolution 23/24:15 - Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:15, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6550 Capitalization Threshold for Leases and Subscription-Based Information Technology Arrangemen...[truncated, use api for full text] | Ms. Brenna Reaugh made a motion to approve MB Policy 6550 for 1st and final reading, Ms. Danielle Gray seconded; motion ...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Policy 6815 Advertising on District Property | Ms. Brenna Reaugh made a motion to approve MB Policy 6815 for second and final reading, Ms. Danielle Gray seconded; moti...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on Initial Plan for Making Up Missed School Days Due to Weather | Ms. Brenna Reaugh made a motion to approve calendar changes as proposed, Ms. Danielle Gray seconded; motion carried, 5-0...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on MB Resolution 23/24:15 - Signatories for Bank Accounts | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:15, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
 
 ## 2024-01-25 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board of Directors Meeting held on January 25, 2024, included discussions on various community engagement initiatives and acknowledgments for National School Board Month from both the SEA and the Principals Association. Superintendent Maxwell provided an update on the dissemination of levy information to community groups and emphasized the importance of upcoming ballot dates. Additionally, the Board approved Resolution No. 01-2024, which authorized the surplus and scrap of two school buses, indicating a policy change regarding resource management within the district. The meeting concluded with public comments, where community member Vicky Frausto expressed her thoughts, further emphasizing the importance of community involvement in school governance. The Board also recognized the efforts of staff in maintaining school safety during inclement weather conditions.
+The Regular Board of Directors Meeting held on January 25, 2024, included discussions on school safety and community engagement, particularly in light of recent inclement weather conditions. The Board expressed gratitude to the principals for their presentations during the January Board Work Sessions and acknowledged the staff's efforts to ensure student safety. Additionally, the Board approved Resolution No. 01-2024, which pertains to the surplus and scrapping of two school buses, indicating a policy change related to asset management. The meeting also recognized the Sunnyside School Board for National School Board Month, highlighting the importance of community engagement in educational governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-25-minutes.txt)
 
@@ -1961,54 +1175,54 @@ The Regular Board of Directors Meeting held on January 25, 2024, included discus
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
-| [Stephen Berg](board_member_359.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
-| [Jory Anderson](board_member_358.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Stephen Berg](board_member_366.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Jory Anderson](board_member_365.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_366.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_365.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_366.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_365.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_366.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_365.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_366.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_365.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_366.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_365.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_366.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_365.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Stephen Berg](board_member_366.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
+| [Jory Anderson](board_member_365.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
 
 ## 2024-01-24 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
 
-The Spokane Public Schools Board of Directors held a Regular Meeting on January 24, 2024, where discussions included community engagement regarding a proposed marksmanship team for the JROTC program at Rogers High School. Several community members, including Devony Audet and students, advocated for this initiative. The meeting also featured an update on Priority Strategy #7, focusing on the implementation of a Substance Use Disorder Curriculum, presented by Scott Kerwien and Melanie Smith. They discussed the curriculum's tier structures, partnerships, and recommendations for next steps, emphasizing the district's commitment to addressing student health and safety. The meeting concluded with Dr. Adam Swinyard reporting on bond and levy presentations and a new structure for campus safety reports.
+The Spokane Public Schools Board of Directors held a Regular Meeting on January 24, 2024, where community members voiced their support for establishing a marksmanship team within the JROTC program at Rogers High School. This proposal was presented by Devony Audet on behalf of her son, along with several other advocates. The Board also received updates on the Substance Use Disorder Curriculum, led by Scott Kerwien and Melanie Smith, which emphasized tier structures, partnerships, and implementation plans, reflecting a commitment to curriculum transparency and addressing student health. Additionally, the Superintendent, Dr. Adam Swinyard, reported on bond and levy presentations, as well as new structures for campus safety reports, highlighting ongoing efforts to enhance school safety. The meeting concluded without any changes to the agenda, indicating a structured approach to governance and community engagement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-01-24-minutes.txt)
 
 ## 2024-01-24 - COLVILLE_SCHOOL_DISTRICT (Minutes)
 
-The Colville School District Board of Directors held a regular meeting on January 24, 2024, where significant policy changes were discussed and approved. Notably, the Board conducted a first reading of Policy 5410 regarding Holidays and Policy 6020 concerning the System of Funds and Accounts. Both policies were revised and approved unanimously for the first reading. Additionally, Resolution No. 23/24-7 was presented and approved, which pertains to the Authorized District Bank & Change Fund Accounts, ensuring proper financial governance within the district.
-
-The meeting also addressed school safety, highlighting the district's ongoing efforts to conduct monthly safety drills, including a recent secure and teach drill at Colville Junior High School. Furthermore, there was an emphasis on community engagement, with public comments being welcomed and the importance of involving citizens in discussions about educational issues underscored by President Joe Fazzari. The meeting included updates from various schools within the district, showcasing academic achievements and extracurricular activities, thereby fostering a connection between the schools and the community.
+The Colville School District Board of Directors held a regular meeting on January 24, 2024, where they addressed several key items. Notably, the board conducted the first reading of two policies: Policy 5410, which pertains to Holidays, and Policy 6020, concerning the System of Funds and Accounts, both of which were revised. The board unanimously approved these policies for first reading, indicating a commitment to updating their governance documents. Additionally, the board recognized January as School Board Recognition Month, emphasizing the importance of community engagement and the value of public comments in educational discussions. The meeting also included updates on safety drills, including a secure and teach drill conducted at Colville Junior High, highlighting the district's ongoing focus on school safety.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-01-24-januaryregularboardmeeting-minutes.txt)
 
 ## 2024-01-23 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
-The School Board Regular Business Meeting held on January 23, 2024, included several key discussions and actions relevant to policy changes and community engagement. The board approved the revised Board Policy 2320 regarding field trips, emphasizing the use of district transportation to enhance safety. Additionally, they discussed the Emergency School Closure Waiver Request, which reflects ongoing considerations for school safety amid weather-related disruptions. The meeting also featured a celebration of All State Musicians and a student presentation from Beverly Elementary School, which highlighted the importance of data in learning, demonstrating community engagement and support for student initiatives. Furthermore, the board reviewed legislative priorities for 2024, indicating a focus on long-term strategic plans and advocacy for mental health and educational funding.
+The School Board Regular Business Meeting on January 23, 2024, included various significant actions and discussions. A key policy change was the approval of Revised Board Policy 2320 regarding Field Trips, which emphasizes the use of district transportation and includes guidelines for parents driving students. The board also approved the Emergency School Closure Waiver Request, indicating a proactive approach to school safety during unforeseen events. Additionally, the meeting highlighted community engagement through public comments, where concerns about field trip policies and technology reliance were raised by community members. The board recognized the importance of educational technology, as evidenced by student presentations from Beverly Elementary School discussing the use of data in learning. The meeting also included the approval of several resolutions, including the acceptance of a public works contract for security upgrades and the establishment of legislative priorities for 2024, demonstrating the board's commitment to enhancing safety and educational standards within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-01-23-minutes.txt)
 
 ## 2024-01-22 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
-The Lake Washington School District Board of Directors held a meeting on January 22, 2024, where they proclaimed February as Career and Technical Education Month and recognized National School Counseling Week. The board acknowledged January as School Board Appreciation Month and presented certificates to board members for their service. Audience participation included public comments addressing issues such as diversity, equity, and inclusion (DEI), school safety, and mental health support for students, with multiple speakers highlighting concerns related to Islamophobia and emotional support for students. The board received a legislative update regarding ongoing advocacy efforts and the acquisition of an EPA grant for electric school buses, emphasizing community engagement in legislative matters. The meeting also included discussions on inclusionary practices and a review of future board business, with an emphasis on maintaining a supportive and inclusive environment for all students.
+The January 22, 2024 Board Meeting of the Lake Washington School District (LWSD) included several recognitions and proclamations, notably declaring February 2024 as Career and Technical Education Month and February 5-9, 2024 as National School Counseling Week. The Board also acknowledged January 2024 as School Board Appreciation Month, presenting certificates to board members and student representatives. During audience participation, various community members raised concerns related to diversity and inclusion, including issues of Islamophobia, student safety, and emotional support for students. The meeting also featured a presentation on inclusionary practices, highlighting the district's commitment to diversity and inclusion. 
+
+The Board approved multiple resolutions, including those related to vouchers and human resources reports. Notably, the Board accepted donations and adopted instructional materials for the district. Additionally, the meeting included a legislative update, emphasizing the district's involvement in ongoing discussions regarding state legislation, with staff testifying on multiple bills. The session concluded with an executive session focused on evaluating complaints against public officers and discussing potential litigation, underscoring the Board's commitment to transparency and ethical governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
 
@@ -2016,17 +1230,17 @@ The Lake Washington School District Board of Directors held a meeting on January
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Eric Laliberte](board_member_131.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
-| [Lindsey Yocum](board_member_130.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
-| [Leah Choi](board_member_128.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
-| [Lisa Guthrie](board_member_129.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
-| [Eric Laliberte](board_member_131.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
-| [Mark Stuart](board_member_132.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
-| [Lindsey Yocum](board_member_130.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_138.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Leah Choi](board_member_135.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_138.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Mark Stuart](board_member_139.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
 
 ## 2024-01-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 regular board meeting held on January 22, 2024, included significant discussions surrounding special education funding and community engagement. Director Creydt reported on legislative issues such as HB 2180, which aims to increase the special education enrollment funding cap, highlighting the impact of funding shortages on students' access to services. The board expressed consensus on the need for a school resource officer in every school, aligning with HB 1071, which seeks to secure funding for this purpose. Additionally, Superintendent Dr. Granger outlined budget planning efforts, including potential reductions of $2.7 million for the 2024-2025 school year, emphasizing the importance of community input through upcoming public meetings. The board also unanimously approved Resolution 2324-04, supporting the district's propositions for a Replacement Educational Programs and Operations Levy and a $70 million General Obligations Bond, underscoring their commitment to financial stability and teacher support amidst budget constraints.
+The Blaine School District No. 503 held a regular board meeting on January 22, 2024, during which various topics were discussed, including state legislation affecting schools. Director Erika Creydt provided updates on several bills, notably HB 2180, which aims to increase the special education enrollment funding cap, and HB 1071, which seeks to authorize funding for a school resource officer (SRO) in every school, reflecting a consensus among board members regarding the importance of police presence for school safety. The board adopted Resolution 2324-04, supporting the "Proposition 2024-07 - Replacement Educational Programs and Operations Levy" and "Proposition 2024-08 - General Obligations Bond - $70,000,000," highlighting their commitment to community engagement and securing funding for educational programs. Additionally, concerns were raised about legislative bills that could impact local decision-making regarding student discipline, such as SB 5966, which addresses the restraint or isolation of students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-01-22-minutes.txt)
 
@@ -2034,57 +1248,31 @@ The Blaine School District No. 503 regular board meeting held on January 22, 202
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote at 8:37 p.m. |
-| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote at 8:37 p.m. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote at 8:37 p.m. |
+| [Cliff Freeman](board_member_324.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote at 8:37 p.m. |
+| [Erika Creydt](board_member_322.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote at 8:37 p.m. |
+| [Ben Lazarus](board_member_323.md) | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote at 8:37 p.m. |
 
 ## 2024-01-18 - TOLEDO_SCHOOL_DISTRICT (Minutes)
 
-The Toledo School District Board of Directors held a meeting on January 18, 2024, where various topics were addressed, including school safety and community engagement. A notable discussion involved the introduction of a School Resource Officer (SRO) as outlined in a Memorandum of Understanding (MOU) with the Toledo Police Department, which will be reviewed in the next meeting. The MOU specifies that the SRO will be uniformed and armed, with operational hours determined collaboratively between the school district and the police department. 
-
-In terms of community engagement, the board acknowledged the growth of the baseball program and the positive response from the community during adverse weather conditions, where the middle school was opened for community members without water. Additionally, the board received a $200,000 Healthy Kids, Healthy Schools Grant from OSPI for playground improvements at the elementary school, highlighting ongoing efforts to enhance student health and safety. The board also reviewed and approved various resolutions and contracts, including adjustments to general fund warrants.
+The Toledo School District Board of Directors held a regular meeting on January 18, 2024, where several key updates and actions were discussed. The board approved the resolution to accept a $200,000 Healthy Kids, Healthy Schools Grant from OSPI for the renovation of playgrounds at the elementary school. Additionally, the board reviewed the MOU 2023-24-32 with the Toledo Police Department regarding the School Resource Officer (SRO) program, which will have a uniformed and armed officer, with hours and responsibilities determined collaboratively. The board also discussed the importance of public records transparency, as outlined in Board Policy #6030, which mandates the submission of a Public Records Transparency Report to ensure accountability in governance. The meeting included no public comments, and maintenance updates highlighted ongoing efforts to improve school facilities while managing budget constraints.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/toledo_school_district/2024/2024-01-18-regularmeetingfinal-minutes.txt)
 
 ## 2024-01-16 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors convened a Study Session on January 16, 2024, focusing on Student Wellness and Safety. The session, attended by board members including President Amy Cast and Superintendent Michael Tolley, provided a platform for reviewing pertinent information related to the mental and physical health of students. The discussion emphasized the importance of creating a safe and supportive environment for students, aligning with broader school safety initiatives. The session concluded with an adjournment at 7:20 PM, and the minutes were approved on January 22, 2024.
+The Northshore School District Board of Directors held a study session on January 16, 2024, focusing on Student Wellness and Safety. The discussion involved reviewing information pertinent to the well-being of students, with an emphasis on mental health and safety measures within the school environment. Key participants included Board President Amy Cast and Superintendent Michael Tolley, who contributed to the dialogue regarding the district's policies and approaches to ensuring a safe and supportive atmosphere for students. The session concluded at 7:20 PM.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/northshore_school_district/2024/2024-01-16-minutes.txt)
 
 ## 2024-01-16 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Northshore School District Board of Directors held a Study Session on January 16, 2024, focused on Student Wellness and Safety. During the meeting, key discussions centered around the district's strategies and policies pertaining to the health and safety of students, with an emphasis on mental health initiatives. The session was attended by board members including President Amy Cast and Superintendent Michael Tolley, who facilitated the discussions. The meeting concluded with an adjournment at 7:20 PM, and the minutes were generated by Peggy King the following day. The board's ongoing commitment to student wellness reflects a broader trend in educational policy aimed at enhancing the overall safety and mental health support systems within schools.
+The Northshore School District Board of Directors held a Study Session on January 16, 2024, focusing on Student Wellness and Safety. The session included discussions on various aspects of student health and mental health, emphasizing the importance of creating a safe and supportive environment for students. The meeting was attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley. The session was called to order at 5:30 PM and adjourned at 7:20 PM, reflecting a structured approach to addressing the critical issues of student well-being and safety within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-16-minutes.txt)
 
-## 2024-01-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District Board of Directors held a special meeting on January 15, 2024, to participate in the PTSA Focus On Advocacy Day in Olympia, Washington. The meeting commenced at 9:00 AM and adjourned at 4:30 PM, with the attendance of board members including Elisabeth Sotak, Hân Trần, Jacqueline McGourty, and Superintendent Mr. Michael Tolley. This event underscores the district's commitment to community engagement and advocacy efforts, particularly through the collaboration with the Parent Teacher Student Association (PTSA). The meeting was officially recorded and approved on January 22, 2024, by Mr. Michael Tolley, serving as Secretary to the Board, and Amy Cast, the President of the Board of Directors.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-15-minutes.txt)
-
-## 2024-01-11 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting held on January 11, 2024, included discussions on various policies and plans aimed at enhancing educational standards and community engagement. Notably, the board conducted a first reading of Policy 5010 regarding nondiscrimination and Policy 5161 concerning civility in the workplace, both of which were postponed for further discussion in the next meeting. Additionally, the board approved updated Policy 2090 on Program Evaluation, emphasizing the importance of program efficacy in alignment with district goals. The meeting also featured presentations on School Improvement Plans from Lynden High School, Isom Elementary, and Lynden Middle School, focusing on enhancing student success and mental health through initiatives like Universal Design for Learning (UDL) and Positive Behavioral Interventions and Supports (PBIS). Furthermore, Superintendent VanderYacht shared information regarding a class action lawsuit related to the impact of social media on youth mental health, indicating a proactive approach to addressing mental health concerns within the community.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-11-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on approving updated Policy 2090- Program Evaluation | Director Hickman motioned to approve updated Policy 2090- Program Evaluation |
-| [Ken Owsley](board_member_327.md) | voted yes on approving updated Policy 2090- Program Evaluation | Seconded by Director Owsley. Motion carried by voice vote. |
-| [Khush Brar](board_member_328.md) | voted yes on approving all School Improvement Plans as presented | Director Brar motioned to approve all School Improvement Plans as presented. Seconded by Director Verburg. Motion carrie...[truncated, use api for full text] |
-| [Jim Verburg](board_member_329.md) | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
-| [Ken Owsley](board_member_327.md) | voted no on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
-| [Khush Brar](board_member_328.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
-| [Jim Verburg](board_member_329.md) | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
-
 ## 2024-01-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The regular school board meeting on January 11, 2024, included significant discussions and actions regarding school safety and policy changes. Notably, the board approved the MB Policy 4210 Regulation of Dangerous Weapons on School Premises for first and final reading, emphasizing a commitment to ensuring a safe environment for students and staff. Additionally, the board reviewed and approved the MB Policy 5161 Civility in the Workplace for its second and final reading, which aims to foster a respectful and professional atmosphere within the district. The meeting also highlighted community engagement efforts, including a "Vote Yes" committee event aimed at sharing information on an upcoming levy, indicating a proactive approach to involving the community in district decisions. The board's unanimous votes on these policies reflect a collective agreement on the importance of safety and civility within the educational environment.
+The Regular School Board Meeting on January 11, 2024, included significant policy changes and community engagement efforts. Notably, the board approved MB Policy 4210, which regulates dangerous weapons on school premises, and MB Policy 5161, addressing civility in the workplace, both passing unanimously. Additionally, the board discussed the Timber Revenue Letter for Whatcom County Council, which was approved with one amendment, and the Interim Superintendent Contract, also approved with a change. The meeting highlighted community engagement initiatives, including a "Vote Yes" Committee event aimed at informing the public about an upcoming levy and a legislative update. Concerns regarding district transparency were raised by community member Jenn Espeland, reflecting ongoing discussions about school safety and governance.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-01-11-minutes.txt)
 
@@ -2092,76 +1280,29 @@ The regular school board meeting on January 11, 2024, included significant discu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 4210 Regulation of Dangerous Weapons on School Premises | Ms. Brenna Reaugh made a motion to approve MB Policy 4210 Regulation of Dangerous Weapons on School Premises for first a...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve MB Policy 5161 Civility in the Workplace | Ms. Brenna Reaugh made a motion to approve MB Policy 5161 Civility in the Workplace for 2nd and final reading, Ms. Danie...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on motion to approve Timber Revenue Letter for Whatcom County Council | Ms. Brenna Reaugh made a motion to approve Timber Revenue Letter for Whatcom County Council with one change, Mr. Edward ...[truncated, use api for full text] |
-| [Edward Fox](board_member_338.md) | voted yes on motion to approve Interim Superintendent Contract | Mr. Edward Fox made a motion to approve Interim Superintendent Contract with one change, Ms. Danielle Gray seconded, mot...[truncated, use api for full text] |
-
-## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a board meeting on January 10, 2024, where various topics were discussed, including academic standards and community engagement. The board recognized the work of the Meridian Middle School Science team and presented reports on collaborative team data presentations, emphasizing the focus areas for student learning and progress measurement methods. Additionally, the board reviewed the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work, both of which will be brought back for further review and approval at the upcoming January 24 Board meeting. These discussions reflect the district's commitment to enhancing academic standards and engaging the community in the educational process.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-jan-minutes.txt)
-
-## 2024-01-10 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
-
-The Spokane Public Schools Board of Directors convened a Regular Meeting on January 10, 2024, where various topics were discussed, including updates on school safety and community engagement initiatives. Superintendent Swinyard reported on ongoing Bond/Levy sessions and highlighted an increase in kindergarten readiness by 37%. Director Kozel and other board members shared insights from their recent engagements, including discussions on equity in the bond and levy package. The meeting also included a consent agenda that featured HR nominations, audits, and agreements with other school districts, indicating ongoing policy management and community collaboration. No changes to the agenda were proposed, and no community members were present to voice concerns or feedback.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-01-10-minutes.txt)
-
-## 2024-01-09 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on January 9, 2024, included discussions and approvals of several key items. Notably, the board approved the 2023-24 School Improvement Plans, which are part of the district's long-term strategic planning efforts led by Dr. Tammy Campbell. The meeting also saw the approval of a donation of $1,899.58 from the East Valley Booster Club for volleyball uniforms, reflecting community engagement in school activities. Additionally, the board decided to remove the personnel report from the consent agenda, indicating a change in how personnel matters are addressed in meetings. The meeting concluded with an executive session to review the performance of a public employee, highlighting ongoing oversight of staff performance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-09-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Mike Bly](board_member_278.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Mike Bly](board_member_278.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
-| [Justin Voelker](board_member_276.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
-
-## 2024-01-09 - PULLMAN_SCHOOL_DISTRICT (Minutes)
-
-The Pullman City Council meeting held on January 9, 2024, included a series of re-appointments to various city committees and commissions, such as the Neill Public Library Board of Trustees and the Planning Commission, all of which were confirmed unanimously. Mayor Francis Benjamin presented a "Code of Conduct" as part of the 2022-2023 City Council Goals & Priorities, which outlines expected practices for city officials and the community. The Council approved multiple resolutions, including RESOLUTION NO. R-01-24, which adopts the North Arterial Technical Memorandum, and RESOLUTION NO. R-03-24, amending the Comprehensive Plan Map from High-Density Residential to Commercial for a specific property. Additionally, the Council discussed the WaterSMART Water & Energy Efficiency Grant Application for a citywide upgrade to Advanced Metering Infrastructure, emphasizing the importance of water conservation and efficiency. The meeting concluded with discussions regarding the Downtown Pullman Project, including a motion to delay the bid opening date to allow contractors more time to prepare. 
-
-tags: community-engagement
-policy-changes
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-01-09-council-minutes.txt)
-
-## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
-
-The Northshore School District held a Regular Board Meeting on January 8, 2024, where significant topics included the adoption of a new Board Policy No. 4400 regarding Election Activities and a revised Board Policy 0001 focused on Racial and Educational Justice. The Board also approved the Consent Agenda which encompassed various meeting minutes and trip approvals, highlighting the district's commitment to transparency and community engagement. Superintendent Michael Tolley reported on the School Strategic Action Plan visits and various advocacy meetings, emphasizing ongoing efforts to enhance student learning environments. Additionally, Director Elisabeth Sotak proposed offering childcare during meetings to increase parent involvement, indicating a focus on community engagement and accessibility.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
+| [Brenna Reaugh](board_member_347.md) | voted yes on motion to approve the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_347.md) | voted yes on motion to approve MB Policy 4210 Regulation of Dangerous Weapons on School Premises | Ms. Brenna Reaugh made a motion to approve MB Policy 4210 Regulation of Dangerous Weapons on School Premises for first a...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_347.md) | voted yes on motion to approve MB Policy 5161 Civility in the Workplace | Ms. Brenna Reaugh made a motion to approve MB Policy 5161 Civility in the Workplace for 2nd and final reading, Ms. Danie...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_347.md) | voted yes on motion to approve Timber Revenue Letter for Whatcom County Council | Ms. Brenna Reaugh made a motion to approve Timber Revenue Letter for Whatcom County Council with one change, Mr. Edward ...[truncated, use api for full text] |
+| [Edward Fox](board_member_345.md) | voted yes on motion to approve Interim Superintendent Contract | Mr. Edward Fox made a motion to approve Interim Superintendent Contract with one change, Ms. Danielle Gray seconded, mot...[truncated, use api for full text] |
 
 ## 2024-01-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the White Salmon Valley School District Board of Education on January 25, 2024, included significant discussions on mental health and school safety, particularly in light of a recent student suicide in the Hood River and Gorge Community. Superintendent Rich Polkinghorn highlighted the establishment of an Emergency Operations Committee aimed at standardizing emergency procedures across the district and indicated that a report on suicide prevention would be presented later in the meeting. The meeting also featured a first reading of several updated board policies, including 6513-Workplace Violence Prevention and 6605-Student Safety Walking, Biking, and Riding Buses, reflecting ongoing efforts to enhance student safety protocols. Additionally, the Board reviewed the School-Based Suicide Prevention Protocol, which is being developed in collaboration with ESD 112, and plans for staff training on this protocol were discussed.
+The Board of Education for the White Salmon Valley School District convened on January 25, 2024, where Superintendent Rich Polkinghorn provided updates on several critical issues, including a recent soft lockdown across multiple schools due to safety concerns and a tragic student suicide in the community. The district is working on standardizing emergency procedures through an Emergency Operations Committee. A significant focus was placed on mental health, with a presentation by Katie Rixon on the School-Based Suicide Prevention Protocol, which aims to train staff in recognizing and addressing suicide risks among students. Additionally, the board reviewed and approved several updated policies, including 6020-System of Funds and Accounts and 6513-Workplace Violence Prevention, reflecting ongoing efforts to enhance school safety and address mental health challenges within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-01-02-januarydraftboard-minutes.txt)
+
+## 2023-12-14 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 Board meeting on December 14, 2023, included discussions on various topics such as the importance of community engagement and support for special education. Anna Waldman, representing the Special Education Parent Advisory Council (SEPAC), highlighted the group's goals of providing resources and advocating for positive change in the district, focusing on issues like bussing and staff turnover. The board also received updates on mental health initiatives, including the teen mental health training provided to 10th graders, and discussed the upcoming 2024 Proposition No. 1, which aims to fund safety, security, and technology improvements in the district. The board members emphasized the significance of mobilization and engagement in the context of the 2024 Levy, particularly given the recent unsuccessful school levies in the November 2023 general election.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2023/2023-12-14-draft-minutes.txt)
+
+## 2023-12-13 - COLVILLE_SCHOOL_DISTRICT (Minutes)
+
+The Colville School District Board of Directors held a regular meeting on December 13, 2023, where several key actions were taken. Notably, the board approved Policy 3409, which pertains to accommodating students with seizure disorders or epilepsy, marking a significant policy change aimed at enhancing special education support. The board also emphasized community engagement by welcoming public comments and encouraging citizen participation in the meeting process. Additionally, the board reviewed updates on school safety initiatives, including the implementation of Door Held Open Alerts and monthly safety drills at all schools. These actions reflect the district's commitment to ensuring a safe and inclusive educational environment for all students.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2023/2023-12-13-decemberregularboardmeeting-minutes.txt)
 
 ## 2023-11-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
@@ -2170,6 +1311,12 @@ The Meridian School District #505 Board held a regular meeting on November 21, 2
 The board conducted second reviews and approvals of several levies: the NWESD Behavior Specialist Contract, the 2024 EP&O Levy Resolution 08-23, and the 2024 Capital Levy Resolution 09-23. All three levies were approved unanimously. The board also initiated a first review of a Youth Care Services contract which will be brought back for final approval at the December meeting.  Dr. Everett, the Superintendent, provided updates on his recent professional development activities and partnerships with organizations like the Gates Foundation. Student Board Representatives shared information about superintendent advisory council meetings.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-11-21-minutes.txt)
+
+## 2023-11-14 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 held a board meeting on November 14, 2023, where several key topics were discussed, including the adoption of VISD Resolution 812, which pertains to safety, security, and technology improvements within the district. The resolution was recommended for adoption by Superintendent Dr. Slade McSheehy and was unanimously approved by the board. Additionally, the board recognized the challenges in special education staffing and highlighted the establishment of the Special Education Parent Advisory Council (SEPAC) to enhance community engagement and support for families with special needs students. The meeting also included a reflection on racial equity initiatives and the importance of community input in decision-making processes, particularly regarding the ongoing discussions around Resolution 788. The board expressed gratitude towards departing members and emphasized the need for continued dialogue and collaboration within the community.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2023/2023-11-14-draft-minutes.txt)
 
 ## 2023-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -2379,6 +1526,14 @@ The school board meeting focused on concerns regarding safety and appropriate co
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2023/2023-01-05-minutes.txt)
 
+## 2022-12-14 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District held its regular board meeting on December 14th, 2022.  The meeting included routine items such as approval of the agenda and consent agenda which covered meeting minutes, accounts payable, personnel reports, payroll, and student travel.
+
+The board underwent its annual reorganization, electing Sara Bernardy as Chair and Craig Mitchell as Vice Chair. The meeting featured presentations recognizing staff members and a public comment period.  Several policies were presented for a second reading and subsequently adopted by the board. These included Policy 1220: Board Officers and Duties of Board Members Markup, Policy 1225: School Director Legislative Program, Policy 1610: Conflicts of Interest, and Policy and Procedure 3432: Emergencies. The Superintendent provided updates on district events and ongoing projects, including the "Whatcom Career and Technical Academy" and a proposal to update the 2023-24 school calendar. Student Board Representative Kurtis Kettman shared findings from his research on belonging within the board structure.  The next regular meeting was scheduled for January 11th.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-12-14-minutes.txt)
+
 ## 2022-11-30 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School Board held a meeting on November 30th, 2022, to discuss various agenda items.  The meeting included presentations on the district's technology plan and recognition of staff members. During public comment, a student spoke about her positive experience in a culinary arts program, and another individual thanked the board for transportation services provided to the Northwest Career and Technical Academy.
@@ -2432,6 +1587,14 @@ The board also engaged in a discussion regarding long-term strategic planning fo
 The Lynden School Board meeting minutes detail discussions on various topics including school safety, academic standards, and curriculum transparency.  The board received a report on the K-5 ELA CKLA/Amplify program, transitional kindergarten, and new teacher onboarding. They also reviewed budget information for the 2022-2023 school year. Notably, the board approved a Running Start Agreement with Bellingham Technical College. Additionally, they passed two resolutions authorizing transfers from the General Fund to the Debt Service Fund and from the Capital Project Fund to the Debt Service Fund. Tonya Hickman abstained from both votes on the fund transfers. The meeting also included a first reading of Policy #2410 regarding High School Graduation Requirements, which was approved. Finally, the board heard concerns from parents about transitional housing units near schools and the use of recess zones across elementary schools.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2022/2022-09-08-minutes.txt)
+
+## 2022-09-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on September 7th, 2022.  The meeting covered a range of topics including the approval of a consent agenda containing items such as accounts payable, personnel reports, and agreements with organizations like BTC Running Start and ECC College in High School. The Board also received reports on school data and staffing for the 2022-23 academic year. Several policies and procedures underwent second readings and were subsequently approved. These included Policy and Procedure 1400: Meeting Conduct, Order of Business, and Quorum; Policy and Procedure 1410: Executive or Closed Sessions; and Policy and Procedure 1420: Proposed Agenda and Consent Agenda. A first reading was conducted for Policy and Procedure 4210: Meeting Conduct, Order of Business, and Quorum and Policy and Procedure 6112: Executive or Closed Sessions. The Superintendent provided updates on back-to-school procedures, COVID-related matters, maintenance and facilities projects, NCTA updates, and Proposition 5.  The meeting concluded with the scheduling of the next regular board meeting for September 21st.
+
+The text also mentions teacher-staff shortages.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-07-minutes.txt)
 
 ## 2022-07-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -2509,6 +1672,14 @@ The Blaine School Board discussed several policy changes during their meeting. P
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-11-22-minutes.txt)
 
+## 2021-11-17 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School Board met on November 17, 2021 to discuss various policies and procedures.  The board conducted second readings and adopted Policy & Procedure 2420 (Grading and Progress Reports), Policy & Procedure 3231 (Student records) and Policy & Procedure 6800 (Safety, Operations, and Maintenance of School Property). They also reviewed a NWESD Communications Contract which was subsequently adopted.  
+
+The meeting included first readings for several new policies: Policy & Procedure 1822 (Training and Professional Development for Board Members), Policy & Procedure 5520 (Staff Development) and Procedure 6225 (Use of Electronic Signature). Additionally, a first reading was conducted on the Abeo Strategic Planning Proposal.  The board also received reports on district finances and updates from the Superintendent regarding asset preservation and new School Board Directors.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-11-17-minutes.txt)
+
 ## 2021-09-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail routine agenda items including contract approvals (MAP Testing, DreamBox Learning Master Software and Services Agreement, City of Bellingham – Civic Field Event Supervision, Highline School District Inter-District Cooperative Agreement), personnel recommendations, personal services contracts, and an inter-agency agreement with the Opportunity Council.  The board also discussed informational items such as school board director reports and a review of the annual board agenda (GP-7.2). Notably, Mr. Benjamin highlighted the pending deadline for completing a WSSDA self-assessment and Ms. Diaz Hackler shared positive impressions from a tour of the new Parkview building. The meeting concluded with a board assessment rating of 4 (commendable) and an adjournment at 6:52 p.m.
@@ -2532,6 +1703,18 @@ The May 27, 2021 school board meeting focused on several key issues.  The board 
 The Lynden School District Board held a meeting on March 30, 2021, to discuss reopening plans for the remainder of the 2020-2021 school year.  The board expressed support for moving from a 6ft to a 3ft social distancing rule for K-12 students, with shortened days and weeks, beginning in April. This change reflects updated guidance from the Whatcom County Health Department. The meeting also addressed the resignation of Superintendent Jim Frey, effective June 30, 2021. The board discussed the process for finding a replacement superintendent and expressed appreciation for Frey's service.  The community was invited to provide feedback on the reopening plan.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2021/2021-03-30-minutes.txt)
+
+## 2021-03-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board meeting minutes detail discussions on various topics including school safety measures, mental health support for students, and the district's response to the COVID-19 pandemic.  The board reviewed a report on the state of the district's assets and ongoing maintenance. They also discussed student autonomy through recognition of the Meridian High School yearbook team for their work during remote and hybrid learning. The meeting included presentations on Career Technical Education, and updates on interlocal agreements with the NWESD Whatcom Detention Center.  Policy changes were addressed, including the adoption of Policy 2107: Comprehensive Early Literacy Plan and Policy and Procedure 3115: Homeless Students Experiencing Homelessness – Enrollment Rights and Services. The board also conducted a first reading of Policy 3112: Social-Emotional Climate and Policy 6000: Program Planning Budget Preparation Adoption and Implementation Procedure.  The Superintendent's report covered MSD committees, vaccination clinics, updates on athletics, and the appointment of a new principal for Meridian Middle School.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-minutes.txt)
+
+## 2021-02-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a meeting on February 24, 2021, to discuss various school matters. Notably, they addressed the ongoing impact of COVID-19 on school operations, including updates from Meridian Parent Partnership Principal Michelle Siadal regarding changes and challenges faced during the pandemic.  The board also reviewed and adopted a revised fee schedule for Meridian High School and a policy regarding student promotion and retention (Policy 2421). A second reading was conducted for Policy 2107: Comprehensive Early Literacy Plan, and Policy 3115: Homeless Students Experiencing Homelessness – Enrollment Rights and Services.  The board finalized the 2021 graduation date and discussed a yearly interlocal agreement with NWESD Whatcom Detention Center. Superintendent James Everett provided updates on committee formation, vaccination clinics, and MSD Athletics. Student Board Members shared information about sports team performance and leadership class events. The meeting concluded with an executive session to review the contract of a public employee.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-02-24-minutes.txt)
 
 ## 2021-01-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

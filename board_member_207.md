@@ -1,6 +1,6 @@
-# Positions Supported by Larry Sauer (NEWPORT_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chad Miller (PATEROS_SCHOOL_DISTRICT, Term: 2014-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Larry Sauer | NEWPORT_SCHOOL_DISTRICT | None |
+| Chad Miller | PATEROS_SCHOOL_DISTRICT | 2014-2027 |
 

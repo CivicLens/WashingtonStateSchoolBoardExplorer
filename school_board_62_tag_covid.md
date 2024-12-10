@@ -38,6 +38,12 @@ The school board meeting minutes discuss the 2019-2020 school year report, highl
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-01-12-minutes.txt)
 
+## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing consistent updates, particularly during the COVID-19 pandemic. While the evaluation commends the Superintendent's performance overall, it suggests incorporating student and parent voices more explicitly as evidence of compliance with certain policies. The document also mentions a transition to remote learning due to COVID-19 but does not elaborate on the specifics or challenges associated with this shift.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-minutes.txt)
+
 ## 2021-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Fairhaven Middle School on November 9, 2021.  The visit focused on hearing from students about their experiences during the COVID-19 pandemic and in the post-pandemic school environment. Students shared both challenges and positive aspects of this period. The meeting also included a presentation on the history of Fairhaven Middle School.

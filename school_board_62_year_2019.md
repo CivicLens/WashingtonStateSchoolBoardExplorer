@@ -1,5 +1,11 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2019
 
+## 2019-12-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors held a special meeting on December 11, 2019, at Twin Sisters in Bellingham, Washington.  The purpose of the meeting was to celebrate recent district recognitions.  No decisions were made during this informational meeting. Present at the meeting were board members Kelly Bashaw, Douglas Benjamin, Camille Diaz Hackler, Jenn Mason, and Katie Rose, as well as Superintendent Greg Baker. The meeting adjourned at 8:30 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-12-11-minutes.txt)
+
 ## 2019-12-03 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Alderwood Elementary School on December 3, 2019.  The meeting focused on student perspectives and experiences. Students shared their enjoyment of academic subjects like science, writing, and math, as well as extracurricular activities such as the Girls on the Run club. They also expressed goals for improvement in areas like handwriting and reading comprehension. The visit highlighted themes of inquiry, goal-setting, community, and love within the school environment.

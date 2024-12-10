@@ -1,6 +1,6 @@
-# Positions Supported by Ms. Megan Iverson (ONALASKA_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Mark Vorce (LYLE_SCHOOL_DISTRICT, Term: 2020-2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ms. Megan Iverson | ONALASKA_SCHOOL_DISTRICT | None |
+| Mark Vorce | LYLE_SCHOOL_DISTRICT | 2020-2024 |
 

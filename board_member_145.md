@@ -1,6 +1,6 @@
-# Positions Supported by Charley Simpson (TUKWILA_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Jennifer McMaster (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Charley Simpson | TUKWILA_SCHOOL_DISTRICT | 2021-2025 |
+| Jennifer McMaster | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
 

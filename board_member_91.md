@@ -1,6 +1,6 @@
-# Positions Supported by Kacey Kiehn (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Moraya Wilson (MONTESANO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kacey Kiehn | QUINAULT_LAKE_SCHOOL_DISTRICT | 2025 |
+| Moraya Wilson | MONTESANO_SCHOOL_DISTRICT | None |
 

@@ -1,47 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: teacher-support
 
-## 2024-10-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors conducted a visit to Happy Valley Elementary School on October 1, 2024, focusing on the integration of social-emotional learning within the school's curriculum. The principal presented insights on how this curriculum aligns with the International Baccalaureate (IB) program, the Teacher Principal Evaluation Program (TPEP), and Universal Design for Learning (UDL). During the visit, board members utilized a rubric to evaluate classroom environments and concluded with a debriefing session to discuss their observations and takeaways. The meeting emphasized community engagement and support for teachers in implementing these educational frameworks. The session was attended by board members, the superintendent, school staff, and students, highlighting the collaborative effort in enhancing educational practices.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-01-minutes.txt)
-
-## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on April 17, 2024, where Superintendent Greg Baker provided updates on various educational initiatives and budget considerations. Key points included a discussion on the district's K-12 funding challenges, with expectations for a "hold steady" budget for 2024-25 and potential advocacy efforts for future funding. The meeting highlighted the presentation of Promise Awards, student participation in competitions, and ongoing community engagement through events like the Since Time Immemorial Family and Community Night. The board approved several resolutions, including Resolution 09-24 for the transfer of funds from the Capital Projects Fund to the General Fund and Resolution 11-24 declaring surplus property. Monitoring reports EL-6 and EL-8 were reviewed, focusing on academic standards and district calendar compliance, respectively. The board also discussed student competence, noting commendable progress in closing achievement gaps among various student demographics, including Hispanic/Latinx and low-income groups, while recognizing areas needing improvement, particularly for multilingual learners and students with disabilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-
-## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on March 14, 2024, where they addressed several key issues including the adoption of Resolution #08-24, which authorizes the sale of surplus district-owned property on West Maplewood Avenue. No public testimony was offered during the hearing on this resolution. Superintendent Greg Baker reported on budget developments for the 2024-25 school year, indicating that the state is not heavily investing in PreK-12 public education, although there were increases in special education, supplies, and paraeducator staffing. The board discussed monitoring responses for policies EL-3 (Treatment and Communication with Public, Parents and Students), EL-4 (Staff Treatment, Compensation and Evaluation), and Ends 2.1 (Part 1, Student Competence), with commendations for effective communication and outreach efforts. Challenges related to teacher and staff shortages were noted, particularly in relation to substitute availability. The board emphasized the importance of community engagement and the ongoing need for programs that support special education and academic standards.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 This excerpt from a school board meeting focuses on student perspectives and experiences.  A former student shares positive memories of the Teacher Academy program, highlighting its collaborative nature and impact on personal growth. The student also discusses challenges faced due to allergies and the benefits of remote learning during the COVID pandemic. The meeting emphasizes student voice and its importance in shaping educational policies. Additionally, a current student pursuing Automotive Collision Repair Technology expresses appreciation for the Teacher Academy's influence on their life skills and patience development.  The school board members express gratitude for the students' insights and acknowledge the value of ongoing feedback.

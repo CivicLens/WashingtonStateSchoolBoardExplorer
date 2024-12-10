@@ -1,71 +1,123 @@
 # School Board Meeting Summaries
 
 ## Summaries by County
+### ADAMS County
+- [WASHTUCNA_SCHOOL_DISTRICT](school_board_2.md)
+
+### ASOTIN County
+- [CLARKSTON_SCHOOL_DISTRICT](school_board_3.md)
+
+### BENTON County
+- [FINLEY_SCHOOL_DISTRICT](school_board_4.md)
+- [KENNEWICK_SCHOOL_DISTRICT](school_board_5.md)
+- [PATERSON_SCHOOL_DISTRICT](school_board_6.md)
+- [PROSSER_SCHOOL_DISTRICT](school_board_7.md)
+- [RICHLAND_SCHOOL_DISTRICT](school_board_8.md)
+
+### CHELAN County
+- [CASCADE_SCHOOL_DISTRICT](school_board_9.md)
+- [CHELAN_SCHOOL_DISTRICT](school_board_10.md)
+- [ENTIAT_SCHOOL_DISTRICT](school_board_11.md)
+
+### CLALLAM County
+- [PORT_ANGELES_SCHOOL_DISTRICT](school_board_12.md)
+- [SEQUIM_SCHOOL_DISTRICT](school_board_13.md)
+
 ### CLARK County
-- [CAMAS_SCHOOL_DISTRICT](school_board_5.md)
-- [BATTLE_GROUND_SCHOOL_DISTRICT](school_board_73.md)
+- [BATTLE_GROUND_SCHOOL_DISTRICT](school_board_14.md)
+- [CAMAS_SCHOOL_DISTRICT](school_board_15.md)
+- [EVERGREEN_PUBLIC_SCHOOLS](school_board_16.md)
+- [HOCKINSON_SCHOOL_DISTRICT](school_board_17.md)
+- [WASHOUGAL_SCHOOL_DISTRICT](school_board_18.md)
 
 ### COLUMBIA County
-- [DAYTON_SCHOOL_DISTRICT](school_board_8.md)
+- [DAYTON_SCHOOL_DISTRICT](school_board_19.md)
 
 ### COWLITZ County
-- [KALAMA_SCHOOL_DISTRICT](school_board_74.md)
-- [TOUTLE_LAKE_SCHOOL_DISTRICT](school_board_75.md)
+- [CASTLE_ROCK_SCHOOL_DISTRICT](school_board_20.md)
+- [KALAMA_SCHOOL_DISTRICT](school_board_21.md)
+- [TOUTLE_LAKE_SCHOOL_DISTRICT](school_board_22.md)
+
+### DOUGLAS County
+- [EASTMONT_SCHOOL_DISTRICT](school_board_23.md)
+- [MANSFIELD_SCHOOL_DISTRICT](school_board_24.md)
+
+### FRANKLIN County
+- [NORTH_FRANKLIN_SCHOOL_DISTRICT](school_board_25.md)
+- [PASCO_SCHOOL_DISTRICT](school_board_26.md)
 
 ### GRANT County
-- [MOSES_LAKE_SCHOOL_DISTRICT](school_board_76.md)
-- [WAHLUKE_SCHOOL_DISTRICT](school_board_77.md)
+- [MOSES_LAKE_SCHOOL_DISTRICT](school_board_27.md)
+- [WAHLUKE_SCHOOL_DISTRICT](school_board_28.md)
+
+### GRAYS_HARBOR County
+- [NORTH_BEACH_SCHOOL_DISTRICT](school_board_29.md)
 
 ### ISLAND County
-- [OAK_HARBOR_SCHOOL_DISTRICT](school_board_19.md)
+- [OAK_HARBOR_SCHOOL_DISTRICT](school_board_30.md)
 
 ### JEFFERSON County
-- [CHIMACUM_SCHOOL_DISTRICT](school_board_20.md)
+- [CHIMACUM_SCHOOL_DISTRICT](school_board_31.md)
 
 ### KING County
-- [BELLEVUE_SCHOOL_DISTRICT](school_board_22.md)
-- [FEDERAL_WAY_PUBLIC_SCHOOLS](school_board_24.md)
-- [KENT_SCHOOL_DISTRICT](school_board_25.md)
-- [LAKE_WASHINGTON_SCHOOL_DISTRICT](school_board_26.md)
-- [TAHOMA_SCHOOL_DISTRICT](school_board_28.md)
-- [MERCER_ISLAND_SCHOOL_DISTRICT](school_board_78.md)
-- [NORTHSHORE_SCHOOL_DISTRICT](school_board_79.md)
-- [VASHON_ISLAND_SCHOOL_DISTRICT](school_board_80.md)
+- [BELLEVUE_SCHOOL_DISTRICT](school_board_32.md)
+- [FEDERAL_WAY_PUBLIC_SCHOOLS](school_board_33.md)
+- [KENT_SCHOOL_DISTRICT](school_board_34.md)
+- [LAKE_WASHINGTON_SCHOOL_DISTRICT](school_board_35.md)
+- [MERCER_ISLAND_SCHOOL_DISTRICT](school_board_36.md)
+- [NORTHSHORE_SCHOOL_DISTRICT](school_board_37.md)
+- [TAHOMA_SCHOOL_DISTRICT](school_board_38.md)
+- [VASHON_ISLAND_SCHOOL_DISTRICT](school_board_39.md)
 
 ### KITSAP County
-- [BAINBRIDGE_ISLAND_SCHOOL_DISTRICT](school_board_81.md)
-- [BREMERTON_SCHOOL_DISTRICT](school_board_82.md)
+- [BAINBRIDGE_ISLAND_SCHOOL_DISTRICT](school_board_40.md)
+- [BREMERTON_SCHOOL_DISTRICT](school_board_41.md)
 
 ### KITTITAS County
-- [ELLENSBURG_SCHOOL_DISTRICT](school_board_83.md)
+- [ELLENSBURG_SCHOOL_DISTRICT](school_board_42.md)
 
 ### KLICKITAT County
-- [WHITE_SALMON_VALLEY_SCHOOL_DISTRICT](school_board_84.md)
+- [WHITE_SALMON_VALLEY_SCHOOL_DISTRICT](school_board_43.md)
 
 ### LEWIS County
-- [ONALASKA_SCHOOL_DISTRICT](school_board_35.md)
-- [TOLEDO_SCHOOL_DISTRICT](school_board_85.md)
+- [ONALASKA_SCHOOL_DISTRICT](school_board_44.md)
+- [TOLEDO_SCHOOL_DISTRICT](school_board_45.md)
 
 ### MASON County
-- [HOOD_CANAL_SCHOOL_DISTRICT](school_board_38.md)
+- [GRAPEVIEW_SCHOOL_DISTRICT](school_board_46.md)
+- [HOOD_CANAL_SCHOOL_DISTRICT](school_board_47.md)
+
+### OKANOGAN County
+- [OKANOGAN_SCHOOL_DISTRICT](school_board_48.md)
+
+### PACIFIC County
+- [SOUTH_BEND_SCHOOL_DISTRICT](school_board_49.md)
+
+### PIERCE County
+- [STEILACOOM_HISTORICAL_SCHOOL_DISTRICT](school_board_50.md)
 
 ### SAN_JUAN County
-- [SAN_JUAN_ISLAND_SCHOOL_DISTRICT](school_board_86.md)
+- [SAN_JUAN_ISLAND_SCHOOL_DISTRICT](school_board_51.md)
 
 ### SKAGIT County
-- [LA_CONNER_SCHOOL_DISTRICT](school_board_50.md)
+- [LA_CONNER_SCHOOL_DISTRICT](school_board_52.md)
 
 ### SNOHOMISH County
-- [EDMONDS_SCHOOL_DISTRICT](school_board_53.md)
-- [NORTHSHORE_SCHOOL_DISTRICT](school_board_87.md)
-- [ARLINGTON_SCHOOL_DISTRICT](school_board_89.md)
+- [ARLINGTON_SCHOOL_DISTRICT](school_board_53.md)
+- [EDMONDS_SCHOOL_DISTRICT](school_board_54.md)
+- [NORTHSHORE_SCHOOL_DISTRICT](school_board_55.md)
 
 ### SPOKANE County
-- [EAST_VALLEY_SCHOOL_DISTRICT](school_board_55.md)
-- [SPOKANE_PUBLIC_SCHOOLS](school_board_88.md)
+- [EAST_VALLEY_SCHOOL_DISTRICT](school_board_56.md)
+- [LIBERTY_SCHOOL_DISTRICT](school_board_57.md)
+- [MEAD_SCHOOL_DISTRICT](school_board_58.md)
+- [SPOKANE_PUBLIC_SCHOOLS](school_board_59.md)
 
 ### STEVENS County
-- [COLVILLE_SCHOOL_DISTRICT](school_board_90.md)
+- [COLVILLE_SCHOOL_DISTRICT](school_board_60.md)
+
+### WALLA_WALLA County
+- [COLLEGE_PLACE_SCHOOL_DISTRICT](school_board_61.md)
 
 ### WHATCOM County
 - [BELLINGHAM_PUBLIC_SCHOOLS](school_board_62.md)
@@ -76,72 +128,87 @@
 - [MOUNT_BAKER_SCHOOL_DISTRICT](school_board_67.md)
 
 ### WHITMAN County
-- [PULLMAN_SCHOOL_DISTRICT](school_board_91.md)
+- [PULLMAN_SCHOOL_DISTRICT](school_board_68.md)
 
 ### YAKIMA County
+- [HIGHLAND_SCHOOL_DISTRICT](school_board_69.md)
 - [SELAH_SCHOOL_DISTRICT](school_board_70.md)
 - [SUNNYSIDE_SCHOOL_DISTRICT](school_board_71.md)
 - [WAPATO_SCHOOL_DISTRICT](school_board_72.md)
-- [YAKIMA_SCHOOL_DISTRICT](school_board_92.md)
+- [WEST_VALLEY_SCHOOL_DISTRICT](school_board_73.md)
+- [YAKIMA_SCHOOL_DISTRICT](school_board_74.md)
 
 
 ## Summaries by Tag
 - [policy-changes](tag_policy-changes.md)
 - [community-engagement](tag_community-engagement.md)
 - [special-education-support](tag_special-education-support.md)
-- [curriculum-transparency](tag_curriculum-transparency.md)
-- [academic-standards](tag_academic-standards.md)
+- [parental-feedback](tag_parental-feedback.md)
 - [long-term-strategic-plans](tag_long-term-strategic-plans.md)
-- [book-access](tag_book-access.md)
+- [mental-health](tag_mental-health.md)
+- [covid](tag_covid.md)
 - [school-safety](tag_school-safety.md)
 - [teacher-support](tag_teacher-support.md)
-- [mental-health](tag_mental-health.md)
-- [student-health](tag_student-health.md)
-- [lgbtq](tag_lgbtq.md)
-- [student-autonomy](tag_student-autonomy.md)
-- [executive-session](tag_executive-session.md)
-- [superintendent-evaluation](tag_superintendent-evaluation.md)
-- [school-board-ethics](tag_school-board-ethics.md)
-- [school-discipline](tag_school-discipline.md)
+- [religion](tag_religion.md)
+- [racial-equity](tag_racial-equity.md)
+- [bullying-prevention](tag_bullying-prevention.md)
+- [academic-standards](tag_academic-standards.md)
 - [social-emotional-learning](tag_social-emotional-learning.md)
-- [student-privacy](tag_student-privacy.md)
-- [diversity-inclusion](tag_diversity-inclusion.md)
+- [curriculum-transparency](tag_curriculum-transparency.md)
+- [parental-rights](tag_parental-rights.md)
+- [critical-race-theory](tag_critical-race-theory.md)
 - [inclusive-sex-education](tag_inclusive-sex-education.md)
 - [teacher-staff-shortages](tag_teacher-staff-shortages.md)
-- [bullying-prevention](tag_bullying-prevention.md)
-- [parental-feedback](tag_parental-feedback.md)
+- [school-board-ethics](tag_school-board-ethics.md)
+- [book-access](tag_book-access.md)
+- [school-discipline](tag_school-discipline.md)
+- [diversity-inclusion](tag_diversity-inclusion.md)
+- [student-privacy](tag_student-privacy.md)
+- [free-speech](tag_free-speech.md)
+- [transgender](tag_transgender.md)
+- [lgbtq](tag_lgbtq.md)
+- [student-autonomy](tag_student-autonomy.md)
+- [budget-hearing](tag_budget-hearing.md)
+- [business-manager-report](tag_business-manager-report.md)
+- [administrative-report](tag_administrative-report.md)
+- [educattional-techology](tag_educattional-techology.md)
+- [technology-contract](tag_technology-contract.md)
+- [ai-technology](tag_ai-technology.md)
+- [executive-session](tag_executive-session.md)
+- [student-health](tag_student-health.md)
+- [budget-issues](tag_budget-issues.md)
+- [board-ethics](tag_board-ethics.md)
+- [educational-technology](tag_educational-technology.md)
 - [budget-discussion](tag_budget-discussion.md)
 - [financial-audit](tag_financial-audit.md)
 - [student-data-privacy](tag_student-data-privacy.md)
-- [budgeting-process](tag_budgeting-process.md)
-- [equity-inclusion](tag_equity-inclusion.md)
-- [racial-equity](tag_racial-equity.md)
+- [state-legislation](tag_state-legislation.md)
 - [recognition](tag_recognition.md)
-- [budgeting](tag_budgeting.md)
 - [audit](tag_audit.md)
-- [superintendent-report](tag_superintendent-report.md)
-- [consent-agenda](tag_consent-agenda.md)
+- [budget](tag_budget.md)
 - [capital-projects](tag_capital-projects.md)
-- [legislative-priorities](tag_legislative-priorities.md)
+- [technology-replacement](tag_technology-replacement.md)
+- [cell-phones](tag_cell-phones.md)
+- [transportation](tag_transportation.md)
+- [education-technology](tag_education-technology.md)
 - [goal-setting](tag_goal-setting.md)
-- [pool](tag_pool.md)
-- [artificial-intelligence](tag_artificial-intelligence.md)
 - [capital-facilities](tag_capital-facilities.md)
-- [parental-rights](tag_parental-rights.md)
-- [budget-reduction](tag_budget-reduction.md)
-- [budget-cuts](tag_budget-cuts.md)
 - [administrative-leave](tag_administrative-leave.md)
 - [interim-appointment](tag_interim-appointment.md)
-- [public-statement](tag_public-statement.md)
-- [financial-report](tag_financial-report.md)
 - [food-services](tag_food-services.md)
-- [covid](tag_covid.md)
+- [impact-aid](tag_impact-aid.md)
+- [summary-meeting](tag_summary-meeting.md)
+- [summary-executive-session](tag_summary-executive-session.md)
+- [summary-adjournment](tag_summary-adjournment.md)
+- [legislative-priorities](tag_legislative-priorities.md)
+- [budget-enrollment](tag_budget-enrollment.md)
+- [real-estate-purchase](tag_real-estate-purchase.md)
 - [budget-process](tag_budget-process.md)
 - [student-discipline](tag_student-discipline.md)
 - [curriculum-alignment](tag_curriculum-alignment.md)
+- [budget-cuts](tag_budget-cuts.md)
 - [school-calendar](tag_school-calendar.md)
 - [school-closure](tag_school-closure.md)
-- [budget](tag_budget.md)
 - [staff-treatment](tag_staff-treatment.md)
 - [compensation](tag_compensation.md)
 - [evaluation](tag_evaluation.md)
@@ -149,17 +216,11 @@
 - [student-centered-budget](tag_student-centered-budget.md)
 - [policy-governance](tag_policy-governance.md)
 - [student-competence](tag_student-competence.md)
-- [transgender](tag_transgender.md)
 - [student-voice](tag_student-voice.md)
-- [critical-race-theory](tag_critical-race-theory.md)
 - [school-visit](tag_school-visit.md)
 - [redistricting](tag_redistricting.md)
-- [religion](tag_religion.md)
-- [budget-reductions](tag_budget-reductions.md)
-- [school-funding](tag_school-funding.md)
-- [free-speech](tag_free-speech.md)
+- [budget-planning](tag_budget-planning.md)
 - [student-representation](tag_student-representation.md)
-- [mission-statement](tag_mission-statement.md)
 - [retirement](tag_retirement.md)
 - [college-and-career-readiness](tag_college-and-career-readiness.md)
 - [leave-of-absence](tag_leave-of-absence.md)
@@ -169,47 +230,14 @@
 - [resignations-retirement-terminations](tag_resignations-retirement-terminations.md)
 - [supplemental-assignments](tag_supplemental-assignments.md)
 - [special-education-funding](tag_special-education-funding.md)
-- [interim-superintendent](tag_interim-superintendent.md)
-- [budget-review](tag_budget-review.md)
-- [school-board-workshop](tag_school-board-workshop.md)
-- [relationships-with-students](tag_relationships-with-students.md)
-- [graduation](tag_graduation.md)
-- [leadership](tag_leadership.md)
-- [school-board-meeting](tag_school-board-meeting.md)
-- [agenda](tag_agenda.md)
-- [security-access-control](tag_security-access-control.md)
-- [school-board-visit](tag_school-board-visit.md)
-- [accessibility](tag_accessibility.md)
-- [school-board-elections](tag_school-board-elections.md)
-- [personnel](tag_personnel.md)
-- [contractual-agreements](tag_contractual-agreements.md)
-- [contract](tag_contract.md)
-- [career-technical-education](tag_career-technical-education.md)
-- [contract-approval](tag_contract-approval.md)
-- [contract-negotiation](tag_contract-negotiation.md)
-- [school-improvement](tag_school-improvement.md)
-- [reopening-schools](tag_reopening-schools.md)
-- [homeless-students](tag_homeless-students.md)
-- [special-meeting](tag_special-meeting.md)
-- [school-board-retreat](tag_school-board-retreat.md)
-- [land-acknowledgment](tag_land-acknowledgment.md)
-- [land-acknowledgement](tag_land-acknowledgement.md)
-- [budget-enrollment](tag_budget-enrollment.md)
-- [midyear-data-review](tag_midyear-data-review.md)
-- [budget-development](tag_budget-development.md)
-- [goal--growth-for-every-student](tag_goal--growth-for-every-student.md)
-- [opportunity-gaps](tag_opportunity-gaps.md)
-- [neighborhood-high-school-programming](tag_neighborhood-high-school-programming.md)
-- [professional-development](tag_professional-development.md)
-- [ai-technology](tag_ai-technology.md)
-- [board-director-appointment](tag_board-director-appointment.md)
-- [budget-extension](tag_budget-extension.md)
-- [budget-planning](tag_budget-planning.md)
-- [levy-funding](tag_levy-funding.md)
-- [opposition-to-legislation](tag_opposition-to-legislation.md)
+- [strategic-priorities](tag_strategic-priorities.md)
+- [key-performance-indicators](tag_key-performance-indicators.md)
 - [planning-commission](tag_planning-commission.md)
 - [public-hearing](tag_public-hearing.md)
 - [zoning](tag_zoning.md)
+- [staffing](tag_staffing.md)
+- [candidate-interviews](tag_candidate-interviews.md)
+- [closed-session](tag_closed-session.md)
 - [bond-sales](tag_bond-sales.md)
 - [project-delivery-methods](tag_project-delivery-methods.md)
-- [budget-concerns](tag_budget-concerns.md)
+- [equity](tag_equity.md)

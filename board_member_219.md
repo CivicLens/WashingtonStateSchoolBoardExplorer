@@ -1,6 +1,6 @@
-# Positions Supported by Megan Bearor (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Terrance Mayers, Sr. (BETHEL_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Megan Bearor | DIERINGER_SCHOOL_DISTRICT | 2021-2025 |
+| Terrance Mayers, Sr. | BETHEL_SCHOOL_DISTRICT | 2021-2027 |
 

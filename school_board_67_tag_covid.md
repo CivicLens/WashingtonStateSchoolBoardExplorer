@@ -1,5 +1,23 @@
 # Meeting Summaries for MOUNT_BAKER_SCHOOL_DISTRICT with Tag: covid
 
+## 2024-07-29 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+
+The Special School Board Meeting held on July 29, 2020, focused on the reopening of schools amid the COVID-19 pandemic. A significant action item was the approval of MB Resolution 19/20:19, which requests a waiver for the minimum 180-day school year for grades K-12 for the 2020-2021, 2021-2022, and 2022-2023 school years. This resolution was moved by Mr. Pfeiﬀer-Hoyt and seconded by Ms. Elder, passing with a vote of 4-0. The meeting was conducted via Zoom, reflecting the adaptations made during the pandemic, and emphasized the ongoing discussions regarding the safe reopening of schools.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-29-minutes.txt)
+
+## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+
+The School Board Meeting held on July 23, 2020, addressed several key topics related to the ongoing COVID-19 pandemic and educational technology. The meeting included a presentation by Principal Ma Durand regarding the upcoming high school graduation scheduled for August 7, 2020, which will be conducted in a drive-in format to adhere to social distancing requirements. Additionally, the Board discussed transitioning to a paperless board packet system, featuring a demonstration of the Board Docs product, highlighting a shift towards utilizing educational technology in administrative processes. The Board also approved various financial agreements, including a Client Staffing Agreement and the ESD 189 Science Materials Center Interlocal Cooperative Agreement, which are pertinent to the operational needs of the district during the pandemic.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
+
+## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+
+The minutes from the School Board meeting held on July 9, 2020, detail several key actions and discussions relevant to the district's budget and safety measures during the COVID-19 pandemic. The board approved two resolutions: MB Resolution 19/20:17 for the 2019-2020 Budget Extension and MB Resolution 19/20:16 for the 2020-2021 Budget, both motions carried unanimously. The meeting also included a presentation by Ben Thomas, Executive Director of Finance & Operations, discussing funding sources for schools in Washington, enrollment, staffing, and the four-year outlook for the district's finances. Additionally, the board addressed COVID-19 planning updates and discussed various safety measures in light of the ongoing pandemic. The meeting emphasized community engagement with no public comments recorded during the public hearing segment regarding the budget extensions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
+
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mukilteo School Board held its regular meeting on December 10, 2020, via Zoom. Routine items such as the election of officers (Karen Reich as President and Brian Kelly as Vice President), approval of minutes, and a consent agenda addressing personnel actions, surplus resolutions, purchases, payroll, donations, and an Everett Community College agreement were addressed. The board also received information from the audience regarding remote learning experiences and discussed various topics under "Information from the Board," including updates on conferences, meetings, and legislative preparations. A presentation focused on 2020-2021 Facilities and Capital Projects provided details on accomplishments and future plans.

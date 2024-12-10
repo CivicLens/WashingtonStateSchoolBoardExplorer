@@ -1,5 +1,11 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2015
 
+## 2015-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board held a meeting focused on strengthening the connection between schools and healthcare practitioners.  The discussion centered around addressing challenges students face related to mental health, self-esteem, autism, and ADHD, and how these issues impact learning. Participants explored potential solutions like on-site clinics and highlighted the importance of community support for families in distress. The district aims to improve communication with medical providers and explore ways to better integrate healthcare services into the educational environment.  The meeting also touched upon The Bellingham Promise, a program designed to provide comprehensive support for students beyond academics, emphasizing the need for individualized interventions and a loving environment for every child.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-12-09-minutes.txt)
+
 ## 2015-11-16 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board minutes detail the approval of two resolutions: Resolution 29-15 Replacement Educational Support and Operations Levy and Resolution 30-15 Replacement Technology Capital Projects Levy.  These resolutions pertain to funding for educational support and operations, as well as technology capital projects. The board also discussed and approved Committee Appointment Forms for committees supporting these levies. Notably, the minutes mention that if citizens notify the district by December 1st of their intent to form a committee against the levies, appointment forms for those opposing committees will be included in the December 10th meeting agenda.  The minutes also include reports from school board directors on their recent activities, which included attending school events and meetings related to teacher shortages and future planning for Sehome High School. Several board members are scheduled to attend the Washington State School Directors’ Association Annual Conference.

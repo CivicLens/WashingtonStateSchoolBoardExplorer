@@ -1,6 +1,6 @@
-# Positions Supported by Nicholas Thomas (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Paul Thompson (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Nicholas Thomas | NORTH_MASON_SCHOOL_DISTRICT | None |
+| Paul Thompson | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

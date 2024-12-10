@@ -1,6 +1,6 @@
-# Positions Supported by Anne-Elissa Carter (HOCKINSON_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Rob Perkins (EVERGREEN_PUBLIC_SCHOOLS, Term: 2014-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Anne-Elissa Carter | HOCKINSON_SCHOOL_DISTRICT | 2023-2027 |
+| Rob Perkins | EVERGREEN_PUBLIC_SCHOOLS | 2014-2025 |
 

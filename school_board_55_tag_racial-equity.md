@@ -1,33 +1,14 @@
-# Meeting Summaries for EAST_VALLEY_SCHOOL_DISTRICT with Tag: racial-equity
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: racial-equity
 
-## 2024-09-10 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board Meeting held on September 10, 2024, included the approval of several policies and resolutions. Notably, the board approved revised Board Policy 5011, which addresses Sex Discrimination and Sex-Based Harassment of District Staff, and adopted Board Policy 5254, which pertains to Staff Expression. Both policies underwent a second reading before approval. Additionally, Resolution 2823 concerning Stale Dated Warrants was also approved. The meeting highlighted community engagement, with Mr. Voelker mentioning positive feedback about a new mural at EVMS and Ms. Noack discussing ongoing construction projects. The board also received updates on enrollment numbers and upcoming events, including the Spokane Valley Chamber's "Our Schools Event."
+The Northshore School District Board of Directors held a Study Session on October 28, 2024, to discuss Superintendent Parameter 9, which focuses on equity within the district. The session was attended by key board members, including President Amy Cast and Superintendent Michael Tolley. The meeting concluded with the adjournment at 6:42 PM. The discussion centered on the district's approach to equity, indicating a commitment to addressing racial equity issues. The specifics of any proposed changes or actions related to this parameter were not detailed in the minutes.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-09-10-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
 
-### Board Member Actions
+## 2024-01-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Mike Bly](board_member_278.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Justin Voelker](board_member_276.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Mike Bly](board_member_278.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Justin Voelker](board_member_276.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Justin Voelker](board_member_276.md) | voted to table tunnel use agreement | Motioned to table the tunnel use agreement. |
-| [Mike Bly](board_member_278.md) | voted to table tunnel use agreement | Seconded the motion to table the tunnel use agreement. |
+The Northshore School District Board of Directors held a Study Session on January 22, 2024, focusing on Goal 3, which emphasizes Growth for Every Student and aims to eliminate outcome and opportunity gaps. The discussion included strategies to enhance racial equity within the educational framework. The session was attended by board members including President Amy Cast and Superintendent Michael Tolley, who oversees the implementation of these goals. The meeting was adjourned at 6:49 PM, and the minutes were generated by Peggy King on February 5, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-22-minutes.txt)
 

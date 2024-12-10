@@ -1,6 +1,6 @@
-# Positions Supported by Bill Hauss (YELM_COMMUNITY_SCHOOLS, Term: 2004-2027)
+# Positions Supported by Ty Kuehl (TUMWATER_SCHOOL_DISTRICT, Term: 2024-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Bill Hauss | YELM_COMMUNITY_SCHOOLS | 2004-2027 |
+| Ty Kuehl | TUMWATER_SCHOOL_DISTRICT | 2024-2025 |
 

@@ -1,36 +1,26 @@
-# Positions Supported by Kevin Erickson (FERNDALE_SCHOOL_DISTRICT, Term: 11/2027)
+# Positions Supported by Scott Ritchey (BELLINGHAM_PUBLIC_SCHOOLS, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kevin Erickson | FERNDALE_SCHOOL_DISTRICT | 11/2027 |
+| Scott Ritchey | BELLINGHAM_PUBLIC_SCHOOLS | 2023-2027 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-08-27 | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
-| 2024-08-27 | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
-| 2024-08-27 | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
-| 2024-08-27 | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
-| 2024-08-27 | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
-| 2024-08-27 | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
-| 2024-07-30 | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
-| 2024-07-30 | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
-| 2024-07-30 | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
-| 2024-07-30 | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
-| 2024-07-30 | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
-| 2024-07-30 | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
-| 2024-06-26 | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
-| 2024-05-28 | voted yes on motion to receive the monitoring report for results policy 3 (r-3) civic engagement | Action (Consent): 10.03 Receive the Monitoring Report for Results Policy 3 (R-3) Civic Engagement |
-| 2024-05-28 | voted yes on motion to receive revised policy 2418 waiver of high school graduation credits | Action (Consent): 10.06 Receive Revised Policy 2418 Waiver of High School Graduation Credits |
-| 2024-05-28 | voted yes on motion to receive revised policy 2410 high school graduation requirements | Action (Consent): 10.05 Receive Revised Policy 2410 High School Graduation Requirements |
-| 2024-05-28 | voted yes on motion to receive revised policy 2255 alternative learning experience courses | Action (Consent): 10.07 Receive Revised Policy 2255 Alternative Learning Experience Courses |
-| 2024-05-28 | voted yes on motion to approve resolution 2418r waiver of high school graduation credits | Action (Consent): 10.08 Approve Resolution 2418R Waiver of High School Graduation Credits |
-| 2024-05-28 | voted yes on motion to adopt revised policy 3424 opioid related overdose reversal | Action (Consent): 10.04 Adopt Revised Policy 3424 Opioid Related Overdose Reversal |
-| 2024-03-26 | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
-| 2024-03-26 | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
-| 2024-03-26 | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
-| 2024-03-26 | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
-| 2024-03-26 | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
-| 2024-02-27 | voted yes | Motion to adjourn the meeting at 9:43pm |
+| 2024-08-15 | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| 2024-08-15 | voted yes | Approval of consent agenda item 2.20: Personnel Recommendations |
+| 2024-06-18 | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| 2024-06-18 | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| 2024-06-18 | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| 2024-06-18 | recused himself from voting on item 2.17 | Consent agenda item 2.17, Personnel Recommendations, contains a change in employment status for a family member who is a...[truncated, use api for full text] |
+| 2024-06-18 | abstained from voting on consent agenda item 2.17 | Mr. Ritchey recused himself from voting on item 2.17 due to a conflict of interest. |
+| 2024-05-16 | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
+| 2024-04-17 | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| 2024-04-17 | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| 2024-04-17 | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| 2024-04-17 | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| 2024-03-14 | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| 2024-02-22 | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| 2024-01-18 | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 

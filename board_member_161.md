@@ -1,6 +1,6 @@
-# Positions Supported by John Jensen (BICKLETON_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Mark Crowley (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| John Jensen | BICKLETON_SCHOOL_DISTRICT |  |
+| Mark Crowley | KITTITAS_SCHOOL_DISTRICT | 2021-2025 |
 

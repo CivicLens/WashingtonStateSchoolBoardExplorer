@@ -1,6 +1,6 @@
-# Positions Supported by Nicole Gonzalez Timmons (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Kimberly Miller (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Nicole Gonzalez Timmons | NORTH_MASON_SCHOOL_DISTRICT | None |
+| Kimberly Miller | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

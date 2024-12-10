@@ -1,6 +1,6 @@
-# Positions Supported by Janet Loyd (DARRINGTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Griffin Uchida (MOUNT_VERNON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Janet Loyd | DARRINGTON_SCHOOL_DISTRICT | None |
+| Griffin Uchida | MOUNT_VERNON_SCHOOL_DISTRICT | None |
 

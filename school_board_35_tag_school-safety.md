@@ -1,26 +1,45 @@
-# Meeting Summaries for ONALASKA_SCHOOL_DISTRICT with Tag: school-safety
+# Meeting Summaries for LAKE_WASHINGTON_SCHOOL_DISTRICT with Tag: school-safety
 
-## 2024-10-24 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+## 2024-05-06 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
-The Board Workshop held on October 24, 2024, included discussions on various proposals and updates relevant to school operations. A significant topic was the School Safety and Security Update, highlighting the ongoing efforts to enhance safety measures within the school environment. The agenda also included discussions on financials, personnel, and specific proposals such as the Robotics Trip Proposal and the Aquaculture Proposal, indicating a focus on both educational enrichment and operational management. The meeting concluded with a call for adjournment of the regular session, reflecting a structured approach to community engagement and decision-making within the school board framework.
+The May 6, 2024 Board Meeting of the Lake Washington School District (LWSD) included significant recognitions such as the proclamation of May 8 as National School Nurse Day and May 6-10 as Teacher Appreciation Week. During audience participation, concerns regarding Islamophobia, antisemitism, and bullying were raised by several parents, highlighting the importance of diversity and inclusion within the district. The board addressed these issues, emphasizing their commitment to creating a safe learning environment for all students. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-10-24-minutes.txt)
+Additionally, the board approved several resolutions, including the adoption of Policy 2415 regarding a Performance-Based Pathway for High School Graduation, which provides guidance for implementing this new graduation option. The board also tabled the Inclusionary Practices Program Update for future discussion, indicating an ongoing focus on policy changes that support inclusive educational practices. The meeting concluded with a discussion on upcoming school visits and committee updates, reinforcing the board's engagement with community feedback and safety initiatives.
 
-## 2024-09-23 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-06-minutes.txt)
 
-The Onalaska School Board meeting held on September 23, 2024, included the swearing in of a new student board representative and recognized community members Brenda Elliott and Pam Kinsman for their support of the schools. Superintendent Brenda Padgett reported that initial OSPI diagnostic assessments indicate students are meeting expected benchmarks, and the school year has started smoothly with manageable traffic around the school. The meeting highlighted the importance of social-emotional learning (SEL), particularly in elementary grades, with programs like "What Would Kelso Do?" being implemented to help students self-regulate their behavior. Challenges in special education were acknowledged, with efforts being made to improve the situation following a productive meeting. Additionally, the board approved various consent agenda items, including the adoption of policies related to high school graduation requirements and updates to the high school handbook. Notably, policy 3211P regarding Gender Inclusive Schools was tabled until further information is available.
+### Board Member Actions
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-09-23-minutes.txt)
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Leah Choi](board_member_135.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on motion to approve the consent agenda | The consent agenda included various items, such as the Human Resources Report and salary schedule. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on motion to approve the recommendation from the Social Studies Curriculum Selection Committee | The recommendation was to adopt the materials Inquiry Journeys from InquirEd. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to table the Inclusionary Practices Program Update | The agenda item was tabled to a future meeting. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to adopt Policy 2415 | The policy provides guidance for the Performance-Based Pathway for High School Graduation. |
 
-## 2024-02-26 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+## 2024-01-22 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
-The Regular School Board Meeting held on February 26, 2024, included a recognition of the Onalaska PTO for their contributions to the schools and a series of consent agenda items that were approved, including the hiring of new personnel and the authorization of payroll payments. A notable discussion included the focus on safety within the district, highlighted by the first safety committee meeting, which considered updates and additions to safety measures, including the placement of AEDs. Additionally, the board approved several policy readings, including updates to high school graduation requirements and employment disclosures, indicating ongoing attention to policy changes that affect school operations and student welfare. The meeting concluded with a public comment regarding collaborative efforts among schools for a solo contest, demonstrating community engagement in school activities.
+The January 22, 2024 Board Meeting of the Lake Washington School District (LWSD) included several recognitions and proclamations, notably declaring February 2024 as Career and Technical Education Month and February 5-9, 2024 as National School Counseling Week. The Board also acknowledged January 2024 as School Board Appreciation Month, presenting certificates to board members and student representatives. During audience participation, various community members raised concerns related to diversity and inclusion, including issues of Islamophobia, student safety, and emotional support for students. The meeting also featured a presentation on inclusionary practices, highlighting the district's commitment to diversity and inclusion. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-02-26-minutes.txt)
+The Board approved multiple resolutions, including those related to vouchers and human resources reports. Notably, the Board accepted donations and adopted instructional materials for the district. Additionally, the meeting included a legislative update, emphasizing the district's involvement in ongoing discussions regarding state legislation, with staff testifying on multiple bills. The session concluded with an executive session focused on evaluating complaints against public officers and discussing potential litigation, underscoring the Board's commitment to transparency and ethical governance.
 
-## 2024-02-21 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-01-22-minutes.txt)
 
-The Board Workshop held on February 21, 2024, involved discussions regarding various policy changes, including the first reading of several significant policies. The policies under review included 2190/2190P on Highly Capable Programs, 3205P addressing Sexual Harassment of Students, 4201/4201P focused on Civility, and 5161 regarding Civility in the Workplace. These policies aim to enhance school safety and ensure respectful interactions within the educational environment. Additionally, the workshop included discussions on student threat assessments, personnel matters, financials, annual contracts, proclamations, and surplus items, indicating a comprehensive approach to governance and operational oversight. The meeting concluded with an adjournment at 6:32 PM.
+### Board Member Actions
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-02-21-minutes.txt)
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_138.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on the resolution to approve the agenda as presented | Motion by Eric Laliberte, second by Lindsey Yocum. |
+| [Leah Choi](board_member_135.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Eric Laliberte](board_member_138.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Mark Stuart](board_member_139.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on the consent agenda as presented | Motion by Lisa Guthrie, second by Eric Laliberte. |
 

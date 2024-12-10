@@ -1,6 +1,6 @@
-# Positions Supported by Lori Glover (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Paulette Gilliardi (EATONVILLE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Lori Glover | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
+| Paulette Gilliardi | EATONVILLE_SCHOOL_DISTRICT | None |
 

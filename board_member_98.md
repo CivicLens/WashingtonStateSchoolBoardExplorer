@@ -1,6 +1,6 @@
-# Positions Supported by Dr. Kristina Mayer (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2023 - 11/2027)
+# Positions Supported by Kacey Kiehn (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dr. Kristina Mayer | CHIMACUM_SCHOOL_DISTRICT | 11/2023 - 11/2027 |
+| Kacey Kiehn | QUINAULT_LAKE_SCHOOL_DISTRICT | 2025 |
 

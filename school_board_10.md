@@ -1,15 +1,13 @@
-# Meeting Summaries for EASTMONT_SCHOOL_DISTRICT
+# Meeting Summaries for CHELAN_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Lauren Miehe](board_member_48.md) | 2023-2027 |
-| [Whitney Smith](board_member_49.md) | 2019-2027 |
-| [Jason Heinz](board_member_50.md) | 2021-2025 |
-| [Jacob Burkhart](board_member_51.md) | 2023-2025 |
-| [Meaghan Vibbert](board_member_52.md) | 2019-2027 |
+No current board members available.
 
 ## Available Years
+- [2020](school_board_10_year_2020.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_10_tag_policy-changes.md)
+- [community-engagement](school_board_10_tag_community-engagement.md)
+- [long-term-strategic-plans](school_board_10_tag_long-term-strategic-plans.md)

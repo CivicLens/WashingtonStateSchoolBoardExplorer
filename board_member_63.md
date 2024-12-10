@@ -1,6 +1,6 @@
-# Positions Supported by Josh Sainsbury (EPHRATA_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by LINDA PERI (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Josh Sainsbury | EPHRATA_SCHOOL_DISTRICT | 2023-2027 |
+| LINDA PERI | ORONDO_SCHOOL_DISTRICT | None |
 

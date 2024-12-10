@@ -1,6 +1,6 @@
-# Positions Supported by Stan Williams (PORT_ANGELES_SCHOOL_DISTRICT, Term: 12/27)
+# Positions Supported by Frank Vermulm (PROSSER_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Stan Williams | PORT_ANGELES_SCHOOL_DISTRICT | 12/27 |
+| Frank Vermulm | PROSSER_SCHOOL_DISTRICT | 2021-2027 |
 

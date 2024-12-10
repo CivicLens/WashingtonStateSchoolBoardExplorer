@@ -1,6 +1,6 @@
-# Positions Supported by Mark Crowley (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Dave Larson (TUKWILA_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mark Crowley | KITTITAS_SCHOOL_DISTRICT | 2021-2025 |
+| Dave Larson | TUKWILA_SCHOOL_DISTRICT | 2027 |
 

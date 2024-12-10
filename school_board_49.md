@@ -1,15 +1,14 @@
-# Meeting Summaries for CONCRETE_SCHOOL_DISTRICT
+# Meeting Summaries for SOUTH_BEND_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Arthur Sanchez](board_member_245.md) | None |
-| [Michael Brondi](board_member_246.md) | None |
-| [Janet Culver](board_member_247.md) | None |
-| [Laura Schmidt](board_member_248.md) | None |
-| [Paul Rogge](board_member_249.md) | None |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_49_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_49_tag_policy-changes.md)
+- [diversity-inclusion](school_board_49_tag_diversity-inclusion.md)
+- [lgbtq](school_board_49_tag_lgbtq.md)
+- [curriculum-transparency](school_board_49_tag_curriculum-transparency.md)

@@ -1,6 +1,6 @@
-# Positions Supported by Frank King (YELM_COMMUNITY_SCHOOLS, Term: 2021-2025)
+# Positions Supported by KRISTIN ROBINSON (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Frank King | YELM_COMMUNITY_SCHOOLS | 2021-2025 |
+| KRISTIN ROBINSON | RAINIER_SCHOOL_DISTRICT | None |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Brian Weinmann (PROSSER_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Micah Valentine (KENNEWICK_SCHOOL_DISTRICT, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Brian Weinmann | PROSSER_SCHOOL_DISTRICT | 2021-2027 |
+| Micah Valentine | KENNEWICK_SCHOOL_DISTRICT | 2022-2025 |
 

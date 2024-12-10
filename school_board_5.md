@@ -1,20 +1,19 @@
-# Meeting Summaries for CAMAS_SCHOOL_DISTRICT
+# Meeting Summaries for KENNEWICK_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Corey McEnry](board_member_21.md) | 2018-2025 |
-| [Matthew McBride](board_member_22.md) | 2024-2025 |
-| [Connie Hennessey](board_member_23.md) | 2005-2027 |
-| [Bamini Pathmanathan](board_member_24.md) | 2023-2027 |
-| [Tracey Malone](board_member_25.md) | 2017-2027 |
+| [Gabe Galbraith](board_member_8.md) | 2022-2025 |
+| [Micah Valentine](board_member_9.md) | 2022-2025 |
+| [Brittany Gledhill](board_member_10.md) | 2024-2027 |
+| [Michael Connors](board_member_11.md) | 2024-2027 |
+| [Dr. Josh Miller](board_member_12.md) | 2023-2027 |
 
 ## Available Years
 - [2024](school_board_5_year_2024.md)
 
 ## Summaries by Tag
 - [policy-changes](school_board_5_tag_policy-changes.md)
-- [long-term-strategic-plans](school_board_5_tag_long-term-strategic-plans.md)
 - [community-engagement](school_board_5_tag_community-engagement.md)
-- [diversity-inclusion](school_board_5_tag_diversity-inclusion.md)
+- [school-board-ethics](school_board_5_tag_school-board-ethics.md)

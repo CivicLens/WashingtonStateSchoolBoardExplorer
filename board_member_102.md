@@ -1,6 +1,6 @@
-# Positions Supported by Dr. Roxanne Hudson (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2021 - 11/2025)
+# Positions Supported by Josh MacLean (OAK_HARBOR_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dr. Roxanne Hudson | CHIMACUM_SCHOOL_DISTRICT | 11/2021 - 11/2025 |
+| Josh MacLean | OAK_HARBOR_SCHOOL_DISTRICT | 2023-2027 |
 

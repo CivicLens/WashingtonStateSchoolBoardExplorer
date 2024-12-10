@@ -1,6 +1,6 @@
-# Positions Supported by Dana Rosenbach (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Jimmy Harris (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dana Rosenbach | NORTH_MASON_SCHOOL_DISTRICT | None |
+| Jimmy Harris | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

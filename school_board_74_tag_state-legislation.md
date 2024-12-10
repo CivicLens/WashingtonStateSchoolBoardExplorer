@@ -1,0 +1,28 @@
+# Meeting Summaries for YAKIMA_SCHOOL_DISTRICT with Tag: state-legislation
+
+## 2024-09-03 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Board Meeting on September 3, 2024, addressed several key issues, including the impact of budget cuts on special education. Frances Guerrero, the YEA President, highlighted payroll issues affecting staff and the lack of support for vulnerable students, holding the Board responsible for the budget deficit. The Board approved a contract renewal with Next Level Speech for $1,200,000 to provide Speech Language Pathology services for the 2024-25 school year, emphasizing the need for special education support. Additionally, updates were provided on legislative priorities, referred to as "the big three," which include fully funding special education, pupil transportation, and MSOC. Policies 1000.4.0 and 1000.4.1 regarding Global Governance-Management Connection and Unity of Control were read, with a Survey Monkey to be distributed for feedback, due by September 10, 2024. The meeting also featured public comments focused on reductions in the transportation department.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-09-03-minutes.txt)
+
+## 2024-03-11 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Board Retreat held on March 11, 2024, included discussions on various topics relevant to educational policies and initiatives. Notably, Superintendent Trevor Greene and Assistant Superintendent of Finance Jake Kuper presented on the legislative impacts following the recent session, including the review of guiding principles for Reduction in Force (RIF) and the implications of Initiative 2081, known as the Parents Bill of Rights. The Board also reviewed over 1,100 policies, with legal counsel Bob Noe indicating that edits would be made for approval at the upcoming March 25 meeting. Additionally, K.C. Mitchell discussed special education, outlining the top ten ambitious goals for the next school year, indicating a focus on enhancing support in this area. The meeting concluded with a presentation on CEE data by Dr. John Steach, which included an overview of staff, student, family, and district data, emphasizing the need to identify key areas of focus for improvement.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-03-11-minutes.txt)
+
+## 2024-02-13 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 Board meeting on February 13, 2024, included significant discussions and decisions regarding various educational policies and community engagement efforts. The board approved the 2024-2025 Instructional School Calendar, emphasizing a need for proactive calendar planning as noted by President Walker and Director Beckett. Additionally, the board recognized the importance of legislative proposals with Director Rice urging participation in the review process for the General Assembly, highlighting the WSSDA General Assembly Handbook 2023 as a critical resource. The Superintendent, Trevor Greene, provided updates on school site visits and the reconvening of the Facilities & Boundary Assessment Committee, which is set to address recommendations for a potential bond. The meeting also included public comments advocating for a balanced instructional calendar, reflecting community feedback on school scheduling.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-02-13-minutes.txt)
+
+## 2024-01-02 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+
+The Yakima School District #7 conducted several meetings in January 2024, focusing on various pressing issues including budget reductions, community engagement, and special education. The Board discussed a significant budget reduction of $20 million, emphasizing the importance of communication and strategic planning in managing financial challenges. The Superintendent, Dr. Trevor Greene, highlighted the need for clear understanding regarding budget cuts and engaged board members in discussions about the implications of declining student enrollment, which is projected to decrease by 1,000 students over the next five years. 
+
+In the realm of special education, Nancy Smith, the Executive Director of Special Education, presented on inclusion practices and the Least Restrictive Environment (LRE) definitions, stressing the importance of integrating special education students into general education settings. The board recognized the ongoing need for family and community engagement, with Kirsten Fitterer presenting a structure for engagement that includes various tiers of communication. Additionally, policy changes were discussed, including updates to governance policies, which aim to enhance board operations and member conduct. The board also reviewed proclamations and recognitions, such as the MLK Jr. Day Proclamation, reinforcing their commitment to community values and diversity.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-01-02-actionletterforjanmeeting-minutes.txt)
+

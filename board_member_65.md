@@ -1,6 +1,6 @@
-# Positions Supported by Mike fleurkens (EPHRATA_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Steve Norberg (PASCO_SCHOOL_DISTRICT, Term: November 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mike fleurkens | EPHRATA_SCHOOL_DISTRICT | 2023-2027 |
+| Steve Norberg | PASCO_SCHOOL_DISTRICT | November 2027 |
 

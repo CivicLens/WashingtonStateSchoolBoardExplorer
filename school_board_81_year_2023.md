@@ -1,2 +1,0 @@
-# Meeting Summaries for BAINBRIDGE_ISLAND_SCHOOL_DISTRICT in 2023
-

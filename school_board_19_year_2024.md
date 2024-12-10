@@ -1,26 +1,32 @@
-# Meeting Summaries for OAK_HARBOR_SCHOOL_DISTRICT in 2024
+# Meeting Summaries for DAYTON_SCHOOL_DISTRICT in 2024
 
-## 2024-09-09 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+## 2024-11-06 - DAYTON_SCHOOL_DISTRICT (Minutes)
 
-The Oak Harbor Public Schools Board of Directors held a special meeting on September 9, 2024, focused on discussing the levy. Board members present included Lynn Goebel, Nicole Tesch, Sharon Jensen, and Josh MacLean, along with Superintendent Michelle Kuss-Cybula and other key administrative personnel. The meeting, which lasted from 7:50 p.m. to 9:10 p.m., did not result in any final board action. The discussion around the levy indicates ongoing community engagement and consideration of financial matters affecting the school district. The minutes were prepared by Katey Andrews and are officially recorded by Board Secretary Michelle Kuss-Cybula.
+The Dayton School District No. 2 held a School Board Work Session on November 6, 2024, where significant emphasis was placed on community engagement and board self-assessment. Superintendent Jeremy Wheatley introduced WSSDA Facilitator Mary Fertakis, who led the board in reviewing the results of a self-assessment survey completed by board members the previous month. This survey aimed to establish baseline data for future evaluations of board performance. The session included an ice-breaker exercise that encouraged board members to articulate their motivations for serving students and their goals for the year. The board engaged in discussions to identify focus areas and goals, ultimately expressing positive sentiments about the workshop's outcomes. There were no changes to the agenda or consent items, and the meeting concluded with plans for a regular board meeting scheduled for November 20, 2024.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/2024-09-09-specialboardmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-11-06-minutes.txt)
 
-## 2024-08-07 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+## 2024-10-16 - DAYTON_SCHOOL_DISTRICT (Minutes)
 
-The special meeting of the Oak Harbor Public Schools Board of Directors on August 7, 2024, involved discussions on budgetary considerations, calendar planning, and goal-setting for the upcoming academic year. Board members present included Lynn Goebel, Jessica Aws, Nicole Tesch, Sharon Jensen, Josh MacLean, along with student representatives Maggie Litvachuk and Allena Locklear. Superintendent Michelle Kuss-Cybula and CFO Amber Porter contributed to the discussions, although no final board actions were taken during this session. The focus on long-term strategic plans indicates an ongoing commitment to financial and operational planning within the district.
+The Dayton School District held a regular board meeting on October 16, 2024, where several key items were discussed. The agenda included the approval of board minutes from previous meetings, financial reports, and the hiring of Jesse Yost as the Middle School Head Boys' Basketball Coach. The board also received various reports from students and staff, highlighting the successful homecoming week and upcoming events such as parent-teacher conferences and a STEAM club for middle school students. Superintendent Jeremy Wheatley provided updates on the early release Wednesdays focused on teacher effectiveness and reported on the decision not to proceed with a middle school open science curriculum due to its incompatibility with the district's program. Additionally, the board discussed the financial health of the district, with Business Manager Jana Eaton presenting a detailed budget status report for September and outlining future financial reporting requirements. The meeting concluded with the scheduling of a board study session for November 6, 2024. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/2024-08-07-specialboardmeeting-minutes.txt)
+tags: community-engagement
+policy-changes
+academic-standards
 
-## 2024-04-29 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-16-minutes.txt)
 
-A special meeting of the Oak Harbor Public Schools Board of Directors took place on April 29, 2024, focusing on the strategic planning process. Dr. Tammy Campbell from The Scholar First presented during the session, which lasted from 5:00 to 5:55 p.m. Board members present included Lynn Goebel, Jessica Aws, Nicole Tesch, Sharon Jensen, and Josh MacLean, along with Superintendent Michelle Kuss-Cybula and her Cabinet. No final board actions were taken during this meeting, indicating that discussions were preliminary and aimed at shaping future strategic directions for the school district. The minutes were prepared by Board Secretary Michelle Kuss-Cybula, Ed.D.
+### Board Member Actions
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/2024-04-29-specialboardmeeting-minutes.txt)
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Ryan Paulson](board_member_47.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Zac Fabian](board_member_44.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
+| [Jeffrey McCowen](board_member_46.md) | voted yes on the consent agenda | Board member Paulson moved, seconded by director Fabian, to approve the consent agenda as presented. Motion carried 3-0. |
 
-## 2024-02-26 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
+## 2024-10-02 - DAYTON_SCHOOL_DISTRICT (Minutes)
 
-A special meeting of the Oak Harbor Public Schools Board of Directors was convened on February 26, 2024, to discuss the district's budgeting process. Board members present included Lynn Goebel, Jessica Aws, Nicole Tesch, Sharon Jensen, and Josh MacLean, along with student board representative Josiah Villano and Superintendent Michelle Kuss-Cybula. The meeting focused on the financial planning and budgeting strategies for the district, although no final board actions were taken during the session. The minutes were prepared by Katey Andrews, with Michelle Kuss-Cybula serving as Board Secretary and Lynn Goebel as Board President.
+The Dayton School District No. 2 held a School Board Work Session on October 2, 2024, where key topics included an introduction to Policy Governance led by Rick Maloney. He outlined the roles and responsibilities of the school board, emphasizing that the board serves its community, governs via policy, assigns responsibility, delegates authority, and assures accountability. The session also involved discussions about the Washington State School Directors' Association (WSSDA) and the implementation of a board self-evaluation, which Superintendent Jeremy Wheatley will facilitate by sending a link for completion. The meeting concluded with plans for a regular board meeting on October 16, 2024.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/island/school_boards/oak_harbor_school_district/2024/2024-02-26-specialboardmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/columbia/school_boards/dayton_school_district/2024/2024-10-02-minutes.txt)
 

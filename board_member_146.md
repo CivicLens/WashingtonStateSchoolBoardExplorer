@@ -1,6 +1,6 @@
-# Positions Supported by Reverend Terrence Proctor (TUKWILA_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Michael Wiggins (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Reverend Terrence Proctor | TUKWILA_SCHOOL_DISTRICT | 2027 |
+| Michael Wiggins | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
 

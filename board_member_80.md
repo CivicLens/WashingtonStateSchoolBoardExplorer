@@ -1,6 +1,6 @@
-# Positions Supported by Bernadette Bower (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Rita Keene (QUINCY_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Bernadette Bower | ELMA_SCHOOL_DISTRICT |  |
+| Rita Keene | QUINCY_SCHOOL_DISTRICT | 2027 |
 

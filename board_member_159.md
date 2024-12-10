@@ -1,6 +1,6 @@
-# Positions Supported by Becky Hess (BICKLETON_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Stacy Mills (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Becky Hess | BICKLETON_SCHOOL_DISTRICT |  |
+| Stacy Mills | NORTH_KITSAP_SCHOOL_DISTRICT | 2023-2027 |
 

@@ -1,64 +1,8 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: academic-standards
 
-## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District #504 held a board meeting on October 12, 2024, where key discussions centered on long-term strategic plans, specifically focusing on multilingual language proficiency growth as part of the district's strategic priorities. Superintendent David VanderYacht presented an update on the long-range capital facilities plan from June 2023, which included information regarding impact fees. The board also engaged in discussions about effective governance and board development, aiming to enhance their operational efficiency. The meeting concluded with a motion to adjourn made by Director Hickman at 12:55 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
-
-## 2024-05-02 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting held on May 2, 2024, included significant discussions and actions related to academic standards and policy changes. The board approved several updated policies, including Policy 6700 on Nutrition, Policy 6701 on Recess & Physical Activity, Policy 6702 on Wellness, and Policy 2124 on Physical Education & Health Class, all of which were motioned by Director Owsley and seconded by Director Brar. Additionally, Policy 2413 regarding Equivalency Credit Opportunities was amended to include language about available credits within the school district or at a skill center, and to remove a phrase regarding ensuring cultural responsiveness and equity in awarding mastery-based credits. 
-
-The meeting also featured updates from school principals on their School Improvement Plans, highlighting targets for student proficiency and attendance. Tim Doering, Principal of Isom Elementary, reported that the goal for 75% of students to be proficient in reading fluency was progressing, while Ian Freeman, Principal of Lynden High School, discussed efforts to enhance teacher understanding of Universal Design for Learning (UDL) and systems of academic support aimed at reducing D and F grades. The board's engagement with these educational updates reflects its commitment to improving academic standards and student outcomes within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-05-02-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Khush Brar](board_member_328.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to adopt Policy 2124- Physical Education & Health Class | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to amend Policy 2413 to strike “to ensure cultural responsiveness and equity in awarding mastery-bas...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the Interlocal Agreement with Whatcom County Detention Center for 2024/2025 | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to authorize the board legislative committee to revise and submit revisions on the “Local Control” p...[truncated, use api for full text] | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-
-## 2024-04-18 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting on April 18, 2024, focused on several key topics, including community engagement regarding an upcoming bond election. A district parent expressed the importance of educating the community about the bond's necessity, while another community member highlighted the need for better communication about school funding. The board also discussed various policies, including a first reading of several policies related to student health and wellness, with no action taken on those. However, an updated Policy 3421 on Child Abuse & Neglect was approved, reflecting a commitment to safeguarding students. Additionally, the board approved several action items, including Resolution #05-24 concerning the Asset Preservation Program and the interlocal agreement with Bellingham School District for Title 1 services.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-18-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
-| [Ken Owsley](board_member_327.md) | voted yes on Resolution #05-24: Asset Preservation Program | Resolution #05-24: Asset Preservation Program |
-| [Ken Owsley](board_member_327.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
-| [Khush Brar](board_member_328.md) | voted yes on approving the appointment of Doris Smith as ‘Against’ committee member for the bond resolution | Approval of Pro & Con Committee Members |
-| [Ken Owsley](board_member_327.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
-| [Khush Brar](board_member_328.md) | voted yes on approving the appointment of Kyle Kleindel, Angie Costanti, and Tim Koetje as ‘For’ committee members for t...[truncated, use api for full text] | Approval of Pro & Con Committee Members |
-| [Ken Owsley](board_member_327.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
-| [Khush Brar](board_member_328.md) | voted yes on approving the interlocal agreement with Bellingham School District for Title 1 services | Interlocal Agreement- Bellingham SD, Title 1 Services |
-| [Danny Martinez](board_member_330.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
-| [Ken Owsley](board_member_327.md) | voted yes on updated Policy 3421- Child Abuse & Neglect | Policy 3421- Child Abuse & Neglect |
-
 ## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 board meeting held on April 13, 2024, focused on several key areas, including a review of the district's strategic planning process and the development of long-term strategic plans to enhance student outcomes. The board discussed the results of their self-assessment conducted by the Washington State School Directors' Association (WSSDA) and explored ways to improve governance and leadership for better student results. Additionally, they reviewed Key Performance Indicators related to academic performance and engagement, such as 3rd Grade Reading and Graduation Rates. The agenda also included discussions on the process for developing board meeting agendas and a review of the board handbook and Policy 1220. No specific policy changes were reported during this meeting.
+The Lynden School District Board Meeting on April 13, 2024, focused on several key areas related to academic standards and community engagement. The board reviewed their self-assessment results as conducted by the Washington State School Directors' Association (WSSDA), discussing the WSSDA School Board Standards and how to enhance governance and leadership for improved student outcomes. They also examined Key Performance Indicators, including metrics on 3rd Grade Reading, Multilingual Learner Language Proficiency, Attendance, 9th Grade Success, Graduation Rates, and Parent Climate Surveys, indicating a commitment to monitoring and improving academic standards. Additionally, the board initiated discussions on the strategic planning process for updating the district’s Strategic Plan and Priorities, emphasizing the importance of community engagement in shaping educational strategies. Lastly, the board reviewed their agenda development process in relation to Policy 1220, ensuring that governance practices align with their objectives for student success.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-minutes.txt)
 
@@ -66,56 +10,8 @@ The Lynden School District #504 board meeting held on April 13, 2024, focused on
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
-
-## 2024-03-21 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board of Directors convened on March 21, 2024, where they addressed several key issues including mental health support and school safety. Tim Metz, Director of Student Services, and Jordan Feigel, Mental Health Coordinator, provided an update on mental health initiatives, including insights from a recent healthy youth survey. The board also discussed safety concerns related to the high number of entry points at Lynden High School, emphasizing the urgency of addressing these issues in relation to a potential bond resolution. 
-
-The board reviewed and approved Policy 5005 regarding Employment and Volunteers, indicating a change in the district's approach to staffing and volunteer management. Additionally, they engaged in discussions around long-term facilities planning, including the potential for a bond vote and the need to modify project scopes based on updated financial analyses. The board intends to further discuss these matters in a workshop scheduled for April 4, 2024, with a goal of voting on a bond resolution on April 18, 2024.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-21-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school district. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the consent agenda | The consent agenda included items such as warrants for funds, personnel recommendations, and a donation. |
-
-## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board of Directors held a special meeting on February 3, 2024, focused on several key areas including board functions, legislative engagement, and district priorities. The board discussed the logistics of placing items on meeting agendas and emphasized the importance of transparency with the community. They also reviewed the current legislative session and the need for advocating local control. A significant portion of the meeting was dedicated to discussing standards, measures, and goals as part of the district's long-term strategic planning process. Director Tonya Hickman led the meeting and motioned to adjourn at 12:30 pm, with Superintendent David VanderYacht in attendance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
-
-## 2024-01-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting held on January 25, 2024, included discussions on several key topics, notably school safety and community engagement. Superintendent David VanderYacht provided an overview of the district's Capital Facilities Planning, focusing on upcoming levy and bond funding initiatives, which aim to enhance community resources and address local property tax impacts. Additionally, Director of Finance & Operations, Ben Thomas, presented details on the district’s emergency management and safety procedures, including the implementation of the I Love You Guys program for reunification protocols, and the Standard Response Protocol (SRP) used county-wide. 
-
-Policy changes were also a significant part of the meeting, with the board approving updated Policy 5010 on Nondiscrimination and Policy 5161 on Civility in the Workplace. Furthermore, they discussed an updated Nondiscrimination in Hiring Plan, which was also approved. Director Martinez motioned against joining a class action lawsuit regarding social media's impact on youth mental health, indicating a focus on mental health issues within the community. The meeting concluded with discussions about advocating for legislative bills, indicating a commitment to community engagement and active participation in local governance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
 
 ## 2023-12-14 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

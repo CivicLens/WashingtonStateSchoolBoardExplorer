@@ -1,6 +1,6 @@
-# Positions Supported by Sandy Long, Ph.D. (PORT_ANGELES_SCHOOL_DISTRICT, Term: 12/27)
+# Positions Supported by Brian Weinmann (PROSSER_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Sandy Long, Ph.D. | PORT_ANGELES_SCHOOL_DISTRICT | 12/27 |
+| Brian Weinmann | PROSSER_SCHOOL_DISTRICT | 2021-2027 |
 

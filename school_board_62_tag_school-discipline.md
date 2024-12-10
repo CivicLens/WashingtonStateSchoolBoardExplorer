@@ -1,11 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: school-discipline
 
-## 2024-10-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a special meeting on October 23, 2024, focused on the cell phone policy at Bellingham High School. Students expressed their insights regarding the policy's enforcement, noting that it has become stricter compared to previous years, with many feeling a positive impact on their engagement and interactions. The discussions highlighted the importance of allowing some flexibility, particularly regarding music access during work time, and the need for clearer communication with parents about the policy's expectations. Notably, students indicated that the policy has led to more conversations and participation in class, while some expressed concerns about the challenges faced by parents in retrieving confiscated phones. Superintendent Greg Baker emphasized the value of student voice in informing the school board's decisions, reflecting a commitment to community engagement and responsiveness to student needs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
-
 ## 2018-02-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail discussions on student performance and disciplinary actions.  The board reviewed monitoring reports related to Ends 2.1 part 1 (Student Competence), acknowledging progress made in reducing suspensions and engaging with former students who did not complete high school. They also discussed the wording of "comparable high-performing districts" within the policy, potentially planning revisions for future meetings. The directors shared updates on their participation in various school events and conferences, including a linkage meeting with business community representatives and visits to Cordata Elementary School where they observed the implementation of Social/Emotional Learning programs.

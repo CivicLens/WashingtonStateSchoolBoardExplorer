@@ -1,6 +1,6 @@
-# Positions Supported by Jacob Burkhart (EASTMONT_SCHOOL_DISTRICT, Term: 2023-2025)
+# Positions Supported by Thomas Jenkins (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jacob Burkhart | EASTMONT_SCHOOL_DISTRICT | 2023-2025 |
+| Thomas Jenkins | BRIDGEPORT_SCHOOL_DISTRICT | December 2027 |
 

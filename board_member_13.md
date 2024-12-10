@@ -1,6 +1,6 @@
-# Positions Supported by Nick Wood (CASHMERE_SCHOOL_DISTRICT, Term: 11/27)
+# Positions Supported by Jason Rainer (PROSSER_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Nick Wood | CASHMERE_SCHOOL_DISTRICT | 11/27 |
+| Jason Rainer | PROSSER_SCHOOL_DISTRICT | 2021-2025 |
 

@@ -1,5 +1,17 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2011
 
+## 2011-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes detail discussions on academic performance (Ends 2.1, Academic Competence) and potential modifications to this policy.  The board is considering revisions to the Ends 2.1 policy following a monitoring report presented at their November meeting. Additionally, the board approved two levies for voter consideration in a special election: Resolution 10-11, a four-year Maintenance and Operations Levy to support general fund expenditures, and Resolution 11-11, a four-year Technology Levy for technology improvements and equipment. The board also selected Dykeman Architects for the Birchwood Elementary School project.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-08-minutes.txt)
+
+## 2011-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board of Directors met on December 6, 2011 to discuss the expiring Maintenance and Operations (M&O) levy and Technology Levy.  The M&O levy supports approximately 25% of the district's annual operating budget and helps maintain current student programs. Both levies will be on the ballot for a vote on February 14, 2012. The Board received information about the levies from Superintendent Greg Baker and Ron Cowan, assistant superintendent of Business and Operations.  The Executive Team also answered questions from the Board regarding the levies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-06-minutes.txt)
+
 ## 2011-11-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail discussions on policy EL-9, Facilities Program, and Ends 2.1, Academic Competence.  The board determined the district to be "In Compliance" with both policies.  For EL-9, the board suggested aligning its submission timeline with the Asset Preservation Program (APP) report due on April 1st annually. The board acknowledged the value of the monitoring report for Ends 2.1, recognizing it as a helpful indicator of student success while emphasizing that it doesn't capture all aspects of student learning.  The minutes also mention Resolution 8-11, Acceptance of Whatcom Middle School Replacement and Repair Project, which was unanimously approved.

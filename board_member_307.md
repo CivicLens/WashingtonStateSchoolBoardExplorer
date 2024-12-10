@@ -1,6 +1,6 @@
-# Positions Supported by Anne Marie Bauman (COLLEGE_PLACE_SCHOOL_DISTRICT, Term: 2023-2025)
+# Positions Supported by Frank King (YELM_COMMUNITY_SCHOOLS, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Anne Marie Bauman | COLLEGE_PLACE_SCHOOL_DISTRICT | 2023-2025 |
+| Frank King | YELM_COMMUNITY_SCHOOLS | 2021-2025 |
 

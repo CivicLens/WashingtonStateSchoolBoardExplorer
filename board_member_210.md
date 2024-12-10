@@ -1,6 +1,6 @@
-# Positions Supported by Erasmo Ruiz (BETHEL_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Rick Trocano (PATEROS_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Erasmo Ruiz | BETHEL_SCHOOL_DISTRICT | 2023-2027 |
+| Rick Trocano | PATEROS_SCHOOL_DISTRICT | 2023-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by BRYON BAHR (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Jeremy Engle (LIBERTY_SCHOOL_DISTRICT, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| BRYON BAHR | RAINIER_SCHOOL_DISTRICT | None |
+| Jeremy Engle | LIBERTY_SCHOOL_DISTRICT | 2022-2025 |
 

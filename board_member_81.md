@@ -1,6 +1,6 @@
-# Positions Supported by Stephanie Smith (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Chad Lower (QUINCY_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Stephanie Smith | ELMA_SCHOOL_DISTRICT |  |
+| Chad Lower | QUINCY_SCHOOL_DISTRICT | 2025 |
 

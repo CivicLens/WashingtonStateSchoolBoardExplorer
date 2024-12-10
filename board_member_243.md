@@ -1,6 +1,6 @@
-# Positions Supported by Chelsea McElroy (TACOMA_PUBLIC_SCHOOLS, Term: 2021-2027)
+# Positions Supported by Melanie Tinsley (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chelsea McElroy | TACOMA_PUBLIC_SCHOOLS | 2021-2027 |
+| Melanie Tinsley | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2025 |
 

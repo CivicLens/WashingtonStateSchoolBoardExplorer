@@ -1,20 +1,44 @@
 # Meeting Summaries for FERNDALE_SCHOOL_DISTRICT with Tag: diversity-inclusion
 
-## 2024-11-03 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+## 2024-03-26 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The regular meeting of the school board, held on March 26, 2024, included discussions on several key topics. Notably, the board reviewed a draft mission statement aimed at enhancing diversity and inclusion, gathering feedback to refine it for future meetings. Additionally, Superintendent updates highlighted the upcoming Multicultural Night and the district's efforts to engage with the community, including city barbeques and a new skate park project. The board also adopted new policies, including Policy 5225 on Technology, and discussed changes to compensation for board members attending various meetings, establishing a rate of fifty dollars per day for participation. These actions reflect ongoing efforts to improve community engagement and address operational needs within the district.
+The regular meeting of the school board held on March 26, 2024, included discussions on various topics including the Multicultural Night and the first home track meet in 11 years, highlighting a commitment to diversity and community engagement. The board reviewed three draft mission statements to refine their mission, indicating a focus on inclusivity and representation. Additionally, the board adopted Policy 5225 - Technology Policy, which addresses the use of educational technology, reflecting an adaptation to current technological needs in education. There were also updates on public records requests and the establishment of an Audit Committee, suggesting ongoing policy changes aimed at improving oversight and transparency within the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-03-26-minutes.txt)
 
-## 2024-04-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+### Board Member Actions
 
-The Ferndale School District held a regular board meeting on April 30, 2024, where key topics included the adoption of a new Mission Statement emphasizing diversity and inclusion. The Mission Statement articulates the district's commitment to preparing students for an ever-changing world through rigorous education that fosters academic growth, confidence, and critical thinking while ensuring a safe and inclusive environment. Additionally, the board discussed the successful receipt of a $700,000 grant from Whatcom County Health & Community Services aimed at developing an inclusive playground. The meeting also included the adoption of Monitoring Reports for Operational Expectations Policies 11 (Facilities) and 12 (Safety), which were deemed compliant, indicating a commitment to maintaining safe and functional school facilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-04-30-minutes.txt)
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Kevin Erickson](board_member_327.md) | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
+| [Steve Childs](board_member_329.md) | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
+| [Nancy Button](board_member_330.md) | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
+| [Kevin Erickson](board_member_327.md) | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
+| [Steve Childs](board_member_329.md) | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
+| [Nancy Button](board_member_330.md) | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
+| [Kevin Erickson](board_member_327.md) | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
+| [Steve Childs](board_member_329.md) | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
+| [Nancy Button](board_member_330.md) | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
+| [Kevin Erickson](board_member_327.md) | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
+| [Steve Childs](board_member_329.md) | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
+| [Nancy Button](board_member_330.md) | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
+| [Kevin Erickson](board_member_327.md) | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
+| [Steve Childs](board_member_329.md) | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
+| [Antonio Machado](board_member_331.md) | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
+| [Nancy Button](board_member_330.md) | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
 
 ## 2024-01-30 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The special meeting on January 30, 2024, focused on updates regarding Native student achievement and participation in programs, highlighting the involvement of the Lummi Nation Education Board. Dr. Dominguez introduced staff members who presented data on the distinctions between race and ethnicity as recognized by the government, emphasizing the need for authentic and vetted approaches to student data. The meeting also included a review and approval of the Lummi Nation Education and Ferndale School District Joint Policies & Procedures Rubric, indicating a commitment to fostering diversity and inclusion within the educational framework. The collaboration between the Lummi Nation and Ferndale Schools underscores a community engagement effort aimed at enhancing educational outcomes for Native students.
+The special meeting held on January 30, 2024, focused on updates regarding Native student achievement and participation in programs, emphasizing diversity and inclusion within the educational framework. Dr. Dominguez introduced various staff members and noted the presence of the Lummi Nation Education Board, highlighting community engagement in educational matters. Mr. Bobby Olsen shared data differentiating race and ethnicity as categorized by the government, which is pertinent to discussions of racial equity. The meeting also included a review and approval of the Lummi Nation Education and Ferndale School District Joint Policies & Procedures Rubric, indicating potential policy changes aimed at improving educational outcomes for Native students. The meeting concluded with an adjournment at 5:30 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-30-minutes.txt)
 
@@ -22,8 +46,8 @@ The special meeting on January 30, 2024, focused on updates regarding Native stu
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Peggy Uppiano](board_member_321.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
-| [Nancy Button](board_member_323.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Peggy Uppiano](board_member_328.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
+| [Nancy Button](board_member_330.md) | voted yes on motion to adopt the agenda | Motion to adopt the agenda. |
 
 ## 2023-06-27 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 

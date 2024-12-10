@@ -1,16 +1,16 @@
-# Meeting Summaries for PENINSULA_SCHOOL_DISTRICT
+# Meeting Summaries for GRAPEVIEW_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Chuck West](board_member_229.md) | 2021-2027 |
-| [Jennifer Butler](board_member_230.md) | 2021-2025 |
-| [Lori Glover](board_member_231.md) | 2021-2027 |
-| [Natalie Wimberley](board_member_232.md) | 2021-2027 |
-| [David Olson](board_member_233.md) | 2021-2025 |
-| [Noah Thompson](board_member_234.md) | None |
+| [Tom Anderson](board_member_190.md) |  |
+| [Wes Martin](board_member_191.md) |  |
+| [Les Okonek](board_member_192.md) |  |
+| [Debbie Olig](board_member_193.md) |  |
+| [Edrie Price](board_member_194.md) |  |
 
 ## Available Years
+- [2024](school_board_46_year_2024.md)
 
 ## Summaries by Tag

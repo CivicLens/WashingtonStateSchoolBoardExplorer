@@ -1,6 +1,6 @@
-# Positions Supported by Rob Perkins (EVERGREEN_PUBLIC_SCHOOLS, Term: 2014-2025)
+# Positions Supported by Mary Hebert (PORT_ANGELES_SCHOOL_DISTRICT, Term: 11/25)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Rob Perkins | EVERGREEN_PUBLIC_SCHOOLS | 2014-2025 |
+| Mary Hebert | PORT_ANGELES_SCHOOL_DISTRICT | 11/25 |
 

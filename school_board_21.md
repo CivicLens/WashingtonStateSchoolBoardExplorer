@@ -1,15 +1,17 @@
-# Meeting Summaries for QUILCENE_SCHOOL_DISTRICT
+# Meeting Summaries for KALAMA_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Viviann Kuehl](board_member_103.md) | 2015-2027 |
-| [Shona Davis](board_member_104.md) | 2024-2025 |
-| [Ron Frantz](board_member_105.md) | 2023-2027 |
-| [Jon Cooke](board_member_106.md) | 2021-2025 |
-| [Jim Hodgson](board_member_107.md) | 2023-2027 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_21_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_21_tag_policy-changes.md)
+- [community-engagement](school_board_21_tag_community-engagement.md)
+- [special-education-support](school_board_21_tag_special-education-support.md)
+- [school-safety](school_board_21_tag_school-safety.md)
+- [educattional-techology](school_board_21_tag_educattional-techology.md)
+- [school-discipline](school_board_21_tag_school-discipline.md)
+- [mental-health](school_board_21_tag_mental-health.md)

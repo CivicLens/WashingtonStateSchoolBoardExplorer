@@ -1,6 +1,6 @@
-# Positions Supported by Buffy Nicholson (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Steve Simmons (PASCO_SCHOOL_DISTRICT, Term: November 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Buffy Nicholson | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
+| Steve Simmons | PASCO_SCHOOL_DISTRICT | November 2025 |
 

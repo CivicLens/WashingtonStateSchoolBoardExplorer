@@ -1,6 +1,6 @@
-# Positions Supported by Jim Hodgson (QUILCENE_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Kathryn Lamka (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2021 - 11/2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jim Hodgson | QUILCENE_SCHOOL_DISTRICT | 2023-2027 |
+| Kathryn Lamka | CHIMACUM_SCHOOL_DISTRICT | 11/2021 - 11/2025 |
 

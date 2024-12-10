@@ -1,6 +1,6 @@
-# Positions Supported by Michael Smith (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Alex Tufts (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Michael Smith | ELMA_SCHOOL_DISTRICT |  |
+| Alex Tufts | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
 

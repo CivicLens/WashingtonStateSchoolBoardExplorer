@@ -1,6 +1,6 @@
-# Positions Supported by Jana Eaton (DAYTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Gordon Smith (HOCKINSON_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jana Eaton | DAYTON_SCHOOL_DISTRICT | None |
+| Gordon Smith | HOCKINSON_SCHOOL_DISTRICT | 2023-2027 |
 

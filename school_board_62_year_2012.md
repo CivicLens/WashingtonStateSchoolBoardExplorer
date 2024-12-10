@@ -1,5 +1,13 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2012
 
+## 2012-12-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The School Board meeting focused on monitoring the progress of Ends 3.0, a policy outlining desired skills and attributes for students. Deputy Superintendent Tom Venable, Research, Assessment Director Brian Rick, Program Administrator for Title I Trina Hall, and Program Administrator for English Language Learners Amy Carder presented a report detailing the implementation of a standard-based reporting system at the elementary and middle school levels.  The Board requested future reports include information on how to further support student learning and inquired about high school level initiatives related to Ends 3.0.
+
+The meeting also included an update from Assistant Superintendent Ron Cowan on the Facilities Planning Task Force, which is examining district facilities and will make recommendations to Superintendent Greg Baker for community consideration.  Upcoming events were announced, including Board visits to schools and a School Board Retreat. The meeting concluded with a positive assessment and an executive session to discuss negotiations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-12-13-minutes.txt)
+
 ## 2012-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail a discussion and approval of a monitoring report on Ends 2.0 (Academic Achievement) and Ends 2.1 (Student Competence).  The Board expressed satisfaction with the completeness of the data presented, though they suggested broadening the scope of comparison districts for future reports. They also recommended including math scores and data from every student in subsequent reports.
@@ -93,6 +101,12 @@ The Sehome High School Mock Trial Club, Thespian Troupe, and DECA Club received 
 The Bellingham School Board of Directors met on February 16, 2012, to discuss several key topics.  The meeting included updates on facilities and the budget process. The board also discussed possible topics for future linkages and study sessions, indicating a focus on long-term strategic planning. Additionally, they reviewed Governance Policies and conducted the Superintendent's mid-year review, highlighting their commitment to school board ethics and ongoing policy evaluation.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-02-16-minutes.txt)
+
+## 2012-02-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail several personnel recommendations for tutoring and instructional roles within the district.  The board also reviewed and approved revisions to Board/Superintendent Relationship Policies (BSR-1 through BSR-5.1.2) focusing on clarifying accountability, delegation, and performance evaluation processes. Notably, they combined and renumbered Executive Limitation Policies EL-13, EL-14, and EL-15 into a single policy, EL-6, addressing Academic Standards and Practices with minor edits. This consolidation suggests a streamlining effort to enhance clarity and efficiency in academic policy governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-02-14-minutes.txt)
 
 ## 2012-02-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

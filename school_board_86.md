@@ -1,18 +1,15 @@
-# Meeting Summaries for SAN_JUAN_ISLAND_SCHOOL_DISTRICT
+# Meeting Summaries for SKYKOMISH_SCHOOL_DISTRICT
 
 ## Board Members
 
-No current board members available.
+| Board Member       | Term           |
+|--------------------|----------------|
+| [John Robinson](board_member_140.md) | 2021-2025 |
+| [Alberto Laverde](board_member_141.md) | 2021-2027 |
+| [Ashley Toney](board_member_142.md) | 2021-2025 |
+| [Jimmy Sarno](board_member_143.md) | 2021-2025 |
+| [Franny Sweeters](board_member_144.md) | 2021-2025 |
 
 ## Available Years
-- [2024](school_board_86_year_2024.md)
-- [2023](school_board_86_year_2023.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_86_tag_policy-changes.md)
-- [community-engagement](school_board_86_tag_community-engagement.md)
-- [special-education-support](school_board_86_tag_special-education-support.md)
-- [mental-health](school_board_86_tag_mental-health.md)
-- [teacher-support](school_board_86_tag_teacher-support.md)
-- [lgbtq](school_board_86_tag_lgbtq.md)
-- [diversity-inclusion](school_board_86_tag_diversity-inclusion.md)

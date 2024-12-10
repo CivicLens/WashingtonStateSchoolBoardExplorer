@@ -1,6 +1,6 @@
-# Positions Supported by Tiffany Schweppe (MONTESANO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Jamie Bailey (ELMA_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Tiffany Schweppe | MONTESANO_SCHOOL_DISTRICT | None |
+| Jamie Bailey | ELMA_SCHOOL_DISTRICT |  |
 

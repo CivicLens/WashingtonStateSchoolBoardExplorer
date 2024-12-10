@@ -1,6 +1,6 @@
-# Positions Supported by Elizabeth Bonbright (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2029)
+# Positions Supported by Jennifer McDonald (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Elizabeth Bonbright | TACOMA_PUBLIC_SCHOOLS | 2019-2029 |
+| Jennifer McDonald | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2025 |
 

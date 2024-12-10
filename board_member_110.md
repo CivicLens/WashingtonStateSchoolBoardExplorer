@@ -1,6 +1,6 @@
-# Positions Supported by Cindy Rogan (BELLEVUE_SCHOOL_DISTRICT, Term: Appointed February 26th, 2024 - November 2025)
+# Positions Supported by Viviann Kuehl (QUILCENE_SCHOOL_DISTRICT, Term: 2015-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Cindy Rogan | BELLEVUE_SCHOOL_DISTRICT | Appointed February 26th, 2024 - November 2025 |
+| Viviann Kuehl | QUILCENE_SCHOOL_DISTRICT | 2015-2027 |
 

@@ -1,15 +1,20 @@
-# Meeting Summaries for HOCKINSON_SCHOOL_DISTRICT
+# Meeting Summaries for PROSSER_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Teresa VanNatta](board_member_31.md) | 2021-2025 |
-| [Patrick Carter](board_member_32.md) | 2021-2025 |
-| [Anne-Elissa Carter](board_member_33.md) | 2023-2027 |
-| [Kat Stupka](board_member_34.md) | 2023-2027 |
-| [Gordon Smith](board_member_35.md) | 2023-2027 |
+| [Jason Rainer](board_member_13.md) | 2021-2025 |
+| [Elisa Riley](board_member_14.md) | 2021-2025 |
+| [Michelle O'Brien](board_member_15.md) | 2021-2027 |
+| [Brian Weinmann](board_member_16.md) | 2021-2027 |
+| [Frank Vermulm](board_member_17.md) | 2021-2027 |
 
 ## Available Years
+- [2024](school_board_7_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_7_tag_policy-changes.md)
+- [community-engagement](school_board_7_tag_community-engagement.md)
+- [bullying-prevention](school_board_7_tag_bullying-prevention.md)
+- [school-board-ethics](school_board_7_tag_school-board-ethics.md)

@@ -56,6 +56,12 @@ The school board meeting minutes discuss the 2019-2020 school year report, highl
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2022/2022-01-12-minutes.txt)
 
+## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing consistent updates, particularly during the COVID-19 pandemic. While the evaluation commends the Superintendent's performance overall, it suggests incorporating student and parent voices more explicitly as evidence of compliance with certain policies. The document also mentions a transition to remote learning due to COVID-19 but does not elaborate on the specifics or challenges associated with this shift.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-minutes.txt)
+
 ## 2021-06-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The School Board reviewed the Superintendent's Monitoring Report regarding Executive Limitations Reports and specifically Policy EL-8 on District Calendar.  The report highlighted commendable progress in adapting to the demands of the pandemic, including adjusting the school calendar for staff learning days and providing professional development opportunities to support remote and hybrid learning. Despite challenges, the superintendent was praised for clear communication during a rapidly changing environment and efforts to coordinate services for families' basic and learning needs. The Board specifically recognized the strong connections built with families receiving special education services during this time. No areas for improvement were identified.
@@ -142,6 +148,12 @@ The Bellingham Public School Board met to discuss and approve several policy cha
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-02-27-minutes.txt)
 
+## 2018-12-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors visited Kulshan Middle School on December 4, 2018. During the visit, school staff and students presented information about various programs offered at the school, including STEM and technology courses, the Launch program (which focuses on project-based learning), and the WEB (Where Everyone Belongs) mentorship program designed to foster a sense of belonging among students. The meeting aimed to provide the school board with insights into the school's initiatives and how they support student well-being and academic growth.  The visit also served as an opportunity for community engagement, allowing parents and staff to interact with school board members.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-04-minutes.txt)
+
 ## 2018-10-02 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Options High School on October 2, 2018. The meeting focused on the school's growth in its new facility and highlighted expanded Career and Technical Education (CTE) offerings as well as the GRADS program, which supports teenage parents.  The visit allowed the board to learn about the school's progress and initiatives aimed at supporting student success.
@@ -205,6 +217,12 @@ The Bellingham School District Board of Directors met on October 5, 2016 to disc
 The school board meeting focused heavily on student well-being and support systems.  Attendees raised concerns about discipline techniques like taking away recess and advocated for better classroom management training for staff.  The discussion also highlighted the need for increased prevention efforts in substance abuse and suicide, suggesting expansion of peer-to-peer programs. Parents requested guidance on discussing healthy relationships and abuse prevention with their children. The board acknowledged the challenges faced by district staff and discussed self-care opportunities like an Employee Assistance Program and a newly created wellness director position.  The meeting also touched upon connecting students to community resources in a more supportive manner.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2016/2016-06-14-minutes.txt)
+
+## 2015-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board held a meeting focused on strengthening the connection between schools and healthcare practitioners.  The discussion centered around addressing challenges students face related to mental health, self-esteem, autism, and ADHD, and how these issues impact learning. Participants explored potential solutions like on-site clinics and highlighted the importance of community support for families in distress. The district aims to improve communication with medical providers and explore ways to better integrate healthcare services into the educational environment.  The meeting also touched upon The Bellingham Promise, a program designed to provide comprehensive support for students beyond academics, emphasizing the need for individualized interventions and a loving environment for every child.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-12-09-minutes.txt)
 
 ## 2015-10-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

@@ -1,69 +1,58 @@
 # Meeting Summaries for Tag: covid
 
-## 2024-11-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-12-04 - BREMERTON_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 Regular Board Meeting held on November 25, 2024, addressed several key issues, including community engagement and policy changes. Public comments highlighted concerns regarding the district's reputation and the need for positivity, with individuals like Pat Jerns advocating for a name change to Birch Bay Blaine School District. Dr. Christopher Granger, the superintendent, reported on a grassroots effort to set up a townhall meeting with local legislators, indicating an emphasis on community involvement. Additionally, the board conducted a first reading of updated policies to comply with 2024 Title IX regulations, including Policy 3205 on sex discrimination and Policy 5011 on harassment of district staff. The board also discussed the implications of COVID vaccine lawsuits, reflecting ongoing concerns about student health and well-being.
+The Bremerton School District Board of Directors held a special meeting at Naval Avenue Elementary on April 15, 2024, to discuss various issues affecting the school. Principal Kimberly Powell reported staffing challenges, particularly in special education paraprofessional positions, which have led to adjustments in lunch and recess schedules. The board emphasized the need for community engagement, as parents expressed concerns about safety at nearby intersections and the absence of a parent-teacher organization. Additionally, discussions included the impact of COVID-19 on student attendance, with parents keeping children home more frequently. The school is also working on enhancing academic standards, with inquiries about new curriculum materials for math and reading. Concerns were raised about the school garden initiative and its community partnerships, highlighting the importance of collaboration in fostering educational development.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/2024-12-04-minutes.txt)
 
 ## 2024-11-14 - HOOD_CANAL_SCHOOL_DISTRICT (Minutes)
 
-The Hood Canal School District Board of Education held a study session on November 14, 2024, where they discussed various updates, including the involvement of Bassetti Architects in ongoing projects and matters related to EP&O (Educational Programs and Operations) and Capital Projects/Tech Levies. The meeting highlighted the district's response to the COVID-19 pandemic, particularly in relation to the setup of a vaccine clinic, which was praised by Board Member Ms. Robbins for the perseverance of the office staff, Tracy Johnson and Marcia Johnson. The meeting concluded with a discussion of future board meeting dates and a general expression of appreciation for the efforts of staff in managing community health initiatives.
+The Hood Canal School District Board of Education held a study session on November 14, 2024, where they discussed updates from Bassetti Architects and the implications of EP&O (Educational Programs and Operations) and Capital Projects/Tech Levies. Ms. Robbins commended the office staff, specifically Tracy Johnson and Marcia Johnson, for their efforts in managing the logistics of a vaccine clinic within the busy front office, highlighting the district's response to the ongoing COVID-19 pandemic. The meeting concluded with discussions about future board meeting dates, indicating ongoing community engagement efforts and planning.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/mason/school_boards/hood_canal_school_district/2024/2024-11-14-draftboardmtg-minutes.txt)
 
-## 2024-05-21 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+## 2024-11-11 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Yakima School District #7 held a Special Board Meeting focused on Career and Technical Education (CTE) Awards on May 21, 2024. The event included a reception and an awards ceremony where students were recognized for their achievements in various programs including FFA, HOSA, Skills USA, TSA, and WSSEA. Notable attendees included board members Norm Walker, Graciela Villanueva, Martha Rice, and Ryan Beckett, with Raymond Navarro Jr. absent. Bonnie Smith, the Executive Director of Career and College Readiness and CTE, welcomed the students and their families. President Walker provided closing remarks encouraging the award recipients and adjourned the meeting at 7:10 PM. The event emphasized community engagement by celebrating student accomplishments and fostering connections between the school board and families.
+The Ferndale School District No. 502 School Board held a regular meeting on November 30, 2021, where significant discussions revolved around COVID-19 vaccine mandates impacting school staff and the termination of employees related to these mandates. The board discussed the implications of Governor Jay Inslee's COVID-19 mandates, with public commenters expressing concerns against mandatory vaccinations and testing for staff. The board ultimately voted to terminate the contracts of several employees, citing the need to maintain a safe workplace, which was framed as a no-win situation by Dr. Erickson. The meeting also featured the swearing-in of new board members, Steve Childs and Peggy Uppiano, and a focus on community engagement and the importance of board leadership qualities. The board adopted Resolution 15-2021, declaring a state of emergency due to flooding that impacted the CTE Building at Ferndale High School, allowing the district to expedite cleanup efforts.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-05-21-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-11-minutes.txt)
 
-## 2024-03-11 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+## 2024-11-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Yakima School District #7 Board Retreat on March 11, 2024, included discussions on various topics, notably special education and parental rights. K.C. Mitchell presented the top ten ambitious goals for Special Education for the upcoming school year, emphasizing the district's commitment to enhancing support for students with special needs. Additionally, Superintendent Trevor Greene and Assistant Superintendent of Finance Jake Kuper addressed legislative impacts, including Initiative 2081, known as the Parents Bill of Rights, which aims to outline and protect parental rights in education. The board also reviewed over 1100 policies, with planned edits to be approved in a future meeting, indicating ongoing policy changes that could affect governance and operations within the district.
+The Ferndale School District No. 502 School Board held a regular meeting on September 28, 2021, where key discussions included the ongoing COVID-19 policies, particularly regarding face mask mandates for public comments during meetings. Mr. McLaurin emphasized that only in-person comments from individuals willing to wear masks would be accepted, while allowing remote comments via Zoom for those who cannot attend. Additionally, the board approved a revised superintendent search calendar, which included recommendations for community focus groups, indicating a focus on community engagement in the search process. The meeting also highlighted concerns regarding poor internet access in schools and a shortage of tablets, which reflect ongoing challenges in educational technology and student health. Lastly, the board discussed a proposal for a two-year replacement levy of $1.50 per $1,000 of assessed value, set to be voted on in February 2022, showcasing potential policy changes in funding for the district.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-03-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-09-minutes.txt)
 
-## 2024-01-29 - YAKIMA_SCHOOL_DISTRICT (Minutes)
+## 2024-11-07 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
-The Yakima School District #7 Business Board Meeting held on January 29, 2024, included discussions on significant growth in alternative education programs, particularly Yakima Online (YOL) and Open Doors, which have expanded from 153 to 687 students over five years. Principal Lois Menard emphasized the importance of creating supportive, non-traditional learning environments, reflecting a commitment to student autonomy and academic standards. The board approved several policy changes, specifically Policies 1000.3.4 through 1000.3.9, which outline the roles and conduct of board members, governance costs, and processes for addressing violations. The board also addressed community engagement by acknowledging support from local services and discussing potential improvements for educational pathways. Additionally, Superintendent Greene provided updates on legislative advocacy efforts and student health initiatives, including a recent clothing donation to elementary students.
+The Ferndale School District No. 502 held a special meeting on July 27, during which the school board conducted a public hearing regarding the proposed 2021-2022 district budget. The meeting was called to order by Mr. Andrew McLaurin at 6:47 PM, with a reminder to attendees about the ongoing requirement for face masks due to rising COVID-19 case counts. No public comments were received regarding the budget, and Mr. Mark Deebach provided an overview of the budget documents, noting that new explanations had been posted on the district's website to enhance clarity for readers. The meeting concluded with Mr. McLaurin adjourning the public hearing at 7:02 PM and directing Zoom viewers to switch links for the upcoming regular board meeting.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-01-29-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-11-07-minutes.txt)
 
-## 2024-01-25 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
+## 2024-07-29 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The Regular Board of Directors Meeting held on January 25, 2024, included discussions on various community engagement initiatives and acknowledgments for National School Board Month from both the SEA and the Principals Association. Superintendent Maxwell provided an update on the dissemination of levy information to community groups and emphasized the importance of upcoming ballot dates. Additionally, the Board approved Resolution No. 01-2024, which authorized the surplus and scrap of two school buses, indicating a policy change regarding resource management within the district. The meeting concluded with public comments, where community member Vicky Frausto expressed her thoughts, further emphasizing the importance of community involvement in school governance. The Board also recognized the efforts of staff in maintaining school safety during inclement weather conditions.
+The Special School Board Meeting held on July 29, 2020, focused on the reopening of schools amid the COVID-19 pandemic. A significant action item was the approval of MB Resolution 19/20:19, which requests a waiver for the minimum 180-day school year for grades K-12 for the 2020-2021, 2021-2022, and 2022-2023 school years. This resolution was moved by Mr. Pfeiﬀer-Hoyt and seconded by Ms. Elder, passing with a vote of 4-0. The meeting was conducted via Zoom, reflecting the adaptations made during the pandemic, and emphasized the ongoing discussions regarding the safe reopening of schools.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-01-25-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-29-minutes.txt)
 
-### Board Member Actions
+## 2024-07-23 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
-| [Stephen Berg](board_member_359.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
-| [Jory Anderson](board_member_358.md) | voted yes on approval of Resolution No. 01-2024 Surplus and Scrap of Two School Buses | Motion by Jory Anderson, second by Jilliann Patterson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on approval of Minutes from December 12, 2023 Board Work Session | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on approval of Minutes from December 14, 2023 Regular Board of Directors Meeting | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on ratification of Contract List | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Payroll and Vouchers | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Budget Status | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Personnel | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jilliann Patterson](board_member_357.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Stephen Berg](board_member_359.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
-| [Jory Anderson](board_member_358.md) | voted yes on Enrollment | Motion by Jilliann Patterson, second by Jory Anderson. |
+The School Board Meeting held on July 23, 2020, addressed several key topics related to the ongoing COVID-19 pandemic and educational technology. The meeting included a presentation by Principal Ma Durand regarding the upcoming high school graduation scheduled for August 7, 2020, which will be conducted in a drive-in format to adhere to social distancing requirements. Additionally, the Board discussed transitioning to a paperless board packet system, featuring a demonstration of the Board Docs product, highlighting a shift towards utilizing educational technology in administrative processes. The Board also approved various financial agreements, including a Client Staffing Agreement and the ESD 189 Science Materials Center Interlocal Cooperative Agreement, which are pertinent to the operational needs of the district during the pandemic.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-23-minutes.txt)
+
+## 2024-07-09 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+
+The minutes from the School Board meeting held on July 9, 2020, detail several key actions and discussions relevant to the district's budget and safety measures during the COVID-19 pandemic. The board approved two resolutions: MB Resolution 19/20:17 for the 2019-2020 Budget Extension and MB Resolution 19/20:16 for the 2020-2021 Budget, both motions carried unanimously. The meeting also included a presentation by Ben Thomas, Executive Director of Finance & Operations, discussing funding sources for schools in Washington, enrollment, staffing, and the four-year outlook for the district's finances. Additionally, the board addressed COVID-19 planning updates and discussed various safety measures in light of the ongoing pandemic. The meeting emphasized community engagement with no public comments recorded during the public hearing segment regarding the budget extensions.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-09-minutes.txt)
+
+## 2024-06-09 - FERNDALE_SCHOOL_DISTRICT (Minutes)
+
+The Ferndale School District No. 502 School Board held a regular meeting on June 29, 2021, where key discussions included the recognition of the Lummi Nation for their contributions to providing COVID-19 vaccines to students and staff, which facilitated an earlier return to in-person schooling. The board also reviewed the Monitoring Report for Results Policy R-6 Career Readiness, emphasizing the importance of preparing students for various career paths beyond traditional education. A vote on this policy is scheduled for the July 27 meeting. Additionally, the board discussed ongoing capital projects, including the hiring of a local student for the construction of the new Ferndale High School and plans for bond sales. The meeting included a consent agenda where several administrative matters were approved, including the Monitoring Report for Results Policy R-2.7 Academic Achievement: Health & Physical Education and a memorandum of agreement for the Whatcom CTE Dual Credit Consortium for the 2021-2022 academic year.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-06-09-minutes.txt)
 
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -102,6 +91,20 @@ Presentations focused on bus safety and the Highly Capable Learning program. The
 The district also faces teacher and staff shortages, which was mentioned during the meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
+
+## 2022-09-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a meeting on September 21st, 2022. The agenda included presentations on the Healthy Children's Fund Ordinance and reports on staff professional development and summer maintenance projects. Policy changes were discussed and approved, including a second reading of Policy 4210 (Meeting Conduct, Order of Business, and Quorum) and a second reading of Policy 6112 (Executive or Closed Sessions). New business items included a first reading of the MSD Census Redistricting Proposal, the NCTA Groundwork Agreement, and first readings for several new policies: 2110 (Transitional Bilingual Instruction Program), 4218 (Language Access), 5260 (Personnel Records), and 6600 (Transportation). Superintendent James Everett provided updates on COVID-19, the NFHS Sports Network, and upcoming training opportunities. The board also discussed a financial update and received information from board members.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-21-minutes.txt)
+
+## 2022-09-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on September 7th, 2022.  The meeting covered a range of topics including the approval of a consent agenda containing items such as accounts payable, personnel reports, and agreements with organizations like BTC Running Start and ECC College in High School. The Board also received reports on school data and staffing for the 2022-23 academic year. Several policies and procedures underwent second readings and were subsequently approved. These included Policy and Procedure 1400: Meeting Conduct, Order of Business, and Quorum; Policy and Procedure 1410: Executive or Closed Sessions; and Policy and Procedure 1420: Proposed Agenda and Consent Agenda. A first reading was conducted for Policy and Procedure 4210: Meeting Conduct, Order of Business, and Quorum and Policy and Procedure 6112: Executive or Closed Sessions. The Superintendent provided updates on back-to-school procedures, COVID-related matters, maintenance and facilities projects, NCTA updates, and Proposition 5.  The meeting concluded with the scheduling of the next regular board meeting for September 21st.
+
+The text also mentions teacher-staff shortages.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-07-minutes.txt)
 
 ## 2022-08-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -161,6 +164,12 @@ The Blaine School District held a special board meeting on February 16, 2022 to 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2022/2022-02-16-minutes.txt)
 
+## 2022-02-02 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a meeting on February 2nd, 2022, to discuss various matters related to school operations and policies. Notably, the Superintendent provided an update on updated DOH Guidance regarding COVID-19 and reported a decline in student and staff absences.  The board also reviewed and adopted several policies, including Policy and Procedure 3115: Students Experiencing Homelessness and Policy and Procedure 3116: Students in Foster Care. Additionally, they conducted a first reading of Policy and Procedure 5610 – Substitute Employment and Policy and Procedure 3207 – Prohibition of Harassment, Intimidation, or Bullying.  The meeting also included a presentation on the district's curriculum materials and process for determining what curriculum to use. The board addressed public comment from Michelle Simmons who requested improved communication regarding the development of the Sexual Health curriculum and suggested small group sessions with the community.  Finally, the board adopted Resolution 01-22: Multi-Jurisdictional Natural Hazards Mitigation Plan.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-02-02-minutes.txt)
+
 ## 2022-01-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes discuss the 2019-2020 school year report, highlighting accomplishments like adapting to remote learning and implementing safety measures.  The report also mentions efforts towards sustainability and improving air quality. Board members KR raised concerns about the language used in describing staff accidents and increasing "Loss Experience Factor", specifically questioning the connection between non-work related physical activities, emotional/mental health issues, and increased time loss payments. They requested evidence to support these assertions.  The board also discussed potential policy changes, with DB suggesting adding language to EL-9 emphasizing sustainability and KR proposing including language about sustainability and health given the school's focus on these areas. Teacher staffing shortages were also identified as a challenge.
@@ -178,6 +187,12 @@ The Blaine School District No. 503 held a Special Board Meeting on January 12, 2
 This document details a school board meeting agenda and minutes. The board discussed the athletic COVID testing requirement which is mandated by WIAA (Washington Interscholastic Activities Association) and the Department of Health, not a district policy.  They also reviewed upcoming agenda items for future meetings including School Board Recognition Month, School Administrator Reports, Enrollment Update and Financial Report, Consent Agenda, Superintendent’s Report, 2022-2023 Base School Calendar, and Policy Updates. The board entered into executive session to review the performance of a public employee.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2021/2021-12-14-minutes.txt)
+
+## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing consistent updates, particularly during the COVID-19 pandemic. While the evaluation commends the Superintendent's performance overall, it suggests incorporating student and parent voices more explicitly as evidence of compliance with certain policies. The document also mentions a transition to remote learning due to COVID-19 but does not elaborate on the specifics or challenges associated with this shift.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-minutes.txt)
 
 ## 2021-11-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -259,6 +274,14 @@ This document details the impact of COVID-19 on a school district and highlights
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-05-12-minutes.txt)
 
+## 2021-03-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a regular meeting on March 31, 2021, discussing various topics related to school operations and student well-being. Notably, the board addressed the impact of COVID-19 on the district, with Superintendent Dr. James Everett reporting on increased in-person learning opportunities for students. The meeting also focused on student health, including a presentation on the Meridian Middle School counselor and secretarial staff's exceptional support.
+
+The board reviewed and adopted several policies, including Policy 3112: Social Emotional Climate and Policy and Procedure 6000: Program Planning Budget Preparation Adoption and Implementation Procedure.  Additionally, they conducted a first reading of Policy 2125: Sexual Health Education and Policy 3432 – Emergencies. These policy reviews highlight the district's ongoing efforts to address student well-being and establish clear procedures for various aspects of school operations. The board also discussed the 2021-22 Whatcom Discovery Cooperative Program Interlocal Agreement, further demonstrating their commitment to collaborative educational initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-31-minutes.txt)
+
 ## 2021-03-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The school board meeting minutes detail discussions on several key issues.  The board acknowledged that graduation rates are artificially high due to pandemic-related waiver options and resolved to compare future statistics to pre-pandemic data for consistency. They approved the first reading of Policy 6210, Purchasing - Authorization and Control, with a second reading and potential adoption planned for the following month's meeting. Director McKinney emphasized the importance of serving on the school board as an act of public service and highlighted the board's commitment to supporting students by following CDC guidelines and working towards full-time in-person learning for the 2021-2022 school year.  The board also discussed agenda items for their next meeting, including administrator reports, enrollment updates, budget planning discussions, and superintendent reports.
@@ -270,6 +293,18 @@ The school board meeting minutes detail discussions on several key issues.  The 
 This excerpt from school board meeting minutes focuses on student academic performance during the COVID-19 pandemic. Board members discuss data from MAP assessments, noting that students appear to have maintained or even slightly improved their scores in reading and math compared to the previous year.  The district highlights efforts to engage students remotely using platforms like Lexia for literacy and DreamBox for math. Concerns are raised about achievement gaps related to socioeconomic factors, IEPs, and English language learner status. The board acknowledges the ongoing need to address these disparities and improve lagging math scores. There is also discussion of the challenges in comparing student performance data due to the suspension of standardized testing.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-03-10-minutes.txt)
+
+## 2021-03-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board meeting minutes detail discussions on various topics including school safety measures, mental health support for students, and the district's response to the COVID-19 pandemic.  The board reviewed a report on the state of the district's assets and ongoing maintenance. They also discussed student autonomy through recognition of the Meridian High School yearbook team for their work during remote and hybrid learning. The meeting included presentations on Career Technical Education, and updates on interlocal agreements with the NWESD Whatcom Detention Center.  Policy changes were addressed, including the adoption of Policy 2107: Comprehensive Early Literacy Plan and Policy and Procedure 3115: Homeless Students Experiencing Homelessness – Enrollment Rights and Services. The board also conducted a first reading of Policy 3112: Social-Emotional Climate and Policy 6000: Program Planning Budget Preparation Adoption and Implementation Procedure.  The Superintendent's report covered MSD committees, vaccination clinics, updates on athletics, and the appointment of a new principal for Meridian Middle School.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-10-minutes.txt)
+
+## 2021-02-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a meeting on February 24, 2021, to discuss various school matters. Notably, they addressed the ongoing impact of COVID-19 on school operations, including updates from Meridian Parent Partnership Principal Michelle Siadal regarding changes and challenges faced during the pandemic.  The board also reviewed and adopted a revised fee schedule for Meridian High School and a policy regarding student promotion and retention (Policy 2421). A second reading was conducted for Policy 2107: Comprehensive Early Literacy Plan, and Policy 3115: Homeless Students Experiencing Homelessness – Enrollment Rights and Services.  The board finalized the 2021 graduation date and discussed a yearly interlocal agreement with NWESD Whatcom Detention Center. Superintendent James Everett provided updates on committee formation, vaccination clinics, and MSD Athletics. Student Board Members shared information about sports team performance and leadership class events. The meeting concluded with an executive session to review the contract of a public employee.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-02-24-minutes.txt)
 
 ## 2021-02-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
@@ -294,6 +329,12 @@ The Meridian School District #505 held a regular school board meeting on January
 This document is a compilation of feedback from school board members on a facilities and operations report. The report highlights various achievements within the district, including energy savings initiatives, successful transportation programs, and implementation of food waste reduction strategies like the Food Share Shelves Program. Board members commend the staff's flexibility and adaptability in navigating the challenges posed by the COVID-19 pandemic. Notably, board member KR suggests maintaining consistent language regarding data and potentially incorporating supporting evidence for statements related to changes in workers' compensation claims (L&I) to avoid potential bias concerns. The feedback also emphasizes the importance of community engagement and underscores the district's commitment to providing a safe and healthy learning environment for students.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-01-13-minutes.txt)
+
+## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 Board met on January 13, 2021 via Zoom.  The meeting included a second reading and adoption of Policy and Procedure 2336: Required Observances which mandates observance of Veterans Day, Constitution Day, Temperance and Good Citizenship Day, and Disability History Month. The board also adopted Policy and Procedure 3232: Parent and Student Rights in Administration of Surveys, Analysis or Evaluation and Policy and Procedure 3244: Prohibition of Corporal Punishment Track Changes.  The board reviewed the updated MSD Reopening Plan which addressed the ongoing COVID-19 pandemic. They also discussed the development of two new committees: the MSD Equity and Access Committee and the MSD Community Involvement Committee. The meeting concluded with an executive session.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-minutes.txt)
 
 ## 2021-01-11 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

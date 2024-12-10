@@ -1,15 +1,17 @@
-# Meeting Summaries for SKYKOMISH_SCHOOL_DISTRICT
+# Meeting Summaries for MOSES_LAKE_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [John Robinson](board_member_133.md) | 2021-2025 |
-| [Alberto Laverde](board_member_134.md) | 2021-2027 |
-| [Ashley Toney](board_member_135.md) | 2021-2025 |
-| [Jimmy Sarno](board_member_136.md) | 2021-2025 |
-| [Franny Sweeters](board_member_137.md) | 2021-2025 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_27_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_27_tag_policy-changes.md)
+- [community-engagement](school_board_27_tag_community-engagement.md)
+- [special-education-support](school_board_27_tag_special-education-support.md)
+- [academic-standards](school_board_27_tag_academic-standards.md)
+- [budget-discussion](school_board_27_tag_budget-discussion.md)
+- [financial-audit](school_board_27_tag_financial-audit.md)
+- [school-safety](school_board_27_tag_school-safety.md)

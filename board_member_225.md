@@ -1,6 +1,6 @@
-# Positions Supported by Ronda Litzenberger (EATONVILLE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by James Van Eddy (CARBONADO_HISTORICAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ronda Litzenberger | EATONVILLE_SCHOOL_DISTRICT | None |
+| James Van Eddy | CARBONADO_HISTORICAL_SCHOOL_DISTRICT | None |
 

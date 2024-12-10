@@ -1,6 +1,6 @@
-# Positions Supported by Kristen Michal (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Hawk Cramer (EDMONDS_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kristen Michal | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
+| Hawk Cramer | EDMONDS_SCHOOL_DISTRICT | December 2027 |
 

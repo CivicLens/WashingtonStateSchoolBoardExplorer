@@ -1,36 +1,24 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: parental-rights
 
-## 2024-09-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 board meeting on September 23, 2024, included discussions on various policy changes and updates. Notably, the board approved the second reading and adoption of policies related to bullying prevention, including Policy 3207, which prohibits harassment, intimidation, and bullying of students. The board also addressed concerns raised during public comment regarding parental rights, particularly in relation to wellness and the administration of vaccines and medications to students without parental consent. Additionally, the board discussed the Transition Bilingual Instruction Program (TBIP) grant and the implementation of the Family Service Center's initiatives aimed at supporting families, including provisions for school supplies and food assistance. The meeting also highlighted the district's focus on bullying prevention with the upcoming Unity Day and Disability Awareness Month.
+The Blaine School District No. 503 Board Meeting on June 17, 2024, included significant discussions and actions regarding various policies and community initiatives. The board approved several curriculum adoptions, including "Mystery Science" for K-5 and "OpenSciEd" for Middle School, alongside updates to Policy 2255 regarding Alternative Learning Experience Courses and the introduction of new Policy 2401 concerning Financial Education. A notable resolution, 2324-09, was passed to authorize a $70,000,000 Bond Initiative for the November 2024 election, reflecting the district's commitment to improving school facilities. Community engagement was emphasized through the planned informational session about the bond and the establishment of a committee to prepare "For" statements for the voters' pamphlet. Additionally, the board members expressed concerns about state legislation affecting parental rights, particularly regarding student privacy and the participation of boys in girls' sports, indicating a desire for local control over such matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-09-23-minutes.txt)
-
-## 2024-05-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 Board Meeting on May 28, 2024, included discussions about several policy updates and changes. Notably, the board approved the first readings of two policies: Policy 2255, which pertains to Alternative Learning Experience Courses, and Policy 2401, which addresses Financial Education Mastery-Based Learning and Credit. The board also discussed the necessity of adopting a policy regarding opioid reversal, confirming that Policy 3424 is already in place. Additionally, the board considered recommendations from the Washington State School Directors' Association (WSSDA) to split the current Nutrition and Physical Fitness policy into separate policies and to update the Employment and Volunteers policy based on Senate Bill 5123. Furthermore, the board addressed the need for clarity regarding the state's new recess requirement and indicated plans to submit a waiver to the Office of Superintendent of Public Instruction (OSPI) for the 2024-2025 school year due to existing ambiguities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-05-28-minutes.txt)
-
-## 2024-04-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 Board of Directors held a regular meeting on April 22, 2024, addressing various topics including budget reductions and teacher appreciation. The board recognized Teacher Appreciation Week scheduled for May 6-10, highlighting the dedication of certificated staff. Public comments reflected concerns about proposed budget cuts, particularly regarding the potential elimination of positions and programs, including a secretary at Blaine Primary School and high school art classes. The board discussed Resolution 2324-08, which proposed a $2.5 million reduction plan, including $500,000 in non-staffing cuts. Directors expressed the need for more resources for students and the importance of collaborative communication with stakeholders. The board ultimately voted to table the resolution until April 29, 2024, to allow for further stakeholder feedback and consideration of alternatives.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-22-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-06-17-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ryan Swinburnson](board_member_318.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Erika Creydt](board_member_315.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Cliff Freeman](board_member_317.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Steve Galbraith](board_member_319.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_316.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+| [Steve Galbraith](board_member_326.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Erika Creydt](board_member_322.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Ben Lazarus](board_member_323.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Cliff Freeman](board_member_324.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
+| [Ryan Swinburnson](board_member_325.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
 
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 Regular Board Meeting on March 25, 2024, addressed several topics, including recent appointments to the Board of Directors and public comments regarding budget management and staffing impacts. President Cliff Freeman raised concerns about legislative bills SB5462 and HB2331, which mandate specific curriculum topics, including LGBTQ issues, and allow the Office of Superintendent of Public Instruction (OSPI) to withhold funding for noncompliance. He emphasized the potential loss of local control over school district policies. Additionally, the meeting discussed the Initiative 2081 Parents Bill of Rights, which would affirm parental access to information about their children once they turn 13, possibly necessitating a review of Policy 3230, which restricts such access. The board adopted Resolution 2324-06, directing the Superintendent to prepare a reduced educational program for the 2024-2025 school year amid budget considerations.
+The Blaine School District No. 503 board meeting held on March 25, 2024, included discussions on various policies and legislative updates. President Freeman expressed concerns regarding SB5462 and HB2331, both of which have passed the legislature and await the governor's signature. SB5462 mandates specific curriculum topics, including LGBTQ content, while HB2331 allows the Office of Superintendent of Public Instruction (OSPI) to withhold funding for noncompliance with curriculum mandates. This raised issues regarding parental rights, particularly with the potential need to amend Policy 3230, which restricts parental access to certain student information for students aged 13 and older. The board also discussed the importance of community engagement and the need for transparency in educational practices, as reflected in the ongoing legislative session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-03-25-minutes.txt)
 
@@ -38,8 +26,8 @@ The Blaine School District No. 503 Regular Board Meeting on March 25, 2024, addr
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Cliff Freeman](board_member_324.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Ben Lazarus](board_member_323.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
 
 ## 2022-06-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

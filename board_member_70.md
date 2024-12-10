@@ -1,6 +1,6 @@
-# Positions Supported by George LaPlace (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Josh Sainsbury (EPHRATA_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| George LaPlace | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
+| Josh Sainsbury | EPHRATA_SCHOOL_DISTRICT | 2023-2027 |
 

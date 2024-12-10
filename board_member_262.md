@@ -1,6 +1,6 @@
-# Positions Supported by Marree Perrault (DARRINGTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by David Cram (LA_CONNER_SCHOOL_DISTRICT, Term: 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Marree Perrault | DARRINGTON_SCHOOL_DISTRICT | None |
+| David Cram | LA_CONNER_SCHOOL_DISTRICT | 2024 |
 

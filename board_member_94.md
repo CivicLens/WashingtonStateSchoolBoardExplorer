@@ -1,6 +1,6 @@
-# Positions Supported by Jessica Aws (OAK_HARBOR_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Doug Messick (MONTESANO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jessica Aws | OAK_HARBOR_SCHOOL_DISTRICT | 2023-2027 |
+| Doug Messick | MONTESANO_SCHOOL_DISTRICT | None |
 

@@ -1,0 +1,26 @@
+# Meeting Summaries for VASHON_ISLAND_SCHOOL_DISTRICT with Tag: diversity-inclusion
+
+## 2024-03-28 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The school board meeting included a presentation from the VHS Gender Queer Affinity Group, highlighting the need for increased support and awareness for gender queer students and families. Cristina Ramirez expressed the group's desire to present ongoing challenges to staff and announced plans for a “Day of Silence” on April 19, 2024, to raise awareness of relevant issues. The board also engaged in discussions about the importance of inclusive language, with Juniper Rogneby advocating for non-binary language in district policies. Additionally, the board addressed the renaming of the VHS ballfield to “Martin-Hall Field” in honor of Steve Hall, with the decision expedited to allow for signage before a scheduled public event on May 19. The meeting also included discussions on the VISD 2024-25 budget planning, highlighting a projected shortfall of $1.3 million and the potential need for reductions in force (RIF).
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-03-28-minutes.txt)
+
+## 2024-03-28 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 board meeting on March 28, 2024, included a presentation by the VHS Gender Queer Affinity Group, where student leaders discussed their experiences and proposed a "Day of Silence" on April 19, 2024, to raise awareness of LGBTQ+ issues. The board expressed interest in further support for the group and requested a future presentation on these topics. The meeting also featured a first reading of Policy 5005, which aims to ensure compliance with legal requirements regarding employment disclosures and certifications. Juniper Rogneby advocated for the inclusion of non-binary language in the policy, highlighting a push for more inclusive language across district policies. Additionally, the board approved the renaming of the VHS baseball field to "Martin-Hall Field" in honor of community members, with plans for a public remembrance event scheduled for May 19, 2024. The board passed Resolution 813 concerning a reduction in force for the 2024-25 school year, indicating budgetary challenges ahead.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-03-28-draft-minutes.txt)
+
+## 2024-01-25 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 board meeting on January 25, 2024, included discussions on various topics, notably the district's commitment to diversity and inclusion, particularly regarding its participation in Black Lives Matter in Schools Week from February 5-9. Dr. Stephanie Spencer presented this initiative, emphasizing its significance as the fourth consecutive year the district is involved. Additionally, the board reviewed the annual Equal Employment Opportunity Commission (EEOC) Report, which highlighted the diversity of the staff and the ongoing efforts to better reflect the student body demographics. The meeting also included updates on Policy 2190, which mandates universal screening for Highly Capable students, aligning with new Washington State legislative requirements, and Policy 4130, which requires updates for program review by the Office of Superintendent of Public Instruction (OSPI). Community engagement was encouraged, with a call for public participation at board meetings and a reminder for the community to vote in the upcoming levy election.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-01-25-minutes.txt)
+
+## 2023-12-14 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+
+The Vashon Island School District No. 402 Board meeting on December 14, 2023, included discussions on various topics such as the importance of community engagement and support for special education. Anna Waldman, representing the Special Education Parent Advisory Council (SEPAC), highlighted the group's goals of providing resources and advocating for positive change in the district, focusing on issues like bussing and staff turnover. The board also received updates on mental health initiatives, including the teen mental health training provided to 10th graders, and discussed the upcoming 2024 Proposition No. 1, which aims to fund safety, security, and technology improvements in the district. The board members emphasized the significance of mobilization and engagement in the context of the 2024 Levy, particularly given the recent unsuccessful school levies in the November 2023 general election.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2023/2023-12-14-draft-minutes.txt)
+

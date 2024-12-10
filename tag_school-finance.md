@@ -1,11 +1,5 @@
 # Meeting Summaries for Tag: school-finance
 
-## 2024-01-16 - FERNDALE_SCHOOL_DISTRICT (Minutes)
-
-The study session held on January 16, 2024, focused on school finances and budgeting, specifically discussing the Finance Team's structure, financial reporting, and the F195 Budget Process. Mr. Deebach and Ms. Graham presented updates on the 2024/25 Budget, which is part of the district's long-term strategic plans for financial management. The meeting was attended by board members and student representatives, with discussions emphasizing the importance of transparency in financial processes. No specific policy changes were mentioned, but the emphasis on budget updates indicates ongoing efforts to maintain fiscal responsibility within the school district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/2024-01-16-minutes.txt)
-
 ## 2021-11-24 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
 The Blaine School District No. 503 held a special board meeting on November 24, 2021, to discuss and vote on Resolution 2122-06, Certification of 2022 Excess Property Taxes. Due to the COVID-19 pandemic, the meeting was conducted remotely. The resolution proposed increasing the Replacement Maintenance & Operations levy collection for 2022 to $6,082,990, revising the originally projected amount of $5,909,503 in the 2021-22 Budget. This increase is still less than the $6,400,000 authorized by voters for collection in 2022.  The board discussed the rationale behind the increase, including rising property values and the district's need to save for potential future budget shortfalls. Director McKinney expressed concern about potential negative impact on the district's image due to exceeding the initially projected levy amount. Despite her opposition, the resolution passed with a vote of 4-1.

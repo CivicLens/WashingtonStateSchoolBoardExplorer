@@ -1,32 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: student-data-privacy
 
-## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on April 17, 2024, where Superintendent Greg Baker provided updates on various educational initiatives and budget considerations. Key points included a discussion on the district's K-12 funding challenges, with expectations for a "hold steady" budget for 2024-25 and potential advocacy efforts for future funding. The meeting highlighted the presentation of Promise Awards, student participation in competitions, and ongoing community engagement through events like the Since Time Immemorial Family and Community Night. The board approved several resolutions, including Resolution 09-24 for the transfer of funds from the Capital Projects Fund to the General Fund and Resolution 11-24 declaring surplus property. Monitoring reports EL-6 and EL-8 were reviewed, focusing on academic standards and district calendar compliance, respectively. The board also discussed student competence, noting commendable progress in closing achievement gaps among various student demographics, including Hispanic/Latinx and low-income groups, while recognizing areas needing improvement, particularly for multilingual learners and students with disabilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-
-## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The special meeting of the Bellingham School District Board of Directors on February 27, 2024, focused on gathering student perspectives, particularly from members of the GSA (Gender and Sexuality Alliance) Club at Whatcom Middle School. The discussions highlighted the importance of safe spaces for LGBTQ+ students, with participants expressing feelings of fear and the need for supportive adult relationships. Key concerns included the visibility and accessibility of gender-neutral restrooms, which many students found uncomfortable or unsafe. The students emphasized the role of the GSA Club as a refuge, fostering a sense of belonging and community. They also called for greater attention to social and emotional well-being and a desire for inclusive education that includes LGBTQ+ history. The meeting underscored the importance of student voice in shaping school policies and improving the overall middle school experience. School Board President Douglas Benjamin and Executive Director of Communications Jackie Brawley acknowledged the value of these discussions in guiding the district's efforts to create a more inclusive environment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
-
 ## 2021-04-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes discuss positive trends in 5-year graduation rates and decreasing dropout rates for various student subgroups including English Language Learners (ELL), students with Individualized Education Programs (IEP), students eligible for free or reduced lunch, and students of color.  The board acknowledges the progress made in closing the graduation gap for Hispanic/Latinx students and those from low-income backgrounds. They also highlight the increasing enrollment in dual credit courses among these subgroups.

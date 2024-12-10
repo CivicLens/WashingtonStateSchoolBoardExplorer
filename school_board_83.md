@@ -1,19 +1,15 @@
-# Meeting Summaries for ELLENSBURG_SCHOOL_DISTRICT
+# Meeting Summaries for QUINAULT_LAKE_SCHOOL_DISTRICT
 
 ## Board Members
 
-No current board members available.
+| Board Member       | Term           |
+|--------------------|----------------|
+| [Rita Keene](board_member_95.md) | 2027 |
+| [Chad Lower](board_member_96.md) | 2025 |
+| [Shannon Durfee](board_member_97.md) | 2027 |
+| [Kacey Kiehn](board_member_98.md) | 2025 |
+| [Dayana Ruiz](board_member_99.md) | 2027 |
 
 ## Available Years
-- [2024](school_board_83_year_2024.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_83_tag_policy-changes.md)
-- [community-engagement](school_board_83_tag_community-engagement.md)
-- [school-board-ethics](school_board_83_tag_school-board-ethics.md)
-- [long-term-strategic-plans](school_board_83_tag_long-term-strategic-plans.md)
-- [teacher-support](school_board_83_tag_teacher-support.md)
-- [special-education-support](school_board_83_tag_special-education-support.md)
-- [school-safety](school_board_83_tag_school-safety.md)
-- [mental-health](school_board_83_tag_mental-health.md)
-- [budgeting](school_board_83_tag_budgeting.md)

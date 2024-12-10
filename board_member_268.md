@@ -1,6 +1,6 @@
-# Positions Supported by Hawk Cramer (EDMONDS_SCHOOL_DISTRICT, Term: December 2027)
+# Positions Supported by Jennie Requa (DARRINGTON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Hawk Cramer | EDMONDS_SCHOOL_DISTRICT | December 2027 |
+| Jennie Requa | DARRINGTON_SCHOOL_DISTRICT | None |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Karen Carr (EATONVILLE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chelsea Steiner (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Karen Carr | EATONVILLE_SCHOOL_DISTRICT | None |
+| Chelsea Steiner | DIERINGER_SCHOOL_DISTRICT | 2021-2027 |
 

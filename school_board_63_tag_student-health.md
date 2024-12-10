@@ -1,34 +1,10 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: student-health
 
-## 2024-11-21 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-08-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 held a Special Board Meeting on November 21, 2024, which included an executive session focused on the selection of a site or the acquisition of real estate and the performance review of a public employee. The executive session was initially scheduled for thirty minutes but was extended to last until 6:30 p.m. The meeting concluded with a unanimous vote to adjourn, with the motion carried 4-0, noting that Director Erika Creydt was not present for the vote. The minutes from the meeting were approved on November 25, 2024.
+The Blaine School District No. 503 Regular Board Meeting held on August 26, 2024, included discussions on various policy changes and community concerns. Director Galbraith raised issues regarding the NWESD UDL contract, emphasizing its role in meeting state professional learning requirements. The board unanimously approved several resolutions, including Resolution 2324-14 for the adoption of the 2024-2025 budget, and policies related to bullying prevention and student health. Additionally, Superintendent Dr. Granger highlighted the importance of addressing bullying and student discipline through community engagement initiatives, including the recent Supper with the Superintendent event, which focused on these significant concerns. The board also discussed the installation of vape detectors in schools to enhance safety, though concerns about privacy were noted.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-11-21-minutes.txt)
-
-## 2024-10-28 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 held a regular board meeting on October 28, 2024, where significant topics included activities for National Bullying Prevention Month, led by Technology Department staff member Tricia Johnson, who encouraged participation from board members. The board also addressed public comments on the need for better inclusion practices for deaf and hard-of-hearing students, including the provision of American Sign Language (ASL) interpreters at events. Furthermore, concerns were raised regarding the establishment of school-based health clinics and their implications for student health and parental consent. 
-
-In terms of policy changes, the board approved the second reading and adoption of changes to Policy 3241 on Student Discipline. Additionally, they tabled the first reading of sex-based discrimination policies to the next meeting, pending legal counsel's clarification on the relationship between Title IX and HIPAA protections. The board's response to a request from a community member to rename the district was also discussed, with a consensus against the change due to concerns over costs and logistics.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-10-28-minutes.txt)
-
-## 2024-04-22 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 Board of Directors held a regular meeting on April 22, 2024, addressing various topics including budget reductions and teacher appreciation. The board recognized Teacher Appreciation Week scheduled for May 6-10, highlighting the dedication of certificated staff. Public comments reflected concerns about proposed budget cuts, particularly regarding the potential elimination of positions and programs, including a secretary at Blaine Primary School and high school art classes. The board discussed Resolution 2324-08, which proposed a $2.5 million reduction plan, including $500,000 in non-staffing cuts. Directors expressed the need for more resources for students and the importance of collaborative communication with stakeholders. The board ultimately voted to table the resolution until April 29, 2024, to allow for further stakeholder feedback and consideration of alternatives.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-22-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Ryan Swinburnson](board_member_318.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Erika Creydt](board_member_315.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Cliff Freeman](board_member_317.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Steve Galbraith](board_member_319.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| [Ben Lazarus](board_member_316.md) | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-08-26-minutes.txt)
 
 ## 2023-06-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

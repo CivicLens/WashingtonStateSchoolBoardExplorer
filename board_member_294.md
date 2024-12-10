@@ -1,6 +1,6 @@
-# Positions Supported by RITA WRIGLESWORTH-MELDRUM (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Alan Nolan (MEAD_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| RITA WRIGLESWORTH-MELDRUM | RAINIER_SCHOOL_DISTRICT | None |
+| Alan Nolan | MEAD_SCHOOL_DISTRICT | 2023-2027 |
 

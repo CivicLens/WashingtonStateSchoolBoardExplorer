@@ -2,7 +2,7 @@
 
 ## 2024-03-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 Regular Board Meeting on March 25, 2024, addressed several topics, including recent appointments to the Board of Directors and public comments regarding budget management and staffing impacts. President Cliff Freeman raised concerns about legislative bills SB5462 and HB2331, which mandate specific curriculum topics, including LGBTQ issues, and allow the Office of Superintendent of Public Instruction (OSPI) to withhold funding for noncompliance. He emphasized the potential loss of local control over school district policies. Additionally, the meeting discussed the Initiative 2081 Parents Bill of Rights, which would affirm parental access to information about their children once they turn 13, possibly necessitating a review of Policy 3230, which restricts such access. The board adopted Resolution 2324-06, directing the Superintendent to prepare a reduced educational program for the 2024-2025 school year amid budget considerations.
+The Blaine School District No. 503 board meeting held on March 25, 2024, included discussions on various policies and legislative updates. President Freeman expressed concerns regarding SB5462 and HB2331, both of which have passed the legislature and await the governor's signature. SB5462 mandates specific curriculum topics, including LGBTQ content, while HB2331 allows the Office of Superintendent of Public Instruction (OSPI) to withhold funding for noncompliance with curriculum mandates. This raised issues regarding parental rights, particularly with the potential need to amend Policy 3230, which restricts parental access to certain student information for students aged 13 and older. The board also discussed the importance of community engagement and the need for transparency in educational practices, as reflected in the ongoing legislative session.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-03-25-minutes.txt)
 
@@ -10,8 +10,8 @@ The Blaine School District No. 503 Regular Board Meeting on March 25, 2024, addr
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Cliff Freeman](board_member_324.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
+| [Ben Lazarus](board_member_323.md) | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
 
 ## 2023-02-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

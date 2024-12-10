@@ -1,6 +1,6 @@
-# Positions Supported by Edrie Price (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Chad Burnett (PE_ELL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Edrie Price | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Chad Burnett | PE_ELL_SCHOOL_DISTRICT | None |
 

@@ -1,5 +1,15 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2014
 
+## 2014-12-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The meeting minutes detail the proceedings of a school board meeting on December 11, 2014.  The board discussed and unanimously approved the annual agenda for the 2014-2015 school year (GP-7.1). They also reviewed and unanimously approved changes to several policies related to the Board/Superintendent Relationship. These policy revisions included chronological renumbering.
+
+Specifically, the following policies were affected: B/SR - 1 (no change in number), B/SR - 4 (new number: B/SR - 2), B/SR - 5 (new number: B/SR - 3), B/SR - 5.1 (new number: B/SR - 3.1), and B/SR - 5.1.1 (new number: B/SR - 3.1.1). The minutes also highlight the board's positive assessment of a new math curriculum at the lower elementary level, noting its vigorous implementation.
+
+Additionally, the board discussed plans for community engagement, including scheduling a meeting with City Council Liaison Roxanne Murphy in the new year.  The minutes further indicate that a template prepared by Dr. Smith will be distributed to board members for recording observations during school visits. This suggests an effort towards increased transparency and data-driven decision-making regarding curriculum and instruction.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-12-11-minutes.txt)
+
 ## 2014-11-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The meeting minutes detail the actions taken by a school board during a session on November 13, 2014.  The board reviewed and unanimously approved revisions to policies related to superintendent evaluation (nSummative Evaluation of the Superintendent) and agenda planning (Governance Process: GP-7, Agenda Planning). Discussion regarding policy EL-3 was tabled pending input from Dr. Gass. The board also addressed new business concerning the grievance process and Disciplinary Appeal Council, concluding that board representation on the council is unnecessary. Future revisions to policy 3200 are anticipated.
@@ -65,6 +75,12 @@ The Bellingham School District Board discussed and approved revisions to policy 
 The Bellingham School District Board of Directors held a special meeting on June 23, 2014, to facilitate an orientation session for individuals interested in serving on the school board.  The session, led by Dr. Ken Gass, focused on providing information about the role and responsibilities of school board members. Handouts distributed during the session included "Orientation for School Board Candidates" and "Board Participation/Time Expectations". The meeting was attended by several community members in addition to the school board directors and Superintendent Greg Baker.  Board President Steve Smith participated via conference call due to an out-of-town commitment.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-06-23-minutes.txt)
+
+## 2014-06-12 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board held a meeting on June 12, 2014, to discuss several matters.  A preliminary budget focused on student needs was presented and commended for its readability and transparency. The board accepted the resignation of Dr. Stockburger due to health reasons and outlined a process for filling the vacancy within the required 90-day timeframe. This process includes accepting applications, reviewing qualifications in executive session, selecting finalists, conducting interviews, and making an appointment.  The board also discussed work on the application for State Board of Distinction, aiming for a July 10th deadline for a draft. Additionally, they set a goal to have an initial draft of a revised Board Manual by August 1st.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-06-12-minutes.txt)
 
 ## 2014-05-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

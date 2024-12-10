@@ -1,13 +1,10 @@
 # Meeting Summaries for Tag: religion
 
-## 2024-02-27 - PULLMAN_SCHOOL_DISTRICT (Minutes)
+## 2024-09-25 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Pullman City Council held a regular meeting on February 27, 2024, where several key actions were taken. The Council extended the moratorium on enforcing electric scooters and bicycles until December 31, 2024, to facilitate mobility during the ongoing Project Downtown construction. This decision is linked to Resolution No. R-13-24, which amends the previous resolution regarding the moratorium's sunset date. Additionally, the Council authorized a contract with Spin for the provision of electric scooters and bicycles throughout the city, which will run until the end of 2024. The contract includes a provision for up to 100 electric scooters and 50 electric bicycles, with a fee structure involving a prorated annual fee and a per-ride fee. Concerns regarding helmet requirements and rider safety were discussed, with plans to enhance education and training on these issues. The meeting also featured a presentation on the Downtown Pullman Project, emphasizing community engagement and communication strategies during the construction phase. 
+The Meridian School District #505 held a regular board meeting on September 25, 2024, where several policies were presented for first review. Among these was Policy 5409, which addresses Unpaid Holidays for Reasons of Faith or Conscience, and Policy 5400, concerning Personnel Leave. Both policies are scheduled for second review and approval at the next meeting on October 9, 2024. Additionally, Policy 3432 regarding Emergencies was also introduced for first review, along with several interlocal agreements related to Fire Science, Open Doors, and HUD, all to be revisited for approval in the upcoming meeting. The meeting included discussions on capital project donations and the Sunbelt Tele OT Agreement, both of which were approved unanimously. The absence of public comments and the report from the Director of Finance on budget status and projections were also notable aspects of the meeting.
 
-policy-changes
-community-engagement
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whitman/school_boards/pullman_school_district/2024/2024-02-27-council-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-25-septemberboardmeeting-minutes.txt)
 
 ## 2022-10-03 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

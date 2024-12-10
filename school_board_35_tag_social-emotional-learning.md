@@ -1,8 +1,25 @@
-# Meeting Summaries for ONALASKA_SCHOOL_DISTRICT with Tag: social-emotional-learning
+# Meeting Summaries for LAKE_WASHINGTON_SCHOOL_DISTRICT with Tag: social-emotional-learning
 
-## 2024-09-23 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+## 2024-03-04 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
-The Onalaska School Board meeting held on September 23, 2024, included the swearing in of a new student board representative and recognized community members Brenda Elliott and Pam Kinsman for their support of the schools. Superintendent Brenda Padgett reported that initial OSPI diagnostic assessments indicate students are meeting expected benchmarks, and the school year has started smoothly with manageable traffic around the school. The meeting highlighted the importance of social-emotional learning (SEL), particularly in elementary grades, with programs like "What Would Kelso Do?" being implemented to help students self-regulate their behavior. Challenges in special education were acknowledged, with efforts being made to improve the situation following a productive meeting. Additionally, the board approved various consent agenda items, including the adoption of policies related to high school graduation requirements and updates to the high school handbook. Notably, policy 3211P regarding Gender Inclusive Schools was tabled until further information is available.
+The March 4, 2024 Board Meeting of the Lake Washington School District included several key recognitions and resolutions focused on social-emotional learning and community engagement. A proclamation was read designating March 8, 2024, as Social Emotional Learning Day, highlighting the district's commitment to promoting mental health initiatives among students. Additionally, the meeting featured audience participation where community members addressed various concerns, including high school parking passes, issues with the Physical Education curriculum, and the inclusion of lacrosse as a school sport. 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-09-23-minutes.txt)
+The board also reviewed several resolutions under the consent agenda, including the acceptance of donations, approval of instructional materials for the district, and a report on the Building Condition Assessment for 2023-24. Notably, the board discussed legislative advocacy efforts, specifically the stalled proposals regarding Limited General Obligation Bonds for capital construction levies, which were sponsored by state legislators but faced challenges due to fiscal note discrepancies. The meeting concluded with plans for future business and an executive session addressing legal matters.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-03-04-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to approve the consent agenda | The consent agenda included various resolutions such as approving vouchers and instructional materials. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on motion to approve the consent agenda | The consent agenda included various resolutions such as approving vouchers and instructional materials. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to table the board summaries for OE-3, OE-5, and OE-9 to the March 25, 2024 board meeting | The board summaries pertained to monitoring reports on treatment of community stakeholders and financial planning. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to table the board summaries for OE-3, OE-5, and OE-9 to the March 25, 2024 board meeting | The board summaries pertained to monitoring reports on treatment of community stakeholders and financial planning. |
+| [Leah Choi](board_member_135.md) | voted yes on motion to approve the human resources report | The human resources report was presented as part of the consent agenda. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on motion to approve the human resources report | The human resources report was presented as part of the consent agenda. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to approve the conditional certificates as presented | The conditional certificates were part of the consent agenda. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to approve the out-of-endorsement assignments for the teachers listed for the 2023-24 school year | The out-of-endorsement assignments were part of the consent agenda. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to approve the donations as presented | The donations were part of the consent agenda. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to adopt the instructional materials for use in Lake Washington School District | The instructional materials were presented for adoption. |
 

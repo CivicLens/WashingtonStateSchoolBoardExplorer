@@ -1,26 +1,5 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: student-autonomy
 
-## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting on June 6, 2024, included discussions on various community concerns, notably from a community member who opposed biological men competing in women’s sports, highlighting the ongoing debates surrounding LGBTQ issues in athletics. The meeting also featured community engagement initiatives, with members of the Citizens for Lynden Schools group presenting information on an upcoming bond election, emphasizing the district's efforts to inform and involve the community in educational developments. Additionally, the board approved updated Policy 2255 regarding Alternative Learning Experience Courses, reflecting a commitment to adapt educational policies as needed. The meeting concluded with the adoption of Resolution #08-24, which emphasizes prioritizing local control and opposing unfunded mandates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
-
 ## 2023-11-09 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board discussed ways to elevate student voice in governance. This included exploring the formation of a student advisory group at each school level and establishing an agenda item for "Information from the Student Board Representatives" during board meetings. The goal is to provide students with opportunities to connect with their peers, identify areas of interest, and present recommendations to the board.  The superintendent will work with student directors to establish a structure for the superintendent student advisory.

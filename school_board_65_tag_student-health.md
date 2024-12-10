@@ -1,14 +1,8 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: student-health
 
-## 2024-10-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting held on October 3, 2024, included significant discussions regarding transgender athletes' participation in girls' sports, with multiple community members expressing opposition to this policy. Director Hickman addressed recent social media discourse surrounding the board's activities related to this topic. The board also discussed various educational goals, including Lynden Academy's School Improvement Plan aimed at enhancing academic conversations and mathematics proficiency among students. Policy updates included the adoption of Policy 2401 concerning Financial Education Mastery-Based Learning & Credit and updates to Policy 3241 regarding Student Discipline. The board's emphasis on community engagement and feedback was evident, as several members of the public voiced their opinions on the WIAA Amendment Proposal and the necessity of an appeal process regarding transgender participation in sports.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-03-minutes.txt)
-
 ## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 board meeting on February 15, 2024, addressed significant community concerns regarding a bond proposal for school safety and infrastructure that failed to pass in the recent election, receiving only 50.98% approval. Community members emphasized the urgent need for the bond to be presented again, highlighting safety and security as critical deficiencies in education. Superintendent David VanderYacht acknowledged the results and encouraged the board to develop a plan for potentially resubmitting the bond with adjustments. The meeting also included discussions on nursing services within the district, focusing on the responsibilities of school nurses and the mental health aspects of their roles, with plans for policy updates. The board scheduled a special meeting for February 20, 2024, to further discuss the bond issue and include public comments.
+The Lynden School District Board meeting held on February 15, 2024, addressed significant community concerns regarding a bond that failed to pass during the February 13 election, receiving only 50.98% approval, which is below the required 60% + 1. Community members advocated for the board's active involvement in reintroducing the bond to voters, emphasizing the pressing need for improved safety and security measures in schools. Superintendent David VanderYacht acknowledged the community's support for an operations levy, which passed with 57.1% approval, and highlighted the importance of discussing the bond's future. Additionally, the board discussed updates to student health services, including the role of school nurses and the need for policy revisions related to health protocols. The meeting also included legislative updates, with board members encouraged to engage with local legislators regarding bills affecting school funding and local control.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
 
@@ -16,8 +10,8 @@ The Lynden School District #504 board meeting on February 15, 2024, addressed si
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
+| [Tonya Hickman](board_member_333.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
 
 ## 2023-09-28 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

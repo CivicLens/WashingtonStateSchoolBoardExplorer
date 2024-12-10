@@ -1,30 +1,39 @@
 # Meeting Summaries for Tag: executive-session
 
-## 2024-10-30 - SPOKANE_PUBLIC_SCHOOLS (Minutes)
+## 2024-09-24 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
-The Spokane Public Schools Board of Directors held a Special Meeting on October 30, 2024, beginning at 5:45 p.m. The meeting was presided over by President Nikki Lockwood and included Directors Hilary Kozel, Jenny Slagle, and Mike Wiser. The board entered an executive session at 5:45 p.m. to evaluate the qualifications of a candidate for public office, and reconvened in open session at 6:45 p.m. Following the executive session, the meeting was adjourned at 6:45 p.m. This meeting reflects the board's adherence to ethical standards regarding candidate evaluation and the confidentiality of executive sessions.
+The School Board held a special meeting on September 24, 2024, which was called to order by Director Nancy Katims at 5:00 PM. The meeting included an executive session where board members discussed legal matters with legal counsel present, indicating a focus on governance and compliance issues. The executive session concluded at 6:00 PM, and the meeting was adjourned by Director Katims. The minutes of the meeting will be presented for approval on October 8, 2024. No specific policies or resolutions were discussed during the session, but the nature of the executive session suggests potential legal or ethical considerations relevant to the board's operations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/spokane_public_schools/2024/2024-10-30-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-09-24-minutes.txt)
 
-## 2024-06-20 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
+## 2024-04-23 - SUNNYSIDE_SCHOOL_DISTRICT (Minutes)
 
-The Battle Ground Public Schools Board of Directors held a special meeting on June 20, 2024, at the Lewisville Campus to conduct an executive session focused on the evaluation of Superintendent Denny Waters, as per RCW 42.30.110(1)(g). The meeting began at 6:00 PM and included board members Mary Snitily, Debbie Johnson, Ted Champine, Terry Tate, Jackie Maddux, Denny Waters, and Shelly Whitten, with student representative Julia Stiffler having an excused absence. The president of the board, Jackie Maddux, emphasized the confidentiality of the discussions. The initial executive session was set for 30 minutes, but was extended twice, concluding at 6:58 PM without any actions taken. The minutes were approved on June 24, 2024.
+The Board Work Session held on April 23, 2024, included interviews for the Director District 1 position with candidates Leticia Zesati and Betty Cis Kennard. Following the interviews, the Board entered an executive session at 7:15 PM to discuss the qualifications of candidates for appointment to elective office, extending the session to 7:56 PM. The meeting concluded with a closed session at 8:00 PM regarding collective bargaining sessions and grievance meetings, which lasted until 8:45 PM. The Board's decisions during these sessions were unanimously supported by all present members: Jilliann Patterson, Stephen Berg, Linda Roberts, and Jory Anderson.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-06-20-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/sunnyside_school_district/2024/2024-04-23-minutes.txt)
 
-## 2024-04-23 - EDMONDS_SCHOOL_DISTRICT (Minutes)
+### Board Member Actions
 
-The School Board held a special meeting on April 23, 2024, at the Educational Service Center in Lynnwood, WA, focusing on the 2024-2025 budget. Executive Director of Business & Finance, Lydia Sellie, and Superintendent Rebecca Miner presented details regarding the budget to the Board. All board members were present, indicating a unified approach to discussing financial planning. The meeting concluded with Director Katims adjourning at 6:08 PM. The budget discussion may involve policy changes, though specific alterations to existing policies were not detailed in the meeting minutes.
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Linda Roberts](board_member_363.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
+| [Stephen Berg](board_member_366.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
+| [Jory Anderson](board_member_365.md) | voted yes on motion to approve the April 23, 2024 Board Work Session Agenda | Motion by Linda Roberts, second by Jilliann Patterson. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
+| [Stephen Berg](board_member_366.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
+| [Linda Roberts](board_member_363.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
+| [Jory Anderson](board_member_365.md) | voted yes on motion to go into executive session | The Board went into executive session at 7:15 pm for 15 minutes. |
+| [Jilliann Patterson](board_member_364.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
+| [Stephen Berg](board_member_366.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
+| [Linda Roberts](board_member_363.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
+| [Jory Anderson](board_member_365.md) | voted yes on motion to go into closed session | The Board went into closed session at 8:00 pm for 45 minutes. |
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/edmonds_school_district/2024/2024-04-23-minutes.txt)
+## 2024-02-05 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
-## 2024-02-28 - COLVILLE_SCHOOL_DISTRICT (Minutes)
+The special meeting of the school board held on February 5, 2024, at the Lewisville Campus included an executive session focused on legal counsel as permitted under RCW 42.30.110 (1)(i), which allows for discussions that do not require action. The meeting was procedural in nature, emphasizing the importance of adhering to legal frameworks governing executive sessions. No specific actions or changes to policies were discussed during this session, but the reference to RCW 42.30.110 indicates the board's compliance with state legislation regarding private discussions. The meeting concluded with an adjournment, signaling the end of the session without any public content or decisions made.
 
-The Colville School District held a special meeting on February 28, 2024, to interview and appoint a new Board Director for District #3, following the vacancy left by Joseph Schweitzer. The meeting commenced with President Joe Fazzari calling it to order at 5:00 PM, followed by the Pledge of Allegiance. The sole candidate interviewed was Brianne Zier, who responded to various questions posed by the board members. After the interview, the board entered an executive session at 5:30 PM to evaluate her qualifications, reconvening at 5:40 PM. 
-
-Subsequently, a roll call vote was conducted to appoint Brianne Zier as the new Director of District #3, resulting in a unanimous decision with a 3-0 vote in favor. The meeting concluded with a motion to adjourn at 5:44 PM, indicating a successful engagement in the community's governance process through the appointment of a new board member.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/stevens/school_boards/colville_school_district/2024/2024-02-28-februaryspecialboardmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/battle_ground_school_district/2024/2024-02-05-specialmeetingexecutivesession-minutes.txt)
 
 ## 2021-08-31 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

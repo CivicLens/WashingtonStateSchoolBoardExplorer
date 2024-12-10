@@ -1,6 +1,6 @@
-# Positions Supported by Chad Miller (PATEROS_SCHOOL_DISTRICT, Term: 2014-2027)
+# Positions Supported by Erik Youngberg (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chad Miller | PATEROS_SCHOOL_DISTRICT | 2014-2027 |
+| Erik Youngberg | NORTH_MASON_SCHOOL_DISTRICT | None |
 

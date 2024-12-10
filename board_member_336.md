@@ -1,20 +1,39 @@
-# Positions Supported by Russ Pfeiffer-Hoyt (MOUNT_BAKER_SCHOOL_DISTRICT, Term: 2024)
+# Positions Supported by Jim Verburg (LYNDEN_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Russ Pfeiffer-Hoyt | MOUNT_BAKER_SCHOOL_DISTRICT | 2024 |
+| Jim Verburg | LYNDEN_SCHOOL_DISTRICT | 2027 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-08-22 | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| 2024-06-13 | voted yes on approval of the agenda | Ms. Brenna Reaugh moved to approve the agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
-| 2024-06-13 | voted yes on approval of the PSE Contract | Ms. Brenna Reaugh made a motion to approve PSE Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
-| 2024-06-13 | voted yes on approval of the MBEA Contract | Ms. Brenna Reaugh made a motion to approve MBEA Contract, Mr. Edward Fox seconded; motion carried, 4-0. |
-| 2024-06-13 | voted yes on approval of the Interim Superintendent Contract | Ms. Brenna Reaugh made a motion to approve the Interim Superintendent Contract, Mr. Edward Fox seconded; motion carried,...[truncated, use api for full text] |
-| 2024-06-13 | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Mr. Edward Fox seconded; motion carried, 4-0. |
-| 2024-06-13 | voted yes on approval of MB Resolution 23/24:20 WIAA Membership | Ms. Brenna Reaugh made a motion to approve MB Resolution 23/24:20 WIAA Membership, Mr. Edward Fox seconded; motion carri...[truncated, use api for full text] |
-| 2024-06-13 | voted yes on adding consideration of the MBEA and PSE Contracts to the Action Items agenda | Ms. Brenna Reaugh made a motion to add consideration of the MBEA and PSE Contracts to the Action Items agenda, Mr. Edwar...[truncated, use api for full text] |
-| 2024-01-04 | voted yes on motion to appoint Mr. Philip Brockman as Interim Superintendent | Ms. Brenna Reaugh made a motion to appoint Mr. Philip Brockman as our new Interim Superintendent, Mr. Edward Fox seconde...[truncated, use api for full text] |
+| 2024-09-05 | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
+| 2024-09-05 | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
+Board V...[truncated, use api for full text] |
+| 2024-07-11 | Approved consent agenda | No context provided |
+| 2024-07-11 | Approved agenda | No context provided |
+| 2024-07-11 | Approved Running Start agreement with Bellingham Technical College | No context provided |
+| 2024-07-11 | Approved Northwest Educational Service District Agreement | No context provided |
+| 2024-06-20 | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
+| 2024-05-16 | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
+| 2024-05-16 | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
+| 2024-05-16 | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
+| 2024-05-02 | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| 2024-05-02 | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| 2024-05-02 | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| 2024-05-02 | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
+| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
+| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
+| 2024-04-04 | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
+| 2024-03-21 | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school district. |
+| 2024-03-21 | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
+| 2024-03-21 | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
+| 2024-03-07 | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
+| 2024-03-07 | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
+| 2024-03-07 | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
+| 2024-02-08 | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
+| 2024-01-25 | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
+| 2024-01-11 | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
+| 2024-01-11 | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
 

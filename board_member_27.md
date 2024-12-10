@@ -1,6 +1,6 @@
-# Positions Supported by Jacqueline Weatherspoon (EVERGREEN_PUBLIC_SCHOOLS, Term: 2022-2025)
+# Positions Supported by Kirsten Williams (PORT_ANGELES_SCHOOL_DISTRICT, Term: 12/27)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jacqueline Weatherspoon | EVERGREEN_PUBLIC_SCHOOLS | 2022-2025 |
+| Kirsten Williams | PORT_ANGELES_SCHOOL_DISTRICT | 12/27 |
 

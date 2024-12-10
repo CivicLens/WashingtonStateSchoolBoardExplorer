@@ -1,14 +1,14 @@
-# Meeting Summaries for LAKE_WASHINGTON_SCHOOL_DISTRICT
+# Meeting Summaries for PASCO_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Leah Choi](board_member_128.md) | 2021-2025 |
-| [Lisa Guthrie](board_member_129.md) | 2023-2027 |
-| [Lindsey Yocum](board_member_130.md) | 2023-2027 |
-| [Eric Laliberte](board_member_131.md) | 2015-2027 |
-| [Mark Stuart](board_member_132.md) | 2013-2025 |
+| [Steve Norberg](board_member_65.md) | November 2027 |
+| [John Kennedy](board_member_66.md) | November 2027 |
+| [Amanda Brown](board_member_67.md) | November 2025 |
+| [Amy Phillips](board_member_68.md) | November 2025 |
+| [Steve Simmons](board_member_69.md) | November 2025 |
 
 ## Available Years
 - [2024](school_board_26_year_2024.md)
@@ -16,17 +16,4 @@
 ## Summaries by Tag
 - [policy-changes](school_board_26_tag_policy-changes.md)
 - [community-engagement](school_board_26_tag_community-engagement.md)
-- [diversity-inclusion](school_board_26_tag_diversity-inclusion.md)
-- [school-safety](school_board_26_tag_school-safety.md)
-- [mental-health](school_board_26_tag_mental-health.md)
-- [school-board-ethics](school_board_26_tag_school-board-ethics.md)
-- [teacher-support](school_board_26_tag_teacher-support.md)
-- [social-emotional-learning](school_board_26_tag_social-emotional-learning.md)
-- [long-term-strategic-plans](school_board_26_tag_long-term-strategic-plans.md)
-- [lgbtq](school_board_26_tag_lgbtq.md)
-- [bullying-prevention](school_board_26_tag_bullying-prevention.md)
-- [special-education-support](school_board_26_tag_special-education-support.md)
-- [capital-projects](school_board_26_tag_capital-projects.md)
-- [legislative-priorities](school_board_26_tag_legislative-priorities.md)
-- [academic-standards](school_board_26_tag_academic-standards.md)
 - [student-autonomy](school_board_26_tag_student-autonomy.md)

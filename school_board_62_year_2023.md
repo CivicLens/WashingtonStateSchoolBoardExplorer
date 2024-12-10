@@ -46,8 +46,8 @@ The Bellingham School District Board of Directors held a regular meeting on Octo
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
-| [Camille Diaz Hackler](board_member_312.md) | supported the formation of a citizens committee against the replacement levy measures | Ms. Diaz Hackler read a statement regarding the formation of a citizens committee against the replacement levy measures. |
+| [Douglas Benjamin](board_member_317.md) | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_319.md) | supported the formation of a citizens committee against the replacement levy measures | Ms. Diaz Hackler read a statement regarding the formation of a citizens committee against the replacement levy measures. |
 
 ## 2023-10-03 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

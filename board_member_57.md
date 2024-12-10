@@ -1,6 +1,6 @@
-# Positions Supported by BOBBI PARKER (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Jason Heinz (EASTMONT_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| BOBBI PARKER | ORONDO_SCHOOL_DISTRICT | None |
+| Jason Heinz | EASTMONT_SCHOOL_DISTRICT | 2021-2025 |
 

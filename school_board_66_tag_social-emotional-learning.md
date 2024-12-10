@@ -18,3 +18,11 @@ The Meridian School District #505 Board held a regular meeting on November 2nd, 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-11-02-minutes.txt)
 
+## 2021-03-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a regular meeting on March 31, 2021, discussing various topics related to school operations and student well-being. Notably, the board addressed the impact of COVID-19 on the district, with Superintendent Dr. James Everett reporting on increased in-person learning opportunities for students. The meeting also focused on student health, including a presentation on the Meridian Middle School counselor and secretarial staff's exceptional support.
+
+The board reviewed and adopted several policies, including Policy 3112: Social Emotional Climate and Policy and Procedure 6000: Program Planning Budget Preparation Adoption and Implementation Procedure.  Additionally, they conducted a first reading of Policy 2125: Sexual Health Education and Policy 3432 – Emergencies. These policy reviews highlight the district's ongoing efforts to address student well-being and establish clear procedures for various aspects of school operations. The board also discussed the 2021-22 Whatcom Discovery Cooperative Program Interlocal Agreement, further demonstrating their commitment to collaborative educational initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-31-minutes.txt)
+

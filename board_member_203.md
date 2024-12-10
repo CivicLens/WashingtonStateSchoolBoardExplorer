@@ -1,6 +1,6 @@
-# Positions Supported by Rick Trocano (PATEROS_SCHOOL_DISTRICT, Term: 2023-2025)
+# Positions Supported by Nicole Gonzalez Timmons (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Rick Trocano | PATEROS_SCHOOL_DISTRICT | 2023-2025 |
+| Nicole Gonzalez Timmons | NORTH_MASON_SCHOOL_DISTRICT | None |
 

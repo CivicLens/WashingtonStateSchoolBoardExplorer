@@ -1,6 +1,6 @@
-# Positions Supported by Marcus Young, Sr. (BETHEL_SCHOOL_DISTRICT, Term: 2018-2025)
+# Positions Supported by Diane Hull (PATEROS_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Marcus Young, Sr. | BETHEL_SCHOOL_DISTRICT | 2018-2025 |
+| Diane Hull | PATEROS_SCHOOL_DISTRICT | 2021-2027 |
 

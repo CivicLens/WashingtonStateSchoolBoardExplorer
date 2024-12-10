@@ -1,6 +1,6 @@
-# Positions Supported by Jamie Bailey (ELMA_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Rich Black (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jamie Bailey | ELMA_SCHOOL_DISTRICT |  |
+| Rich Black | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
 

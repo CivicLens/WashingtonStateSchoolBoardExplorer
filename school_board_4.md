@@ -1,15 +1,11 @@
-# Meeting Summaries for PORT_ANGELES_SCHOOL_DISTRICT
+# Meeting Summaries for FINLEY_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Sandy Long, Ph.D.](board_member_16.md) | 12/27 |
-| [Stan Williams](board_member_17.md) | 12/27 |
-| [Sarah Methner](board_member_18.md) | 11/25 |
-| [Mary Hebert](board_member_19.md) | 11/25 |
-| [Kirsten Williams](board_member_20.md) | 12/27 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_4_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_4_tag_policy-changes.md)

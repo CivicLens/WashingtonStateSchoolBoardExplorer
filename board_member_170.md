@@ -1,6 +1,6 @@
-# Positions Supported by Ona Felker (EVALINE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Dan Smith (LYLE_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ona Felker | EVALINE_SCHOOL_DISTRICT | None |
+| Dan Smith | LYLE_SCHOOL_DISTRICT | 2023-2025 |
 

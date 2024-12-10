@@ -1,5 +1,11 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2020
 
+## 2020-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board met to discuss monitoring reports for two policies: EL-1 (Expectations of Superintendent) and EL-5 (Communication and Counsel to the Board).  The board reviewed feedback on these policies and will submit a final summary version for approval at their next meeting. For policy EL-5, Ms. Rose and Mr. Benjamin were tasked with researching potential edits based on the feedback received. The meeting also included informational reports from school board directors highlighting student activities and reflections on their experiences serving on the board.  The board assessed the meeting as commendable.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-12-09-minutes.txt)
+
 ## 2020-11-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a special meeting on November 18, 2020, via Zoom.  The meeting began at 12:01 p.m. and concluded at 12:03 p.m.  Two resolutions were unanimously approved as consent items. Resolution 29-20 certified excess property taxes for 2021. Resolution 30-20 enacted an emergency suspension of a specific, unnamed policy. The text does not specify which policy was suspended or the reason for the emergency suspension.

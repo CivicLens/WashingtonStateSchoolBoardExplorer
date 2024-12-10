@@ -1,6 +1,6 @@
-# Positions Supported by Eliza Davis (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Janet Loyd (DARRINGTON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Eliza Davis | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
+| Janet Loyd | DARRINGTON_SCHOOL_DISTRICT | None |
 

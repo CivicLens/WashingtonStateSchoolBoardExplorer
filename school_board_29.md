@@ -1,15 +1,12 @@
-# Meeting Summaries for TUKWILA_SCHOOL_DISTRICT
+# Meeting Summaries for NORTH_BEACH_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Carlee Hoover](board_member_143.md) | 2021-2025 |
-| [Kate Kruller](board_member_144.md) | 2021-2025 |
-| [Charley Simpson](board_member_145.md) | 2021-2025 |
-| [Reverend Terrence Proctor](board_member_146.md) | 2027 |
-| [Dave Larson](board_member_147.md) | 2027 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_29_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_29_tag_policy-changes.md)
+- [educational-technology](school_board_29_tag_educational-technology.md)

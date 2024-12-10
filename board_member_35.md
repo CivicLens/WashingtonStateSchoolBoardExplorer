@@ -1,6 +1,6 @@
-# Positions Supported by Gordon Smith (HOCKINSON_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Ginny Gronwoldt (EVERGREEN_PUBLIC_SCHOOLS, Term: 2017-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Gordon Smith | HOCKINSON_SCHOOL_DISTRICT | 2023-2027 |
+| Ginny Gronwoldt | EVERGREEN_PUBLIC_SCHOOLS | 2017-2025 |
 

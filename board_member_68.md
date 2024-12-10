@@ -1,6 +1,6 @@
-# Positions Supported by Shannon Nicholson (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Amy Phillips (PASCO_SCHOOL_DISTRICT, Term: November 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Shannon Nicholson | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
+| Amy Phillips | PASCO_SCHOOL_DISTRICT | November 2025 |
 

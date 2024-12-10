@@ -1,6 +1,6 @@
-# Positions Supported by Chuck West (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Nicole Kent (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chuck West | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
+| Nicole Kent | DIERINGER_SCHOOL_DISTRICT | 2021-2025 |
 

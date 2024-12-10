@@ -1,6 +1,6 @@
-# Positions Supported by Casey Taylor (TUMWATER_SCHOOL_DISTRICT, Term: 2019-2027)
+# Positions Supported by BRYON BAHR (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Casey Taylor | TUMWATER_SCHOOL_DISTRICT | 2019-2027 |
+| BRYON BAHR | RAINIER_SCHOOL_DISTRICT | None |
 

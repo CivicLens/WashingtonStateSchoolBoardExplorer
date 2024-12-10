@@ -2,7 +2,7 @@
 
 ## 2024-10-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a regular meeting on October 10, 2024, where they discussed various topics including the observance of Orange Shirt Day, which honors survivors of boarding schools, reflecting a commitment to diversity and inclusion. Superintendent Greg Baker reported on the district's engagement with legislators regarding school budgets and highlighted the need for funding solutions to address anticipated budget challenges. The board expressed a desire to take action regarding funding dilemmas, suggesting the drafting of both a resolution and a letter to the community to articulate their concerns. This initiative aims to engage community partners and PTAs in a collective response to financial difficulties faced by multiple districts, emphasizing the importance of community engagement and collaboration. Additionally, the meeting included monitoring reports on expectations of the superintendent and race and equity, indicating a focus on racial equity within the district's policies.
+The Bellingham School District Board of Directors held a regular meeting on October 10, 2024, where key topics included the need for community engagement regarding funding challenges faced by the district. Superintendent Greg Baker reported on legislative discussions related to school budgets and shared insights on recent events, including the observance of Orange Shirt Day and the introduction of girls flag football at the high school level. The board expressed a desire to take action on funding issues, with members discussing the drafting of both a resolution and a letter to the community to formalize the board's stance and encourage community involvement. The board also reviewed monitoring reports on racial equity and expectations of the superintendent, indicating a commitment to addressing these important issues within the district.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-10-minutes.txt)
 
@@ -10,30 +10,14 @@ The Bellingham School District Board of Directors held a regular meeting on Octo
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Jenn Mason](board_member_311.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Ms. Mason thinks the board should adopt a resolution and write a letter to the community. The resolution would satisfy t...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Ms. Rose agrees that the board should do both. The benefit of a letter is that it can be an open call to the community t...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | supported drafting a letter to the community regarding funding concerns | She believes we would be remiss in our duties if we don’t do something to share the board’s concerns. |
-| [Douglas Benjamin](board_member_310.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Mr. Benjamin shared that the board has expressed interest in taking some kind of action. |
-
-## 2024-07-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on July 18, 2024, where several key resolutions and updates were discussed. Notably, the board approved Resolution 19-24, which involves the transfer of funds from the Capital Projects Fund to the General Fund, and Resolution 20-24, expressing intent to construct a Community Transitions building. The board also addressed concerns raised by community members regarding student safety and staff hiring practices, specifically the need for more district maintenance employees rather than independent contractors. Superintendent Greg Baker provided an update on various summer programs, the authorization of Roosevelt Elementary as an International Baccalaureate school, and ongoing capital projects, including the $2.7 million award for solar arrays at five schools. The board is preparing to adopt the 2024-25 budget at the next meeting and is seeking community feedback on funding models, particularly the full funding of special education, pupil transportation, and Materials, Supplies, and Operating Costs (MSOCs).
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-07-18-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for EL-2, Organizational Continuity | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve the monitoring response document for Ends 1, 2, 3 (Combined) | Following discussion, Ms. Mason made a motion, seconded by Ms. Rose, to approve the monitoring response document (Attach...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve GP-7.2, Annual Board Agenda for 2024-25 | Ms. Rose made a motion, seconded by Ms. Mason, to approve GP-7.2, Annual Board Agenda for 2024-25. Unanimous approval. |
+| [Jenn Mason](board_member_318.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Ms. Mason thinks the board should adopt a resolution and write a letter to the community. The resolution would satisfy t...[truncated, use api for full text] |
+| [Katie Rose](board_member_321.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Ms. Rose agrees that the board should do both. The benefit of a letter is that it can be an open call to the community t...[truncated, use api for full text] |
+| [Camille Diaz Hackler](board_member_319.md) | supported drafting a letter to the community regarding funding concerns | She believes we would be remiss in our duties if we don’t do something to share the board’s concerns. |
+| [Douglas Benjamin](board_member_317.md) | supported drafting both a resolution and a letter to the community regarding funding concerns | Mr. Benjamin shared that the board has expressed interest in taking some kind of action. |
 
 ## 2024-04-17 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a regular meeting on April 17, 2024, where Superintendent Greg Baker provided updates on various educational initiatives and budget considerations. Key points included a discussion on the district's K-12 funding challenges, with expectations for a "hold steady" budget for 2024-25 and potential advocacy efforts for future funding. The meeting highlighted the presentation of Promise Awards, student participation in competitions, and ongoing community engagement through events like the Since Time Immemorial Family and Community Night. The board approved several resolutions, including Resolution 09-24 for the transfer of funds from the Capital Projects Fund to the General Fund and Resolution 11-24 declaring surplus property. Monitoring reports EL-6 and EL-8 were reviewed, focusing on academic standards and district calendar compliance, respectively. The board also discussed student competence, noting commendable progress in closing achievement gaps among various student demographics, including Hispanic/Latinx and low-income groups, while recognizing areas needing improvement, particularly for multilingual learners and students with disabilities.
+The Bellingham School District Board of Directors held a regular meeting on April 17, 2024, where various topics were discussed, including academic standards and community engagement. Superintendent Greg Baker presented monitoring reports EL-6 and EL-8, which highlighted the district's academic performance and community outreach efforts. The board noted commendable progress in closing proficiency gaps, particularly for Hispanic/Latinx and low-income students, while also recognizing challenges faced by multilingual learners and students with disabilities. The board approved multiple resolutions, including Resolution 09-24 for the transfer of funds from the Capital Projects Fund to the General Fund and Resolution 11-24 for the declaration of surplus property. Additionally, the board discussed the importance of standardized communication regarding school safety and family engagement initiatives, emphasizing the need for continuous improvement in these areas.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-04-17-minutes.txt)
 
@@ -41,53 +25,20 @@ The Bellingham School District Board of Directors held a regular meeting on Apri
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Katie Rose](board_member_314.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
-| [Douglas Benjamin](board_member_310.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-| [Scott Ritchey](board_member_313.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
-
-## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on March 14, 2024, where they addressed several key issues including the adoption of Resolution #08-24, which authorizes the sale of surplus district-owned property on West Maplewood Avenue. No public testimony was offered during the hearing on this resolution. Superintendent Greg Baker reported on budget developments for the 2024-25 school year, indicating that the state is not heavily investing in PreK-12 public education, although there were increases in special education, supplies, and paraeducator staffing. The board discussed monitoring responses for policies EL-3 (Treatment and Communication with Public, Parents and Students), EL-4 (Staff Treatment, Compensation and Evaluation), and Ends 2.1 (Part 1, Student Competence), with commendations for effective communication and outreach efforts. Challenges related to teacher and staff shortages were noted, particularly in relation to substitute availability. The board emphasized the importance of community engagement and the ongoing need for programs that support special education and academic standards.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-
-## 2024-02-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on February 22, 2024, where several significant actions and discussions took place. The board approved various consent agenda items, including resolutions for the transfer of funds and a declaration of an emergency regarding water damage repairs at Sehome High School. Notably, the board discussed and approved monitoring response documents for policies EL-7 (Budget Planning and Execution), EL-9 (Asset Maintenance and Protection), and EL-9.1 (Facility Improvement or Development Involving Bond Measure Proposal), highlighting the superintendent's compliance and progress in these areas. A change was proposed to Policy EL-9.1 to remove the phrase "through the consent agenda," indicating a move towards more direct communication regarding facilities and bond planning. The meeting also featured community engagement, with audience members sharing insights on Career Technical Education (CTE) and technology access for students. The board expressed gratitude for community support following the recent passage of two levies, which are crucial for funding the district's budget.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-22-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| [Douglas Benjamin](board_member_317.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_320.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_321.md) | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_320.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_321.md) | voted yes on the monitoring response document for EL-4 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Katie Rose](board_member_321.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Scott Ritchey](board_member_320.md) | voted yes on the monitoring response document for Ends 2.1 (Part 1) | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| [Douglas Benjamin](board_member_317.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| [Scott Ritchey](board_member_320.md) | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
 
 ## 2024-01-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors met on January 18, 2024, where they addressed several key issues and resolutions. The board unanimously approved a series of consent agenda items, including resolutions for the transfer of funds related to water damage repairs at the District Office and the commissioning report for Sunnyland Elementary School. The board reviewed and discussed monitoring responses to various Executive Limitations policies, including EL-1 (Expectations of Superintendent), EL-5 (Communication and Counsel to the Board), EL-7 (Budget Planning and Execution), EL-9 (Asset Maintenance and Protection), and EL-9.1 (Facility Improvement or Development Involving Bond Measure Proposal). Notably, there were no changes proposed for the monitoring responses, indicating satisfaction with the superintendent's performance in these areas. 
-
-Superintendent Greg Baker highlighted the district's response to crises, including significant water damage due to a burst pipe and ongoing challenges with weather-related school operations. The board expressed appreciation for the superintendent's communication efforts and the district's commitment to mental health and sustainability initiatives. Additionally, the board discussed long-term strategic planning regarding facility improvements, emphasizing the importance of community engagement and equity in decision-making processes. A proposed change to policy EL-9.1 was noted, suggesting the removal of the phrase "through the consent agenda" to enhance communication discretion regarding facility improvements.
+The Bellingham School District Board of Directors held a regular meeting on January 18, 2024, where several key resolutions and policies were discussed. Notably, the board unanimously approved a series of consent agenda items, including Resolution 01-24, which pertains to the Sunnyland Elementary School Building Commissioning Report, and Resolution 03-24, which declares an emergency and waives bidding requirements related to water damage repairs at the District Office. The board reviewed and discussed the Executive Limitations (EL) policies, specifically EL-1 (Expectations of Superintendent), EL-5 (Communication and Counsel to the Board), EL-7 (Budget Planning and Execution), EL-9 (Asset Maintenance and Protection), and EL-9.1 (Facility Improvement or Development Involving Bond Measure Proposal). Changes were proposed to EL-9.1, suggesting the removal of the phrase "through the consent agenda" to enhance communication discretion. Additionally, the meeting highlighted the importance of mental health initiatives and the district's commitment to racial equity, as evidenced by the participation of students in events like the Treaty Day film festival. The board recognized the challenges posed by state funding inadequacies and expressed appreciation for the superintendent's efforts in maintaining budget transparency and community engagement.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-18-minutes.txt)
 
@@ -95,11 +46,11 @@ Superintendent Greg Baker highlighted the district's response to crises, includi
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Scott Ritchey](board_member_313.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
-| [Katie Rose](board_member_314.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Douglas Benjamin](board_member_317.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Camille Diaz Hackler](board_member_319.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Jenn Mason](board_member_318.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Scott Ritchey](board_member_320.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| [Katie Rose](board_member_321.md) | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
 
 ## 2023-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -117,8 +68,8 @@ The Bellingham School District Board of Directors held a regular meeting on Octo
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
-| [Camille Diaz Hackler](board_member_312.md) | supported the formation of a citizens committee against the replacement levy measures | Ms. Diaz Hackler read a statement regarding the formation of a citizens committee against the replacement levy measures. |
+| [Douglas Benjamin](board_member_317.md) | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
+| [Camille Diaz Hackler](board_member_319.md) | supported the formation of a citizens committee against the replacement levy measures | Ms. Diaz Hackler read a statement regarding the formation of a citizens committee against the replacement levy measures. |
 
 ## 2022-11-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -250,6 +201,12 @@ The Bellingham School District Board of Directors held a special meeting on Janu
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2019/2019-01-21-minutes.txt)
 
+## 2018-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes detail discussions and reports from the WSSDA conference.  Several board members highlighted sessions related to diversity and inclusion, with Ms. Diaz Hackler expressing disappointment in the lack of diversity and inclusion options available at the conference.  Ms. Bashaw attended a Native American curriculum breakout session. Mr. Benjamin shared information about a teacher focusing on strengths-based growth and expressed interest in incorporating more student voice into school practices. Ms. Mason noted interesting conversations on equity during the legislative assembly. The board also discussed the monitoring response document for a policy, though the specific content of the policy is not mentioned.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-05-minutes.txt)
+
 ## 2018-10-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District held a community linkage meeting to gather input from families and students on the district's goals outlined in "The Bellingham Promise."  Discussions centered around diversity and inclusion, with participants expressing a desire for more focus on diversity within classrooms and a need for students of color to feel connected. Concerns were raised about students feeling like outsiders despite positive interactions with teachers. The meeting also highlighted the importance of valuing students' native languages and providing support for families who want to learn English.  The district emphasized the value of parental feedback and community engagement in shaping educational policies and practices.
@@ -285,6 +242,12 @@ This document details the Bellevue School District (BSD) Board's monitoring of S
 The Board also highlights BSD's efforts in analyzing student data beyond traditional comparables and exploring diverse ways of examining subgroups. However, they identify areas needing improvement, including ongoing support for special education students and strategies to combat the impact of poverty on graduation rates. The document emphasizes the importance of community partnerships in providing holistic support to families. Notably, the Board acknowledges that district success is not solely measured by graduation rates but encompasses broader student outcomes.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-02-28-minutes.txt)
+
+## 2017-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors visited Columbia Elementary School on December 5, 2017. The meeting focused on discussing the school's outcomes and their connection to the Bellingham Promise.  The board also learned about the work of the Columbia Parent Association in supporting equity and inclusion. Additionally, they observed classroom practices aimed at fostering the social and emotional development of students. No specific policies were mentioned or discussed during the visit.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-minutes.txt)
 
 ## 2017-01-31 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

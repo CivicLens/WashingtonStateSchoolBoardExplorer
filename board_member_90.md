@@ -1,6 +1,6 @@
-# Positions Supported by Shannon Durfee (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Kelly Monroe (MONTESANO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Shannon Durfee | QUINAULT_LAKE_SCHOOL_DISTRICT | 2027 |
+| Kelly Monroe | MONTESANO_SCHOOL_DISTRICT | None |
 

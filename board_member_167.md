@@ -1,6 +1,6 @@
-# Positions Supported by Mark Vorce (LYLE_SCHOOL_DISTRICT, Term: 2020-2024)
+# Positions Supported by Mitchell Powers (BICKLETON_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mark Vorce | LYLE_SCHOOL_DISTRICT | 2020-2024 |
+| Mitchell Powers | BICKLETON_SCHOOL_DISTRICT |  |
 

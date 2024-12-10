@@ -1,6 +1,6 @@
-# Positions Supported by Carin Chase (EDMONDS_SCHOOL_DISTRICT, Term: December 2027)
+# Positions Supported by Wendy Ragusa (MOUNT_VERNON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Carin Chase | EDMONDS_SCHOOL_DISTRICT | December 2027 |
+| Wendy Ragusa | MOUNT_VERNON_SCHOOL_DISTRICT | None |
 

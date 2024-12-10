@@ -1,6 +1,6 @@
-# Positions Supported by Laura Schmidt (CONCRETE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Enrique Leon (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Laura Schmidt | CONCRETE_SCHOOL_DISTRICT | None |
+| Enrique Leon | TACOMA_PUBLIC_SCHOOLS | 2019-2027 |
 

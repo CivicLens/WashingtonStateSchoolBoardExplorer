@@ -1,6 +1,6 @@
-# Positions Supported by Mike Desmond (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2019-2027)
+# Positions Supported by Matt Carreon (TAHOMA_SCHOOL_DISTRICT, Term: 2-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mike Desmond | NORTH_KITSAP_SCHOOL_DISTRICT | 2019-2027 |
+| Matt Carreon | TAHOMA_SCHOOL_DISTRICT | 2-year term through Dec. 2024 |
 

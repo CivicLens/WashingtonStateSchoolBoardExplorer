@@ -1,6 +1,6 @@
-# Positions Supported by April Owen (NEWPORT_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Nicholas Thomas (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| April Owen | NEWPORT_SCHOOL_DISTRICT | None |
+| Nicholas Thomas | NORTH_MASON_SCHOOL_DISTRICT | None |
 

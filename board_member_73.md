@@ -1,6 +1,6 @@
-# Positions Supported by Rita Keene (QUINCY_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by MATTHEW TRUSCOTT (EPHRATA_SCHOOL_DISTRICT, Term: 2024-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Rita Keene | QUINCY_SCHOOL_DISTRICT | 2027 |
+| MATTHEW TRUSCOTT | EPHRATA_SCHOOL_DISTRICT | 2024-2025 |
 

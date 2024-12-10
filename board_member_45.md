@@ -1,6 +1,6 @@
-# Positions Supported by Paul Ebreo (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Grant Griffen (DAYTON_SCHOOL_DISTRICT, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Paul Ebreo | BRIDGEPORT_SCHOOL_DISTRICT | December 2025 |
+| Grant Griffen | DAYTON_SCHOOL_DISTRICT | 2019-2027 |
 

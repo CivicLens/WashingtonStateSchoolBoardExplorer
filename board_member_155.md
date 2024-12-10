@@ -1,6 +1,6 @@
-# Positions Supported by Jerry Lael (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Edward Wright (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2024-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jerry Lael | KITTITAS_SCHOOL_DISTRICT | 2021-2025 |
+| Edward Wright | NORTH_KITSAP_SCHOOL_DISTRICT | 2024-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Keith Smith (EDMONDS_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Larry Otos (MOUNT_VERNON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Keith Smith | EDMONDS_SCHOOL_DISTRICT | December 2025 |
+| Larry Otos | MOUNT_VERNON_SCHOOL_DISTRICT | None |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Shona Davis (QUILCENE_SCHOOL_DISTRICT, Term: 2024-2025)
+# Positions Supported by Sharon Jensen (OAK_HARBOR_SCHOOL_DISTRICT, Term: 2023-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Shona Davis | QUILCENE_SCHOOL_DISTRICT | 2024-2025 |
+| Sharon Jensen | OAK_HARBOR_SCHOOL_DISTRICT | 2023-2025 |
 

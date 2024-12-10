@@ -1,6 +1,6 @@
-# Positions Supported by Natalie Wimberley (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Ronda Litzenberger (EATONVILLE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Natalie Wimberley | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
+| Ronda Litzenberger | EATONVILLE_SCHOOL_DISTRICT | None |
 

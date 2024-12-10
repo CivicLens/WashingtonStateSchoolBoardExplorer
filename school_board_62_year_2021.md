@@ -1,5 +1,11 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2021
 
+## 2021-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+This document is a school board evaluation of the Superintendent's performance. The evaluation focuses on the Superintendent's adherence to established policies and highlights commendable progress in communication and transparency.  The Board specifically praises the Superintendent for providing consistent updates, particularly during the COVID-19 pandemic. While the evaluation commends the Superintendent's performance overall, it suggests incorporating student and parent voices more explicitly as evidence of compliance with certain policies. The document also mentions a transition to remote learning due to COVID-19 but does not elaborate on the specifics or challenges associated with this shift.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-12-08-minutes.txt)
+
 ## 2021-11-30 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 On November 30, 2021, the Bellingham School District Board of Directors visited Parkview Elementary School. The meeting, which began at 7:30 a.m., included a presentation by Parkview staff about their transition to a new school building and highlights of recent professional development initiatives. Students then led tours of the new facility, showcasing its differences and improvements compared to the previous school.  The visit concluded at 8:30 a.m. All Board members except for Director Camille Diaz Hackler were present.

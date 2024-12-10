@@ -1,6 +1,6 @@
-# Positions Supported by Enrique Leon (TACOMA_PUBLIC_SCHOOLS, Term: 2019-2027)
+# Positions Supported by Noah Thompson (PENINSULA_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Enrique Leon | TACOMA_PUBLIC_SCHOOLS | 2019-2027 |
+| Noah Thompson | PENINSULA_SCHOOL_DISTRICT | None |
 

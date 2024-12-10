@@ -1,6 +1,6 @@
-# Positions Supported by Teresa Cosio (BETHEL_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Trevor Price (NEWPORT_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Teresa Cosio | BETHEL_SCHOOL_DISTRICT | 2023-2027 |
+| Trevor Price | NEWPORT_SCHOOL_DISTRICT | None |
 

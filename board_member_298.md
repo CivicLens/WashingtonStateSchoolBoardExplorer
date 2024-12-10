@@ -1,6 +1,6 @@
-# Positions Supported by Melissa Beard (TUMWATER_SCHOOL_DISTRICT, Term: 2016-2025)
+# Positions Supported by JUSTIN GURNSEY (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Melissa Beard | TUMWATER_SCHOOL_DISTRICT | 2016-2025 |
+| JUSTIN GURNSEY | RAINIER_SCHOOL_DISTRICT | None |
 

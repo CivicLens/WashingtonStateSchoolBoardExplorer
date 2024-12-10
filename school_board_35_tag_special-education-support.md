@@ -1,26 +1,58 @@
-# Meeting Summaries for ONALASKA_SCHOOL_DISTRICT with Tag: special-education-support
+# Meeting Summaries for LAKE_WASHINGTON_SCHOOL_DISTRICT with Tag: special-education-support
 
-## 2024-10-28 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+## 2024-08-05 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
-The Regular School Board Meeting held on October 28, 2024, included several significant actions and discussions. The board approved the hiring of personnel for various positions, including Nikomis Baldwin as a Long-Term Maintenance substitute and Deanna Abrahamson for the Middle School Boys Basketball coaching position, indicating ongoing support for special education and extracurricular activities. The meeting also recognized the Onalaska Alliance for their contributions to community engagement through events that enhance student experiences. Financial reports presented by Business Manager Kathleen Ahmann revealed an end fund balance of $1,112,000, with an actual student count exceeding the budgeted figure, suggesting a positive financial outlook. The board also passed several resolutions, including Resolutions 24-25-01, 24-25-02, and 24-25-03, which addressed petty cash management, warrant voiding, and exception requests, reflecting procedural policy changes within the district's financial management practices.
+The August 5, 2024 Board Meeting of the Lake Washington School District (LWSD) included significant discussions on policy changes and community engagement. The board approved several resolutions, including the Interdistrict Cooperative Agreement with Edmonds School District to provide educational programs for students with disabilities for the 2024-2025 school year, and an agreement with Highline College for a post-secondary transition program for special needs children. Additionally, the board discussed legislative engagement, noting that they have connected with 10 local legislators and are preparing for the upcoming 2025 legislative session. The board also held a public hearing regarding the adoption of the 2024-25 budget, with plans to take action on Resolution No. 2380 at the next meeting, emphasizing the importance of transparency and public feedback in the budgeting process.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-10-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-08-05-minutes.txt)
 
-## 2024-09-23 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+### Board Member Actions
 
-The Onalaska School Board meeting held on September 23, 2024, included the swearing in of a new student board representative and recognized community members Brenda Elliott and Pam Kinsman for their support of the schools. Superintendent Brenda Padgett reported that initial OSPI diagnostic assessments indicate students are meeting expected benchmarks, and the school year has started smoothly with manageable traffic around the school. The meeting highlighted the importance of social-emotional learning (SEL), particularly in elementary grades, with programs like "What Would Kelso Do?" being implemented to help students self-regulate their behavior. Challenges in special education were acknowledged, with efforts being made to improve the situation following a productive meeting. Additionally, the board approved various consent agenda items, including the adoption of policies related to high school graduation requirements and updates to the high school handbook. Notably, policy 3211P regarding Gender Inclusive Schools was tabled until further information is available.
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Mark Stuart](board_member_139.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 3, Bylaw for Student Reps | The amendment relates to the bylaws for student representatives. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 3, Bylaw for Student Reps | The amendment relates to the bylaws for student representatives. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 8, Capital Facilities and School Construction | The amendment pertains to capital facilities and school construction. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to adopt the WSSDA proposed amendment for Item 8, Capital Facilities and School Construction | The amendment pertains to capital facilities and school construction. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
+| [Eric Laliberte](board_member_138.md) | voted yes on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
+| [Mark Stuart](board_member_139.md) | voted yes on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
+| [Leah Choi](board_member_135.md) | voted nay on motion to adopt WSSDA Proposed Amendment #46, Learning for Multilingual Learners | The amendment focuses on learning for multilingual learners. |
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-09-23-minutes.txt)
+## 2024-06-24 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
-## 2024-05-28 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+The June 24, 2024 Board Meeting of the Lake Washington School District featured several key resolutions and discussions. Notably, the board adopted Resolution No. 2379, which increases the 2023-24 General Fund appropriation from $556,155,096 to $568,155,096. This adjustment is attributed to changes in special education funding and new accounting requirements. Additionally, the board discussed the 2024-25 budget, which is set for a public hearing on August 5, 2024, and includes potential revenue and expenditure changes due to legislative impacts and enrollment fluctuations. 
 
-The Regular School Board Meeting held on May 28, 2024, included discussions on various policy changes and recognitions. Notably, the Board approved the Paraeducator Bargaining Agreement for September 2024 to August 2027, highlighting a commitment to special education support. The meeting also recognized the Onalaska Scholarship Committee for raising $25,000 for scholarships, demonstrating community engagement in supporting students. The Board presented plaques to five retirees, acknowledging their service, and discussed the recent split from the Sped Coop at ESD, transitioning to a new Small Schools coop to maintain support for students. Additionally, the Board expressed their backing of a no-hat rule in Middle School, indicating a focus on school discipline.
+Community engagement was emphasized through audience participation, where parents raised concerns about class sizes and cell phone policies in schools. The board also shared updates on partnerships with local entities, such as the Kirkland City Council, discussing potential collaboration opportunities related to facilities and affordable housing for staff. Overall, the meeting highlighted ongoing efforts to address funding challenges while fostering community involvement in educational matters.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-05-28-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-06-24-minutes.txt)
 
-## 2024-04-22 - ONALASKA_SCHOOL_DISTRICT (Minutes)
+### Board Member Actions
 
-The Regular School Board Meeting held on April 22, 2024, included a community recognition segment where certificates were awarded to local volunteers who contributed to the renovation of baseball and softball dugouts, reflecting a commitment to community engagement. The meeting also discussed the approval of several personnel items, including the hiring of Rachel Shepherd for a High School Science teaching position and Tyler Frazier for a High School SPED/Ged Ed teaching position for the 2024-2025 school year, indicating ongoing efforts to enhance special education support. Additionally, the board approved a new mentoring program called Ony O.W.L., aimed at connecting community volunteers with students, further emphasizing the district's focus on community involvement and student engagement. The meeting concluded with the approval of various policies, including a second reading for the Electronic Funds Transfer policy and a first reading for a new policy on Recess and Physical Activity.
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_138.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Lindsey Yocum](board_member_137.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Lisa Guthrie](board_member_136.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Mark Stuart](board_member_139.md) | voted yes on the consent agenda | Motion by Mark Stuart, second by Eric Laliberte. Aye: Lisa Guthrie, Eric Laliberte, Mark Stuart, Lindsey Yocum |
+| [Eric Laliberte](board_member_138.md) | voted yes on the motion to adopt Resolution No. 2379 | Motion by Eric Laliberte, second by Lindsey Yocum. Final Resolution: Motion Carries |
+| [Lindsey Yocum](board_member_137.md) | voted yes on the motion to adopt Resolution No. 2379 | Motion by Eric Laliberte, second by Lindsey Yocum. Final Resolution: Motion Carries |
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/lewis/school_boards/onalaska_school_district/2024/2024-04-22-minutes.txt)
+## 2024-05-20 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
+
+The May 20, 2024 Board Meeting of the Lake Washington School District included a discussion on significant policy changes, notably the proposed closure of the Futures School, which is aimed at addressing credit deficiencies for students. The Superintendent's recommendation for this closure will be formally acted upon at the August 19, 2024 Board Meeting. Additionally, the board unanimously approved the Operational Expectation-9 Sustainability Policy, which outlines reasonable interpretations and indicators related to sustainability efforts within the district. This policy was developed through extensive community engagement, including multiple meetings with students, staff, and parents to gather input. The meeting also featured a report on the need for increased support for special education funding, as highlighted by Dr. Holmen, who discussed ongoing challenges in school funding in Washington state.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/lake_washington_school_district/2024/2024-05-20-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Eric Laliberte](board_member_138.md) | voted yes on approving the agenda | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on approving the agenda | Motion by Eric Laliberte, second by Lisa Guthrie. |
+| [Leah Choi](board_member_135.md) | voted yes on approving the consent agenda | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Lisa Guthrie](board_member_136.md) | voted yes on approving the consent agenda | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Lindsey Yocum](board_member_137.md) | voted yes on approving the consent agenda | Motion by Lisa Guthrie, second by Lindsey Yocum. |
+| [Eric Laliberte](board_member_138.md) | voted yes on adopting the OE-9 Sustainability Policy | Motion by Eric Laliberte second by Mark Stuart. |
+| [Mark Stuart](board_member_139.md) | voted yes on adopting the OE-9 Sustainability Policy | Motion by Eric Laliberte second by Mark Stuart. |
 

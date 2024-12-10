@@ -1,15 +1,20 @@
-# Meeting Summaries for YELM_COMMUNITY_SCHOOLS
+# Meeting Summaries for COLVILLE_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Frank King](board_member_300.md) | 2021-2025 |
-| [Casey Shaw](board_member_301.md) | 2021-2027 |
-| [Denise Hendrickson](board_member_302.md) | 1998-2027 |
-| [Debbie Edwards](board_member_303.md) | 1984-2025 |
-| [Bill Hauss](board_member_304.md) | 2004-2027 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_60_year_2024.md)
+- [2023](school_board_60_year_2023.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_60_tag_policy-changes.md)
+- [community-engagement](school_board_60_tag_community-engagement.md)
+- [special-education-support](school_board_60_tag_special-education-support.md)
+- [school-safety](school_board_60_tag_school-safety.md)
+- [state-legislation](school_board_60_tag_state-legislation.md)
+- [school-board-ethics](school_board_60_tag_school-board-ethics.md)
+- [educattional-techology](school_board_60_tag_educattional-techology.md)
+- [technology-contract](school_board_60_tag_technology-contract.md)
+- [curriculum-transparency](school_board_60_tag_curriculum-transparency.md)

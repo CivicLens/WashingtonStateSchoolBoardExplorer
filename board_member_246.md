@@ -1,6 +1,6 @@
-# Positions Supported by Michael Brondi (CONCRETE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Loujanna Rohrer (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Michael Brondi | CONCRETE_SCHOOL_DISTRICT | None |
+| Loujanna Rohrer | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2027 |
 

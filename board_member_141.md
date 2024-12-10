@@ -1,6 +1,6 @@
-# Positions Supported by Pete Miller (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
+# Positions Supported by Alberto Laverde (SKYKOMISH_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Pete Miller | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
+| Alberto Laverde | SKYKOMISH_SCHOOL_DISTRICT | 2021-2027 |
 

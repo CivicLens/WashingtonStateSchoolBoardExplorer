@@ -1,6 +1,6 @@
-# Positions Supported by MATTHEW TRUSCOTT (EPHRATA_SCHOOL_DISTRICT, Term: 2024-2025)
+# Positions Supported by John Kennedy (PASCO_SCHOOL_DISTRICT, Term: November 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| MATTHEW TRUSCOTT | EPHRATA_SCHOOL_DISTRICT | 2024-2025 |
+| John Kennedy | PASCO_SCHOOL_DISTRICT | November 2027 |
 

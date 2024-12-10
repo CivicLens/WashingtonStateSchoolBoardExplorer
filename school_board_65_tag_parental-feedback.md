@@ -1,18 +1,5 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: parental-feedback
 
-## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District #504 board meeting on February 15, 2024, addressed significant community concerns regarding a bond proposal for school safety and infrastructure that failed to pass in the recent election, receiving only 50.98% approval. Community members emphasized the urgent need for the bond to be presented again, highlighting safety and security as critical deficiencies in education. Superintendent David VanderYacht acknowledged the results and encouraged the board to develop a plan for potentially resubmitting the bond with adjustments. The meeting also included discussions on nursing services within the district, focusing on the responsibilities of school nurses and the mental health aspects of their roles, with plans for policy updates. The board scheduled a special meeting for February 20, 2024, to further discuss the bond issue and include public comments.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-
 ## 2023-08-31 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
 The Lynden School Board meeting focused on a proposed bond to address capital facility needs. The Bond Planning Task Force (BPTF) presented its recommendations, emphasizing the urgency of addressing deteriorating building conditions. Public comment highlighted the importance of community engagement and outreach to secure support for the bond.  The board discussed plans for forming a citizens committee to advocate for the bond's passage and acknowledged the need for a contingency plan in case it fails. Additionally, the board reviewed upcoming events, including the WSSDA General Assembly, where they will have an opportunity to vote on legislative measures.

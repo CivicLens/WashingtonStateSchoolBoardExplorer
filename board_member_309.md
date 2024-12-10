@@ -1,6 +1,6 @@
-# Positions Supported by Jamie Williams (COLLEGE_PLACE_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Denise Hendrickson (YELM_COMMUNITY_SCHOOLS, Term: 1998-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jamie Williams | COLLEGE_PLACE_SCHOOL_DISTRICT | 2023-2027 |
+| Denise Hendrickson | YELM_COMMUNITY_SCHOOLS | 1998-2027 |
 

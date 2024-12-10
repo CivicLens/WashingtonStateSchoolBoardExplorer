@@ -1,6 +1,6 @@
-# Positions Supported by Paulette Gilliardi (EATONVILLE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Julie Sandin (CARBONADO_HISTORICAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Paulette Gilliardi | EATONVILLE_SCHOOL_DISTRICT | None |
+| Julie Sandin | CARBONADO_HISTORICAL_SCHOOL_DISTRICT | None |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Chad Lower (QUINAULT_LAKE_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Ryan Cristelli (ELMA_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chad Lower | QUINAULT_LAKE_SCHOOL_DISTRICT | 2025 |
+| Ryan Cristelli | ELMA_SCHOOL_DISTRICT |  |
 

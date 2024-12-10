@@ -1,6 +1,6 @@
-# Positions Supported by Stacy Mills (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Charley Simpson (TUKWILA_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Stacy Mills | NORTH_KITSAP_SCHOOL_DISTRICT | 2023-2027 |
+| Charley Simpson | TUKWILA_SCHOOL_DISTRICT | 2021-2025 |
 

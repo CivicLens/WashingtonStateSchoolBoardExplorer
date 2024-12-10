@@ -1,6 +1,6 @@
-# Positions Supported by Lauren Miehe (EASTMONT_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Jeremy Wheatley (DAYTON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Lauren Miehe | EASTMONT_SCHOOL_DISTRICT | 2023-2027 |
+| Jeremy Wheatley | DAYTON_SCHOOL_DISTRICT | None |
 

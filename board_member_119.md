@@ -1,47 +1,43 @@
-# Positions Supported by Luckisha Phillips (FEDERAL_WAY_PUBLIC_SCHOOLS, Term: 2018-2027)
+# Positions Supported by Jane Aras (BELLEVUE_SCHOOL_DISTRICT, Term: December 2021 - November 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Luckisha Phillips | FEDERAL_WAY_PUBLIC_SCHOOLS | 2018-2027 |
+| Jane Aras | BELLEVUE_SCHOOL_DISTRICT | December 2021 - November 2025 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-11-12 | voted yes on approval of the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
-| 2024-10-22 | voted yes on Resolution 2024-14: Cancellation of Warrants | Seconded by Vice President Luckisha Phillips. |
-| 2024-10-22 | voted yes on International Union of Operating Engineers Collective Bargaining Agreement | Vice President Luckisha Phillips moved that the Board of Education approve the collective bargaining agreement between t...[truncated, use api for full text] |
-| 2024-10-08 | voted yes on approval of the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
-| 2024-10-08 | voted yes on approval of the Meeting Agenda | Seconded by Vice President Luckisha Phillips. |
-| 2024-09-24 | voted yes on approval of Resolution 2024-13: Authorization of Surplus Disposition | Vice President Luckisha Phillips moved that the Board of Education approve Resolution 2024-13: Authorization of Surplus ...[truncated, use api for full text] |
-| 2024-09-24 | voted yes on approval of Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of September 24...[truncated, use api for full text] |
-| 2024-09-05 | voted yes on FWEA-ESP Collective Bargaining Agreement | Vice President Luckisha Phillips moved that the Board of Education approve the collective bargaining agreement between t...[truncated, use api for full text] |
-| 2024-09-05 | voted yes on FWEA Collective Bargaining Agreement | Seconded by Vice President Luckisha Phillips. |
-| 2024-08-27 | voted yes on the Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of August 27, 2...[truncated, use api for full text] |
-| 2024-08-27 | voted yes on the 2024-25 Board Meeting Schedule | Vice President Luckisha Phillips moved that the Board of Education approve the 2024-25 Board Meeting Schedule as submitt...[truncated, use api for full text] |
-| 2024-08-27 | voted yes on Resolution 2024-12, adopting the 2024-25 Budget | Seconded by Vice President Luckisha Phillips. |
-| 2024-07-23 | voted yes on the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
-| 2024-07-23 | voted yes on Resolution 2024-11: Concerning Termination Agreement | Seconded by Director Trudy Davis. |
-| 2024-07-23 | voted yes on Resolution 2024-06: FWPS 2025 Capital Facilities Plan | Seconded by Director Trudy Davis. |
-| 2024-07-23 | voted yes on Resolution 2024-05: Authorization of Agreement and Special Use Permit | Seconded by Director Trudy Davis. |
-| 2024-06-11 | voted yes on the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
-| 2024-05-28 | voted yes on issuance of contracts to certificated teachers | Vice President Luckisha Phillips moved that the Board of Education approve the issuance of contracts to all certificated...[truncated, use api for full text] |
-| 2024-05-28 | voted yes on issuance of contracts to certificated administrators, classified administrators, and non-represented admini...[truncated, use api for full text] | Director Trudy Davis moved that the Board of Education approve the issuance of contracts to all certificated administrat...[truncated, use api for full text] |
-| 2024-05-28 | voted yes on compliance of Executive Limitation 1: Human Resources | Vice President Luckisha Phillips moved that the Board of Education approve that Executive Limitation 1: Human Resources ...[truncated, use api for full text] |
-| 2024-05-28 | voted yes on approval of the Required Approvals Agenda | Director Quentin Morris moved that the Board of Education approve the Required Approvals Agenda of May 28, 2024 as submi...[truncated, use api for full text] |
-| 2024-04-23 | voted yes on approval of the Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of April 23, 20...[truncated, use api for full text] |
-| 2024-04-23 | voted yes on approval of a one-year contract extension for Superintendent Dr. Dani Pfeiffer | Vice President Luckisha Phillips moved that the Board of Education approve a one-year contract extension for Superintend...[truncated, use api for full text] |
-| 2024-04-23 | voted yes on approval of Resolution 2024-03: Authorization of Surplus Disposition Requirements of RCW 28A.335.180 | Vice President Luckisha Phillips moved that the Board of Education approve Resolution 2024-03. |
-| 2024-03-26 | voted yes on approval of the Required Approvals Agenda | Director Trudy Davis moved that the Board of Education approve the Required Approvals Agenda of March 26, 2024 as submit...[truncated, use api for full text] |
-| 2024-03-26 | voted yes on Sub End 3 - A Voice - Whole Child | Vice President Luckisha Phillips moved that the Board of Education approve that Sub End 3 - A Voice - Whole Child: Perso...[truncated, use api for full text] |
-| 2024-03-12 | voted yes on approval of the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
-| 2024-03-12 | voted yes on approval of the Meeting Agenda | Director Trudy Davis moved that the Board of Education approve the Meeting Agenda of March 12, 2024 as submitted. Second...[truncated, use api for full text] |
-| 2024-02-27 | voted yes on approval of the Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of February 27,...[truncated, use api for full text] |
-| 2024-02-27 | voted yes on approval of Sub End 2 - A Dream - Academic Achievement is in compliance | Vice President Luckisha Phillips moved that the Board of Education approve that Sub End 2 - A Dream - Academic Achieveme...[truncated, use api for full text] |
-| 2024-02-13 | voted yes on approval of the Required Approvals Agenda | Seconded by Vice President Luckisha Phillips. |
-| 2024-02-13 | voted yes on Resolution 2024-02: Authorization of Surplus Disposition Requirements | Vice President Luckisha Phillips moved that the Board of Education approve Resolution 2024-02 as submitted. |
-| 2024-01-23 | voted yes on approval of the Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of January 23, ...[truncated, use api for full text] |
-| 2024-01-23 | voted yes on Sub End 1 compliance | Vice President Luckisha Phillips moved that the Board of Education approve that Sub End 1 - Each Scholar - Graduation an...[truncated, use api for full text] |
-| 2024-01-09 | voted yes on the Required Approvals Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Required Approvals Agenda of January 9, 2...[truncated, use api for full text] |
-| 2024-01-09 | voted yes on the Meeting Agenda | Vice President Luckisha Phillips moved that the Board of Education approve the Meeting Agenda of January 9, 2024 as subm...[truncated, use api for full text] |
+| 2024-11-25 | voted yes on ratification of the Tentative Agreement (TA) with IUOE | Director Aras was present and voted in favor of the motion. |
+| 2024-10-03 | voted yes on motion to approve the 2024-2025 District CTE Plan | The Motion was approved by unanimous voice vote |
+| 2024-10-03 | voted yes on motion to approve Consent Agenda | The Motion was approved by unanimous voice vote |
+| 2024-08-15 | voted yes on motion to approve the 2025 Legislative Priorities | Director Bloch moved to approve the 2025 Legislative Priorities at 5:28 pm. |
+| 2024-08-15 | voted yes on motion to approve Resolution 2024-14: Capital Interest Transfer to General Fund | Director Bloch moved to approve Resolution 2024-14 at 5:15 pm. |
+| 2024-08-15 | voted yes on motion to approve Resolution 2024-13: Final Acceptance of the Old Sunset School Demolition | Director Watson moved to approve Resolution 2024-13 at 4:50 pm. |
+| 2024-08-15 | voted yes on motion to approve Resolution 2024-12: Capital Projects Fund Transfer to General Fund | Director Watson moved to approve Resolution 2024-12 at 5:12 pm. |
+| 2024-08-15 | voted yes on motion to approve Resolution 2024-11: Adoption of the 2024-2025 Annual Budget | Director Bloch moved to approve Resolution 2024-11 at 5:10 pm. |
+| 2024-08-01 | voted yes on motion to approve the 2024-2025 Annual Plan | Motion 2024-0801-04: Director Aras moved to approve the 2024-2025 Annual Plan |
+| 2024-06-20 | voted yes on approval of Superintendent Employment Contract for Dr. Aramaki | Motion 2024-0620-07: President Carolyn Watson moved to approve the issuance of a Superintendent Employment Contract for ...[truncated, use api for full text] |
+| 2024-06-20 | voted yes on approval of Resolution 2024-08: Purchase of Anderson Property | Motion 2024-0620-06: President Carolyn Watson moved to approve Resolution 2024-08: The Purchase of the Anderson Property |
+| 2024-06-20 | voted yes on approval of Resolution 2024-07: Sale of Somerset Property II | Motion 2024-0620-06: President Carolyn Watson moved to approve Resolution 2024-07: The Sale of Somerset Property II |
+| 2024-06-20 | voted yes on approval of Collective Bargaining Agreement for Certified Administrators | Motion 2024-0620-03: Director Phil Bloch moved to approve the Collective Bargaining Agreement for Certified Administrato...[truncated, use api for full text] |
+| 2024-06-20 | voted yes on approval of Collective Bargaining Agreement for AISP | Motion 2024-0620-04: President Carolyn Watson moved to approve Collective Bargaining for AISP |
+| 2024-06-20 | voted yes on approval of 2024-2029 BSD Sustainability Plan | Motion 2024-0620-05: Director Phil Bloch moved to approve the 2024-2029 BSD Sustainability Plan |
+| 2024-05-02 | voted yes on motion 2024-0502-06 to approve amended summer board meeting schedule | The motion was approved by unanimous voice vote. |
+| 2024-05-02 | voted yes on motion 2024-0502-04 to approve Resolution 2024-04: Capital Fund Transfer | The motion was approved by unanimous voice vote. |
+| 2024-05-02 | voted yes on motion 2024-0502-03 to approve Resolution 2024-03: General Fund Extension | The motion was approved by unanimous voice vote. |
+| 2024-05-02 | voted yes on motion 2024-0502-02 to approve the Consent Agenda | The motion was approved by unanimous voice vote. |
+| 2024-05-02 | voted yes on motion 2024-0502-01 to approve the agenda | The motion was approved by unanimous voice vote. |
+| 2024-04-04 | voted yes on motion to approve the consent agenda | Motion 2024-0404-02: Approve Consent Agenda was approved by unanimous voice vote. |
+| 2024-03-07 | voted yes on motion 2024-0307-04 to approve 2024 Board Liaisons | The motion included the appointment of legislative representatives as liaisons to Bellevue City Council and the City of ...[truncated, use api for full text] |
+| 2024-02-26 | voted yes on appointment of Cindy Rogan to fill the District 3 Director Vacancy | Directors Aras, Block and Webster voting yes. |
+| 2024-02-08 | voted yes on the consent agenda | Motion 2024-0208-02: Approve Consent Agenda was approved by unanimous voice vote |
+| 2024-01-25 | voted yes on motion 2024-0125-04 to approve the Updated 2023-24 Policy Schedule | The motion was to approve the updated policy schedule. |
+| 2024-01-25 | voted yes on motion 2024-0125-03 to approve the Award of Contract for Mahlum Architects | The motion was to approve the contract for Mahlum Architects for the Big Picture School. |
+| 2024-01-25 | voted yes on motion 2024-0125-02 to approve the Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| 2024-01-11 | voted yes on motion 2024-0111-04 to approve the 2024 Legislative Priorities | The motion was discussed under Board Business. |
+| 2024-01-11 | voted yes on motion 2024-0111-03 to approve the 2024 Multilingual Learner Education Report | The motion was part of the reports presented during the meeting. |
+| 2024-01-11 | voted yes on motion 2024-0111-02 to approve Consent Agenda | The Consent Agenda included various approvals such as meeting minutes, personnel elections, and travel. |
+| 2023-12-14 | voted yes on motion to approve the consent agenda | The motion was approved by unanimous voice vote. |
+| 2023-12-14 | voted yes on motion to approve Resolution 2023-24 for Sammamish High School Food Classroom Renovations | The Motion was approved by unanimous voice vote. |
 

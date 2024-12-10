@@ -1,39 +1,33 @@
-# Positions Supported by Jim Verburg (LYNDEN_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Steve Childs (FERNDALE_SCHOOL_DISTRICT, Term: 11/2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jim Verburg | LYNDEN_SCHOOL_DISTRICT | 2027 |
+| Steve Childs | FERNDALE_SCHOOL_DISTRICT | 11/2025 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-09-05 | Voted yes on the motion to approve the letter in response to the board’s interest in communicating with the WIAA regardi...[truncated, use api for full text] | Director Owsley motioned to approve the drafted letter in response to the board’s interest in communicating with the WIA...[truncated, use api for full text] |
-| 2024-09-05 | Voted yes on the motion to approve the consent agenda | Director Owsley motioned to approve the consent agenda. Seconded by Director Brar. Motion carried by voice vote.
-Board V...[truncated, use api for full text] |
-| 2024-07-11 | Approved consent agenda | No context provided |
-| 2024-07-11 | Approved agenda | No context provided |
-| 2024-07-11 | Approved Running Start agreement with Bellingham Technical College | No context provided |
-| 2024-07-11 | Approved Northwest Educational Service District Agreement | No context provided |
-| 2024-06-20 | voted yes on motion to approve the coaching & extracurricular salary schedule as submitted. | Director Owsley motioned to approve the coaching & extracurricular salary schedule as submitted. Seconded by Director Br...[truncated, use api for full text] |
-| 2024-05-16 | voted yes on motion to approve updated Policy 6905- Site Acquisition | Policy 6905- Site Acquisition |
-| 2024-05-16 | voted yes on motion to approve the Interlocal Agreement with Whatcom County for Behavioral Health Services Support for 2...[truncated, use api for full text] | Interlocal Agreement- Whatcom County Behavioral Health- 24/25 |
-| 2024-05-16 | voted yes on motion to approve Director Brar as the WIAA representative | Election of WIAA Representative |
-| 2024-05-02 | voted yes on motion to approve updated Policy 2124- Equivalency Credit Opportunities as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to approve Resolution #06-24- WIAA Membership Renewal for the 2024/2025 school year | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to amend Policy 2413 to include “those available within the school district or at a skill center”  | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-05-02 | voted yes on motion to adopt Policy 2413 as amended | Motion carried by voice vote. Advisory Vote: 1-0; Board Vote: 4-0. |
-| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding unfunded mandates | Director Brar motioned to approve proposed new position for submission to WSSDA regarding unfunded mandates. |
-| 2024-04-04 | voted yes on motion to approve proposed new position for submission to WSSDA regarding local control legislation | Director Brar motioned to approve proposed new position for submission to WSSDA regarding local control legislation. |
-| 2024-04-04 | voted yes on motion to approve amended position regarding student access to mental health services | Motion: Approve amended proposed position to include the amendment above for submission to WSSDA |
-| 2024-03-21 | voted yes on motion to approve updated Policy 5005- Employment and Volunteers | Policy 5005 pertains to employment and volunteer practices within the school district. |
-| 2024-03-21 | voted yes on motion to approve the overnight trip request as submitted by LHS teacher, Jody Bogues | The overnight trip request was for a school-related activity led by teacher Jody Bogues. |
-| 2024-03-21 | voted yes on motion to approve the interlocal agreement with Bellingham School District | The interlocal agreement outlines terms of cooperation between Lynden School District and Bellingham School District. |
-| 2024-03-07 | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
-| 2024-03-07 | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| 2024-03-07 | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| 2024-02-08 | voted yes on motion to approve the consent agenda items | Motion to approve the consent agenda items |
-| 2024-01-25 | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| 2024-01-11 | voted yes on postponing the approval of the updated Nondiscrimination in Hiring Plan | Director Verburg motioned to postpone the approval of the updated Nondiscrimination in Hiring Plan as presented. Seconde...[truncated, use api for full text] |
-| 2024-01-11 | voted yes on approving all School Improvement Plans as presented | Seconded by Director Verburg. Motion carried by voice vote. |
+| 2024-09-24 | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| 2024-09-24 | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| 2024-09-24 | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| 2024-09-24 | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| 2024-08-27 | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
+| 2024-08-27 | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
+| 2024-08-27 | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
+| 2024-08-27 | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
+| 2024-08-27 | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
+| 2024-08-27 | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
+| 2024-07-30 | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| 2024-07-30 | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| 2024-07-30 | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| 2024-07-30 | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
+| 2024-07-30 | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| 2024-07-30 | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
+| 2024-03-26 | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
+| 2024-03-26 | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
+| 2024-03-26 | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
+| 2024-03-26 | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
+| 2024-03-26 | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
+| 2024-02-27 | voted yes | Motion to adjourn the meeting at 9:43pm |
 

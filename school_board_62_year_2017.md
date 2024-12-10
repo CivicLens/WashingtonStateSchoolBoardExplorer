@@ -1,5 +1,17 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2017
 
+## 2017-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board minutes detail a regular meeting on December 6, 2017. Two resolutions were unanimously approved: Resolution 32-17 and Resolution 33-17, relating to the sale of real estate parcel 380316504243.  The meeting also included informational items from school board directors regarding their attendance at the WSSDA Annual Conference. Ms. Diaz Hackler discussed a potential presentation on the district's 4x8 schedule and requested a discussion on Boards of Distinction be added to a future retreat agenda. Other updates included Ms. Peterson addressing parental questions about course selection under the new 4x8 schedule and Ms. Bashaw sharing insights from her visit with Squalicum High School GRADS students. The meeting concluded with an assessment by Ms. Diaz Hackler and an adjournment time of 6:47 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-06-minutes.txt)
+
+## 2017-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors visited Columbia Elementary School on December 5, 2017. The meeting focused on discussing the school's outcomes and their connection to the Bellingham Promise.  The board also learned about the work of the Columbia Parent Association in supporting equity and inclusion. Additionally, they observed classroom practices aimed at fostering the social and emotional development of students. No specific policies were mentioned or discussed during the visit.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-05-minutes.txt)
+
 ## 2017-11-07 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors visited Carl Cozier Elementary School on November 7, 2017.  The purpose of the visit was to observe how the school utilizes lunch and recess periods to support social-emotional learning.  The board also learned about the implementation of resources from the Elementary Technology Pilot program, which are being used to enhance inquiry-based learning and family engagement. The meeting concluded at 8:30 a.m.

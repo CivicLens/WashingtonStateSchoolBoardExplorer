@@ -1,6 +1,6 @@
-# Positions Supported by Mike Aman (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2021 - 11/2025)
+# Positions Supported by Jessica Aws (OAK_HARBOR_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mike Aman | CHIMACUM_SCHOOL_DISTRICT | 11/2021 - 11/2025 |
+| Jessica Aws | OAK_HARBOR_SCHOOL_DISTRICT | 2023-2027 |
 

@@ -1,26 +1,12 @@
 # Meeting Summaries for Tag: budget-cuts
 
-## 2024-05-09 - VASHON_ISLAND_SCHOOL_DISTRICT (Minutes)
+## 2024-08-02 - YAKIMA_SCHOOL_DISTRICT (Minutes)
 
-The Vashon Island School District (VISD) board meeting focused on budget reductions for the 2024-25 school year, with significant discussions surrounding potential cuts to Tier II services, which provide additional support for students. Public comments highlighted concerns from various stakeholders, including parents and educators, emphasizing the importance of maintaining nursing and counseling services within the budget. The board acknowledged the Vashon Schools Foundation's fundraising efforts, which raised $15,000 towards restoring cuts to nursing staff and a counselor position. Superintendent Dr. Slade McSheehy presented revisions to budget documents and outlined the timeline for budget hearings, stressing the need for timely action on proposed reductions due by May 15, to avoid limiting options for staff layoffs. The meeting underscored the community's engagement and the board's responsibility to balance fiscal constraints while preserving essential educational services.
+The Yakima School District #7 board meetings in August 2024 focused on budget concerns and special education support. During the August 5th meeting, Frances Guerrero, YEA President, highlighted the detrimental effects of budget cuts, particularly on custodians and paraprofessionals, which impact teaching and special education needs. The board approved Resolution 07.23.24 for a Program Reduction in Force for the 2024-25 school year, outlining 39 FTE reductions while clarifying that no paraprofessionals would be laid off but reassigned. The board also discussed an interlocal agreement with West Valley School District to lower food costs and approved a contract for Special Education services not to exceed $2,000,000.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/king/school_boards/vashon_island_school_district/2024/2024-05-09-minutes.txt)
+In the August 20th Business Board Meeting, the board adopted Resolution 08.23.24, which presented the 2024-25 budget without a deficit, despite community opposition to budget reductions. Superintendent Trevor Greene discussed rising costs for school districts and the need for community engagement through surveys to gather feedback on budgetary decisions. The board's actions reflect ongoing efforts to navigate budget constraints while maintaining support for special education services and ensuring community involvement in decision-making processes.
 
-## 2024-04-29 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 held a special board meeting on April 29, 2024, to discuss and take action on Resolution 2324-08, which pertains to the adoption of a Reduced Educational Program Plan for the 2024-2025 school year. This decision follows the board's prior meeting where the resolution was tabled. Superintendent Dr. Christopher Granger acknowledged the input from the SEIU and indicated that while the district does not wish to reduce educational programs, a reduction is deemed necessary due to current financial constraints. Various directors provided their insights, with Director Creydt expressing a desire for further discussion and clarity on budget allocations, while Director Swinburnson emphasized the importance of collaboration with legislators. The board ultimately voted unanimously (5-0) to adopt the resolution, although Director Creydt noted that the adopted plan should remain open for future adjustments.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-04-29-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Erika Creydt](board_member_315.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
-| [Ben Lazarus](board_member_316.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
-| [Cliff Freeman](board_member_317.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
-| [Ryan Swinburnson](board_member_318.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
-| [Steve Galbraith](board_member_319.md) | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/yakima_school_district/2024/2024-08-02-actionletterforaugustmeeting-minutes.txt)
 
 ## 2023-03-27 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

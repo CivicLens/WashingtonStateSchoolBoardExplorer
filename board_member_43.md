@@ -1,6 +1,6 @@
-# Positions Supported by Kathy Corbin (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Aneesha Dieu (DAYTON_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kathy Corbin | BRIDGEPORT_SCHOOL_DISTRICT | December 2025 |
+| Aneesha Dieu | DAYTON_SCHOOL_DISTRICT | 2021-2027 |
 

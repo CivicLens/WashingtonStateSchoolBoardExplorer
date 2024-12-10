@@ -1,6 +1,6 @@
-# Positions Supported by Darby Kaikkonen (TUMWATER_SCHOOL_DISTRICT, Term: 2019-2025)
+# Positions Supported by ROBERT HENRY JR (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Darby Kaikkonen | TUMWATER_SCHOOL_DISTRICT | 2019-2025 |
+| ROBERT HENRY JR | RAINIER_SCHOOL_DISTRICT | None |
 

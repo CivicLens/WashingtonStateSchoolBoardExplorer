@@ -1,8 +1,8 @@
 # Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: racial-equity
 
-## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+## 2021-01-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
-The Meridian School District #505 held a regular school board meeting on June 26, 2024, where several key resolutions and policies were discussed and approved. Notably, the board adopted the 2024-25 Budget, Resolution 08-24, which had no public comment against it. Additionally, the board approved the facilities naming and dedication committee's recommendation to name the North Gym at Meridian High School as Diane Axelson Court. The meeting also included a first review of several policies, including Procedure 2161P, which pertains to Special Education and Related Services for Eligible Students, and Procedure 3246P, focusing on Restraint, Isolation, and Other Uses of Reasonable Force. These procedures will be revisited for approval at the next board meeting on July 23, 2024.
+The Meridian School District #505 Board met on January 13, 2021 via Zoom.  The meeting included a second reading and adoption of Policy and Procedure 2336: Required Observances which mandates observance of Veterans Day, Constitution Day, Temperance and Good Citizenship Day, and Disability History Month. The board also adopted Policy and Procedure 3232: Parent and Student Rights in Administration of Surveys, Analysis or Evaluation and Policy and Procedure 3244: Prohibition of Corporal Punishment Track Changes.  The board reviewed the updated MSD Reopening Plan which addressed the ongoing COVID-19 pandemic. They also discussed the development of two new committees: the MSD Equity and Access Committee and the MSD Community Involvement Committee. The meeting concluded with an executive session.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-juneboardmeeting-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-01-13-minutes.txt)
 

@@ -1,6 +1,6 @@
-# Positions Supported by Noah Thompson (PENINSULA_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Karen Carr (EATONVILLE_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Noah Thompson | PENINSULA_SCHOOL_DISTRICT | None |
+| Karen Carr | EATONVILLE_SCHOOL_DISTRICT | None |
 

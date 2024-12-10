@@ -1,6 +1,6 @@
-# Positions Supported by Erik Youngberg (NORTH_MASON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Debbie Olig (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Erik Youngberg | NORTH_MASON_SCHOOL_DISTRICT | None |
+| Debbie Olig | GRAPEVIEW_SCHOOL_DISTRICT |  |
 

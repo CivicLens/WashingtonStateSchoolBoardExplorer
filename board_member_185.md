@@ -1,6 +1,6 @@
-# Positions Supported by Les Okonek (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Cecile Baggenstos (PE_ELL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Les Okonek | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Cecile Baggenstos | PE_ELL_SCHOOL_DISTRICT | None |
 

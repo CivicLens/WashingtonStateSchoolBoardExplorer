@@ -1,63 +1,10 @@
 # Meeting Summaries for LYNDEN_SCHOOL_DISTRICT with Tag: school-board-ethics
 
-## 2024-07-08 - LYNDEN_SCHOOL_DISTRICT (Minutes)
+## 2024-10-12 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District #504 Board of Directors held an executive session on July 8, 2024, primarily to discuss potential litigation with legal counsel, as indicated by the Washington state law RCW 42.30.110(1)(i). The meeting was called to order by Director Hickman, with all directors present, along with Superintendent David VanderYacht and legal counsel Jay Schulkin. The executive session was initially scheduled to conclude at 7:15 PM but was extended multiple times, ultimately adjourning at 8:25 PM. There were no specific policy changes or resolutions discussed in the available minutes, but the focus on potential litigation suggests ongoing legal considerations that may impact district policies or operations.
+The Lynden School District Board of Directors convened on October 12, 2024, to discuss several key topics including the district's strategic priorities and key performance indicators, specifically focusing on multilingual language proficiency growth. Melissa Valley, Melissa VanDalen, and Suzie Cartagena facilitated this discussion. Additionally, Superintendent David VanderYacht presented an update on the long-range capital facilities plan from June 2023, which included details on impact fees. The meeting concluded with a motion to adjourn made by Director Hickman at 12:55pm, reflecting the board's commitment to effective governance and transparency in its operations.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-07-08-minutes.txt)
-
-## 2024-06-06 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board Meeting on June 6, 2024, included discussions on various community concerns, notably from a community member who opposed biological men competing in women’s sports, highlighting the ongoing debates surrounding LGBTQ issues in athletics. The meeting also featured community engagement initiatives, with members of the Citizens for Lynden Schools group presenting information on an upcoming bond election, emphasizing the district's efforts to inform and involve the community in educational developments. Additionally, the board approved updated Policy 2255 regarding Alternative Learning Experience Courses, reflecting a commitment to adapt educational policies as needed. The meeting concluded with the adoption of Resolution #08-24, which emphasizes prioritizing local control and opposing unfunded mandates.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-06-06-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to adopt the science curriculum recommended by the Instructional Materials Committee for Physical Sc...[truncated, use api for full text] | The motion was to adopt a new science curriculum for LHS. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 4-year CTE plan as presented by Kent Victor and John Grubbs. | The motion was to approve the district's Career & Technical Education 4-year plan. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 2255- Alternative Learning Experience Courses | The motion was to approve an updated policy regarding alternative learning experience courses. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the second lease amendment with Inspire Development Center. | The motion was to approve a lease amendment with Inspire Development Center. |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #08-24- WSSDA Prioritization of Local Control & No Unfunded Mandates. | The motion was to approve a resolution prioritizing local control and opposing unfunded mandates. |
-
-## 2024-04-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District #504 board meeting held on April 13, 2024, focused on several key areas, including a review of the district's strategic planning process and the development of long-term strategic plans to enhance student outcomes. The board discussed the results of their self-assessment conducted by the Washington State School Directors' Association (WSSDA) and explored ways to improve governance and leadership for better student results. Additionally, they reviewed Key Performance Indicators related to academic performance and engagement, such as 3rd Grade Reading and Graduation Rates. The agenda also included discussions on the process for developing board meeting agendas and a review of the board handbook and Policy 1220. No specific policy changes were reported during this meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-04-13-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the agenda | Director Owsley made a motion to approve the agenda. Seconded by Director Martinez. Motion carried by voice vote. |
-
-## 2024-02-15 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District #504 board meeting on February 15, 2024, addressed significant community concerns regarding a bond proposal for school safety and infrastructure that failed to pass in the recent election, receiving only 50.98% approval. Community members emphasized the urgent need for the bond to be presented again, highlighting safety and security as critical deficiencies in education. Superintendent David VanderYacht acknowledged the results and encouraged the board to develop a plan for potentially resubmitting the bond with adjustments. The meeting also included discussions on nursing services within the district, focusing on the responsibilities of school nurses and the mental health aspects of their roles, with plans for policy updates. The board scheduled a special meeting for February 20, 2024, to further discuss the bond issue and include public comments.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-15-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Tonya Hickman](board_member_326.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve college visits | Motion to approve college visits in eastern Washington and a college in Idaho on April 17-19, 2024. |
-
-## 2024-02-03 - LYNDEN_SCHOOL_DISTRICT (Minutes)
-
-The Lynden School District Board of Directors held a special meeting on February 3, 2024, focused on several key areas including board functions, legislative engagement, and district priorities. The board discussed the logistics of placing items on meeting agendas and emphasized the importance of transparency with the community. They also reviewed the current legislative session and the need for advocating local control. A significant portion of the meeting was dedicated to discussing standards, measures, and goals as part of the district's long-term strategic planning process. Director Tonya Hickman led the meeting and motioned to adjourn at 12:30 pm, with Superintendent David VanderYacht in attendance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-02-03-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-10-12-minutes.txt)
 
 ## 2023-10-13 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

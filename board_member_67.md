@@ -1,6 +1,6 @@
-# Positions Supported by Anita Waller (EPHRATA_SCHOOL_DISTRICT, Term: 2018-2025)
+# Positions Supported by Amanda Brown (PASCO_SCHOOL_DISTRICT, Term: November 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Anita Waller | EPHRATA_SCHOOL_DISTRICT | 2018-2025 |
+| Amanda Brown | PASCO_SCHOOL_DISTRICT | November 2025 |
 

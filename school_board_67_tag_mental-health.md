@@ -1,21 +1,17 @@
 # Meeting Summaries for MOUNT_BAKER_SCHOOL_DISTRICT with Tag: mental-health
 
-## 2024-07-11 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
+## 2024-10-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
-The regular School Board meeting on July 11, 2024, included significant discussions and actions regarding various policies and community engagement initiatives. Notably, the board approved the 2023-2028 CTE District Wide Plan and the 2023-2024 Carl Perkins Application, both motions made by Ms. Brenna Reaugh and seconded by Ms. Danielle Gray, with unanimous votes of 5-0. The meeting also featured a presentation on State Forest Timber Sales in the Mount Baker School District by Chris Hankey from DNR, indicating ongoing engagement with community resources. Additionally, concerns were raised by Natalie Chavez regarding the School Based Health Clinic, highlighting the board's responsiveness to community feedback. The consent agenda included several routine approvals, such as personnel actions and financial expenditures, ensuring transparency and accountability in the board's operations.
+The School Board meeting held on October 10, 2024, highlighted community engagement initiatives, including a successful first Community Connections meeting at Harmony and an upcoming meeting scheduled for October 17 at the High School Library. The board discussed the importance of mental health, as indicated by Natalie Chavez's concerns regarding the School Based Health Clinic. Additionally, the meeting included updates on various programs, such as the FFA's participation in the Puget Sound Livestock show and the upcoming High School Evening Conferences on October 17. The board also recognized the contributions of staff and expressed appreciation for their efforts at the start of the school year.
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-07-11-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/mount_baker_school_district/2024/2024-10-10-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of 2023-2028 CTE District Wide Plan | Ms. Brenna Reaugh made a motion to approve 2023-2028 CTE District Wide Plan, Ms. Danielle Gray seconded, motion carried,...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of 2023-2028 CTE District Wide Plan | Ms. Brenna Reaugh made a motion to approve 2023-2028 CTE District Wide Plan, Ms. Danielle Gray seconded, motion carried,...[truncated, use api for full text] |
-| [Brenna Reaugh](board_member_340.md) | voted yes on approval of 2023-2024 Carl Perkins Application | Ms. Brenna Reaugh made a motion to approve the 2023-2024 Carl Perkins Application, Ms. Danielle Gray seconded. motion ca...[truncated, use api for full text] |
-| [Danielle Gray](board_member_337.md) | voted yes on approval of 2023-2024 Carl Perkins Application | Ms. Brenna Reaugh made a motion to approve the 2023-2024 Carl Perkins Application, Ms. Danielle Gray seconded. motion ca...[truncated, use api for full text] |
+| [Brenna Reaugh](board_member_347.md) | voted yes on the approval of the agenda with a change | Ms. Brenna Reaugh moved to approve the agenda with the change, Ms. Danielle Gray seconded; motion carried, 5-0. |
+| [Brenna Reaugh](board_member_347.md) | voted yes on the approval of the Consent Agenda | Ms. Brenna Reaugh moved to approve the Consent Agenda, Ms. Danielle Gray seconded; motion carried, 5-0. |
 
 ## 2020-12-10 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 

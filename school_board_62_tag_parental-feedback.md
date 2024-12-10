@@ -2,36 +2,15 @@
 
 ## 2024-10-23 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a special meeting on October 23, 2024, focused on the cell phone policy at Bellingham High School. Students expressed their insights regarding the policy's enforcement, noting that it has become stricter compared to previous years, with many feeling a positive impact on their engagement and interactions. The discussions highlighted the importance of allowing some flexibility, particularly regarding music access during work time, and the need for clearer communication with parents about the policy's expectations. Notably, students indicated that the policy has led to more conversations and participation in class, while some expressed concerns about the challenges faced by parents in retrieving confiscated phones. Superintendent Greg Baker emphasized the value of student voice in informing the school board's decisions, reflecting a commitment to community engagement and responsiveness to student needs.
+The Bellingham School District Board of Directors held a Student Roundtable special meeting on October 23, 2024, to discuss the cell phone policy at Bellingham High School. Students expressed their understanding of the policy, noting that it is stricter compared to previous years and middle school. They reported that the enforcement of the policy has led to increased interpersonal communication among students and improved focus during classes. However, students also highlighted challenges, such as limited access to music during individual work time and difficulties for parents in retrieving confiscated phones. The board emphasized the importance of student voice in shaping policies and will consider feedback from this roundtable to enhance student experiences. Official minutes from the meeting will be posted on the district website.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-23-minutes.txt)
 
 ## 2024-05-22 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors held a Community Linkage Special Meeting on May 22, 2024, focusing on the Bellingham Family Partnership Program (BFPP). Attendees included parents/guardians, school staff, and board directors, as well as Superintendent Greg Baker and various district leadership members. The meeting aimed to gather feedback from families about their experiences with BFPP, highlighting its strengths, areas for improvement, and how it aligns with the district's strategic plan, "The Bellingham Promise." Participants expressed a strong sense of community, valued the program's flexibility, and noted the need for high school options and additional services. The feedback emphasized the importance of partnerships between families and the school, with families appreciating the support and resources available at BFPP.
+The Bellingham School District Board of Directors held a Community Linkage Special Meeting on May 22, 2024, focusing on the Bellingham Family Partnership Program (BFPP). The meeting was attended by parents/guardians, school staff, and board directors, providing a platform for families to share their experiences and feedback regarding the BFPP. Key themes included the strong sense of community, the flexibility and support offered by the program, and the need for improvements such as high school options and additional services. Feedback indicated that many families chose BFPP based on recommendations, highlighting the importance of peer support and the program's capacity to cater to diverse educational needs. Superintendent Greg Baker and Principal Kate Baehr facilitated discussions that underscored the program's strengths and areas for enhancement, emphasizing the collaborative nature of the BFPP in supporting students' educational journeys.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-05-22-minutes.txt)
-
-## 2024-03-26 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a Community Linkage special meeting on March 26, 2024, focused on Career and Technical Education (CTE) programs. The meeting included participation from high school students, parents, community members, and district staff, with a goal to gather feedback on the current CTE offerings and their alignment with the district's strategic plan, The Bellingham Promise. Key discussion points included the strengths of hands-on learning and strong technology offerings, as well as areas for improvement such as increasing agricultural programs and expanding opportunities for middle school students. Attendees expressed a desire for enhanced collaboration with local industries and other school districts to better meet workforce needs. The insights gathered will inform future decisions made by the school board, emphasizing the importance of community engagement in shaping educational programs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-26-minutes.txt)
-
-## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on March 14, 2024, where they addressed several key issues including the adoption of Resolution #08-24, which authorizes the sale of surplus district-owned property on West Maplewood Avenue. No public testimony was offered during the hearing on this resolution. Superintendent Greg Baker reported on budget developments for the 2024-25 school year, indicating that the state is not heavily investing in PreK-12 public education, although there were increases in special education, supplies, and paraeducator staffing. The board discussed monitoring responses for policies EL-3 (Treatment and Communication with Public, Parents and Students), EL-4 (Staff Treatment, Compensation and Evaluation), and Ends 2.1 (Part 1, Student Competence), with commendations for effective communication and outreach efforts. Challenges related to teacher and staff shortages were noted, particularly in relation to substitute availability. The board emphasized the importance of community engagement and the ongoing need for programs that support special education and academic standards.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
 
 ## 2023-10-24 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -60,6 +39,12 @@ The school board meeting minutes detail discussions on various agenda items, inc
 The meeting also included informational reports from board members, highlighting the review of parent and community feedback, appreciation for staff work on the budget, and anticipation for the return to in-person meetings. Discussions centered around logistical planning for a safe return to in-person meetings considering the evolving COVID-19 landscape.  The board assessed the meeting as commendable and adjourned at 6:41 p.m.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2021/2021-08-11-minutes.txt)
+
+## 2020-12-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board met to discuss monitoring reports for two policies: EL-1 (Expectations of Superintendent) and EL-5 (Communication and Counsel to the Board).  The board reviewed feedback on these policies and will submit a final summary version for approval at their next meeting. For policy EL-5, Ms. Rose and Mr. Benjamin were tasked with researching potential edits based on the feedback received. The meeting also included informational reports from school board directors highlighting student activities and reflections on their experiences serving on the board.  The board assessed the meeting as commendable.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/2020-12-09-minutes.txt)
 
 ## 2020-07-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
@@ -144,6 +129,12 @@ The school board meeting focused on several key topics.  Community engagement wa
 The discussion also touched upon academic standards and curriculum transparency, aiming to ensure that students are well-prepared for their future endeavors.  Parental feedback was emphasized as crucial for shaping educational policies and practices. The board highlighted the importance of long-term strategic plans to guide the school district's development and address evolving needs. Additionally, concerns regarding student autonomy and mental health were raised, prompting a conversation about creating supportive environments that empower students and prioritize their well-being.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-03-20-minutes.txt)
+
+## 2017-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board minutes detail a regular meeting on December 6, 2017. Two resolutions were unanimously approved: Resolution 32-17 and Resolution 33-17, relating to the sale of real estate parcel 380316504243.  The meeting also included informational items from school board directors regarding their attendance at the WSSDA Annual Conference. Ms. Diaz Hackler discussed a potential presentation on the district's 4x8 schedule and requested a discussion on Boards of Distinction be added to a future retreat agenda. Other updates included Ms. Peterson addressing parental questions about course selection under the new 4x8 schedule and Ms. Bashaw sharing insights from her visit with Squalicum High School GRADS students. The meeting concluded with an assessment by Ms. Diaz Hackler and an adjournment time of 6:47 p.m.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2017/2017-12-06-minutes.txt)
 
 ## 2017-05-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

@@ -1,6 +1,6 @@
-# Positions Supported by Connor Krebbs (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Randy Hayden (DARRINGTON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Connor Krebbs | MARYSVILLE_SCHOOL_DISTRICT | 2021-2025 |
+| Randy Hayden | DARRINGTON_SCHOOL_DISTRICT | None |
 

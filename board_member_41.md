@@ -1,6 +1,6 @@
-# Positions Supported by Jeremy Wheatley (DAYTON_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Kat Stupka (HOCKINSON_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jeremy Wheatley | DAYTON_SCHOOL_DISTRICT | None |
+| Kat Stupka | HOCKINSON_SCHOOL_DISTRICT | 2023-2027 |
 

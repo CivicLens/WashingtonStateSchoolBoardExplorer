@@ -1,6 +1,6 @@
-# Positions Supported by Terrance Mayers, Sr. (BETHEL_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Connie Moore (NEWPORT_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Terrance Mayers, Sr. | BETHEL_SCHOOL_DISTRICT | 2021-2027 |
+| Connie Moore | NEWPORT_SCHOOL_DISTRICT | None |
 

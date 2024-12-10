@@ -1,6 +1,6 @@
-# Positions Supported by Ty Kuehl (TUMWATER_SCHOOL_DISTRICT, Term: 2024-2025)
+# Positions Supported by JOHN BECKMAN (RAINIER_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Ty Kuehl | TUMWATER_SCHOOL_DISTRICT | 2024-2025 |
+| JOHN BECKMAN | RAINIER_SCHOOL_DISTRICT | None |
 

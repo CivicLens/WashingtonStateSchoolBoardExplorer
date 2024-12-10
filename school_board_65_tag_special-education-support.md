@@ -2,7 +2,7 @@
 
 ## 2024-03-07 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board meeting on March 7, 2024, included discussions on special education programs led by Director of Special Education, Rebecca Morgan, who outlined the services provided and the challenges faced, including space and hiring issues. The board adopted Policy 3411, which accommodates students with seizure disorders or epilepsy, reflecting a commitment to special education support. Community engagement was highlighted when a representative from Citizens for Lynden Schools urged the board to reconsider placing a bond for a new high school on the August ballot, following their decision not to run it in April. The board also discussed upcoming actions related to the school calendar and food services, indicating ongoing efforts to enhance educational operations.
+The Lynden School District Board Meeting on March 7, 2024, included a correction to the previous meeting minutes and approval of the consent agenda, which encompassed various financial reports and personnel recommendations. Notably, the board adopted Policy 3411, which focuses on accommodating students with seizure disorders or epilepsy. Director Martinez highlighted the importance of this policy change for enhancing support for affected students. Additionally, a community member expressed concerns regarding the district's decision not to re-run a bond for a new high school in the upcoming April ballot, urging the board to consider placing it on the August ballot instead. The meeting also featured updates on special education services, including challenges in space and hiring, and a discussion on the high school science curriculum adoption process.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-03-07-minutes.txt)
 
@@ -10,21 +10,21 @@ The Lynden School District Board meeting on March 7, 2024, included discussions 
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Danny Martinez](board_member_330.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to adopt Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy | Policy 3411- Accommodating Students with Seizure Disorders or Epilepsy |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve the 24/25 school calendar with a start date before Labor Day | Motion to approve the 24/25 school calendar with a start date before Labor Day |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 | Resolution #03-24- Food Services, Meal Balances as of June 30, 2023 |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve the overnight trip request submitted by Jordan VanderVeen to transport students to the Kn...[truncated, use api for full text] | Overnight Trip Request |
 
 ## 2024-01-25 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 
-The Lynden School District Board Meeting held on January 25, 2024, included discussions on several key topics, notably school safety and community engagement. Superintendent David VanderYacht provided an overview of the district's Capital Facilities Planning, focusing on upcoming levy and bond funding initiatives, which aim to enhance community resources and address local property tax impacts. Additionally, Director of Finance & Operations, Ben Thomas, presented details on the district’s emergency management and safety procedures, including the implementation of the I Love You Guys program for reunification protocols, and the Standard Response Protocol (SRP) used county-wide. 
+The Lynden School District Board Meeting on January 25, 2024, addressed several key topics including school safety and funding initiatives. Superintendent David VanderYacht provided insights into the district’s Capital Facilities Planning, discussing upcoming levy and bond funding initiatives and their implications for local property taxes. The board also reviewed emergency management and safety procedures, highlighting the use of the I Love You Guys program for reunification protocols and the Standard Response Protocol (SRP) utilized countywide. 
 
-Policy changes were also a significant part of the meeting, with the board approving updated Policy 5010 on Nondiscrimination and Policy 5161 on Civility in the Workplace. Furthermore, they discussed an updated Nondiscrimination in Hiring Plan, which was also approved. Director Martinez motioned against joining a class action lawsuit regarding social media's impact on youth mental health, indicating a focus on mental health issues within the community. The meeting concluded with discussions about advocating for legislative bills, indicating a commitment to community engagement and active participation in local governance.
+Policy changes included the approval of updated Policy 5010 on Nondiscrimination and Policy 5161 on Civility in the Workplace. Additionally, Policy 1400 regarding Meeting Conduct was amended to change the meeting start time from 6:00pm to 6:30pm. Director Martinez expressed interest in legislative matters, particularly House Bill 2458 and its potential impact on the district. Furthermore, student representatives reported on efforts to reestablish a Student Advisory Group, aiming to enhance student engagement. The meeting concluded with discussions on the need for improved facilities, particularly a new high school, as noted by Director Owsley.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/lynden_school_district/2024/2024-01-25-minutes.txt)
 
@@ -32,13 +32,13 @@ Policy changes were also a significant part of the meeting, with the board appro
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Khush Brar](board_member_328.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Jim Verburg](board_member_329.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
-| [Danny Martinez](board_member_330.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
-| [Ken Owsley](board_member_327.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Khush Brar](board_member_335.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Jim Verburg](board_member_336.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to approve updated Policy 1400 with an amended meeting start time of 6:30pm | Motion to amend the language in Policy 1400 to say “6:30pm” instead of “6:00pm” as the meeting start time |
+| [Danny Martinez](board_member_337.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to approve updated Nondiscrimination in Hiring Plan | Motion to approve the updated Nondiscrimination in Hiring Plan |
+| [Ken Owsley](board_member_334.md) | voted yes on motion to not join class action lawsuit regarding social media's effect on youth mental health | Motion to not join the class action lawsuit regarding social media’s effect on youth mental health |
 
 ## 2023-02-23 - LYNDEN_SCHOOL_DISTRICT (Minutes)
 

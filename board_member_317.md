@@ -1,21 +1,26 @@
-# Positions Supported by Cliff Freeman (BLAINE_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Douglas Benjamin (BELLINGHAM_PUBLIC_SCHOOLS, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Cliff Freeman | BLAINE_SCHOOL_DISTRICT | December 2025 |
+| Douglas Benjamin | BELLINGHAM_PUBLIC_SCHOOLS | 2021-2025 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-06-17 | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| 2024-04-29 | voted yes on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | Resolution 2324-08 proposes a reduction in educational programming for the 2024-2025 school year |
-| 2024-04-22 | voted yes to table action on Resolution 2324-08 Adoption of 2024-2025 Reduced Educational Program | The board voted unanimously to table action on adoption of Resolution 2324-08 Adoption of 2024-2025 Reduced Educational ...[truncated, use api for full text] |
-| 2024-03-25 | voted yes on motion to direct the superintendent to engage both the BEA and SEIU unions to explore reopening agreements | Motion by Cliff Freeman, second by Ben Lazarus. |
-| 2024-03-15 | voted yes on motion to appoint Steve Galbraith to the board position representing Director District 5 until the next gen...[truncated, use api for full text] | Appointment of Director - District 5 |
-| 2024-03-15 | voted yes on motion to appoint Ryan Swinburnson to the board position representing Director District 4 until the next ge...[truncated, use api for full text] | Appointment of Director - District 4 |
-| 2024-02-26 | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
-| 2024-02-20 | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
-| 2024-02-15 | voted yes on motion to adjourn | The meeting was adjourned by a unanimous vote at 7:16 p.m. |
-| 2024-01-22 | voted yes on motion to adjourn meeting | There being no further business, the meeting was adjourned by a unanimous vote at 8:37 p.m. |
+| 2024-10-10 | supported drafting both a resolution and a letter to the community regarding funding concerns | Mr. Benjamin shared that the board has expressed interest in taking some kind of action. |
+| 2024-08-15 | voted yes | Approval of consent agenda items 2.18, 2.19, and 2.21: Salish Sea Deaf School Contracts (#2425-026), Avail Home Health, ...[truncated, use api for full text] |
+| 2024-08-15 | voted yes | Approval of consent agenda item 2.17: Opportunity Council-Early Learning and Family Services Agreement (#2425-034) |
+| 2024-06-18 | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
+| 2024-06-18 | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| 2024-06-18 | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
+| 2024-06-18 | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
+| 2024-06-18 | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
+| 2024-05-16 | voted yes on superintendent's progress towards goals | The Board finds that the Superintendent: a. has achieved the goals established in the policy or is making reasonable pro...[truncated, use api for full text] |
+| 2024-04-17 | voted yes on the monitoring response document for Ends 2.1 (Part 2) | The board discussed the feedback contained in the combined monitoring responses for Ends 2.1. |
+| 2024-04-17 | voted yes on the monitoring response document for EL-3 | The board discussed and approved the monitoring response document prepared by Mr. Benjamin. |
+| 2024-03-14 | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
+| 2024-02-22 | voted to delete the first line of section 1 of the EL-9.1 policy | The Board reviewed a Monitoring Report on EL-9.1 Facility Improvement or Development Involving Bond Measure Proposal and...[truncated, use api for full text] |
+| 2024-01-18 | voted yes on motion to accept superintendent's performance evaluation | The Board finds that the Superintendent: a. has achieved the goals established in the policy. |
+| 2023-10-12 | voted yes on consent agenda items | Mr. Benjamin made a motion, seconded by Ms. Mason, to approve the consent agenda items. |
 

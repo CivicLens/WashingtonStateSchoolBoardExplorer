@@ -1,6 +1,6 @@
-# Positions Supported by Chris Dodd (PE_ELL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Mr. Jim Ball (ONALASKA_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chris Dodd | PE_ELL_SCHOOL_DISTRICT | None |
+| Mr. Jim Ball | ONALASKA_SCHOOL_DISTRICT | None |
 

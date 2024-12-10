@@ -1,6 +1,6 @@
-# Positions Supported by Amanda Brown (PASCO_SCHOOL_DISTRICT, Term: November 2025)
+# Positions Supported by CHELSIE MILLER (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Amanda Brown | PASCO_SCHOOL_DISTRICT | November 2025 |
+| CHELSIE MILLER | ORONDO_SCHOOL_DISTRICT | None |
 

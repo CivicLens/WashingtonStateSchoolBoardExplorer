@@ -1,6 +1,6 @@
-# Positions Supported by Dave Larson (TUKWILA_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Ric Lewis (TAHOMA_SCHOOL_DISTRICT, Term: 1-year term through Dec. 2024)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dave Larson | TUKWILA_SCHOOL_DISTRICT | 2027 |
+| Ric Lewis | TAHOMA_SCHOOL_DISTRICT | 1-year term through Dec. 2024 |
 

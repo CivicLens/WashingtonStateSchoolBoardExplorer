@@ -1,6 +1,6 @@
-# Positions Supported by Chad Cornmesser (LIBERTY_SCHOOL_DISTRICT, Term: 2022-2025)
+# Positions Supported by Mark Tomas (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Chad Cornmesser | LIBERTY_SCHOOL_DISTRICT | 2022-2025 |
+| Mark Tomas | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
 

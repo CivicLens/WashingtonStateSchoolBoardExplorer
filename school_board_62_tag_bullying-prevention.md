@@ -1,11 +1,5 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: bullying-prevention
 
-## 2024-02-27 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The special meeting of the Bellingham School District Board of Directors on February 27, 2024, focused on gathering student perspectives, particularly from members of the GSA (Gender and Sexuality Alliance) Club at Whatcom Middle School. The discussions highlighted the importance of safe spaces for LGBTQ+ students, with participants expressing feelings of fear and the need for supportive adult relationships. Key concerns included the visibility and accessibility of gender-neutral restrooms, which many students found uncomfortable or unsafe. The students emphasized the role of the GSA Club as a refuge, fostering a sense of belonging and community. They also called for greater attention to social and emotional well-being and a desire for inclusive education that includes LGBTQ+ history. The meeting underscored the importance of student voice in shaping school policies and improving the overall middle school experience. School Board President Douglas Benjamin and Executive Director of Communications Jackie Brawley acknowledged the value of these discussions in guiding the district's efforts to create a more inclusive environment.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-02-27-minutes.txt)
-
 ## 2020-03-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a Student Roundtable meeting on March 4, 2020, to gather feedback from third-grade students at Carl Cozier Elementary School. The meeting focused on understanding student experiences and perspectives related to school safety, problem-solving, future aspirations, and potential improvements. Students shared their feelings of being loved and supported at school, highlighting instances where friends helped each other. They discussed strategies for resolving conflicts, such as seeking help from adults, using the Kelso's Choice wheel, and taking turns. Bullying emerged as a concern, particularly on the playground.

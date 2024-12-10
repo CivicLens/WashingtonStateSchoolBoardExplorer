@@ -1,6 +1,6 @@
-# Positions Supported by Steve Simmons (PASCO_SCHOOL_DISTRICT, Term: November 2025)
+# Positions Supported by ARMANDO DAVILA (ORONDO_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Steve Simmons | PASCO_SCHOOL_DISTRICT | November 2025 |
+| ARMANDO DAVILA | ORONDO_SCHOOL_DISTRICT | None |
 

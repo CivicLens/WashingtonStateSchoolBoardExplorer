@@ -1,6 +1,6 @@
-# Positions Supported by Mary Hebert (PORT_ANGELES_SCHOOL_DISTRICT, Term: 11/25)
+# Positions Supported by Sara Pipkin (CASHMERE_SCHOOL_DISTRICT, Term: 11/27)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mary Hebert | PORT_ANGELES_SCHOOL_DISTRICT | 11/25 |
+| Sara Pipkin | CASHMERE_SCHOOL_DISTRICT | 11/27 |
 

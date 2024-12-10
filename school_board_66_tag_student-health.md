@@ -1,137 +1,5 @@
 # Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: student-health
 
-## 2024-11-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on November 6, 2024, where several significant topics were discussed. The board reviewed multiple policies, including Policy & Procedure 3205 on Sex Discrimination and Sex-Based Harassment, Policy & Procedure 3206 concerning Pregnant and Parenting Students, and Policy & Procedure 5011 on Sex Discrimination and Sex-Based Harassment of District Staff. These policies are set for a second review and potential approval on November 20, 2024. Additionally, the meeting included a presentation on the Special Education Program Report, which was postponed to the next meeting, reflecting the district's commitment to special education support. Community engagement was highlighted through a public comment by Jerry Smoot, who requested a memorial plaque in honor of Angela Roderick to be placed on the softball batting cage, indicating active involvement from community members in school affairs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-11-06-novemberboardmeeting-minutes.txt)
-
-## 2024-10-09 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on October 9, 2024, during which several policies and agreements were reviewed and approved. Notably, Policy 5409 concerning Unpaid Holidays for Reason of Faith or Conscience and Resolution 11-24 were presented for second review and subsequently approved. Additionally, Policy 5400 regarding Personnel Leave and Policy 3432 on Emergencies were also approved. The board approved the 2024-25 NWESD School Nurse Corps Contract, highlighting a focus on student health and support services. Irene Reither Elementary (IRE) staff recognition was presented, emphasizing family engagement and intervention efforts, showcasing the district's commitment to community engagement. The meeting included no public comments, indicating a lack of community feedback during this session.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-10-09-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve consent agenda items A-F |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve consent agenda items A-F |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve the highly capable program, as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-
-## 2024-06-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on June 26, 2024, where several key resolutions and policy reviews were addressed. The board adopted the 2024-25 Budget (Resolution 08-24) and approved the naming of the North Gym at Meridian High School as Diane Axelson Court. Additionally, the board reviewed and approved the Reduction in Force Resolution 07-24 and the MAT Furlough MOU. Significant first reviews included the MESP Contract for September 1, 2024, through August 31, 2026, and Procedure 2161P, which pertains to Special Education and Related Services for Eligible Students. The latter will be brought back for a second review and approval at the next board meeting, highlighting the district's ongoing commitment to special education support.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-26-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to approve General Obligation Bonds Resolution 06-24 as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-
-## 2024-06-12 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on June 12, 2024, where several policies were reviewed and approved. Notably, Policy 4500 regarding Unmanned Aircraft Systems (Drones), Policy and Procedure 6700 on Nutrition, and Policy and Procedure 6702 concerning Wellness were all approved unanimously. Additionally, the board reviewed Policy and Procedure 6703 on Recess and Physical Activity for the first time, indicating a focus on student health and well-being. The meeting also included discussions about a $75 million bond proposal for educational projects to be presented to voters in November 2024, emphasizing community engagement in funding local education initiatives. The board recognized the contributions of students and staff, including a commendation for the MMS band director and students for their professionalism during a Veterans Day assembly.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-06-12-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to adopt the consent agenda |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to adopt the consent agenda |
-| [Steve Corwin](board_member_333.md) | voted yes | Motion to adopt the consent agenda |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to adopt the consent agenda |
-| [Michelle Simmons](board_member_335.md) | voted yes | Motion to adopt the consent agenda |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Steve Corwin](board_member_333.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| [Jana Haugen](board_member_331.md) | voted yes | Motion to approve Policy  as presented |
-| [Jarrod Karuza](board_member_332.md) | voted yes | Motion to approve Policy  as presented |
-| [Steve Corwin](board_member_333.md) | voted yes | Motion to approve Policy  as presented |
-| [Marty Gray](board_member_334.md) | voted yes | Motion to approve Policy  as presented |
-| [Michelle Simmons](board_member_335.md) | voted yes | Motion to approve Policy  as presented |
-
-## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 Board held its regular meeting on April 10, 2024, where several key policy changes were discussed and adopted. The Board reviewed and adopted the Eureka Math² and Adíos Textbook curriculum materials, emphasizing the importance of curriculum transparency and academic standards. Additionally, they approved Policy and Procedure 2121 regarding the Substance Abuse Program, Policy and Procedure 3116 for Students in Foster Care, and Policy and Procedure 3225 concerning School Based Threat Assessment, all of which are aimed at enhancing student health and safety. 
-
-The meeting also included reports from various teams, including the Literacy team and the Spanish team, focusing on student performance and progress monitoring. Notably, the Board addressed the Migrant Nurse Consortium Data Sharing MOU and the Emergency Repair Resolution 02-24, which highlights the district's commitment to addressing immediate needs and ensuring student well-being. The Superintendent, Dr. Everett, provided updates on budget work and maintenance items, reflecting ongoing efforts to support the district's long-term strategic plans.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-minutes.txt)
-
-## 2024-04-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held an executive session and regular board meeting on April 10, 2024, where several significant policy changes were reviewed and approved. The board adopted the Eureka Math² and Adíos Textbook curriculum materials, emphasizing the need for updated educational resources. Additionally, Policy and Procedure 2121 regarding the Substance Abuse Program, Policy 3116 concerning Students in Foster Care, and Policy 3225 on School Based Threat Assessment were all presented for a second review and subsequently adopted, indicating a focus on student well-being and safety. 
-
-Dr. Everett presented the Migrant Nurse Consortium Data Sharing MOU, which was approved to enhance access to health services for migrant students, reflecting a commitment to student health. The board also discussed the Emergency Repair Resolution 02-24 and Resolution 03-24, which involved emergency declarations and waiving bid laws to expedite necessary repairs, highlighting the district's proactive approach to maintaining school facilities. These actions demonstrate the board's ongoing efforts to ensure a safe and supportive environment for students while improving educational standards.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-04-10-aprilboardmeeting-minutes.txt)
-
-## 2024-03-20 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on March 20, 2024, where several significant items were discussed. The meeting included a first review of curriculum materials, specifically the Eureka Math² and Adíos Textbook, which are part of the core curriculum adoption process. This proposal is set for a second review and potential approval at the April 10, 2024, meeting, highlighting a focus on curriculum transparency. Additionally, Assistant Superintendent Kurt Harvill presented multiple policies for first reading, including Policy and Procedure 2121 – Substance Abuse Program, Policy and Procedure 3116 - Students in Foster Care, and Policy and Procedure 3225 - School Based Threat Assessment, all of which will also return for further review and approval in April, indicating ongoing attention to school safety and student well-being. The board encouraged community engagement by seeking suggestions for naming the north gym and reminded attendees to submit nominations for the annual MSD Thrive Awards.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-03-20-minutes.txt)
-
-## 2024-01-24 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District Board held a meeting on January 24, 2024, where they conducted a work session and a regular meeting. During the regular meeting, they adopted several policies and reports, including the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work, both of which passed unanimously. Additionally, the Director of Special Services, Aaron Jacoby, presented a report on Special Services Intervention Programs, highlighting health services, family services, and special education, along with future goals. The Board also discussed upcoming policies for first reading, including Policy and Procedure 4260F regarding the Use of School Facilities, Policy 5005 concerning Employment and Volunteers, and Policy 5280 on Separation from Employment, all slated for further review and approval at the next meeting. The meeting featured no public comments, and student representative Kennedy Brzozowski reported on student wellness initiatives discussed in a recent advisory council meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-24-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
-| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
-| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
-| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
-| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
-| [Jarrod Karuza](board_member_332.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-| [Jana Haugen](board_member_331.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-| [Michelle Simmons](board_member_335.md) | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-
-## 2024-01-10 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a board meeting on January 10, 2024, where various topics were discussed, including academic standards and community engagement. The board recognized the work of the Meridian Middle School Science team and presented reports on collaborative team data presentations, emphasizing the focus areas for student learning and progress measurement methods. Additionally, the board reviewed the MSD Board Operating Protocols and the Revised 2023-24 Plan of Work, both of which will be brought back for further review and approval at the upcoming January 24 Board meeting. These discussions reflect the district's commitment to enhancing academic standards and engaging the community in the educational process.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-01-10-jan-minutes.txt)
-
 ## 2023-11-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 Board held a regular meeting on November 21, 2023.  The board approved several items including the consent agenda which contained routine matters such as meeting minutes, accounts payable and personnel reports. They also approved a contract extension for the superintendent. A technology plan review was presented which included information about the current EdTech Levy and a proposal for a replacement levy from 2025-2028.
@@ -205,6 +73,36 @@ Presentations focused on bus safety and the Highly Capable Learning program. The
 The district also faces teacher and staff shortages, which was mentioned during the meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
+
+## 2022-09-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a meeting on September 21st, 2022. The agenda included presentations on the Healthy Children's Fund Ordinance and reports on staff professional development and summer maintenance projects. Policy changes were discussed and approved, including a second reading of Policy 4210 (Meeting Conduct, Order of Business, and Quorum) and a second reading of Policy 6112 (Executive or Closed Sessions). New business items included a first reading of the MSD Census Redistricting Proposal, the NCTA Groundwork Agreement, and first readings for several new policies: 2110 (Transitional Bilingual Instruction Program), 4218 (Language Access), 5260 (Personnel Records), and 6600 (Transportation). Superintendent James Everett provided updates on COVID-19, the NFHS Sports Network, and upcoming training opportunities. The board also discussed a financial update and received information from board members.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-21-minutes.txt)
+
+## 2022-02-02 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a meeting on February 2nd, 2022, to discuss various matters related to school operations and policies. Notably, the Superintendent provided an update on updated DOH Guidance regarding COVID-19 and reported a decline in student and staff absences.  The board also reviewed and adopted several policies, including Policy and Procedure 3115: Students Experiencing Homelessness and Policy and Procedure 3116: Students in Foster Care. Additionally, they conducted a first reading of Policy and Procedure 5610 – Substitute Employment and Policy and Procedure 3207 – Prohibition of Harassment, Intimidation, or Bullying.  The meeting also included a presentation on the district's curriculum materials and process for determining what curriculum to use. The board addressed public comment from Michelle Simmons who requested improved communication regarding the development of the Sexual Health curriculum and suggested small group sessions with the community.  Finally, the board adopted Resolution 01-22: Multi-Jurisdictional Natural Hazards Mitigation Plan.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-02-02-minutes.txt)
+
+## 2021-05-26 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board meeting minutes detail a range of topics including standard school board business like approving the agenda, minutes from previous meetings, and recognizing staff achievements.  The board also addressed several policy matters. They adopted Board Resolution 04-21 affirming membership with the Washington Interscholastic Activities Association (WIAA) and requiring adherence to its rules. Board Resolution 05-21 approved a collective bargaining agreement with the Meridian Education Association.
+
+Several new policies received first readings, including Policy 2161 regarding Special Education and Related Services for Eligible Students, Policy 2162 concerning Education of Students With Disabilities Under Section 504 of the Rehabilitation Act of 1973, and Policy 2170 addressing Career and Technical Education.  The board also approved additional members to the instructional materials committee.
+
+Mental health was a focus as the board discussed Compass Health Services Agreement which was presented for approval. The minutes also mention that Superintendent Dr. James Everett provided an update on end-of-year events and graduation.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-05-26-minutes.txt)
+
+## 2021-03-31 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District Board held a regular meeting on March 31, 2021, discussing various topics related to school operations and student well-being. Notably, the board addressed the impact of COVID-19 on the district, with Superintendent Dr. James Everett reporting on increased in-person learning opportunities for students. The meeting also focused on student health, including a presentation on the Meridian Middle School counselor and secretarial staff's exceptional support.
+
+The board reviewed and adopted several policies, including Policy 3112: Social Emotional Climate and Policy and Procedure 6000: Program Planning Budget Preparation Adoption and Implementation Procedure.  Additionally, they conducted a first reading of Policy 2125: Sexual Health Education and Policy 3432 – Emergencies. These policy reviews highlight the district's ongoing efforts to address student well-being and establish clear procedures for various aspects of school operations. The board also discussed the 2021-22 Whatcom Discovery Cooperative Program Interlocal Agreement, further demonstrating their commitment to collaborative educational initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2021/2021-03-31-minutes.txt)
 
 ## 2021-01-27 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

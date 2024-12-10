@@ -1,6 +1,6 @@
-# Positions Supported by Grace Larsen (PATEROS_SCHOOL_DISTRICT, Term: 2010-2025)
+# Positions Supported by Annie Robbins (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Grace Larsen | PATEROS_SCHOOL_DISTRICT | 2010-2025 |
+| Annie Robbins | HOOD_CANAL_SCHOOL_DISTRICT | None |
 

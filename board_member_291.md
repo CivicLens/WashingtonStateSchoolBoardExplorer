@@ -1,6 +1,6 @@
-# Positions Supported by JUSTIN GURNSEY (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Michael Cannon (MEAD_SCHOOL_DISTRICT, Term: 2019-2023)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| JUSTIN GURNSEY | RAINIER_SCHOOL_DISTRICT | None |
+| Michael Cannon | MEAD_SCHOOL_DISTRICT | 2019-2023 |
 

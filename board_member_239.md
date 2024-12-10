@@ -1,6 +1,6 @@
-# Positions Supported by Loujanna Rohrer (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2027)
+# Positions Supported by Natalie Wimberley (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Loujanna Rohrer | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2027 |
+| Natalie Wimberley | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
 

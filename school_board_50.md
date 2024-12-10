@@ -1,33 +1,21 @@
-# Meeting Summaries for LA_CONNER_SCHOOL_DISTRICT
+# Meeting Summaries for STEILACOOM_HISTORICAL_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Alana Quintasket](board_member_250.md) | 2023-2027 |
-| [John Agen](board_member_251.md) | 2019-2027 |
-| [Jeremy Wilbur](board_member_252.md) | 2020-2025 |
-| [Kim Pedroza](board_member_253.md) | 2023-2027 |
-| [Susie Deyo](board_member_254.md) | 2019-2025 |
-| [David Cram](board_member_255.md) | 2024 |
+| [Samuel T. Scott](board_member_242.md) | 2027 |
+| [Melanie Tinsley](board_member_243.md) | 2025 |
+| [Jennifer McDonald](board_member_244.md) | 2025 |
+| [Patrick Lewis](board_member_245.md) | 2025 |
+| [Loujanna Rohrer](board_member_246.md) | 2027 |
 
 ## Available Years
 - [2024](school_board_50_year_2024.md)
 
 ## Summaries by Tag
 - [policy-changes](school_board_50_tag_policy-changes.md)
-- [community-engagement](school_board_50_tag_community-engagement.md)
-- [academic-standards](school_board_50_tag_academic-standards.md)
-- [teacher-staff-shortages](school_board_50_tag_teacher-staff-shortages.md)
-- [bullying-prevention](school_board_50_tag_bullying-prevention.md)
-- [mental-health](school_board_50_tag_mental-health.md)
-- [curriculum-transparency](school_board_50_tag_curriculum-transparency.md)
-- [long-term-strategic-plans](school_board_50_tag_long-term-strategic-plans.md)
-- [school-safety](school_board_50_tag_school-safety.md)
-- [budgeting](school_board_50_tag_budgeting.md)
 - [special-education-support](school_board_50_tag_special-education-support.md)
-- [teacher-support](school_board_50_tag_teacher-support.md)
-- [lgbtq](school_board_50_tag_lgbtq.md)
-- [student-autonomy](school_board_50_tag_student-autonomy.md)
+- [mental-health](school_board_50_tag_mental-health.md)
 - [diversity-inclusion](school_board_50_tag_diversity-inclusion.md)
-- [student-health](school_board_50_tag_student-health.md)
+- [lgbtq](school_board_50_tag_lgbtq.md)

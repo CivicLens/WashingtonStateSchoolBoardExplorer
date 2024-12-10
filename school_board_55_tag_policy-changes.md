@@ -1,427 +1,122 @@
-# Meeting Summaries for EAST_VALLEY_SCHOOL_DISTRICT with Tag: policy-changes
-
-## 2024-11-12 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: policy-changes
 
-The Regular Board Meeting held on November 12, 2024, included the adoption of Board Policy 3242 - Closed Campus, which passed with a majority vote, as Justin Voelker voted against it. This policy change reflects the board's decision to implement a closed campus policy, which may impact student movement during school hours. Additionally, the meeting highlighted community engagement, with discussions on high school athletic concessions and a senior all-nighter event, as well as a recognition of student achievements, such as cross country runner Rachel Metge qualifying for State. The board also approved Resolution 2824, which certifies the 2025 Excess Property Taxes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-11-12-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on adopting Board Policy 3242 - Closed Campus | Adopted Board Policy 3242 - Closed Campus |
-| [Justin Voelker](board_member_276.md) | voted no on adopting Board Policy 3242 - Closed Campus | Adopted Board Policy 3242 - Closed Campus |
-| [Justin Voelker](board_member_276.md) | voted yes on adopting Board Policy 2415 - Performance-Based Pathway for High School Graduation | Adopted Board Policy 2415 - Performance-Based Pathway for High School Graduation |
-| [Mike Bly](board_member_278.md) | voted yes on adopting Board Policy 2415 - Performance-Based Pathway for High School Graduation | Adopted Board Policy 2415 - Performance-Based Pathway for High School Graduation |
-| [Mike Bly](board_member_278.md) | voted yes on approving Resolution 2824 - Certification of 2025 Excess Property Taxes | Approved Resolution 2824. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving Resolution 2824 - Certification of 2025 Excess Property Taxes | Approved Resolution 2824. |
-
-## 2024-10-22 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on October 22, 2024, included various agenda items focused on community engagement and school safety. Notably, the board approved multiple student travel requests for events such as the AWSL Middle Level Retreat and various wrestling tournaments, indicating an emphasis on student participation in extracurricular activities. A significant discussion point was the pertussis outbreak notification at EVHS, highlighting ongoing health and safety concerns within the school community. 
-
-Additionally, the board tabled the first reading of Board Policy 3242 - Closed Campus until the next meeting, suggesting a potential change in campus access regulations. The meeting also featured updates from Superintendent Brian Talbott regarding outdoor lighting adjustments at EVMS and ongoing facilities improvement efforts. These actions reflect the board's commitment to enhancing the school environment and responding to community needs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-10-22-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-
-## 2024-09-24 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on September 24, 2024, included discussions on several key topics, notably the approval of multiple donations to the East Valley School District, which totaled over $7,000 from various local organizations, including the EVHS Booster Club and Pryor's Rustic Restaurant. The board also approved a tunnel use agreement, reflecting ongoing community engagement and support for school activities. A significant point of discussion was the resignation of board member Laura Gates, who will be relocating from the district, prompting reflections on her contributions and the need for board continuity. The meeting also featured presentations from new administrators and updates on district initiatives, such as the upcoming Spokane County School Director's Association meeting and the EVHS Block Party/Open House. The board's decisions and discussions indicate a focus on maintaining ethical standards and transparency in their operations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-09-24-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on the tunnel use agreement | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the tunnel use agreement | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-
-## 2024-09-10 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on September 10, 2024, included the approval of several policies and resolutions. Notably, the board approved revised Board Policy 5011, which addresses Sex Discrimination and Sex-Based Harassment of District Staff, and adopted Board Policy 5254, which pertains to Staff Expression. Both policies underwent a second reading before approval. Additionally, Resolution 2823 concerning Stale Dated Warrants was also approved. The meeting highlighted community engagement, with Mr. Voelker mentioning positive feedback about a new mural at EVMS and Ms. Noack discussing ongoing construction projects. The board also received updates on enrollment numbers and upcoming events, including the Spokane Valley Chamber's "Our Schools Event."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-09-10-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Mike Bly](board_member_278.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Justin Voelker](board_member_276.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Mike Bly](board_member_278.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Justin Voelker](board_member_276.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Justin Voelker](board_member_276.md) | voted to table tunnel use agreement | Motioned to table the tunnel use agreement. |
-| [Mike Bly](board_member_278.md) | voted to table tunnel use agreement | Seconded the motion to table the tunnel use agreement. |
-
-## 2024-08-27 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on August 27, 2024, included several key approvals and updates. The board approved the 24/25 PSE Contract and the 24/25 EVEA Contract, both of which pertain to agreements with employee associations. Resolution 2822, which adopted the 24/25 Budget, was also approved. Additionally, there were first readings for several policies, including a revision of Board Policy 5011, which addresses sex discrimination and harassment of district staff, and the adoption of Board Policy 5254, which pertains to staff expression. The meeting also covered updates on construction projects, such as the roof work at Trentwood Elementary, and the board's excitement for the upcoming school year.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-08-27-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Motion by Theresa Noack, second by Laura Gates. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Motion by Theresa Noack, second by Laura Gates. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Motion by Theresa Noack, second by Laura Gates. |
-| [Mike Bly](board_member_278.md) | voted yes on donation from Ironman Foundation | Approved a donation of $1,050 from the Ironman Foundation for Boys Cross Country at EVHS. |
-| [Justin Voelker](board_member_276.md) | voted yes on donation from Ironman Foundation | Approved a donation of $1,050 from the Ironman Foundation for Boys Cross Country at EVHS. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on donation from Ironman Foundation | Approved a donation of $1,050 from the Ironman Foundation for Boys Cross Country at EVHS. |
-| [Mike Bly](board_member_278.md) | voted yes on swimming and diving co-op agreement | Approved the Cheney Co-Op Agreement for swimming and diving. |
-| [Justin Voelker](board_member_276.md) | voted yes on swimming and diving co-op agreement | Approved the Cheney Co-Op Agreement for swimming and diving. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on swimming and diving co-op agreement | Approved the Cheney Co-Op Agreement for swimming and diving. |
-| [Mike Bly](board_member_278.md) | voted yes on 24/25 budget adoption | Approved Resolution 2822 - 24/25 Budget. |
-| [Justin Voelker](board_member_276.md) | voted yes on 24/25 budget adoption | Approved Resolution 2822 - 24/25 Budget. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on 24/25 budget adoption | Approved Resolution 2822 - 24/25 Budget. |
-| [Mike Bly](board_member_278.md) | voted yes on 24/25 PSE contract | Approved the 24/25 PSE Contract. |
-| [Justin Voelker](board_member_276.md) | voted yes on 24/25 PSE contract | Approved the 24/25 PSE Contract. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on 24/25 PSE contract | Approved the 24/25 PSE Contract. |
-| [Mike Bly](board_member_278.md) | voted yes on 24/25 EVEA contract | Approved the 24/25 EVEA Contract. |
-| [Justin Voelker](board_member_276.md) | voted yes on 24/25 EVEA contract | Approved the 24/25 EVEA Contract. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on 24/25 EVEA contract | Approved the 24/25 EVEA Contract. |
-
-## 2024-07-23 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on July 23, 2024, included a discussion led by Mr. Bly regarding updates on the Washington Interscholastic Activities Association (WIAA)'s transgender policy. Additionally, Mr. Talbott presented new language concerning drug and alcohol violations for East Valley student-athletes, indicating a change in policy aimed at addressing substance use among students. The meeting also covered the delay in the Trentwood roof replacement project, which incurred additional costs due to drain failures. The board approved various financial vouchers and contracts, including the East Valley Extracurricular Employees Organization Contract, and weeded book lists from several schools, reflecting ongoing efforts in curriculum management and resource allocation.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-07-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347449 through 347479 | Approved General Fund Voucher Nos. 347449 through 347479 in the amount of $40,523.06 for payment of June bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the A.S.B. Voucher Nos. 347480 through 347501 | Approved A.S.B. Voucher Nos. 347480 through 347501 in the amount of $15,418.89 for payment of June bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347429 through 347439 for June payroll | Approved General Fund Voucher Nos. 347429 through 347439 in the amount of $434.09 for June payroll. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347440 through 347448 for June payroll | Approved General Fund Voucher Nos. 347440 through 347448 in the amount of $802,728.59 for June payroll. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve ACH Numbers 232401499 through 232401577 | Approved ACH Numbers 232401499 through 232401577 in the amount of $428,827.09 for payment of June bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347502 through 347511 | Approved General Fund Voucher Nos. 347502 through 347511 in the amount of $44,608.66 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347512 through 347546 | Approved General Fund Voucher Nos. 347512 through 347546 in the amount of $96,238.39 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the Capital Projects Fund Voucher Nos. 347547 through 347549 | Approved Capital Projects Fund Voucher Nos. 347547 through 347549 in the amount of $684,942.95 for payment of July bills...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the A.S.B. Fund Voucher Nos. 347550 through 347556 | Approved A.S.B. Fund Voucher Nos. 347550 through 347556 in the amount of $1,740.71 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve ACH Numbers 232401578 through 232401659 | Approved ACH Numbers 232401578 through 232401659 in the amount of $456,581.46 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve ACH Numbers 232401660 through 232401675 | Approved ACH Numbers 232401660 through 232401675 in the amount of $428,985.21 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the East Valley Extracurricular Employees Organization Contract | Approved the East Valley Extracurricular Employees Organization Contract. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the weeded book lists | Approved the CCS, Trent, Trentwood, East Farms, Otis Orchards, and EVMS weeded book lists. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347449 through 347479 | Approved General Fund Voucher Nos. 347449 through 347479 in the amount of $40,523.06 for payment of June bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the A.S.B. Voucher Nos. 347480 through 347501 | Approved A.S.B. Voucher Nos. 347480 through 347501 in the amount of $15,418.89 for payment of June bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347429 through 347439 for June payroll | Approved General Fund Voucher Nos. 347429 through 347439 in the amount of $434.09 for June payroll. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347440 through 347448 for June payroll | Approved General Fund Voucher Nos. 347440 through 347448 in the amount of $802,728.59 for June payroll. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve ACH Numbers 232401499 through 232401577 | Approved ACH Numbers 232401499 through 232401577 in the amount of $428,827.09 for payment of June bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347502 through 347511 | Approved General Fund Voucher Nos. 347502 through 347511 in the amount of $44,608.66 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347512 through 347546 | Approved General Fund Voucher Nos. 347512 through 347546 in the amount of $96,238.39 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the Capital Projects Fund Voucher Nos. 347547 through 347549 | Approved Capital Projects Fund Voucher Nos. 347547 through 347549 in the amount of $684,942.95 for payment of July bills...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the A.S.B. Fund Voucher Nos. 347550 through 347556 | Approved A.S.B. Fund Voucher Nos. 347550 through 347556 in the amount of $1,740.71 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve ACH Numbers 232401578 through 232401659 | Approved ACH Numbers 232401578 through 232401659 in the amount of $456,581.46 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve ACH Numbers 232401660 through 232401675 | Approved ACH Numbers 232401660 through 232401675 in the amount of $428,985.21 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the East Valley Extracurricular Employees Organization Contract | Approved the East Valley Extracurricular Employees Organization Contract. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the weeded book lists | Approved the CCS, Trent, Trentwood, East Farms, Otis Orchards, and EVMS weeded book lists. |
-
-## 2024-06-25 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on June 25, 2024, included discussions on various topics significant to the school district. Notably, Superintendent Brian Talbott reported on vandalism at Trentwood Elementary, which resulted in the closure of the playground, highlighting ongoing concerns related to school safety. Additionally, the board received updates on the Initiative for Student Wellness (ISW), which aims to improve mental health among students, as presented by Amanda Kirkpatrick, Hannah Hirshfield, and Chrystal Gaunt. The board also addressed policy changes, including the approval of the 26/27 CCS calendar and the renewal of the WIAA Membership, which underscores the district's commitment to maintaining community engagement through sports and extracurricular activities. Furthermore, the board discussed the new student handbook language from OSPI regarding harassment, intimidation, and bullying (HIB), indicating a focus on enhancing policies related to student welfare and safety.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-25-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
-| [Mike Bly](board_member_278.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
-
-## 2024-06-11 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on June 11, 2024, included several key actions and approvals. The board approved the consent agenda, which encompassed the meeting agenda, minutes from the previous meeting, various vouchers for payment of bills, and personnel matters. Notably, the board approved student travel for EVHS and CCS students to events in Idaho, as well as the summer pole vault training camp. A significant discussion point was the tabling of the WIAA Membership until the next meeting due to the absence of the athletic director. Additionally, Superintendent Brian Talbott reported on the recent hiring of Cameron Rippee as the new Trent Principal and Brandon Shryock as the new EVHS Assistant Principal, reflecting ongoing changes in school leadership. The meeting also included recognitions of retiring staff for their years of service, indicating a focus on community engagement and appreciation for long-term employees.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-11-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on agenda items | Approved the consent agenda as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on agenda items | Approved the consent agenda as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on agenda items | Approved the consent agenda as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the minutes of the May 28, 2024 Regular Board Meeting | Approved the minutes of the May 28, 2024 Regular Board Meeting. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the minutes of the May 28, 2024 Regular Board Meeting | Approved the minutes of the May 28, 2024 Regular Board Meeting. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the minutes of the May 28, 2024 Regular Board Meeting | Approved the minutes of the May 28, 2024 Regular Board Meeting. |
-| [Mike Bly](board_member_278.md) | voted yes on vouchers | Approved various vouchers for payment of May bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on vouchers | Approved various vouchers for payment of May bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on vouchers | Approved various vouchers for payment of May bills. |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved student travel and summer training camp. |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved student travel and summer training camp. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved student travel and summer training camp. |
-| [Mike Bly](board_member_278.md) | voted yes on consent items | Approved consent items as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent items | Approved consent items as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent items | Approved consent items as presented. |
-
-## 2024-05-28 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on May 28, 2024, included a public comment segment where Todd Gropp expressed concerns regarding fairness in relation to transgender athletes. This topic aligns with ongoing discussions about inclusivity and equity in school sports. The board also approved revisions to Board Policy 4060 - Distribution of Information, indicating a commitment to updating policies related to information dissemination. Additionally, Tammy Campbell from The Scholar First unveiled the 2024-2030 Strategic Plan, reflecting the district's long-term strategic planning efforts aimed at improving educational outcomes and addressing community needs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-28-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-
-## 2024-05-14 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on May 14, 2024, included several key approvals and recognitions. The board approved multiple student travel initiatives, including trips to Silverwood in Idaho and the FBLA National Competition in Orlando, Florida, demonstrating community engagement through student activities. Additionally, the board recognized The Hub as the East Valley's 2024 Community Partner for their partnership with the East Valley School District (EVSD). Significant donations were approved for educational resources, including $52,195.03 from the CCS PTSA for playground equipment, and $1,200 from Challenger Pipe and Steel LLC for library books at Trent Elementary. The meeting also featured a first reading of a revised Board Policy 4060 regarding the Distribution of Information, indicating a potential change in how information is disseminated within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the vouchers | Approved ACH Numbers 232401159 through 232401259 in the amount of $179,121.50 for payment of May bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve business items | Approved Trent student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve consent items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the vouchers | Approved ACH Numbers 232401159 through 232401259 in the amount of $179,121.50 for payment of May bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve business items | Approved Trent student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve consent items | Approved as presented. |
-
-## 2024-04-23 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on April 23, 2024, included significant discussions and approvals regarding personnel changes and student travel. The board unanimously approved the resignation of Cari Roderick, Assistant Director of Technology and Assessment, as part of the consent agenda. Additionally, the board approved student travel plans for various schools, including EVMS and EVHS, to attend events in Silverwood and Renton, WA. Ms. Noack reported on legislative changes, noting that HB2494 has passed, which will increase state funding for school operating costs effective June 6, 2024. The board also discussed the potential collaboration with the Spokane County Sheriff's Department to access East Valley's exterior cameras, aimed at enhancing school safety and real-time response capabilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-04-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Justin Voelker](board_member_276.md) | voted yes on amending the personnel report to include the resignation of Cari Roderick | With a motion by Laura Gates, second by Theresa Noack all were in favor of amending the personnel report to include the ...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on amending the personnel report to include the resignation of Cari Roderick | With a motion by Laura Gates, second by Theresa Noack all were in favor of amending the personnel report to include the ...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Silverwood | Approved EVMS student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Silverwood | Approved EVMS student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Renton for a track meet | Approved EVHS student travel to Renton, WA, May 3 - May 4, 2024, for a track meet. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Renton for a track meet | Approved EVHS student travel to Renton, WA, May 3 - May 4, 2024, for a track meet. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Post Falls | Approved EVHS student travel to Post Falls, ID on May 3, 2024, for the construction career day. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Post Falls | Approved EVHS student travel to Post Falls, ID on May 3, 2024, for the construction career day. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving consent agenda items | Recommend approval of presented consent agenda items. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving consent agenda items | Recommend approval of presented consent agenda items. |
-
-## 2024-03-26 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on March 26, 2024, included several key actions and discussions. The board approved the personnel report, which notably included the removal of a request for a leave of absence by Brianna Kramm, a Health and Fitness Teacher at Otis Orchards Elementary, effective from April 9, 2024, through June 14, 2024. Additionally, Ms. Noack reported on legislative matters, specifically addressing a recent special education enrollment funding cap passed by the house, which is currently awaiting senate approval. The board also discussed HB2494, a bill aimed at increasing state funding for school operating costs. These discussions reflect ongoing policy changes that may impact funding and support for special education within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-26-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Mike Bly](board_member_278.md) | voted no on the motion to approve the extended leave of absence for Brianna Kramm | The board denied the request for extended leave of absence for the 24/25 SY for Brianna Kramm. |
-| [Jonathan Horsley](board_member_277.md) | voted no on the motion to approve the extended leave of absence for Brianna Kramm | The board denied the request for extended leave of absence for the 24/25 SY for Brianna Kramm. |
-
-## 2024-03-12 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on March 12, 2024, included discussions on several key topics, notably the personnel report which featured a certificated resignation of Rebeccah Baker, a K-12 Multilingual educator, effective August 31, 2024, after nine years of service. Additionally, the board approved multiple student travel plans for events including the FFA Meat Evaluation Clinic and the Washington State FFA Convention. Superintendent Brian Talbott reported on the potential collaboration with the Spokane Valley/Liberty Lake Little League regarding the use of Mountainview Middle School's quadplex ballfields, indicating ongoing discussions with local neighbors to gauge community sentiment. The meeting concluded with no public comments and was adjourned at 8:22 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-12-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Mike Bly](board_member_278.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Justin Voelker](board_member_276.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Mike Bly](board_member_278.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Justin Voelker](board_member_276.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Mike Bly](board_member_278.md) | voted yes on consent items | Approved consent items. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent items | Approved consent items. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent items | Approved consent items. |
-
-## 2024-02-27 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on February 27, 2024, included several key actions and discussions pertinent to policy changes and school safety. The board approved revisions to Board Policy 6950, which pertains to Contractor Assurances, Surety Bonds, Insurance, and Change Orders, and Board Policy 6220, which outlines Bid or Request for Proposal Requirements. These revisions were approved unanimously, indicating a streamlined approach to contractor management and procurement processes. Additionally, the meeting featured discussions on school safety, particularly regarding vaping issues at EVHS, as highlighted by Mr. Horsley, who reported on his conversations with Principal Ryan Arnold about addressing this concern. The board also received updates on various student activities and financial reports, emphasizing community engagement and the importance of student health and safety.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-27-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
-
-## 2024-02-13 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on February 13, 2024, included significant discussions and approvals related to various board policies. Notably, the board approved revisions to Board Policy 3207, which addresses the Prohibition of Harassment, Intimidation, or Bullying, indicating a commitment to enhancing student safety and well-being. Additionally, Board Policy 3225 concerning School Based Threat Assessment was revised, reflecting the board's ongoing efforts to ensure a secure educational environment. The meeting also featured the first reading of revised Board Policy 5005, which pertains to Disclosures, Certification Requirements, Assurances, and Approval, suggesting a focus on accountability and transparency within the school district. The board's actions demonstrate a proactive approach to policy updates aimed at improving school safety and preventing bullying.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-13-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the consent agenda | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
-| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
-| [Mike Bly](board_member_278.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
-| [Justin Voelker](board_member_276.md) | voted yes on the consent agenda | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the minutes of the January 23, 2024 Regular Board Meeting | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on vouchers | Approved General Fund Voucher Nos. 346797 through 346805 in the amount of $810,184.31 for January payroll. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved PEP Socks & Snacks fundraising activity for March 27, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent items | Recommend approval of presented consent agenda items. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3207 | Approved revised Board Policy 3207 - Prohibition of Harassment, Intimidation, or Bullying. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3225 | Approved revised Board Policy 3225 - School Based Threat Assessment. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 3421 | Approved revised Board Policy 3421 - Child Abuse and Neglect Prevention. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5005 | Approved revised Board Policy 5005 - Disclosures, Certification Requirements, Assurances, and Approval. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5271 | Approved revised Board Policy 5271 - Reporting Improper Governmental Action (Whistleblower Protection). |
-
-## 2024-01-23 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on January 23, 2024, included discussions on several policy changes, notably the first readings for revisions to Board Policy 3207, which prohibits harassment, intimidation, or bullying; Board Policy 3225, which pertains to school-based threat assessment; and Board Policy 3421, addressing child abuse and neglect prevention. These revisions reflect ongoing efforts to enhance school safety and student well-being. Additionally, public comment was made by parent Christie Fields, who raised concerns regarding health issues in the district, specifically related to vaping and smoking, indicating a community engagement focus on student health. The meeting also featured presentations on attendance data and i-Ready data, emphasizing the board's commitment to monitoring academic standards and student performance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Justin Voelker](board_member_276.md) | voted yes on agenda approval | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on approval of minutes from January 9, 2024 meeting | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on vouchers approval | Approved ACH Numbers 232400606 through 232400680 in the amount of $505,223.93 for payment of January bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel approval | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on business items approval | Approved EVHS student travel to Bellevue, WA on February 29, 2024, through March 2, 2024, for the DECA State Competition...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on consideration and approval of consent items | Approved as presented. |
-
-## 2024-01-09 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on January 9, 2024, included discussions and approvals of several key items. Notably, the board approved the 2023-24 School Improvement Plans, which are part of the district's long-term strategic planning efforts led by Dr. Tammy Campbell. The meeting also saw the approval of a donation of $1,899.58 from the East Valley Booster Club for volleyball uniforms, reflecting community engagement in school activities. Additionally, the board decided to remove the personnel report from the consent agenda, indicating a change in how personnel matters are addressed in meetings. The meeting concluded with an executive session to review the performance of a public employee, highlighting ongoing oversight of staff performance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-09-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Mike Bly](board_member_278.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Mike Bly](board_member_278.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
-| [Justin Voelker](board_member_276.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
+## 2024-11-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on November 12, 2024, where they focused on budget development for the 2025-2026 school year. The session, initiated by President Amy Cast and attended by other board members and Superintendent Michael Tolley, was called to order at 6:35 PM and concluded at 7:37 PM. The meeting's primary discussion revolved around the financial planning necessary for the upcoming school year, indicating potential policy changes related to budget allocations and resource management. No specific resolutions or significant policy alterations were detailed in the minutes provided.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-12-minutes.txt)
+
+## 2024-10-28 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Study Session on October 28, 2024, to discuss Superintendent Parameter 9, which focuses on equity within the district. The session was attended by key board members, including President Amy Cast and Superintendent Michael Tolley. The meeting concluded with the adjournment at 6:42 PM. The discussion centered on the district's approach to equity, indicating a commitment to addressing racial equity issues. The specifics of any proposed changes or actions related to this parameter were not detailed in the minutes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-28-minutes.txt)
+
+## 2024-10-24 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a Quasi-Judicial Hearing on October 24, 2024, at the Administrative Center. The meeting commenced at 4:30 PM and concluded at 5:45 PM. Present at the meeting were Board members Elisabeth Sotak, Jacqueline McGourty, Hân Trần, Sandy Hayes, and Amy Cast, who serves as the President, along with Superintendent Michael Tolley. The minutes generated by Peggy King on October 25, 2024, indicate that the hearing was part of the Board's ongoing discussions regarding policies, although specific details about any policy changes or decisions made during the hearing are not provided in the text. The formal adjournment of the hearing suggests that it was a structured meeting, likely addressing significant issues pertinent to the district's governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-24-minutes.txt)
+
+## 2024-09-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on September 30, 2024, at Crystal Springs Elementary for the Groundbreaking Ceremony. The meeting commenced at 5:00 PM and included attendance by board members Hân Trần, Elisabeth Sotak, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The primary focus of the meeting was the celebration of the new elementary school's construction, demonstrating community engagement in the district's educational infrastructure development. The meeting was adjourned at 6:00 PM, with the minutes approved on October 14, 2024, by Mr. Michael Tolley and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-30-minutes.txt)
+
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on September 23, 2024, where they discussed the "B's and R's" and "Conversations With the Board" for the upcoming 2024-2025 school year. The meeting, attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley, focused on reviewing policies and strategies aimed at enhancing community engagement. The session was called to order at 5:34 PM and adjourned at 6:43 PM, with the minutes generated by Peggy King on October 7, 2024. No specific policy changes or controversial topics were noted in the session's summary.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-23-minutes.txt)
+
+## 2024-09-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The document outlines the policy titled "Minutes" (Policy No. B-8) related to the recording and approval of board meeting minutes for the Board of Directors. Approved on June 25, 2018, and reviewed/revised on September 11, 2023, the policy mandates that the recording secretary document comprehensive minutes that include details such as the date, time, place of the meeting, presiding officer, attendees, discussion items, voting results, executive session purposes, and adjournment time. The minutes become official upon board approval and are retained as a permanent record. Additionally, it specifies that recordings of meetings should be made for reference in minute creation, following the Washington State Records Retention Schedule. Unofficial minutes are to be shared with board members prior to the next meeting and made available to the public, while a permanent file of minutes is maintained for public inspection. Legal references supporting the policy include various Washington State Revised Codes relating to superintendent duties and local government records.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-11-minutes.txt)
+
+## 2024-09-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The document outlines the policy titled "Minutes," designated as Policy No. B-8, approved by the Board of Directors on June 25, 2018, and reviewed/revised on September 11, 2023. It establishes the procedures for recording, approving, and retaining minutes of board meetings, emphasizing the importance of comprehensive documentation including meeting details, attendance, discussions, and voting outcomes. The policy mandates that unofficial minutes be distributed to board members prior to the next meeting and be accessible to interested citizens, while maintaining a permanent record of all minutes in the board secretary's office. Additionally, it specifies the legal references that govern the recording and retention of these minutes, ensuring compliance with state regulations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-11-b-minutes.txt)
+
+## 2024-09-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a study session on September 9, 2024, where they discussed the Teacher and Principal Evaluation Program (TPEP). The session, led by President Amy Cast and attended by Superintendent Mr. Michael Tolley, focused on evaluating and potentially revising the existing evaluation frameworks for educators. The meeting was called to order at 6:45 PM and adjourned at 7:45 PM, indicating a dedicated hour for discussion on the TPEP. The specific details of any proposed changes or the reasoning behind them were not provided in the minutes.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-09-minutes.txt)
+
+## 2024-08-26 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a study session on August 26, 2024, to discuss Legislative Priorities and preparations for the Washington State School Directors' Association (WSSDA) General Assembly. The session, led by President Amy Cast and attended by Superintendent Michael Tolley, focused on potential changes to policies that may arise from upcoming state legislation. The discussions indicate a proactive approach by the board in aligning district priorities with legislative developments. The session concluded with adjournment at 6:41 PM, and the minutes were formally approved on September 9, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-26-minutes.txt)
+
+## 2024-08-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Special Meeting of the Board of Directors, held on August 19, 2024, at Pop Keeney Stadium, focused on planning and self-assessment during a Board Retreat. The meeting was attended by board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The retreat aimed to facilitate community engagement and assess the board's policies and effectiveness. The meeting was adjourned at 7:52 PM, and the minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and President Amy Cast. No specific policy changes or controversial content were noted during the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-19-minutes.txt)
+
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a regular meeting on July 8, 2024, where several key actions and reports were discussed. The board approved the 2024-2025 Budget Adoption through Resolution No. 894, which reflects the district's financial planning for the upcoming year. Additionally, the board approved various contracts, including a five-year copier lease with Copiers Northwest and a beverage supply contract with EK Beverage Company, both aimed at enhancing operational efficiency. Superintendent Michael Tolley reported on the commencement of the Elementary Summer Programs, indicating community engagement with approximately 256 students participating, alongside discussions on middle school tennis by public commenters. The meeting also included the adoption of a consent agenda that encompassed minutes from previous meetings and various personnel reports.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
+
+## 2024-06-24 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Closed Executive Session on June 24, 2024, to discuss the transfer of a district employee, in accordance with RCW 28A.405.230. The session began at 4:00 PM and was initially estimated to last up to sixty minutes. However, it was extended by President Amy Cast for an additional fifteen minutes at 5:00 PM. No actions were taken by the Board during this session. The meeting was adjourned at 5:15 PM. The minutes were generated by Peggy King and approved on July 8, 2024, by Mr. Michael Tolley, Secretary to the Board, and Sandy Hayes, Vice President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-24-minutes.txt)
+
+## 2024-05-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a Closed Executive Session on May 22, 2024, at 5:30 PM, primarily to review the performance of a public employee in accordance with RCW 42.30.100(g). The session lasted for up to two hours, with the intent to reconvene solely for adjournment. The meeting concluded at 7:30 PM, and it was noted that the session was closed, indicating a focus on confidential personnel matters. No specific policy changes or resolutions were mentioned in the meeting documentation.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-22-minutes.txt)
+
+## 2024-05-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on May 13, 2024, where they discussed future Board advocacy. The session was attended by Board members including President Amy Cast and Superintendent Michael Tolley, with one member participating remotely. The meeting concluded with an adjournment at 6:20 PM. The focus on future advocacy suggests potential changes or initiatives that may be forthcoming, although specific policies or proposals were not detailed in the minutes provided. The board's engagement in discussion indicates a proactive approach to community involvement and governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-13-minutes.txt)
+
+## 2024-05-06 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a Closed Executive Session on May 6, 2024, at 5:00 PM to discuss matters related to complaints or charges against a public officer or employee, as permitted under RCW 42.30.110(1)(f). The session included key members of the board, such as President Amy Cast and Deputy Superintendent JoLynn Berge. The meeting was adjourned at 5:40 PM, and the minutes were generated by Peggy King the following day. No specific details regarding the nature of the complaints or charges were disclosed in the summary provided, indicating a focus on school board ethics and the handling of sensitive personnel issues.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-06-minutes.txt)
+
+## 2024-04-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Study Session on April 22, 2024, at 5:30 PM to discuss Categorical Programs. The session was attended by board members including President Amy Cast and Superintendent Michael Tolley. The meeting concluded with an adjournment at 6:39 PM. The agenda focused on reviewing information related to Categorical Programs, which may involve changes or updates to existing policies, although specific policy changes were not detailed in the text provided. The minutes were generated by Peggy King and approved on May 13, 2024, by Mr. Michael Tolley as Secretary to the Board and Amy Cast as President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-04-22-minutes.txt)
+
+## 2024-03-25 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened for a Closed Executive Session on March 25, 2024, to discuss legal matters and collective bargaining sessions with employee organizations. The session, which began at 9:05 PM and was estimated to last 60 minutes, focused on contract negotiations and the interpretation of labor agreements as per RCW 42.30.110 and RCW 42.30.140. The meeting was led by President Amy Cast and included Superintendent Mr. Michael Tolley. The session was adjourned at 10:02 PM, with the next meeting scheduled for April 22, 2024, for approval of the minutes. The discussions during the executive session, while not detailed in the minutes, likely included key policy changes related to labor negotiations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-25-minutes.txt)
+
+## 2024-03-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a study session on March 11, 2024, to discuss the development of the 2024-2025 budget. During this session, key board members, including President Amy Cast and Superintendent Michael Tolley, were present. The meeting was focused on reviewing information pertinent to budget considerations, although no specific policies or resolutions were detailed in the minutes. The session started at 7:00 PM and concluded at 7:50 PM, and the minutes were approved on March 25, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-11-minutes.txt)
+
+## 2024-02-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened an Exempt Closed Session on February 12, 2024, to discuss matters related to collective bargaining, as permitted under RCW 42.30.140(4). The session began at 7:30 PM and was estimated to last for 60 minutes, concluding at 8:28 PM. The meeting was attended by board members including President Amy Cast and Superintendent Michael Tolley. The focus on collective bargaining indicates ongoing negotiations that may involve changes to policies affecting staff contracts or employment terms, although specific details of the discussions were not disclosed in the minutes. The session's adjournment was solely for the purpose of concluding the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-12-minutes.txt)
+
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a regular meeting on January 8, 2024, where they approved several policy changes and discussed community engagement strategies. Notably, the Board adopted New Board Policy No. 4400 concerning Election Activities and revised Board Policy 0001 on Racial and Educational Justice. Superintendent Michael Tolley provided a report highlighting recent school visits and advocacy planning efforts, while Dr. Tracy Meloy recognized Board members for School Board Recognition Month. Additionally, Director Elisabeth Sotak suggested offering childcare during meetings to enhance parent involvement, indicating a focus on community engagement. The Board also addressed comments related to student wellness and budget reductions, reflecting ongoing concerns about student health and resource allocation.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
 

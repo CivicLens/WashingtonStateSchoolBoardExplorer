@@ -1,6 +1,6 @@
-# Positions Supported by James Van Eddy (CARBONADO_HISTORICAL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Roseanna Camacho (BETHEL_SCHOOL_DISTRICT, Term: 2018-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| James Van Eddy | CARBONADO_HISTORICAL_SCHOOL_DISTRICT | None |
+| Roseanna Camacho | BETHEL_SCHOOL_DISTRICT | 2018-2025 |
 

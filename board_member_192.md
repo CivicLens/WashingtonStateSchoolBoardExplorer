@@ -1,6 +1,6 @@
-# Positions Supported by Annie Robbins (HOOD_CANAL_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Les Okonek (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Annie Robbins | HOOD_CANAL_SCHOOL_DISTRICT | None |
+| Les Okonek | GRAPEVIEW_SCHOOL_DISTRICT |  |
 

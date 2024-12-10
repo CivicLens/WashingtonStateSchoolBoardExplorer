@@ -1,6 +1,6 @@
-# Positions Supported by Dan Smith (LYLE_SCHOOL_DISTRICT, Term: 2023-2025)
+# Positions Supported by Carrie Kavanaugh (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Dan Smith | LYLE_SCHOOL_DISTRICT | 2023-2025 |
+| Carrie Kavanaugh | KITTITAS_SCHOOL_DISTRICT | 2021-2025 |
 

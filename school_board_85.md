@@ -1,18 +1,15 @@
-# Meeting Summaries for TOLEDO_SCHOOL_DISTRICT
+# Meeting Summaries for ENUMCLAW_SCHOOL_DISTRICT
 
 ## Board Members
 
-No current board members available.
+| Board Member       | Term           |
+|--------------------|----------------|
+| [Paul Fisher](board_member_120.md) | 2021-2025 |
+| [Julianne DeShayes](board_member_121.md) | 2021-2025 |
+| [Tyson Gamblin](board_member_122.md) | 2019-2027 |
+| [Scott Mason](board_member_123.md) | 2023-2027 |
+| [Ben Stouffer](board_member_124.md) | 2023-2027 |
 
 ## Available Years
-- [2024](school_board_85_year_2024.md)
-- [2023](school_board_85_year_2023.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_85_tag_policy-changes.md)
-- [community-engagement](school_board_85_tag_community-engagement.md)
-- [special-education-support](school_board_85_tag_special-education-support.md)
-- [school-safety](school_board_85_tag_school-safety.md)
-- [parental-feedback](school_board_85_tag_parental-feedback.md)
-- [food-services](school_board_85_tag_food-services.md)
-- [long-term-strategic-plans](school_board_85_tag_long-term-strategic-plans.md)

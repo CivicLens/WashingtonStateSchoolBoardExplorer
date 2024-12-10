@@ -1,6 +1,6 @@
-# Positions Supported by Patrick Lewis (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2025)
+# Positions Supported by Lori Glover (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Patrick Lewis | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2025 |
+| Lori Glover | PENINSULA_SCHOOL_DISTRICT | 2021-2027 |
 

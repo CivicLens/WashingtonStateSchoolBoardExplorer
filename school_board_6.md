@@ -1,15 +1,14 @@
-# Meeting Summaries for EVERGREEN_PUBLIC_SCHOOLS
+# Meeting Summaries for PATERSON_SCHOOL_DISTRICT
 
 ## Board Members
 
-| Board Member       | Term           |
-|--------------------|----------------|
-| [Rob Perkins](board_member_26.md) | 2014-2025 |
-| [Jacqueline Weatherspoon](board_member_27.md) | 2022-2025 |
-| [Ginny Gronwoldt](board_member_28.md) | 2017-2025 |
-| [Julie Bocanegra](board_member_29.md) | 2012-2025 |
-| [Gary Wilson](board_member_30.md) | 2023-2025 |
+No current board members available.
 
 ## Available Years
+- [2024](school_board_6_year_2024.md)
 
 ## Summaries by Tag
+- [policy-changes](school_board_6_tag_policy-changes.md)
+- [special-education-support](school_board_6_tag_special-education-support.md)
+- [bullying-prevention](school_board_6_tag_bullying-prevention.md)
+- [school-board-ethics](school_board_6_tag_school-board-ethics.md)

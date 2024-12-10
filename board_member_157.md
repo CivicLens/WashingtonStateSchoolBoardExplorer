@@ -1,6 +1,6 @@
-# Positions Supported by Erin Tostenson (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Breane Martinez (NORTH_KITSAP_SCHOOL_DISTRICT, Term: 2017-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Erin Tostenson | KITTITAS_SCHOOL_DISTRICT | 2021-2027 |
+| Breane Martinez | NORTH_KITSAP_SCHOOL_DISTRICT | 2017-2025 |
 

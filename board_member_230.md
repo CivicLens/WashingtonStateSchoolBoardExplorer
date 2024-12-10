@@ -1,6 +1,6 @@
-# Positions Supported by Jennifer Butler (PENINSULA_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Devin Craig (DIERINGER_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jennifer Butler | PENINSULA_SCHOOL_DISTRICT | 2021-2025 |
+| Devin Craig | DIERINGER_SCHOOL_DISTRICT | 2021-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Wes Martin (GRAPEVIEW_SCHOOL_DISTRICT, Term: )
+# Positions Supported by Ms. Heidi Howard (ONALASKA_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Wes Martin | GRAPEVIEW_SCHOOL_DISTRICT |  |
+| Ms. Heidi Howard | ONALASKA_SCHOOL_DISTRICT | None |
 

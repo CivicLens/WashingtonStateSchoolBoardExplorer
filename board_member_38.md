@@ -1,6 +1,6 @@
-# Positions Supported by Grant Griffen (DAYTON_SCHOOL_DISTRICT, Term: 2019-2027)
+# Positions Supported by Teresa VanNatta (HOCKINSON_SCHOOL_DISTRICT, Term: 2021-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Grant Griffen | DAYTON_SCHOOL_DISTRICT | 2019-2027 |
+| Teresa VanNatta | HOCKINSON_SCHOOL_DISTRICT | 2021-2025 |
 

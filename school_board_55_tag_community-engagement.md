@@ -1,319 +1,254 @@
-# Meeting Summaries for EAST_VALLEY_SCHOOL_DISTRICT with Tag: community-engagement
-
-## 2024-11-12 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
+# Meeting Summaries for NORTHSHORE_SCHOOL_DISTRICT with Tag: community-engagement
 
-The Regular Board Meeting held on November 12, 2024, included the adoption of Board Policy 3242 - Closed Campus, which passed with a majority vote, as Justin Voelker voted against it. This policy change reflects the board's decision to implement a closed campus policy, which may impact student movement during school hours. Additionally, the meeting highlighted community engagement, with discussions on high school athletic concessions and a senior all-nighter event, as well as a recognition of student achievements, such as cross country runner Rachel Metge qualifying for State. The board also approved Resolution 2824, which certifies the 2025 Excess Property Taxes.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-11-12-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on adopting Board Policy 3242 - Closed Campus | Adopted Board Policy 3242 - Closed Campus |
-| [Justin Voelker](board_member_276.md) | voted no on adopting Board Policy 3242 - Closed Campus | Adopted Board Policy 3242 - Closed Campus |
-| [Justin Voelker](board_member_276.md) | voted yes on adopting Board Policy 2415 - Performance-Based Pathway for High School Graduation | Adopted Board Policy 2415 - Performance-Based Pathway for High School Graduation |
-| [Mike Bly](board_member_278.md) | voted yes on adopting Board Policy 2415 - Performance-Based Pathway for High School Graduation | Adopted Board Policy 2415 - Performance-Based Pathway for High School Graduation |
-| [Mike Bly](board_member_278.md) | voted yes on approving Resolution 2824 - Certification of 2025 Excess Property Taxes | Approved Resolution 2824. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving Resolution 2824 - Certification of 2025 Excess Property Taxes | Approved Resolution 2824. |
-
-## 2024-10-22 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on October 22, 2024, included various agenda items focused on community engagement and school safety. Notably, the board approved multiple student travel requests for events such as the AWSL Middle Level Retreat and various wrestling tournaments, indicating an emphasis on student participation in extracurricular activities. A significant discussion point was the pertussis outbreak notification at EVHS, highlighting ongoing health and safety concerns within the school community. 
-
-Additionally, the board tabled the first reading of Board Policy 3242 - Closed Campus until the next meeting, suggesting a potential change in campus access regulations. The meeting also featured updates from Superintendent Brian Talbott regarding outdoor lighting adjustments at EVMS and ongoing facilities improvement efforts. These actions reflect the board's commitment to enhancing the school environment and responding to community needs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-10-22-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Justin Voelker](board_member_276.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consideration and approval of consent items | Final Resolution: Motion Carries Yea: Mike Bly, Justin Voelker, Theresa Noack, Jonathan Horsley |
-
-## 2024-09-24 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on September 24, 2024, included discussions on several key topics, notably the approval of multiple donations to the East Valley School District, which totaled over $7,000 from various local organizations, including the EVHS Booster Club and Pryor's Rustic Restaurant. The board also approved a tunnel use agreement, reflecting ongoing community engagement and support for school activities. A significant point of discussion was the resignation of board member Laura Gates, who will be relocating from the district, prompting reflections on her contributions and the need for board continuity. The meeting also featured presentations from new administrators and updates on district initiatives, such as the upcoming Spokane County School Director's Association meeting and the EVHS Block Party/Open House. The board's decisions and discussions indicate a focus on maintaining ethical standards and transparency in their operations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-09-24-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Mike Bly](board_member_278.md) | voted yes on the tunnel use agreement | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the consent agenda items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the tunnel use agreement | Final Resolution: Motion Carries Yea: Mike Bly, Theresa Noack, Laura Gates, Jonathan Horsley |
-
-## 2024-09-10 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on September 10, 2024, included the approval of several policies and resolutions. Notably, the board approved revised Board Policy 5011, which addresses Sex Discrimination and Sex-Based Harassment of District Staff, and adopted Board Policy 5254, which pertains to Staff Expression. Both policies underwent a second reading before approval. Additionally, Resolution 2823 concerning Stale Dated Warrants was also approved. The meeting highlighted community engagement, with Mr. Voelker mentioning positive feedback about a new mural at EVMS and Ms. Noack discussing ongoing construction projects. The board also received updates on enrollment numbers and upcoming events, including the Spokane Valley Chamber's "Our Schools Event."
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-09-10-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent agenda items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on personnel | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Justin Voelker](board_member_276.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved a donation of $1,212.96 from the EVHS Booster Club to be used for EVHS Football. |
-| [Mike Bly](board_member_278.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Justin Voelker](board_member_276.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on revised Board Policy 5011 | Approved revised Board Policy 5011 - Sex Discrimination and Sex-Based Harassment of District Staff Prohibited. |
-| [Mike Bly](board_member_278.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Justin Voelker](board_member_276.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on adopted Board Policy 5254 | Approved adoption of Board Policy 5254 - Staff Expression. |
-| [Mike Bly](board_member_278.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Justin Voelker](board_member_276.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on Resolution 2823 | Approved Resolution 2823 - Stale Dated Warrants. |
-| [Justin Voelker](board_member_276.md) | voted to table tunnel use agreement | Motioned to table the tunnel use agreement. |
-| [Mike Bly](board_member_278.md) | voted to table tunnel use agreement | Seconded the motion to table the tunnel use agreement. |
-
-## 2024-07-23 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on July 23, 2024, included a discussion led by Mr. Bly regarding updates on the Washington Interscholastic Activities Association (WIAA)'s transgender policy. Additionally, Mr. Talbott presented new language concerning drug and alcohol violations for East Valley student-athletes, indicating a change in policy aimed at addressing substance use among students. The meeting also covered the delay in the Trentwood roof replacement project, which incurred additional costs due to drain failures. The board approved various financial vouchers and contracts, including the East Valley Extracurricular Employees Organization Contract, and weeded book lists from several schools, reflecting ongoing efforts in curriculum management and resource allocation.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-07-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347449 through 347479 | Approved General Fund Voucher Nos. 347449 through 347479 in the amount of $40,523.06 for payment of June bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the A.S.B. Voucher Nos. 347480 through 347501 | Approved A.S.B. Voucher Nos. 347480 through 347501 in the amount of $15,418.89 for payment of June bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347429 through 347439 for June payroll | Approved General Fund Voucher Nos. 347429 through 347439 in the amount of $434.09 for June payroll. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347440 through 347448 for June payroll | Approved General Fund Voucher Nos. 347440 through 347448 in the amount of $802,728.59 for June payroll. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve ACH Numbers 232401499 through 232401577 | Approved ACH Numbers 232401499 through 232401577 in the amount of $428,827.09 for payment of June bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347502 through 347511 | Approved General Fund Voucher Nos. 347502 through 347511 in the amount of $44,608.66 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347512 through 347546 | Approved General Fund Voucher Nos. 347512 through 347546 in the amount of $96,238.39 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the Capital Projects Fund Voucher Nos. 347547 through 347549 | Approved Capital Projects Fund Voucher Nos. 347547 through 347549 in the amount of $684,942.95 for payment of July bills...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the A.S.B. Fund Voucher Nos. 347550 through 347556 | Approved A.S.B. Fund Voucher Nos. 347550 through 347556 in the amount of $1,740.71 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve ACH Numbers 232401578 through 232401659 | Approved ACH Numbers 232401578 through 232401659 in the amount of $456,581.46 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve ACH Numbers 232401660 through 232401675 | Approved ACH Numbers 232401660 through 232401675 in the amount of $428,985.21 for payment of July bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the East Valley Extracurricular Employees Organization Contract | Approved the East Valley Extracurricular Employees Organization Contract. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the weeded book lists | Approved the CCS, Trent, Trentwood, East Farms, Otis Orchards, and EVMS weeded book lists. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347449 through 347479 | Approved General Fund Voucher Nos. 347449 through 347479 in the amount of $40,523.06 for payment of June bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the A.S.B. Voucher Nos. 347480 through 347501 | Approved A.S.B. Voucher Nos. 347480 through 347501 in the amount of $15,418.89 for payment of June bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347429 through 347439 for June payroll | Approved General Fund Voucher Nos. 347429 through 347439 in the amount of $434.09 for June payroll. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347440 through 347448 for June payroll | Approved General Fund Voucher Nos. 347440 through 347448 in the amount of $802,728.59 for June payroll. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve ACH Numbers 232401499 through 232401577 | Approved ACH Numbers 232401499 through 232401577 in the amount of $428,827.09 for payment of June bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347502 through 347511 | Approved General Fund Voucher Nos. 347502 through 347511 in the amount of $44,608.66 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the General Fund Voucher Nos. 347512 through 347546 | Approved General Fund Voucher Nos. 347512 through 347546 in the amount of $96,238.39 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the Capital Projects Fund Voucher Nos. 347547 through 347549 | Approved Capital Projects Fund Voucher Nos. 347547 through 347549 in the amount of $684,942.95 for payment of July bills...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the A.S.B. Fund Voucher Nos. 347550 through 347556 | Approved A.S.B. Fund Voucher Nos. 347550 through 347556 in the amount of $1,740.71 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve ACH Numbers 232401578 through 232401659 | Approved ACH Numbers 232401578 through 232401659 in the amount of $456,581.46 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve ACH Numbers 232401660 through 232401675 | Approved ACH Numbers 232401660 through 232401675 in the amount of $428,985.21 for payment of July bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the East Valley Extracurricular Employees Organization Contract | Approved the East Valley Extracurricular Employees Organization Contract. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the weeded book lists | Approved the CCS, Trent, Trentwood, East Farms, Otis Orchards, and EVMS weeded book lists. |
-
-## 2024-06-25 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on June 25, 2024, included discussions on various topics significant to the school district. Notably, Superintendent Brian Talbott reported on vandalism at Trentwood Elementary, which resulted in the closure of the playground, highlighting ongoing concerns related to school safety. Additionally, the board received updates on the Initiative for Student Wellness (ISW), which aims to improve mental health among students, as presented by Amanda Kirkpatrick, Hannah Hirshfield, and Chrystal Gaunt. The board also addressed policy changes, including the approval of the 26/27 CCS calendar and the renewal of the WIAA Membership, which underscores the district's commitment to maintaining community engagement through sports and extracurricular activities. Furthermore, the board discussed the new student handbook language from OSPI regarding harassment, intimidation, and bullying (HIB), indicating a focus on enhancing policies related to student welfare and safety.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-06-25-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
-| [Mike Bly](board_member_278.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent agenda items | Approved General Fund Voucher Nos. 347366 through 347418, A.S.B. Fund Voucher Nos. 347419 through 347428, and ACH Number...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel items | Approved personnel items as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on business items | Approved the East Farms weeded book list, EVHS obsolete textbook list, donation from the EVHS Booster Club, 26/27 CCS ca...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on WIAA Membership renewal | Approved WIAA Membership renewal. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on superintendent contract renewal | Approved the superintendent contract renewal after executive session. |
-
-## 2024-05-28 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on May 28, 2024, included a public comment segment where Todd Gropp expressed concerns regarding fairness in relation to transgender athletes. This topic aligns with ongoing discussions about inclusivity and equity in school sports. The board also approved revisions to Board Policy 4060 - Distribution of Information, indicating a commitment to updating policies related to information dissemination. Additionally, Tammy Campbell from The Scholar First unveiled the 2024-2030 Strategic Plan, reflecting the district's long-term strategic planning efforts aimed at improving educational outcomes and addressing community needs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-28-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the consent agenda | The consent agenda included various items such as the approval of vouchers and personnel. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve vouchers | Approved General Fund, Capital Projects Fund, and A.S.B. Fund vouchers for payment of May bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve personnel | The personnel items were approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve student travel | Approved student travel for various events including basketball tournaments. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve revisions to Board Policy 4060 | Revisions to Board Policy 4060 - Distribution of Information were approved. |
-
-## 2024-05-14 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on May 14, 2024, included several key approvals and recognitions. The board approved multiple student travel initiatives, including trips to Silverwood in Idaho and the FBLA National Competition in Orlando, Florida, demonstrating community engagement through student activities. Additionally, the board recognized The Hub as the East Valley's 2024 Community Partner for their partnership with the East Valley School District (EVSD). Significant donations were approved for educational resources, including $52,195.03 from the CCS PTSA for playground equipment, and $1,200 from Challenger Pipe and Steel LLC for library books at Trent Elementary. The meeting also featured a first reading of a revised Board Policy 4060 regarding the Distribution of Information, indicating a potential change in how information is disseminated within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-05-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the vouchers | Approved ACH Numbers 232401159 through 232401259 in the amount of $179,121.50 for payment of May bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve business items | Approved Trent student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve consent items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the vouchers | Approved ACH Numbers 232401159 through 232401259 in the amount of $179,121.50 for payment of May bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve personnel items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve business items | Approved Trent student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve consent items | Approved as presented. |
-
-## 2024-04-23 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on April 23, 2024, included significant discussions and approvals regarding personnel changes and student travel. The board unanimously approved the resignation of Cari Roderick, Assistant Director of Technology and Assessment, as part of the consent agenda. Additionally, the board approved student travel plans for various schools, including EVMS and EVHS, to attend events in Silverwood and Renton, WA. Ms. Noack reported on legislative changes, noting that HB2494 has passed, which will increase state funding for school operating costs effective June 6, 2024. The board also discussed the potential collaboration with the Spokane County Sheriff's Department to access East Valley's exterior cameras, aimed at enhancing school safety and real-time response capabilities.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-04-23-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Justin Voelker](board_member_276.md) | voted yes on amending the personnel report to include the resignation of Cari Roderick | With a motion by Laura Gates, second by Theresa Noack all were in favor of amending the personnel report to include the ...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on amending the personnel report to include the resignation of Cari Roderick | With a motion by Laura Gates, second by Theresa Noack all were in favor of amending the personnel report to include the ...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Silverwood | Approved EVMS student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Silverwood | Approved EVMS student travel to Silverwood in Athol, ID on June 13, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Renton for a track meet | Approved EVHS student travel to Renton, WA, May 3 - May 4, 2024, for a track meet. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Renton for a track meet | Approved EVHS student travel to Renton, WA, May 3 - May 4, 2024, for a track meet. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving student travel to Post Falls | Approved EVHS student travel to Post Falls, ID on May 3, 2024, for the construction career day. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving student travel to Post Falls | Approved EVHS student travel to Post Falls, ID on May 3, 2024, for the construction career day. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving consent agenda items | Recommend approval of presented consent agenda items. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving consent agenda items | Recommend approval of presented consent agenda items. |
-
-## 2024-03-26 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on March 26, 2024, included several key actions and discussions. The board approved the personnel report, which notably included the removal of a request for a leave of absence by Brianna Kramm, a Health and Fitness Teacher at Otis Orchards Elementary, effective from April 9, 2024, through June 14, 2024. Additionally, Ms. Noack reported on legislative matters, specifically addressing a recent special education enrollment funding cap passed by the house, which is currently awaiting senate approval. The board also discussed HB2494, a bill aimed at increasing state funding for school operating costs. These discussions reflect ongoing policy changes that may impact funding and support for special education within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-26-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the personnel report | The personnel report was amended to include the resignation of Calvin Lockett and the hire of Michael McCune. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the 26/27 School Year District Calendar | The 26/27 School Year District Calendar was presented and approved. |
-| [Mike Bly](board_member_278.md) | voted no on the motion to approve the extended leave of absence for Brianna Kramm | The board denied the request for extended leave of absence for the 24/25 SY for Brianna Kramm. |
-| [Jonathan Horsley](board_member_277.md) | voted no on the motion to approve the extended leave of absence for Brianna Kramm | The board denied the request for extended leave of absence for the 24/25 SY for Brianna Kramm. |
-
-## 2024-03-12 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on March 12, 2024, included discussions on several key topics, notably the personnel report which featured a certificated resignation of Rebeccah Baker, a K-12 Multilingual educator, effective August 31, 2024, after nine years of service. Additionally, the board approved multiple student travel plans for events including the FFA Meat Evaluation Clinic and the Washington State FFA Convention. Superintendent Brian Talbott reported on the potential collaboration with the Spokane Valley/Liberty Lake Little League regarding the use of Mountainview Middle School's quadplex ballfields, indicating ongoing discussions with local neighbors to gauge community sentiment. The meeting concluded with no public comments and was adjourned at 8:22 PM.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-03-12-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Justin Voelker](board_member_276.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on personnel report amendment | The personnel report was amended to include the resignation of Rebeccah Baker and the release of Tara Truscott. |
-| [Mike Bly](board_member_278.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Justin Voelker](board_member_276.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on obsolete book list | Approved obsolete book list. |
-| [Mike Bly](board_member_278.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Justin Voelker](board_member_276.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on student travel approvals | Approved EVHS student travel for various events. |
-| [Mike Bly](board_member_278.md) | voted yes on consent items | Approved consent items. |
-| [Justin Voelker](board_member_276.md) | voted yes on consent items | Approved consent items. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on consent items | Approved consent items. |
-
-## 2024-02-27 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on February 27, 2024, included several key actions and discussions pertinent to policy changes and school safety. The board approved revisions to Board Policy 6950, which pertains to Contractor Assurances, Surety Bonds, Insurance, and Change Orders, and Board Policy 6220, which outlines Bid or Request for Proposal Requirements. These revisions were approved unanimously, indicating a streamlined approach to contractor management and procurement processes. Additionally, the meeting featured discussions on school safety, particularly regarding vaping issues at EVHS, as highlighted by Mr. Horsley, who reported on his conversations with Principal Ryan Arnold about addressing this concern. The board also received updates on various student activities and financial reports, emphasizing community engagement and the importance of student health and safety.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-02-27-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Mike Bly](board_member_278.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Justin Voelker](board_member_276.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the vouchers for payment of February bills | Approved ACH Numbers 232400746 through 232400828, totaling $353,523.15 for payment of February bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the personnel items | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve student travel for EVHS and EVMS | Approved EVHS student travel to Rainier, OR, for the History Bowl Tournament. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the revision of Board Policy 6950 | Approved as presented. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on the motion to approve the revision of Board Policy 6220 | Approved as presented. |
-
-## 2024-01-09 - EAST_VALLEY_SCHOOL_DISTRICT (Minutes)
-
-The Regular Board Meeting held on January 9, 2024, included discussions and approvals of several key items. Notably, the board approved the 2023-24 School Improvement Plans, which are part of the district's long-term strategic planning efforts led by Dr. Tammy Campbell. The meeting also saw the approval of a donation of $1,899.58 from the East Valley Booster Club for volleyball uniforms, reflecting community engagement in school activities. Additionally, the board decided to remove the personnel report from the consent agenda, indicating a change in how personnel matters are addressed in meetings. The meeting concluded with an executive session to review the performance of a public employee, highlighting ongoing oversight of staff performance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/spokane/school_boards/east_valley_school_district/2024/2024-01-09-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Mike Bly](board_member_278.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Mike Bly](board_member_278.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Mike Bly](board_member_278.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Mike Bly](board_member_278.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Mike Bly](board_member_278.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
-| [Justin Voelker](board_member_276.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Justin Voelker](board_member_276.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on removing the personnel report from the consent agenda | With a motion made by Theresa Noack, seconded by Mike Bly, all were in favor of removing the personnel report from the c...[truncated, use api for full text] |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the minutes of the December 12, 2023 Regular Board Meeting | Motion by Mike Bly, second by Jonathan Horsley. Final Resolution: Motion Carries. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving vouchers for payment of December bills | Approved ACH Numbers 232400534 through 232400598 in the amount of $273,267.27 for payment of December bills. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving a donation from the East Valley Booster Club | Approved a donation of $1,899.58 from the East Valley Booster Club to be used towards volleyball uniforms. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the PEP program fundraising activities | Approved the PEP program fundraising activities for February 8, 2024, and April 18, 2024. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the 2023-24 School Improvement Plans | Approved the 2023-24 School Improvement Plans. |
-| [Jonathan Horsley](board_member_277.md) | voted yes on approving the personnel report | With a motion made by Mike Bly, seconded by Theresa Noack, all were in favor of approving the personnel report. |
+## 2024-11-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting on November 19, 2024, to conduct a school visit at Innovation Lab High School. The meeting was attended by board members including Amy Cast, the President, and Superintendent Michael Tolley, among others. The primary focus of the visit was to engage with the school's Strategic Action Plan, which likely encompasses initiatives related to educational technology and innovative teaching practices. The meeting commenced at 9:00 AM and was adjourned at 11:00 AM, reflecting a structured agenda aimed at fostering community engagement and assessing the implementation of strategic educational initiatives within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-19-minutes.txt)
+
+## 2024-11-18 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting titled "Conversations With the Board" at Canyon Park Middle School on November 18, 2024. The meeting commenced at 6:00 PM and was attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley. The primary focus of this meeting was to engage with the community, as indicated by the event's title. The meeting concluded at 7:34 PM, and the minutes were generated by Peggy King the following day. The minutes were approved on November 25, 2024, by Secretary Mr. Michael Tolley and President Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-11-18-minutes.txt)
+
+## 2024-10-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a Special Meeting on October 23, 2024, at Edmonds Woodway High School to address the Education Funding Crisis during a Town Hall event. The meeting, which started at 6:00 PM and concluded at 8:00 PM, included attendance from Board members Elisabeth Sotak, Jacqueline McGourty, Hân Trần, Sandy Hayes, and President Amy Cast, along with Superintendent Michael Tolley. The focus was on discussing the current education funding challenges, highlighting the importance of community engagement in addressing these issues. The meeting was formally documented and approved on October 28, 2024, by Mr. Michael Tolley and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-23-minutes.txt)
+
+## 2024-10-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on October 15, 2024, at North Creek High School to attend the i2109 Capital Gains Initiative Town Hall, which focused on community engagement regarding the initiative. The meeting commenced at 6:00 PM and concluded at 8:00 PM. Board members present included Jacqueline McGourty, Sandy Hayes, and Amy Cast, who serves as President. The town hall aimed to discuss the implications and community perspectives on the capital gains initiative, although specific details regarding the initiative's content or any resulting policy changes were not provided in the meeting minutes. The meeting was officially adjourned after the town hall discussion.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-15-minutes.txt)
+
+## 2024-10-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on October 10, 2024, to attend the Groundbreaking Ceremony for Maywood Hills Elementary School. The meeting commenced at 5:00 PM and was attended by key members of the board, including President Amy Cast and Superintendent Mr. Michael Tolley. The event signifies the district's commitment to community engagement and development in education. The meeting was adjourned at 6:00 PM, and the minutes were approved on October 14, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-10-minutes.txt)
+
+## 2024-10-09 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting at Woodin Elementary School on October 9, 2024, at 5:00 PM to participate in the Woodin Elementary Groundbreaking Ceremony. The meeting was attended by board members including President Amy Cast, Superintendent Mr. Michael Tolley, and other directors. The primary focus of the meeting was the ceremonial start of construction for the new elementary school, highlighting the district's commitment to community engagement and educational development. The meeting concluded at 6:00 PM, and the minutes were approved on October 14, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-09-minutes.txt)
+
+## 2024-10-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on October 8, 2024, to attend the Kenmore Elementary Groundbreaking Ceremony, which commenced at 5:00 PM and was adjourned at 6:00 PM. The meeting included attendance from board members Elisabeth Sotak, Jacqueline McGourty, and Amy Cast, the President, alongside JoLynn Berge, the Deputy Superintendent. This event reflects community engagement in the development of educational facilities within the district, highlighting the Board's involvement in significant milestones for local schools.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-08-minutes.txt)
+
+## 2024-10-03 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting on October 3, 2024, at 5:00 PM to participate in the Career and Technical Education (CTE) Fall Kickoff Event. The meeting, attended by Board members Hân Trần, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley, emphasized community engagement in CTE initiatives. The meeting was adjourned at 6:30 PM, with the minutes generated by Peggy King on October 8, 2024, and approved on October 14, 2024, by Mr. Michael Tolley and Amy Cast. The focus on CTE suggests an ongoing commitment to enhancing vocational and technical education within the district.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-10-03-minutes.txt)
+
+## 2024-09-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on September 30, 2024, at Crystal Springs Elementary for the Groundbreaking Ceremony. The meeting commenced at 5:00 PM and included attendance by board members Hân Trần, Elisabeth Sotak, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The primary focus of the meeting was the celebration of the new elementary school's construction, demonstrating community engagement in the district's educational infrastructure development. The meeting was adjourned at 6:00 PM, with the minutes approved on October 14, 2024, by Mr. Michael Tolley and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-30-minutes.txt)
+
+## 2024-09-25 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on September 25, 2024, at Fernwood Elementary School to attend the groundbreaking ceremony for the new Fernwood Elementary. The meeting commenced at 5:00 PM and included attendance from board members Hân Trần, Jacqueline McGourty, and Amy Cast, who serves as President, along with Superintendent Mr. Michael Tolley. The meeting concluded at 6:00 PM, emphasizing the district's commitment to community engagement through the development of new educational facilities. The minutes were generated by Peggy King and approved on October 14, 2024, by Mr. Michael Tolley and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-25-minutes.txt)
+
+## 2024-09-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on September 23, 2024, where they discussed the "B's and R's" and "Conversations With the Board" for the upcoming 2024-2025 school year. The meeting, attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley, focused on reviewing policies and strategies aimed at enhancing community engagement. The session was called to order at 5:34 PM and adjourned at 6:43 PM, with the minutes generated by Peggy King on October 7, 2024. No specific policy changes or controversial topics were noted in the session's summary.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-23-minutes.txt)
+
+## 2024-09-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on September 4, 2024, to commemorate the Zach LaVine Court Dedication and Jersey Retirement at Bothell High School. The meeting commenced at 8:30 AM and was attended by board members Hân Trần, Jacqueline McGourty, and Amy Cast, who serves as President. The event reflects community engagement and recognition of local achievements, particularly in honoring former student-athlete Zach LaVine. The meeting concluded at 9:30 AM, with the minutes being generated by Peggy King on September 18, 2024, and later approved on September 23, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-09-04-minutes.txt)
+
+## 2024-08-25 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on August 25, 2024, to participate in Community Serve Day at various school locations. The meeting commenced at 9:00 AM and was attended by members including Elisabeth Sotak, Hân Trần, Sandy Hayes, and Amy Cast, who serves as President. The meeting concluded at 1:00 PM, reflecting the board's engagement with the community through service activities. The minutes were generated by Peggy King and were approved on September 9, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-25-minutes.txt)
+
+## 2024-08-20 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Special Meeting of the Northshore School District Board of Directors took place on August 20, 2024, at the Kenmore Community Club, focusing on community engagement through a Town Hall format. The meeting commenced at 6:00 PM and included attendance by Board members Sandy Hayes, Jacqueline McGourty, and Amy Cast, the Board President. The meeting served as a platform for discussions related to the community's interests and concerns, although specific topics discussed were not detailed in the minutes. The meeting concluded at 7:30 PM and was officially adjourned. The minutes were approved on September 9, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-20-minutes.txt)
+
+## 2024-08-19 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Special Meeting of the Board of Directors, held on August 19, 2024, at Pop Keeney Stadium, focused on planning and self-assessment during a Board Retreat. The meeting was attended by board members Hân Trần, Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The retreat aimed to facilitate community engagement and assess the board's policies and effectiveness. The meeting was adjourned at 7:52 PM, and the minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and President Amy Cast. No specific policy changes or controversial content were noted during the meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-19-minutes.txt)
+
+## 2024-08-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Special Meeting of the Board of Directors took place on August 15, 2024, at Pop Keeney Stadium to attend the Wall of Honor Ceremony. The meeting was called to order at 6:00 PM and was attended by board members Sandy Hayes and Jacqueline McGourty, but did not meet the quorum requirement. The meeting concluded at 7:30 PM. The minutes were generated by Peggy King and later approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President of the Board of Directors. The event emphasized community engagement through the recognition of individuals honored on the Wall of Honor.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-15-minutes.txt)
+
+## 2024-08-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Special Meeting of the Board of Directors was held on August 12, 2024, at the Administrative Center Board Room, primarily focused on a Meet & Greet for the new administrator. The meeting commenced at 4:00 PM and included attendance from board members Elisabeth Sotak, Sandy Hayes, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The gathering aimed to facilitate community engagement by allowing board members and the new administrator to interact and foster relationships. The meeting concluded at 4:20 PM, and the minutes were approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast, President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-12-minutes.txt)
+
+## 2024-08-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting at Pop Keeney Stadium on August 8, 2024, to attend the Back to School Resource Fair. The meeting commenced at 4:00 PM and was attended by board members Hân Trần, Sandy Hayes, Jacqueline McGourty, and Amy Cast, who is the President of the Board. The primary focus of the meeting was community engagement, as the board participated in the resource fair aimed at providing information and resources to families as the school year began. The meeting concluded at 5:30 PM, with the minutes generated by Peggy King on August 20, 2024, and approved on August 26, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-08-08-minutes.txt)
+
+## 2024-07-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a regular meeting on July 8, 2024, where several key actions and reports were discussed. The board approved the 2024-2025 Budget Adoption through Resolution No. 894, which reflects the district's financial planning for the upcoming year. Additionally, the board approved various contracts, including a five-year copier lease with Copiers Northwest and a beverage supply contract with EK Beverage Company, both aimed at enhancing operational efficiency. Superintendent Michael Tolley reported on the commencement of the Elementary Summer Programs, indicating community engagement with approximately 256 students participating, alongside discussions on middle school tennis by public commenters. The meeting also included the adoption of a consent agenda that encompassed minutes from previous meetings and various personnel reports.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-07-08-minutes.txt)
+
+## 2024-06-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 13, 2024, to attend the Northshore Retiree Event, demonstrating their engagement with the community and support for retiring staff. The meeting commenced at 4:30 PM and was attended by board members Sandy Hayes, Jacqueline McGourty, and Amy Cast, who serves as President, along with Superintendent Mr. Michael Tolley. The event concluded with the meeting being adjourned at 6:35 PM. The minutes were generated by Peggy King and were approved on June 24, 2024, by Mr. Michael Tolley as Secretary to the Board and Amy Cast as President, indicating the formal recognition of the meeting's proceedings.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-13-minutes.txt)
+
+## 2024-06-11 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 11, 2024, to celebrate the Adult Transition Pathways program, which focuses on supporting students with special education needs as they transition to adulthood. The meeting commenced at 6:00 PM and included attendance from key board members and the superintendent, Mr. Michael Tolley. The event highlighted the district's commitment to community engagement and support services for students requiring special education, culminating in the meeting's adjournment at 7:00 PM. The minutes were approved on June 24, 2024, by Mr. Tolley and Amy Cast, the Board President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-11-minutes.txt)
+
+## 2024-06-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 10, 2024, to attend the Adults Transitioning to Independence Graduation at North Creek High School. This event highlights the district's commitment to special education support, particularly for adults transitioning to independence. The meeting was attended by key figures, including Superintendent Mr. Michael Tolley and Board President Amy Cast, emphasizing community engagement in supporting students with special needs. The meeting commenced at 6:00 PM and was adjourned at 7:00 PM, reflecting a focused agenda centered on celebrating the achievements of these individuals.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-10-minutes.txt)
+
+## 2024-06-07 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on June 7, 2024, at Eastside Church, primarily focused on the Northshore PTSA Council Spring Recognition event. The meeting commenced at 10:30 AM and was attended by board members Sandy Hayes, Jacqueline McGourty, and Amy Cast, who serves as the President. The discussions centered around the recognition of contributions made by the PTSA, highlighting the importance of community engagement within the school district. The meeting concluded at 12:45 PM, and the minutes were approved on June 10, 2024, by Mr. Michael Tolley, Secretary to the Board, and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-07-minutes.txt)
+
+## 2024-06-03 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting on June 3, 2024, in a joint session with the Bothell City Council to discuss topics of mutual interest. The meeting was called to order at 6:00 PM and included attendance from key figures such as Amy Cast, the Board President, and Michael Tolley, the Superintendent. The session focused on fostering community engagement between the school district and the city council, although specific topics discussed were not detailed in the minutes. The meeting was adjourned at 7:32 PM, and the minutes were approved on June 10, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-06-03-minutes.txt)
+
+## 2024-05-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting titled "Conversations With the Board" on May 29, 2024, at Inglemoor High School Library. The meeting commenced at 6:00 PM and included attendance from board members and the superintendent, Mr. Michael Tolley. The primary focus of this meeting was community engagement, allowing board members to interact with attendees and discuss various topics of interest. The meeting was adjourned at 7:30 PM, and the minutes were generated by Peggy King on June 5, 2024, with approval dated June 10, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-29-minutes.txt)
+
+## 2024-05-21 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on May 21, 2024, at the Northshore Concert Hall to attend the C.P. and Dorothy Johnson Award Ceremony. The meeting commenced at 6:00 PM and was attended by Board members including President Amy Cast and Superintendent Mr. Michael Tolley. The event focused on recognizing contributions to the community, reflecting the district's commitment to community engagement. The meeting concluded at 7:00 PM, and the minutes were approved on May 28, 2024, by Mr. Michael Tolley as Secretary to the Board and President Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-21-minutes.txt)
+
+## 2024-05-13 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a study session on May 13, 2024, where they discussed future Board advocacy. The session was attended by Board members including President Amy Cast and Superintendent Michael Tolley, with one member participating remotely. The meeting concluded with an adjournment at 6:20 PM. The focus on future advocacy suggests potential changes or initiatives that may be forthcoming, although specific policies or proposals were not detailed in the minutes provided. The board's engagement in discussion indicates a proactive approach to community involvement and governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-13-minutes.txt)
+
+## 2024-05-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a Special Meeting on May 4, 2024, to participate in the Northshore Family Symposium. The meeting was called to order at 9:00 AM and adjourned at 1:00 PM, with attendance noted for several board members and the superintendent, Mr. Michael Tolley. The main focus of the meeting was the Board's involvement in the symposium, which likely aimed to foster community engagement among families within the district. No specific policy changes, resolutions, or controversial content were discussed during this meeting as it primarily centered around the symposium event.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-05-04-minutes.txt)
+
+## 2024-04-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on April 29, 2024, at the Issaquah School District Administration Building to attend the WSSDA Regional Meeting. The meeting commenced at 6:00 PM and was attended by board members including President Amy Cast, Superintendent Mr. Michael Tolley, and other directors. The session focused on community engagement as the board participated in discussions pertinent to the Washington State School Directors' Association, emphasizing collaboration among school districts. The meeting was adjourned at 8:30 PM, and the minutes were approved on May 13, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-04-29-minutes.txt)
+
+## 2024-03-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 30, 2024, during the Northshore Schools Foundation Event. The meeting commenced at 7:00 PM and was attended by board members Jacqueline McGourty, Sandy Hayes, and Hân Trần, along with Superintendent Mr. Michael Tolley. The primary focus of the meeting was on community engagement as the board participated in the foundation event. The meeting concluded at 10:00 PM, and the minutes were approved on April 22, 2024, by Mr. Michael Tolley, who serves as the Secretary to the Board, and Amy Cast, the President of the Board of Directors.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-30-minutes.txt)
+
+## 2024-03-22 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 22, 2024, to attend the Student Justice Conference at Cascadia College. The meeting, which commenced at 9:30 AM and adjourned at 2:30 PM, included attendance from board members Hân Trần, Jacqueline McGourty, and Amy Cast, who serves as the President. The focus of the conference likely revolved around themes of diversity and inclusion, as indicated by the event's title, suggesting an emphasis on student justice issues within the educational context. The meeting was officially documented by Peggy King and was later approved by Mr. Michael Tolley, the Secretary to the Board, and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-22-minutes.txt)
+
+## 2024-03-14 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 14, 2024, to attend the Northshore PTSA Reflections Celebration. The meeting commenced at 4:30 PM and concluded at 7:30 PM. In attendance were board members including President Amy Cast and Superintendent Mr. Michael Tolley. The focus of the meeting was on community engagement through the PTSA event, which celebrates student creativity and achievements in the arts. The meeting was officially documented and approved on March 25, 2024, by Mr. Michael Tolley as Secretary to the Board and Amy Cast as President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-14-minutes.txt)
+
+## 2024-03-12 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting titled "Conversations With the Board" on March 12, 2024, at Leota Middle School Library. The meeting commenced at 6:00 PM and was attended by board members including President Amy Cast and Superintendent Mr. Michael Tolley. The primary focus of the meeting was to engage with the community, as indicated by its title, which suggests an emphasis on dialogue and feedback from constituents. The meeting concluded at 7:30 PM and was formally adjourned. The minutes from this meeting were generated by Peggy King and approved on March 25, 2024, by Mr. Michael Tolley as Secretary to the Board and Amy Cast as President.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-12-minutes.txt)
+
+## 2024-03-05 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on March 5, 2024, at Bothell High School, focused on the CTE (Career and Technical Education) Career and College Readiness Open House. The meeting commenced at 6:30 PM and was attended by board members including President Amy Cast and Superintendent Michael Tolley. The event aimed to engage the community in discussions about career readiness and educational pathways for students. The meeting concluded at 8:00 PM, underscoring the board's commitment to fostering community involvement in educational initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-03-05-minutes.txt)
+
+## 2024-02-10 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on February 10, 2024, to attend the Northshore Girls Flag Football Championship at Pop Keeney Stadium. The meeting, called to order at 10:00 AM and adjourned at Noon, included attendance from board members Hân Trần, Jacqueline McGourty, and President Amy Cast, along with Superintendent Mr. Michael Tolley. This event highlights the Board's commitment to community engagement through support of local sports initiatives. The meeting was documented by Peggy King, and the minutes were approved on February 26, 2024, by Mr. Michael Tolley and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-10-minutes.txt)
+
+## 2024-02-05 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special joint meeting with the Kenmore City Council on February 5, 2024, at 7:00 PM. The meeting focused on discussing topics of mutual interest between the two governing bodies. Key attendees included Board President Amy Cast, Superintendent Michael Tolley, and other board members. The session commenced at 7:02 PM and concluded at 8:27 PM. The collaborative nature of the meeting highlights the district's commitment to community engagement and fostering relationships with local government entities.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-02-05-minutes.txt)
+
+## 2024-01-30 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 30, 2024, at Bothell High School as part of their Strategic Action Plan School Visit. The meeting commenced at 9:00 AM and included attendance by Board members Elisabeth Sotak, Hân Trần, and President Amy Cast, along with Superintendent Mr. Michael Tolley. The primary focus of the meeting was to engage with the school community and assess the implementation of the district's strategic initiatives. The meeting concluded at 11:00 AM, and the minutes were approved on February 12, 2024, by Mr. Michael Tolley and Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-30-minutes.txt)
+
+## 2024-01-29 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 29, 2024, to participate in the Legislative Day On the Hill in Olympia, Washington. The meeting commenced at 9:00 AM and was attended by board members, including President Amy Cast. The board's engagement in this event highlights their involvement in state-level legislative discussions and community engagement efforts. The meeting was formally adjourned at 5:00 PM, and the minutes were generated by Peggy King on February 5, 2024. The meeting was approved on February 12, 2024, by Mr. Michael Tolley, Secretary to the Board, and President Amy Cast.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-29-minutes.txt)
+
+## 2024-01-23 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a special meeting on January 23, 2024, for a strategic action plan school visit to Arrowhead Elementary School. The meeting commenced at 10:00 AM and concluded at 12:00 PM, with attendance from several board members including President Amy Cast and Superintendent Michael Tolley. The primary focus of the meeting was to engage with the school community and observe the implementation of the district's strategic action plan. This visit reflects the board's commitment to community engagement and oversight of educational initiatives within the district. The minutes of the meeting were approved on February 12, 2024.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-23-minutes.txt)
+
+## 2024-01-15 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors convened a special meeting on January 15, 2024, to participate in the PTSA Focus on Advocacy Day held in Olympia, Washington. The meeting commenced at 9:00 AM and concluded at 4:30 PM, with key attendance from board members including Elisabeth Sotak, Hân Trần, and Jacqueline McGourty, as well as Mr. Michael Tolley, the Superintendent. This event highlights the district's engagement with community advocacy efforts, focusing on collaboration with the Parent-Teacher-Student Association (PTSA) to influence educational policies and practices at the state level. The meeting minutes were generated by Peggy King and later approved on January 22, 2024, by Mr. Michael Tolley and Amy Cast, the President of the Board.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-15-minutes.txt)
+
+## 2024-01-08 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a regular meeting on January 8, 2024, where they approved several policy changes and discussed community engagement strategies. Notably, the Board adopted New Board Policy No. 4400 concerning Election Activities and revised Board Policy 0001 on Racial and Educational Justice. Superintendent Michael Tolley provided a report highlighting recent school visits and advocacy planning efforts, while Dr. Tracy Meloy recognized Board members for School Board Recognition Month. Additionally, Director Elisabeth Sotak suggested offering childcare during meetings to enhance parent involvement, indicating a focus on community engagement. The Board also addressed comments related to student wellness and budget reductions, reflecting ongoing concerns about student health and resource allocation.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-08-minutes.txt)
+
+## 2024-01-04 - NORTHSHORE_SCHOOL_DISTRICT (Minutes)
+
+The Northshore School District Board of Directors held a Special Meeting on January 4, 2024, focused on Advocacy Strategy Planning. The meeting commenced at 5:00 PM and included attendance from board members and the superintendent, Mr. Michael Tolley. The main agenda item was the discussion of advocacy strategies, indicating a commitment to community engagement and collaboration. The meeting concluded at 6:30 PM, and the minutes were approved on January 22, 2024, by Mr. Tolley and Amy Cast, the board president. No specific policies, resolutions, or controversial content were noted in the minutes of this meeting.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/snohomish/school_boards/northshore_school_district/2024/2024-01-04-minutes.txt)
 

@@ -1,6 +1,6 @@
-# Positions Supported by Jennifer Killman (MEAD_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Chad Denny (LIBERTY_SCHOOL_DISTRICT, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jennifer Killman | MEAD_SCHOOL_DISTRICT | 2023-2027 |
+| Chad Denny | LIBERTY_SCHOOL_DISTRICT | 2022-2025 |
 

@@ -1,6 +1,6 @@
-# Positions Supported by Meaghan Vibbert (EASTMONT_SCHOOL_DISTRICT, Term: 2019-2027)
+# Positions Supported by Paul Ebreo (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Meaghan Vibbert | EASTMONT_SCHOOL_DISTRICT | 2019-2027 |
+| Paul Ebreo | BRIDGEPORT_SCHOOL_DISTRICT | December 2025 |
 

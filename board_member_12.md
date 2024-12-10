@@ -1,6 +1,6 @@
-# Positions Supported by Sara Pipkin (CASHMERE_SCHOOL_DISTRICT, Term: 11/27)
+# Positions Supported by Dr. Josh Miller (KENNEWICK_SCHOOL_DISTRICT, Term: 2023-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Sara Pipkin | CASHMERE_SCHOOL_DISTRICT | 11/27 |
+| Dr. Josh Miller | KENNEWICK_SCHOOL_DISTRICT | 2023-2027 |
 

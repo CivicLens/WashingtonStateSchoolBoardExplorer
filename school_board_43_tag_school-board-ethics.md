@@ -1,0 +1,8 @@
+# Meeting Summaries for WHITE_SALMON_VALLEY_SCHOOL_DISTRICT with Tag: school-board-ethics
+
+## 2024-03-02 - WHITE_SALMON_VALLEY_SCHOOL_DISTRICT (Minutes)
+
+The regular meeting of the White Salmon Valley School District Board of Education on March 28, 2024, included significant updates and actions regarding various board policies. Superintendent Rich Polkinghorn provided an update on the state of public education funding in Washington, noting a stable district position but warning of potential future budget crises due to declining enrollment and the need for changes in the state funding model. The board conducted a first reading of multiple updated policies, including Policy 4001 (Public Information Program), which is a new policy replacing the previous 4000, and Policy 4215 (Use of Tobacco, Nicotine Products and Delivery Devices), among others. The board also reviewed an emergency waiver request to reduce the number of snow days, potentially adjusting the last day of school to June 18. In action items, the board approved updated policies related to student discipline and harassment, and voted to retire Policies 4314 and 4315. The meeting highlighted community engagement through reports from student representatives and recognition of educational activities, such as the recent Outdoor School Experience presented by students from Wallace & Priscilla Stevenson Intermediate School.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/klickitat/school_boards/white_salmon_valley_school_district/2024/2024-03-02-marchdraftboard-minutes.txt)
+

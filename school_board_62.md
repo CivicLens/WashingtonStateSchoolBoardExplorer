@@ -4,11 +4,11 @@
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Douglas Benjamin](board_member_310.md) | 2021-2025 |
-| [Jenn Mason](board_member_311.md) | 2021-2025 |
-| [Camille Diaz Hackler](board_member_312.md) | 2023-2027 |
-| [Scott Ritchey](board_member_313.md) | 2023-2027 |
-| [Katie Rose](board_member_314.md) | 2023-2027 |
+| [Douglas Benjamin](board_member_317.md) | 2021-2025 |
+| [Jenn Mason](board_member_318.md) | 2021-2025 |
+| [Camille Diaz Hackler](board_member_319.md) | 2023-2027 |
+| [Scott Ritchey](board_member_320.md) | 2023-2027 |
+| [Katie Rose](board_member_321.md) | 2023-2027 |
 
 ## Available Years
 - [2024](school_board_62_year_2024.md)
@@ -30,13 +30,13 @@
 ## Summaries by Tag
 - [policy-changes](school_board_62_tag_policy-changes.md)
 - [community-engagement](school_board_62_tag_community-engagement.md)
-- [curriculum-transparency](school_board_62_tag_curriculum-transparency.md)
-- [academic-standards](school_board_62_tag_academic-standards.md)
 - [teacher-support](school_board_62_tag_teacher-support.md)
+- [academic-standards](school_board_62_tag_academic-standards.md)
+- [curriculum-transparency](school_board_62_tag_curriculum-transparency.md)
 - [school-board-ethics](school_board_62_tag_school-board-ethics.md)
 - [diversity-inclusion](school_board_62_tag_diversity-inclusion.md)
-- [school-safety](school_board_62_tag_school-safety.md)
 - [parental-feedback](school_board_62_tag_parental-feedback.md)
+- [school-safety](school_board_62_tag_school-safety.md)
 - [special-education-support](school_board_62_tag_special-education-support.md)
 - [teacher-staff-shortages](school_board_62_tag_teacher-staff-shortages.md)
 - [budget-process](school_board_62_tag_budget-process.md)
@@ -58,8 +58,8 @@
 - [evaluation](school_board_62_tag_evaluation.md)
 - [lgbtq](school_board_62_tag_lgbtq.md)
 - [parental-rights](school_board_62_tag_parental-rights.md)
-- [student-health](school_board_62_tag_student-health.md)
 - [bullying-prevention](school_board_62_tag_bullying-prevention.md)
+- [student-health](school_board_62_tag_student-health.md)
 - [student-privacy](school_board_62_tag_student-privacy.md)
 - [school-finance](school_board_62_tag_school-finance.md)
 - [student-centered-budget](school_board_62_tag_student-centered-budget.md)
@@ -71,3 +71,5 @@
 - [critical-race-theory](school_board_62_tag_critical-race-theory.md)
 - [school-visit](school_board_62_tag_school-visit.md)
 - [book-access](school_board_62_tag_book-access.md)
+- [educational-technology](school_board_62_tag_educational-technology.md)
+- [state-legislation](school_board_62_tag_state-legislation.md)

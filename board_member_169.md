@@ -1,6 +1,6 @@
-# Positions Supported by Jamie Moran (EVALINE_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Tim Mains (BICKLETON_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jamie Moran | EVALINE_SCHOOL_DISTRICT | None |
+| Tim Mains | BICKLETON_SCHOOL_DISTRICT |  |
 

@@ -1,48 +1,20 @@
 # Meeting Summaries for BLAINE_SCHOOL_DISTRICT with Tag: curriculum-transparency
 
-## 2024-09-23 - BLAINE_SCHOOL_DISTRICT (Minutes)
+## 2024-02-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
 
-The Blaine School District No. 503 board meeting on September 23, 2024, included discussions on various policy changes and updates. Notably, the board approved the second reading and adoption of policies related to bullying prevention, including Policy 3207, which prohibits harassment, intimidation, and bullying of students. The board also addressed concerns raised during public comment regarding parental rights, particularly in relation to wellness and the administration of vaccines and medications to students without parental consent. Additionally, the board discussed the Transition Bilingual Instruction Program (TBIP) grant and the implementation of the Family Service Center's initiatives aimed at supporting families, including provisions for school supplies and food assistance. The meeting also highlighted the district's focus on bullying prevention with the upcoming Unity Day and Disability Awareness Month.
+The Blaine School District No. 503 Board Work Session held on February 26, 2024, focused on mid-year reports related to the district's academic standards and strategic planning. Superintendent Dr. Christopher Granger provided an update on the district's 3-year Strategic Plan, which aims to enhance educational outcomes through various key initiatives. School Improvement Plans were discussed, with principals from the Primary, Elementary, Middle, and High Schools presenting action plans and mid-year assessment data. Notable improvements in English Language Arts (ELA) and math were reported, attributed to the collaboration fostered by Professional Learning Communities (PLCs). 
 
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-09-23-minutes.txt)
+Interim High School Principal Beth Eide emphasized the integration of core subjects across disciplines and the role of STAR assessments in preparing students for SBAC testing. Discussions also included the impact of artificial intelligence on literacy education, highlighting the ongoing adaptation of curriculum to meet evolving educational standards. The meeting concluded with a review of the feedback provided by the Board of Directors, addressing questions and concerns raised during the presentations.
 
-## 2024-08-26 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 held a Board Work Session on August 26, 2024, where Superintendent Dr. Christopher Granger provided an update on the district's 5-year Strategic Plan, emphasizing the importance of Professional Learning Communities (PLCs) and fiscal responsibility. The district is transitioning from STAR to i-Ready assessments to better align with academic standards and improve student achievement. Campus administrators presented their 2023-2024 End-of-Year Reports and 2024-2025 School Improvement Plans (SIPs), highlighting efforts to ensure high-quality Tier 1 instruction and addressing challenges with the Fountas & Pinnell literacy curriculum. Director Galbraith raised concerns about literacy performance, suggesting the removal of the F&P curriculum from the SIP, while discussions included the need for a balanced approach to reading instruction. The meeting also covered updates on the Blaine High School Virtual Learning program, which aims to support students facing personal challenges. The board plans to take action on the approval of the SIPs at the next regular meeting.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-08-26-minutes.txt)
-
-## 2024-06-17 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 Board Meeting held on June 17, 2024, included multiple significant actions and discussions. The board approved several policies, including a minor update to Policy 2255 regarding Alternative Learning Experience Courses and the adoption of new Policy 2401 on Financial Education Mastery-Based Learning and Credit. The board also adopted new curricula, including "Mystery Science" for K-5, "OpenSciEd" for middle school science, and "The Washington Journey" for 7th Grade Washington State History. Furthermore, the board voted to approve Resolution 2324-09, which authorizes a $70,000,000 Bond Initiative to be submitted to voters for the November 5, 2024 General Election, emphasizing the need for community engagement and support for the district's initiatives. Discussions also highlighted concerns regarding Title IX requirements related to sports and the implications of OSPI's guidance on medical privacy for students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-06-17-minutes.txt)
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-26-minutes.txt)
 
 ### Board Member Actions
 
 | Board Member | Position Supported | Context |
 |--------------|--------------------|---------|
-| [Steve Galbraith](board_member_319.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-| [Ryan Swinburnson](board_member_318.md) | voted yes on motion to adjourn | The meeting was adjourned at 9:12 p.m. |
-
-## 2024-02-20 - BLAINE_SCHOOL_DISTRICT (Minutes)
-
-The Blaine School District No. 503 held a Special Board Meeting on February 20, 2024, to gather stakeholder feedback on budget planning for the 2024-2025 school year. The meeting, attended by board members and approximately thirty community members, focused on soliciting input regarding the district's priorities and areas needing additional resources. President Don Leu highlighted the importance of community engagement and transparency in the budget process, noting that feedback indicating a desire for "more" would be treated as a priority. Concerns were raised about the district's ongoing need for budget reductions and the potential impact on school programs, with Director Ryan Ford emphasizing the importance of advocating for adequate state funding.
-
-During the meeting, participants were divided into groups to discuss specific questions related to the district's strengths and areas for improvement. The feedback collected will inform the district's administration as they consider necessary budget reductions. President Leu acknowledged the likelihood of program cuts while encouraging the community to unite in their advocacy for educational funding. The meeting concluded with a unanimous vote to adjourn, and the minutes were approved on February 26, 2024.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2024/2024-02-20-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Cliff Freeman](board_member_317.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
-| [Erika Creydt](board_member_315.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
-| [Ben Lazarus](board_member_316.md) | voted yes on motion to adjourn | The feedback process ended at 7:37 p.m., and the special board meeting was adjourned by a unanimous vote. |
+| [Erika Creydt](board_member_322.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+| [Ben Lazarus](board_member_323.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
+| [Cliff Freeman](board_member_324.md) | voted yes on motion to adjourn meeting | The meeting was adjourned by a unanimous vote. |
 
 ## 2023-09-25 - BLAINE_SCHOOL_DISTRICT (Minutes)
 

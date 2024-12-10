@@ -1,6 +1,6 @@
-# Positions Supported by CHELSIE MILLER (ORONDO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Wayne van Zwoll (BRIDGEPORT_SCHOOL_DISTRICT, Term: December 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| CHELSIE MILLER | ORONDO_SCHOOL_DISTRICT | None |
+| Wayne van Zwoll | BRIDGEPORT_SCHOOL_DISTRICT | December 2027 |
 

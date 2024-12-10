@@ -1,6 +1,6 @@
-# Positions Supported by Jeremy Engle (LIBERTY_SCHOOL_DISTRICT, Term: 2022-2025)
+# Positions Supported by Kristen Michal (MARYSVILLE_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jeremy Engle | LIBERTY_SCHOOL_DISTRICT | 2022-2025 |
+| Kristen Michal | MARYSVILLE_SCHOOL_DISTRICT | 2021-2027 |
 

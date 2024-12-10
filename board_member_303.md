@@ -1,6 +1,6 @@
-# Positions Supported by Debbie Edwards (YELM_COMMUNITY_SCHOOLS, Term: 1984-2025)
+# Positions Supported by Casey Taylor (TUMWATER_SCHOOL_DISTRICT, Term: 2019-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Debbie Edwards | YELM_COMMUNITY_SCHOOLS | 1984-2025 |
+| Casey Taylor | TUMWATER_SCHOOL_DISTRICT | 2019-2027 |
 

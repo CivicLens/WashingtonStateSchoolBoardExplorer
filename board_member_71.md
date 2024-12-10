@@ -1,6 +1,6 @@
-# Positions Supported by Alex Tufts (GRAND_COULEE_DAM_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by JaMES Adams (EPHRATA_SCHOOL_DISTRICT, Term: 2019-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Alex Tufts | GRAND_COULEE_DAM_SCHOOL_DISTRICT | None |
+| JaMES Adams | EPHRATA_SCHOOL_DISTRICT | 2019-2025 |
 

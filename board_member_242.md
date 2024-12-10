@@ -1,6 +1,6 @@
-# Positions Supported by Korey Strozier (TACOMA_PUBLIC_SCHOOLS, Term: 2021-2029)
+# Positions Supported by Samuel T. Scott (STEILACOOM_HISTORICAL_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Korey Strozier | TACOMA_PUBLIC_SCHOOLS | 2021-2029 |
+| Samuel T. Scott | STEILACOOM_HISTORICAL_SCHOOL_DISTRICT | 2027 |
 

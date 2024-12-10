@@ -1,6 +1,6 @@
-# Positions Supported by Mandy Thompson (COLLEGE_PLACE_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Melissa Beard (TUMWATER_SCHOOL_DISTRICT, Term: 2016-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Mandy Thompson | COLLEGE_PLACE_SCHOOL_DISTRICT | 2023-2027 |
+| Melissa Beard | TUMWATER_SCHOOL_DISTRICT | 2016-2025 |
 

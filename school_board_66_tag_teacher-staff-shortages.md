@@ -1,17 +1,5 @@
 # Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT with Tag: teacher-staff-shortages
 
-## 2024-11-06 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on November 6, 2024, where several significant topics were discussed. The board reviewed multiple policies, including Policy & Procedure 3205 on Sex Discrimination and Sex-Based Harassment, Policy & Procedure 3206 concerning Pregnant and Parenting Students, and Policy & Procedure 5011 on Sex Discrimination and Sex-Based Harassment of District Staff. These policies are set for a second review and potential approval on November 20, 2024. Additionally, the meeting included a presentation on the Special Education Program Report, which was postponed to the next meeting, reflecting the district's commitment to special education support. Community engagement was highlighted through a public comment by Jerry Smoot, who requested a memorial plaque in honor of Angela Roderick to be placed on the softball batting cage, indicating active involvement from community members in school affairs.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-11-06-novemberboardmeeting-minutes.txt)
-
-## 2024-09-11 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
-
-The Meridian School District #505 held a regular school board meeting on September 11, 2024, where several policies were reviewed and approved. Notably, Procedure 2151P – Interscholastic Activities, and multiple Mastery-Based Credit policies (2402 for English Language Arts, 2403 for Math, 2404 for Science, and 2405 for Social Studies) were approved after their respective reviews, indicating a focus on enhancing academic standards and curriculum transparency. Additionally, the meeting included presentations on staffing and strategic plans, highlighting the district's commitment to community engagement and special education support, particularly through the recognition of the SLPC team at MP3. The board also discussed upcoming activities related to the NCTA Open Doors initiative and a November bond election, emphasizing long-term strategic planning.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/2024-09-11-minutes.txt)
-
 ## 2022-10-19 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District Board held a meeting on October 19th, 2022, addressing various topics. They approved a consent agenda covering routine matters like meeting minutes, accounts payable, personnel reports, student travel, and interlocal agreements. Public comment featured concerns about remote learning accessibility during inclement weather.
@@ -21,4 +9,12 @@ Presentations focused on bus safety and the Highly Capable Learning program. The
 The district also faces teacher and staff shortages, which was mentioned during the meeting.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-10-19-minutes.txt)
+
+## 2022-09-07 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on September 7th, 2022.  The meeting covered a range of topics including the approval of a consent agenda containing items such as accounts payable, personnel reports, and agreements with organizations like BTC Running Start and ECC College in High School. The Board also received reports on school data and staffing for the 2022-23 academic year. Several policies and procedures underwent second readings and were subsequently approved. These included Policy and Procedure 1400: Meeting Conduct, Order of Business, and Quorum; Policy and Procedure 1410: Executive or Closed Sessions; and Policy and Procedure 1420: Proposed Agenda and Consent Agenda. A first reading was conducted for Policy and Procedure 4210: Meeting Conduct, Order of Business, and Quorum and Policy and Procedure 6112: Executive or Closed Sessions. The Superintendent provided updates on back-to-school procedures, COVID-related matters, maintenance and facilities projects, NCTA updates, and Proposition 5.  The meeting concluded with the scheduling of the next regular board meeting for September 21st.
+
+The text also mentions teacher-staff shortages.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2022/2022-09-07-minutes.txt)
 

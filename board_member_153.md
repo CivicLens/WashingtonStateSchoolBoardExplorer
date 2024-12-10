@@ -1,6 +1,6 @@
-# Positions Supported by Billy Fekkes (KITTITAS_SCHOOL_DISTRICT, Term: 2021-2027)
+# Positions Supported by Reverend Terrence Proctor (TUKWILA_SCHOOL_DISTRICT, Term: 2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Billy Fekkes | KITTITAS_SCHOOL_DISTRICT | 2021-2027 |
+| Reverend Terrence Proctor | TUKWILA_SCHOOL_DISTRICT | 2027 |
 

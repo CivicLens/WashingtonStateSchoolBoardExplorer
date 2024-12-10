@@ -1,6 +1,6 @@
-# Positions Supported by Jon Cooke (QUILCENE_SCHOOL_DISTRICT, Term: 2021-2025)
+# Positions Supported by Tami Robocker (CHIMACUM_SCHOOL_DISTRICT, Term: 11/2023 - 11/2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jon Cooke | QUILCENE_SCHOOL_DISTRICT | 2021-2025 |
+| Tami Robocker | CHIMACUM_SCHOOL_DISTRICT | 11/2023 - 11/2027 |
 

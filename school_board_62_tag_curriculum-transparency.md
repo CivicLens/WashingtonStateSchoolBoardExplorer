@@ -1,70 +1,8 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS with Tag: curriculum-transparency
 
-## 2024-10-01 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors conducted a visit to Happy Valley Elementary School on October 1, 2024, focusing on the integration of social-emotional learning within the school's curriculum. The principal presented insights on how this curriculum aligns with the International Baccalaureate (IB) program, the Teacher Principal Evaluation Program (TPEP), and Universal Design for Learning (UDL). During the visit, board members utilized a rubric to evaluate classroom environments and concluded with a debriefing session to discuss their observations and takeaways. The meeting emphasized community engagement and support for teachers in implementing these educational frameworks. The session was attended by board members, the superintendent, school staff, and students, highlighting the collaborative effort in enhancing educational practices.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-10-01-minutes.txt)
-
-## 2024-06-18 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on June 18, 2024, where they discussed several key topics. Superintendent Greg Baker reported on the conclusion of the 2023-24 school year and addressed a recent attack on a middle school student, emphasizing the support provided to the affected student and their family. The board also reviewed and approved multiple resolutions, including Resolution 14-24 for a State Capital Grant for a Health Center at Options High School and Resolution 15-24 delegating authority to the Washington Interscholastic Activities Association (WIAA). 
-
-The board responded to monitoring reports related to academic standards and practices (EL-6), district calendar (EL-8), and student competence (Ends 2.1, Part 2), noting commendable progress in various areas, including improved graduation rates and increased participation in dual credit and Career and Technical Education (CTE) programs. They highlighted the need for continued efforts in mental health support and school safety, especially in light of recent events. Additionally, the board recognized the importance of community engagement in developing the district calendar and ensuring it meets the diverse needs of stakeholders. No specific changes to policies were identified during the meeting, indicating a focus on maintaining current standards and practices.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-06-18-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Scott Ritchey](board_member_313.md) | recused himself from voting on item 2.17 | Consent agenda item 2.17, Personnel Recommendations, contains a change in employment status for a family member who is a...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda items 2.1 to 2.16 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the consent agenda items. |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on motion to approve consent agenda item 2.17 | Ms. Mason made a motion, seconded by Ms. Rose, to approve the following consent agenda item 2.17. |
-| [Scott Ritchey](board_member_313.md) | abstained from voting on consent agenda item 2.17 | Mr. Ritchey recused himself from voting on item 2.17 due to a conflict of interest. |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-6 | Following discussion, Ms. Mason made a motion, seconded by Mr. Ritchey, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for EL-8 | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Mason, to approve the monitoring response document (Att...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-| [Katie Rose](board_member_314.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-| [Douglas Benjamin](board_member_310.md) | voted yes on motion to approve monitoring response document for Ends 2.1 (Part 2) | Following discussion, Mr. Ritchey made a motion, seconded by Ms. Rose, to approve the monitoring response document (Atta...[truncated, use api for full text] |
-
-## 2024-03-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a regular meeting on March 14, 2024, where they addressed several key issues including the adoption of Resolution #08-24, which authorizes the sale of surplus district-owned property on West Maplewood Avenue. No public testimony was offered during the hearing on this resolution. Superintendent Greg Baker reported on budget developments for the 2024-25 school year, indicating that the state is not heavily investing in PreK-12 public education, although there were increases in special education, supplies, and paraeducator staffing. The board discussed monitoring responses for policies EL-3 (Treatment and Communication with Public, Parents and Students), EL-4 (Staff Treatment, Compensation and Evaluation), and Ends 2.1 (Part 1, Student Competence), with commendations for effective communication and outreach efforts. Challenges related to teacher and staff shortages were noted, particularly in relation to substitute availability. The board emphasized the importance of community engagement and the ongoing need for programs that support special education and academic standards.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-14-minutes.txt)
-
-### Board Member Actions
-
-| Board Member | Position Supported | Context |
-|--------------|--------------------|---------|
-| [Douglas Benjamin](board_member_310.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Jenn Mason](board_member_311.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Camille Diaz Hackler](board_member_312.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-| [Scott Ritchey](board_member_313.md) | voted yes on consent agenda items | The consent agenda included the approval of Resolution 08-24, which authorizes the sale of surplus district owned proper...[truncated, use api for full text] |
-
-## 2024-03-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
-
-The Bellingham School District Board of Directors held a meeting at Lowell Elementary School on March 5, 2024, focusing on the school's implementation of the International Baccalaureate (IB) program. During the visit, board members engaged with staff to discuss how they collaborate in building units of inquiry, which reflects the district's commitment to academic standards and curriculum transparency. The meeting included a roll call of board members, with President Douglas Benjamin leading the session. The board also had the opportunity to visit various classrooms, enhancing community engagement between school officials and the educational environment. The meeting adjourned at 8:30 a.m., with minutes prepared for approval by the board.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-03-05-minutes.txt)
-
 ## 2024-01-09 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
-The Bellingham School District Board of Directors convened on January 9, 2024, at Northern Heights Elementary School to discuss initiatives centered on social emotional learning and the Since Time Immemorial curriculum, specifically focusing on a lesson related to Treaty Day. During the visit, the principal and staff presented their efforts in these areas, emphasizing the importance of social emotional learning in their educational approach. The board also conducted a tour of the school, allowing members to engage directly with classrooms and observe the implementation of these educational strategies. This visit highlights the board's commitment to community engagement and transparency in curriculum development.
+The Bellingham School District Board of Directors convened on January 9, 2024, at Northern Heights Elementary School to discuss key educational initiatives. The meeting included presentations from the school's principal and staff about their efforts in social-emotional learning and the implementation of the Since Time Immemorial curriculum, which features lessons on Treaty Day. Following these discussions, board members toured classrooms to observe the educational environment. The meeting was adjourned at 8:30 a.m., with the minutes to be approved at a later date.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2024/2024-01-09-minutes.txt)
 
@@ -164,6 +102,16 @@ The board also discussed the possibility of expanding the curriculum to be more 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2015/2015-01-22-minutes.txt)
 
+## 2014-12-11 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The meeting minutes detail the proceedings of a school board meeting on December 11, 2014.  The board discussed and unanimously approved the annual agenda for the 2014-2015 school year (GP-7.1). They also reviewed and unanimously approved changes to several policies related to the Board/Superintendent Relationship. These policy revisions included chronological renumbering.
+
+Specifically, the following policies were affected: B/SR - 1 (no change in number), B/SR - 4 (new number: B/SR - 2), B/SR - 5 (new number: B/SR - 3), B/SR - 5.1 (new number: B/SR - 3.1), and B/SR - 5.1.1 (new number: B/SR - 3.1.1). The minutes also highlight the board's positive assessment of a new math curriculum at the lower elementary level, noting its vigorous implementation.
+
+Additionally, the board discussed plans for community engagement, including scheduling a meeting with City Council Liaison Roxanne Murphy in the new year.  The minutes further indicate that a template prepared by Dr. Smith will be distributed to board members for recording observations during school visits. This suggests an effort towards increased transparency and data-driven decision-making regarding curriculum and instruction.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2014/2014-12-11-minutes.txt)
+
 ## 2014-05-28 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 Students expressed a desire for more classes that prepare them for life after high school, such as resume writing and job skills. They also advocated for increased funding for the special education department, citing a need for reliable computers. Several students highlighted the benefits of after-school learning centers and suggested extending library hours for greater flexibility. Concerns regarding student stress levels led to a proposal for dedicated senior class periods to facilitate work completion. The meeting concluded with Dr. Baker, Superintendent of Schools, acknowledging the value of student feedback and emphasizing the district's commitment to updating technology and addressing scheduling concerns related to adolescent sleep needs.
@@ -192,6 +140,14 @@ Finally, the meeting touched upon the District Facilities Planning Task Force's 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2013/2013-01-24-minutes.txt)
 
+## 2012-12-13 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The School Board meeting focused on monitoring the progress of Ends 3.0, a policy outlining desired skills and attributes for students. Deputy Superintendent Tom Venable, Research, Assessment Director Brian Rick, Program Administrator for Title I Trina Hall, and Program Administrator for English Language Learners Amy Carder presented a report detailing the implementation of a standard-based reporting system at the elementary and middle school levels.  The Board requested future reports include information on how to further support student learning and inquired about high school level initiatives related to Ends 3.0.
+
+The meeting also included an update from Assistant Superintendent Ron Cowan on the Facilities Planning Task Force, which is examining district facilities and will make recommendations to Superintendent Greg Baker for community consideration.  Upcoming events were announced, including Board visits to schools and a School Board Retreat. The meeting concluded with a positive assessment and an executive session to discuss negotiations.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-12-13-minutes.txt)
+
 ## 2012-11-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The school board meeting minutes detail a discussion and approval of a monitoring report on Ends 2.0 (Academic Achievement) and Ends 2.1 (Student Competence).  The Board expressed satisfaction with the completeness of the data presented, though they suggested broadening the scope of comparison districts for future reports. They also recommended including math scores and data from every student in subsequent reports.
@@ -211,6 +167,24 @@ The Bellingham School Board reviewed a report on student progress towards the di
 The Bellingham School Board reviewed monitoring reports for various academic standards and practices (EL-13, EL-14, EL-15, EL-17) and found no concerns.  Director Steve Smith proposed consolidating similar Executive Limitation (EL) policies for further discussion. The board also discussed the need for a new software system to better manage meeting materials and monitoring reports.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-04-26-minutes.txt)
+
+## 2012-02-14 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board meeting minutes detail several personnel recommendations for tutoring and instructional roles within the district.  The board also reviewed and approved revisions to Board/Superintendent Relationship Policies (BSR-1 through BSR-5.1.2) focusing on clarifying accountability, delegation, and performance evaluation processes. Notably, they combined and renumbered Executive Limitation Policies EL-13, EL-14, and EL-15 into a single policy, EL-6, addressing Academic Standards and Practices with minor edits. This consolidation suggests a streamlining effort to enhance clarity and efficiency in academic policy governance.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2012/2012-02-14-minutes.txt)
+
+## 2011-12-08 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes detail discussions on academic performance (Ends 2.1, Academic Competence) and potential modifications to this policy.  The board is considering revisions to the Ends 2.1 policy following a monitoring report presented at their November meeting. Additionally, the board approved two levies for voter consideration in a special election: Resolution 10-11, a four-year Maintenance and Operations Levy to support general fund expenditures, and Resolution 11-11, a four-year Technology Levy for technology improvements and equipment. The board also selected Dykeman Architects for the Birchwood Elementary School project.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-08-minutes.txt)
+
+## 2011-12-06 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School Board of Directors met on December 6, 2011 to discuss the expiring Maintenance and Operations (M&O) levy and Technology Levy.  The M&O levy supports approximately 25% of the district's annual operating budget and helps maintain current student programs. Both levies will be on the ballot for a vote on February 14, 2012. The Board received information about the levies from Superintendent Greg Baker and Ron Cowan, assistant superintendent of Business and Operations.  The Executive Team also answered questions from the Board regarding the levies.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2011/2011-12-06-minutes.txt)
 
 ## 2011-11-10 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 

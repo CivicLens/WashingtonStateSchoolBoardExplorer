@@ -1,26 +1,15 @@
-# Meeting Summaries for VASHON_ISLAND_SCHOOL_DISTRICT
+# Meeting Summaries for QUINCY_SCHOOL_DISTRICT
 
 ## Board Members
 
-No current board members available.
+| Board Member       | Term           |
+|--------------------|----------------|
+| [Rita Keene](board_member_80.md) | 2027 |
+| [Chad Lower](board_member_81.md) | 2025 |
+| [Shannon Durfee](board_member_82.md) | 2027 |
+| [Kacey Kiehn](board_member_83.md) | 2025 |
+| [Dayana Ruiz](board_member_84.md) | 2027 |
 
 ## Available Years
-- [2024](school_board_80_year_2024.md)
-- [2023](school_board_80_year_2023.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_80_tag_policy-changes.md)
-- [community-engagement](school_board_80_tag_community-engagement.md)
-- [special-education-support](school_board_80_tag_special-education-support.md)
-- [school-safety](school_board_80_tag_school-safety.md)
-- [racial-equity](school_board_80_tag_racial-equity.md)
-- [mental-health](school_board_80_tag_mental-health.md)
-- [diversity-inclusion](school_board_80_tag_diversity-inclusion.md)
-- [lgbtq](school_board_80_tag_lgbtq.md)
-- [inclusive-sex-education](school_board_80_tag_inclusive-sex-education.md)
-- [teacher-staff-shortages](school_board_80_tag_teacher-staff-shortages.md)
-- [budget-reduction](school_board_80_tag_budget-reduction.md)
-- [student-health](school_board_80_tag_student-health.md)
-- [teacher-support](school_board_80_tag_teacher-support.md)
-- [budget-cuts](school_board_80_tag_budget-cuts.md)
-- [long-term-strategic-plans](school_board_80_tag_long-term-strategic-plans.md)

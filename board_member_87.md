@@ -1,6 +1,6 @@
-# Positions Supported by Doug Messick (MONTESANO_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Bernadette Bower (ELMA_SCHOOL_DISTRICT, Term: )
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Doug Messick | MONTESANO_SCHOOL_DISTRICT | None |
+| Bernadette Bower | ELMA_SCHOOL_DISTRICT |  |
 

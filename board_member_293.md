@@ -1,6 +1,6 @@
-# Positions Supported by KRISTIN ROBINSON (RAINIER_SCHOOL_DISTRICT, Term: None)
+# Positions Supported by Chad Burchard (MEAD_SCHOOL_DISTRICT, Term: 2017-2021)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| KRISTIN ROBINSON | RAINIER_SCHOOL_DISTRICT | None |
+| Chad Burchard | MEAD_SCHOOL_DISTRICT | 2017-2021 |
 

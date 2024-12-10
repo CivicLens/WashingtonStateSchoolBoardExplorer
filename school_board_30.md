@@ -1,15 +1,25 @@
-# Meeting Summaries for NORTH_KITSAP_SCHOOL_DISTRICT
+# Meeting Summaries for OAK_HARBOR_SCHOOL_DISTRICT
 
 ## Board Members
 
 | Board Member       | Term           |
 |--------------------|----------------|
-| [Edward Wright](board_member_148.md) | 2024-2025 |
-| [Mike Desmond](board_member_149.md) | 2019-2027 |
-| [Breane Martinez](board_member_150.md) | 2017-2025 |
-| [Beverly Godfrey](board_member_151.md) | 2023-2027 |
-| [Stacy Mills](board_member_152.md) | 2023-2027 |
+| [Lynn Goebel](board_member_100.md) | 2023-2027 |
+| [Jessica Aws](board_member_101.md) | 2023-2027 |
+| [Josh MacLean](board_member_102.md) | 2023-2027 |
+| [Nicole Tesch](board_member_103.md) | 2023-2025 |
+| [Sharon Jensen](board_member_104.md) | 2023-2025 |
 
 ## Available Years
+- [2024](school_board_30_year_2024.md)
 
 ## Summaries by Tag
+- [community-engagement](school_board_30_tag_community-engagement.md)
+- [special-education-support](school_board_30_tag_special-education-support.md)
+- [school-safety](school_board_30_tag_school-safety.md)
+- [state-legislation](school_board_30_tag_state-legislation.md)
+- [policy-changes](school_board_30_tag_policy-changes.md)
+- [educational-technology](school_board_30_tag_educational-technology.md)
+- [social-emotional-learning](school_board_30_tag_social-emotional-learning.md)
+- [diversity-inclusion](school_board_30_tag_diversity-inclusion.md)
+- [student-autonomy](school_board_30_tag_student-autonomy.md)

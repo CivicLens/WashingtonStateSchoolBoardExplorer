@@ -1,6 +1,6 @@
-# Positions Supported by Thom Garrard (EDMONDS_SCHOOL_DISTRICT, Term: December 2025)
+# Positions Supported by Marree Perrault (DARRINGTON_SCHOOL_DISTRICT, Term: None)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Thom Garrard | EDMONDS_SCHOOL_DISTRICT | December 2025 |
+| Marree Perrault | DARRINGTON_SCHOOL_DISTRICT | None |
 

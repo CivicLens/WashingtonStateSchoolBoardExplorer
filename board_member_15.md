@@ -1,6 +1,6 @@
-# Positions Supported by Paul Nelson (CASHMERE_SCHOOL_DISTRICT, Term: 11/25)
+# Positions Supported by Michelle O'Brien (PROSSER_SCHOOL_DISTRICT, Term: 2021-2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Paul Nelson | CASHMERE_SCHOOL_DISTRICT | 11/25 |
+| Michelle O'Brien | PROSSER_SCHOOL_DISTRICT | 2021-2027 |
 

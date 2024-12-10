@@ -1,56 +1,34 @@
-# Positions Supported by Jana Haugen (MERIDIAN_SCHOOL_DISTRICT, Term: December 2027)
+# Positions Supported by Antonio Machado (FERNDALE_SCHOOL_DISTRICT, Term: 11/2027)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Jana Haugen | MERIDIAN_SCHOOL_DISTRICT | December 2027 |
+| Antonio Machado | FERNDALE_SCHOOL_DISTRICT | 11/2027 |
 
 ## Positions Supported
 
 | Date       | Position Supported           | Context            |
 |------------|------------------------------|--------------------|
-| 2024-10-31 | voted yes on motion to approve consent agenda | The consent agenda included Personnel Report, Accounts Payable, Payroll, Student Travel, Donation Listing, and Limitless...[truncated, use api for full text] |
-| 2024-10-09 | voted yes | motion to approve the highly capable program, as presented |
-| 2024-10-09 | voted yes | motion to approve the 2024-25 NWESD School Nurse Corps Contract as presented |
-| 2024-10-09 | voted yes | motion to approve consent agenda items A-F |
-| 2024-10-09 | voted yes | motion to approve Policy 5409 – Unpaid Holidays for Reason of Faith or Conscience as presented |
-| 2024-10-09 | voted yes | motion to approve NCTA Open Doors Interlocal Agreement, as presented |
-| 2024-10-09 | voted yes | motion to approve NCTA HUD Interlocal Agreement, as presented |
-| 2024-10-09 | voted yes | motion to approve NCTA Fire Science Interlocal Agreement, as presented |
-| 2024-09-25 | voted yes on motion to approve the Sunbelt Tele OT Agreement, as presented | The Sunbelt Tele OT Agreement was presented to the Board for second review and approval. Student representative favors a...[truncated, use api for full text] |
-| 2024-09-25 | voted yes on motion to approve donations as presented | Capital project donations were presented to the Board for second review and approval. Student representative favors appr...[truncated, use api for full text] |
-| 2024-09-25 | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, 2024-25 Fuel Bid Extension,...[truncated, use api for full text] |
-| 2024-08-21 | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, personnel report, and interlocal agreements f...[truncated, use api for full text] |
-| 2024-08-21 | voted yes on motion to adopt Fiscal Year 2023-24 Budget Extension Resolution 10-24 | This resolution extended the district's budget for the fiscal year 2023-24. |
-| 2024-08-07 | voted yes on motion to approve Grant Applicant Authorization Resolution 09-24 | Grant Applicant Authorization Resolution 09-24 was presented for a second review and approval. |
-| 2024-08-07 | voted yes on motion to adopt the consent agenda | The consent agenda included approval of meeting minutes, accounts payable, payroll, and personnel report. |
-| 2024-07-23 | voted yes on motion to approve Procedure 3246P - Restraint, Isolation and Other Uses of Reasonable Force | Procedure 3246P outlines when physical intervention is permissible in schools |
-| 2024-07-23 | voted yes on motion to approve Procedure 2161P - Special Education and Related Services for Eligible Students | Procedure 2161P details how the district will provide special education services |
-| 2024-07-23 | voted yes on motion to approve Procedure 2151P - Special Education and Related Services for Eligible Students | Procedure 2151P details how the district will provide special education services |
-| 2024-07-23 | voted yes on motion to approve MESP Contract - September 1, 2024, through August 31, 2026 | The MESP Contract outlines services for students with disabilities |
-| 2024-07-10 | voted yes on motion to adopt the consent agenda | The consent agenda included accounts payable. |
-| 2024-07-10 | voted yes on motion to adopt the MHS LOSS Drain Field Repair Contract as presented | Jay Yeager, Director of Facilities and Maintenance, presented the contract for review and approval. |
-| 2024-07-10 | voted yes on motion to adopt the 2024-25 MSD Board Meeting Plan of Work Calendar as presented | This was a second review and approval of the calendar. |
-| 2024-06-26 | voted yes | Motion to approve the facilities naming and dedication committee recommendation of naming the North Gym at Meridian High...[truncated, use api for full text] |
-| 2024-06-26 | voted yes | Motion to approve Reduction in Force Resolution 07-23 |
-| 2024-06-26 | voted yes | Motion to adopt the consent agenda |
-| 2024-06-26 | voted yes | Motion to adopt the 2024-25 Budget, Resolution 08-24 |
-| 2024-06-12 | voted yes | Motion to approve Policy 4500 - Unmanned Aircraft System (Drones) as presented |
-| 2024-06-12 | voted yes | Motion to approve Policy  as presented |
-| 2024-06-12 | voted yes | Motion to adopt the consent agenda |
-| 2024-05-08 | voted yes | motion to approve the Sendan Center Contract as presented |
-| 2024-05-08 | voted yes | motion to adopt the consent agenda |
-| 2024-05-08 | voted yes | motion to adopt Policy and Procedure 4060 - Distribution of Information as presented |
-| 2024-05-08 | voted yes | motion to adopt Policy and Procedure 4001 - Public Information Program as presented |
-| 2024-04-24 | voted yes on motion to adopt consent agenda | The consent agenda included Approval of Meeting Minutes, Accounts Payable, Personnel Report, Donation Listing, ProCare T...[truncated, use api for full text] |
-| 2024-02-23 | voted yes on motion to draft a letter of opposition to ESB 5462 and ESHB 2331 | The Board decided to draft a letter of opposition instead of moving forward with a resolution. |
-| 2024-02-21 | voted yes on motion to approve the Facilities Task Force Recommendation as presented | Dr. Everett presented the Facilities Task Force Recommendation for second review and approval. A motion to approve the F...[truncated, use api for full text] |
-| 2024-02-21 | voted yes on motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB 2331 as ...[truncated, use api for full text] | Jarrod Karuza made a motion to amend the agenda to add discussion and possible action to opposition of HB 5462 and ESHB ...[truncated, use api for full text] |
-| 2024-02-21 | voted yes on motion to adopt the consent agenda | A motion to adopt the consent agenda was made by Jarrod Karuza and seconded by Jana Haugen. The motion passed 5-0. |
-| 2024-01-24 | voted yes on motion to adopt the Revised 2023-24 Plan of Work as presented | Second review and approval of the Revised 2023-24 Plan of Work |
-| 2024-01-24 | voted yes on motion to adopt consent agenda | Consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Affili...[truncated, use api for full text] |
-| 2024-01-24 | voted yes on motion to adopt MSD Board Operating Protocols as presented | Second review and approval of MSD Board Operating Protocols |
-| 2024-01-10 | voted yes on motion to adopt the consent agenda | The consent agenda included Approval of Meeting Minutes, Personnel Report, Accounts Payable, Payroll, Approval of WGU Af...[truncated, use api for full text] |
-| 2024-01-10 | voted yes on motion for first review: Revised 2023-24 Plan of Work | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| 2024-01-10 | voted yes on motion for first review: MSD Board Operating Protocols | This will be brought back for a second review and approval at the January 24 Board meeting. |
-| 2024-01-03 | voted yes on motion to adopt the consent agenda | The consent agenda included Accounts Payable |
+| 2024-09-24 | voted yes on motion to receive revised Policy 6220 - Bid or Request for Proposal Requirements | Action (Consent): 9.03 Receive Revised Policy 6220 - Bid or Request for Proposal Requirements |
+| 2024-09-24 | voted yes on motion to receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation | Action (Consent): 9.04 Receive New Policy 6221 - Small Works Roster - Direct Contracting Rotation |
+| 2024-09-24 | voted yes on motion to receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board | Action (Consent): 9.05 Receive Monitoring Report for Operational Expectations 8 (OE-8) Communication with the Board |
+| 2024-09-24 | voted yes on motion to adopt Resolution 18-2024 Public Access to School District Records | Action (Consent): 9.06 Adopt Resolution 18-2024, Policy 4040R Public Access to School District Records |
+| 2024-08-27 | voted yes on motion to receive monitoring report for results 7 (r-7) student growth and achievement | Action (Consent): 9.07 Receive Monitoring Report for Results 7 (R-7) Student Growth and Achievement |
+| 2024-08-27 | voted yes on motion to receive monitoring report for results 6 (r-6) career and college readiness | Action (Consent): 9.06 Receive Monitoring Report for Results 6 (R-6) Career and College Readiness |
+| 2024-08-27 | voted yes on motion to approve hiring of personnel | Action (Consent): 8.09 Approve Hiring of Personnel |
+| 2024-08-27 | voted yes on motion to approve compensation bulletin for professional technical hourly staff | Action (Consent): 8.08 Approve Compensation Bulletin for Professional Technical Hourly Staff |
+| 2024-08-27 | voted yes on motion to adopt policy 1822 - training and development for board members | Action (Consent): 9.05 Adopt Policy 1822 - Training and Development for Board Members |
+| 2024-08-27 | voted yes on motion to accept july 2024 fund balance financial statements | Action (Consent): 9.03 Accept July 2024 Fund Balance Financial Statements |
+| 2024-07-30 | voted yes on motion to receive revised policy 3245 students and telecommunication devices | Resolution: Receive Revised Policy 3245 Students and Telecommunication Devices |
+| 2024-07-30 | voted yes on motion to receive revised policy 2145 suicide prevention | Resolution: Receive Revised Policy 2145 Suicide Prevention |
+| 2024-07-30 | voted yes on motion to receive revised policy 2140 comprehensive school counseling program | Resolution: Receive Revised Policy 2140 Comprehensive School Counseling Program |
+| 2024-07-30 | voted yes on motion to receive monitoring report operational expectation 1 (oe-1) global expectations | Resolution: Receive Monitoring Report Operational Expectation 1 (OE-1) Global Expectations |
+| 2024-07-30 | voted yes on motion to authorize vouchers | Resolution: Authorize vouchers |
+| 2024-07-30 | voted yes on motion to approve resolution 16-2024 authorizing the use of MRSC's Small Works Roster | Resolution: Approve Resolution 16-2024 authorizing the use of MRSC's Small Works Roster as attached herein |
+| 2024-06-26 | voted yes on motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget | Motion to adopt Resolution No. 12-2024 Adoption of 2024-25 Budget. |
+| 2024-03-26 | voted yes on motion to receive and file the reports | Action (Consent): 11.03 Receive and File Reports |
+| 2024-03-26 | voted yes on motion to approve teachers teaching out of endorsed subjects | 0.08 Approval of Teachers Teaching out of Endorsed Subjects |
+| 2024-03-26 | voted yes on motion to approve board consent agenda | Action (Consent): 11.01 The Board will use a consent agenda as a means to expedite the disposition of routine matters an...[truncated, use api for full text] |
+| 2024-03-26 | voted yes on motion to adopt resolution no. 04-2024 canceling warrants | Action (Consent): 10.10 Adopt Resolution No. 04-2024 Canceling Warrants |
+| 2024-03-26 | voted yes on motion to accept february 2024 fund balance financial statements | Action (Consent): 10.09 Accept February 2024 Fund Balance Financial Statements |
+| 2024-02-27 | voted yes | Motion to adjourn the meeting at 9:43pm |
 

@@ -1,5 +1,30 @@
 # Meeting Summaries for MERIDIAN_SCHOOL_DISTRICT in 2023
 
+## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held a regular school board meeting on December 13, 2023, where significant changes in board leadership occurred. Steve Corwin was elected as the new board president, while Jarrod Karuza was elected as vice president. Outgoing Board Directors Sara Bernardy and Craig Mitchell were recognized for their service. The meeting included updates on the Youth Care Services Contract, which was approved unanimously, reflecting the district's commitment to mental health support for students. Additionally, the Facilities Task Force presented recommendations for future facility improvements, which will be considered for action in the spring. The meeting emphasized community engagement through presentations from student representatives regarding their advisory council activities and upcoming school events.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-minutes.txt)
+
+### Board Member Actions
+
+| Board Member | Position Supported | Context |
+|--------------|--------------------|---------|
+| [Jarrod Karuza](board_member_339.md) | voted yes | motion to adopt the consent agenda |
+| [Steve Corwin](board_member_340.md) | voted yes | motion to adopt the consent agenda |
+| [Marty Gray](board_member_341.md) | voted yes | motion to adopt the consent agenda |
+| [Michelle Simmons](board_member_342.md) | voted yes | motion to adopt the consent agenda |
+| [Jarrod Karuza](board_member_339.md) | nominated Steve Corwin for board president | Call for Nominations for Board President |
+| [Michelle Simmons](board_member_342.md) | nominated Jarrod Karuza for vice president | Call for Nominations for Vice President |
+| [Jarrod Karuza](board_member_339.md) | voted yes | Second Review and Approval: Youth Care Services Contract |
+| [Michelle Simmons](board_member_342.md) | voted yes | Second Review and Approval: Youth Care Services Contract |
+
+## 2023-12-13 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
+
+The Meridian School District #505 held its regular school board meeting on December 13, 2023, where several key actions were taken, including the approval of the Youth Care Services Contract after a second review. This contract received support from student representatives and was passed unanimously by the board. The meeting also included the recognition of outgoing board directors Sara Bernardy and Craig Mitchell, with new board president Steve Corwin and vice president Jarrod Karuza being elected for 2024. Presentations included a transportation report by Michele Apeles, highlighting new staff and updates on the student bus monitor program, as well as recommendations from the Facilities Task Force regarding future facilities needs, which will be revisited in the spring for action. The board engaged with community representatives and discussed advocacy efforts related to various educational initiatives.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2023/2023-12-13-decemberboardmeeting-minutes.txt)
+
 ## 2023-11-21 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 
 The Meridian School District #505 Board held a regular meeting on November 21, 2023.  The board approved several items including the consent agenda which contained routine matters such as meeting minutes, accounts payable and personnel reports. They also approved a contract extension for the superintendent. A technology plan review was presented which included information about the current EdTech Levy and a proposal for a replacement levy from 2025-2028.

@@ -1,5 +1,17 @@
 # Meeting Summaries for BELLINGHAM_PUBLIC_SCHOOLS in 2018
 
+## 2018-12-05 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The school board meeting minutes detail discussions and reports from the WSSDA conference.  Several board members highlighted sessions related to diversity and inclusion, with Ms. Diaz Hackler expressing disappointment in the lack of diversity and inclusion options available at the conference.  Ms. Bashaw attended a Native American curriculum breakout session. Mr. Benjamin shared information about a teacher focusing on strengths-based growth and expressed interest in incorporating more student voice into school practices. Ms. Mason noted interesting conversations on equity during the legislative assembly. The board also discussed the monitoring response document for a policy, though the specific content of the policy is not mentioned.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-05-minutes.txt)
+
+## 2018-12-04 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
+
+The Bellingham School District Board of Directors visited Kulshan Middle School on December 4, 2018. During the visit, school staff and students presented information about various programs offered at the school, including STEM and technology courses, the Launch program (which focuses on project-based learning), and the WEB (Where Everyone Belongs) mentorship program designed to foster a sense of belonging among students. The meeting aimed to provide the school board with insights into the school's initiatives and how they support student well-being and academic growth.  The visit also served as an opportunity for community engagement, allowing parents and staff to interact with school board members.
+
+[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2018/2018-12-04-minutes.txt)
+
 ## 2018-11-15 - BELLINGHAM_PUBLIC_SCHOOLS (Minutes)
 
 The Bellingham School District Board of Directors held a special meeting on November 15, 2018, at Spencer’s for Steak and Chops in Spokane, Washington.  The meeting began at 6:30 p.m. and concluded at 8:30 p.m. Attendees included board members Kelly Bashaw, Douglas Benjamin, Camille Diaz Hackler, and Jenn Mason, along with Superintendent Greg Baker. The purpose of the meeting was to engage in general discussion regarding school district initiatives and business topics. These discussions encompassed policy governance, state/district budget considerations, and legislative issues. No formal decisions were made during this informational session.

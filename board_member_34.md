@@ -1,6 +1,6 @@
-# Positions Supported by Kat Stupka (HOCKINSON_SCHOOL_DISTRICT, Term: 2023-2027)
+# Positions Supported by Jacqueline Weatherspoon (EVERGREEN_PUBLIC_SCHOOLS, Term: 2022-2025)
 
 | Board Member | School Board | Term |
 |--------------|--------------|------|
-| Kat Stupka | HOCKINSON_SCHOOL_DISTRICT | 2023-2027 |
+| Jacqueline Weatherspoon | EVERGREEN_PUBLIC_SCHOOLS | 2022-2025 |
 
