@@ -12,18 +12,6 @@ The Prosser School Board is a local governing body established by the Washington
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/prosser_school_district/2024/processed/2024-12-02-minutes.txt)
 
-## 2024-12-02 - EVERGREEN_PUBLIC_SCHOOLS (Minutes)
-
-The Evergreen Public Schools Board of Directors emphasizes community engagement by welcoming public participation during meetings, allowing community members to address the Board on agenda items and other concerns. Public testimony protocols are in place to ensure respectful communication, with speakers allotted three minutes to present their views. The Board is also focused on mental health, with resources available for behavioral health and suicide prevention. Additionally, the district is committed to bullying prevention and supports special education services, ensuring that all students receive the necessary resources and accommodations. The Board's commitment to equity is reflected in its policies and initiatives, aimed at fostering an inclusive environment for all students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/evergreen_public_schools/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - CASTLE_ROCK_SCHOOL_DISTRICT (Minutes)
-
-The text outlines an upcoming School Board Meeting for the Castle Rock School District scheduled for December 18, 2024, from 6:00 PM to 7:30 PM. Key topics for discussion include the district's commitment to addressing harassment, intimidation, and bullying (HIB), which is part of the broader bullying prevention strategy. The district emphasizes its adherence to safety and security protocols as part of its operational policies. Additionally, the text highlights the importance of community engagement and transparency in school governance, suggesting that the board is open to parental feedback on these critical issues. The focus on bullying prevention reflects ongoing efforts to create a safe educational environment for all students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/cowlitz/school_boards/castle_rock_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - EASTMONT_SCHOOL_DISTRICT (Minutes)
 
 The text provides an overview of the Eastmont School Board, detailing the members and their respective districts, along with their election dates and terms. Key members include Lauren Miehe, Whitney Smith, Jason Heinz, Jacob Burkhart, and Meaghan Vibbert. The document emphasizes the importance of various policies, including the Harassment, Intimidation, and Bullying (HIB) policy, which aims to prevent and address incidents of bullying within the school district. Additionally, it mentions the district's commitment to non-discrimination and outlines the boundaries for director districts, which are crucial for ensuring fair representation within the board. The structure and responsibilities of the school board are highlighted, reflecting a focus on governance and ethical conduct within the educational framework.

@@ -6,12 +6,6 @@ The school board meeting held on August 27, 2024, included discussions on severa
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-08-minutes.txt)
 
-## 2024-12-02 - EVERGREEN_PUBLIC_SCHOOLS (Minutes)
-
-The Evergreen Public Schools Board of Directors emphasizes community engagement by welcoming public participation during meetings, allowing community members to address the Board on agenda items and other concerns. Public testimony protocols are in place to ensure respectful communication, with speakers allotted three minutes to present their views. The Board is also focused on mental health, with resources available for behavioral health and suicide prevention. Additionally, the district is committed to bullying prevention and supports special education services, ensuring that all students receive the necessary resources and accommodations. The Board's commitment to equity is reflected in its policies and initiatives, aimed at fostering an inclusive environment for all students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/evergreen_public_schools/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - KALAMA_SCHOOL_DISTRICT (Minutes)
 
 The text includes a reference to mental health crisis support, emphasizing the availability of resources for individuals in need. Specifically, it mentions that those experiencing a mental health crisis can call 988 for support, and for text-based assistance, they can text the word HEAL to 741741. This indicates an awareness of the importance of mental health resources within the Kalama School District community. The contact information for the district is also provided, reinforcing the district's commitment to being accessible to its community members.

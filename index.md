@@ -21,7 +21,6 @@
 ### CLARK County
 - [BATTLE_GROUND_SCHOOL_DISTRICT](school_board_14.md)
 - [CAMAS_SCHOOL_DISTRICT](school_board_15.md)
-- [EVERGREEN_PUBLIC_SCHOOLS](school_board_16.md)
 - [HOCKINSON_SCHOOL_DISTRICT](school_board_17.md)
 - [WASHOUGAL_SCHOOL_DISTRICT](school_board_18.md)
 
@@ -29,7 +28,6 @@
 - [DAYTON_SCHOOL_DISTRICT](school_board_19.md)
 
 ### COWLITZ County
-- [CASTLE_ROCK_SCHOOL_DISTRICT](school_board_20.md)
 - [KALAMA_SCHOOL_DISTRICT](school_board_21.md)
 - [TOUTLE_LAKE_SCHOOL_DISTRICT](school_board_22.md)
 
