@@ -66,18 +66,6 @@ The Richland School Board consists of elected members who serve four-year terms 
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/richland_school_district/2024/processed/2024-12-02-minutes.txt)
 
-## 2024-12-02 - CASCADE_SCHOOL_DISTRICT (Minutes)
-
-The Cascade School District's webpage outlines various policies and initiatives aimed at ensuring student safety and well-being. Notably, there is a focus on bullying prevention, with resources and information provided to address harassment, intimidation, and bullying within the school environment. The district emphasizes compliance with federal and state regulations, particularly concerning non-discrimination based on various factors, including race, religion, and disability. Additionally, the webpage mentions the importance of mental health resources and support systems for students, indicating a commitment to fostering a safe and inclusive educational environment. The district's Title IX Coordinator and Civil Rights Coordinator are named for inquiries regarding compliance and grievance procedures, highlighting an organized approach to addressing potential issues related to safety and discrimination.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/chelan/school_boards/cascade_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - ENTIAT_SCHOOL_DISTRICT (Minutes)
-
-The text outlines various resources and programs provided by the Entiat School District, including information on special services, food services, and community engagement initiatives. It emphasizes the importance of attendance and includes links to the PTO/Booster Club and alumni information. The district's mission is to equip students with the necessary knowledge and skills to become responsible citizens. Additionally, the document includes a comprehensive list of staff members and their roles, as well as guidelines for transportation and emergency procedures. There is a focus on ensuring a safe and supportive environment for all students, which aligns with broader educational policies regarding student health and well-being.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/chelan/school_boards/entiat_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - PORT_ANGELES_SCHOOL_DISTRICT (Minutes)
 
 The Port Angeles School District Board of Directors includes various members with specific roles and contact information. The board is involved in several initiatives, including the 2024 Bond & EP&O Levy, which likely pertains to funding for educational programs. The district emphasizes community engagement through events and volunteer opportunities, reflecting a commitment to involving families and local stakeholders in educational processes. Additionally, the district provides special education support services, including programs for highly capable students and accommodations under Section 504 of the Rehabilitation Act of 1973. The board's commitment to these areas may influence future policies and community relations.
@@ -10600,12 +10588,6 @@ The school board meeting focused on several key topics.  Firstly, they reviewed 
 The Bellingham School District Board of Directors held a special meeting on November 18, 2020, via Zoom.  The meeting began at 12:01 p.m. and concluded at 12:03 p.m.  Two resolutions were unanimously approved as consent items. Resolution 29-20 certified excess property taxes for 2021. Resolution 30-20 enacted an emergency suspension of a specific, unnamed policy. The text does not specify which policy was suspended or the reason for the emergency suspension.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/bellingham_public_schools/2020/processed/2020-11-18-minutes.txt)
-
-## 2020-11-10 - CHELAN_SCHOOL_DISTRICT (Minutes)
-
-The Lake Chelan School District's Board of Directors functions as a policy-making body responsible for planning, policy advocacy, and evaluation. The Board's mission includes adopting district policies, planning and assessing both short-term and long-term goals, and acting as a liaison between the community and the district. Key responsibilities also involve selecting and evaluating the Superintendent and approving a budget that aligns with district priorities. The Board is composed of five elected members serving four-year terms, with a President and Vice-President elected annually. The Board emphasizes community engagement in its mission to provide an educational environment that maximizes academic potential and prepares students for future endeavors. The strategic plan aims to foster partnerships with parents and the community, reinforcing the importance of inclusive educational practices.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/chelan/school_boards/chelan_school_district/2020/processed/2020-11-10-02bodresponse-minutes.txt)
 
 ## 2020-11-04 - MERIDIAN_SCHOOL_DISTRICT (Minutes)
 

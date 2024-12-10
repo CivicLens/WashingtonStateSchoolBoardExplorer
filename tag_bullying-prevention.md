@@ -12,12 +12,6 @@ The Prosser School Board is a local governing body established by the Washington
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/prosser_school_district/2024/processed/2024-12-02-minutes.txt)
 
-## 2024-12-02 - CASCADE_SCHOOL_DISTRICT (Minutes)
-
-The Cascade School District's webpage outlines various policies and initiatives aimed at ensuring student safety and well-being. Notably, there is a focus on bullying prevention, with resources and information provided to address harassment, intimidation, and bullying within the school environment. The district emphasizes compliance with federal and state regulations, particularly concerning non-discrimination based on various factors, including race, religion, and disability. Additionally, the webpage mentions the importance of mental health resources and support systems for students, indicating a commitment to fostering a safe and inclusive educational environment. The district's Title IX Coordinator and Civil Rights Coordinator are named for inquiries regarding compliance and grievance procedures, highlighting an organized approach to addressing potential issues related to safety and discrimination.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/chelan/school_boards/cascade_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - EVERGREEN_PUBLIC_SCHOOLS (Minutes)
 
 The Evergreen Public Schools Board of Directors emphasizes community engagement by welcoming public participation during meetings, allowing community members to address the Board on agenda items and other concerns. Public testimony protocols are in place to ensure respectful communication, with speakers allotted three minutes to present their views. The Board is also focused on mental health, with resources available for behavioral health and suicide prevention. Additionally, the district is committed to bullying prevention and supports special education services, ensuring that all students receive the necessary resources and accommodations. The Board's commitment to equity is reflected in its policies and initiatives, aimed at fostering an inclusive environment for all students.

@@ -12,12 +12,6 @@ The Bremerton School District Board of Directors held a special meeting at Naval
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/processed/2024-12-04-minutes.txt)
 
-## 2024-12-02 - CASCADE_SCHOOL_DISTRICT (Minutes)
-
-The Cascade School District's webpage outlines various policies and initiatives aimed at ensuring student safety and well-being. Notably, there is a focus on bullying prevention, with resources and information provided to address harassment, intimidation, and bullying within the school environment. The district emphasizes compliance with federal and state regulations, particularly concerning non-discrimination based on various factors, including race, religion, and disability. Additionally, the webpage mentions the importance of mental health resources and support systems for students, indicating a commitment to fostering a safe and inclusive educational environment. The district's Title IX Coordinator and Civil Rights Coordinator are named for inquiries regarding compliance and grievance procedures, highlighting an organized approach to addressing potential issues related to safety and discrimination.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/chelan/school_boards/cascade_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - HOCKINSON_SCHOOL_DISTRICT (Minutes)
 
 The Hockinson School District's School Board voted unanimously on October 28 to place a bond measure on the February 11, 2025, Special Election ballot. This proposal includes several community-prioritized projects aimed at improving school facilities and safety, such as building a second elementary school to alleviate overcrowding, making safety improvements at Hockinson Heights Elementary School (HHES), Hockinson Middle School (HMS), and Hockinson High School (HHS), and adding a Career & Technical Education Building at HHS. The plan also involves replacing the high school track and installing a multi-use synthetic field, as well as adding a covered outdoor area at HMS. 

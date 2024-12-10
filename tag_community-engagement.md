@@ -8283,12 +8283,6 @@ The school board meeting minutes detail discussions on various policies and upco
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/blaine_school_district/2020/processed/2020-11-23-minutes.txt)
 
-## 2020-11-10 - CHELAN_SCHOOL_DISTRICT (Minutes)
-
-The Lake Chelan School District's Board of Directors functions as a policy-making body responsible for planning, policy advocacy, and evaluation. The Board's mission includes adopting district policies, planning and assessing both short-term and long-term goals, and acting as a liaison between the community and the district. Key responsibilities also involve selecting and evaluating the Superintendent and approving a budget that aligns with district priorities. The Board is composed of five elected members serving four-year terms, with a President and Vice-President elected annually. The Board emphasizes community engagement in its mission to provide an educational environment that maximizes academic potential and prepares students for future endeavors. The strategic plan aims to foster partnerships with parents and the community, reinforcing the importance of inclusive educational practices.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/chelan/school_boards/chelan_school_district/2020/processed/2020-11-10-02bodresponse-minutes.txt)
-
 ## 2020-10-29 - MOUNT_BAKER_SCHOOL_DISTRICT (Minutes)
 
 The Mount Baker School Board held a work session on October 29, 2020, via Zoom to discuss the district's reopening plan amidst the COVID-19 pandemic.  The meeting focused on updates regarding student attendance, passing rates, interventions for struggling students, and remote learning experiences at both the junior high/high school and elementary levels. The discussion included strategies for addressing student engagement and communication with families during remote instruction.  Board members also reviewed Mary Sewright's goals, though specific details about those goals were not provided in the text.

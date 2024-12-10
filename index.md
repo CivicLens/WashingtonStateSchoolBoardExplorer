@@ -14,11 +14,6 @@
 - [PROSSER_SCHOOL_DISTRICT](school_board_7.md)
 - [RICHLAND_SCHOOL_DISTRICT](school_board_8.md)
 
-### CHELAN County
-- [CASCADE_SCHOOL_DISTRICT](school_board_9.md)
-- [CHELAN_SCHOOL_DISTRICT](school_board_10.md)
-- [ENTIAT_SCHOOL_DISTRICT](school_board_11.md)
-
 ### CLALLAM County
 - [PORT_ANGELES_SCHOOL_DISTRICT](school_board_12.md)
 - [SEQUIM_SCHOOL_DISTRICT](school_board_13.md)
