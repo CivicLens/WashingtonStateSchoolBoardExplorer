@@ -11,6 +11,5 @@
 | [Edrie Price](board_member_194.md) |  |
 
 ## Available Years
-- [2024](school_board_46_year_2024.md)
 
 ## Summaries by Tag

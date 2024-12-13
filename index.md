@@ -4,24 +4,9 @@
 ### ADAMS County
 - [WASHTUCNA_SCHOOL_DISTRICT](school_board_2.md)
 
-### ASOTIN County
-- [CLARKSTON_SCHOOL_DISTRICT](school_board_3.md)
-
-### BENTON County
-- [FINLEY_SCHOOL_DISTRICT](school_board_4.md)
-- [KENNEWICK_SCHOOL_DISTRICT](school_board_5.md)
-- [PATERSON_SCHOOL_DISTRICT](school_board_6.md)
-- [PROSSER_SCHOOL_DISTRICT](school_board_7.md)
-- [RICHLAND_SCHOOL_DISTRICT](school_board_8.md)
-
-### CLALLAM County
-- [PORT_ANGELES_SCHOOL_DISTRICT](school_board_12.md)
-- [SEQUIM_SCHOOL_DISTRICT](school_board_13.md)
-
 ### CLARK County
 - [BATTLE_GROUND_SCHOOL_DISTRICT](school_board_14.md)
 - [CAMAS_SCHOOL_DISTRICT](school_board_15.md)
-- [HOCKINSON_SCHOOL_DISTRICT](school_board_17.md)
 - [WASHOUGAL_SCHOOL_DISTRICT](school_board_18.md)
 
 ### COLUMBIA County
@@ -34,10 +19,6 @@
 ### DOUGLAS County
 - [EASTMONT_SCHOOL_DISTRICT](school_board_23.md)
 - [MANSFIELD_SCHOOL_DISTRICT](school_board_24.md)
-
-### FRANKLIN County
-- [NORTH_FRANKLIN_SCHOOL_DISTRICT](school_board_25.md)
-- [PASCO_SCHOOL_DISTRICT](school_board_26.md)
 
 ### GRANT County
 - [MOSES_LAKE_SCHOOL_DISTRICT](school_board_27.md)
@@ -77,7 +58,6 @@
 - [TOLEDO_SCHOOL_DISTRICT](school_board_45.md)
 
 ### MASON County
-- [GRAPEVIEW_SCHOOL_DISTRICT](school_board_46.md)
 - [HOOD_CANAL_SCHOOL_DISTRICT](school_board_47.md)
 
 ### OKANOGAN County

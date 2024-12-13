@@ -6,31 +6,11 @@ The Bremerton School District Board of Directors held a special meeting at Naval
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/processed/2024-12-04-minutes.txt)
 
-## 2024-12-02 - PATERSON_SCHOOL_DISTRICT (Minutes)
-
-The Paterson School District Board of Directors holds monthly meetings, typically on the fourth Monday, with the next scheduled meeting on October 23, 2023. The agendas for the 2023-2024 school year include discussions on the adoption of the 23-24 SY Budget and various work sessions aimed at addressing school governance and policy changes. Notably, the district emphasizes its commitment to non-discrimination in its programs and activities, designating specific employees to handle complaints regarding alleged discrimination, including Joe West, the Superintendent, as the Civil Rights Coordinator. Additionally, the district has policies in place for bullying prevention and special education support, reinforcing its focus on creating a safe and inclusive environment for all students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/paterson_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - PORT_ANGELES_SCHOOL_DISTRICT (Minutes)
-
-The Port Angeles School District Board of Directors includes various members with specific roles and contact information. The board is involved in several initiatives, including the 2024 Bond & EP&O Levy, which likely pertains to funding for educational programs. The district emphasizes community engagement through events and volunteer opportunities, reflecting a commitment to involving families and local stakeholders in educational processes. Additionally, the district provides special education support services, including programs for highly capable students and accommodations under Section 504 of the Rehabilitation Act of 1973. The board's commitment to these areas may influence future policies and community relations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clallam/school_boards/port_angeles_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - CAMAS_SCHOOL_DISTRICT (Minutes)
 
 The Camas School District's Board of Education, comprising five elected members, engages in various educational policies and community initiatives. Recent discussions include a focus on special education support, particularly in ensuring equitable access to resources for all students. The board emphasizes community engagement, encouraging feedback from parents and residents, as seen in the appointment of new members who bring diverse backgrounds and experiences to the table. For instance, Bamini Pathmanathan, a newly elected board member, has a background in nutrition and has actively participated in community service roles, advocating for high-quality education and collaboration among stakeholders. The board's commitment to policy changes reflects a response to evolving educational needs and legislative requirements, with a regular review of district progress and strategic planning for future priorities.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - HOCKINSON_SCHOOL_DISTRICT (Minutes)
-
-The Hockinson School District's School Board voted unanimously on October 28 to place a bond measure on the February 11, 2025, Special Election ballot. This proposal includes several community-prioritized projects aimed at improving school facilities and safety, such as building a second elementary school to alleviate overcrowding, making safety improvements at Hockinson Heights Elementary School (HHES), Hockinson Middle School (HMS), and Hockinson High School (HHS), and adding a Career & Technical Education Building at HHS. The plan also involves replacing the high school track and installing a multi-use synthetic field, as well as adding a covered outdoor area at HMS. 
-
-The text also highlights the role of the School Board members, their backgrounds, and their commitment to education and community engagement. For example, Teresa VanNatta, the Board Chair, emphasizes the importance of maintaining school programs and creating a supportive environment for students. Additionally, Gordon Smith discusses the significance of equity in education, advocating for decisions that benefit all students and community members. The board's commitment to special education support and community involvement is evident in their engagement with local families and organizations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/hockinson_school_district/2024/processed/2024-12-02-minutes.txt)
 
 ## 2024-12-02 - MANSFIELD_SCHOOL_DISTRICT (Minutes)
 
@@ -67,14 +47,6 @@ The Mead School District Board of Directors held a meeting on November 25, 2024,
 The Meridian School District #505 held its regular school board meeting on November 20, 2024, where several policy changes were approved. Notably, Policy & Procedure 3205 on Sex Discrimination and Sex-Based Harassment, Policy & Procedure 3206 regarding Pregnant and Parenting Students, Policy & Procedure 5011 on Sex Discrimination and Harassment of District Staff, and Policy & Procedure 5012 concerning Parent Family Marital Status and Pregnancy were all presented for second review and unanimously approved. Additionally, a Washington State Skills Center Association Interlocal Agreement was discussed and approved, indicating a collaborative approach to vocational education. The meeting also featured a report by the Director of Special Services, Aaron Jacoby, highlighting a significant increase in qualified students in special education, and a review of the Educational Technology Plan by Director of Technology, Joe O’Brien, which included updates on the current EdTech Levy and future goals.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/meridian_school_district/2024/processed/2024-11-20-nov-minutes.txt)
-
-## 2024-11-12 - CLARKSTON_SCHOOL_DISTRICT (Minutes)
-
-The Clarkston School District J250-185 held its regular board meeting on November 12, 2024, where several key agenda items were discussed, including the approval of resolutions related to taxation for educational funding. Specifically, the board adopted Resolution 24-07 and Resolution 24-08, which certify the collection of 2025 Excess Property Taxes and 2025 Capital Excess Levy Property Taxes, respectively. These resolutions are critical for ensuring the district receives necessary funds to support daily operations, especially as rising costs in utilities and insurance have been noted. 
-
-In addition to financial matters, the board recognized achievements within the district, including awards received by EOC case managers for their commitment to community collaboration. The meeting also included updates on various school activities, such as Lincoln Middle School's upcoming food drive and winter sports preparations at Clarkston High School. The board is currently reviewing the implementation of a student school board representative program, enhancing community engagement and student autonomy within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/asotin/school_boards/clarkston_school_district/2024/processed/2024-11-12-minutes.txt)
 
 ## 2024-11-12 - OAK_HARBOR_SCHOOL_DISTRICT (Minutes)
 

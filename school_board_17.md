@@ -11,10 +11,5 @@
 | [Gordon Smith](board_member_42.md) | 2023-2027 |
 
 ## Available Years
-- [2024](school_board_17_year_2024.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_17_tag_policy-changes.md)
-- [community-engagement](school_board_17_tag_community-engagement.md)
-- [special-education-support](school_board_17_tag_special-education-support.md)
-- [school-safety](school_board_17_tag_school-safety.md)

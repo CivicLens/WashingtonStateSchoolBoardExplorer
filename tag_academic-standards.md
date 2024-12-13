@@ -6,14 +6,6 @@ The Bremerton School District Board of Directors held a special meeting at Naval
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/kitsap/school_boards/bremerton_school_district/2024/processed/2024-12-04-minutes.txt)
 
-## 2024-11-12 - CLARKSTON_SCHOOL_DISTRICT (Minutes)
-
-The Clarkston School District J250-185 held its regular board meeting on November 12, 2024, where several key agenda items were discussed, including the approval of resolutions related to taxation for educational funding. Specifically, the board adopted Resolution 24-07 and Resolution 24-08, which certify the collection of 2025 Excess Property Taxes and 2025 Capital Excess Levy Property Taxes, respectively. These resolutions are critical for ensuring the district receives necessary funds to support daily operations, especially as rising costs in utilities and insurance have been noted. 
-
-In addition to financial matters, the board recognized achievements within the district, including awards received by EOC case managers for their commitment to community collaboration. The meeting also included updates on various school activities, such as Lincoln Middle School's upcoming food drive and winter sports preparations at Clarkston High School. The board is currently reviewing the implementation of a student school board representative program, enhancing community engagement and student autonomy within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/asotin/school_boards/clarkston_school_district/2024/processed/2024-11-12-minutes.txt)
-
 ## 2024-11-12 - EDMONDS_SCHOOL_DISTRICT (Minutes)
 
 The School Board held a special meeting on November 12, 2024, focused on a Spring Data Review concerning student academic performance from spring 2024. The meeting, led by Director Katims, included presentations on various metrics such as Kindergarten readiness, SBA scores, and graduation rates. Board members participated in small group discussions to analyze the data before debriefing as a larger group. This session emphasized the importance of data in evaluating academic standards and engaged board members in community-focused discussions about student performance. The meeting concluded with an adjournment at 5:56 PM.

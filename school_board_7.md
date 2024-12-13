@@ -11,10 +11,5 @@
 | [Frank Vermulm](board_member_17.md) | 2021-2027 |
 
 ## Available Years
-- [2024](school_board_7_year_2024.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_7_tag_policy-changes.md)
-- [community-engagement](school_board_7_tag_community-engagement.md)
-- [bullying-prevention](school_board_7_tag_bullying-prevention.md)
-- [school-board-ethics](school_board_7_tag_school-board-ethics.md)

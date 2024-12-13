@@ -36,36 +36,6 @@ The school board meeting held on March 26, 2024, included discussions on various
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-03-minutes.txt)
 
-## 2024-12-02 - CLARKSTON_SCHOOL_DISTRICT (Minutes)
-
-The Clarkston School District Board of Directors is currently seeking applicants for a vacancy in Director District No. 3. The board emphasizes community engagement through initiatives like the Clarkston Chat, which allows the public to submit questions or comments for consideration. Additionally, the board has established operating principles aimed at enhancing teamwork between board members and the superintendent. The district encourages transparency and participation from the community, as evidenced by the availability of board meeting agendas, minutes, and feedback summaries related to the 2023 bond. The district's policies and procedures are also accessible for review, fostering an environment of accountability and open communication.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/asotin/school_boards/clarkston_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - KENNEWICK_SCHOOL_DISTRICT (Minutes)
-
-The Kennewick School District's Board Members, including President Gabe Galbraith and Vice President Micah Valentine, emphasize their commitment to community engagement and educational excellence. Galbraith highlights the board's responsibility to ensure resources for over 18,000 students, while Valentine focuses on fostering a belief in the opportunities available to students. Newly elected members Brittany Gledhill and Dr. Josh Miller express their dedication to strong relationships among parents, teachers, and administrators. The board's mission includes providing a safe environment for students to reach their highest potential, with an emphasis on collaboration and transparency. The board's ethical approach is evident in their communication practices, encouraging community members to reach out with concerns via designated email addresses.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/kennewick_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - PROSSER_SCHOOL_DISTRICT (Minutes)
-
-The Prosser School Board is a local governing body established by the Washington State Legislature, consisting of five elected members representing distinct geographical areas within the Prosser School District. The board's core mission is to develop and assess policies governing the district's operations, with legal responsibilities that include adopting the annual operating budget and keeping the public informed about educational needs and progress. Community engagement is emphasized, as the board holds open meetings and encourages participation, accommodating individuals with disabilities as needed. Recent policy changes include the implementation of House Bill 1207 (2023) in the 2024-25 Student Handbook, which may address bullying prevention among other educational policies. The board's commitment to transparency and collaboration is reflected in its regular meeting schedule and the availability of meeting materials online.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/prosser_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - RICHLAND_SCHOOL_DISTRICT (Minutes)
-
-The Richland School Board consists of elected members who serve four-year terms and encourages community engagement by welcoming comments and inquiries from the public. Key policies mentioned include the Board's mission to provide effective governance through leadership and accountability, highlighting the importance of advocacy and engagement from students, families, and staff. The Board also holds regular meetings on the second and fourth Tuesdays of each month, inviting community members to participate. Specific board members and their contact information are listed, along with their positions and term expiration dates. The Board's vision emphasizes academic excellence and addressing the unique needs of all students, reflecting a commitment to inclusivity and community involvement.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/richland_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - PORT_ANGELES_SCHOOL_DISTRICT (Minutes)
-
-The Port Angeles School District Board of Directors includes various members with specific roles and contact information. The board is involved in several initiatives, including the 2024 Bond & EP&O Levy, which likely pertains to funding for educational programs. The district emphasizes community engagement through events and volunteer opportunities, reflecting a commitment to involving families and local stakeholders in educational processes. Additionally, the district provides special education support services, including programs for highly capable students and accommodations under Section 504 of the Rehabilitation Act of 1973. The board's commitment to these areas may influence future policies and community relations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clallam/school_boards/port_angeles_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 
 The Battle Ground Public Schools (BGPS) is proposing a replacement education and operations levy that voters will decide on by February 11, 2025. This proposed levy aims to fund programs and services essential for students across all BGPS schools, replacing the current levy that expires in December 2025. If approved, the new levy would begin in January 2026. The text outlines a levy calculator for property owners to estimate their local school taxes based on assessed property values, which are projected to increase by 3.5% annually. Additionally, the district is hosting public presentations to inform the community about the levy, provide childcare, and answer questions, emphasizing community engagement in the decision-making process. The document also includes FAQs regarding the levy, such as its purpose, funding implications, and potential tax relief for seniors and disabled homeowners.
@@ -78,25 +48,11 @@ The Camas School District's Board of Education, comprising five elected members,
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/camas_school_district/2024/processed/2024-12-02-minutes.txt)
 
-## 2024-12-02 - HOCKINSON_SCHOOL_DISTRICT (Minutes)
-
-The Hockinson School District's School Board voted unanimously on October 28 to place a bond measure on the February 11, 2025, Special Election ballot. This proposal includes several community-prioritized projects aimed at improving school facilities and safety, such as building a second elementary school to alleviate overcrowding, making safety improvements at Hockinson Heights Elementary School (HHES), Hockinson Middle School (HMS), and Hockinson High School (HHS), and adding a Career & Technical Education Building at HHS. The plan also involves replacing the high school track and installing a multi-use synthetic field, as well as adding a covered outdoor area at HMS. 
-
-The text also highlights the role of the School Board members, their backgrounds, and their commitment to education and community engagement. For example, Teresa VanNatta, the Board Chair, emphasizes the importance of maintaining school programs and creating a supportive environment for students. Additionally, Gordon Smith discusses the significance of equity in education, advocating for decisions that benefit all students and community members. The board's commitment to special education support and community involvement is evident in their engagement with local families and organizations.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/clark/school_boards/hockinson_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - MANSFIELD_SCHOOL_DISTRICT (Minutes)
 
 The Mansfield School District's Board of Directors has outlined several key policies and operational guidelines within its 1000 Series related to the governance and functioning of the school board. Notably, the policies include provisions for the electoral system, board member orientation, and procedures for handling vacancies and resignations. The board has also emphasized the importance of community engagement and the role of special education support, indicating a commitment to fostering an inclusive educational environment. Specific policies such as the "Key Functions of the Board" and "Annual Organizational Meeting" delineate the responsibilities and procedural framework for board members, ensuring transparency and accountability in governance. Additionally, the district's approach to policy adoption and suspension reflects a structured method for addressing changes in educational needs and community input.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/douglas/school_boards/mansfield_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - PASCO_SCHOOL_DISTRICT (Minutes)
-
-The Pasco School District's Board of Directors includes a structured approach to community engagement through the inclusion of student representatives. Each year, three students from grades 11 or 12 are selected to serve as Student Board Representatives, providing a direct liaison between the student body and the Board. This initiative emphasizes student autonomy and engagement, allowing representatives to convey student opinions and report back on board activities. The qualifications for selection include maintaining proper academic standing and personal behavior standards, ensuring that the representatives reflect the values and interests of their peers. The application process opens annually in June, demonstrating the district's commitment to fostering student involvement in governance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/franklin/school_boards/pasco_school_district/2024/processed/2024-12-02-minutes.txt)
 
 ## 2024-12-02 - FERNDALE_SCHOOL_DISTRICT (Minutes)
 
@@ -217,14 +173,6 @@ The Regular Board Meeting held on November 13, 2024, included a motion to amend 
 The Wapato School District Board of Directors held a regular meeting on November 13, 2024, where they approved several key items, including the 2024-25 Camas Elementary School Improvement Plan and the PACE Construction Project Design Team Contract. The Board engaged in discussions about the impact of potential mass deportations on at-risk students and families within the community, highlighting their commitment to community engagement during challenging times. Superintendent Kelly Garza reported on recent activities, including Veterans Day recognition and the conclusion of fall sports, while also announcing the upcoming Focus on Education Day scheduled for December 5. The Board reviewed and moved forward with a first reading of the revised Policy 5011 regarding Sexual Harassment of District Staff, which will be considered for action in the next meeting. Additionally, discussions were held regarding policy updates, including essential and discretionary policies, in preparation for the upcoming legislative session in January.
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/yakima/school_boards/wapato_school_district/2024/processed/2024-11-13-novregularmeeting-minutes.txt)
-
-## 2024-11-12 - CLARKSTON_SCHOOL_DISTRICT (Minutes)
-
-The Clarkston School District J250-185 held its regular board meeting on November 12, 2024, where several key agenda items were discussed, including the approval of resolutions related to taxation for educational funding. Specifically, the board adopted Resolution 24-07 and Resolution 24-08, which certify the collection of 2025 Excess Property Taxes and 2025 Capital Excess Levy Property Taxes, respectively. These resolutions are critical for ensuring the district receives necessary funds to support daily operations, especially as rising costs in utilities and insurance have been noted. 
-
-In addition to financial matters, the board recognized achievements within the district, including awards received by EOC case managers for their commitment to community collaboration. The meeting also included updates on various school activities, such as Lincoln Middle School's upcoming food drive and winter sports preparations at Clarkston High School. The board is currently reviewing the implementation of a student school board representative program, enhancing community engagement and student autonomy within the district.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/asotin/school_boards/clarkston_school_district/2024/processed/2024-11-12-minutes.txt)
 
 ## 2024-11-12 - BATTLE_GROUND_SCHOOL_DISTRICT (Minutes)
 

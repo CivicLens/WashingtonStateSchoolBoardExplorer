@@ -6,12 +6,6 @@ The special meeting of the school board on May 28, 2024, focused on interviewing
 
 [View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/whatcom/school_boards/ferndale_school_district/2024/processed/2024-12-05-minutes.txt)
 
-## 2024-12-02 - PASCO_SCHOOL_DISTRICT (Minutes)
-
-The Pasco School District's Board of Directors includes a structured approach to community engagement through the inclusion of student representatives. Each year, three students from grades 11 or 12 are selected to serve as Student Board Representatives, providing a direct liaison between the student body and the Board. This initiative emphasizes student autonomy and engagement, allowing representatives to convey student opinions and report back on board activities. The qualifications for selection include maintaining proper academic standing and personal behavior standards, ensuring that the representatives reflect the values and interests of their peers. The application process opens annually in June, demonstrating the district's commitment to fostering student involvement in governance.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/franklin/school_boards/pasco_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-11-18 - LAKE_WASHINGTON_SCHOOL_DISTRICT (Minutes)
 
 The Lake Washington Board of Directors held a study session on November 18, 2024, where key topics included conference attendance reporting and a significant update on the high school schedule. Deputy Superintendent Scott Beebe presented details regarding a transition from a 7-period to a 6-period high school day, set to take effect in the 2025-26 school year. The discussion emphasized the implications of this policy change on student schedules, policy adjustments, and the potential for increased student opportunities and agency in their education. President Leah Choi also led a conversation regarding how board members and student representatives should report on their participation and learning experiences from conferences, highlighting the board's focus on enhancing student involvement and feedback in educational processes.

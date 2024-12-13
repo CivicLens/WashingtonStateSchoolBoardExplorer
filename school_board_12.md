@@ -11,9 +11,5 @@
 | [Kirsten Williams](board_member_27.md) | 12/27 |
 
 ## Available Years
-- [2024](school_board_12_year_2024.md)
 
 ## Summaries by Tag
-- [policy-changes](school_board_12_tag_policy-changes.md)
-- [community-engagement](school_board_12_tag_community-engagement.md)
-- [special-education-support](school_board_12_tag_special-education-support.md)

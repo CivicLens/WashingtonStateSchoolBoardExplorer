@@ -1,23 +1,5 @@
 # Meeting Summaries for Tag: school-board-ethics
 
-## 2024-12-02 - KENNEWICK_SCHOOL_DISTRICT (Minutes)
-
-The Kennewick School District's Board Members, including President Gabe Galbraith and Vice President Micah Valentine, emphasize their commitment to community engagement and educational excellence. Galbraith highlights the board's responsibility to ensure resources for over 18,000 students, while Valentine focuses on fostering a belief in the opportunities available to students. Newly elected members Brittany Gledhill and Dr. Josh Miller express their dedication to strong relationships among parents, teachers, and administrators. The board's mission includes providing a safe environment for students to reach their highest potential, with an emphasis on collaboration and transparency. The board's ethical approach is evident in their communication practices, encouraging community members to reach out with concerns via designated email addresses.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/kennewick_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - PATERSON_SCHOOL_DISTRICT (Minutes)
-
-The Paterson School District Board of Directors holds monthly meetings, typically on the fourth Monday, with the next scheduled meeting on October 23, 2023. The agendas for the 2023-2024 school year include discussions on the adoption of the 23-24 SY Budget and various work sessions aimed at addressing school governance and policy changes. Notably, the district emphasizes its commitment to non-discrimination in its programs and activities, designating specific employees to handle complaints regarding alleged discrimination, including Joe West, the Superintendent, as the Civil Rights Coordinator. Additionally, the district has policies in place for bullying prevention and special education support, reinforcing its focus on creating a safe and inclusive environment for all students.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/paterson_school_district/2024/processed/2024-12-02-minutes.txt)
-
-## 2024-12-02 - PROSSER_SCHOOL_DISTRICT (Minutes)
-
-The Prosser School Board is a local governing body established by the Washington State Legislature, consisting of five elected members representing distinct geographical areas within the Prosser School District. The board's core mission is to develop and assess policies governing the district's operations, with legal responsibilities that include adopting the annual operating budget and keeping the public informed about educational needs and progress. Community engagement is emphasized, as the board holds open meetings and encourages participation, accommodating individuals with disabilities as needed. Recent policy changes include the implementation of House Bill 1207 (2023) in the 2024-25 Student Handbook, which may address bullying prevention among other educational policies. The board's commitment to transparency and collaboration is reflected in its regular meeting schedule and the availability of meeting materials online.
-
-[View Full Text](https://raw.githubusercontent.com/VoronoiPerspectives/WashingtonStateSchoolBoardExplorer/refs/heads/main/data/countries/usa/states/wa/counties/benton/school_boards/prosser_school_district/2024/processed/2024-12-02-minutes.txt)
-
 ## 2024-12-02 - EASTMONT_SCHOOL_DISTRICT (Minutes)
 
 The text provides an overview of the Eastmont School Board, detailing the members and their respective districts, along with their election dates and terms. Key members include Lauren Miehe, Whitney Smith, Jason Heinz, Jacob Burkhart, and Meaghan Vibbert. The document emphasizes the importance of various policies, including the Harassment, Intimidation, and Bullying (HIB) policy, which aims to prevent and address incidents of bullying within the school district. Additionally, it mentions the district's commitment to non-discrimination and outlines the boundaries for director districts, which are crucial for ensuring fair representation within the board. The structure and responsibilities of the school board are highlighted, reflecting a focus on governance and ethical conduct within the educational framework.
